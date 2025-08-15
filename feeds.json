@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "name": "CISA Alerts",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/alerts.xml",
+      "category": "Blue Team"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "category": "General"
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "category": "General"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "category": "General"
+    },
+    {
+      "name": "Microsoft Security Blog",
+      "url": "https://www.microsoft.com/en-us/security/blog/feed/",
+      "category": "Blue Team"
+    },
+    {
+      "name": "Google Project Zero",
+      "url": "https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss",
+      "category": "Research"
+    },
+    {
+      "name": "NIST NVD Recent CVEs",
+      "url": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml",
+      "category": "Vulnerabilities"
+    },
+    {
+      "name": "Cisco Talos Blog",
+      "url": "https://blog.talosintelligence.com/feeds/posts/default?alt=rss",
+      "category": "Threat Intel"
+    },
+    {
+      "name": "Mandiant Blog",
+      "url": "https://www.mandiant.com/resources/blog/rss.xml",
+      "category": "Threat Intel"
+    },
+    {
+      "name": "Elastic Security",
+      "url": "https://www.elastic.co/security-labs/feed.xml",
+      "category": "Research"
+    }
+  ]
+}
