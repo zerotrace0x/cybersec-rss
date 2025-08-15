@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cybersecurity RSS — Aggregated Feed</title>
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<header>
+  <h1>Cybersecurity RSS</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="sources.html">Sources</a>
+    <a href="data/posts.json">JSON</a>
+  </nav>
+</header>
+
+<main>
+  <input id="search" placeholder="Search titles & summaries..." />
+  <div id="stats"></div>
+  <ul id="feed">
+  {% for item in items %}
+    <li class="post">
+      <a class="title" href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a>
+      <div class="meta">
+        <span class="source">{{ item.source }}</span>
+        <span>•</span>
+        <span class="when">{{ item.published or "recent" }}</span>
+        <span>•</span>
+        <span class="cat">{{ item.source_category }}</span>
+      </div>
+      <p class="summary">{{ item.summary }}</p>
+    </li>
+  {% endfor %}
+  </ul>
+</main>
+
+<footer>
+  <p>Built free with GitHub Pages + Actions. Source on GitHub.</p>
+</footer>
+
+<script>
+const searchInput = document.getElementById('search');
+const list = document.getElementById('feed');
+const stats = document.getElementById('stats');
+
+function filterList(q) {
+  q = q.toLowerCase().trim();
+  let shown = 0;
+  for (const li of list.children) {
+    const text = li.innerText.toLowerCase();
+    const match = !q || text.includes(q);
+    li.style.display = match ? '' : 'none';
+    if (match) shown++;
+  }
+  stats.textContent = shown + " posts shown";
+}
+
+searchInput.addEventListener('input', (e) => filterList(e.target.value));
+filterList("");
+</script>
+</body>
+</html>

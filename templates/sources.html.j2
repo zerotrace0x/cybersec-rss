@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cybersecurity RSS — Sources</title>
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<header>
+  <h1>Cybersecurity RSS — Sources</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="sources.html">Sources</a>
+  </nav>
+</header>
+
+<main>
+  <ul class="sources">
+  {% for src in feeds %}
+    <li>
+      <strong>{{ src.name }}</strong>
+      <div class="sub">{{ src.category }} • {{ src.url }}</div>
+      <ul class="per-source">
+        {% for item in per_source[src.name] %}
+        <li><a href="{{ item.link }}" target="_blank" rel="noopener">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+  </ul>
+</main>
+
+<footer>
+  <p>Want another source? Edit <code>feeds.json</code> and the site will update on the next run.</p>
+</footer>
+</body>
+</html>
