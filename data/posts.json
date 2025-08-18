@@ -1,6 +1,46 @@
 {
-  "generated_at": 1755510375,
+  "generated_at": 1755524918,
   "items": [
+    {
+      "id": "914f64bd9798a696ff9b3b81cd596cd23bdd73a2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors & More",
+      "link": "https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html",
+      "summary": "Power doesn\u2019t just disappear in one big breach. It slips away in the small stuff\u2014a patch that\u2019s missed, a setting that\u2019s wrong, a system no one is watching. Security usually doesn\u2019t fail all at once; it breaks slowly, then suddenly. Staying safe isn\u2019t about knowing everything\u2014it\u2019s about acting fast and clear before problems pile up. Clarity keeps control. Hesitation creates risk. Here are this",
+      "published": "2025-08-18 12:47:00",
+      "timestamp": 1755521220
+    },
+    {
+      "id": "94dba89bd52c034fbb5324eb36ec6b33a93fb32d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Recent Windows updates may fail to install via WUSA",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/",
+      "summary": "Microsoft has mitigated a known issue that caused Windows update failures when installing them from a network share using the Windows Update Standalone Installer (WUSA). [...]",
+      "published": "2025-08-18 11:07:07",
+      "timestamp": 1755515227
+    },
+    {
+      "id": "08171ef656f47efe8b6e6429168bb44fe7783bc5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks",
+      "link": "https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html",
+      "summary": "Cybersecurity researchers have discovered a malicious package in the Python Package Index (PyPI) repository that introduces malicious behavior through a dependency that allows it to establish persistence and achieve code execution. The package, named termncolor, realizes its nefarious functionality through a dependency package called colorinal by means of a multi-stage malware operation, Zscaler",
+      "published": "2025-08-18 10:56:00",
+      "timestamp": 1755514560
+    },
+    {
+      "id": "87411797b5d715b3ce54b72319e72da0a6064292",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Wazuh for Regulatory Compliance",
+      "link": "https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html",
+      "summary": "Organizations handling various forms of sensitive data or personally identifiable information (PII) require adherence to regulatory compliance standards and frameworks. These compliance standards also apply to organizations operating in regulated sectors such as healthcare, finance, government contracting, or education. Some of these standards and frameworks include, but are not limited to:",
+      "published": "2025-08-18 10:15:00",
+      "timestamp": 1755512100
+    },
     {
       "id": "f4c8c24522ecc3a18e271617de2b07fd0decc536",
       "source": "BleepingComputer",
@@ -150,26 +190,6 @@
       "summary": "UK-based telecommunications company Colt Technology Services is dealing with a cyberattack that has caused a multi-day outage of some of the company's operations, including hosting and porting services, Colt Online and Voice API platforms. [...]",
       "published": "2025-08-15 15:25:34",
       "timestamp": 1755271534
-    },
-    {
-      "id": "5b7395c994c726a7a7656f4d2317d4b20b473450",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco warns of max severity flaw in Firewall Management Center",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/",
-      "summary": "Cisco is warning about a critical remote code execution (RCE) vulnerability in the RADIUS subsystem of its Secure Firewall Management Center (FMC) software. [...]",
-      "published": "2025-08-15 13:57:45",
-      "timestamp": 1755266265
-    },
-    {
-      "id": "14c4e9d5815f255542ad97673d56bf09150ea90a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft reminds of Windows 10 support ending in two months",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/",
-      "summary": "Microsoft has reminded customers that Windows 10 will be retired in two months after all editions of Windows 10, version 22H2 reach their end of servicing on October 14. [...]",
-      "published": "2025-08-15 13:09:18",
-      "timestamp": 1755263358
     },
     {
       "id": "0fa7fc420c61e138aa74beaa10232a054dd67015",
@@ -710,36 +730,6 @@
       "summary": "Cybersecurity researchers have disclosed multiple security flaws in video surveillance products from Axis Communications that, if successfully exploited, could expose them to takeover attacks. \"The attack results in pre-authentication remote code execution on Axis Device Manager, a server used to configure and manage fleets of cameras, and the Axis Camera Station, client software used to view",
       "published": "2025-08-07 10:40:00",
       "timestamp": 1754563200
-    },
-    {
-      "id": "29cba27f03abdadfa713cfe9ae7ef8023f81f981",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SonicWall Confirms Patched Vulnerability Behind Recent VPN Attacks, Not a Zero-Day",
-      "link": "https://thehackernews.com/2025/08/sonicwall-confirms-patched.html",
-      "summary": "SonicWall has revealed that the recent spike in activity targeting its Gen 7 and newer firewalls with SSL VPN enabled is related to an older, now-patched bug and password reuse. \"We now have high confidence that the recent SSL VPN activity is not connected to a zero-day vulnerability,\" the company said. \"Instead, there is a significant correlation with threat activity related to CVE-2024-40766.\"",
-      "published": "2025-08-07 10:32:00",
-      "timestamp": 1754562720
-    },
-    {
-      "id": "0cc7c3d5b91167879cf98b3be32f7c9626e78629",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft",
-      "link": "https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html",
-      "summary": "Cybersecurity researchers have demonstrated an \"end-to-end privilege escalation chain\" in Amazon Elastic Container Service (ECS) that could be exploited by an attacker to conduct lateral movement, access sensitive data, and seize control of the cloud environment. The attack technique has been codenamed ECScape by Sweet Security researcher Naor Haziz, who presented the findings today at the",
-      "published": "2025-08-06 20:30:00",
-      "timestamp": 1754512200
-    },
-    {
-      "id": "e65a8f954bcd27b303bb8f13b50c0c52105de789",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams",
-      "link": "https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html",
-      "summary": "The malicious ad tech purveyor known as VexTrio Viper has been observed developing several malicious apps that have been published on Apple and Google's official app storefronts under the guise of seemingly useful applications. These apps masquerade as VPNs, device \"monitoring\" apps, RAM cleaners, dating services, and spam blockers, DNS threat intelligence firm Infoblox said in an exhaustive",
-      "published": "2025-08-06 20:00:00",
-      "timestamp": 1754510400
     },
     {
       "id": "fef885be8c1e9bb634ca3f0aa0f0f28e58e46d89",
