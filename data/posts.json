@@ -1,6 +1,46 @@
 {
-  "generated_at": 1755596214,
+  "generated_at": 1755610653,
   "items": [
+    {
+      "id": "6171eb463c7fd865a2e8151189068561ecc48ea8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution",
+      "link": "https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html",
+      "summary": "A new exploit combining two critical, now-patched security flaws in SAP NetWeaver has emerged in the wild, putting organizations at risk of system compromise and data theft. The exploit in question chains together CVE-2025-31324 and CVE-2025-42999 to bypass authentication and achieve remote code execution, SAP security company Onapsis said. CVE-2025-31324 (CVSS score: 10.0) - Missing",
+      "published": "2025-08-19 13:00:00",
+      "timestamp": 1755608400
+    },
+    {
+      "id": "a4bbc0270e38904082191c9a6228fd7a549e8816",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "NY Business Council discloses data breach affecting 47,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/",
+      "summary": "The Business Council of New York State (BCNYS) has revealed that attackers who breached its network in February stole the personal, financial, and health information of over 47,000 individuals. [...]",
+      "published": "2025-08-19 12:04:08",
+      "timestamp": 1755605048
+    },
+    {
+      "id": "1b4d29ae40d5c06db2cd116e9705383d3eb29408",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback",
+      "link": "https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html",
+      "summary": "The U.K. government has apparently abandoned its plans to force Apple to weaken encryption protections and include a backdoor that would have enabled access to the protected data of U.S. citizens. U.S. Director of National Intelligence (DNI) Tulsi Gabbard, in a statement posted on X, said the U.S. government had been working with its partners with the U.K. over the past few months to ensure that",
+      "published": "2025-08-19 11:24:00",
+      "timestamp": 1755602640
+    },
+    {
+      "id": "b01f46961c675b34eedfeb5cb518e82aea959c19",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Why Your Security Culture is Critical to Mitigating Cyber Risk",
+      "link": "https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html",
+      "summary": "After two decades of developing increasingly mature security architectures, organizations are running up against a hard truth: tools and technologies alone are not enough to mitigate cyber risk. As tech stacks have grown more sophisticated and capable, attackers have shifted their focus. They are no longer focusing on infrastructure vulnerabilities alone. Instead, they are increasingly",
+      "published": "2025-08-19 11:15:00",
+      "timestamp": 1755602100
+    },
     {
       "id": "f80c2d4df0331b240e0c1e2af0ec289bd94df7dd",
       "source": "BleepingComputer",
@@ -190,16 +230,6 @@
       "summary": "The U.S. Department of Justice (DoJ) announced the seizure of over $2,800,000 in cryptocurrency from alleged ransomware operator Ianis Aleksandrovich Antropenko. [...]",
       "published": "2025-08-17 14:36:48",
       "timestamp": 1755441408
-    },
-    {
-      "id": "b1113cf4b87bd3ee1cbd3271eb7be2af1a9b1ab6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic: Claude can now end conversations to prevent harmful uses",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/",
-      "summary": "OpenAI rival Anthropic says Claude has been updated with a rare new feature that allows the AI model to end conversations when it feels it poses harm or is being abused. [...]",
-      "published": "2025-08-17 14:24:30",
-      "timestamp": 1755440670
     },
     {
       "id": "7a996825fd9e0eb19acb4d032c6bb466b56cf429",
@@ -700,36 +730,6 @@
       "summary": "A newly discovered campaign dubbed GreedyBear has leveraged over 150 malicious extensions to the Firefox marketplace that are designed to impersonate popular cryptocurrency wallets and steal more than $1 million in digital assets. The published browser add-ons masquerade as MetaMask, TronLink, Exodus, and Rabby Wallet, among others, Koi Security researcher Tuval Admoni said. What makes the",
       "published": "2025-08-08 07:16:00",
       "timestamp": 1754637360
-    },
-    {
-      "id": "3515e4587e4772a6b54111f615eaae566f8c69b8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SocGholish Malware Spread via Ad Tools; Delivers Access to LockBit, Evil Corp, and Others",
-      "link": "https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html",
-      "summary": "The threat actors behind the SocGholish malware have been observed leveraging Traffic Distribution Systems (TDSs) like Parrot TDS and Keitaro TDS to filter and redirect unsuspecting users to sketchy content. \"The core of their operation is a sophisticated Malware-as-a-Service (MaaS) model, where infected systems are sold as initial access points to other cybercriminal organizations,\" Silent Push",
-      "published": "2025-08-07 18:26:00",
-      "timestamp": 1754591160
-    },
-    {
-      "id": "cb8d8cd63b87c9bbb844d3e0f10b9d628e16b6f9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: How to Stop Python Supply Chain Attacks\u2014and the Expert Tools You Need",
-      "link": "https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html",
-      "summary": "Python is everywhere in modern software. From machine learning models to production microservices, chances are your code\u2014and your business\u2014depends on Python packages you didn\u2019t write. But in 2025, that trust comes with a serious risk. Every few weeks, we\u2019re seeing fresh headlines about malicious packages uploaded to the Python Package Index (PyPI)\u2014many going undetected until after they\u2019ve caused",
-      "published": "2025-08-07 15:33:00",
-      "timestamp": 1754580780
-    },
-    {
-      "id": "7e3eed270413f2349cfabddcc16212b755092f37",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes",
-      "link": "https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html",
-      "summary": "Cybersecurity researchers have discovered a set of 11 malicious Go packages that are designed to download additional payloads from remote servers and execute them on both Windows and Linux systems. \"At runtime the code silently spawns a shell, pulls a second-stage payload from an interchangeable set of .icu and .tech command-and-control (C2) endpoints, and executes it in memory,\" Socket security",
-      "published": "2025-08-07 13:19:00",
-      "timestamp": 1754572740
     },
     {
       "id": "17475be70a97fa91c8ca11398823880add3c2870",
