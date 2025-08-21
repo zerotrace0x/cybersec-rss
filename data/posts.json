@@ -1,6 +1,16 @@
 {
-  "generated_at": 1755746255,
+  "generated_at": 1755759631,
   "items": [
+    {
+      "id": "b62b81aba3b3c4bc19928a163559096532c0f46e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html",
+      "summary": "Apple has released security updates to address a security flaw impacting iOS, iPadOS, and macOS that it said has come under active exploitation in the wild. The zero-day out-of-bounds write vulnerability, tracked as CVE-2025-43300, resides in the ImageIO framework that could result in memory corruption when processing a malicious image. \"Apple is aware of a report that this issue may have been",
+      "published": "2025-08-21 04:47:00",
+      "timestamp": 1755751620
+    },
     {
       "id": "6e3a8006a40444d7dbfd23e214dd966b9431e9ab",
       "source": "Krebs on Security",
@@ -780,16 +790,6 @@
       "summary": "The maintainers of the WinRAR file archiving utility have released an update to address an actively exploited zero-day vulnerability. Tracked as CVE-2025-8088 (CVSS score: 8.8), the issue has been described as a case of path traversal affecting the Windows version of the tool that could be exploited to obtain arbitrary code execution by crafting malicious archive files. \"When extracting a file,",
       "published": "2025-08-11 05:54:00",
       "timestamp": 1754891640
-    },
-    {
-      "id": "8dfef9185b2141847c7794e8b46869c9d17a870d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP",
-      "link": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html",
-      "summary": "A novel attack technique could be weaponized to rope thousands of public domain controllers (DCs) around the world to create a malicious botnet and use it to conduct powerful distributed denial-of-service (DDoS) attacks. The approach has been codenamed Win-DDoS by SafeBreach researchers Or Yair and Shahak Morag, who presented their findings at the DEF CON 33 security conference today. \"As we",
-      "published": "2025-08-10 19:30:00",
-      "timestamp": 1754854200
     },
     {
       "id": "692c15a52aeeca29ae1f4439446b2f7e4ebcbfe0",
