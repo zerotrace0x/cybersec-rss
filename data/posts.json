@@ -1,6 +1,36 @@
 {
-  "generated_at": 1755725460,
+  "generated_at": 1755746255,
   "items": [
+    {
+      "id": "6e3a8006a40444d7dbfd23e214dd966b9431e9ab",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
+      "link": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
+      "summary": "A 21-year-old Florida man at the center of a prolific cybercrime group known as \"Scattered Spider\" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims. Noah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of wire fraud and conspiracy. Florida prosecutors alleged Urban conspired with others to steal at least $800,000 from five victims via SIM-swapping attacks that diverted their mobile phone calls and text m",
+      "published": "2025-08-21 01:47:22",
+      "timestamp": 1755740842
+    },
+    {
+      "id": "d8adcef66e34dcf863f4b4d5b33266d2ebad15a8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI says GPT-6 is coming and it'll be better than GPT-5 (obviously)",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/",
+      "summary": "OpenAI's CEO Sam Altman told reporters that GPT-6 is already in the works, and it'll not take as long as GPT-5. [...]",
+      "published": "2025-08-20 23:56:15",
+      "timestamp": 1755734175
+    },
+    {
+      "id": "d4f76a0595bb78549001440f4abf827780d153e7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AI website builder Lovable increasingly abused for malicious activity",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-website-builder-lovable-increasingly-abused-for-malicious-activity/",
+      "summary": "Cybercriminals are increasingly abusing the AI-powered Lovable website creation and hosting platform to generate phishing pages, malware-dropping portals, and various fraudulent websites. [...]",
+      "published": "2025-08-20 22:11:05",
+      "timestamp": 1755727865
+    },
     {
       "id": "112c0704432aa4bc2fe81cd1be181ee3f934e2e2",
       "source": "BleepingComputer",
@@ -50,6 +80,16 @@
       "summary": "A study looking into agentic AI browsers has found that these emerging tools are vulnerable to both new and old schemes that could make them interact with malicious pages and prompts. [...]",
       "published": "2025-08-20 16:31:13",
       "timestamp": 1755707473
+    },
+    {
+      "id": "1888936088a23fd5b11a29bdb049c4633b053456",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Quantum-safe security: Progress towards next-generation cryptography",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/20/quantum-safe-security-progress-towards-next-generation-cryptography/",
+      "summary": "Microsoft is proactively leading the transition to quantum-safe security by advancing post-quantum cryptography, collaborating with global standards bodies, and helping organizations prepare for the coming quantum era. The post Quantum-safe security: Progress towards next-generation cryptography appeared first on Microsoft Security Blog.",
+      "published": "2025-08-20 16:00:00",
+      "timestamp": 1755705600
     },
     {
       "id": "240c7e63e639fa148050f535c42029c220f177a3",
@@ -202,16 +242,6 @@
       "timestamp": 1755634103
     },
     {
-      "id": "3baa209f6da8c77305cb54a10ec59798a6a3995f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Okta open-sources catalog of Auth0 rules for threat detection",
-      "link": "https://www.bleepingcomputer.com/news/security/okta-open-sources-catalog-of-auth0-rules-for-threat-detection/",
-      "summary": "Okta has open-sourced ready-made Sigma-based queries for Auth0 customers to detect account takeovers, misconfigurations, and suspicious behavior in event logs. [...]",
-      "published": "2025-08-19 18:17:50",
-      "timestamp": 1755627470
-    },
-    {
       "id": "8159c9d82097f3d1bf549c5ede4ad123f511702b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,6 +330,16 @@
       "summary": "Cybersecurity researchers have lifted the lid on the threat actors' exploitation of a now-patched security flaw in Microsoft Windows to deploy the PipeMagic malware in RansomExx ransomware attacks. The attacks involve the exploitation of CVE-2025-29824, a privilege escalation vulnerability impacting the Windows Common Log File System (CLFS) that was addressed by Microsoft in April 2025,",
       "published": "2025-08-18 16:03:00",
       "timestamp": 1755532980
+    },
+    {
+      "id": "70e3f05d1d1817b97a3cd14e569eea7b62e76de4",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Dissecting PipeMagic: Inside the architecture of a modular backdoor framework",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/18/dissecting-pipemagic-inside-the-architecture-of-a-modular-backdoor-framework/",
+      "summary": "A comprehensive technical deep dive on PipeMagic, a highly modular backdoor used by Storm-2460 masquerading as a legitimate open-source ChatGPT Desktop Application. Beneath its disguise, PipeMagic is a sophisticated malware framework designed for flexibility and persistence. Once deployed, it can dynamically execute payloads while maintaining robust command and control (C2) communication via a dedicated networking module. The post Dissecting PipeMagic: Inside the architecture of a modular backdo",
+      "published": "2025-08-18 15:00:00",
+      "timestamp": 1755529200
     },
     {
       "id": "914f64bd9798a696ff9b3b81cd596cd23bdd73a2",
@@ -492,6 +532,16 @@
       "timestamp": 1755144120
     },
     {
+      "id": "2df850f6a313f8fa7abf95d1e8a32627253686cb",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Connect with the security community at Microsoft Ignite 2025",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/13/connect-with-the-security-community-at-microsoft-ignite-2025/",
+      "summary": "Join us at Microsoft Ignite 2025 for a week of immersive learning, hands-on experiences, and strategic insights tailored for security leaders, practitioners, and innovators. The post Connect with the security community at Microsoft Ignite 2025 appeared first on Microsoft Security Blog.",
+      "published": "2025-08-13 16:00:00",
+      "timestamp": 1755100800
+    },
+    {
       "id": "383c291eafef098f09c4634c754f535d73ccd2b6",
       "source": "The Hacker News",
       "source_category": "General",
@@ -620,6 +670,16 @@
       "summary": "An ongoing data extortion campaign targeting Salesforce customers may soon turn its attention to financial services and technology service providers, as ShinyHunters and Scattered Spider appear to be working hand in hand, new findings show. \"This latest wave of ShinyHunters-attributed attacks reveals a dramatic shift in tactics, moving beyond the group's previous credential theft and database",
       "published": "2025-08-12 16:20:00",
       "timestamp": 1755015600
+    },
+    {
+      "id": "417c2281595019d2a801297935871c0cec7937f3",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Dow\u2019s 125-year legacy: Innovating with AI to secure a long future",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/12/dows-125-year-legacy-innovating-with-ai-to-secure-a-long-future/",
+      "summary": "Microsoft recently spoke with Mario Ferket, Chief Information Security Officer for Dow, about the company\u2019s approach to AI in security. The post Dow\u2019s 125-year legacy: Innovating with AI to secure a long future appeared first on Microsoft Security Blog.",
+      "published": "2025-08-12 16:00:00",
+      "timestamp": 1755014400
     },
     {
       "id": "f2a9b64fb64012d1a69ad419c00b262a22ef19c6",
@@ -752,6 +812,16 @@
       "timestamp": 1754649780
     },
     {
+      "id": "a6c6b590f8f57e72e340a12394af8512061313d1",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Announcing public preview: Phishing triage agent in Microsoft Defender",
+      "link": "https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-public-preview-phishing-triage-agent-in-microsoft-defender/4438301",
+      "summary": "The Phishing Triage Agent in Microsoft Defender is now available in Public Preview. It tackles one of the most repetitive tasks in the SOC: handling reports of user-submitted phish. The post Announcing public preview: Phishing triage agent in Microsoft Defender appeared first on Microsoft Security Blog.",
+      "published": "2025-08-07 16:00:00",
+      "timestamp": 1754582400
+    },
+    {
       "id": "17475be70a97fa91c8ca11398823880add3c2870",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -770,6 +840,16 @@
       "summary": "CISA released ten Industrial Control Systems (ICS) advisories on August 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-219-01 Delta Electronics DIAView ICSA-25-219-02 Johnson Controls FX80 and FX90 ICSA-25-219-03 Burk Technology ARC Solo ICSA-25-219-04 Rockwell Automation Arena ICSA-25-219-05 Packet Power EMX and EG ICSA-25-219-06 Dreame Technology iOS and Android Mobile Applications ICSA-25-219-07 EG4 El",
       "published": "2025-08-07 12:00:00",
       "timestamp": 1754568000
+    },
+    {
+      "id": "32215910a50d211f5be48626ae897ac18e80899e",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Sharing practical guidance: Launching Microsoft Secure Future Initiative (SFI) patterns and practices",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/06/sharing-practical-guidance-launching-microsoft-secure-future-initiative-sfi-patterns-and-practices/",
+      "summary": "We\u2019re excited to launch SFI patterns and practices: a new library of actionable guidance designed to help organizations implement security measures at scale. This launch marks a next step in our journey to make our SFI learnings practical for our customers, partners, and broader security ecosystem. These patterns are not just theory\u2014they\u2019re based on what we\u2019ve done internally to protect Microsoft\u2019s infrastructure, and we are now sharing them to help you do the same. The post Sharing practical gu",
+      "published": "2025-08-06 16:00:00",
+      "timestamp": 1754496000
     },
     {
       "id": "fef885be8c1e9bb634ca3f0aa0f0f28e58e46d89",
@@ -802,6 +882,16 @@
       "timestamp": 1754481600
     },
     {
+      "id": "d9266b60462b326cda09c8b58817cca4fa270350",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Elevate your protection with expanded Microsoft Defender Experts coverage",
+      "link": "https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/elevate-your-protection-with-expanded-microsoft-defender-experts-coverage/4439134",
+      "summary": "Defender Experts now offers 24/7, expert-driven protection for cloud workloads, beginning with hybrid and multicloud servers in Microsoft Defender for Cloud. Additionally, third-party network signals can be used in Microsoft Defender Experts for XDR to enhance incidents for faster and more accurate detection and response. The post Elevate your protection with expanded Microsoft Defender Experts coverage appeared first on Microsoft Security Blog.",
+      "published": "2025-08-05 16:00:00",
+      "timestamp": 1754409600
+    },
+    {
       "id": "ea3e66581413918621a6b3f37084436350d7e24e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -820,6 +910,36 @@
       "summary": "CISA released two Industrial Control Systems (ICS) advisories on August 5, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-217-01 Mitsubishi Electric Iconics Digital Solutions Multiple Products ICSA-25-217-02 Tigo Energy Cloud Connect Advanced CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
       "published": "2025-08-05 12:00:00",
       "timestamp": 1754395200
+    },
+    {
+      "id": "5d1c6e001e65afe3267882a79ccbaf6cf880ced5",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft Entra Suite delivers 131% ROI by unifying identity and network access",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/04/microsoft-entra-suite-delivers-131-roi-by-unifying-identity-and-network-access/",
+      "summary": "According to a new Forrester Total Economic Impact\u2122 study, organizations using the Microsoft Entra Suite achieved a 131% ROI, $14.4 million in benefits, and payback in less than six months. The post Microsoft Entra Suite delivers 131% ROI by unifying identity and network access appeared first on Microsoft Security Blog.",
+      "published": "2025-08-04 15:00:00",
+      "timestamp": 1754319600
+    },
+    {
+      "id": "412c5d68f8906d23cc89bdbda103f587aeb97aec",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Modernize your identity defense with Microsoft Identity Threat Detection and Response",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/07/31/modernize-your-identity-defense-with-microsoft-identity-threat-detection-and-response/",
+      "summary": "Microsoft's Identity Threat Detection and Response solution integrates identity and security operations to provide proactive, real-time protection against sophisticated identity-based cyberthreats. The post Modernize your identity defense with Microsoft Identity Threat Detection and Response appeared first on Microsoft Security Blog.",
+      "published": "2025-07-31 17:00:00",
+      "timestamp": 1753981200
+    },
+    {
+      "id": "17a4a5cf4953cc46f5533a4963e196b9555eb187",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Frozen in transit: Secret Blizzard\u2019s AiTM campaign against diplomats",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/07/31/frozen-in-transit-secret-blizzards-aitm-campaign-against-diplomats/",
+      "summary": "Microsoft Threat Intelligence has uncovered a cyberespionage campaign by the Russian state actor we track as Secret Blizzard that has been ongoing since at least 2024, targeting embassies in Moscow using an adversary-in-the-middle (AiTM) position to deploy their custom ApolloShadow malware. The post Frozen in transit: Secret Blizzard\u2019s AiTM campaign against diplomats appeared first on Microsoft Security Blog.",
+      "published": "2025-07-31 16:00:00",
+      "timestamp": 1753977600
     },
     {
       "id": "78ad7fce746266c95c56d84fb83bc9c20670ebc7",
@@ -1070,16 +1190,6 @@
       "summary": "Written by: Josh Goddard, Zander Work, Dimiter Andonov UPDATE (July 30): Added additional network IOC identified by Sonicwall as being associated with OVERSTEP. Introduction Google Threat Intelligence Group (GTIG) has identified an ongoing campaign by a suspected financially-motivated threat actor we track as UNC6148, targeting fully patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliances. GTIG assesses with high confidence that UNC6148 is leveraging credentials and one-ti",
       "published": "2025-07-16 14:00:00",
       "timestamp": 1752674400
-    },
-    {
-      "id": "58f0623aeff297fa3bec61b3985cb08869108b48",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "DOGE Denizen Marko Elez Leaked API Key for xAI",
-      "link": "https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/",
-      "summary": "Marko Elez, a 25-year-old employee at Elon Musk's Department of Government Efficiency (DOGE), has been granted access to sensitive databases at the U.S. Social Security Administration, the Treasury and Justice departments, and the Department of Homeland Security. So it should fill all Americans with a deep sense of confidence to learn that Mr. Elez over the weekend inadvertently published a private key that allowed anyone to interact directly with more than four dozen large language models (LLMs",
-      "published": "2025-07-15 01:23:43",
-      "timestamp": 1752542623
     },
     {
       "id": "d6934a8b288be42e91bdcb69b47d87dd7ae79099",
