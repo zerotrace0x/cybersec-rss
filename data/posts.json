@@ -1,11 +1,51 @@
 {
-  "generated_at": 1755790699,
+  "generated_at": 1755802154,
   "items": [
+    {
+      "id": "b226ef7f1d13dfadd9f0da9bc493650799a68d42",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
+      "link": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
+      "summary": "Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances. The list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows - CVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user",
+      "published": "2025-08-21 16:38:00",
+      "timestamp": 1755794280
+    },
+    {
+      "id": "eec8d2268e032808a2771df7f365bab86ca0ecb7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Europol confirms $50,000 Qilin ransomware reward is fake",
+      "link": "https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/",
+      "summary": "Europol has confirmed that a Telegram channel impersonating the agency and offering a $50,000 reward for information on two Qilin ransomware administrators is fake. The impostor later admitted it was created to troll researchers and journalists. [...]",
+      "published": "2025-08-21 16:25:25",
+      "timestamp": 1755793525
+    },
+    {
+      "id": "42ab6a6e6735e055cb80fbdf3c390d3152bfeb74",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages",
+      "link": "https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html",
+      "summary": "Threat actors have been observed leveraging the deceptive social engineering tactic known as ClickFix to deploy a versatile backdoor codenamed CORNFLAKE.V3. Google-owned Mandiant described the activity, which it tracks as UNC5518, as part of an access-as-a-service scheme that employs fake CAPTCHA pages as lures to trick users into providing initial access to their systems, which is then",
+      "published": "2025-08-21 16:25:00",
+      "timestamp": 1755793500
+    },
+    {
+      "id": "32e247d2f75878c7093ecec4b4c0e2efd732c25d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Think before you Click(Fix): Analyzing the ClickFix social engineering technique",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/",
+      "summary": "The ClickFix social engineering technique has been growing in popularity, with campaigns targeting thousands of enterprise and end-user devices daily. This technique exploits users\u2019 tendency to resolve technical issues by tricking them into running malicious commands. These commands, in turn, deliver payloads that ultimately lead to information theft and exfiltration. The post Think before you Click(Fix): Analyzing the ClickFix social engineering technique appeared first on Microsoft Security Bl",
+      "published": "2025-08-21 16:00:00",
+      "timestamp": 1755792000
+    },
     {
       "id": "260f4766f702fca7bee111a7942ba760890908ad",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Microsoft asks customers for feedback on SSD failure issues",
+      "title": "Microsoft asks customers for feedback on reported SSD failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-customers-for-feedback-on-ssd-failure-issues/",
       "summary": "\u200bMicrosoft is seeking further information from customers who reported failure and data corruption issues affecting their solid-state drives (SSDs) and hard disk drives (HDDs) after installing the August 2025 security update. [...]",
       "published": "2025-08-21 14:48:35",
@@ -30,6 +70,26 @@
       "summary": "The Federal Bureau of Investigation (FBI) has warned that hackers linked to Russia's Federal Security Service (FSB) are targeting critical infrastructure organizations in attacks exploiting a 7-year-old vulnerability in Cisco devices. [...]",
       "published": "2025-08-21 12:04:08",
       "timestamp": 1755777848
+    },
+    {
+      "id": "121df5ae25aba824278a310fc410a9827ad756b5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
+      "published": "2025-08-21 12:00:00",
+      "timestamp": 1755777600
+    },
+    {
+      "id": "d893db57cc32ae94c8bc15873c7e828f0b7713b4",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Three Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-releases-three-industrial-control-systems-advisories",
+      "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 21, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-233-01 Mitsubishi Electric Corporation MELSEC iQ-F Series CPU Module ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update A) ICSMA-25-233-01 FUJIFILM Healthcare Americas Synapse Mobility CISA encourages users and administrators to review newly released ICS advisories for",
+      "published": "2025-08-21 12:00:00",
+      "timestamp": 1755777600
     },
     {
       "id": "fc2d6e26c77885af4519aed0e6e76c2625ddf118",
@@ -210,16 +270,6 @@
       "summary": "Six major password managers with tens of millions of users are currently vulnerable to unpatched clickjacking flaws that could allow attackers to steal account credentials, 2FA codes, and credit card details. [...]",
       "published": "2025-08-20 14:49:53",
       "timestamp": 1755701393
-    },
-    {
-      "id": "4cbb1faf08f8d8df3a2ca7db386ffab2ec84f27d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft investigates outage impacting Copilot, Office.com",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/",
-      "summary": "Microsoft is investigating an ongoing issue preventing users across North America from accessing Office.com and the company's Copilot AI-powered assistant. [...]",
-      "published": "2025-08-20 14:17:25",
-      "timestamp": 1755699445
     },
     {
       "id": "4e1f870e060c29ee2611664c46ff443ff651e502",
@@ -772,26 +822,6 @@
       "timestamp": 1754987760
     },
     {
-      "id": "b717e5870ae97a3061c1fcb1daab089353792152",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New TETRA Radio Encryption Flaws Expose Law Enforcement Communications",
-      "link": "https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html",
-      "summary": "Cybersecurity researchers have discovered a fresh set of security issues in the Terrestrial Trunked Radio (TETRA) communications protocol, including in its proprietary end-to-end encryption (E2EE) mechanism that exposes the system to replay and brute-force attacks, and even decrypt encrypted traffic. Details of the vulnerabilities \u2013 dubbed 2TETRA:2BURST \u2013 were presented at the Black Hat USA",
-      "published": "2025-08-11 16:32:00",
-      "timestamp": 1754929920
-    },
-    {
-      "id": "d89f45aaa1f0be05f0008bf2f91cdef6ac8b1655",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls",
-      "link": "https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html",
-      "summary": "Malicious actors have been observed exploiting a now-patched critical security flaw impacting Erlang/Open Telecom Platform (OTP) SSH as early as beginning of May 2025, with about 70% of detections originating from firewalls protecting operational technology (OT) networks. The vulnerability in question is CVE-2025-32433 (CVSS score: 10.0), a missing authentication issue that could be abused by an",
-      "published": "2025-08-11 15:08:00",
-      "timestamp": 1754924880
-    },
-    {
       "id": "692c15a52aeeca29ae1f4439446b2f7e4ebcbfe0",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -932,16 +962,6 @@
       "timestamp": 1753981200
     },
     {
-      "id": "17a4a5cf4953cc46f5533a4963e196b9555eb187",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Frozen in transit: Secret Blizzard\u2019s AiTM campaign against diplomats",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/07/31/frozen-in-transit-secret-blizzards-aitm-campaign-against-diplomats/",
-      "summary": "Microsoft Threat Intelligence has uncovered a cyberespionage campaign by the Russian state actor we track as Secret Blizzard that has been ongoing since at least 2024, targeting embassies in Moscow using an adversary-in-the-middle (AiTM) position to deploy their custom ApolloShadow malware. The post Frozen in transit: Secret Blizzard\u2019s AiTM campaign against diplomats appeared first on Microsoft Security Blog.",
-      "published": "2025-07-31 16:00:00",
-      "timestamp": 1753977600
-    },
-    {
       "id": "78ad7fce746266c95c56d84fb83bc9c20670ebc7",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1002,6 +1022,16 @@
       "timestamp": 1753800840
     },
     {
+      "id": "93cffe5d4fb1be88335e6c38a868750ea36164df",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Part One of Zero Trust Microsegmentation Guidance",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-part-one-zero-trust-microsegmentation-guidance",
+      "summary": "CISA released Microsegmentation in Zero Trust, Part One: Introduction and Planning as part of its ongoing efforts to support Federal Civilian Executive Branch (FCEB) agencies implementing zero trust architectures (ZTAs). This guidance provides a high-level overview of microsegmentation, focusing on its key concepts, associated challenges and potential benefits, and includes recommended actions to modernize network security and advance zero trust principles. Microsegmentation is a critical compon",
+      "published": "2025-07-29 12:00:00",
+      "timestamp": 1753790400
+    },
+    {
       "id": "7f23780e561b60654639481a5b302bc8a07277a2",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1018,16 +1048,6 @@
       "title": "CISA Releases Five Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-five-industrial-control-systems-advisories",
       "summary": "CISA released five Industrial Control Systems (ICS) advisories on July 29, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-210-01 National Instruments LabVIEW ICSA-25-210-02 Samsung HVAC DMS ICSA-25-210-03 Delta Electronics DTN Soft ICSA-24-158-04 Johnson Controls Software House iStar Pro Door Controller (Update A) ICSA-24-338-06 Fuji Electric Tellus Lite V-Simulator (Update A) CISA encourages users and admin",
-      "published": "2025-07-29 12:00:00",
-      "timestamp": 1753790400
-    },
-    {
-      "id": "93cffe5d4fb1be88335e6c38a868750ea36164df",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Part One of Zero Trust Microsegmentation Guidance",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-part-one-zero-trust-microsegmentation-guidance",
-      "summary": "CISA released Microsegmentation in Zero Trust, Part One: Introduction and Planning as part of its ongoing efforts to support Federal Civilian Executive Branch (FCEB) agencies implementing zero trust architectures (ZTAs). This guidance provides a high-level overview of microsegmentation, focusing on its key concepts, associated challenges and potential benefits, and includes recommended actions to modernize network security and advance zero trust principles. Microsegmentation is a critical compon",
       "published": "2025-07-29 12:00:00",
       "timestamp": 1753790400
     },
@@ -1082,22 +1102,22 @@
       "timestamp": 1753279200
     },
     {
-      "id": "ce291fd7ad6df98ccc710bbd94f1c033d9e24932",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Joint Advisory Issued on Protecting Against Interlock Ransomware",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/22/joint-advisory-issued-protecting-against-interlock-ransomware",
-      "summary": "CISA, in partnership with the Federal Bureau of Investigation (FBI), the Department of Health and Human Services, and the Multi-State Information Sharing and Analysis Center issued a joint Cybersecurity Advisory to help protect businesses and critical infrastructure organizations in North America and Europe against Interlock ransomware. This advisory highlights known Interlock ransomware indicators of compromise and tactics, techniques, and procedures identified through recent FBI investigations",
-      "published": "2025-07-22 12:00:00",
-      "timestamp": 1753185600
-    },
-    {
       "id": "d791ee68f5471046dafd2c8691618d89b0e29f9f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54309 CrushFTP Unprotected Alternate Channel Vulnerability CVE-2025-6558 Google Chromium ANGLE and GPU Improper Input Validation Vulnerability CVE-2025-2776 SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability CVE-2025-2775 SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability These types of vul",
+      "published": "2025-07-22 12:00:00",
+      "timestamp": 1753185600
+    },
+    {
+      "id": "ce291fd7ad6df98ccc710bbd94f1c033d9e24932",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Joint Advisory Issued on Protecting Against Interlock Ransomware",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/07/22/joint-advisory-issued-protecting-against-interlock-ransomware",
+      "summary": "CISA, in partnership with the Federal Bureau of Investigation (FBI), the Department of Health and Human Services, and the Multi-State Information Sharing and Analysis Center issued a joint Cybersecurity Advisory to help protect businesses and critical infrastructure organizations in North America and Europe against Interlock ransomware. This advisory highlights known Interlock ransomware indicators of compromise and tactics, techniques, and procedures identified through recent FBI investigations",
       "published": "2025-07-22 12:00:00",
       "timestamp": 1753185600
     },
@@ -1152,16 +1172,6 @@
       "timestamp": 1753012800
     },
     {
-      "id": "b68d9c1eafe84a6eac7feab966feb411d1f3aa6b",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-25257 Fortinet FortiWeb SQL Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Comm",
-      "published": "2025-07-18 12:00:00",
-      "timestamp": 1752840000
-    },
-    {
       "id": "71ca5c18ecd0abecf8cd4f422f145867d6bea4a9",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1170,16 +1180,6 @@
       "summary": "Security researchers recently revealed that the personal information of millions of people who applied for jobs at McDonald's was exposed after they guessed the password (\"123456\") for the fast food chain's account at Paradox.ai, a company that makes artificial intelligence based hiring chatbots used by many Fortune 500 companies. Paradox.ai said the security oversight was an isolated incident that did not affect its other customers, but recent security breaches involving its employees in Vietna",
       "published": "2025-07-18 01:23:20",
       "timestamp": 1752801800
-    },
-    {
-      "id": "7cfdfa66bf7caa91372d00bdc4719d8c25f96b4c",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Three Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/17/cisa-releases-three-industrial-control-systems-advisories",
-      "summary": "CISA released three Industrial Control Systems (ICS) advisories on July 17, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-198-01 Leviton AcquiSuite and Energy Monitoring Hub ICSMA-25-198-01 Panoramic Corporation Digital Imaging Software ICSA-24-191-05 Johnson Controls Inc. Software House C\u25cfCURE 9000 (Update B) CISA encourages users and administrators to review newly released ICS advisories for technical det",
-      "published": "2025-07-17 12:00:00",
-      "timestamp": 1752753600
     },
     {
       "id": "e8565df873b79b7c9ab323b62857193e54ad3a26",
