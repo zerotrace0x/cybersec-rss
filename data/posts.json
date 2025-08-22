@@ -1,6 +1,26 @@
 {
-  "generated_at": 1755876725,
+  "generated_at": 1755888576,
   "items": [
+    {
+      "id": "27a811318be0bd3da5622f1482153e3012243c48",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "APT36 hackers abuse Linux .desktop files to install malware",
+      "link": "https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/",
+      "summary": "The Pakistani APT36 cyberspies are using Linux .desktop files to load malware in new attacks against government and defense entities in India. [...]",
+      "published": "2025-08-22 18:35:11",
+      "timestamp": 1755887711
+    },
+    {
+      "id": "a5dfe55f0abec19b490418a769c67c85e5930568",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake Mac fixes trick users into installing new Shamos infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/",
+      "summary": "A new infostealer malware targeting Mac devices, called 'Shamos,' is targeting Mac devices in ClickFix attacks that impersonate troubleshooting guides and fixes. [...]",
+      "published": "2025-08-22 15:44:10",
+      "timestamp": 1755877450
+    },
     {
       "id": "48229499a247bcb2a279f306f5f218e026845f87",
       "source": "The Hacker News",
@@ -20,6 +40,16 @@
       "summary": "Microsoft has confirmed that the August 2025 security updates are causing severe lag and stuttering issues with NDI streaming software on some Windows 10 and Windows 11 systems. [...]",
       "published": "2025-08-22 12:25:39",
       "timestamp": 1755865539
+    },
+    {
+      "id": "572b0d61429a23b81e239866a3b3c72546a42356",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Requests Public Comment for Updated Guidance on Software Bill of Materials",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/22/cisa-requests-public-comment-updated-guidance-software-bill-materials",
+      "summary": "CISA released updated guidance for the Minimum Elements for a Software Bill of Materials (SBOM) for public comment\u2014comment period begins today and concludes on October 3, 2025. These updates build on the 2021 version of the National Telecommunications and Information Administration SBOM Minimum Elements to reflect advancements in tooling and implementation. An SBOM serves as a vital inventory of software components, enabling organizations to identify vulnerabilities, manage dependencies, and mit",
+      "published": "2025-08-22 12:00:00",
+      "timestamp": 1755864000
     },
     {
       "id": "6a040d1056092c1ef813f86ab614186571e88f4b",
@@ -177,7 +207,7 @@
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
       "published": "2025-08-21 12:00:00",
       "timestamp": 1755777600
     },
@@ -222,16 +252,6 @@
       "timestamp": 1755765260
     },
     {
-      "id": "8ba6c7677460c43d060340401c98991d93f2b99d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Orange Belgium discloses data breach impacting 850,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/",
-      "summary": "Orange Belgium, a subsidiary of telecommunications giant Orange Group, disclosed on Wednesday that attackers who breached its systems in July have stolen the data of approximately 850,000 customers. [...]",
-      "published": "2025-08-21 07:07:11",
-      "timestamp": 1755760031
-    },
-    {
       "id": "2ab324f6f06bdcc83e68470209b5a362e3660fd5",
       "source": "The Hacker News",
       "source_category": "General",
@@ -247,7 +267,7 @@
       "source_category": "General",
       "title": "Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html",
-      "summary": "Apple has released security updates to address a security flaw impacting iOS, iPadOS, and macOS that it said has come under active exploitation in the wild. The zero-day out-of-bounds write vulnerability, tracked as CVE-2025-43300, resides in the ImageIO framework that could result in memory corruption when processing a malicious image. \"Apple is aware of a report that this issue may have been",
+      "summary": "Apple has released security updates to address a security flaw impacting iOS, iPadOS, and macOS that it said has come under active exploitation in the wild. The zero-day out-of-bounds write vulnerability, tracked as CVE-2025-43300 (CVSS score: 8.8), resides in the ImageIO framework that could result in memory corruption when processing a malicious image. \"Apple is aware of a report that this",
       "published": "2025-08-21 04:47:00",
       "timestamp": 1755751620
     },
@@ -260,16 +280,6 @@
       "summary": "A 21-year-old Florida man at the center of a prolific cybercrime group known as \"Scattered Spider\" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims. Noah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of wire fraud and conspiracy. Florida prosecutors alleged Urban conspired with others to steal at least $800,000 from five victims via SIM-swapping attacks that diverted their mobile phone calls and text m",
       "published": "2025-08-21 01:47:22",
       "timestamp": 1755740842
-    },
-    {
-      "id": "d8adcef66e34dcf863f4b4d5b33266d2ebad15a8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI says GPT-6 is coming and it'll be better than GPT-5 (obviously)",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/",
-      "summary": "OpenAI's CEO Sam Altman told reporters that GPT-6 is already in the works, and it'll not take as long as GPT-5. [...]",
-      "published": "2025-08-20 23:56:15",
-      "timestamp": 1755734175
     },
     {
       "id": "fc5fdfa64fa985aed7eee8fc02d6dd3a508d05a0",
@@ -962,22 +972,22 @@
       "timestamp": 1753963200
     },
     {
-      "id": "3468ac1e4cf62b4cbb3b5dd154d05ae680cb6ae7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Thorium Platform Public Availability",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/31/thorium-platform-public-availability",
-      "summary": "Today, CISA, in partnership with Sandia National Laboratories, announced the public availability of Thorium, a scalable and distributed platform for automated file analysis and result aggregation. Thorium enhances cybersecurity teams' capabilities by automating analysis workflows through seamless integration of commercial, open-source, and custom tools. It supports various mission functions, including software analysis, digital forensics, and incident response, allowing analysts to efficiently a",
-      "published": "2025-07-31 12:00:00",
-      "timestamp": 1753963200
-    },
-    {
       "id": "739ff6844e20cdbac7cf00e1740f9fac790580c5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Two Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/31/cisa-releases-two-industrial-control-systems-advisories",
       "summary": "CISA released two Industrial Control Systems (ICS) advisories on July 31, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-212-01 G\u00fcralp FMUS Series Seismic Monitoring Devices ICSA-25-212-02 Rockwell Automation Lifecycle Services with VMware CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+      "published": "2025-07-31 12:00:00",
+      "timestamp": 1753963200
+    },
+    {
+      "id": "3468ac1e4cf62b4cbb3b5dd154d05ae680cb6ae7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Thorium Platform Public Availability",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/07/31/thorium-platform-public-availability",
+      "summary": "Today, CISA, in partnership with Sandia National Laboratories, announced the public availability of Thorium, a scalable and distributed platform for automated file analysis and result aggregation. Thorium enhances cybersecurity teams' capabilities by automating analysis workflows through seamless integration of commercial, open-source, and custom tools. It supports various mission functions, including software analysis, digital forensics, and incident response, allowing analysts to efficiently a",
       "published": "2025-07-31 12:00:00",
       "timestamp": 1753963200
     },
@@ -1012,22 +1022,22 @@
       "timestamp": 1753800840
     },
     {
-      "id": "93cffe5d4fb1be88335e6c38a868750ea36164df",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Part One of Zero Trust Microsegmentation Guidance",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-part-one-zero-trust-microsegmentation-guidance",
-      "summary": "CISA released Microsegmentation in Zero Trust, Part One: Introduction and Planning as part of its ongoing efforts to support Federal Civilian Executive Branch (FCEB) agencies implementing zero trust architectures (ZTAs). This guidance provides a high-level overview of microsegmentation, focusing on its key concepts, associated challenges and potential benefits, and includes recommended actions to modernize network security and advance zero trust principles. Microsegmentation is a critical compon",
-      "published": "2025-07-29 12:00:00",
-      "timestamp": 1753790400
-    },
-    {
       "id": "7f23780e561b60654639481a5b302bc8a07277a2",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA and Partners Release Updated Advisory on Scattered Spider Group",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-and-partners-release-updated-advisory-scattered-spider-group",
       "summary": "CISA, along with the Federal Bureau of Investigation, Canadian Centre for Cyber Security, Royal Canadian Mounted Police, the Australian Cyber Security Centre\u2019s Australian Signals Directorate, and the Australian Federal Police and National Cyber Security Centre, released an updated joint Cybersecurity Advisory on Scattered Spider\u2014a cybercriminal group targeting commercial facilities sectors and subsectors. This advisory provides updated tactics, techniques, and procedures (TTPs) obtained through ",
+      "published": "2025-07-29 12:00:00",
+      "timestamp": 1753790400
+    },
+    {
+      "id": "93cffe5d4fb1be88335e6c38a868750ea36164df",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Part One of Zero Trust Microsegmentation Guidance",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-part-one-zero-trust-microsegmentation-guidance",
+      "summary": "CISA released Microsegmentation in Zero Trust, Part One: Introduction and Planning as part of its ongoing efforts to support Federal Civilian Executive Branch (FCEB) agencies implementing zero trust architectures (ZTAs). This guidance provides a high-level overview of microsegmentation, focusing on its key concepts, associated challenges and potential benefits, and includes recommended actions to modernize network security and advance zero trust principles. Microsegmentation is a critical compon",
       "published": "2025-07-29 12:00:00",
       "timestamp": 1753790400
     },
@@ -1148,16 +1158,6 @@
       "title": "CISA Adds One Known Exploited Vulnerability, CVE-2025-53770 \u201cToolShell,\u201d to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/20/cisa-adds-one-known-exploited-vulnerability-cve-2025-53770-toolshell-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation. See CISA\u2019s Alert Microsoft Releases Guidance on Exploitation of SharePoint Vulnerability (CVE-2025-53770) for more information and to apply the recommended mitigations. CVE-2025-53770: Microsoft SharePoint Server Remote Code Execution Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the fede",
-      "published": "2025-07-20 12:00:00",
-      "timestamp": 1753012800
-    },
-    {
-      "id": "4c59f249a205e433f22bf2f422907e2110273b17",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "UPDATE: Microsoft Releases Guidance on Exploitation of SharePoint Vulnerabilities",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/20/update-microsoft-releases-guidance-exploitation-sharepoint-vulnerabilities",
-      "summary": "Update (08/06/2025): CISA released a Malware Analysis Report (MAR) on six files related to CVE-2025-49704, CVE-2025-49706, CVE-2025-53770, and CVE-2025-53771. For more information see MAR-251132.c1.v1 Exploitation of SharePoint Vulnerabilities and CISA Releases Malware Analysis Report Associated with Microsoft SharePoint Vulnerabilities. Update (07/31/2025): CISA has updated this alert to provide clarification on antivirus and endpoint detection and response (EDR) solutions, and details regardin",
       "published": "2025-07-20 12:00:00",
       "timestamp": 1753012800
     },
