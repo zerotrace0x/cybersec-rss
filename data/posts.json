@@ -1,13 +1,23 @@
 {
-  "generated_at": 1756041454,
+  "generated_at": 1756049525,
   "items": [
+    {
+      "id": "5347216c32fafa3e349e096f6a574876c0cfb822",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
+      "link": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
+      "summary": "Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator. \"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor,\" Socket researcher Kirill Boychenko",
+      "published": "2025-08-24 13:38:00",
+      "timestamp": 1756042680
+    },
     {
       "id": "89b79cd1b4699f9a0fc2012bbe2d9ae532592461",
       "source": "The Hacker News",
       "source_category": "General",
       "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
       "link": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
-      "summary": "Cybersecurity researchers are calling attention to multiple campaigns that leverage known security vulnerabilities and expose Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure. The first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8), a critical",
+      "summary": "Cybersecurity researchers are calling attention to multiple campaigns that are taking advantage of known security vulnerabilities and exposed Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure. The first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8),",
       "published": "2025-08-23 07:38:00",
       "timestamp": 1755934680
     },
@@ -770,16 +780,6 @@
       "summary": "Microsoft on Tuesday rolled out fixes for a massive set of 111 security flaws across its software portfolio, including one flaw that has been disclosed as publicly known at the time of the release. Of the 111 vulnerabilities, 16 are rated Critical, 92 are rated Important, two are rated Moderate, and one is rated Low in severity. Forty-four of the vulnerabilities relate to privilege",
       "published": "2025-08-13 08:47:00",
       "timestamp": 1755074820
-    },
-    {
-      "id": "74e111a358ec978624a9d949d0c0a7bd59145665",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Charon Ransomware Hits Middle East Sectors Using APT-Level Evasion Tactics",
-      "link": "https://thehackernews.com/2025/08/charon-ransomware-hits-middle-east.html",
-      "summary": "Cybersecurity researchers have discovered a new campaign that employs a previously undocumented ransomware family called Charon to target the Middle East's public sector and aviation industry. The threat actor behind the activity, according to Trend Micro, exhibited tactics mirroring those of advanced persistent threat (APT) groups, such as DLL side-loading, process injection, and the ability",
-      "published": "2025-08-13 05:45:00",
-      "timestamp": 1755063900
     },
     {
       "id": "ae1ddf47b28da2ab5cf623680ffc70a2c1eba06b",
