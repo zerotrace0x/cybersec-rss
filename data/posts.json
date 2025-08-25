@@ -1,6 +1,26 @@
 {
-  "generated_at": 1756114780,
+  "generated_at": 1756129124,
   "items": [
+    {
+      "id": "c6b90f13e77e45bdfeb5085baac5c80150af13ff",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Password Manager Flaws, Apple 0-Day, Hidden AI Prompts, In-the-Wild Exploits & More",
+      "link": "https://thehackernews.com/2025/08/weekly-recap-password-manager-flaws.html",
+      "summary": "Cybersecurity today moves at the pace of global politics. A single breach can ripple across supply chains, turn a software flaw into leverage, or shift who holds the upper hand. For leaders, this means defense isn\u2019t just a matter of firewalls and patches\u2014it\u2019s about strategy. The strongest organizations aren\u2019t the ones with the most tools, but the ones that see how cyber risks connect to business",
+      "published": "2025-08-25 12:17:00",
+      "timestamp": 1756124220
+    },
+    {
+      "id": "260272cec6f9d900ecf0c700ef0a45c703d73f35",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Why SIEM Rules Fail and How to Fix Them: Insights from 160 Million Attack Simulations",
+      "link": "https://thehackernews.com/2025/08/why-siem-rules-fail-and-how-to-fix-them.html",
+      "summary": "Security Information and Event Management (SIEM) systems act as the primary tools for detecting suspicious activity in enterprise networks, helping organizations identify and respond to potential attacks in real time. However, the new Picus Blue Report 2025, based on over 160 million real-world attack simulations, revealed that organizations are only detecting 1 out of 7 simulated attacks,",
+      "published": "2025-08-25 11:50:00",
+      "timestamp": 1756122600
+    },
     {
       "id": "64bee50072d2ea2b63e1480698efa9eef6312c60",
       "source": "The Hacker News",
@@ -12,6 +32,16 @@
       "timestamp": 1756109580
     },
     {
+      "id": "efdaa1dd4ff4040fcf1eaeb149e11294d0b8d338",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Android malware poses as antivirus from Russian intelligence agency",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/",
+      "summary": "A new Android malware posing as an antivirus tool software created by Russia's Federal Security Services agency (FSB) is being used to target executives of Russian businesses. [...]",
+      "published": "2025-08-24 14:08:18",
+      "timestamp": 1756044498
+    },
+    {
       "id": "5347216c32fafa3e349e096f6a574876c0cfb822",
       "source": "The Hacker News",
       "source_category": "General",
@@ -20,6 +50,26 @@
       "summary": "Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator. \"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor,\" Socket researcher Kirill Boychenko",
       "published": "2025-08-24 13:38:00",
       "timestamp": 1756042680
+    },
+    {
+      "id": "121fea42722ac06fd01733152a1b2b6755a7d4bb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FTC warns tech giants not to bow to foreign pressure on encryption",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption/",
+      "summary": "The Federal Trade Commission (FTC) is warning major U.S. tech companies against yielding to foreign government demands that weaken data security, compromise encryption, or impose censorship on their platforms. [...]",
+      "published": "2025-08-23 15:21:32",
+      "timestamp": 1755962492
+    },
+    {
+      "id": "da9c72c95f23ed0dee859967851761a8b4ab394e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft working on fix for ongoing Outlook email issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-fix-for-ongoing-outlook-email-issues/",
+      "summary": "\u200bMicrosoft is working to resolve an Exchange Online issue causing email access problems for Outlook mobile users who use Hybrid Modern Authentication (HMA). [...]",
+      "published": "2025-08-23 14:15:20",
+      "timestamp": 1755958520
     },
     {
       "id": "89b79cd1b4699f9a0fc2012bbe2d9ae532592461",
@@ -162,16 +212,6 @@
       "timestamp": 1755819986
     },
     {
-      "id": "e546e3d4a198d59d6c06cf5d5ae29e605a533e3f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Colt confirms customer data stolen as Warlock ransomware auctions files",
-      "link": "https://www.bleepingcomputer.com/news/security/colt-confirms-customer-data-stolen-as-warlock-ransomware-auctions-files/",
-      "summary": "UK-based telecommunications company Colt Technology Services confirms that customer documentation was stolen as Warlock ransomware gang auctions files. [...]",
-      "published": "2025-08-21 20:41:07",
-      "timestamp": 1755808867
-    },
-    {
       "id": "b226ef7f1d13dfadd9f0da9bc493650799a68d42",
       "source": "The Hacker News",
       "source_category": "General",
@@ -180,16 +220,6 @@
       "summary": "Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances. The list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows - CVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user",
       "published": "2025-08-21 16:38:00",
       "timestamp": 1755794280
-    },
-    {
-      "id": "eec8d2268e032808a2771df7f365bab86ca0ecb7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Europol confirms $50,000 Qilin ransomware reward is fake",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/",
-      "summary": "Europol has confirmed that a Telegram channel impersonating the agency and offering a $50,000 reward for information on two Qilin ransomware administrators is fake. The impostor later admitted it was created to troll researchers and journalists. [...]",
-      "published": "2025-08-21 16:25:25",
-      "timestamp": 1755793525
     },
     {
       "id": "42ab6a6e6735e055cb80fbdf3c390d3152bfeb74",
@@ -210,36 +240,6 @@
       "summary": "The ClickFix social engineering technique has been growing in popularity, with campaigns targeting thousands of enterprise and end-user devices daily. This technique exploits users\u2019 tendency to resolve technical issues by tricking them into running malicious commands. These commands, in turn, deliver payloads that ultimately lead to information theft and exfiltration. The post Think before you Click(Fix): Analyzing the ClickFix social engineering technique appeared first on Microsoft Security Bl",
       "published": "2025-08-21 16:00:00",
       "timestamp": 1755792000
-    },
-    {
-      "id": "260f4766f702fca7bee111a7942ba760890908ad",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft asks customers for feedback on reported SSD failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-customers-for-feedback-on-ssd-failure-issues/",
-      "summary": "\u200bMicrosoft is seeking further information from customers who reported failure and data corruption issues affecting their solid-state drives (SSDs) and hard disk drives (HDDs) after installing the August 2025 security update. [...]",
-      "published": "2025-08-21 14:48:35",
-      "timestamp": 1755787715
-    },
-    {
-      "id": "f361b575e6032a2a1d3152182a189a181fdae2e6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why Certified VMware Pros Are Driving the Future of IT",
-      "link": "https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/",
-      "summary": "From hybrid cloud to AI, IT complexity and security risks are accelerating. Certified VMware pros bring clarity and resilience that keep teams ahead. See why CIOs are making certification a workforce strategy with VMUG. [...]",
-      "published": "2025-08-21 13:53:34",
-      "timestamp": 1755784414
-    },
-    {
-      "id": "88177760a578737729b8ba3c362315709c6f1d19",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI warns of Russian hackers exploiting 7-year-old Cisco flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/",
-      "summary": "The Federal Bureau of Investigation (FBI) has warned that hackers linked to Russia's Federal Security Service (FSB) are targeting critical infrastructure organizations in attacks exploiting a 7-year-old vulnerability in Cisco devices. [...]",
-      "published": "2025-08-21 12:04:08",
-      "timestamp": 1755777848
     },
     {
       "id": "121df5ae25aba824278a310fc410a9827ad756b5",
@@ -760,26 +760,6 @@
       "summary": "Fortinet is alerting customers of a critical security flaw in FortiSIEM for which it said there exists an exploit in the wild. The vulnerability, tracked as CVE-2025-25256, carries a CVSS score of 9.8 out of a maximum of 10.0. \"An improper neutralization of special elements used in an OS command ('OS Command Injection') vulnerability [CWE-78] in FortiSIEM may allow an unauthenticated attacker to",
       "published": "2025-08-13 11:37:00",
       "timestamp": 1755085020
-    },
-    {
-      "id": "5ab3b6ee994c56a75438774962e93b61c3b91ee0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI SOC 101: Key Capabilities Security Leaders Need to Know",
-      "link": "https://thehackernews.com/2025/08/ai-soc-101-key-capabilities-security.html",
-      "summary": "Security operations have never been a 9-to-5 job. For SOC analysts, the day often starts and ends deep in a queue of alerts, chasing down what turns out to be false positives, or switching between half a dozen tools to piece together context. The work is repetitive, time-consuming, and high-stakes, leaving SOCs under constant pressure to keep up, yet often struggling to stay ahead of emerging",
-      "published": "2025-08-13 11:25:00",
-      "timestamp": 1755084300
-    },
-    {
-      "id": "ecccc80c9932f612917d49b1678c122927749699",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: What the Next Wave of AI Cyberattacks Will Look Like \u2014 And How to Survive",
-      "link": "https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html",
-      "summary": "The AI revolution isn\u2019t coming. It\u2019s already here. From copilots that write our emails to autonomous agents that can take action without us lifting a finger, AI is transforming how we work. But here\u2019s the uncomfortable truth: Attackers are evolving just as fast. Every leap forward in AI gives bad actors new tools \u2014 deepfake scams so real they trick your CFO, bots that can bypass human review,",
-      "published": "2025-08-13 09:30:00",
-      "timestamp": 1755077400
     },
     {
       "id": "ae1ddf47b28da2ab5cf623680ffc70a2c1eba06b",
