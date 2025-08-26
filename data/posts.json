@@ -1,6 +1,46 @@
 {
-  "generated_at": 1756222489,
+  "generated_at": 1756234107,
   "items": [
+    {
+      "id": "7e22d3601655bb377f76fca53b05a72a86af3551",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nevada closes state offices as cyberattack disrupts IT systems",
+      "link": "https://www.bleepingcomputer.com/news/security/nevada-closes-state-offices-as-cyberattack-disrupts-it-systems/",
+      "summary": "Nevada remains two days into a cyberattack that began early Sunday, disrupting government websites, phone systems, and online platforms, and forcing all state offices to close on Monday. [...]",
+      "published": "2025-08-26 17:33:20",
+      "timestamp": 1756229600
+    },
+    {
+      "id": "3de445a71a1ffdbdc94b48f823fd3d6861985414",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
+      "link": "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html",
+      "summary": "Citrix has released fixes to address three security flaws in NetScaler ADC and NetScaler Gateway, including one that it said has been actively exploited in the wild. The vulnerabilities in question are listed below - CVE-2025-7775 (CVSS score: 9.2) - Memory overflow vulnerability leading to Remote Code Execution and/or Denial-of-Service CVE-2025-7776 (CVSS score: 8.8) - Memory overflow",
+      "published": "2025-08-26 17:29:00",
+      "timestamp": 1756229340
+    },
+    {
+      "id": "0e9ebf548760e8bae9e6a4e4d5638102832bc47b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station",
+      "link": "https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html",
+      "summary": "A team of academics has devised a novel attack that can be used to downgrade a 5G connection to a lower generation without relying on a rogue base station (gNB). The attack, per the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD), relies on a new open-source software toolkit named Sni5Gect (short for \"Sniffing 5G Inject\") that's",
+      "published": "2025-08-26 17:23:00",
+      "timestamp": 1756228980
+    },
+    {
+      "id": "de60dbb4f2bb1c67c15aebf0c86737268ea24e0c",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Securing and governing the rise of autonomous agents\u200b\u200b",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/26/securing-and-governing-the-rise-of-autonomous-agents/",
+      "summary": "Hear directly from Corporate Vice President and Deputy Chief Information Security Officer (CISO) for Identity, Igor Sakhnov, about how to secure and govern autonomous agents. This blog is part of a new ongoing series where our Deputy CISOs share their thoughts on what is most important in their respective domains. In this series you will get practical advice, forward-looking commentary on where the industry is going, things you should stop doing, and more. \u200b The post Securing and governing the r",
+      "published": "2025-08-26 16:00:00",
+      "timestamp": 1756224000
+    },
     {
       "id": "bd8e6e4eb3022952c546e83f0b2996116a77622c",
       "source": "BleepingComputer",
@@ -32,6 +72,16 @@
       "timestamp": 1756216810
     },
     {
+      "id": "57b99892ad337350a711786494a0c98e9dd0b4c6",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Widespread Data Theft Targets Salesforce Instances via Salesloft Drift",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/data-theft-salesforce-instances-via-salesloft-drift/",
+      "summary": "Written by: Austin Larsen, Matt Lin, Tyler McLellan, Omar ElAhdan Introduction Google Threat Intelligence Group (GTIG) is issuing an advisory to alert organizations about a widespread data theft campaign, carried out by the actor tracked as UNC6395. Beginning as early as Aug. 8, 2025 through at least Aug. 18, 2025, the actor targeted Salesforce customer instances through compromised OAuth tokens associated with the Salesloft Drift third-party application. The actor systematically exported large ",
+      "published": "2025-08-26 14:00:00",
+      "timestamp": 1756216800
+    },
+    {
       "id": "e73b34a0f442065e8ee64d84eb955e69f92a26e2",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -50,6 +100,16 @@
       "summary": "Cybersecurity researchers are calling attention to a sophisticated social engineering campaign that's targeting supply chain-critical manufacturing companies with an in-memory malware dubbed MixShell. The activity has been codenamed ZipLine by Check Point Research. \"Instead of sending unsolicited phishing emails, attackers initiate contact through a company's public 'Contact Us' form, tricking",
       "published": "2025-08-26 13:30:00",
       "timestamp": 1756215000
+    },
+    {
+      "id": "0aa187bcd702bc4b85a7fdad746d03d76de75142",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Three Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-releases-three-industrial-control-systems-advisories",
+      "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 26, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-238-01 INVT VT-Designer and HMITool ICSA-25-238-03 Schneider Electric Modicon M340 Controller and Communication Modules ICSA-25-140-03 Danfoss AK-SM 8xxA Series (Update A) CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigat",
+      "published": "2025-08-26 12:00:00",
+      "timestamp": 1756209600
     },
     {
       "id": "b401dc6dbe366090d1d6f0c23adbd80a4f7cfb38",
@@ -272,16 +332,6 @@
       "timestamp": 1756042680
     },
     {
-      "id": "121fea42722ac06fd01733152a1b2b6755a7d4bb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FTC warns tech giants not to bow to foreign pressure on encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption/",
-      "summary": "The Federal Trade Commission (FTC) is warning major U.S. tech companies against yielding to foreign government demands that weaken data security, compromise encryption, or impose censorship on their platforms. [...]",
-      "published": "2025-08-23 15:21:32",
-      "timestamp": 1755962492
-    },
-    {
       "id": "89b79cd1b4699f9a0fc2012bbe2d9ae532592461",
       "source": "The Hacker News",
       "source_category": "General",
@@ -382,22 +432,22 @@
       "timestamp": 1755792000
     },
     {
-      "id": "121df5ae25aba824278a310fc410a9827ad756b5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
-      "published": "2025-08-21 12:00:00",
-      "timestamp": 1755777600
-    },
-    {
       "id": "d893db57cc32ae94c8bc15873c7e828f0b7713b4",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Three Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-releases-three-industrial-control-systems-advisories",
       "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 21, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-233-01 Mitsubishi Electric Corporation MELSEC iQ-F Series CPU Module ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update A) ICSMA-25-233-01 FUJIFILM Healthcare Americas Synapse Mobility CISA encourages users and administrators to review newly released ICS advisories for",
+      "published": "2025-08-21 12:00:00",
+      "timestamp": 1755777600
+    },
+    {
+      "id": "121df5ae25aba824278a310fc410a9827ad756b5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
       "published": "2025-08-21 12:00:00",
       "timestamp": 1755777600
     },
@@ -752,26 +802,6 @@
       "timestamp": 1755255600
     },
     {
-      "id": "778cd60277e8888c1cebea6f8dd88e5cde7b126d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution",
-      "link": "https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html",
-      "summary": "Cisco has released security updates to address a maximum-severity security flaw in Secure Firewall Management Center (FMC) Software that could allow an attacker to execute arbitrary code on affected systems. The vulnerability, assigned the CVE identifier CVE-2025-20265 (CVSS score: 10.0), affects the RADIUS subsystem implementation that could permit an unauthenticated, remote attacker to inject",
-      "published": "2025-08-15 06:49:00",
-      "timestamp": 1755240540
-    },
-    {
-      "id": "81c00c13a5077b4f0b3c23279a0b0b35cec86952",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
-      "link": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
-      "summary": "Multiple HTTP/2 implementations have been found susceptible to a new attack technique called MadeYouReset that could be explored to conduct powerful denial-of-service (DoS) attacks. \"MadeYouReset bypasses the typical server-imposed limit of 100 concurrent HTTP/2 requests per TCP connection from a client. This limit is intended to mitigate DoS attacks by restricting the number of simultaneous",
-      "published": "2025-08-14 15:20:00",
-      "timestamp": 1755184800
-    },
-    {
       "id": "acc0d8f548c1feb0a0c36a6070b574043f03a3dc",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -792,22 +822,22 @@
       "timestamp": 1755100800
     },
     {
-      "id": "064c5058d6c5560ee7654a1b66f5b16811432cb1",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators",
-      "summary": "CISA, along with the National Security Agency, the Federal Bureau of Investigation, Environmental Protection Agency, and several international partners, released comprehensive guidance to help operational technology (OT) owners and operators across all critical infrastructure sectors create and maintain OT asset inventories and supplemental taxonomies. An asset inventory is a regularly updated, structured list of an organization's systems, hardware, and software. It includes a categorization sys",
-      "published": "2025-08-13 12:00:00",
-      "timestamp": 1755086400
-    },
-    {
       "id": "e962b63eb106b979270f81289a1502053b951e34",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-8875 N-able N-central Insecure Deserialization Vulnerability CVE-2025-8876 N-able N-central Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited ",
+      "published": "2025-08-13 12:00:00",
+      "timestamp": 1755086400
+    },
+    {
+      "id": "064c5058d6c5560ee7654a1b66f5b16811432cb1",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators",
+      "summary": "CISA, along with the National Security Agency, the Federal Bureau of Investigation, Environmental Protection Agency, and several international partners, released comprehensive guidance to help operational technology (OT) owners and operators across all critical infrastructure sectors create and maintain OT asset inventories and supplemental taxonomies. An asset inventory is a regularly updated, structured list of an organization's systems, hardware, and software. It includes a categorization sys",
       "published": "2025-08-13 12:00:00",
       "timestamp": 1755086400
     },
@@ -882,22 +912,22 @@
       "timestamp": 1754582400
     },
     {
-      "id": "17475be70a97fa91c8ca11398823880add3c2870",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Issues ED 25-02: Mitigate Microsoft Exchange Vulnerability",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-issues-ed-25-02-mitigate-microsoft-exchange-vulnerability",
-      "summary": "Today, CISA issued Emergency Directive (ED) 25-02: Mitigate Microsoft Exchange Vulnerability in response to CVE-2025-53786, a vulnerability in Microsoft Exchange server hybrid deployments. ED 25-02 directs all Federal Civilian Executive Branch (FCEB) agencies with Microsoft Exchange hybrid environments to implement required mitigations by 9:00 AM EDT on Monday, August 11, 2025. This vulnerability presents significant risk to all organizations operating Microsoft Exchange hybrid-joined configurat",
-      "published": "2025-08-07 12:00:00",
-      "timestamp": 1754568000
-    },
-    {
       "id": "4ab9d2d1d2ac6be869081c0457c56eff6580dc50",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Ten Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories",
       "summary": "CISA released ten Industrial Control Systems (ICS) advisories on August 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-219-01 Delta Electronics DIAView ICSA-25-219-02 Johnson Controls FX80 and FX90 ICSA-25-219-03 Burk Technology ARC Solo ICSA-25-219-04 Rockwell Automation Arena ICSA-25-219-05 Packet Power EMX and EG ICSA-25-219-06 Dreame Technology iOS and Android Mobile Applications ICSA-25-219-07 EG4 El",
+      "published": "2025-08-07 12:00:00",
+      "timestamp": 1754568000
+    },
+    {
+      "id": "17475be70a97fa91c8ca11398823880add3c2870",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Issues ED 25-02: Mitigate Microsoft Exchange Vulnerability",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-issues-ed-25-02-mitigate-microsoft-exchange-vulnerability",
+      "summary": "Today, CISA issued Emergency Directive (ED) 25-02: Mitigate Microsoft Exchange Vulnerability in response to CVE-2025-53786, a vulnerability in Microsoft Exchange server hybrid deployments. ED 25-02 directs all Federal Civilian Executive Branch (FCEB) agencies with Microsoft Exchange hybrid environments to implement required mitigations by 9:00 AM EDT on Monday, August 11, 2025. This vulnerability presents significant risk to all organizations operating Microsoft Exchange hybrid-joined configurat",
       "published": "2025-08-07 12:00:00",
       "timestamp": 1754568000
     },
@@ -980,16 +1010,6 @@
       "summary": "According to a new Forrester Total Economic Impact\u2122 study, organizations using the Microsoft Entra Suite achieved a 131% ROI, $14.4 million in benefits, and payback in less than six months. The post Microsoft Entra Suite delivers 131% ROI by unifying identity and network access appeared first on Microsoft Security Blog.",
       "published": "2025-08-04 15:00:00",
       "timestamp": 1754319600
-    },
-    {
-      "id": "412c5d68f8906d23cc89bdbda103f587aeb97aec",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Modernize your identity defense with Microsoft Identity Threat Detection and Response",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/07/31/modernize-your-identity-defense-with-microsoft-identity-threat-detection-and-response/",
-      "summary": "Microsoft's Identity Threat Detection and Response solution integrates identity and security operations to provide proactive, real-time protection against sophisticated identity-based cyberthreats. The post Modernize your identity defense with Microsoft Identity Threat Detection and Response appeared first on Microsoft Security Blog.",
-      "published": "2025-07-31 17:00:00",
-      "timestamp": 1753981200
     },
     {
       "id": "78ad7fce746266c95c56d84fb83bc9c20670ebc7",
@@ -1158,16 +1178,6 @@
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-49704 Microsoft SharePoint Code Injection Vulnerability CVE-2025-49706 Microsoft SharePoint Improper Authentication Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Expl",
-      "published": "2025-07-22 12:00:00",
-      "timestamp": 1753185600
-    },
-    {
-      "id": "44e874bd344a7c561c7c6608c3b673cf9c9c3d28",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Nine Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-releases-nine-industrial-control-systems-advisories",
-      "summary": "CISA released nine Industrial Control Systems (ICS) advisories on July 22, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-203-01 DuraComm DP-10iN-100-MU ICSA-25-203-02 Lantronix Provisioning Manager ICSA-25-203-03 Schneider Electric EcoStruxure ICSA-25-203-04 Schneider Electric EcoStruxure Power Operation ICSA-25-203-05 Schneider Electric System Monitor Application ICSA-25-203-06 Schneider Electric EcoStruxt",
       "published": "2025-07-22 12:00:00",
       "timestamp": 1753185600
     },
@@ -1380,16 +1390,6 @@
       "summary": "An analysis of the NSO BLASTPASS iMessage exploit Posted by Ian Beer, Google Project Zero On September 7, 2023 Apple issued an out-of-band security update for iOS: Around the same time on September 7th 2023, Citizen Lab published a blog post linking the two CVEs fixed in iOS 16.6.1 to an \"NSO Group Zero-Click, Zero-Day exploit captured in the wild\": \"[The target was] an individual employed by a Washington DC-based civil society organization with international offices... The exploit chain was cap",
       "published": "2025-03-26 17:30:00",
       "timestamp": 1743010200
-    },
-    {
-      "id": "c4ce36d48ed19070e013676d69241d4a2f8c3504",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "BitM Up! Session Stealing in Seconds Using the Browser-in-the-Middle Technique",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/session-stealing-browser-in-the-middle/",
-      "summary": "Written by: Truman Brown, Emily Astranova, Steven Karschnia, Jacob Paullus, Nick McClendon, Chris Higgins Executive Summary The Rise of Browser in the Middle (BitM): BitM attacks offer a streamlined approach, allowing attackers to quickly compromise sessions across various web applications. MFA Remains Crucial, But Not Invulnerable: Multi-factor authentication (MFA) is a vital security measure, yet sophisticated social engineering tactics now effectively bypass it by targeting session tokens. St",
-      "published": "2025-03-17 05:00:00",
-      "timestamp": 1742187600
     },
     {
       "id": "e853eba21ed946c46f7e34d1f29408a2dda10a35",
