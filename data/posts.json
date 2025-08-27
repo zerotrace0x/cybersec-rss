@@ -1,6 +1,76 @@
 {
-  "generated_at": 1756308858,
+  "generated_at": 1756320285,
   "items": [
+    {
+      "id": "e227cd0b1ff3dfcf593596bc56039652e75f3ef9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "IT system supplier cyberattack impacts 200 municipalities in Sweden",
+      "link": "https://www.bleepingcomputer.com/news/security/it-system-supplier-cyberattack-impacts-200-municipalities-in-sweden/",
+      "summary": "A cyberattack on Milj\u00f6data, an IT systems supplier for roughly 80% of Sweden's municipal systems, has caused accessibility problems in more than 200 regions of the country. [...]",
+      "published": "2025-08-27 18:23:42",
+      "timestamp": 1756319022
+    },
+    {
+      "id": "f1f576a744cb1d2ac7349af81ee521ff28fbea10",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Global Salt Typhoon hacking campaigns linked to Chinese tech firms",
+      "link": "https://www.bleepingcomputer.com/news/security/global-salt-typhoon-hacking-campaigns-linked-to-chinese-tech-firms/",
+      "summary": "The U.S. National Security Agency (NSA), the UK's National Cyber Security Centre (NCSC), and partners from over a dozen countries have linked the Salt Typhoon global hacking campaigns to three China-based technology firms. [...]",
+      "published": "2025-08-27 17:34:04",
+      "timestamp": 1756316044
+    },
+    {
+      "id": "f3670a58b472dd80f0c85c1da7fdef001a0564ca",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model",
+      "link": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
+      "summary": "Cybersecurity company ESET has disclosed that it discovered an artificial intelligence (AI)-powered ransomware variant codenamed PromptLock. Written in Golang, the newly identified strain uses the gpt-oss:20b model from OpenAI locally via the Ollama API to generate malicious Lua scripts in real-time. The open-weight language model was released by OpenAI earlier this month. \"PromptLock",
+      "published": "2025-08-27 17:07:00",
+      "timestamp": 1756314420
+    },
+    {
+      "id": "dd2be9b97aa144e12b115308049542935dab65c2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 28,000 Citrix devices vulnerable to new exploited RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/over-28-200-citrix-instances-vulnerable-to-actively-exploited-rce-bug/",
+      "summary": "More than 28,200 Citrix instances are vulnerable to a critical remote code execution vulnerability tracked as CVE-2025-7775 that is already being exploited in the wild. [...]",
+      "published": "2025-08-27 16:48:00",
+      "timestamp": 1756313280
+    },
+    {
+      "id": "123ca9810f115b2db5404681d921e4a4fdd4d850",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Storm-0501\u2019s evolving techniques lead to cloud-based ransomware",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/",
+      "summary": "Financially motivated threat actor Storm-0501 has continuously evolved their campaigns to achieve sharpened focus on cloud-based tactics, techniques, and procedures (TTPs). While the threat actor has been known for targeting hybrid cloud environments, their primary objective has shifted from deploying on-premises endpoint ransomware to using cloud-based ransomware tactics. The post Storm-0501\u2019s evolving techniques lead to cloud-based ransomware appeared first on Microsoft Security Blog.",
+      "published": "2025-08-27 16:00:00",
+      "timestamp": 1756310400
+    },
+    {
+      "id": "028e46d3b62cddd19d42b8d57164d4d8888c4876",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors",
+      "link": "https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html",
+      "summary": "Anthropic on Wednesday revealed that it disrupted a sophisticated operation that weaponized its artificial intelligence (AI)-powered chatbot Claude to conduct large-scale theft and extortion of personal data in July 2025. \"The actor targeted at least 17 distinct organizations, including in healthcare, the emergency services, and government, and religious institutions,\" the company said. \"",
+      "published": "2025-08-27 15:10:00",
+      "timestamp": 1756307400
+    },
+    {
+      "id": "3727c3b95c280c7ed11175b44d7029636b0b5837",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft ranked number one in modern endpoint security market share third year in a row",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/27/microsoft-ranked-number-one-in-modern-endpoint-security-market-share-third-year-in-a-row/",
+      "summary": "For a third year a row, Microsoft has been named the number one leader for endpoint security market share, as featured in a new IDC report. The post Microsoft ranked number one in modern endpoint security market share third year in a row appeared first on Microsoft Security Blog.",
+      "published": "2025-08-27 15:00:00",
+      "timestamp": 1756306800
+    },
     {
       "id": "747800ff4d6dbd1459ee5f821a210a6d702fd97e",
       "source": "BleepingComputer",
@@ -15,7 +85,7 @@
       "id": "dc5e2c5fc8fa44e8f5daea65c0f94d04e8474ce7",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "ShadowSilk Hits 36 Government Targets in Central Asia and APAC Using Telegram Bots",
+      "title": "ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots",
       "link": "https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html",
       "summary": "A threat activity cluster known as ShadowSilk has been attributed to a fresh set of attacks targeting government entities within Central Asia and Asia-Pacific (APAC). According to Group-IB, nearly three dozen victims have been identified, with the intrusions mainly geared towards data exfiltration. The hacking group shares toolset and infrastructural overlaps with campaigns undertaken by threat",
       "published": "2025-08-27 13:47:00",
@@ -30,6 +100,16 @@
       "summary": "The Healthcare Services Group (HSGI) is alerting more than 600,000 individuals that their personal information was exposed in a security breach last year. [...]",
       "published": "2025-08-27 13:27:36",
       "timestamp": 1756301256
+    },
+    {
+      "id": "5c042f2886c64824c0c13dacff12aa6f0ab9fa67",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and Partners Release Joint Advisory on Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage Systems",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/27/cisa-and-partners-release-joint-advisory-countering-chinese-state-sponsored-actors-compromise",
+      "summary": "CISA, along with the National Security Agency, Federal Bureau of Investigation, and international partners, released a joint Cybersecurity Advisory on People\u2019s Republic of China (PRC) state-sponsored Advanced Persistent Threat (APT) actors targeting critical infrastructure across sectors and continents to maintain persistent, long-term access to networks. This advisory builds on previous reporting and is based on real-world investigations conducted across multiple countries through July 2025. Wh",
+      "published": "2025-08-27 12:00:00",
+      "timestamp": 1756296000
     },
     {
       "id": "f5e70d3c9bf14110c1d92b7ffbad6693e41481bc",
@@ -62,11 +142,11 @@
       "timestamp": 1756286880
     },
     {
-      "id": "38f0e545891fa6f2e01dc4f640bb22d29a84ef12",
+      "id": "1e97fddf7106d3f5d6dbff39e1a26d98126418e8",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Google to verify all Android devs to block malware on Google Play",
-      "link": "https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-block-malware-on-google-play/",
+      "title": "Google to verify all Android devs to protect users from malware",
+      "link": "https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-protect-users-from-malware/",
       "summary": "Google is introducing a new defense for Android called 'Developer Verification' to block malware installations from sideloaded apps sourced from outside the official Google Play app store. [...]",
       "published": "2025-08-26 22:23:46",
       "timestamp": 1756247026
@@ -202,22 +282,22 @@
       "timestamp": 1756215000
     },
     {
-      "id": "137d1be9d651db3de6c779783eed0b7fca3db54c",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-7775 Citrix NetScaler Memory Overflow Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common ",
-      "published": "2025-08-26 12:00:00",
-      "timestamp": 1756209600
-    },
-    {
       "id": "0aa187bcd702bc4b85a7fdad746d03d76de75142",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Three Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-releases-three-industrial-control-systems-advisories",
       "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 26, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-238-01 INVT VT-Designer and HMITool ICSA-25-238-03 Schneider Electric Modicon M340 Controller and Communication Modules ICSA-25-140-03 Danfoss AK-SM 8xxA Series (Update A) CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigat",
+      "published": "2025-08-26 12:00:00",
+      "timestamp": 1756209600
+    },
+    {
+      "id": "137d1be9d651db3de6c779783eed0b7fca3db54c",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-7775 Citrix NetScaler Memory Overflow Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common ",
       "published": "2025-08-26 12:00:00",
       "timestamp": 1756209600
     },
@@ -270,36 +350,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws impacting Citrix Session Recording and Git to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2024-8068 (CVSS score: 5.1) - An improper privilege management vulnerability in Citrix Session Recording",
       "published": "2025-08-26 05:55:00",
       "timestamp": 1756187700
-    },
-    {
-      "id": "8b67f635f64799c023883639e1fd08ce85967aa3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Surge in coordinated scans targets Microsoft RDP auth servers",
-      "link": "https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/",
-      "summary": "Internet intelligence firm GreyNoise reports that it has recorded a significant spike in scanning activity consisting of nearly 1,971 IP addresses probing Microsoft Remote Desktop Web Access and RDP Web Client authentication portals in unison, suggesting a coordinated reconnaissance campaign. [...]",
-      "published": "2025-08-25 23:43:16",
-      "timestamp": 1756165396
-    },
-    {
-      "id": "b91325580981e42056de461e0ff1658963cd81ac",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New AI attack hides data-theft prompts in downscaled images",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/",
-      "summary": "Researchers have developed a novel attack that steals user data by injecting malicious prompts in images processed by AI systems before delivering them to a large language model. [...]",
-      "published": "2025-08-25 21:34:57",
-      "timestamp": 1756157697
-    },
-    {
-      "id": "6cbe664056f57b7da0ade428b1e659f0e36983c4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Farmers Insurance data breach impacts 1.1M people after Salesforce attack",
-      "link": "https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/",
-      "summary": "U.S. insurance giant Farmers Insurance has disclosed a data breach impacting 1.1 million customers, with BleepingComputer learning that the data was stolen in the widespread Salesforce attacks. [...]",
-      "published": "2025-08-25 19:48:51",
-      "timestamp": 1756151331
     },
     {
       "id": "edefdb8da81afc2c14268ef285807f39ce09f68e",
@@ -792,26 +842,6 @@
       "timestamp": 1755514560
     },
     {
-      "id": "87411797b5d715b3ce54b72319e72da0a6064292",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Wazuh for Regulatory Compliance",
-      "link": "https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html",
-      "summary": "Organizations handling various forms of sensitive data or personally identifiable information (PII) require adherence to regulatory compliance standards and frameworks. These compliance standards also apply to organizations operating in regulated sectors such as healthcare, finance, government contracting, or education. Some of these standards and frameworks include, but are not limited to:",
-      "published": "2025-08-18 10:15:00",
-      "timestamp": 1755512100
-    },
-    {
-      "id": "7a996825fd9e0eb19acb4d032c6bb466b56cf429",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure",
-      "link": "https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html",
-      "summary": "Cybersecurity researchers have detailed the inner workings of an Android banking trojan called ERMAC 3.0, uncovering serious shortcomings in the operators' infrastructure. \"The newly uncovered version 3.0 reveals a significant evolution of the malware, expanding its form injection and data theft capabilities to target more than 700 banking, shopping, and cryptocurrency applications,\" Hunt.io",
-      "published": "2025-08-16 10:41:00",
-      "timestamp": 1755340860
-    },
-    {
       "id": "da409be5e62873b11abb60ffe70a0b4c8b528d59",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -882,22 +912,22 @@
       "timestamp": 1755014400
     },
     {
-      "id": "e370ae2b64800bba224eef3ca80596414e3863d5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Seven Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
-      "published": "2025-08-12 12:00:00",
-      "timestamp": 1755000000
-    },
-    {
       "id": "b45379d2a5d646a9308a6405443315ce143ca62e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2013-3893 Microsoft Internet Explorer Resource Management Errors Vulnerability CVE-2007-0671 Microsoft Office Excel Remote Code Execution Vulnerability CVE-2025-8088 RARLAB WinRAR Path Traversal Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Op",
+      "published": "2025-08-12 12:00:00",
+      "timestamp": 1755000000
+    },
+    {
+      "id": "e370ae2b64800bba224eef3ca80596414e3863d5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Seven Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories",
+      "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
       "published": "2025-08-12 12:00:00",
       "timestamp": 1755000000
     },
@@ -992,16 +1022,6 @@
       "timestamp": 1754481600
     },
     {
-      "id": "d9266b60462b326cda09c8b58817cca4fa270350",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Elevate your protection with expanded Microsoft Defender Experts coverage",
-      "link": "https://techcommunity.microsoft.com/blog/microsoftsecurityexperts/elevate-your-protection-with-expanded-microsoft-defender-experts-coverage/4439134",
-      "summary": "Defender Experts now offers 24/7, expert-driven protection for cloud workloads, beginning with hybrid and multicloud servers in Microsoft Defender for Cloud. Additionally, third-party network signals can be used in Microsoft Defender Experts for XDR to enhance incidents for faster and more accurate detection and response. The post Elevate your protection with expanded Microsoft Defender Experts coverage appeared first on Microsoft Security Blog.",
-      "published": "2025-08-05 16:00:00",
-      "timestamp": 1754409600
-    },
-    {
       "id": "ea3e66581413918621a6b3f37084436350d7e24e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1020,16 +1040,6 @@
       "summary": "CISA released two Industrial Control Systems (ICS) advisories on August 5, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-217-01 Mitsubishi Electric Iconics Digital Solutions Multiple Products ICSA-25-217-02 Tigo Energy Cloud Connect Advanced CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
       "published": "2025-08-05 12:00:00",
       "timestamp": 1754395200
-    },
-    {
-      "id": "5d1c6e001e65afe3267882a79ccbaf6cf880ced5",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft Entra Suite delivers 131% ROI by unifying identity and network access",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/04/microsoft-entra-suite-delivers-131-roi-by-unifying-identity-and-network-access/",
-      "summary": "According to a new Forrester Total Economic Impact\u2122 study, organizations using the Microsoft Entra Suite achieved a 131% ROI, $14.4 million in benefits, and payback in less than six months. The post Microsoft Entra Suite delivers 131% ROI by unifying identity and network access appeared first on Microsoft Security Blog.",
-      "published": "2025-08-04 15:00:00",
-      "timestamp": 1754319600
     },
     {
       "id": "78ad7fce746266c95c56d84fb83bc9c20670ebc7",
@@ -1178,16 +1188,6 @@
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54309 CrushFTP Unprotected Alternate Channel Vulnerability CVE-2025-6558 Google Chromium ANGLE and GPU Improper Input Validation Vulnerability CVE-2025-2776 SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability CVE-2025-2775 SysAid On-Prem Improper Restriction of XML External Entity Reference Vulnerability These types of vul",
-      "published": "2025-07-22 12:00:00",
-      "timestamp": 1753185600
-    },
-    {
-      "id": "ce291fd7ad6df98ccc710bbd94f1c033d9e24932",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Joint Advisory Issued on Protecting Against Interlock Ransomware",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/22/joint-advisory-issued-protecting-against-interlock-ransomware",
-      "summary": "CISA, in partnership with the Federal Bureau of Investigation (FBI), the Department of Health and Human Services, and the Multi-State Information Sharing and Analysis Center issued a joint Cybersecurity Advisory to help protect businesses and critical infrastructure organizations in North America and Europe against Interlock ransomware. This advisory highlights known Interlock ransomware indicators of compromise and tactics, techniques, and procedures identified through recent FBI investigations",
       "published": "2025-07-22 12:00:00",
       "timestamp": 1753185600
     },
