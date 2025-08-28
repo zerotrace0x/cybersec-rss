@@ -1,6 +1,46 @@
 {
-  "generated_at": 1756373614,
+  "generated_at": 1756387369,
   "items": [
+    {
+      "id": "6234ad49553ae132525e7de7ca42614758f95354",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: Why Top Teams Are Prioritizing Code-to-Cloud Mapping in Our 2025 AppSec",
+      "link": "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html",
+      "summary": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions. Scary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big",
+      "published": "2025-08-28 11:50:00",
+      "timestamp": 1756381800
+    },
+    {
+      "id": "d8efc78c17c812cdc03a3bf540aa4b85e6a870a1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hidden Vulnerabilities of Project Management Tools & How FluentPro Backup Secures Them",
+      "link": "https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html",
+      "summary": "Every day, businesses, teams, and project managers trust platforms like Trello, Asana, etc., to collaborate and manage tasks. But what happens when that trust is broken? According to a recent report by Statista, the average cost of a data breach worldwide was about $4.88 million. Also, in 2024, the private data of over 15 million Trello user profiles was shared on a popular hacker forum. Yet,",
+      "published": "2025-08-28 11:00:00",
+      "timestamp": 1756378800
+    },
+    {
+      "id": "99fbfd364c70131a70aec80e2a51dc37274ccb93",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious Nx Packages in \u2018s1ngularity\u2019 Attack Leaked 2,349 GitHub, Cloud, and AI Credentials",
+      "link": "https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html",
+      "summary": "The maintainers of the nx build system have alerted users to a supply chain attack that allowed attackers to publish malicious versions of the popular npm package and other auxiliary plugins with data-gathering capabilities. \"Malicious versions of the nx package, as well as some supporting plugin packages, were published to npm, containing code that scans the file system, collects credentials,",
+      "published": "2025-08-28 10:36:00",
+      "timestamp": 1756377360
+    },
+    {
+      "id": "5b4f58a6ce71adec11d7e4fbccad463bc34c8d0e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits",
+      "link": "https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) announced a fresh round of sanctions against two individuals and two entities for their role in the North Korean remote information technology (IT) worker scheme to generate illicit revenue for the regime's weapons of mass destruction and ballistic missile programs. \"The North Korean regime continues to target American",
+      "published": "2025-08-28 08:53:00",
+      "timestamp": 1756371180
+    },
     {
       "id": "9977920c9f66ea27b17c6896b69ecf504152108e",
       "source": "BleepingComputer",
@@ -782,36 +822,6 @@
       "timestamp": 1755602100
     },
     {
-      "id": "a3f9058cac31e7b44e51f2aaa26ffa1710a01c26",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks",
-      "link": "https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html",
-      "summary": "The maintainers of the Python Package Index (PyPI) repository have announced that the package manager now checks for expired domains to prevent supply chain attacks. \"These changes improve PyPI's overall account security posture, making it harder for attackers to exploit expired domain names to gain unauthorized access to accounts,\" Mike Fiedler, PyPI safety and security engineer at the Python",
-      "published": "2025-08-19 06:36:00",
-      "timestamp": 1755585360
-    },
-    {
-      "id": "eac138b53eeda9f96d4ee1fb58442f71017ccc2b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures",
-      "link": "https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html",
-      "summary": "The threat actors behind the Noodlophile malware are leveraging spear-phishing emails and updated delivery mechanisms to deploy the information stealer in attacks aimed at enterprises located in the U.S., Europe, Baltic countries, and the Asia-Pacific (APAC) region. \"The Noodlophile campaign, active for over a year, now leverages advanced spear-phishing emails posing as copyright infringement",
-      "published": "2025-08-18 19:24:00",
-      "timestamp": 1755545040
-    },
-    {
-      "id": "7e6911e79db578d6ee99286c2b7ad9516a00d3d2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware",
-      "link": "https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html",
-      "summary": "Cybersecurity researchers have lifted the lid on the threat actors' exploitation of a now-patched security flaw in Microsoft Windows to deploy the PipeMagic malware in RansomExx ransomware attacks. The attacks involve the exploitation of CVE-2025-29824, a privilege escalation vulnerability impacting the Windows Common Log File System (CLFS) that was addressed by Microsoft in April 2025,",
-      "published": "2025-08-18 16:03:00",
-      "timestamp": 1755532980
-    },
-    {
       "id": "70e3f05d1d1817b97a3cd14e569eea7b62e76de4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -820,16 +830,6 @@
       "summary": "A comprehensive technical deep dive on PipeMagic, a highly modular backdoor used by Storm-2460 masquerading as a legitimate open-source ChatGPT Desktop Application. Beneath its disguise, PipeMagic is a sophisticated malware framework designed for flexibility and persistence. Once deployed, it can dynamically execute payloads while maintaining robust command and control (C2) communication via a dedicated networking module. The post Dissecting PipeMagic: Inside the architecture of a modular backdo",
       "published": "2025-08-18 15:00:00",
       "timestamp": 1755529200
-    },
-    {
-      "id": "914f64bd9798a696ff9b3b81cd596cd23bdd73a2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors & More",
-      "link": "https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html",
-      "summary": "Power doesn\u2019t just disappear in one big breach. It slips away in the small stuff\u2014a patch that\u2019s missed, a setting that\u2019s wrong, a system no one is watching. Security usually doesn\u2019t fail all at once; it breaks slowly, then suddenly. Staying safe isn\u2019t about knowing everything\u2014it\u2019s about acting fast and clear before problems pile up. Clarity keeps control. Hesitation creates risk. Here are this",
-      "published": "2025-08-18 12:47:00",
-      "timestamp": 1755521220
     },
     {
       "id": "f49fcb6638d144d7b1c20c76b1fa97eeed7f11bf",
