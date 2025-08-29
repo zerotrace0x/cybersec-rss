@@ -1,6 +1,56 @@
 {
-  "generated_at": 1756481447,
+  "generated_at": 1756492976,
   "items": [
+    {
+      "id": "e9f843b21060afe94702c0f51433eac9efb71fb0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes bug behind Windows certificate enrollment errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-certificate-enrollment-errors/",
+      "summary": "Microsoft has resolved a known issue causing false CertificateServicesClient (CertEnroll) error messages after installing the July 2025 preview and subsequent Windows 11 24H2 updates. [...]",
+      "published": "2025-08-29 18:02:25",
+      "timestamp": 1756490545
+    },
+    {
+      "id": "2899754cd2ccb1570709b1c27c45926f277b43b8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution",
+      "link": "https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html",
+      "summary": "Three new security vulnerabilities have been disclosed in the Sitecore Experience Platform that could be exploited to achieve information disclosure and remote code execution. The flaws, per watchTowr Labs, are listed below - CVE-2025-53693 - HTML cache poisoning through unsafe reflections CVE-2025-53691 - Remote code execution (RCE) through insecure deserialization CVE-2025-53694 -",
+      "published": "2025-08-29 17:22:00",
+      "timestamp": 1756488120
+    },
+    {
+      "id": "91f1115ce1cf216975133a6c71f129d2401e96fd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WhatsApp patches vulnerability exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/",
+      "summary": "WhatsApp has patched a security vulnerability in its iOS and macOS messaging clients that was exploited in targeted zero-day attacks. [...]",
+      "published": "2025-08-29 16:31:23",
+      "timestamp": 1756485083
+    },
+    {
+      "id": "3ba1ad114f0fd89c9beb88e98d295227d1513f4e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft to enforce MFA for Azure resource management in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-azure-resource-management-in-october/",
+      "summary": "Starting in October, Microsoft will enforce multi-factor authentication (MFA) for all Azure resource management actions to protect Azure clients from unauthorized access attempts. [...]",
+      "published": "2025-08-29 15:56:47",
+      "timestamp": 1756483007
+    },
+    {
+      "id": "6234ad49553ae132525e7de7ca42614758f95354",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook",
+      "link": "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html",
+      "summary": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions. Scary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big",
+      "published": "2025-08-29 15:42:00",
+      "timestamp": 1756482120
+    },
     {
       "id": "0a07f06e69f848b3c05a4893003a96c160ebce84",
       "source": "BleepingComputer",
@@ -32,6 +82,16 @@
       "timestamp": 1756473120
     },
     {
+      "id": "f351c22c44a3517c0c1aa939d4435856c3e54ca0",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-57819 Sangoma FreePBX Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known C",
+      "published": "2025-08-29 12:00:00",
+      "timestamp": 1756468800
+    },
+    {
       "id": "cdfa18eb4b13557f2fae066333153450d04b09ee",
       "source": "The Hacker News",
       "source_category": "General",
@@ -47,7 +107,7 @@
       "source_category": "General",
       "title": "Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page",
       "link": "https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html",
-      "summary": "Click Studios, the developer of enterprise-focused password management solution Passwordstate, said it has released security updates to address an authentication bypass vulnerability in its software. The issue, which is yet to be assigned a CVE identifier, has been addressed in Passwordstate 9.9 (Build 9972), released August 28, 2025. The Australian company said it fixed a \"potential",
+      "summary": "Click Studios, the developer of enterprise-focused password management solution Passwordstate, said it has released security updates to address an authentication bypass vulnerability in its software. The high-severity issue, which is yet to be assigned a CVE identifier, has been addressed in Passwordstate 9.9 (Build 9972), released August 28, 2025. The Australian company said it fixed a \"",
       "published": "2025-08-29 09:58:00",
       "timestamp": 1756461480
     },
@@ -232,16 +292,6 @@
       "timestamp": 1756382400
     },
     {
-      "id": "6234ad49553ae132525e7de7ca42614758f95354",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: Why Top Teams Are Prioritizing Code-to-Cloud Mapping in Our 2025 AppSec",
-      "link": "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html",
-      "summary": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions. Scary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big",
-      "published": "2025-08-28 11:50:00",
-      "timestamp": 1756381800
-    },
-    {
       "id": "d8efc78c17c812cdc03a3bf540aa4b85e6a870a1",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,26 +320,6 @@
       "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) announced a fresh round of sanctions against two individuals and two entities for their role in the North Korean remote information technology (IT) worker scheme to generate illicit revenue for the regime's weapons of mass destruction and ballistic missile programs. \"The North Korean regime continues to target American",
       "published": "2025-08-28 08:53:00",
       "timestamp": 1756371180
-    },
-    {
-      "id": "9977920c9f66ea27b17c6896b69ecf504152108e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Storm-0501 hackers shift to ransomware attacks in the cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/storm-0501-hackers-shift-to-ransomware-attacks-in-the-cloud/",
-      "summary": "Microsoft warns that a threat actor tracked as Storm-0501 has evolved its operations, shifting away from encrypting devices with ransomware to focusing on cloud-based encryption, data theft, and extortion. [...]",
-      "published": "2025-08-27 22:38:12",
-      "timestamp": 1756334292
-    },
-    {
-      "id": "ef23222f1c95d4727ce5eb1aeb19c6d120a5483d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Experimental PromptLock ransomware uses AI to encrypt, steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/experimental-promptlock-ransomware-uses-ai-to-encrypt-steal-data/",
-      "summary": "Threat researchers discovered the first AI-powered ransomware, called PromptLock, that uses Lua scripts to steal and encrypt data on Windows, macOS, and Linux systems. [...]",
-      "published": "2025-08-27 20:47:01",
-      "timestamp": 1756327621
     },
     {
       "id": "f7bb4f7b8068852a14a4f1e0f2982d6fac913989",
@@ -792,16 +822,6 @@
       "timestamp": 1755712440
     },
     {
-      "id": "45ee3b7ab0de948acbdb22952e1ce52f1bea9784",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\ud83d\udd75\ufe0f Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do",
-      "link": "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html",
-      "summary": "Do you know how many AI agents are running inside your business right now? If the answer is \u201cnot sure,\u201d you\u2019re not alone\u2014and that\u2019s exactly the concern. Across industries, AI agents are being set up every day. Sometimes by IT, but often by business units moving fast to get results. That means agents are running quietly in the background\u2014without proper IDs, without owners, and without logs of",
-      "published": "2025-08-20 17:25:00",
-      "timestamp": 1755710700
-    },
-    {
       "id": "1888936088a23fd5b11a29bdb049c4633b053456",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -892,22 +912,22 @@
       "timestamp": 1755100800
     },
     {
-      "id": "064c5058d6c5560ee7654a1b66f5b16811432cb1",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators",
-      "summary": "CISA, along with the National Security Agency, the Federal Bureau of Investigation, Environmental Protection Agency, and several international partners, released comprehensive guidance to help operational technology (OT) owners and operators across all critical infrastructure sectors create and maintain OT asset inventories and supplemental taxonomies. An asset inventory is a regularly updated, structured list of an organization's systems, hardware, and software. It includes a categorization sys",
-      "published": "2025-08-13 12:00:00",
-      "timestamp": 1755086400
-    },
-    {
       "id": "e962b63eb106b979270f81289a1502053b951e34",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-8875 N-able N-central Insecure Deserialization Vulnerability CVE-2025-8876 N-able N-central Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited ",
+      "published": "2025-08-13 12:00:00",
+      "timestamp": 1755086400
+    },
+    {
+      "id": "064c5058d6c5560ee7654a1b66f5b16811432cb1",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators",
+      "summary": "CISA, along with the National Security Agency, the Federal Bureau of Investigation, Environmental Protection Agency, and several international partners, released comprehensive guidance to help operational technology (OT) owners and operators across all critical infrastructure sectors create and maintain OT asset inventories and supplemental taxonomies. An asset inventory is a regularly updated, structured list of an organization's systems, hardware, and software. It includes a categorization sys",
       "published": "2025-08-13 12:00:00",
       "timestamp": 1755086400
     },
@@ -932,22 +952,22 @@
       "timestamp": 1755014400
     },
     {
-      "id": "e370ae2b64800bba224eef3ca80596414e3863d5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Seven Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
-      "published": "2025-08-12 12:00:00",
-      "timestamp": 1755000000
-    },
-    {
       "id": "b45379d2a5d646a9308a6405443315ce143ca62e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2013-3893 Microsoft Internet Explorer Resource Management Errors Vulnerability CVE-2007-0671 Microsoft Office Excel Remote Code Execution Vulnerability CVE-2025-8088 RARLAB WinRAR Path Traversal Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Op",
+      "published": "2025-08-12 12:00:00",
+      "timestamp": 1755000000
+    },
+    {
+      "id": "e370ae2b64800bba224eef3ca80596414e3863d5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Seven Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories",
+      "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
       "published": "2025-08-12 12:00:00",
       "timestamp": 1755000000
     },
@@ -982,22 +1002,22 @@
       "timestamp": 1754582400
     },
     {
-      "id": "17475be70a97fa91c8ca11398823880add3c2870",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Issues ED 25-02: Mitigate Microsoft Exchange Vulnerability",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-issues-ed-25-02-mitigate-microsoft-exchange-vulnerability",
-      "summary": "Today, CISA issued Emergency Directive (ED) 25-02: Mitigate Microsoft Exchange Vulnerability in response to CVE-2025-53786, a vulnerability in Microsoft Exchange server hybrid deployments. ED 25-02 directs all Federal Civilian Executive Branch (FCEB) agencies with Microsoft Exchange hybrid environments to implement required mitigations by 9:00 AM EDT on Monday, August 11, 2025. This vulnerability presents significant risk to all organizations operating Microsoft Exchange hybrid-joined configurat",
-      "published": "2025-08-07 12:00:00",
-      "timestamp": 1754568000
-    },
-    {
       "id": "4ab9d2d1d2ac6be869081c0457c56eff6580dc50",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Ten Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories",
       "summary": "CISA released ten Industrial Control Systems (ICS) advisories on August 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-219-01 Delta Electronics DIAView ICSA-25-219-02 Johnson Controls FX80 and FX90 ICSA-25-219-03 Burk Technology ARC Solo ICSA-25-219-04 Rockwell Automation Arena ICSA-25-219-05 Packet Power EMX and EG ICSA-25-219-06 Dreame Technology iOS and Android Mobile Applications ICSA-25-219-07 EG4 El",
+      "published": "2025-08-07 12:00:00",
+      "timestamp": 1754568000
+    },
+    {
+      "id": "17475be70a97fa91c8ca11398823880add3c2870",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Issues ED 25-02: Mitigate Microsoft Exchange Vulnerability",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-issues-ed-25-02-mitigate-microsoft-exchange-vulnerability",
+      "summary": "Today, CISA issued Emergency Directive (ED) 25-02: Mitigate Microsoft Exchange Vulnerability in response to CVE-2025-53786, a vulnerability in Microsoft Exchange server hybrid deployments. ED 25-02 directs all Federal Civilian Executive Branch (FCEB) agencies with Microsoft Exchange hybrid environments to implement required mitigations by 9:00 AM EDT on Monday, August 11, 2025. This vulnerability presents significant risk to all organizations operating Microsoft Exchange hybrid-joined configurat",
       "published": "2025-08-07 12:00:00",
       "timestamp": 1754568000
     },
@@ -1170,16 +1190,6 @@
       "summary": "KrebsOnSecurity recently heard from a reader whose boss's email account got phished and was used to trick one of the company's customers into sending a large payment to scammers. An investigation into the attacker's infrastructure points to a long-running Nigerian cybercrime group that is actively targeting established companies in the transportation and aviation industries.",
       "published": "2025-07-24 17:57:06",
       "timestamp": 1753379826
-    },
-    {
-      "id": "8b89986975c3eeedc27aacedfe3267fed3cfc402",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/24/cisa-releases-six-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) advisories on July 24, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-205-01 Mitsubishi Electric CNC Series ICSA-25-205-02 Network Thermostat X-Series WiFi Thermostats ICSA-25-205-03 Honeywell Experion PKS ICSA-25-205-04 LG Innotek Camera Model LNV5110R ICSMA-25-205-01 Medtronic MyCareLink Patient Monitor ICSA-22-202-04 ICONICS Suite and Mitsubishi Electric ",
-      "published": "2025-07-24 12:00:00",
-      "timestamp": 1753358400
     },
     {
       "id": "7a3a4c402f363586fe276f2f9c77d84b37cdb4f4",
