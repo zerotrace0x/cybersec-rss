@@ -1,6 +1,26 @@
 {
-  "generated_at": 1756827414,
+  "generated_at": 1756838622,
   "items": [
+    {
+      "id": "1ad24c65d2b918d56a6ce4a7fe070cc80ff2c0ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE",
+      "link": "https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html",
+      "summary": "The North Korea-linked threat actor known as the Lazarus Group has been attributed to a social engineering campaign that distributes three different pieces of cross-platform malware called PondRAT, ThemeForestRAT, and RemotePE. The attack, observed by NCC Group's Fox-IT in 2024, targeted an organization in the decentralized finance (DeFi) sector, ultimately leading to the compromise of an",
+      "published": "2025-09-02 16:39:00",
+      "timestamp": 1756831140
+    },
+    {
+      "id": "2b353ed3bdcdeff2b9f3e0996485692fb56cb5f2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cloudflare blocks largest recorded DDoS attack peaking at 11.5 Tbps",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blocks-record-breaking-115-tbps-ddos-attack/",
+      "summary": "Internet infrastructure company Cloudflare said it recently blocked the largest recorded volumetric distributed denial-of-service (DDoS) attack, which peaked at 11.5 terabits per second (Tbps). [...]",
+      "published": "2025-09-02 15:52:30",
+      "timestamp": 1756828350
+    },
     {
       "id": "8705e9a39102b5f4053cadf22f4ea78f7ffd0473",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "Google has disputed a widely reported story about the company warning all Gmail users to reset their passwords due to a recent data breach that also affected some Workspace accounts. [...]",
       "published": "2025-09-02 14:57:28",
       "timestamp": 1756825048
+    },
+    {
+      "id": "f9f09105cb28156019a5e3238fc24ab83c72a6cd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control",
+      "link": "https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html",
+      "summary": "Cybersecurity researchers have disclosed a stealthy new backdoor called MystRodX that comes with a variety of features to capture sensitive data from compromised systems. \"MystRodX is a typical backdoor implemented in C++, supporting features like file management, port forwarding, reverse shell, and socket management,\" QiAnXin XLab said in a report published last week. \"Compared to typical",
+      "published": "2025-09-02 14:56:00",
+      "timestamp": 1756824960
     },
     {
       "id": "a8ed075be9d7370b0033186c3d7308708430f095",
@@ -38,6 +68,16 @@
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2020-24363 TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability CVE-2025-55177 Meta Platforms WhatsApp Incorrect Authorization Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the",
+      "published": "2025-09-02 12:00:00",
+      "timestamp": 1756814400
+    },
+    {
+      "id": "4f1416b8d50d4951eeb0b56313c54c2313e428df",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Four Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-releases-four-industrial-control-systems-advisories",
+      "summary": "CISA released four Industrial Control Systems (ICS) advisories on September 2, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-245-01 Delta Electronics EIP Builder ICSA-25-245-02 Fuji Electric FRENIC-Loader 4 ICSA-25-245-03 SunPower PVS6 ICSA-25-182-06 Hitachi Energy Relion 670/650 and SAM600-IO Series (Update A) CISA encourages users and administrators to review newly released ICS advisories for technical de",
       "published": "2025-09-02 12:00:00",
       "timestamp": 1756814400
     },
@@ -212,16 +252,6 @@
       "timestamp": 1756639602
     },
     {
-      "id": "62320caac4064e4018f09053a3d32e6fd27648c7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "TamperedChef infostealer delivered through fraudulent PDF Editor",
-      "link": "https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/",
-      "summary": "Threat actors have been using multiple websites promoted through Google ads to distribute a convincing PDF editing app that delivers an info-stealing malware called TamperedChef. [...]",
-      "published": "2025-08-30 16:22:51",
-      "timestamp": 1756570971
-    },
-    {
       "id": "de37877c889911c85696f160e7477bfaef37a20e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -237,7 +267,7 @@
       "source_category": "General",
       "title": "WhatsApp Patches Zero-Click Exploit Targeting iOS and macOS Devices",
       "link": "https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html",
-      "summary": "WhatsApp has addressed a security vulnerability in its messaging apps for Apple iOS and macOS that it said may have been exploited in the wild in conjunction with a recently disclosed Apple flaw in targeted zero-day attacks. The vulnerability, CVE-2025-55177 (CVSS score: 8.0 [CISA-ADP]/5.4 [Facebook]), relates to a case of insufficient authorization of linked device synchronization messages.",
+      "summary": "WhatsApp has addressed a security vulnerability in its messaging apps for Apple iOS and macOS that it said may have been exploited in the wild in conjunction with a recently disclosed Apple flaw in targeted zero-day attacks. The vulnerability, CVE-2025-55177 (CVSS score: 5.4), relates to a case of insufficient authorization of linked device synchronization messages. Internal researchers on the",
       "published": "2025-08-30 04:36:00",
       "timestamp": 1756528560
     },
@@ -752,16 +782,6 @@
       "timestamp": 1755934680
     },
     {
-      "id": "48229499a247bcb2a279f306f5f218e026845f87",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection",
-      "link": "https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html",
-      "summary": "Cybersecurity researchers have shed light on a novel attack chain that employs phishing emails to deliver an open-source backdoor called VShell. The \"Linux-specific malware infection chain that starts with a spam email with a malicious RAR archive file,\" Trellix researcher Sagar Bade said in a technical write-up. \"The payload isn't hidden inside the file content or a macro, it's encoded directly",
-      "published": "2025-08-22 14:31:00",
-      "timestamp": 1755873060
-    },
-    {
       "id": "572b0d61429a23b81e239866a3b3c72546a42356",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -770,16 +790,6 @@
       "summary": "CISA released updated guidance for the Minimum Elements for a Software Bill of Materials (SBOM) for public comment\u2014comment period begins today and concludes on October 3, 2025. These updates build on the 2021 version of the National Telecommunications and Information Administration SBOM Minimum Elements to reflect advancements in tooling and implementation. An SBOM serves as a vital inventory of software components, enabling organizations to identify vulnerabilities, manage dependencies, and mit",
       "published": "2025-08-22 12:00:00",
       "timestamp": 1755864000
-    },
-    {
-      "id": "6a040d1056092c1ef813f86ab614186571e88f4b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage",
-      "link": "https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html",
-      "summary": "Cybersecurity researchers are calling attention to malicious activity orchestrated by a China-nexus cyber espionage group known as Murky Panda that involves abusing trusted relationships in the cloud to breach enterprise networks. \"The adversary has also shown considerable ability to quickly weaponize N-day and zero-day vulnerabilities and frequently achieves initial access to their targets by",
-      "published": "2025-08-22 11:06:00",
-      "timestamp": 1755860760
     },
     {
       "id": "32e247d2f75878c7093ecec4b4c0e2efd732c25d",
@@ -792,22 +802,22 @@
       "timestamp": 1755792000
     },
     {
-      "id": "d893db57cc32ae94c8bc15873c7e828f0b7713b4",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Three Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-releases-three-industrial-control-systems-advisories",
-      "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 21, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-233-01 Mitsubishi Electric Corporation MELSEC iQ-F Series CPU Module ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update A) ICSMA-25-233-01 FUJIFILM Healthcare Americas Synapse Mobility CISA encourages users and administrators to review newly released ICS advisories for",
-      "published": "2025-08-21 12:00:00",
-      "timestamp": 1755777600
-    },
-    {
       "id": "121df5ae25aba824278a310fc410a9827ad756b5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
+      "published": "2025-08-21 12:00:00",
+      "timestamp": 1755777600
+    },
+    {
+      "id": "d893db57cc32ae94c8bc15873c7e828f0b7713b4",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Three Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-releases-three-industrial-control-systems-advisories",
+      "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 21, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-233-01 Mitsubishi Electric Corporation MELSEC iQ-F Series CPU Module ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update A) ICSMA-25-233-01 FUJIFILM Healthcare Americas Synapse Mobility CISA encourages users and administrators to review newly released ICS advisories for",
       "published": "2025-08-21 12:00:00",
       "timestamp": 1755777600
     },
@@ -1158,16 +1168,6 @@
       "title": "CISA Releases Part One of Zero Trust Microsegmentation Guidance",
       "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-part-one-zero-trust-microsegmentation-guidance",
       "summary": "CISA released Microsegmentation in Zero Trust, Part One: Introduction and Planning as part of its ongoing efforts to support Federal Civilian Executive Branch (FCEB) agencies implementing zero trust architectures (ZTAs). This guidance provides a high-level overview of microsegmentation, focusing on its key concepts, associated challenges and potential benefits, and includes recommended actions to modernize network security and advance zero trust principles. Microsegmentation is a critical compon",
-      "published": "2025-07-29 12:00:00",
-      "timestamp": 1753790400
-    },
-    {
-      "id": "2405b2a2c721d7029da876e1c3d2fb50eee97070",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Five Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/29/cisa-releases-five-industrial-control-systems-advisories",
-      "summary": "CISA released five Industrial Control Systems (ICS) advisories on July 29, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-210-01 National Instruments LabVIEW ICSA-25-210-02 Samsung HVAC DMS ICSA-25-210-03 Delta Electronics DTN Soft ICSA-24-158-04 Johnson Controls Software House iStar Pro Door Controller (Update A) ICSA-24-338-06 Fuji Electric Tellus Lite V-Simulator (Update A) CISA encourages users and admin",
       "published": "2025-07-29 12:00:00",
       "timestamp": 1753790400
     },
