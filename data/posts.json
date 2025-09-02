@@ -1,6 +1,26 @@
 {
-  "generated_at": 1756820187,
+  "generated_at": 1756827414,
   "items": [
+    {
+      "id": "8705e9a39102b5f4053cadf22f4ea78f7ffd0473",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "No, Google did not warn 2.5 billion Gmail users to reset passwords",
+      "link": "https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/",
+      "summary": "Google has disputed a widely reported story about the company warning all Gmail users to reset their passwords due to a recent data breach that also affected some Workspace accounts. [...]",
+      "published": "2025-09-02 14:57:28",
+      "timestamp": 1756825048
+    },
+    {
+      "id": "a8ed075be9d7370b0033186c3d7308708430f095",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Jaguar Land Rover says cyberattack \u2018severely disrupted\u2019 production",
+      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-says-cyberattack-severely-disrupted-production/",
+      "summary": "Jaguar Land Rover (JLR) announced that a cyberattack forced the company to shut down certain systems as part of the mitigation effort. [...]",
+      "published": "2025-09-02 14:23:11",
+      "timestamp": 1756822991
+    },
     {
       "id": "6f8e7735903ccd5b382cf86fbed1bb37853ce978",
       "source": "BleepingComputer",
@@ -12,11 +32,21 @@
       "timestamp": 1756819201
     },
     {
-      "id": "9982dec619c44435410d9c358ee2923374c461b5",
+      "id": "9bb02d1c09adc532446df662bfdd8e0edd6315e6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2020-24363 TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability CVE-2025-55177 Meta Platforms WhatsApp Incorrect Authorization Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the",
+      "published": "2025-09-02 12:00:00",
+      "timestamp": 1756814400
+    },
+    {
+      "id": "2cab682dad43f983cbcb4be88652544ba024f4db",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Palo Alto Networks data breach exposes customer info, support tickets",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-tickets/",
+      "title": "Palo Alto Networks data breach exposes customer info, support cases",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-cases/",
       "summary": "Palo Alto Networks suffered a data breach that exposed customer data and support cases after attackers abused compromised OAuth tokens from the Salesloft Drift breach to access its Salesforce instance. [...]",
       "published": "2025-09-02 12:00:00",
       "timestamp": 1756814400
@@ -210,16 +240,6 @@
       "summary": "WhatsApp has addressed a security vulnerability in its messaging apps for Apple iOS and macOS that it said may have been exploited in the wild in conjunction with a recently disclosed Apple flaw in targeted zero-day attacks. The vulnerability, CVE-2025-55177 (CVSS score: 8.0 [CISA-ADP]/5.4 [Facebook]), relates to a case of insufficient authorization of linked device synchronization messages.",
       "published": "2025-08-30 04:36:00",
       "timestamp": 1756528560
-    },
-    {
-      "id": "2be4854b0e5f83acb00a22615675f42b0f0f13fa",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5064081 update clears up CPU usage metrics in Task Manager",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5064081-update-clears-up-cpu-usage-metrics-in-task-manager/",
-      "summary": "Microsoft has released the KB5064081 preview cumulative update for Windows 11 24H2, which includes thirty-six new features or changes, with many gradually rolling out. These updates include new Recall features and a new way of displaying CPU usage in Task Manager. [...]",
-      "published": "2025-08-29 18:57:04",
-      "timestamp": 1756493824
     },
     {
       "id": "2899754cd2ccb1570709b1c27c45926f277b43b8",
@@ -892,22 +912,22 @@
       "timestamp": 1755100800
     },
     {
-      "id": "e962b63eb106b979270f81289a1502053b951e34",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-8875 N-able N-central Insecure Deserialization Vulnerability CVE-2025-8876 N-able N-central Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited ",
-      "published": "2025-08-13 12:00:00",
-      "timestamp": 1755086400
-    },
-    {
       "id": "064c5058d6c5560ee7654a1b66f5b16811432cb1",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators",
       "summary": "CISA, along with the National Security Agency, the Federal Bureau of Investigation, Environmental Protection Agency, and several international partners, released comprehensive guidance to help operational technology (OT) owners and operators across all critical infrastructure sectors create and maintain OT asset inventories and supplemental taxonomies. An asset inventory is a regularly updated, structured list of an organization's systems, hardware, and software. It includes a categorization sys",
+      "published": "2025-08-13 12:00:00",
+      "timestamp": 1755086400
+    },
+    {
+      "id": "e962b63eb106b979270f81289a1502053b951e34",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-8875 N-able N-central Insecure Deserialization Vulnerability CVE-2025-8876 N-able N-central Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited ",
       "published": "2025-08-13 12:00:00",
       "timestamp": 1755086400
     },
@@ -1150,16 +1170,6 @@
       "summary": "CISA released five Industrial Control Systems (ICS) advisories on July 29, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-210-01 National Instruments LabVIEW ICSA-25-210-02 Samsung HVAC DMS ICSA-25-210-03 Delta Electronics DTN Soft ICSA-24-158-04 Johnson Controls Software House iStar Pro Door Controller (Update A) ICSA-24-338-06 Fuji Electric Tellus Lite V-Simulator (Update A) CISA encourages users and admin",
       "published": "2025-07-29 12:00:00",
       "timestamp": 1753790400
-    },
-    {
-      "id": "0ab331b0e825c6fce2573cf626f40e49706ced5d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/07/28/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-20281 Cisco Identity Services Engine Injection Vulnerability CVE-2025-20337 Cisco Identity Services Engine Injection Vulnerability CVE-2023-2533 PaperCut NG/MF Cross-Site Request Forgery (CSRF) Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bindin",
-      "published": "2025-07-28 12:00:00",
-      "timestamp": 1753704000
     },
     {
       "id": "7a3a4c402f363586fe276f2f9c77d84b37cdb4f4",
