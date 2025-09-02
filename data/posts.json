@@ -1,6 +1,46 @@
 {
-  "generated_at": 1756805637,
+  "generated_at": 1756820187,
   "items": [
+    {
+      "id": "6f8e7735903ccd5b382cf86fbed1bb37853ce978",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Pennsylvania AG Office says ransomware attack behind recent outage",
+      "link": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-office-says-ransomware-attack-behind-recent-outage/",
+      "summary": "The Office of the Pennsylvania Attorney General announced that a ransomware attack is behind the ongoing two-week service outage. [...]",
+      "published": "2025-09-02 13:20:01",
+      "timestamp": 1756819201
+    },
+    {
+      "id": "9982dec619c44435410d9c358ee2923374c461b5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Palo Alto Networks data breach exposes customer info, support tickets",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-tickets/",
+      "summary": "Palo Alto Networks suffered a data breach that exposed customer data and support cases after attackers abused compromised OAuth tokens from the Salesloft Drift breach to access its Salesforce instance. [...]",
+      "published": "2025-09-02 12:00:00",
+      "timestamp": 1756814400
+    },
+    {
+      "id": "8e222444675bcbd30477773adf12e503ccd9e2f2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Shadow AI Discovery: A Critical Part of Enterprise AI Governance",
+      "link": "https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html",
+      "summary": "The Harsh Truths of AI Adoption MITs State of AI in Business report revealed that while 40% of organizations have purchased enterprise LLM subscriptions, over 90% of employees are actively using AI tools in their daily work. Similarly, research from Harmonic Security found that 45.4% of sensitive AI interactions are coming from personal email accounts, where employees are bypassing corporate",
+      "published": "2025-09-02 11:30:00",
+      "timestamp": 1756812600
+    },
+    {
+      "id": "91904366ab44c9a875cb92ec3de2c9a63c20d8b1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices",
+      "link": "https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html",
+      "summary": "Cybersecurity researchers have flagged a Ukrainian IP network for engaging in massive brute-force and password spraying campaigns targeting SSL VPN and RDP devices between June and July 2025. The activity originated from a Ukraine-based autonomous system FDN3 (AS211736), per French cybersecurity company Intrinsec. \"We believe with a high level of confidence that FDN3 is part of a wider abusive",
+      "published": "2025-09-02 10:38:00",
+      "timestamp": 1756809480
+    },
     {
       "id": "e17aaeb3d7949fbaf2054f899396198a3df2c0c0",
       "source": "The Hacker News",
@@ -182,16 +222,6 @@
       "timestamp": 1756493824
     },
     {
-      "id": "e9f843b21060afe94702c0f51433eac9efb71fb0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes bug behind Windows certificate enrollment errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-certificate-enrollment-errors/",
-      "summary": "Microsoft has resolved a known issue causing false CertificateServicesClient (CertEnroll) error messages after installing the July 2025 preview and subsequent Windows 11 24H2 updates. [...]",
-      "published": "2025-08-29 18:02:25",
-      "timestamp": 1756490545
-    },
-    {
       "id": "2899754cd2ccb1570709b1c27c45926f277b43b8",
       "source": "The Hacker News",
       "source_category": "General",
@@ -200,16 +230,6 @@
       "summary": "Three new security vulnerabilities have been disclosed in the Sitecore Experience Platform that could be exploited to achieve information disclosure and remote code execution. The flaws, per watchTowr Labs, are listed below - CVE-2025-53693 - HTML cache poisoning through unsafe reflections CVE-2025-53691 - Remote code execution (RCE) through insecure deserialization CVE-2025-53694 -",
       "published": "2025-08-29 17:22:00",
       "timestamp": 1756488120
-    },
-    {
-      "id": "91f1115ce1cf216975133a6c71f129d2401e96fd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WhatsApp patches vulnerability exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/",
-      "summary": "WhatsApp has patched a security vulnerability in its iOS and macOS messaging clients that was exploited in targeted zero-day attacks. [...]",
-      "published": "2025-08-29 16:31:23",
-      "timestamp": 1756485083
     },
     {
       "id": "6234ad49553ae132525e7de7ca42614758f95354",
@@ -740,26 +760,6 @@
       "summary": "Cybersecurity researchers are calling attention to malicious activity orchestrated by a China-nexus cyber espionage group known as Murky Panda that involves abusing trusted relationships in the cloud to breach enterprise networks. \"The adversary has also shown considerable ability to quickly weaponize N-day and zero-day vulnerabilities and frequently achieves initial access to their targets by",
       "published": "2025-08-22 11:06:00",
       "timestamp": 1755860760
-    },
-    {
-      "id": "e625204d0f795d51d5cef75548183ff6ee2b180b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Automation Is Redefining Pentest Delivery",
-      "link": "https://thehackernews.com/2025/08/automation-is-redefining-pentest.html",
-      "summary": "Pentesting remains one of the most effective ways to identify real-world security weaknesses before adversaries do. But as the threat landscape has evolved, the way we deliver pentest results hasn't kept pace. Most organizations still rely on traditional reporting methods\u2014static PDFs, emailed documents, and spreadsheet-based tracking. The problem? These outdated workflows introduce delays,",
-      "published": "2025-08-22 11:06:00",
-      "timestamp": 1755860760
-    },
-    {
-      "id": "756dc5a4b7afb318900fb6b7c590976257f779e6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown",
-      "link": "https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html",
-      "summary": "INTERPOL on Friday announced that authorities from 18 countries across Africa have arrested 1,209 cybercriminals who targeted 88,000 victims. \"The crackdown recovered $97.4 million and dismantled 11,432 malicious infrastructures, underscoring the global reach of cybercrime and the urgent need for cross-border cooperation,\" the agency said. The effort is the second phase of an ongoing law",
-      "published": "2025-08-22 11:05:00",
-      "timestamp": 1755860700
     },
     {
       "id": "32e247d2f75878c7093ecec4b4c0e2efd732c25d",
