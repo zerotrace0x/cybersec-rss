@@ -1,6 +1,26 @@
 {
-  "generated_at": 1756924889,
+  "generated_at": 1756934812,
   "items": [
+    {
+      "id": "8c132460635174c1497a054e79a4f34da7e7f8bc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers",
+      "link": "https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html",
+      "summary": "Cybersecurity researchers have discovered two new malicious packages on the npm registry that make use of smart contracts for the Ethereum blockchain to carry out malicious actions on compromised systems, signaling the trend of threat actors constantly on the lookout for new ways to distribute malware and fly under the radar. \"The two npm packages abused smart contracts to conceal malicious",
+      "published": "2025-09-03 19:59:00",
+      "timestamp": 1756929540
+    },
+    {
+      "id": "f5868f9f5b8044db803428fec9271663d55a171a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US offers $10 million bounty for info on Russian FSB hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/",
+      "summary": "The U.S. Department of State is offering a reward of up to $10 million for information on three Russian Federal Security Service (FSB) officers involved in cyberattacks targeting U.S. critical infrastructure organizations on behalf of the Russian government. [...]",
+      "published": "2025-09-03 19:01:46",
+      "timestamp": 1756926106
+    },
     {
       "id": "70c3caaa4380858e1db6a9855876de4812f01770",
       "source": "BleepingComputer",
@@ -70,6 +90,16 @@
       "summary": "Geolocation is the invisible attack vector. From Stuxnet to today's APTs, malware now lies dormant until it hits the right place\u2014turning location data into a weapon. Acronis' TRU explains why defenses must evolve beyond VPNs and perimeter controls. [...]",
       "published": "2025-09-03 14:02:12",
       "timestamp": 1756908132
+    },
+    {
+      "id": "9f9692e97cee9f6aaf61ced8322cdd8c7d0dec35",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "ViewState Deserialization Zero-Day Vulnerability in Sitecore Products (CVE-2025-53690)",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/viewstate-deserialization-zero-day-vulnerability/",
+      "summary": "Written by: Rommel Joven, Josh Fleischer, Joseph Sciuto, Andi Slok, Choon Kiat Ng In a recent investigation, Mandiant Threat Defense discovered an active ViewState deserialization attack affecting Sitecore deployments leveraging sample machine keys that had been exposed in Sitecore deployment guides from 2017 and earlier. An attacker leveraged the exposed ASP.NET machine keys to perform remote code execution. Mandiant worked directly with Sitecore to address this issue. Sitecore tracks this vuln",
+      "published": "2025-09-03 14:00:00",
+      "timestamp": 1756908000
     },
     {
       "id": "210b8eed464317bd7203db83b1323ac83545d144",
@@ -230,16 +260,6 @@
       "summary": "Cybersecurity researchers have disclosed a stealthy new backdoor called MystRodX that comes with a variety of features to capture sensitive data from compromised systems. \"MystRodX is a typical backdoor implemented in C++, supporting features like file management, port forwarding, reverse shell, and socket management,\" QiAnXin XLab said in a report published last week. \"Compared to typical",
       "published": "2025-09-02 14:56:00",
       "timestamp": 1756824960
-    },
-    {
-      "id": "a8ed075be9d7370b0033186c3d7308708430f095",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Jaguar Land Rover says cyberattack \u2018severely disrupted\u2019 production",
-      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-says-cyberattack-severely-disrupted-production/",
-      "summary": "Jaguar Land Rover (JLR) announced that a cyberattack forced the company to shut down certain systems as part of the mitigation effort. [...]",
-      "published": "2025-09-02 14:23:11",
-      "timestamp": 1756822991
     },
     {
       "id": "9bb02d1c09adc532446df662bfdd8e0edd6315e6",
@@ -770,16 +790,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws impacting Citrix Session Recording and Git to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2024-8068 (CVSS score: 5.1) - An improper privilege management vulnerability in Citrix Session Recording",
       "published": "2025-08-26 05:55:00",
       "timestamp": 1756187700
-    },
-    {
-      "id": "edefdb8da81afc2c14268ef285807f39ce09f68e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats",
-      "link": "https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html",
-      "summary": "A China-nexus threat actor known as UNC6384 has been attributed to a set of attacks targeting diplomats in Southeast Asia and other entities across the globe to advance Beijing's strategic interests. \"This multi-stage attack chain leverages advanced social engineering including valid code signing certificates, an adversary-in-the-middle (AitM) attack, and indirect execution techniques to evade",
-      "published": "2025-08-25 18:11:00",
-      "timestamp": 1756145460
     },
     {
       "id": "17bbb22a350217a2aa2f7ebbd6b1c2cbe5246143",
@@ -1370,16 +1380,6 @@
       "summary": "Written by: John Wolfram, Michael Edie, Jacob Thompson, Matt Lin, Josh Murchie On Thursday, April 3, 2025, Ivanti disclosed a critical security vulnerability, CVE-2025-22457, impacting Ivanti Connect Secure (\u201cICS\u201d) VPN appliances version 22.7R2.5 and earlier. CVE-2025-22457 is a buffer overflow vulnerability, and successful exploitation would result in remote code execution. Mandiant and Ivanti have identified evidence of active exploitation in the wild against ICS 9.X (end of life) and 22.7R2.5",
       "published": "2025-04-03 14:00:00",
       "timestamp": 1743688800
-    },
-    {
-      "id": "a92d2ec489d7235c221a1759d8c926242125f36b",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "DPRK IT Workers Expanding in Scope and Scale",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-it-workers-expanding-scope-scale/",
-      "summary": "Written by: Jamie Collier Since our September 2024 report outlining the Democratic People's Republic of Korea (DPRK) IT worker threat, the scope and scale of their operations has continued to expand. These individuals pose as legitimate remote workers to infiltrate companies and generate revenue for the regime. This places organizations that hire DPRK IT workers at risk of espionage, data theft, and disruption. In collaboration with partners, Google Threat Intelligence Group (GTIG) has identifie",
-      "published": "2025-04-01 12:00:00",
-      "timestamp": 1743508800
     },
     {
       "id": "60bfd55dcb7007d7ef521d0dd6903af1137f861a",
