@@ -1,6 +1,26 @@
 {
-  "generated_at": 1756868483,
+  "generated_at": 1756881968,
   "items": [
+    {
+      "id": "2f96d5e662d5caa66359ce84566369f0ba890388",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation",
+      "link": "https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a high-severity security flaw impacting TP-Link TL-WA855RE Wi-Fi Ranger Extender products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, CVE-2020-24363 (CVSS score: 8.8), concerns a case of missing authentication that could be abused to obtain",
+      "published": "2025-09-03 05:09:00",
+      "timestamp": 1756876140
+    },
+    {
+      "id": "7ce1f488c7aa397bd60ff69145d1f50f5b713ebf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations",
+      "link": "https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html",
+      "summary": "Salesloft on Tuesday announced that it's taking Drift temporarily offline \"in the very near future,\" as multiple companies have been ensnared in a far-reaching supply chain attack spree targeting the marketing software-as-a-service product, resulting in the mass theft of authentication tokens. \"This will provide the fastest path forward to comprehensively review the application and build",
+      "published": "2025-09-03 03:53:00",
+      "timestamp": 1756871580
+    },
     {
       "id": "9fe0c5e2728dcf16afe7ecf18e8341377a1812b2",
       "source": "BleepingComputer",
@@ -760,26 +780,6 @@
       "summary": "The advanced persistent threat (APT) actor known as Transparent Tribe has been observed targeting both Windows and BOSS (Bharat Operating System Solutions) Linux systems with malicious Desktop shortcut files in attacks targeting Indian Government entities. \"Initial access is achieved through spear-phishing emails,\" CYFIRMA said. \"Linux BOSS environments are targeted via weaponized .desktop",
       "published": "2025-08-25 08:13:00",
       "timestamp": 1756109580
-    },
-    {
-      "id": "5347216c32fafa3e349e096f6a574876c0cfb822",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
-      "link": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
-      "summary": "Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator. \"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor,\" Socket researcher Kirill Boychenko",
-      "published": "2025-08-24 13:38:00",
-      "timestamp": 1756042680
-    },
-    {
-      "id": "89b79cd1b4699f9a0fc2012bbe2d9ae532592461",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
-      "link": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
-      "summary": "Cybersecurity researchers are calling attention to multiple campaigns that are taking advantage of known security vulnerabilities and exposed Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure. The first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8),",
-      "published": "2025-08-23 07:38:00",
-      "timestamp": 1755934680
     },
     {
       "id": "572b0d61429a23b81e239866a3b3c72546a42356",
