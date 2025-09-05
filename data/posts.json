@@ -1,6 +1,56 @@
 {
-  "generated_at": 1757078208,
+  "generated_at": 1757086308,
   "items": [
+    {
+      "id": "e07f938dbaba94f09652df4092f72e21eca9cb53",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Max severity Argo CD API flaw leaks repository credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-argo-cd-api-flaw-leaks-repository-credentials/",
+      "summary": "An Argo CD vulnerability allows API tokens with even low project-level get permissions to access API endpoints and retrieve all repository credentials associated with the project. [...]",
+      "published": "2025-09-05 15:30:18",
+      "timestamp": 1757086218
+    },
+    {
+      "id": "c20866f29d7b04e2dc602693c9b925bc5a6821e6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft gives US students a free year of Microsoft 365 Personal",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-gives-us-students-a-free-year-of-microsoft-365-personal/",
+      "summary": "Microsoft announced that starting this Thursday, all college students in the United States can get a free year of Microsoft 365 Personal. [...]",
+      "published": "2025-09-05 14:31:03",
+      "timestamp": 1757082663
+    },
+    {
+      "id": "3ab8a137474f0ed7eab8a68ea1ae73cac34639a5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations",
+      "link": "https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html",
+      "summary": "The threat actor behind the malware-as-a-service (MaaS) framework and loader called CastleLoader has also developed a remote access trojan known as CastleRAT. \"Available in both Python and C variants, CastleRAT's core functionality consists of collecting system information, downloading and executing additional payloads, and executing commands via CMD and PowerShell,\" Recorded Future Insikt Group",
+      "published": "2025-09-05 14:07:00",
+      "timestamp": 1757081220
+    },
+    {
+      "id": "304c7a5e29718bb9813b62cd63078f848e918406",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Don\u2019t let outdated IGA hold back your security, compliance, and growth",
+      "link": "https://www.bleepingcomputer.com/news/security/dont-let-outdated-iga-hold-back-your-security-compliance-and-growth/",
+      "summary": "Identity Governance & Administration (IGA) is critical to keeping data secure, ensuring only the right people have access to the right resources. But legacy IGA is slow, costly, and code-heavy. Learn from tenfold why Modern IGA solutions deliver faster out-of-the-box integrations, streamlined governance, and built-in compliance. [...]",
+      "published": "2025-09-05 14:02:12",
+      "timestamp": 1757080932
+    },
+    {
+      "id": "f790d17842d135a469df08435710650737232f1c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical SAP S/4HANA vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sap-s-4hana-vulnerability-now-exploited-in-attacks/",
+      "summary": "A critical SAP S/4HANA code injection vulnerability is being leveraged in attacks in the wild to breach exposed servers, researchers warn. [...]",
+      "published": "2025-09-05 13:36:35",
+      "timestamp": 1757079395
+    },
     {
       "id": "d57e8ad04589fa89ca46a057d17d3f2313a9a2f6",
       "source": "The Hacker News",
@@ -192,16 +242,6 @@
       "timestamp": 1756980180
     },
     {
-      "id": "37d0559a84d6ea97ca27cf89d10bff72c0317979",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Threat actors abuse X\u2019s Grok AI to spread malicious links",
-      "link": "https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/",
-      "summary": "Threat actors are using Grok, X's built-in AI assistant, to bypass link posting restrictions that the platform introduced to reduce malicious advertising. [...]",
-      "published": "2025-09-03 22:01:34",
-      "timestamp": 1756936894
-    },
-    {
       "id": "8c132460635174c1497a054e79a4f34da7e7f8bc",
       "source": "The Hacker News",
       "source_category": "General",
@@ -210,36 +250,6 @@
       "summary": "Cybersecurity researchers have discovered two new malicious packages on the npm registry that make use of smart contracts for the Ethereum blockchain to carry out malicious actions on compromised systems, signaling the trend of threat actors constantly on the lookout for new ways to distribute malware and fly under the radar. \"The two npm packages abused smart contracts to conceal malicious",
       "published": "2025-09-03 19:59:00",
       "timestamp": 1756929540
-    },
-    {
-      "id": "f5868f9f5b8044db803428fec9271663d55a171a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US offers $10 million bounty for info on Russian FSB hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/",
-      "summary": "The U.S. Department of State is offering a reward of up to $10 million for information on three Russian Federal Security Service (FSB) officers involved in cyberattacks targeting U.S. critical infrastructure organizations on behalf of the Russian government. [...]",
-      "published": "2025-09-03 19:01:46",
-      "timestamp": 1756926106
-    },
-    {
-      "id": "70c3caaa4380858e1db6a9855876de4812f01770",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/",
-      "summary": "Hackers are increasingly using a new AI-powered offensive security framework called HexStrike-AI in real attacks to exploit newly disclosed n-day flaws. [...]",
-      "published": "2025-09-03 18:03:42",
-      "timestamp": 1756922622
-    },
-    {
-      "id": "4733e89a38c35d721364542241ea56c258c25d72",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US sues robot toy maker for exposing children's data to Chinese devs",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/",
-      "summary": "The U.S. Department of Justice has sued toy maker Apitor Technology for allegedly allowing a Chinese third party to collect children's geolocation data without their knowledge and parental consent. [...]",
-      "published": "2025-09-03 17:53:32",
-      "timestamp": 1756922012
     },
     {
       "id": "9f9692e97cee9f6aaf61ced8322cdd8c7d0dec35",
@@ -750,16 +760,6 @@
       "summary": "CISA, along with the National Security Agency, Federal Bureau of Investigation, and international partners, released a joint Cybersecurity Advisory on People\u2019s Republic of China (PRC) state-sponsored Advanced Persistent Threat (APT) actors targeting critical infrastructure across sectors and continents to maintain persistent, long-term access to networks. This advisory builds on previous reporting and is based on real-world investigations conducted across multiple countries through July 2025. Wh",
       "published": "2025-08-27 12:00:00",
       "timestamp": 1756296000
-    },
-    {
-      "id": "f5e70d3c9bf14110c1d92b7ffbad6693e41481bc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The 5 Golden Rules of Safe AI Adoption",
-      "link": "https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html",
-      "summary": "Employees are experimenting with AI at record speed. They are drafting emails, analyzing data, and transforming the workplace. The problem is not the pace of AI adoption, but the lack of control and safeguards in place. For CISOs and security leaders like you, the challenge is clear: you don\u2019t want to slow AI adoption down, but you must make it safe. A policy sent company-wide will not cut it.",
-      "published": "2025-08-27 11:30:00",
-      "timestamp": 1756294200
     },
     {
       "id": "de60dbb4f2bb1c67c15aebf0c86737268ea24e0c",
