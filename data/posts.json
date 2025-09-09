@@ -1,6 +1,56 @@
 {
-  "generated_at": 1757410479,
+  "generated_at": 1757425152,
   "items": [
+    {
+      "id": "fc5228d5eca7f4fdb6daa0b997063138b56f02d4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SAP fixes maximum severity NetWeaver command execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/",
+      "summary": "SAP has addressed 21 new vulnerabilities affecting its products, including three critical severity issues impacting the NetWeaver software solution. [...]",
+      "published": "2025-09-09 13:18:11",
+      "timestamp": 1757423891
+    },
+    {
+      "id": "0c96058bdf834c6c915b501b863f058977d0954e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities",
+      "link": "https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html",
+      "summary": "A new Android malware called RatOn evolved from a basic tool capable of conducting Near Field Communication (NFC) attacks to a sophisticated remote access trojan with Automated Transfer System (ATS) capabilities to conduct device fraud. \"RatOn merges traditional overlay attacks with automatic money transfers and NFC relay functionality \u2013 making it a uniquely powerful threat,\" the Dutch mobile",
+      "published": "2025-09-09 11:53:00",
+      "timestamp": 1757418780
+    },
+    {
+      "id": "7d2874fe3e9d34c485de23822ca09615dd9c33f6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft testing new AI features in Windows 11 File Explorer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/",
+      "summary": "Microsoft is testing new File Explorer AI-powered features that will enable Windows 11 users to work with images and documents without needing to open the files. [...]",
+      "published": "2025-09-09 11:41:12",
+      "timestamp": 1757418072
+    },
+    {
+      "id": "e706c4478c4f5dc54cf8ee29f54533c378dec3e0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "[Webinar] Shadow AI Agents Multiply Fast \u2014  Learn How to Detect and Control Them",
+      "link": "https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html",
+      "summary": "\u26a0\ufe0f One click is all it takes. An engineer spins up an \u201cexperimental\u201d AI Agent to test a workflow. A business unit connects to automate reporting. A cloud platform quietly enables a new agent behind the scenes. Individually, they look harmless. But together, they form an invisible swarm of Shadow AI Agents\u2014operating outside security\u2019s line of sight, tied to identities you don\u2019t even know exist.",
+      "published": "2025-09-09 10:37:00",
+      "timestamp": 1757414220
+    },
+    {
+      "id": "49f5efdc56b5692f6d293291e762cb5d4990acc5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks",
+      "link": "https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing campaign that delivers a stealthy banking malware-turned-remote access trojan called MostereRAT. The phishing attack incorporates a number of advanced evasion techniques to gain complete control over compromised systems, siphon sensitive data, and extend its functionality by serving secondary plugins, Fortinet FortiGuard Labs said. \"",
+      "published": "2025-09-09 10:27:00",
+      "timestamp": 1757413620
+    },
     {
       "id": "55c97618d200d30eefb165983f223a437d2268bf",
       "source": "The Hacker News",
@@ -8,8 +58,18 @@
       "title": "How Leading CISOs are Getting Budget Approval",
       "link": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
       "summary": "It\u2019s budget season. Once again, security is being questioned, scrutinized, or deprioritized. If you're a CISO or security leader, you've likely found yourself explaining why your program matters, why a given tool or headcount is essential, and how the next breach is one blind spot away. But these arguments often fall short unless they're framed in a way the board can understand and appreciate.",
-      "published": "2025-09-09 08:30:00",
-      "timestamp": 1757406600
+      "published": "2025-09-09 10:26:00",
+      "timestamp": 1757413560
+    },
+    {
+      "id": "e6a7dd516397ff18a0b4c2e007c97c0959deac6e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs",
+      "link": "https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html",
+      "summary": "Cybersecurity researchers have discovered a variant of a recently disclosed campaign that abuses the TOR network for cryptojacking attacks targeting exposed Docker APIs. Akamai, which discovered the latest activity last month, said it's designed to block other actors from accessing the Docker API from the internet. The findings build on a prior report from Trend Micro in late June 2025, which",
+      "published": "2025-09-09 10:02:00",
+      "timestamp": 1757412120
     },
     {
       "id": "225a4fe4b273031e99b09aa52ab78591506793b5",
@@ -40,16 +100,6 @@
       "summary": "Threat hunters have discovered a set of previously unreported domains, some going back to May 2020, that are associated with China-linked threat actors Salt Typhoon and UNC4841. \"The domains date back several years, with the oldest registration activity occurring in May 2020, further confirming that the 2024 Salt Typhoon attacks were not the first activity carried out by this group,\" Silent Push",
       "published": "2025-09-09 00:27:00",
       "timestamp": 1757377620
-    },
-    {
-      "id": "f1dd639fe3b5f5d8adba53e5405c61b33a954c21",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
-      "link": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
-      "summary": "At least 18 popular JavaScript code packages that are collectively downloaded more than two billion times each week were briefly compromised with malicious software today, after a developer involved in maintaining the projects was phished. The attack appears to have been quickly contained and was narrowly focused on stealing cryptocurrency. But experts warn that a similar attack with a slightly more nefarious payload could quickly lead to a disruptive malware outbreak that is far more difficult ",
-      "published": "2025-09-08 22:53:41",
-      "timestamp": 1757372021
     },
     {
       "id": "5d4fa3549cc70bbe4ab43929fc64e6f44bcb3b8e",
@@ -127,7 +177,7 @@
       "source_category": "General",
       "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
       "link": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
-      "summary": "Salesloft has revealed that the data breach linked to its Drift application started with the compromise of its GitHub account. Google-owned Mandiant, which began an investigation into the incident, said the threat actor, tracked as UNC6395, accessed the Salesloft GitHub account from March through June 2025. So far, 22 companies have confirmed they were impacted by a supply chain breach. \"With",
+      "summary": "Salesloft has revealed that the data breach linked to its Drift application started with the compromise of its GitHub account. Google-owned Mandiant, which began an investigation into the incident, said the threat actor, tracked as UNC6395, accessed the Salesloft GitHub account from March through June 2025. It's currently not known how the digital intruders gained access to the GitHub account.",
       "published": "2025-09-08 15:26:00",
       "timestamp": 1757345160
     },
@@ -192,26 +242,6 @@
       "timestamp": 1757288029
     },
     {
-      "id": "31b07adbe86b10defcf7ac0105a309f367cc80cd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "iCloud Calendar abused to send phishing emails from Apple\u2019s servers",
-      "link": "https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/",
-      "summary": "iCloud Calendar invites are being abused to send callback phishing emails disguised as purchase notifications directly from Apple's email servers, making them more likely to bypass spam filters to land in targets' inboxes. [...]",
-      "published": "2025-09-07 17:10:29",
-      "timestamp": 1757265029
-    },
-    {
-      "id": "63c3bfc98b86389b7672f607c40d7dce38e9f791",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Czech cyber agency warns against Chinese tech in critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/",
-      "summary": "The Czech Republic's National Cyber and Information Security Agency (NUKIB) is instructing critical infrastructure organizations in the country to avoid using Chinese technology or transferring user data to servers located in China. [...]",
-      "published": "2025-09-07 14:09:19",
-      "timestamp": 1757254159
-    },
-    {
       "id": "66df97ad4f4ebb2783922c05e01aa09405099763",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +260,6 @@
       "summary": "A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum developers. \"The packages masquerade as legitimate cryptographic utilities and Flashbots MEV infrastructure while secretly exfiltrating private keys and mnemonic seeds to a Telegram bot controlled by the threat actor,\" Socket researcher",
       "published": "2025-09-06 06:42:00",
       "timestamp": 1757140920
-    },
-    {
-      "id": "d4d8b5da4e145269d692818345dca7bcda2785a0",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "GOP Cries Censorship Over Spam Filters That Work",
-      "link": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
-      "summary": "The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google's CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block similar missives supporting Democrats. The letter followed media reports accusing Gmail of disproportionately flagging messages from the GOP fundraising platform WinRed and sending them to the spam folder. But according to experts who track daily spam volumes worldwide, WinRed's messages are getting b",
-      "published": "2025-09-06 03:23:35",
-      "timestamp": 1757129015
     },
     {
       "id": "e0a51d727a195b91950941a2bf36cd348f0ffcb1",
@@ -582,16 +602,6 @@
       "timestamp": 1756788000
     },
     {
-      "id": "7d62849858c84009044be7a0ed2d1e94de5b2a02",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "summary": "The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, ",
-      "published": "2025-09-01 21:55:04",
-      "timestamp": 1756763704
-    },
-    {
       "id": "ba692bb5097fa498b2635aa16145f7aef4604d6e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -712,56 +722,6 @@
       "timestamp": 1756463400
     },
     {
-      "id": "d4c5447004e47fdb955f593afe17c82b7e001dc1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page",
-      "link": "https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html",
-      "summary": "Click Studios, the developer of enterprise-focused password management solution Passwordstate, said it has released security updates to address an authentication bypass vulnerability in its software. The high-severity issue, which is yet to be assigned a CVE identifier, has been addressed in Passwordstate 9.9 (Build 9972), released August 28, 2025. The Australian company said it fixed a \"",
-      "published": "2025-08-29 09:58:00",
-      "timestamp": 1756461480
-    },
-    {
-      "id": "896746006dde0db6eb61131de693ed2c5039613f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available",
-      "link": "https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html",
-      "summary": "The Sangoma FreePBX Security Team has issued an advisory warning about an actively exploited FreePBX zero-day vulnerability that impacts systems with an administrator control panel (ACP) exposed to the public internet. FreePBX is an open-source private branch exchange (PBX) platform widely used by businesses, call centers, and service providers to manage voice communications. It's built on top",
-      "published": "2025-08-29 09:44:00",
-      "timestamp": 1756460640
-    },
-    {
-      "id": "c0f66ad2f6797f838d5abce6e816416c8ff07a10",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain",
-      "link": "https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html",
-      "summary": "Authorities from the Netherlands and the United States have announced the dismantling of an illicit marketplace called VerifTools that peddled fraudulent identity documents to cybercriminals across the world. To that end, two marketplace domains (verif[.]tools and veriftools[.]net) and one blog have been taken down, redirecting site visitors to a splash page stating the action was undertaken by",
-      "published": "2025-08-29 09:05:00",
-      "timestamp": 1756458300
-    },
-    {
-      "id": "36a65a806c2f58e637a8f3663894b5fc5a3210e8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Warns Salesloft Drift Breach Impacts All Drift Integrations Beyond Salesforce",
-      "link": "https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html",
-      "summary": "Google has revealed that the recent wave of attacks targeting Salesforce instances via Salesloft Drift is much broader in scope than previously thought, stating it impacts all integrations. \"We now advise all Salesloft Drift customers to treat any and all authentication tokens stored in or connected to the Drift platform as potentially compromised,\" Google Threat Intelligence Group (GTIG) and",
-      "published": "2025-08-29 07:24:00",
-      "timestamp": 1756452240
-    },
-    {
-      "id": "1b2fc7c628162afb3a9be4bce369ebfd9faa5d57",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
-      "link": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
-      "summary": "Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We've since learned that these scam gambling sites have proliferated thanks to a new Russian affiliate program called \"Gambler Panel\" that bills itself as a \"soulless project that is made for profit.\"",
-      "published": "2025-08-28 17:21:32",
-      "timestamp": 1756401692
-    },
-    {
       "id": "d220353bec23d4a12a1d7970ccc2c29b6d91f994",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -810,16 +770,6 @@
       "summary": "Hear directly from Corporate Vice President and Deputy Chief Information Security Officer (CISO) for Identity, Igor Sakhnov, about how to secure and govern autonomous agents. This blog is part of a new ongoing series where our Deputy CISOs share their thoughts on what is most important in their respective domains. In this series you will get practical advice, forward-looking commentary on where the industry is going, things you should stop doing, and more. \u200b The post Securing and governing the r",
       "published": "2025-08-26 16:00:00",
       "timestamp": 1756224000
-    },
-    {
-      "id": "b7244a1ca905d096715145edb87d74c72cb6c776",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
-      "link": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
-      "summary": "The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they'd made with company called DSLRoot, which was paying $250 a month to plug a pair of laptops into the Redditor's high-speed Internet connection in the United States. This post examines the history and provenance of DSLRoot, one of the oldest \"residential proxy\" networks with origins in Russia and Eastern E",
-      "published": "2025-08-26 14:05:12",
-      "timestamp": 1756217112
     },
     {
       "id": "57b99892ad337350a711786494a0c98e9dd0b4c6",
@@ -912,16 +862,6 @@
       "timestamp": 1755777600
     },
     {
-      "id": "6e3a8006a40444d7dbfd23e214dd966b9431e9ab",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
-      "link": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
-      "summary": "A 21-year-old Florida man at the center of a prolific cybercrime group known as \"Scattered Spider\" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims. Noah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of wire fraud and conspiracy. Florida prosecutors alleged Urban conspired with others to steal at least $800,000 from five victims via SIM-swapping attacks that diverted their mobile phone calls and text m",
-      "published": "2025-08-21 01:47:22",
-      "timestamp": 1755740842
-    },
-    {
       "id": "1888936088a23fd5b11a29bdb049c4633b053456",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -940,16 +880,6 @@
       "summary": "Written by: Marco Galli Welcome to the Frontline Bulletin Series Straight from Mandiant Threat Defense, the \"Frontline Bulletin\" series brings you the latest on the most intriguing compromises we are seeing in the wild right now, equipping our community to understand and respond to the most compelling threats we observe. This edition dissects an infection involving two threat groups, UNC5518 and UNC5774, leading to the deployment of CORNFLAKE.V3. Introduction Since June 2024, Mandiant Threat Def",
       "published": "2025-08-20 14:00:00",
       "timestamp": 1755698400
-    },
-    {
-      "id": "1f9c81e194d3c40e6f52001b31299bfae682dea0",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Oregon Man Charged in \u2018Rapper Bot\u2019 DDoS Service",
-      "link": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/",
-      "summary": "A 22-year-old Oregon man has been arrested on suspicion of operating \"Rapper Bot,\" a massive botnet used to power a service for launching distributed denial-of-service (DDoS) attacks against targets -- including a March 2025 DDoS that knocked Twitter/X offline. The Justice Department asserts the suspect and an unidentified co-conspirator rented out the botnet to online extortionists, and tried to stay off the radar of law enforcement by ensuring that their botnet was never pointed at KrebsOnSecu",
-      "published": "2025-08-19 20:51:06",
-      "timestamp": 1755636666
     },
     {
       "id": "51ed41955d54debe9a0db1c9be01adc02dc358c4",
@@ -980,16 +910,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54948 Trend Micro Apex One OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "2025-08-18 12:00:00",
       "timestamp": 1755518400
-    },
-    {
-      "id": "da409be5e62873b11abb60ffe70a0b4c8b528d59",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Mobile Phishers Target Brokerage Accounts in \u2018Ramp and Dump\u2019 Cashout Scheme",
-      "link": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/",
-      "summary": "Cybercriminal groups peddling sophisticated phishing kits that convert stolen card data into mobile wallets have recently shifted their focus to targeting customers of brokerage services, new research shows. Undeterred by security controls at these trading platforms that block users from wiring funds directly out of accounts, the phishers have pivoted to using multiple compromised brokerage accounts in unison to manipulate the prices of foreign stocks.",
-      "published": "2025-08-15 18:27:05",
-      "timestamp": 1755282425
     },
     {
       "id": "acc0d8f548c1feb0a0c36a6070b574043f03a3dc",
@@ -1032,16 +952,6 @@
       "timestamp": 1755086400
     },
     {
-      "id": "ae1ddf47b28da2ab5cf623680ffc70a2c1eba06b",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Patch Tuesday, August 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/",
-      "summary": "Microsoft today released updates to fix more than 100 security flaws in its Windows operating systems and other software. At least 13 of the bugs received Microsoft's most-dire \"critical\" rating, meaning they could be abused by malware or malcontents to gain remote access to a Windows system with little or no help from users.",
-      "published": "2025-08-12 22:14:41",
-      "timestamp": 1755036881
-    },
-    {
       "id": "417c2281595019d2a801297935871c0cec7937f3",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1070,16 +980,6 @@
       "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
       "published": "2025-08-12 12:00:00",
       "timestamp": 1755000000
-    },
-    {
-      "id": "692c15a52aeeca29ae1f4439446b2f7e4ebcbfe0",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "KrebsOnSecurity in New \u2018Most Wanted\u2019 HBO Max Series",
-      "link": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/",
-      "summary": "A new documentary series about cybercrime airing next month on HBO Max features interviews with Yours Truly. The four-part series follows the exploits of Julius Kivim\u00e4ki, a prolific Finnish hacker recently convicted of leaking tens of thousands of patient records from an online psychotherapy practice while attempting to extort the clinic and its patients.",
-      "published": "2025-08-08 21:38:01",
-      "timestamp": 1754689081
     },
     {
       "id": "623c1535b47e20e38cde53200832947574c3fe19",
