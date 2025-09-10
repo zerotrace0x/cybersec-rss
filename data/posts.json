@@ -1,6 +1,36 @@
 {
-  "generated_at": 1757453231,
+  "generated_at": 1757473312,
   "items": [
+    {
+      "id": "622f63a54da676d0a21dd180b103fafa3424121f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts",
+      "link": "https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html",
+      "summary": "Adobe has warned of a critical security flaw in its Commerce and Magento Open Source platforms that, if successfully exploited, could allow attackers to take control of customer accounts. The vulnerability, tracked as CVE-2025-54236 (aka SessionReaper), carries a CVSS score of 9.1 out of a maximum of 10.0. It has been described as an improper input validation flaw. Adobe said it's not aware of",
+      "published": "2025-09-10 01:08:00",
+      "timestamp": 1757466480
+    },
+    {
+      "id": "922220c2f61732efe7b439f1627b627f3bfd4899",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SAP Patches Critical NetWeaver (CVSS Up to 10.0) and Previously Exploited S/4HANA Flaws",
+      "link": "https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html",
+      "summary": "SAP on Tuesday released security updates to address multiple security flaws, including three critical vulnerabilities in SAP Netweaver that could result in code execution and the upload arbitrary files. The vulnerabilities are listed below - CVE-2025-42944 (CVSS score: 10.0) - A deserialization vulnerability in SAP NetWeaver that could allow an unauthenticated attacker to submit a malicious",
+      "published": "2025-09-10 01:03:00",
+      "timestamp": 1757466180
+    },
+    {
+      "id": "c8a6117562333f56e53807f6fa07c9441c062415",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Patch Tuesday, September 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
+      "summary": "Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known \"zero-day\" or actively exploited vulnerabilities in this month's bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft's most-dire \"critical\" label. Meanwhile, both Apple and Google recently released updates to fix zero-day bugs in their devices.",
+      "published": "2025-09-09 21:21:14",
+      "timestamp": 1757452874
+    },
     {
       "id": "1036bba4c7698d7223857e4fa297fbb1f2fb0883",
       "source": "BleepingComputer",
@@ -732,26 +762,6 @@
       "timestamp": 1756482120
     },
     {
-      "id": "0796d346dd54ed8efa0f20fd3388c06dbf566505",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication",
-      "link": "https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html",
-      "summary": "Amazon on Friday said it flagged and disrupted what it described as an opportunistic watering hole campaign orchestrated by the Russia-linked APT29 actors as part of their intelligence gathering efforts. The campaign used \"compromised websites to redirect visitors to malicious infrastructure designed to trick users into authorizing attacker-controlled devices through Microsoft's device code",
-      "published": "2025-08-29 13:22:00",
-      "timestamp": 1756473720
-    },
-    {
-      "id": "db8c4f284695d35a5213abc2a108f22820beb6f1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign",
-      "link": "https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html",
-      "summary": "An abandoned update server associated with input method editor (IME) software Sogou Zhuyin was leveraged by threat actors as part of an espionage campaign to deliver several malware families, including C6DOOR and GTELAM, in attacks primarily targeting users across Eastern Asia. \"Attackers employed sophisticated infection chains, such as hijacked software updates and fake cloud storage or login",
-      "published": "2025-08-29 13:12:00",
-      "timestamp": 1756473120
-    },
-    {
       "id": "f351c22c44a3517c0c1aa939d4435856c3e54ca0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1080,16 +1090,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2013-3893 Microsoft Internet Explorer Resource Management Errors Vulnerability CVE-2007-0671 Microsoft Office Excel Remote Code Execution Vulnerability CVE-2025-8088 RARLAB WinRAR Path Traversal Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Op",
       "published": "2025-08-12 12:00:00",
       "timestamp": 1755000000
-    },
-    {
-      "id": "692c15a52aeeca29ae1f4439446b2f7e4ebcbfe0",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "KrebsOnSecurity in New \u2018Most Wanted\u2019 HBO Max Series",
-      "link": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/",
-      "summary": "A new documentary series about cybercrime airing next month on HBO Max features interviews with Yours Truly. The four-part series follows the exploits of Julius Kivim\u00e4ki, a prolific Finnish hacker recently convicted of leaking tens of thousands of patient records from an online psychotherapy practice while attempting to extort the clinic and its patients.",
-      "published": "2025-08-08 21:38:01",
-      "timestamp": 1754689081
     },
     {
       "id": "623c1535b47e20e38cde53200832947574c3fe19",
