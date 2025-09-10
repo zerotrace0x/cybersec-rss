@@ -1,5 +1,5 @@
 {
-  "generated_at": 1757473312,
+  "generated_at": 1757486893,
   "items": [
     {
       "id": "622f63a54da676d0a21dd180b103fafa3424121f",
@@ -1192,22 +1192,22 @@
       "timestamp": 1753800840
     },
     {
-      "id": "7a3a4c402f363586fe276f2f9c77d84b37cdb4f4",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "From Help Desk to Hypervisor: Defending Your VMware vSphere Estate from UNC3944",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944/",
-      "summary": "Introduction In mid 2025, Google Threat Intelligence Group (GTIG) identified a sophisticated and aggressive cyber campaign targeting multiple industries, including retail, airline, and insurance. This was the work of UNC3944, a financially motivated threat group that has exhibited overlaps with public reporting of \"0ktapus,\" \"Octo Tempest,\" and \"Scattered Spider.\" Following public alerts from the Federal Bureau of Investigation (FBI), the group's targeting became clear. GTIG observed that the gr",
-      "published": "2025-07-23 14:00:00",
-      "timestamp": 1753279200
-    },
-    {
       "id": "35d741677f6a5d39121e526db1d5199cb2276647",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "Beyond Convenience: Exposing the Risks of VMware vSphere Active Directory Integration",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/vsphere-active-directory-integration-risks/",
       "summary": "Written by: Stuart Carrera, Brian Meyer Executive Summary Broadcom's VMware vSphere product continues to be a top choice for private cloud virtualization, underpinning important systems and critical infrastructure. Far from losing its appeal, organizations still rely heavily on vSphere for its stability and control. Mandiant is also observing a clear trend where critical workloads are moving back from public cloud services to these on-premises vSphere environments, often driven by strategies tha",
+      "published": "2025-07-23 14:00:00",
+      "timestamp": 1753279200
+    },
+    {
+      "id": "7a3a4c402f363586fe276f2f9c77d84b37cdb4f4",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "From Help Desk to Hypervisor: Defending Your VMware vSphere Estate from UNC3944",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944/",
+      "summary": "Introduction In mid 2025, Google Threat Intelligence Group (GTIG) identified a sophisticated and aggressive cyber campaign targeting multiple industries, including retail, airline, and insurance. This was the work of UNC3944, a financially motivated threat group that has exhibited overlaps with public reporting of \"0ktapus,\" \"Octo Tempest,\" and \"Scattered Spider.\" Following public alerts from the Federal Bureau of Investigation (FBI), the group's targeting became clear. GTIG observed that the gr",
       "published": "2025-07-23 14:00:00",
       "timestamp": 1753279200
     },
@@ -1240,6 +1240,16 @@
       "summary": "Written by: Seemant Bisht, Chris Sistrunk, Shishir Gupta, Anthony Candarini, Glen Chason, Camille Felx Leduc Introduction \u2014 Why Securing Protection Relays Matters More Than Ever Substations are critical nexus points in the power grid, transforming high-voltage electricity to ensure its safe and efficient delivery from power plants to millions of end-users. At the core of a modern substation lies the protection relay: an intelligent electronic device (IED) that plays a critical role in maintainin",
       "published": "2025-06-30 14:00:00",
       "timestamp": 1751292000
+    },
+    {
+      "id": "c8989200d40dbefc33ef26954660b9d6a3caae52",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Trix Shots: Remote Code Execution on Aviatrix Controller",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/remote-code-execution-aviatrix-controller/",
+      "summary": "Written by: Louis Dion-Marcil This blog post highlights a Mandiant Red Team case study simulating an \u201cInitial Access Brokerage\u201d approach that discovered two vulnerabilities on Aviatrix Controller, a Software-Defined Networking (SDN) utility that allows for the creation of links between different cloud vendors and regions: CVE-2025-2171: an administrator authentication bypass CVE-2025-2172: an authenticated command injection The vulnerabilities affected Aviatrix Controller 7.2.5012 and prior vers",
+      "published": "2025-06-23 14:00:00",
+      "timestamp": 1750687200
     },
     {
       "id": "52d1035d41954f769e131f6f222061d541e7c0b8",
@@ -1380,16 +1390,6 @@
       "summary": "Written by: Rohit Nambiar Executive Summary In October 2024, Google Threat Intelligence Group (GTIG) observed a novel phishing campaign targeting European government and military organizations that was attributed to a suspected Russia-nexus espionage actor we track as UNC5837. The campaign employed signed .rdp file attachments to establish Remote Desktop Protocol (RDP) connections from victims' machines. Unlike typical RDP attacks focused on interactive sessions, this campaign creatively leverag",
       "published": "2025-04-07 10:00:00",
       "timestamp": 1744020000
-    },
-    {
-      "id": "5706bb8db41c63c70fbb0ddcab423334a6b4ef51",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Suspected China-Nexus Threat Actor Actively Exploiting Critical Ivanti Connect Secure Vulnerability (CVE-2025-22457)",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-exploiting-critical-ivanti-vulnerability/",
-      "summary": "Written by: John Wolfram, Michael Edie, Jacob Thompson, Matt Lin, Josh Murchie On Thursday, April 3, 2025, Ivanti disclosed a critical security vulnerability, CVE-2025-22457, impacting Ivanti Connect Secure (\u201cICS\u201d) VPN appliances version 22.7R2.5 and earlier. CVE-2025-22457 is a buffer overflow vulnerability, and successful exploitation would result in remote code execution. Mandiant and Ivanti have identified evidence of active exploitation in the wild against ICS 9.X (end of life) and 22.7R2.5",
-      "published": "2025-04-03 14:00:00",
-      "timestamp": 1743688800
     },
     {
       "id": "60bfd55dcb7007d7ef521d0dd6903af1137f861a",
