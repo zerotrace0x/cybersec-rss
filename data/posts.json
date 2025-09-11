@@ -1,6 +1,36 @@
 {
-  "generated_at": 1757583117,
+  "generated_at": 1757596509,
   "items": [
+    {
+      "id": "e6505a6e7c88e0399010d013aacb84fd7caa3dee",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cracking the Boardroom Code: Helping CISOs Speak the Language of Business",
+      "link": "https://thehackernews.com/2025/09/cracking-boardroom-code-helping-cisos.html",
+      "summary": "CISOs know their field. They understand the threat landscape. They understand how to build a strong and cost-effective security stack. They understand how to staff out their organization. They understand the intricacies of compliance. They understand what it takes to reduce risk. Yet one question comes up again and again in our conversations with these security leaders: how do I make the impact",
+      "published": "2025-09-11 10:33:00",
+      "timestamp": 1757586780
+    },
+    {
+      "id": "97a3177c962c8b969dbd363c88a1cd03f9a60f2e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SonicWall SSL VPN Flaw and Misconfigurations Actively Exploited by Akira Ransomware Hackers",
+      "link": "https://thehackernews.com/2025/09/sonicwall-ssl-vpn-flaw-and.html",
+      "summary": "Threat actors affiliated with the Akira ransomware group have continued to target SonicWall devices for initial access. Cybersecurity firm Rapid7 said it observed a spike in intrusions involving SonicWall appliances over the past month, particularly following reports about renewed Akira ransomware activity since late July 2025. SonicWall subsequently revealed the SSL VPN activity aimed at its",
+      "published": "2025-09-11 10:33:00",
+      "timestamp": 1757586780
+    },
+    {
+      "id": "25373ba7f87f78897cd15baf8ed5e6ecd0a1b193",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Madgicx Plus and SocialMetrics Extensions Are Hijacking Meta Business Accounts",
+      "link": "https://thehackernews.com/2025/09/fake-madgicx-plus-and-socialmetrics.html",
+      "summary": "Cybersecurity researchers have disclosed two new campaigns that are serving fake browser extensions using malicious ads and fake websites to steal sensitive data. The malvertising campaign, per Bitdefender, is designed to push fake \"Meta Verified\" browser extensions named SocialMetrics Pro that claim to unlock the blue check badge for Facebook and Instagram profiles. At least 37 malicious ads",
+      "published": "2025-09-11 09:05:00",
+      "timestamp": 1757581500
+    },
     {
       "id": "30f4acac43c6093eeefdd50be6a62c4b1cbc5a22",
       "source": "The Hacker News",
@@ -220,16 +250,6 @@
       "summary": "A threat actor targeting exposed Docker APIs has updated its malicious tooling with more dangerous functionality that could lay the foundation for a complex botnet. [...]",
       "published": "2025-09-09 19:16:30",
       "timestamp": 1757445390
-    },
-    {
-      "id": "b15a540e65c5c74a5fb454c94ae1ceeb859063a9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 10 KB5065429 update includes 14 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/",
-      "summary": "Microsoft has released the KB5065429 cumulative update for Windows 10 22H2 and Windows 10 21H2, with fourteen fixes or changes, including fixes for unexpected UAC prompts and severe lag and stuttering issues with NDI streaming software. [...]",
-      "published": "2025-09-09 17:57:12",
-      "timestamp": 1757440632
     },
     {
       "id": "9fa2b246f0bbb7c4d0e75b5ed6d2258e259e9d70",
@@ -710,36 +730,6 @@
       "summary": "The Harsh Truths of AI Adoption MITs State of AI in Business report revealed that while 40% of organizations have purchased enterprise LLM subscriptions, over 90% of employees are actively using AI tools in their daily work. Similarly, research from Harmonic Security found that 45.4% of sensitive AI interactions are coming from personal email accounts, where employees are bypassing corporate",
       "published": "2025-09-02 11:30:00",
       "timestamp": 1756812600
-    },
-    {
-      "id": "91904366ab44c9a875cb92ec3de2c9a63c20d8b1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices",
-      "link": "https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html",
-      "summary": "Cybersecurity researchers have flagged a Ukrainian IP network for engaging in massive brute-force and password spraying campaigns targeting SSL VPN and RDP devices between June and July 2025. The activity originated from a Ukraine-based autonomous system FDN3 (AS211736), per French cybersecurity company Intrinsec. \"We believe with a high level of confidence that FDN3 is part of a wider abusive",
-      "published": "2025-09-02 10:38:00",
-      "timestamp": 1756809480
-    },
-    {
-      "id": "e17aaeb3d7949fbaf2054f899396198a3df2c0c0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware",
-      "link": "https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html",
-      "summary": "The threat actor known as Silver Fox has been attributed to abuse of a previously unknown vulnerable driver associated with WatchDog Anti-malware as part of a Bring Your Own Vulnerable Driver (BYOVD) attack aimed at disarming security solutions installed on compromised hosts. The vulnerable driver in question is \"amsdk.sys\" (version 1.0.600), a 64-bit, validly signed Windows kernel device driver",
-      "published": "2025-09-02 08:39:00",
-      "timestamp": 1756802340
-    },
-    {
-      "id": "3bd299ad8ac6d99048b41396ddf74dcf84983115",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets",
-      "link": "https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that comes with stealthy features to inject malicious code into desktop apps for cryptocurrency wallets like Atomic and Exodus on Windows systems. The package, named nodejs-smtp, impersonates the legitimate email library nodemailer with an identical tagline, page styling, and README descriptions, attracting a total of 347",
-      "published": "2025-09-02 04:40:00",
-      "timestamp": 1756788000
     },
     {
       "id": "7d62849858c84009044be7a0ed2d1e94de5b2a02",
