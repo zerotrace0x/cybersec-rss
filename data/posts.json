@@ -1,6 +1,56 @@
 {
-  "generated_at": 1757691045,
+  "generated_at": 1757702403,
   "items": [
+    {
+      "id": "eb15ff078aa4a3d4094050b8865de9030eac86a1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New HybridPetya ransomware can bypass UEFI Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/new-hybridpetya-ransomware-can-bypass-uefi-secure-boot/",
+      "summary": "A recently discovered ransomware strain called HybridPetya can bypass the UEFI Secure Boot feature to install a malicious application on the EFI System Partition. [...]",
+      "published": "2025-09-12 17:18:07",
+      "timestamp": 1757697487
+    },
+    {
+      "id": "cd7082e09071ba04badcebdcd3a5ce5fa274b7b2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of actively exploited Dassault RCE vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-dassault-rce-vulnerability/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers exploiting a critical remote code execution flaw in DELMIA Apriso, a manufacturing operations management (MOM) and execution (MES) solution from French company Dassault Syst\u00e8mes. [...]",
+      "published": "2025-09-12 16:19:39",
+      "timestamp": 1757693979
+    },
+    {
+      "id": "9f92b15994b83ca55ca4db47b08ec5ee41c14012",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 23H2 Home and Pro reach end of support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-60-days/",
+      "summary": "Microsoft has reminded customers today that devices running Home and Pro editions of Windows 11 23H2 will stop receiving updates in November. [...]",
+      "published": "2025-09-12 16:15:22",
+      "timestamp": 1757693722
+    },
+    {
+      "id": "9a4893137e08e2ee189db65bfc3a0b01db2dd1e4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks",
+      "link": "https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html",
+      "summary": "Samsung has released its monthly security updates for Android, including a fix for a security vulnerability that it said has been exploited in zero-day attacks. The vulnerability, CVE-2025-21043 (CVSS score: 8.8), concerns an out-of-bounds write that could result in arbitrary code execution. \"Out-of-bounds Write in libimagecodec.quram.so prior to SMR Sep-2025 Release 1 allows remote attackers to",
+      "published": "2025-09-12 15:16:00",
+      "timestamp": 1757690160
+    },
+    {
+      "id": "3fa0f1a5d305cfa4434eb5b5c600c7c60ce9b6d8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms",
+      "link": "https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html",
+      "summary": "Apple has notified users in France of a spyware campaign targeting their devices, according to the Computer Emergency Response Team of France (CERT-FR). The agency said the alerts were sent out on September 3, 2025, making it the fourth time this year that Apple has notified citizens in the county that at least one of the devices linked to their iCloud accounts may have been compromised as part",
+      "published": "2025-09-12 14:49:00",
+      "timestamp": 1757688540
+    },
     {
       "id": "6d43ceaeaf9855097a54c5af5d3db46bc9c46a95",
       "source": "BleepingComputer",
@@ -172,16 +222,6 @@
       "timestamp": 1757602260
     },
     {
-      "id": "b3606eda5b2b69456992233ae6aa6aa5043e0a04",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The Buyer\u2019s Guide to Browser Extension Management",
-      "link": "https://www.bleepingcomputer.com/news/security/the-buyers-guide-to-browser-extension-management/",
-      "summary": "Browser extensions boost productivity\u2014but also open the door to hidden risks like data exfiltration and AitM attacks. Keep Aware's Buyer's Guide shows how to gain visibility, enforce policies, and block risky add-ons in real time. [...]",
-      "published": "2025-09-11 14:01:11",
-      "timestamp": 1757599271
-    },
-    {
       "id": "787565b3bae995b3650d33c09090b0300b936209",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -240,16 +280,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that leverages ConnectWise ScreenConnect, a legitimate Remote Monitoring and Management (RMM) software, to deliver a fleshless loader that drops a remote access trojan (RAT) called AsyncRAT to steal sensitive data from compromised hosts. \"The attacker used ScreenConnect to gain remote access, then executed a layered VBScript and",
       "published": "2025-09-11 06:02:00",
       "timestamp": 1757570520
-    },
-    {
-      "id": "285440ad6f300a2978ee4b0b03aa5c7d1c987460",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DDoS defender targeted in 1.5 Bpps denial-of-service attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/",
-      "summary": "A DDoS mitigation service provider in Europe was targeted in a massive distributed denial-of-service attack that reached 1.5 billion packets per second. [...]",
-      "published": "2025-09-10 22:09:41",
-      "timestamp": 1757542181
     },
     {
       "id": "2f6b7e0dd23d800879e06116a0a7801bca7070e0",
@@ -730,26 +760,6 @@
       "summary": "Google has shipped security updates to address 120 security flaws in its Android operating system as part of its monthly fixes for September 2025, including two issues that it said have been exploited in targeted attacks. The vulnerabilities are listed below - CVE-2025-38352 (CVSS score: 7.4) - A privilege escalation flaw in the Linux Kernel component CVE-2025-48543 (CVSS score: N/A) - A",
       "published": "2025-09-03 11:05:00",
       "timestamp": 1756897500
-    },
-    {
-      "id": "b85978831e4c8b927817f16566af41dfc479658f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats",
-      "link": "https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html",
-      "summary": "An Iran-nexus group has been linked to a \"coordinated\" and \"multi-wave\" spear-phishing campaign targeting the embassies and consulates in Europe and other regions across the world. The activity has been attributed by Israeli cybersecurity company Dream to Iranian-aligned operators connected to broader offensive cyber activity undertaken by a group known as Homeland Justice. \"Emails were sent to",
-      "published": "2025-09-03 10:30:00",
-      "timestamp": 1756895400
-    },
-    {
-      "id": "b401dc6dbe366090d1d6f0c23adbd80a4f7cfb38",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner\u00ae Magic Quadrant\u2122 Reveals",
-      "link": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
-      "summary": "Cyber threats and attacks like ransomware continue to increase in volume and complexity with the endpoint typically being the most sought after and valued target. With the rapid expansion and adoption of AI, it is more critical than ever to ensure the endpoint is adequately secured by a platform capable of not just keeping pace, but staying ahead of an ever-evolving threat landscape.",
-      "published": "2025-09-03 10:16:00",
-      "timestamp": 1756894560
     },
     {
       "id": "4f1416b8d50d4951eeb0b56313c54c2313e428df",
