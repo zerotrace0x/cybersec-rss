@@ -1,6 +1,76 @@
 {
-  "generated_at": 1758025008,
+  "generated_at": 1758035352,
   "items": [
+    {
+      "id": "953a3fe99e13eaa7de2e66862f063536d041687e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids",
+      "link": "https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html",
+      "summary": "A massive ad fraud and click fraud operation dubbed SlopAds ran a cluster of 224 apps, collectively attracting 38 million downloads across 228 countries and territories. \"These apps deliver their fraud payload using steganography and create hidden WebViews to navigate to threat actor-owned cashout sites, generating fraudulent ad impressions and clicks,\" HUMAN\u2019s Satori Threat Intelligence and",
+      "published": "2025-09-16 14:19:00",
+      "timestamp": 1758032340
+    },
+    {
+      "id": "873fc4179994745f9fbee7e618a5cfdf0f660a73",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Self-Replicating Worm Hits 180+ Software Packages",
+      "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
+      "summary": "At least 187 code packages made available through the JavaScript repository NPM have been infected with a self-replicating worm that steals credentials from developers and publishes those secrets on GitHub, experts warn. The malware, which briefly infected multiple code packages from the security vendor CrowdStrike, steals and publishes even more credentials every time an infected package is installed.",
+      "published": "2025-09-16 14:08:02",
+      "timestamp": 1758031682
+    },
+    {
+      "id": "4518e5c040413128c0088859f64cad31f2962078",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Team-Wide VMware Certification: Your Secret Weapon for Security",
+      "link": "https://www.bleepingcomputer.com/news/security/team-wide-vmware-certification-your-secret-weapon-for-security/",
+      "summary": "One VMware-certified pro is a win. An entire certified team? That's a security multiplier. VMUG Advantage makes team-wide certification practical\u2014building collaboration, resilience, and retention. [...]",
+      "published": "2025-09-16 14:01:11",
+      "timestamp": 1758031271
+    },
+    {
+      "id": "74beda8808167ecb35e3010c26429a99f9e6ca14",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Jaguar Land Rover extends shutdown after cyberattack by another week",
+      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/",
+      "summary": "Jaguar Land Rover (JLR) announced today that it will extend the production shutdown for another week, following a devastating cyberattack that impacted its systems at the end of August. [...]",
+      "published": "2025-09-16 13:08:16",
+      "timestamp": 1758028096
+    },
+    {
+      "id": "4b8227bb371faf747706d2b55a5e4c76f75e99fd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site",
+      "link": "https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html",
+      "summary": "Cybersecurity researchers have warned of a new campaign that's leveraging a variant of the FileFix social engineering tactic to deliver the StealC information stealer malware. \"The observed campaign uses a highly convincing, multilingual phishing site (e.g., fake Facebook Security page), with anti-analysis techniques and advanced obfuscation to evade detection,\" Acronis security researcher Eliad",
+      "published": "2025-09-16 12:33:00",
+      "timestamp": 1758025980
+    },
+    {
+      "id": "920932c678b5a3ef49d119fdaf1de2261eac46ab",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apple backports zero-day patches to older iPhones and iPads",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/",
+      "summary": "\u200bApple has released security updates to backport patches released last month to older iPhones and iPads, addressing a zero-day bug that was exploited in \"extremely sophisticated\" attacks. [...]",
+      "published": "2025-09-16 12:16:53",
+      "timestamp": 1758025013
+    },
+    {
+      "id": "4cd6140a53cb15ed6f1a5322a5b8862965356912",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New FileFix attack uses steganography to drop StealC malware",
+      "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/",
+      "summary": "A newly discovered FileFix social engineering attack impersonates Meta account suspension warnings to trick users into unknowingly installing the StealC infostealer malware. [...]",
+      "published": "2025-09-16 12:00:00",
+      "timestamp": 1758024000
+    },
     {
       "id": "96fa6e848556ca6510f08d8d012990d0bd2e640d",
       "source": "The Hacker News",
@@ -10,6 +80,16 @@
       "summary": "Apple on Monday backported fixes for a recently patched security flaw that has been actively exploited in the wild. The vulnerability in question is CVE-2025-43300 (CVSS score: 8.8), an out-of-bounds write issue in the ImageIO component that could result in memory corruption when processing a malicious image file. \"Apple is aware of a report that this issue may have been exploited in an",
       "published": "2025-09-16 11:06:00",
       "timestamp": 1758020760
+    },
+    {
+      "id": "de4e2f7a39d894a93d4d7cbc7530e0ac608f0048",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Webinar: Your browser is the breach \u2014 securing the modern web edge",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-your-browser-is-the-breach-securing-the-modern-web-edge/",
+      "summary": "The web browser has quietly become one of the most critical components of enterprise infrastructure\u2014and one of the most dangerous. Join BleepingComputer, SC Media, and Push Security on September 29 at 12:00 PM ET for a live webinar on how attackers are targeting the browser to hijack sessions, steal data, and bypass security. [...]",
+      "published": "2025-09-16 11:01:08",
+      "timestamp": 1758020468
     },
     {
       "id": "5d6525255e0fb381fd9c6628383118062b560d1d",
@@ -182,46 +262,6 @@
       "timestamp": 1757915220
     },
     {
-      "id": "0c13f63dc2bd84d1096c27ae3fc56492353f3387",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/",
-      "summary": "The FBI has issued a FLASH alert warning that two threat clusters, tracked as UNC6040 and UNC6395, are compromising organizations' Salesforce environments to steal data and extort victims. [...]",
-      "published": "2025-09-14 21:56:40",
-      "timestamp": 1757887000
-    },
-    {
-      "id": "b2b95a8b3112467a6be1a209d5efdffba2acac28",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New VoidProxy phishing service targets Microsoft 365, Google accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/",
-      "summary": "A newly discovered phishing-as-a-service (PhaaS) platform, named VoidProxy, targets Microsoft 365 and Google accounts, including those protected by third-party single sign-on (SSO) providers such as Okta. [...]",
-      "published": "2025-09-14 14:23:32",
-      "timestamp": 1757859812
-    },
-    {
-      "id": "018a7b96717255edc7e35a4df61ababd23a3a210",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft reminds of Windows 10 support ending in 30 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/",
-      "summary": "On Friday, Microsoft reminded customers once again that Windows 10 will reach its end of support in 30 days, on October 14. [...]",
-      "published": "2025-09-13 16:20:40",
-      "timestamp": 1757780440
-    },
-    {
-      "id": "16c3bd75204c8216a61d18f38138ca720c74955f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "'WhiteCobra' floods VSCode market with crypto-stealing extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/",
-      "summary": "A threat actor named WhiteCobra has targeting VSCode, Cursor, and Windsurf users by planting 24 malicious extensions in the Visual Studio marketplace and the Open VSX registry. [...]",
-      "published": "2025-09-13 14:00:00",
-      "timestamp": 1757772000
-    },
-    {
       "id": "49feb30963d8f6ddeec922ee484a662616afb070",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,6 +330,16 @@
       "summary": "A security weakness has been disclosed in the artificial intelligence (AI)-powered code editor Cursor that could trigger code execution when a maliciously crafted repository is opened using the program. The issue stems from the fact that an out-of-the-box security setting is disabled by default, opening the door for attackers to run arbitrary code on users' computers with their privileges. \"",
       "published": "2025-09-12 04:49:00",
       "timestamp": 1757652540
+    },
+    {
+      "id": "e6deb833b890e1cb4aedc7ee32460983664c037b",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+      "link": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "summary": "In May 2025, the European Union levied financial sanctions on the owners of Stark Industries Solutions Ltd., a bulletproof hosting provider that materialized two weeks before Russia invaded Ukraine and quickly became a top source of Kremlin-linked cyberattacks and disinformation campaigns. But new data shows those sanctions have done little to stop Stark from simply rebranding and transferring their assets to other corporate entities controlled by its original hosting providers.",
+      "published": "2025-09-11 17:40:22",
+      "timestamp": 1757612422
     },
     {
       "id": "c196f2d4e7981e97863480627257b2f7a4213dd7",
@@ -462,6 +512,16 @@
       "timestamp": 1757466180
     },
     {
+      "id": "c8a6117562333f56e53807f6fa07c9441c062415",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Patch Tuesday, September 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
+      "summary": "Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known \"zero-day\" or actively exploited vulnerabilities in this month's bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft's most-dire \"critical\" label. Meanwhile, both Apple and Google recently released updates to fix zero-day bugs in their devices.",
+      "published": "2025-09-09 21:21:14",
+      "timestamp": 1757452874
+    },
+    {
       "id": "9fa2b246f0bbb7c4d0e75b5ed6d2258e259e9d70",
       "source": "The Hacker News",
       "source_category": "General",
@@ -552,6 +612,16 @@
       "timestamp": 1757377620
     },
     {
+      "id": "f1dd639fe3b5f5d8adba53e5405c61b33a954c21",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
+      "link": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
+      "summary": "At least 18 popular JavaScript code packages that are collectively downloaded more than two billion times each week were briefly compromised with malicious software today, after a developer involved in maintaining the projects was phished. The attack appears to have been quickly contained and was narrowly focused on stealing cryptocurrency. But experts warn that a similar attack with a slightly more nefarious payload could quickly lead to a disruptive malware outbreak that is far more difficult ",
+      "published": "2025-09-08 22:53:41",
+      "timestamp": 1757372021
+    },
+    {
       "id": "119b7c5a286e1845bd049e38dd25c61634a2b81b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -612,6 +682,16 @@
       "timestamp": 1757140920
     },
     {
+      "id": "d4d8b5da4e145269d692818345dca7bcda2785a0",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "GOP Cries Censorship Over Spam Filters That Work",
+      "link": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
+      "summary": "The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google's CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block similar missives supporting Democrats. The letter followed media reports accusing Gmail of disproportionately flagging messages from the GOP fundraising platform WinRed and sending them to the spam folder. But according to experts who track daily spam volumes worldwide, WinRed's messages are getting b",
+      "published": "2025-09-06 03:23:35",
+      "timestamp": 1757129015
+    },
+    {
       "id": "e0a51d727a195b91950941a2bf36cd348f0ffcb1",
       "source": "The Hacker News",
       "source_category": "General",
@@ -650,26 +730,6 @@
       "summary": "A critical security vulnerability impacting SAP S/4HANA, an Enterprise Resource Planning (ERP) software, has come under active exploitation in the wild. The command injection vulnerability, tracked as CVE-2025-42957 (CVSS score: 9.9), was fixed by SAP as part of its monthly updates last month. \"SAP S/4HANA allows an attacker with user privileges to exploit a vulnerability in the function module",
       "published": "2025-09-05 10:59:00",
       "timestamp": 1757069940
-    },
-    {
-      "id": "a6492782ba6cd8c206ebbf1b6939616d8c62cdc7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Automation Is Redefining Pentest Delivery",
-      "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
-      "summary": "Pentesting remains one of the most effective ways to identify real-world security weaknesses before adversaries do. But as the threat landscape has evolved, the way we deliver pentest results hasn't kept pace. Most organizations still rely on traditional reporting methods\u2014static PDFs, emailed documents, and spreadsheet-based tracking. The problem? These outdated workflows introduce delays,",
-      "published": "2025-09-05 08:00:00",
-      "timestamp": 1757059200
-    },
-    {
-      "id": "d83add3ddd1166ee65a79054612740367747e975",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages",
-      "link": "https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html",
-      "summary": "Cybersecurity researchers have flagged a new malware campaign that has leveraged Scalable Vector Graphics (SVG) files as part of phishing attacks impersonating the Colombian judicial system. The SVG files, according to VirusTotal, are distributed via email and designed to execute an embedded JavaScript payload, which then decodes and injects a Base64-encoded HTML phishing page masquerading as a",
-      "published": "2025-09-05 06:13:00",
-      "timestamp": 1757052780
     },
     {
       "id": "d5871cb593d663377a85479df28a3b8d0a74bb2c",
@@ -742,6 +802,16 @@
       "timestamp": 1756814400
     },
     {
+      "id": "7d62849858c84009044be7a0ed2d1e94de5b2a02",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
+      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
+      "summary": "The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, ",
+      "published": "2025-09-01 21:55:04",
+      "timestamp": 1756763704
+    },
+    {
       "id": "f351c22c44a3517c0c1aa939d4435856c3e54ca0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -750,6 +820,16 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-57819 Sangoma FreePBX Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known C",
       "published": "2025-08-29 12:00:00",
       "timestamp": 1756468800
+    },
+    {
+      "id": "1b2fc7c628162afb3a9be4bce369ebfd9faa5d57",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
+      "link": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
+      "summary": "Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We've since learned that these scam gambling sites have proliferated thanks to a new Russian affiliate program called \"Gambler Panel\" that bills itself as a \"soulless project that is made for profit.\"",
+      "published": "2025-08-28 17:21:32",
+      "timestamp": 1756401692
     },
     {
       "id": "d220353bec23d4a12a1d7970ccc2c29b6d91f994",
@@ -800,6 +880,16 @@
       "summary": "Hear directly from Corporate Vice President and Deputy Chief Information Security Officer (CISO) for Identity, Igor Sakhnov, about how to secure and govern autonomous agents. This blog is part of a new ongoing series where our Deputy CISOs share their thoughts on what is most important in their respective domains. In this series you will get practical advice, forward-looking commentary on where the industry is going, things you should stop doing, and more. \u200b The post Securing and governing the r",
       "published": "2025-08-26 16:00:00",
       "timestamp": 1756224000
+    },
+    {
+      "id": "b7244a1ca905d096715145edb87d74c72cb6c776",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
+      "link": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
+      "summary": "The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they'd made with company called DSLRoot, which was paying $250 a month to plug a pair of laptops into the Redditor's high-speed Internet connection in the United States. This post examines the history and provenance of DSLRoot, one of the oldest \"residential proxy\" networks with origins in Russia and Eastern E",
+      "published": "2025-08-26 14:05:12",
+      "timestamp": 1756217112
     },
     {
       "id": "57b99892ad337350a711786494a0c98e9dd0b4c6",
@@ -892,6 +982,16 @@
       "timestamp": 1755777600
     },
     {
+      "id": "6e3a8006a40444d7dbfd23e214dd966b9431e9ab",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
+      "link": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
+      "summary": "A 21-year-old Florida man at the center of a prolific cybercrime group known as \"Scattered Spider\" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims. Noah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of wire fraud and conspiracy. Florida prosecutors alleged Urban conspired with others to steal at least $800,000 from five victims via SIM-swapping attacks that diverted their mobile phone calls and text m",
+      "published": "2025-08-21 01:47:22",
+      "timestamp": 1755740842
+    },
+    {
       "id": "1888936088a23fd5b11a29bdb049c4633b053456",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -910,6 +1010,16 @@
       "summary": "Written by: Marco Galli Welcome to the Frontline Bulletin Series Straight from Mandiant Threat Defense, the \"Frontline Bulletin\" series brings you the latest on the most intriguing compromises we are seeing in the wild right now, equipping our community to understand and respond to the most compelling threats we observe. This edition dissects an infection involving two threat groups, UNC5518 and UNC5774, leading to the deployment of CORNFLAKE.V3. Introduction Since June 2024, Mandiant Threat Def",
       "published": "2025-08-20 14:00:00",
       "timestamp": 1755698400
+    },
+    {
+      "id": "1f9c81e194d3c40e6f52001b31299bfae682dea0",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Oregon Man Charged in \u2018Rapper Bot\u2019 DDoS Service",
+      "link": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/",
+      "summary": "A 22-year-old Oregon man has been arrested on suspicion of operating \"Rapper Bot,\" a massive botnet used to power a service for launching distributed denial-of-service (DDoS) attacks against targets -- including a March 2025 DDoS that knocked Twitter/X offline. The Justice Department asserts the suspect and an unidentified co-conspirator rented out the botnet to online extortionists, and tried to stay off the radar of law enforcement by ensuring that their botnet was never pointed at KrebsOnSecu",
+      "published": "2025-08-19 20:51:06",
+      "timestamp": 1755636666
     },
     {
       "id": "51ed41955d54debe9a0db1c9be01adc02dc358c4",
@@ -1117,7 +1227,7 @@
       "source_category": "Threat Intel",
       "title": "Ongoing SonicWall Secure Mobile Access (SMA) Exploitation Campaign using the OVERSTEP Backdoor",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/sonicwall-secure-mobile-access-exploitation-overstep-backdoor/",
-      "summary": "Written by: Josh Goddard, Zander Work, Dimiter Andonov UPDATE (July 30): Added additional network IOC identified by Sonicwall as being associated with OVERSTEP. Introduction Google Threat Intelligence Group (GTIG) has identified an ongoing campaign by a suspected financially-motivated threat actor we track as UNC6148, targeting fully patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliances. GTIG assesses with high confidence that UNC6148 is leveraging credentials and one-ti",
+      "summary": "Written by: Josh Goddard, Zander Work, Dimiter Andonov UPDATE (Sep 16): Clarified hunting guidance specifics surrounding ld.so.preload files. UPDATE (July 30): Added additional network IOC identified by Sonicwall as being associated with OVERSTEP. Introduction Google Threat Intelligence Group (GTIG) has identified an ongoing campaign by a suspected financially-motivated threat actor we track as UNC6148, targeting fully patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliance",
       "published": "2025-07-16 14:00:00",
       "timestamp": 1752674400
     },
