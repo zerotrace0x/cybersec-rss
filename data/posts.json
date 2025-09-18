@@ -1,6 +1,86 @@
 {
-  "generated_at": 1758197774,
+  "generated_at": 1758208146,
   "items": [
+    {
+      "id": "9926a3940d7a2be03f39e5884c23378b24c8fdbd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK arrests 'Scattered Spider' teens linked to Transport for London hack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-scattered-spider-teens-linked-to-transport-for-london-hack/",
+      "summary": "Two teenagers, believed to be linked to the August 2024 cyberattack on Transport for London, have been arrested in the United Kingdom. [...]",
+      "published": "2025-09-18 14:37:12",
+      "timestamp": 1758206232
+    },
+    {
+      "id": "1d788e36b95a305584104c8d0f8724ce37f78c7a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SystemBC malware turns infected VPS systems into proxy highway",
+      "link": "https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/",
+      "summary": "The operators of the SystemBC proxy botnet are hunting for vulnerable commercial virtual private servers (VPS) and maintain an average of 1,500 bots every day that provide a highway for malicious traffic. [...]",
+      "published": "2025-09-18 14:35:53",
+      "timestamp": 1758206153
+    },
+    {
+      "id": "83bcd7831cf8441cb2a09900031bd4353a45b648",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers",
+      "link": "https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html",
+      "summary": "SonicWall is urging customers to reset credentials after their firewall configuration backup files were exposed in a security breach impacting MySonicWall accounts. The company said it recently detected suspicious activity targeting the cloud backup service for firewalls, and that unknown threat actors accessed backup firewall preference files stored in the cloud for less than 5% of its",
+      "published": "2025-09-18 14:12:00",
+      "timestamp": 1758204720
+    },
+    {
+      "id": "66513bbaa2cfec25d56c97210553b2a1c3531a62",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Target-rich environment: Why Microsoft 365 has become the biggest risk",
+      "link": "https://www.bleepingcomputer.com/news/security/target-rich-environment-why-microsoft-365-has-become-the-biggest-risk/",
+      "summary": "Microsoft 365's dominance and tight integration makes it a massive target in today's cyber landscape. Its tight integration expands the attack surface and amplifies risk. Learn from Acronis TRU why backup blind spots & lateral movement risks demand stronger defenses. [...]",
+      "published": "2025-09-18 14:02:12",
+      "timestamp": 1758204132
+    },
+    {
+      "id": "cc8bba838de3c92861292fff3ed03ca32435ff2c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Notepad gets free AI features on Copilot+ PCs with Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/",
+      "summary": "Microsoft is adding free AI-powered text writing capabilities to Notepad for customers with Copilot+ PCs running Windows 11. [...]",
+      "published": "2025-09-18 13:50:04",
+      "timestamp": 1758203404
+    },
+    {
+      "id": "77b1fe1dd65b7c9858e3c0f2e3c257176b86e5d2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "PyPI invalidates tokens stolen in GhostAction supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/pypi-invalidates-tokens-stolen-in-ghostaction-supply-chain-attack/",
+      "summary": "The Python Software Foundation team has invalidated all PyPI tokens stolen in the GhostAction supply chain attack in early September, confirming that the threat actors didn't abuse them to publish malware. [...]",
+      "published": "2025-09-18 13:09:09",
+      "timestamp": 1758200949
+    },
+    {
+      "id": "51bbb7524fcac8132504cd1186f879d227974de2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader",
+      "link": "https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html",
+      "summary": "Cybersecurity researchers have discovered a new malware loader codenamed CountLoader that has been put to use by Russian ransomware gangs to deliver post-exploitation tools like Cobalt Strike and AdaptixC2, and a remote access trojan known as PureHVNC RAT. \"CountLoader is being used either as part of an Initial Access Broker's (IAB) toolset or by a ransomware affiliate with ties to the LockBit,",
+      "published": "2025-09-18 12:56:00",
+      "timestamp": 1758200160
+    },
+    {
+      "id": "11918e0f7ee75c9a9b6c7d82303895aea4069e25",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Malware Analysis Report on Malicious Listener Targeting Ivanti Endpoint Manager Mobile Systems",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/18/cisa-releases-malware-analysis-report-malicious-listener-targeting-ivanti-endpoint-manager-mobile",
+      "summary": "Today, CISA released a Malware Analysis Report detailing the functionality of two sets of malware obtained from an organization compromised by cyber threat actors exploiting CVE-2025-4427 and CVE-2025-4428 in Ivanti Endpoint Manager Mobile (Ivanti EPMM). The Malware Analysis Report, Malicious Listener for Ivanti EPMM Systems, provides guidance to help organizations detect and mitigate these threats, including indicators of compromise and YARA and SIGMA rules. Mitigations include highlighting the",
+      "published": "2025-09-18 12:00:00",
+      "timestamp": 1758196800
+    },
     {
       "id": "951ca41d733cb7d7d38e9cf5769cca190d8e13ec",
       "source": "The Hacker News",
@@ -180,46 +260,6 @@
       "summary": "Microsoft's Digital Crimes Unit said it teamed up with Cloudflare to coordinate the seizure of 338 domains used by RaccoonO365, a financially motivated threat group that was behind a phishing-as-a-service (Phaas) toolkit used to steal more than 5,000 Microsoft 365 credentials from 94 countries since July 2024. \"Using a court order granted by the Southern District of New York, the DCU seized 338",
       "published": "2025-09-17 04:31:00",
       "timestamp": 1758083460
-    },
-    {
-      "id": "ec19d2d241e4cae187001d591a1c829e7807700f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "BreachForums hacking forum admin resentenced to three years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/",
-      "summary": "Conor Brian Fitzpatrick, the 22-year-old behind the notorious BreachForums hacking forum, was resentenced today to three years in prison after a federal appeals court overturned his prior sentence of time served and 20 years of supervised release. [...]",
-      "published": "2025-09-16 21:38:22",
-      "timestamp": 1758058702
-    },
-    {
-      "id": "8222ee987b7cfda52c095df3189effe8ef38643a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft rolls out Copilot Chat to Microsoft 365 Office apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-copilot-chat-to-microsoft-365-office-apps/",
-      "summary": "\u200bMicrosoft is rolling out Copilot Chat to Word, Excel, PowerPoint, Outlook, and OneNote for paying Microsoft 365 business customers. [...]",
-      "published": "2025-09-16 18:01:41",
-      "timestamp": 1758045701
-    },
-    {
-      "id": "a1c199a010a68d5ade396e433d70f03889e4576f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google nukes 224 Android malware apps behind massive ad fraud campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/google-nukes-224-android-malware-apps-behind-massive-ad-fraud-campaign/",
-      "summary": "A massive Android ad fraud operation dubbed \"SlopAds\" was disrupted after 224 malicious applications on Google Play were used to generate 2.3 billion ad requests per day. [...]",
-      "published": "2025-09-16 17:20:00",
-      "timestamp": 1758043200
-    },
-    {
-      "id": "667b806d8774cebe40938c2e337e16dc49183082",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Self-propagating supply chain attack hits 187 npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/",
-      "summary": "Security researchers have identified at least 187 npm packages compromised in an ongoing supply chain attack. The coordinated worm-style campaign dubbed 'Shai-Hulud' started yesterday with the compromise of the @ctrl/tinycolor npm package, and has now expanded to CrowdStrike's npm namespace. [...]",
-      "published": "2025-09-16 16:46:43",
-      "timestamp": 1758041203
     },
     {
       "id": "877048758d46b36ff9eeaa8e1091863d49c6b299",
@@ -682,26 +722,6 @@
       "timestamp": 1757413620
     },
     {
-      "id": "55c97618d200d30eefb165983f223a437d2268bf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How Leading CISOs are Getting Budget Approval",
-      "link": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
-      "summary": "It\u2019s budget season. Once again, security is being questioned, scrutinized, or deprioritized. If you're a CISO or security leader, you've likely found yourself explaining why your program matters, why a given tool or headcount is essential, and how the next breach is one blind spot away. But these arguments often fall short unless they're framed in a way the board can understand and appreciate.",
-      "published": "2025-09-09 10:26:00",
-      "timestamp": 1757413560
-    },
-    {
-      "id": "e6a7dd516397ff18a0b4c2e007c97c0959deac6e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs",
-      "link": "https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html",
-      "summary": "Cybersecurity researchers have discovered a variant of a recently disclosed campaign that abuses the TOR network for cryptojacking attacks targeting exposed Docker APIs. Akamai, which discovered the latest activity last month, said it's designed to block other actors from accessing the Docker API from the internet. The findings build on a prior report from Trend Micro in late June 2025, which",
-      "published": "2025-09-09 10:02:00",
-      "timestamp": 1757412120
-    },
-    {
       "id": "f1dd639fe3b5f5d8adba53e5405c61b33a954c21",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1132,16 +1152,6 @@
       "timestamp": 1754649780
     },
     {
-      "id": "4ab9d2d1d2ac6be869081c0457c56eff6580dc50",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Ten Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories",
-      "summary": "CISA released ten Industrial Control Systems (ICS) advisories on August 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-219-01 Delta Electronics DIAView ICSA-25-219-02 Johnson Controls FX80 and FX90 ICSA-25-219-03 Burk Technology ARC Solo ICSA-25-219-04 Rockwell Automation Arena ICSA-25-219-05 Packet Power EMX and EG ICSA-25-219-06 Dreame Technology iOS and Android Mobile Applications ICSA-25-219-07 EG4 El",
-      "published": "2025-08-07 12:00:00",
-      "timestamp": 1754568000
-    },
-    {
       "id": "17475be70a97fa91c8ca11398823880add3c2870",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1152,22 +1162,22 @@
       "timestamp": 1754568000
     },
     {
+      "id": "4ab9d2d1d2ac6be869081c0457c56eff6580dc50",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Ten Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories",
+      "summary": "CISA released ten Industrial Control Systems (ICS) advisories on August 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-219-01 Delta Electronics DIAView ICSA-25-219-02 Johnson Controls FX80 and FX90 ICSA-25-219-03 Burk Technology ARC Solo ICSA-25-219-04 Rockwell Automation Arena ICSA-25-219-05 Packet Power EMX and EG ICSA-25-219-06 Dreame Technology iOS and Android Mobile Applications ICSA-25-219-07 EG4 El",
+      "published": "2025-08-07 12:00:00",
+      "timestamp": 1754568000
+    },
+    {
       "id": "b6ace310a41fed32a4ebf17d87ce4f0c06d38443",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Malware Analysis Report Associated with Microsoft SharePoint Vulnerabilities",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/06/cisa-releases-malware-analysis-report-associated-microsoft-sharepoint-vulnerabilities",
       "summary": "CISA published a Malware Analysis Report (MAR) with analysis and associated detection signatures on files related to Microsoft SharePoint vulnerabilities: CVE-2025-49704 [CWE-94: Code Injection], CVE-2025-49706 [CWE-287: Improper Authentication], CVE-2025-53770 [CWE-502: Deserialization of Untrusted Data], and CVE-2025-53771 [CWE-287: Improper Authentication] Cyber threat actors have chained CVE-2025-49704 and CVE-2025-49706 (in an exploit chain publicly known as \u201cToolShell\u201d) to gain unauthorize",
-      "published": "2025-08-06 12:00:00",
-      "timestamp": 1754481600
-    },
-    {
-      "id": "5b480a614114ee7f63c5fcffb8454fad0a914d17",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Microsoft Releases Guidance on High-Severity Vulnerability (CVE-2025-53786) in Hybrid Exchange Deployments",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/06/microsoft-releases-guidance-high-severity-vulnerability-cve-2025-53786-hybrid-exchange-deployments",
-      "summary": "Update (08/12/2025): CISA has updated this alert to provide clarification on identifying Exchange Servers on an organization\u2019s networks and provided further guidance on running the Microsoft Exchange Health Checker. Update (08/07/2025): CISA issued Emergency Directive (ED) 25-02: Mitigate Microsoft Exchange Vulnerability in response to CVE-2025-53786. CISA is aware of the newly disclosed high-severity vulnerability, CVE-2025-53786, that allows a cyber threat actor with administrative access to a",
       "published": "2025-08-06 12:00:00",
       "timestamp": 1754481600
     },
