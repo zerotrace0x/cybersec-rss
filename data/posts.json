@@ -1,6 +1,56 @@
 {
-  "generated_at": 1758284200,
+  "generated_at": 1758294543,
   "items": [
+    {
+      "id": "800fada5d6a481b3416c9e85a42114c7bb09f275",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers",
+      "link": "https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html",
+      "summary": "A proxy network known as REM Proxy is powered by malware known as SystemBC, offering about 80% of the botnet to its users, according to new findings from the Black Lotus Labs team at Lumen Technologies. \"REM Proxy is a sizeable network, which also markets a pool of 20,000 Mikrotik routers and a variety of open proxies it finds freely available online,\" the company said in a report shared with",
+      "published": "2025-09-19 14:26:00",
+      "timestamp": 1758291960
+    },
+    {
+      "id": "2d9e0438b4aefad5695249b39536c96a2a0d65f7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fortra warns of max severity flaw in GoAnywhere MFT\u2019s License Servlet",
+      "link": "https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/",
+      "summary": "Fortra has released security updates to patch a maximum severity vulnerability in GoAnywhere MFT's License Servlet that can be exploited in command injection attacks. [...]",
+      "published": "2025-09-19 14:20:52",
+      "timestamp": 1758291652
+    },
+    {
+      "id": "7c6f5936502b7ecb583bd2d057de5724640ba54e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability",
+      "link": "https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html",
+      "summary": "Fortra has disclosed details of a critical security flaw in GoAnywhere Managed File Transfer (MFT) software that could result in the execution of arbitrary commands. The vulnerability, tracked as CVE-2025-10035, carries a CVSS score of 10.0, indicating maximum severity. \"A deserialization vulnerability in the License Servlet of Fortra's GoAnywhere MFT allows an actor with a validly forged",
+      "published": "2025-09-19 14:12:00",
+      "timestamp": 1758291120
+    },
+    {
+      "id": "09fc99603cfea56bb0d70956d55b2041e48465ee",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge",
+      "link": "https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html",
+      "summary": "The phishing-as-a-service (PhaaS) offering known as Lighthouse and Lucid has been linked to more than 17,500 phishing domains targeting 316 brands from 74 countries. \"Phishing-as-a-Service (PhaaS) deployments have risen significantly recently,\" Netcraft said in a new report. \"The PhaaS operators charge a monthly fee for phishing software with pre-installed templates impersonating, in some cases,",
+      "published": "2025-09-19 14:02:00",
+      "timestamp": 1758290520
+    },
+    {
+      "id": "37201726888f2dba4244d67a089bcc9250b28463",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Known. Emerging. Unstoppable? Ransomware Attacks Still Evade Defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/known-emerging-unstoppable-ransomware-attacks-still-evade-defenses/",
+      "summary": "Ransomware remains one of the most destructive threats\u2014because defenses keep failing. Picus Blue Report 2025 shows prevention dropped to 62%, while data exfiltration prevention collapsed to just 3%. [...]",
+      "published": "2025-09-19 14:01:11",
+      "timestamp": 1758290471
+    },
     {
       "id": "f31a9878283f5af57fbb91ec7a1ed991861726fa",
       "source": "BleepingComputer",
@@ -212,16 +262,6 @@
       "timestamp": 1758183808
     },
     {
-      "id": "1cad60e667d9170931350980a6c326aa5114d1cd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google patches sixth Chrome zero-day exploited in attacks this year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency security updates to patch a Chrome zero-day vulnerability, the sixth one tagged as exploited in attacks since the start of the year. [...]",
-      "published": "2025-09-18 07:23:14",
-      "timestamp": 1758180194
-    },
-    {
       "id": "0a9988becd65c02abb23d99762901b5e2b48eac2",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +270,6 @@
       "summary": "Google on Wednesday released security updates for the Chrome web browser to address four vulnerabilities, including one that it said has been exploited in the wild. The zero-day vulnerability in question is CVE-2025-10585, which has been described as a type confusion issue in the V8 JavaScript and WebAssembly engine. Type confusion vulnerabilities can have severe consequences as they can be",
       "published": "2025-09-18 05:49:00",
       "timestamp": 1758174540
-    },
-    {
-      "id": "4f9bc1b776f2c30f9d65ab2124c8955841f5d9e2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ShinyHunters claims 1.5 billion Salesforce records stolen in Drift hacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-15-billion-salesforce-records-stolen-in-drift-hacks/",
-      "summary": "The ShinyHunters extortion group claims to have stolen over 1.5 billion Salesforce records from 760 companies using compromised Salesloft Drift OAuth tokens. [...]",
-      "published": "2025-09-17 21:11:06",
-      "timestamp": 1758143466
     },
     {
       "id": "53d52c5788ca12689bc2b67ffb8b5b0e21aee843",
@@ -680,36 +710,6 @@
       "summary": "Phishing-as-a-Service (PhaaS) platforms keep evolving, giving attackers faster and cheaper ways to break into corporate accounts. Now, researchers at ANY.RUN has uncovered a new entrant: Salty2FA, a phishing kit designed to bypass multiple two-factor authentication methods and slip past traditional defenses. Already spotted in campaigns across the US and EU, Salty2FA puts enterprises at",
       "published": "2025-09-10 08:00:00",
       "timestamp": 1757491200
-    },
-    {
-      "id": "b467f29f76bf3470caab4af616956f79c62049a4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked APT41 Hackers Target U.S. Trade Officials Amid 2025 Negotiations",
-      "link": "https://thehackernews.com/2025/09/china-linked-apt41-hackers-target-us.html",
-      "summary": "The House Select Committee on China has formally issued an advisory warning of an \"ongoing\" series of highly targeted cyber espionage campaigns linked to the People's Republic of China (PRC) amid contentious U.S.\u2013China trade talks. \"These campaigns seek to compromise organizations and individuals involved in U.S.-China trade policy and diplomacy, including U.S. government agencies, U.S. business",
-      "published": "2025-09-10 07:53:00",
-      "timestamp": 1757490780
-    },
-    {
-      "id": "622f63a54da676d0a21dd180b103fafa3424121f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts",
-      "link": "https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html",
-      "summary": "Adobe has warned of a critical security flaw in its Commerce and Magento Open Source platforms that, if successfully exploited, could allow attackers to take control of customer accounts. The vulnerability, tracked as CVE-2025-54236 (aka SessionReaper), carries a CVSS score of 9.1 out of a maximum of 10.0. It has been described as an improper input validation flaw. Adobe said it's not aware of",
-      "published": "2025-09-10 01:08:00",
-      "timestamp": 1757466480
-    },
-    {
-      "id": "922220c2f61732efe7b439f1627b627f3bfd4899",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SAP Patches Critical NetWeaver (CVSS Up to 10.0) and High-Severity S/4HANA Flaws",
-      "link": "https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html",
-      "summary": "SAP on Tuesday released security updates to address multiple security flaws, including three critical vulnerabilities in SAP Netweaver that could result in code execution and the upload arbitrary files. The vulnerabilities are listed below - CVE-2025-42944 (CVSS score: 10.0) - A deserialization vulnerability in SAP NetWeaver that could allow an unauthenticated attacker to submit a malicious",
-      "published": "2025-09-10 01:03:00",
-      "timestamp": 1757466180
     },
     {
       "id": "c8a6117562333f56e53807f6fa07c9441c062415",
