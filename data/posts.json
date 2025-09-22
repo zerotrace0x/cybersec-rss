@@ -1,6 +1,16 @@
 {
-  "generated_at": 1758511970,
+  "generated_at": 1758521702,
   "items": [
+    {
+      "id": "c371529836bc0c1c8f9607115880b18dab239280",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Patches Critical Entra ID Flaw Enabling Global Admin Impersonation Across Tenants",
+      "link": "https://thehackernews.com/2025/09/microsoft-patches-critical-entra-id.html",
+      "summary": "A critical token validation failure in Microsoft Entra ID (previously Azure Active Directory) could have allowed attackers to impersonate any user, including Global Administrators, across any tenant. The vulnerability, tracked as CVE-2025-55241, has been assigned the maximum CVSS score of 10.0. It has been described by Microsoft as a privilege escalation flaw in Azure Entra. There is no",
+      "published": "2025-09-22 05:47:00",
+      "timestamp": 1758520020
+    },
     {
       "id": "795a1a6e7d5c0fb9b6d08e281ec37e7f4bf091d3",
       "source": "BleepingComputer",
@@ -690,16 +700,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that leverages ConnectWise ScreenConnect, a legitimate Remote Monitoring and Management (RMM) software, to deliver a fleshless loader that drops a remote access trojan (RAT) called AsyncRAT to steal sensitive data from compromised hosts. \"The attacker used ScreenConnect to gain remote access, then executed a layered VBScript and",
       "published": "2025-09-11 06:02:00",
       "timestamp": 1757570520
-    },
-    {
-      "id": "2f6b7e0dd23d800879e06116a0a7801bca7070e0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems",
-      "link": "https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html",
-      "summary": "An advanced persistent threat (APT) group from China has been attributed to the compromise of a Philippines-based military company using a previously undocumented fileless malware framework called EggStreme. \"This multi-stage toolset achieves persistent, low-profile espionage by injecting malicious code directly into memory and leveraging DLL sideloading to execute payloads,\" Bitdefender",
-      "published": "2025-09-10 15:46:00",
-      "timestamp": 1757519160
     },
     {
       "id": "c8a6117562333f56e53807f6fa07c9441c062415",
