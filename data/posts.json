@@ -1,6 +1,16 @@
 {
-  "generated_at": 1758651218,
+  "generated_at": 1758661679,
   "items": [
+    {
+      "id": "9ebc43d83c872a40248520ad0875ac6b86d1a786",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Two New Supermicro BMC Bugs Allow Malicious Firmware to Evade Root of Trust Security",
+      "link": "https://thehackernews.com/2025/09/two-new-supermicro-bmc-bugs-allow.html",
+      "summary": "Cybersecurity researchers have disclosed details of two security vulnerabilities impacting Supermicro Baseboard Management Controller (BMC) firmware that could potentially allow attackers to bypass crucial verification steps and update the system with a specially crafted image. The medium-severity vulnerabilities, both of which stem from improper verification of a cryptographic signature, are",
+      "published": "2025-09-23 18:00:00",
+      "timestamp": 1758650400
+    },
     {
       "id": "793d76577e5441496ec1565332a4d31f0611840b",
       "source": "BleepingComputer",
@@ -132,6 +142,16 @@
       "timestamp": 1758629137
     },
     {
+      "id": "1814e22634797afd9afa411b9b6b5dfa26c3a8f7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Six Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-six-industrial-control-systems-advisories",
+      "summary": "CISA released six Industrial Control Systems (ICS) advisories on September 23, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-266-01 AutomationDirect CLICK PLUS ICSA-25-266-02 Mitsubishi Electric MELSEC-Q Series CPU Module ICSA-25-266-03 Schneider Electric SESU ICSA-25-266-04 Viessmann Vitogate 300 ICSA-25-023-02 Hitachi Energy RTU500 Series Product (Update A) ICSA-25-093-01 Hitachi Energy RTU500 Series (Upd",
+      "published": "2025-09-23 12:00:00",
+      "timestamp": 1758628800
+    },
+    {
       "id": "8b807dd2da9f16b6038374cb6cc3d8a3d67e0dbc",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -142,12 +162,22 @@
       "timestamp": 1758628800
     },
     {
-      "id": "1814e22634797afd9afa411b9b6b5dfa26c3a8f7",
+      "id": "582052ca489eb4389e63b35ad9e1bbfe89967ced",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-six-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) advisories on September 23, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-266-01 AutomationDirect CLICK PLUS ICSA-25-266-02 Mitsubishi Electric MELSEC-Q Series CPU Module ICSA-25-266-03 Schneider Electric SESU ICSA-25-266-04 Viessmann Vitogate 300 ICSA-25-023-02 Hitachi Energy RTU500 Series Product (Update A) ICSA-25-093-01 Hitachi Energy RTU500 Series (Upd",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-10585 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Commo",
+      "published": "2025-09-23 12:00:00",
+      "timestamp": 1758628800
+    },
+    {
+      "id": "8533fc01f05da3e4e77d2aea7b99986dea676f6f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Widespread Supply Chain Compromise Impacting npm Ecosystem",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem",
+      "summary": "CISA is releasing this Alert to provide guidance in response to a widespread software supply chain compromise involving the world\u2019s largest JavaScript registry, npmjs.com. A self-replicating worm\u2014publicly known as \u201cShai-Hulud\u201d\u2014has compromised over 500 packages.[i] After gaining initial access, the malicious cyber actor deployed malware that scanned the environment for sensitive credentials. The cyber actor then targeted GitHub Personal Access Tokens (PATs) and application programming interface (",
       "published": "2025-09-23 12:00:00",
       "timestamp": 1758628800
     },
@@ -732,16 +762,6 @@
       "timestamp": 1757690160
     },
     {
-      "id": "3fa0f1a5d305cfa4434eb5b5c600c7c60ce9b6d8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms",
-      "link": "https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html",
-      "summary": "Apple has notified users in France of a spyware campaign targeting their devices, according to the Computer Emergency Response Team of France (CERT-FR). The agency said the alerts were sent out on September 3, 2025, making it the fourth time this year that Apple has notified citizens in the county that at least one of the devices linked to their iCloud accounts may have been compromised as part",
-      "published": "2025-09-12 14:49:00",
-      "timestamp": 1757688540
-    },
-    {
       "id": "e6deb833b890e1cb4aedc7ee32460983664c037b",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -752,22 +772,22 @@
       "timestamp": 1757612422
     },
     {
-      "id": "48459b9b3634e4301dab77810aa2238d5bd096b7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Eleven Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-releases-eleven-industrial-control-systems-advisories",
-      "summary": "CISA released eleven Industrial Control Systems (ICS) advisories on September 11, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-254-01 Siemens SIMOTION Tools ICSA-25-254-02 Siemens SIMATIC Virtualization as a Service (SIVaaS) ICSA-25-254-03 Siemens SINAMICS Drives ICSA-25-254-04 Siemens SINEC OS ICSA-25-254-05 Siemens Apogee PXC and Talon TC Devices ICSA-25-254-06 Siemens Industrial Edge Management OS (IEM-",
-      "published": "2025-09-11 12:00:00",
-      "timestamp": 1757592000
-    },
-    {
       "id": "787565b3bae995b3650d33c09090b0300b936209",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-5086 Dassault Syst\u00e8mes DELMIA Apriso Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog ",
+      "published": "2025-09-11 12:00:00",
+      "timestamp": 1757592000
+    },
+    {
+      "id": "48459b9b3634e4301dab77810aa2238d5bd096b7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Eleven Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-releases-eleven-industrial-control-systems-advisories",
+      "summary": "CISA released eleven Industrial Control Systems (ICS) advisories on September 11, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-254-01 Siemens SIMOTION Tools ICSA-25-254-02 Siemens SIMATIC Virtualization as a Service (SIVaaS) ICSA-25-254-03 Siemens SINAMICS Drives ICSA-25-254-04 Siemens SINEC OS ICSA-25-254-05 Siemens Apogee PXC and Talon TC Devices ICSA-25-254-06 Siemens Industrial Edge Management OS (IEM-",
       "published": "2025-09-11 12:00:00",
       "timestamp": 1757592000
     },
@@ -1160,26 +1180,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-8875 N-able N-central Insecure Deserialization Vulnerability CVE-2025-8876 N-able N-central Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited ",
       "published": "2025-08-13 12:00:00",
       "timestamp": 1755086400
-    },
-    {
-      "id": "064c5058d6c5560ee7654a1b66f5b16811432cb1",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and Partners Release Asset Inventory Guidance for Operational Technology Owners and Operators",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-and-partners-release-asset-inventory-guidance-operational-technology-owners-and-operators",
-      "summary": "CISA, along with the National Security Agency, the Federal Bureau of Investigation, Environmental Protection Agency, and several international partners, released comprehensive guidance to help operational technology (OT) owners and operators across all critical infrastructure sectors create and maintain OT asset inventories and supplemental taxonomies. An asset inventory is a regularly updated, structured list of an organization's systems, hardware, and software. It includes a categorization sys",
-      "published": "2025-08-13 12:00:00",
-      "timestamp": 1755086400
-    },
-    {
-      "id": "e370ae2b64800bba224eef3ca80596414e3863d5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Seven Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
-      "published": "2025-08-12 12:00:00",
-      "timestamp": 1755000000
     },
     {
       "id": "623c1535b47e20e38cde53200832947574c3fe19",
