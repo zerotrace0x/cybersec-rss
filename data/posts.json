@@ -1,6 +1,16 @@
 {
-  "generated_at": 1758575288,
+  "generated_at": 1758588017,
   "items": [
+    {
+      "id": "61405e34831285cbb696c6774441dee77288f2ea",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Airport disruptions in Europe caused by a ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/",
+      "summary": "The disruptions over the weekend at several major European airports were caused by a ransomware attack targeting the check-in and boarding systems. [...]",
+      "published": "2025-09-22 21:24:19",
+      "timestamp": 1758576259
+    },
     {
       "id": "92762ccab2445670dacc67f57cf066dba5ae23d7",
       "source": "BleepingComputer",
@@ -90,6 +100,16 @@
       "summary": "Microsoft has confirmed a known issue that prevents some apps from playing Digital Rights Management (DRM) protected video content or displaying and recording live TV. [...]",
       "published": "2025-09-22 13:55:47",
       "timestamp": 1758549347
+    },
+    {
+      "id": "b6e8ab3a4ff5f49a60dfc97c99889452a09b85b9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "SonicWall Releases Advisory for Customers after Security Incident",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/22/sonicwall-releases-advisory-customers-after-security-incident",
+      "summary": "SonicWall released a security advisory to assist their customers with protecting systems impacted by the MySonicWall cloud backup file incident. SonicWall\u2019s investigation found that a malicious actor performed a series of brute force techniques against their MySonicWall.com web portal to gain access to a subset of customers\u2019 preference files stored in their cloud backups. While credentials within the files were encrypted, the files also included information that actors can use to gain access to ",
+      "published": "2025-09-22 12:00:00",
+      "timestamp": 1758542400
     },
     {
       "id": "0f21785c25d48fe73ec533f329e56924b70b5863",
@@ -190,16 +210,6 @@
       "summary": "Cybersecurity researchers have disclosed a zero-click flaw in OpenAI ChatGPT's Deep Research agent that could allow an attacker to leak sensitive Gmail inbox data with a single crafted email without any user action. The new class of attack has been codenamed ShadowLeak by Radware. Following responsible disclosure on June 18, 2025, the issue was addressed by OpenAI in early August. \"The attack",
       "published": "2025-09-20 05:31:00",
       "timestamp": 1758346260
-    },
-    {
-      "id": "ab35c23e2298aaba5c49828ee0627e6ebbcf3e77",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft starts rolling out Gaming Copilot on Windows 11 PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/",
-      "summary": "Microsoft has begun rolling out the beta version of its AI-powered Gaming Copilot to Windows 11 systems for users aged 18 or older, excluding those in mainland China. [...]",
-      "published": "2025-09-19 18:46:22",
-      "timestamp": 1758307582
     },
     {
       "id": "e5044094f20f4e65f67522312badaac811a0cd79",
@@ -792,22 +802,22 @@
       "timestamp": 1756908000
     },
     {
-      "id": "8707f9a9614cfdcf91b755557060627f24fefbb3",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA, NSA, and Global Partners Release a Shared Vision of Software Bill of Materials (SBOM) Guidance",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-nsa-and-global-partners-release-shared-vision-software-bill-materials-sbom-guidance",
-      "summary": "CISA, in collaboration with NSA and 19 international partners, released joint guidance outlining A Shared Vision of Software Bill of Materials (SBOM) for Cybersecurity. This marks a significant step forward in strengthening software supply chain transparency and security worldwide. An SBOM is a formal record detailing the components and supply chain relationships used in building software. SBOMs act as a software \u201cingredients list\u201d providing organizations with essential visibility into software ",
-      "published": "2025-09-03 12:00:00",
-      "timestamp": 1756900800
-    },
-    {
       "id": "45e3317b88e28ed1c7bc63ebcb1597a1c1b1b8f7",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-50224 TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability CVE-2025-9377 TP-Link Archer C7(EU) and TL-WR841N/ND(MS) OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing ",
+      "published": "2025-09-03 12:00:00",
+      "timestamp": 1756900800
+    },
+    {
+      "id": "8707f9a9614cfdcf91b755557060627f24fefbb3",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA, NSA, and Global Partners Release a Shared Vision of Software Bill of Materials (SBOM) Guidance",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-nsa-and-global-partners-release-shared-vision-software-bill-materials-sbom-guidance",
+      "summary": "CISA, in collaboration with NSA and 19 international partners, released joint guidance outlining A Shared Vision of Software Bill of Materials (SBOM) for Cybersecurity. This marks a significant step forward in strengthening software supply chain transparency and security worldwide. An SBOM is a formal record detailing the components and supply chain relationships used in building software. SBOMs act as a software \u201cingredients list\u201d providing organizations with essential visibility into software ",
       "published": "2025-09-03 12:00:00",
       "timestamp": 1756900800
     },
@@ -1150,16 +1160,6 @@
       "summary": "Posted by Jann Horn, Google Project ZeroIntroduction In early June, I was reviewing a new Linux kernel feature when I learned about the MSG_OOB feature supported by stream-oriented UNIX domain sockets. I reviewed the implementation of MSG_OOB, and discovered a security bug (CVE-2025-38236) affecting Linux >=6.9. I reported the bug to Linux, and it got fixed. Interestingly, while the MSG_OOB feature is not used by Chrome, it was exposed in the Chrome renderer sandbox. (Since then, sending MSG_OOB",
       "published": "2025-08-08 10:43:00",
       "timestamp": 1754649780
-    },
-    {
-      "id": "17475be70a97fa91c8ca11398823880add3c2870",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Issues ED 25-02: Mitigate Microsoft Exchange Vulnerability",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-issues-ed-25-02-mitigate-microsoft-exchange-vulnerability",
-      "summary": "Today, CISA issued Emergency Directive (ED) 25-02: Mitigate Microsoft Exchange Vulnerability in response to CVE-2025-53786, a vulnerability in Microsoft Exchange server hybrid deployments. ED 25-02 directs all Federal Civilian Executive Branch (FCEB) agencies with Microsoft Exchange hybrid environments to implement required mitigations by 9:00 AM EDT on Monday, August 11, 2025. This vulnerability presents significant risk to all organizations operating Microsoft Exchange hybrid-joined configurat",
-      "published": "2025-08-07 12:00:00",
-      "timestamp": 1754568000
     },
     {
       "id": "4ab9d2d1d2ac6be869081c0457c56eff6580dc50",
