@@ -1,6 +1,66 @@
 {
-  "generated_at": 1758629802,
+  "generated_at": 1758640149,
   "items": [
+    {
+      "id": "ebed84310e04a8d6743355e6f8da138d486bbbdd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA says hackers breached federal agency using GeoServer exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/",
+      "summary": "CISA has revealed that attackers breached the network of an unnamed U.S. federal civilian executive branch (FCEB) agency last year after compromising an unpatched GeoServer instance. [...]",
+      "published": "2025-09-23 15:07:27",
+      "timestamp": 1758640047
+    },
+    {
+      "id": "83a5feecc6af7854458b756ac066393641cef443",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Police dismantles crypto fraud ring linked to \u20ac100 million in losses",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/",
+      "summary": "Law enforcement authorities in Europe have arrested five suspects linked to a cryptocurrency investment fraud ring that stole over \u20ac100 million ($118 million) from more than 100 victims. [...]",
+      "published": "2025-09-23 14:16:35",
+      "timestamp": 1758636995
+    },
+    {
+      "id": "d5fd00012c9ecf398f6366d3e84bfe7e2c6721c6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "5 ways to streamline Identity Governance with this free tool",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/",
+      "summary": "Identity Governance doesn't have to be complex or costly. tenfold's free Community Edition helps orgs (up to 150 users) streamline onboarding, access reviews & M365 permissions \u2014 all with a no-code IGA platform. [...]",
+      "published": "2025-09-23 14:02:12",
+      "timestamp": 1758636132
+    },
+    {
+      "id": "f73b3287ab39a4c1710b2b73d4276cc2ff6a2242",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SolarWinds releases third patch to fix Web Help Desk RCE bug",
+      "link": "https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/",
+      "summary": "SolarWinds has released a hotfix for a critical a critical vulnerability in Web Help Desk that allows remote code execution (RCE) without authentication. [...]",
+      "published": "2025-09-23 13:41:54",
+      "timestamp": 1758634914
+    },
+    {
+      "id": "02c8c9770fa846c9da07e60d58ed959c11e53137",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SonicWall releases SMA100 firmware update to wipe rootkit malware",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/",
+      "summary": "SonicWall has released a firmware update that can help customers remove rootkit malware deployed in attacks targeting SMA 100 series devices. [...]",
+      "published": "2025-09-23 13:15:33",
+      "timestamp": 1758633333
+    },
+    {
+      "id": "6d14ae42cc9ad599671dd91a25c05eb10a1c72a3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SolarWinds Releases Hotfix for Critical CVE-2025-26399 Remote Code Execution Flaw",
+      "link": "https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html",
+      "summary": "SolarWinds has released hot fixes to address a critical security flaw impacting its Web Help Desk software that, if successfully exploited, could allow attackers to execute arbitrary commands on susceptible systems. The vulnerability, tracked as CVE-2025-26399 (CVSS score: 9.8), has been described as an instance of deserialization of untrusted data that could result in code execution. It affects",
+      "published": "2025-09-23 12:46:00",
+      "timestamp": 1758631560
+    },
     {
       "id": "4be83472be3114eba15fb2994c40c5ee6b435d18",
       "source": "BleepingComputer",
@@ -10,6 +70,36 @@
       "summary": "GitHub is introducing a set of defenses against supply-chain attacks on the platform that led to multiple large-scale incidents recently. [...]",
       "published": "2025-09-23 12:05:37",
       "timestamp": 1758629137
+    },
+    {
+      "id": "8b807dd2da9f16b6038374cb6cc3d8a3d67e0dbc",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Advisory on Lessons Learned from an Incident Response Engagement",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-advisory-lessons-learned-incident-response-engagement",
+      "summary": "Today, CISA released a cybersecurity advisory detailing lessons learned from an incident response engagement following the detection of potential malicious activity identified through security alerts generated by the agency\u2019s endpoint detection and response tool. This advisory, CISA Shares Lessons Learned from an Incident Response Engagement, highlights takeaways that illuminate the urgent need for timely patching, comprehensive incident response planning, and proactive threat monitoring to miti",
+      "published": "2025-09-23 12:00:00",
+      "timestamp": 1758628800
+    },
+    {
+      "id": "a88ce0ee66c0bafdf35a04dd7a5b721009c34b5e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Lean Teams, Higher Stakes: Why CISOs Must Rethink Incident Remediation",
+      "link": "https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html",
+      "summary": "Big companies are getting smaller, and their CEOs want everyone to know it. Wells Fargo has cut its workforce by 23% over five years, Bank of America has shed 88,000 employees since 2010, and Verizon's CEO recently boasted that headcount is \"going down all the time.\" What was once a sign of corporate distress has become a badge of honor, with executives celebrating lean operations and AI-driven",
+      "published": "2025-09-23 11:30:00",
+      "timestamp": 1758627000
+    },
+    {
+      "id": "cfdd5c2c60cad8d3a8c87fe0e4a9cbab95c68499",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ShadowV2 Botnet Exploits Misconfigured AWS Docker Containers for DDoS-for-Hire Service",
+      "link": "https://thehackernews.com/2025/09/shadowv2-botnet-exploits-misconfigured.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new botnet that customers can rent access to conduct distributed denial-of-service (DDoS) attacks against targets of interest. The ShadowV2 botnet, according to Darktrace, predominantly targets misconfigured Docker containers on Amazon Web Services (AWS) cloud servers to deploy a Go-based malware that turns infected systems into attack nodes",
+      "published": "2025-09-23 11:26:00",
+      "timestamp": 1758626760
     },
     {
       "id": "c843109d7ea8e7eb9747416eba9effe0132273f2",
@@ -122,26 +212,6 @@
       "timestamp": 1758555375
     },
     {
-      "id": "067af36ba13f39d928e210cc6445596d42d894c6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why attackers are moving beyond email-based phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-attackers-are-moving-beyond-email-based-phishing-attacks/",
-      "summary": "Phishing isn't just email anymore. Attackers now use social media, chat apps & malicious ads to steal credentials. Push Security explains the latest tactics and shows how to stop multi-channel phishing where it happens \u2014 inside the browser. [...]",
-      "published": "2025-09-22 14:01:11",
-      "timestamp": 1758549671
-    },
-    {
-      "id": "4cc35f9d8406f5d4b5454c799322833cc1944d4c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft says recent updates cause DRM video playback issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-updates-cause-drm-video-playback-issues/",
-      "summary": "Microsoft has confirmed a known issue that prevents some apps from playing Digital Rights Management (DRM) protected video content or displaying and recording live TV. [...]",
-      "published": "2025-09-22 13:55:47",
-      "timestamp": 1758549347
-    },
-    {
       "id": "b6e8ab3a4ff5f49a60dfc97c99889452a09b85b9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -172,16 +242,6 @@
       "timestamp": 1758538800
     },
     {
-      "id": "cc213c7cce08cb0f660359a5d43b2f9bd445e902",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Verified Steam game steals streamer's cancer treatment donations",
-      "link": "https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/",
-      "summary": "A gamer seeking financial support for cancer treatment lost $32,000 after downloading from Steam a verified game named BlockBlasters that drained his cryptocurrency wallet. [...]",
-      "published": "2025-09-22 09:28:10",
-      "timestamp": 1758533290
-    },
-    {
       "id": "c371529836bc0c1c8f9607115880b18dab239280",
       "source": "The Hacker News",
       "source_category": "General",
@@ -190,16 +250,6 @@
       "summary": "A critical token validation failure in Microsoft Entra ID (previously Azure Active Directory) could have allowed attackers to impersonate any user, including Global Administrators, across any tenant. The vulnerability, tracked as CVE-2025-55241, has been assigned the maximum CVSS score of 10.0. It has been described by Microsoft as a privilege escalation flaw in Azure Entra. There is no",
       "published": "2025-09-22 05:47:00",
       "timestamp": 1758520020
-    },
-    {
-      "id": "795a1a6e7d5c0fb9b6d08e281ec37e7f4bf091d3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Entra ID flaw allowed hijacking any company's tenant",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/",
-      "summary": "A critical combination of legacy components could have allowed complete access to the Microsoft Entra ID tenant of every company in the world. [...]",
-      "published": "2025-09-21 17:30:51",
-      "timestamp": 1758475851
     },
     {
       "id": "0b115e5a428e03ec2aac98d778e5d8b05162dd4e",
@@ -672,26 +722,6 @@
       "timestamp": 1757674980
     },
     {
-      "id": "3839f1cca0aa1494c601cfee1cc90a2a21b73da7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage",
-      "link": "https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html",
-      "summary": "The security landscape for cloud-native applications is undergoing a profound transformation. Containers, Kubernetes, and serverless technologies are now the default for modern enterprises, accelerating delivery but also expanding the attack surface in ways traditional security models can\u2019t keep up with. As adoption grows, so does complexity. Security teams are asked to monitor sprawling hybrid",
-      "published": "2025-09-12 08:00:00",
-      "timestamp": 1757664000
-    },
-    {
-      "id": "87ace2ab9ee7f67ffbbdd7317e920674511c417c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories",
-      "link": "https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html",
-      "summary": "A security weakness has been disclosed in the artificial intelligence (AI)-powered code editor Cursor that could trigger code execution when a maliciously crafted repository is opened using the program. The issue stems from the fact that an out-of-the-box security setting is disabled by default, opening the door for attackers to run arbitrary code on users' computers with their privileges. \"",
-      "published": "2025-09-12 04:49:00",
-      "timestamp": 1757652540
-    },
-    {
       "id": "e6deb833b890e1cb4aedc7ee32460983664c037b",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -700,16 +730,6 @@
       "summary": "In May 2025, the European Union levied financial sanctions on the owners of Stark Industries Solutions Ltd., a bulletproof hosting provider that materialized two weeks before Russia invaded Ukraine and quickly became a top source of Kremlin-linked cyberattacks and disinformation campaigns. But new data shows those sanctions have done little to stop Stark from simply rebranding and transferring their assets to other corporate entities controlled by its original hosting providers.",
       "published": "2025-09-11 17:40:22",
       "timestamp": 1757612422
-    },
-    {
-      "id": "c196f2d4e7981e97863480627257b2f7a4213dd7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Pixel 10 Adds C2PA Support to Verify AI-Generated Media Authenticity",
-      "link": "https://thehackernews.com/2025/09/google-pixel-10-adds-c2pa-support-to.html",
-      "summary": "Google on Tuesday announced that its new Google Pixel 10 phones support the Coalition for Content Provenance and Authenticity (C2PA) standard out of the box to verify the origin and history of digital content. To that end, support for C2PA's Content Credentials has been added to Pixel Camera and Google Photos apps for Android. The move, Google said, is designed to further digital media",
-      "published": "2025-09-11 15:03:00",
-      "timestamp": 1757602980
     },
     {
       "id": "787565b3bae995b3650d33c09090b0300b936209",
@@ -812,22 +832,22 @@
       "timestamp": 1756908000
     },
     {
-      "id": "45e3317b88e28ed1c7bc63ebcb1597a1c1b1b8f7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-50224 TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability CVE-2025-9377 TP-Link Archer C7(EU) and TL-WR841N/ND(MS) OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing ",
-      "published": "2025-09-03 12:00:00",
-      "timestamp": 1756900800
-    },
-    {
       "id": "8707f9a9614cfdcf91b755557060627f24fefbb3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA, NSA, and Global Partners Release a Shared Vision of Software Bill of Materials (SBOM) Guidance",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-nsa-and-global-partners-release-shared-vision-software-bill-materials-sbom-guidance",
       "summary": "CISA, in collaboration with NSA and 19 international partners, released joint guidance outlining A Shared Vision of Software Bill of Materials (SBOM) for Cybersecurity. This marks a significant step forward in strengthening software supply chain transparency and security worldwide. An SBOM is a formal record detailing the components and supply chain relationships used in building software. SBOMs act as a software \u201cingredients list\u201d providing organizations with essential visibility into software ",
+      "published": "2025-09-03 12:00:00",
+      "timestamp": 1756900800
+    },
+    {
+      "id": "45e3317b88e28ed1c7bc63ebcb1597a1c1b1b8f7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-50224 TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability CVE-2025-9377 TP-Link Archer C7(EU) and TL-WR841N/ND(MS) OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing ",
       "published": "2025-09-03 12:00:00",
       "timestamp": 1756900800
     },
@@ -952,22 +972,22 @@
       "timestamp": 1756216800
     },
     {
-      "id": "0aa187bcd702bc4b85a7fdad746d03d76de75142",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Three Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-releases-three-industrial-control-systems-advisories",
-      "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 26, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-238-01 INVT VT-Designer and HMITool ICSA-25-238-03 Schneider Electric Modicon M340 Controller and Communication Modules ICSA-25-140-03 Danfoss AK-SM 8xxA Series (Update A) CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigat",
-      "published": "2025-08-26 12:00:00",
-      "timestamp": 1756209600
-    },
-    {
       "id": "137d1be9d651db3de6c779783eed0b7fca3db54c",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-7775 Citrix NetScaler Memory Overflow Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common ",
+      "published": "2025-08-26 12:00:00",
+      "timestamp": 1756209600
+    },
+    {
+      "id": "0aa187bcd702bc4b85a7fdad746d03d76de75142",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Three Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-releases-three-industrial-control-systems-advisories",
+      "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 26, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-238-01 INVT VT-Designer and HMITool ICSA-25-238-03 Schneider Electric Modicon M340 Controller and Communication Modules ICSA-25-140-03 Danfoss AK-SM 8xxA Series (Update A) CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigat",
       "published": "2025-08-26 12:00:00",
       "timestamp": 1756209600
     },
@@ -1142,22 +1162,22 @@
       "timestamp": 1755086400
     },
     {
-      "id": "e370ae2b64800bba224eef3ca80596414e3863d5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Seven Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
-      "published": "2025-08-12 12:00:00",
-      "timestamp": 1755000000
-    },
-    {
       "id": "b45379d2a5d646a9308a6405443315ce143ca62e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2013-3893 Microsoft Internet Explorer Resource Management Errors Vulnerability CVE-2007-0671 Microsoft Office Excel Remote Code Execution Vulnerability CVE-2025-8088 RARLAB WinRAR Path Traversal Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Op",
+      "published": "2025-08-12 12:00:00",
+      "timestamp": 1755000000
+    },
+    {
+      "id": "e370ae2b64800bba224eef3ca80596414e3863d5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Seven Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/12/cisa-releases-seven-industrial-control-systems-advisories",
+      "summary": "CISA released seven Industrial Control Systems (ICS) advisories on August 12, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-224-01 Ashlar-Vellum Cobalt, Xenon, Argon, Lithium, Cobalt Share ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, iSTAR Ultra G2 SE, iSTAR Edge G2 ICSA-25-224-03 Schneider Electric EcoStruxure Power Monitoring Expert ICSA-25-224-04 AVEVA PI Integrator ICSA-2",
       "published": "2025-08-12 12:00:00",
       "timestamp": 1755000000
     },
@@ -1170,16 +1190,6 @@
       "summary": "Posted by Jann Horn, Google Project ZeroIntroduction In early June, I was reviewing a new Linux kernel feature when I learned about the MSG_OOB feature supported by stream-oriented UNIX domain sockets. I reviewed the implementation of MSG_OOB, and discovered a security bug (CVE-2025-38236) affecting Linux >=6.9. I reported the bug to Linux, and it got fixed. Interestingly, while the MSG_OOB feature is not used by Chrome, it was exposed in the Chrome renderer sandbox. (Since then, sending MSG_OOB",
       "published": "2025-08-08 10:43:00",
       "timestamp": 1754649780
-    },
-    {
-      "id": "4ab9d2d1d2ac6be869081c0457c56eff6580dc50",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Ten Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/07/cisa-releases-ten-industrial-control-systems-advisories",
-      "summary": "CISA released ten Industrial Control Systems (ICS) advisories on August 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-219-01 Delta Electronics DIAView ICSA-25-219-02 Johnson Controls FX80 and FX90 ICSA-25-219-03 Burk Technology ARC Solo ICSA-25-219-04 Rockwell Automation Arena ICSA-25-219-05 Packet Power EMX and EG ICSA-25-219-06 Dreame Technology iOS and Android Mobile Applications ICSA-25-219-07 EG4 El",
-      "published": "2025-08-07 12:00:00",
-      "timestamp": 1754568000
     },
     {
       "id": "0603c212e5d351aee742ef5d7209659e2d6e2067",
