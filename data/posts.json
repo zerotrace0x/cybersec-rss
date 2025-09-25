@@ -1,6 +1,86 @@
 {
-  "generated_at": 1758812967,
+  "generated_at": 1758824045,
   "items": [
+    {
+      "id": "2434468d77f7633756a4fcbe6e495852d0b84607",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Co-op says it lost $107 million after Scattered Spider attack",
+      "link": "https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/",
+      "summary": "The Co-operative Group in the U.K. released its interim financial results report for the first half of 2025 with a massive loss in operating profit of \u00a380 million ($107 million) due to the cyberattack it suffered last April. [...]",
+      "published": "2025-09-25 18:05:14",
+      "timestamp": 1758823514
+    },
+    {
+      "id": "51f3f64a9c0febbdcbcb100e2b6de1284e33ccf0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders agencies to patch Cisco flaws exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/",
+      "summary": "CISA has issued a new emergency directive ordering U.S. federal agencies to secure their Cisco firewall devices against two flaws that have been exploited in zero-day attacks. [...]",
+      "published": "2025-09-25 17:52:55",
+      "timestamp": 1758822775
+    },
+    {
+      "id": "7a492531a1e76b3c79cadbcd231a29ee143002ed",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco warns of ASA firewall zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/",
+      "summary": "Cisco warned customers today to patch two zero-day vulnerabilities that are actively being exploited in attacks and impact the company's firewall software. [...]",
+      "published": "2025-09-25 16:49:36",
+      "timestamp": 1758818976
+    },
+    {
+      "id": "8866d2c56dd372cb040173660b5a074eb71ae522",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Amazon pays $2.5 billion to settle Prime memberships lawsuit",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/",
+      "summary": "Amazon will pay $2.5 billion to settle claims by the U.S. Federal Trade Commission (FTC) that it used dark patterns to trick millions of users into enrolling in its Prime program and made it as difficult as possible to cancel the recurring subscriptions. [...]",
+      "published": "2025-09-25 16:21:24",
+      "timestamp": 1758817284
+    },
+    {
+      "id": "6487aac39a0c189c5e0ef43cf653aa09698b534a",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Introducing Microsoft Marketplace \u2014 Thousands of solutions. Millions of customers. One Marketplace.",
+      "link": "https://blogs.microsoft.com/blog/2025/09/25/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/",
+      "summary": "To empower customers in becoming Frontier, we\u2019re excited to announce the launch of the reimagined Microsoft Marketplace, your trusted source for cloud solutions, AI apps and agents. The post Introducing Microsoft Marketplace \u2014 Thousands of solutions. Millions of customers. One Marketplace. appeared first on Microsoft Security Blog.",
+      "published": "2025-09-25 15:47:32",
+      "timestamp": 1758815252
+    },
+    {
+      "id": "fd4d90a851323a8fe453e446f6a53815789026f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malicious Rust packages on Crates.io steal crypto wallet keys",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/",
+      "summary": "Two malicious packages with nearly 8,500 downloads in Rust's official crate repository scanned developers' systems to steal cryptocurrency private keys and other secrets. [...]",
+      "published": "2025-09-25 15:43:14",
+      "timestamp": 1758814994
+    },
+    {
+      "id": "a6ff347233e9f186f9408764d957f88fd118bebd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection",
+      "link": "https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html",
+      "summary": "Cybersecurity researchers have disclosed a critical flaw impacting Salesforce Agentforce, a platform for building artificial intelligence (AI) agents, that could allow attackers to potentially exfiltrate sensitive data from its customer relationship management (CRM) tool by means of an indirect prompt injection. The vulnerability has been codenamed ForcedLeak (CVSS score: 9.4) by Noma Security,",
+      "published": "2025-09-25 15:17:00",
+      "timestamp": 1758813420
+    },
+    {
+      "id": "a666543b843331a8344b310408627c7231765579",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "XCSSET evolves again: Analyzing the latest updates to XCSSET\u2019s inventory",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/09/25/xcsset-evolves-again-analyzing-the-latest-updates-to-xcssets-inventory/",
+      "summary": "Microsoft Threat Intelligence has uncovered a new variant of the XCSSET malware, which is designed to infect Xcode projects, typically used by software developers building Apple or macOS-related applications. The post XCSSET evolves again: Analyzing the latest updates to XCSSET\u2019s inventory appeared first on Microsoft Security Blog.",
+      "published": "2025-09-25 15:00:00",
+      "timestamp": 1758812400
+    },
     {
       "id": "45183327d4e1f962f888260ae545d207be5605c8",
       "source": "BleepingComputer",
@@ -40,6 +120,26 @@
       "summary": "Microsoft will offer free extended security updates for Windows 10 users in the European Economic Area (EEA), which includes Iceland, Liechtenstein, Norway, and all 27 European Union member states. [...]",
       "published": "2025-09-25 12:45:06",
       "timestamp": 1758804306
+    },
+    {
+      "id": "78df3aa073099398ce2dfa2a90c1fe6c03f5fac0",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases One Industrial Control Systems Advisory",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/25/cisa-releases-one-industrial-control-systems-advisory",
+      "summary": "CISA released one Industrial Control Systems (ICS) advisory on September 25, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-268-01 Dingtian DT-R002 CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+      "published": "2025-09-25 12:00:00",
+      "timestamp": 1758801600
+    },
+    {
+      "id": "bb85d87382f389ccb97470d6df1132e3ba5930ac",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Directs Federal Agencies to Identify and Mitigate Potential Compromise of Cisco Devices",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/25/cisa-directs-federal-agencies-identify-and-mitigate-potential-compromise-cisco-devices",
+      "summary": "Today, CISA issued Emergency Directive ED 25-03: Identify and Mitigate Potential Compromise of Cisco Devices to address vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Cisco Firepower devices. CISA has added vulnerabilities CVE-2025-30333 and CVE-2025-20362 to the Known Exploited Vulnerabilities Catalog. The Emergency Directive requires federal agencies to identify, analyze, and mitigate potential compromises immediately. Agencies must: Identify all instances of Cisco ASA and Cis",
+      "published": "2025-09-25 12:00:00",
+      "timestamp": 1758801600
     },
     {
       "id": "a4e7766d5349daca061b83c2c4c3271b81a73555",
@@ -122,7 +222,7 @@
       "timestamp": 1758738602
     },
     {
-      "id": "f46501c363264de3bfa1099e1214e2ec3afb94c3",
+      "id": "7cc3a5325650326f47647e7c885ce467c175cf29",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Retail at risk:\u00a0How one alert uncovered a persistent cyberthreat\u200b\u200b",
@@ -152,26 +252,6 @@
       "timestamp": 1758731760
     },
     {
-      "id": "75e499e2e10fbe979708b8be4415323e5e56e28a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Unpatched flaw in OnePlus phones lets rogue apps text messages",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/",
-      "summary": "A vulnerability in multiple OnePlus OxygenOS versions allows any installed app to access SMS data and metadata without requiring permission or user interaction. [...]",
-      "published": "2025-09-24 15:48:40",
-      "timestamp": 1758728920
-    },
-    {
-      "id": "793669954945d200b8bce4a1d6d2e4614957e756",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Police seizes $439 million stolen by cybercrime rings worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/",
-      "summary": "In a five-month joint operation led by Interpol, law enforcement agencies have seized more than $439 million in cash and cryptocurrency linked to cyber-enabled financial crimes that impacted thousands of victims worldwide. [...]",
-      "published": "2025-09-24 15:23:50",
-      "timestamp": 1758727430
-    },
-    {
       "id": "04a97eb7ff7bc3ee04347063f298f4c5d4f1b70f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -180,26 +260,6 @@
       "summary": "Companies in the legal services, software-as-a-service (SaaS) providers, Business Process Outsourcers (BPOs), and technology sectors in the U.S. have been targeted by a suspected China-nexus cyber espionage group to deliver a known backdoor referred to as BRICKSTORM. The activity, attributed to UNC5221 and closely related, suspected China-nexus threat clusters, is designed to facilitate",
       "published": "2025-09-24 14:33:00",
       "timestamp": 1758724380
-    },
-    {
-      "id": "c1e3d321959bc413c6c9b80d79e06b4542990f65",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Obscura, an obscure new ransomware variant",
-      "link": "https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/",
-      "summary": "Huntress analysts discovered a previously unseen ransomware variant, Obscura, spreading from a victim company's domain controller. Learn how Obscura works\u2014and what it means for defenders\u2014in this week's Tradecraft Tuesday. [...]",
-      "published": "2025-09-24 14:01:11",
-      "timestamp": 1758722471
-    },
-    {
-      "id": "0897470cf18c35ad6bc9bd294a1b355d62b02952",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google: Brickstorm malware used to steal U.S. orgs' data for over a year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-brickstorm-malware-used-to-steal-us-orgs-data-for-over-a-year/",
-      "summary": "Suspected Chinese hackers have used the Brickstorm malware in long-term persistence espionage operations against U.S. organizations in the technology and legal sectors. [...]",
-      "published": "2025-09-24 14:00:00",
-      "timestamp": 1758722400
     },
     {
       "id": "64f14f5c2b1d419be1b716823994c21ed6cb3fa1",
@@ -212,16 +272,6 @@
       "timestamp": 1758722400
     },
     {
-      "id": "c3ded675bca8c8d4f8625a9be2456d6fcac63a60",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "UK arrests suspect for RTX ransomware attack causing airport disruptions",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/",
-      "summary": "The UK's National Crime Agency has arrested a suspect linked to a ransomware attack that is causing widespread disruptions across European airports. [...]",
-      "published": "2025-09-24 13:55:48",
-      "timestamp": 1758722148
-    },
-    {
       "id": "43ed25a955efa97e66caca4da3c5deb7798e74c2",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +280,6 @@
       "summary": "Cybersecurity researchers have disclosed two security flaws in Wondershare RepairIt that exposed private user data and potentially exposed the system to artificial intelligence (AI) model tampering and supply chain risks. The critical-rated vulnerabilities in question, discovered by Trend Micro, are listed below - CVE-2025-10643 (CVSS score: 9.1) - An authentication bypass vulnerability that",
       "published": "2025-09-24 13:55:00",
       "timestamp": 1758722100
-    },
-    {
-      "id": "94df8cb08a5f79e42bd9606b3a02b190a2edd018",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "PyPI urges users to reset credentials after new phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/",
-      "summary": "The Python Software Foundation has warned victims of a new wave of phishing attacks using a fake Python Package Index (PyPI) website to reset credentials. [...]",
-      "published": "2025-09-24 13:15:30",
-      "timestamp": 1758719730
     },
     {
       "id": "aded46c48d475bfe7ba2c2d75448bc435c2b35d6",
@@ -752,16 +792,6 @@
       "timestamp": 1758090000
     },
     {
-      "id": "4de74a0fc8633aa603409fcda03b208c23532fd3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains",
-      "link": "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html",
-      "summary": "Microsoft's Digital Crimes Unit said it teamed up with Cloudflare to coordinate the seizure of 338 domains used by RaccoonO365, a financially motivated threat group that was behind a phishing-as-a-service (Phaas) toolkit used to steal more than 5,000 Microsoft 365 credentials from 94 countries since July 2024. \"Using a court order granted by the Southern District of New York, the DCU seized 338",
-      "published": "2025-09-17 04:31:00",
-      "timestamp": 1758083460
-    },
-    {
       "id": "acb8018fab90f49f868053620f7c6d4e04805b20",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -802,22 +832,22 @@
       "timestamp": 1757612422
     },
     {
-      "id": "787565b3bae995b3650d33c09090b0300b936209",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-5086 Dassault Syst\u00e8mes DELMIA Apriso Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog ",
-      "published": "2025-09-11 12:00:00",
-      "timestamp": 1757592000
-    },
-    {
       "id": "48459b9b3634e4301dab77810aa2238d5bd096b7",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Eleven Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-releases-eleven-industrial-control-systems-advisories",
       "summary": "CISA released eleven Industrial Control Systems (ICS) advisories on September 11, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-254-01 Siemens SIMOTION Tools ICSA-25-254-02 Siemens SIMATIC Virtualization as a Service (SIVaaS) ICSA-25-254-03 Siemens SINAMICS Drives ICSA-25-254-04 Siemens SINEC OS ICSA-25-254-05 Siemens Apogee PXC and Talon TC Devices ICSA-25-254-06 Siemens Industrial Edge Management OS (IEM-",
+      "published": "2025-09-11 12:00:00",
+      "timestamp": 1757592000
+    },
+    {
+      "id": "787565b3bae995b3650d33c09090b0300b936209",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-5086 Dassault Syst\u00e8mes DELMIA Apriso Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog ",
       "published": "2025-09-11 12:00:00",
       "timestamp": 1757592000
     },
@@ -1012,16 +1042,6 @@
       "timestamp": 1756296000
     },
     {
-      "id": "e49c78bc3256a452103274e81033fca43e3ef234",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Securing and governing the rise of autonomous agents\u200b\u200b",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/26/securing-and-governing-the-rise-of-autonomous-agents/",
-      "summary": "Hear directly from Corporate Vice President and Deputy Chief Information Security Officer (CISO) for Identity, Igor Sakhnov, about how to secure and govern autonomous agents. This blog is part of a new ongoing series where our Deputy CISOs share their thoughts on what is most important in their respective domains. In this series you will get practical advice, forward-looking commentary on where the industry is going, things you should stop doing, and more. \u200b The post Securing and governing the r",
-      "published": "2025-08-26 16:00:00",
-      "timestamp": 1756224000
-    },
-    {
       "id": "b7244a1ca905d096715145edb87d74c72cb6c776",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1092,14 +1112,14 @@
       "timestamp": 1755864000
     },
     {
-      "id": "32e247d2f75878c7093ecec4b4c0e2efd732c25d",
-      "source": "Microsoft Security Blog",
+      "id": "121df5ae25aba824278a310fc410a9827ad756b5",
+      "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "Think before you Click(Fix): Analyzing the ClickFix social engineering technique",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/",
-      "summary": "The ClickFix social engineering technique has been growing in popularity, with campaigns targeting thousands of enterprise and end-user devices daily. This technique exploits users\u2019 tendency to resolve technical issues by tricking them into running malicious commands. These commands, in turn, deliver payloads that ultimately lead to information theft and exfiltration. The post Think before you Click(Fix): Analyzing the ClickFix social engineering technique appeared first on Microsoft Security Bl",
-      "published": "2025-08-21 16:00:00",
-      "timestamp": 1755792000
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
+      "published": "2025-08-21 12:00:00",
+      "timestamp": 1755777600
     },
     {
       "id": "d893db57cc32ae94c8bc15873c7e828f0b7713b4",
@@ -1108,16 +1128,6 @@
       "title": "CISA Releases Three Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-releases-three-industrial-control-systems-advisories",
       "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 21, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-233-01 Mitsubishi Electric Corporation MELSEC iQ-F Series CPU Module ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update A) ICSMA-25-233-01 FUJIFILM Healthcare Americas Synapse Mobility CISA encourages users and administrators to review newly released ICS advisories for",
-      "published": "2025-08-21 12:00:00",
-      "timestamp": 1755777600
-    },
-    {
-      "id": "121df5ae25aba824278a310fc410a9827ad756b5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-43300 Apple iOS, iPadOS, and macOS Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
       "published": "2025-08-21 12:00:00",
       "timestamp": 1755777600
     },
@@ -1160,26 +1170,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54948 Trend Micro Apex One OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "2025-08-18 12:00:00",
       "timestamp": 1755518400
-    },
-    {
-      "id": "acc0d8f548c1feb0a0c36a6070b574043f03a3dc",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Thirty-Two Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/14/cisa-releases-thirty-two-industrial-control-systems-advisories",
-      "summary": "CISA released thirty-two Industrial Control Systems (ICS) advisories on August 14, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-226-01 Siemens SIMATIC RTLS Locating Manager ICSA-25-226-02 Siemens COMOS ICSA-25-226-03 Siemens Engineering Platforms ICSA-25-226-04 Siemens Simcenter Femap ICSA-25-226-05 Siemens Wibu CodeMeter Runtime ICSA-25-226-06 Siemens Opcenter Quality ICSA-25-226-07 Siemens Third-Party Co",
-      "published": "2025-08-14 12:00:00",
-      "timestamp": 1755172800
-    },
-    {
-      "id": "e962b63eb106b979270f81289a1502053b951e34",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-8875 N-able N-central Insecure Deserialization Vulnerability CVE-2025-8876 N-able N-central Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited ",
-      "published": "2025-08-13 12:00:00",
-      "timestamp": 1755086400
     },
     {
       "id": "623c1535b47e20e38cde53200832947574c3fe19",
