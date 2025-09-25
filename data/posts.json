@@ -1,6 +1,26 @@
 {
-  "generated_at": 1758780858,
+  "generated_at": 1758791410,
   "items": [
+    {
+      "id": "837e7bdd98f5e414048c19fed16fc22669fceaa1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious Rust Crates Steal Solana and Ethereum Keys \u2014 8,424 Downloads Confirmed",
+      "link": "https://thehackernews.com/2025/09/malicious-rust-crates-steal-solana-and.html",
+      "summary": "Cybersecurity researchers have discovered two malicious Rust crates impersonating a legitimate library called fast_log to steal Solana and Ethereum wallet keys from source code. The crates, named faster_log and async_println, were published by the threat actor under the alias rustguruman and dumbnbased on May 25, 2025, amassing 8,424 downloads in total, according to software supply chain",
+      "published": "2025-09-25 07:59:00",
+      "timestamp": 1758787140
+    },
+    {
+      "id": "40f6f2013e09577c25f3b1a2300ddc35290a4473",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software",
+      "link": "https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html",
+      "summary": "Cisco has warned of a high-severity security flaw in IOS Software and IOS XE Software that could allow a remote attacker to execute arbitrary code or trigger a denial-of-service (DoS) condition under specific circumstances. The company said the vulnerability, CVE-2025-20352 (CVSS score: 7.7), has been exploited in the wild, adding it became aware of it \"after local Administrator credentials were",
+      "published": "2025-09-25 06:30:00",
+      "timestamp": 1758781800
+    },
     {
       "id": "4a44bd48e67989fe2733fa9652e8bbeb2beb1bc8",
       "source": "BleepingComputer",
@@ -760,26 +780,6 @@
       "summary": "Apple on Monday backported fixes for a recently patched security flaw that has been actively exploited in the wild. The vulnerability in question is CVE-2025-43300 (CVSS score: 8.8), an out-of-bounds write issue in the ImageIO component that could result in memory corruption when processing a malicious image file. \"Apple is aware of a report that this issue may have been exploited in an",
       "published": "2025-09-16 11:06:00",
       "timestamp": 1758020760
-    },
-    {
-      "id": "5d6525255e0fb381fd9c6628383118062b560d1d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Securing the Agentic Era: Introducing Astrix's AI Agent Control Plane",
-      "link": "https://thehackernews.com/2025/09/securing-agentic-era-introducing.html",
-      "summary": "AI agents are rapidly becoming a core part of the enterprise, being embedded across enterprise workflows, operating with autonomy, and making decisions about which systems to access and how to use them. But as agents grow in power and autonomy, so do the risks and threats. Recent studies show 80% of companies have already experienced unintended AI agent actions, from unauthorized system",
-      "published": "2025-09-16 11:00:00",
-      "timestamp": 1758020400
-    },
-    {
-      "id": "6fd28ab108073816c0a1b318bd3e003495da0d73",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds",
-      "link": "https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html",
-      "summary": "A team of academics from ETH Z\u00fcrich and Google has discovered a new variant of a RowHammer attack targeting Double Data Rate 5 (DDR5) memory chips from South Korean semiconductor vendor SK Hynix. The RowHammer attack variant, codenamed Phoenix (CVE-2025-6202, CVSS score: 7.1), is capable of bypassing sophisticated protection mechanisms put in place to resist the attack. \"We have proven that",
-      "published": "2025-09-16 07:27:00",
-      "timestamp": 1758007620
     },
     {
       "id": "e6deb833b890e1cb4aedc7ee32460983664c037b",
