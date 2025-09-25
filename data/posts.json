@@ -1,6 +1,26 @@
 {
-  "generated_at": 1758824045,
+  "generated_at": 1758834496,
   "items": [
+    {
+      "id": "f2c8f2f1bfa278e078cc46fa5944be0998b6417c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Unofficial Postmark MCP npm silently stole users' emails",
+      "link": "https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/",
+      "summary": "A npm package copying the official 'postmark-mcp' project on GitHub turned bad with the latest update that added a single line of code to exfiltrate all its users' email communication. [...]",
+      "published": "2025-09-25 20:23:34",
+      "timestamp": 1758831814
+    },
+    {
+      "id": "22e7b35ff266b84b00ea919c5f5cd61bef88ab05",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive",
+      "link": "https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html",
+      "summary": "Cisco is urging customers to patch two security flaws impacting the VPN web server of Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software, which it said have been exploited in the wild. The zero-day vulnerabilities in question are listed below - CVE-2025-20333 (CVSS score: 9.9) - An improper validation of user-supplied input",
+      "published": "2025-09-25 18:17:00",
+      "timestamp": 1758824220
+    },
     {
       "id": "2434468d77f7633756a4fcbe6e495852d0b84607",
       "source": "BleepingComputer",
@@ -20,6 +40,26 @@
       "summary": "CISA has issued a new emergency directive ordering U.S. federal agencies to secure their Cisco firewall devices against two flaws that have been exploited in zero-day attacks. [...]",
       "published": "2025-09-25 17:52:55",
       "timestamp": 1758822775
+    },
+    {
+      "id": "22348c5a5a85b31deb5fdeadcc50d2a3734d49f2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More",
+      "link": "https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html",
+      "summary": "/* ===== Container ===== */ .td-wrap {} /* ===== Section ===== */ .td-section { } .td-title { margin: 16px 0 4px; font-size: 32px; line-height: 1.2; font-weight: 800; } .td-subtitle { margin: 0 0 24px; color: #64748b; font-size: 16px; } /* ===== Timeline ===== */ .td-timeline { position: relative; margin: 0 !important;padding: 0!important; list-style: none; } /* spine */ .td-timeline:before {",
+      "published": "2025-09-25 17:24:00",
+      "timestamp": 1758821040
+    },
+    {
+      "id": "4399efca43aa779bd8adbf13f023220021938c95",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network",
+      "link": "https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html",
+      "summary": "The threat actor known as Vane Viper has been outed as a purveyor of malicious ad technology (adtech), while relying on a tangled web of shell companies and opaque ownership structures to deliberately evade responsibility. \"Vane Viper has provided core infrastructure in widespread malvertising, ad fraud, and cyberthreat proliferation for at least a decade,\" Infoblox said in a technical report",
+      "published": "2025-09-25 17:22:00",
+      "timestamp": 1758820920
     },
     {
       "id": "7a492531a1e76b3c79cadbcd231a29ee143002ed",
@@ -115,7 +155,7 @@
       "id": "c9efb2ff618794dc4d33b5c99cbd62f11a7ee44f",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Microsoft will offer free Windows 10 security updates in Europe",
+      "title": "Microsoft will offer free Windows 10 extended security updates in Europe",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/",
       "summary": "Microsoft will offer free extended security updates for Windows 10 users in the European Economic Area (EEA), which includes Iceland, Liechtenstein, Norway, and all 27 European Union member states. [...]",
       "published": "2025-09-25 12:45:06",
@@ -137,7 +177,7 @@
       "source_category": "Blue Team",
       "title": "CISA Directs Federal Agencies to Identify and Mitigate Potential Compromise of Cisco Devices",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/25/cisa-directs-federal-agencies-identify-and-mitigate-potential-compromise-cisco-devices",
-      "summary": "Today, CISA issued Emergency Directive ED 25-03: Identify and Mitigate Potential Compromise of Cisco Devices to address vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Cisco Firepower devices. CISA has added vulnerabilities CVE-2025-30333 and CVE-2025-20362 to the Known Exploited Vulnerabilities Catalog. The Emergency Directive requires federal agencies to identify, analyze, and mitigate potential compromises immediately. Agencies must: Identify all instances of Cisco ASA and Cis",
+      "summary": "Today, CISA issued Emergency Directive ED 25-03: Identify and Mitigate Potential Compromise of Cisco Devices to address vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Cisco Firepower devices. CISA has added vulnerabilities CVE-2025-20333 and CVE-2025-20362 to the Known Exploited Vulnerabilities Catalog. The Emergency Directive requires federal agencies to identify, analyze, and mitigate potential compromises immediately. Agencies must: Identify all instances of Cisco ASA and Cis",
       "published": "2025-09-25 12:00:00",
       "timestamp": 1758801600
     },
@@ -150,16 +190,6 @@
       "summary": "Despite a coordinated investment of time, effort, planning, and resources, even the most up-to-date cybersecurity systems continue to fail. Every day. Why? It\u2019s not because security teams can't see enough. Quite the contrary. Every security tool spits out thousands of findings. Patch this. Block that. Investigate this. It's a tsunami of red dots that not even the most crackerjack team on",
       "published": "2025-09-25 11:49:00",
       "timestamp": 1758800940
-    },
-    {
-      "id": "22348c5a5a85b31deb5fdeadcc50d2a3734d49f2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More",
-      "link": "https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html",
-      "summary": "/* ===== Container ===== */ .td-wrap {} /* ===== Section ===== */ .td-section { } .td-title { margin: 16px 0 4px; font-size: 32px; line-height: 1.2; font-weight: 800; } .td-subtitle { margin: 0 0 24px; color: #64748b; font-size: 16px; } /* ===== Timeline ===== */ .td-timeline { position: relative; margin: 0 !important;padding: 0!important; list-style: none; } /* spine */ .td-timeline:before {",
-      "published": "2025-09-25 11:48:00",
-      "timestamp": 1758800880
     },
     {
       "id": "dfe0156e27f0d0d7c005f7eb31cae84fedab437f",
@@ -230,16 +260,6 @@
       "summary": "In the latest edition of our Cyberattack Series, we dive into real-world cases targeting retail organizations. With 60% of retail companies reporting operational disruptions from cyberattacks and 43% experiencing breaches in the past year, the stakes have never been higher. This post unpacks where a single alert led to the discovery of a major persistent threat, how attackers exploited unpatched SharePoint vulnerabilities and compromised identities to infiltrate networks\u2014and how the Microsoft In",
       "published": "2025-09-24 17:00:00",
       "timestamp": 1758733200
-    },
-    {
-      "id": "3f74c7188fd06089eb95d47d79b6cfa2e08801dd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco warns of IOS zero-day vulnerability exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/",
-      "summary": "Cisco has released security updates to address a high-severity zero-day vulnerability in Cisco IOS and IOS XE Software that is currently being exploited in attacks. [...]",
-      "published": "2025-09-24 16:52:50",
-      "timestamp": 1758732770
     },
     {
       "id": "ed29c0600087a9e89d228f84c1eacd79cd6c2d5c",
@@ -770,26 +790,6 @@
       "summary": "Generative AI has gone from a curiosity to a cornerstone of enterprise productivity in just a few short years. From copilots embedded in office suites to dedicated large language model (LLM) platforms, employees now rely on these tools to code, analyze, draft, and decide. But for CISOs and security architects, the very speed of adoption has created a paradox: the more powerful the tools, the",
       "published": "2025-09-17 11:03:00",
       "timestamp": 1758106980
-    },
-    {
-      "id": "ad855e6c65c981cdfd2999f32eef7a5e759cc258",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
-      "link": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
-      "summary": "Cybersecurity researchers have tied a fresh round of cyber attacks targeting financial services to the notorious cybercrime group known as Scattered Spider, casting doubt on their claims of going \"dark.\" Threat intelligence firm ReliaQuest said it has observed indications that the threat actor has shifted their focus to the financial sector. This is supported by an increase in lookalike domains",
-      "published": "2025-09-17 08:49:00",
-      "timestamp": 1758098940
-    },
-    {
-      "id": "5cb2f420e494835361c7f91e4a3e15b6d9072d36",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
-      "link": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday resentenced the former administrator of BreachForums to three years in prison in connection with his role in running the cybercrime forum and possessing child sexual abuse material (CSAM). Conor Brian Fitzpatrick (aka Pompompurin), 22, of Peekskill, New York, pleaded guilty to one count of access device conspiracy, one count of access device",
-      "published": "2025-09-17 06:20:00",
-      "timestamp": 1758090000
     },
     {
       "id": "acb8018fab90f49f868053620f7c6d4e04805b20",
