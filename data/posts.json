@@ -1,6 +1,56 @@
 {
-  "generated_at": 1758899338,
+  "generated_at": 1758910290,
   "items": [
+    {
+      "id": "5afe74e40a7ea67a25652feb2787494290ad1f11",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US investors to take over TikTok operations in the country",
+      "link": "https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/",
+      "summary": "U.S. President Donald Trump has signed an executive order approving a plan to restructure TikTok operations in the country to address national security concerns. [...]",
+      "published": "2025-09-26 17:01:38",
+      "timestamp": 1758906098
+    },
+    {
+      "id": "425bf383092a7871e1c79ae25f63ace32ae4d79b",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Pointer leaks through pointer-keyed data structures",
+      "link": "https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html",
+      "summary": "Posted by Jann Horn, Google Project Zero IntroductionSome time in 2024, during a Project Zero team discussion, we were talking about how remote ASLR leaks would be helpful or necessary for exploiting some types of memory corruption bugs, specifically in the context of Apple devices. Coming from the angle of \"where would be a good first place to look for a remote ASLR leak\", this led to the discovery of a trick that could potentially be used to leak a pointer remotely, without any memory safety v",
+      "published": "2025-09-26 17:00:00",
+      "timestamp": 1758906000
+    },
+    {
+      "id": "69fffd37a303c051459a88f2b726adcce6391c5c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft shares temp fix for Outlook encrypted email errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/",
+      "summary": "Microsoft is investigating a known issue that triggers Outlook errors when opening encrypted emails sent from other organizations. [...]",
+      "published": "2025-09-26 16:43:48",
+      "timestamp": 1758905028
+    },
+    {
+      "id": "123085c8b252c3047ddc92847fb310fd74546521",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Expose SVG and PureRAT Phishing Threats Targeting Ukraine and Vietnam",
+      "link": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
+      "summary": "A new campaign has been observed impersonating Ukrainian government agencies in phishing attacks to deliver CountLoader, which is then used to drop Amatera Stealer and PureMiner. \"The phishing emails contain malicious Scalable Vector Graphics (SVG) files designed to trick recipients into opening harmful attachments,\" Fortinet FortiGuard Labs researcher Yurren Wan said in a report shared with The",
+      "published": "2025-09-26 16:40:00",
+      "timestamp": 1758904800
+    },
+    {
+      "id": "3c0eec581686f5a6461098b1055624a1842ce4ce",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Edge to block malicious sideloaded extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-edge-to-block-malicious-sideloaded-extensions/",
+      "summary": "Microsoft is planning to introduce a new Edge security feature that will protect users against malicious extensions sideloaded into the web browser. [...]",
+      "published": "2025-09-26 15:39:15",
+      "timestamp": 1758901155
+    },
     {
       "id": "08bd8afb5f8401df6a00e07c85548e425734dac6",
       "source": "BleepingComputer",
@@ -212,16 +262,6 @@
       "timestamp": 1758812400
     },
     {
-      "id": "45183327d4e1f962f888260ae545d207be5605c8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How secure are passkeys, really? Here's what you need to know",
-      "link": "https://www.bleepingcomputer.com/news/security/how-secure-are-passkeys-really-heres-what-you-need-to-know/",
-      "summary": "Passwords are weak links\u201488% of breaches involve stolen creds. Learn more from Specops Software about how passkeys deliver phishing resistance, simpler logins & lower support costs (with some hurdles to adoption). [...]",
-      "published": "2025-09-25 14:02:12",
-      "timestamp": 1758808932
-    },
-    {
       "id": "3021a013eab3ebf9577f762cf49769831d947edc",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,26 +270,6 @@
       "summary": "The North Korea-linked threat actors associated with the Contagious Interview campaign have been attributed to a previously undocumented backdoor called AkdoorTea, along with tools like TsunamiKit and Tropidoor. Slovak cybersecurity firm ESET, which is tracking the activity under the name DeceptiveDevelopment, said the campaign targets software developers across all operating systems, Windows,",
       "published": "2025-09-25 13:14:00",
       "timestamp": 1758806040
-    },
-    {
-      "id": "3e3a6b15587f48f9def1476ce7d08ac0f91b78de",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Teen suspected of Vegas casino cyberattacks released to parents",
-      "link": "https://www.bleepingcomputer.com/news/security/teen-suspected-of-vegas-casino-cyberattacks-released-to-parents/",
-      "summary": "A 17-year-old hacker who surrendered to face charges over cyberattacks targeting Vegas casinos in 2023 has been released into the custody of his parents, a family court judge ruled. [...]",
-      "published": "2025-09-25 12:51:18",
-      "timestamp": 1758804678
-    },
-    {
-      "id": "c9efb2ff618794dc4d33b5c99cbd62f11a7ee44f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft will offer free Windows 10 extended security updates in Europe",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/",
-      "summary": "Microsoft will offer free extended security updates for Windows 10 users in the European Economic Area (EEA), which includes Iceland, Liechtenstein, Norway, and all 27 European Union member states. [...]",
-      "published": "2025-09-25 12:45:06",
-      "timestamp": 1758804306
     },
     {
       "id": "78df3aa073099398ce2dfa2a90c1fe6c03f5fac0",
@@ -790,16 +810,6 @@
       "summary": "Cybersecurity researchers have discovered two new malicious packages in the Python Package Index (PyPI) repository that are designed to deliver a remote access trojan called SilentSync on Windows systems. \"SilentSync is capable of remote command execution, file exfiltration, and screen capturing,\" Zscaler ThreatLabz's Manisha Ramcharan Prajapati and Satyam Singh said. \"SilentSync also extracts",
       "published": "2025-09-18 11:38:00",
       "timestamp": 1758195480
-    },
-    {
-      "id": "70e7de90c75d1a01dc7822e760b12701238e9ca8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How CISOs Can Drive Effective AI Governance",
-      "link": "https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html",
-      "summary": "AI\u2019s growing role in enterprise environments has heightened the urgency for Chief Information Security Officers (CISOs) to drive effective AI governance. When it comes to any emerging technology, governance is hard \u2013 but effective governance is even harder. The first instinct for most organizations is to respond with rigid policies. Write a policy document, circulate a set of restrictions, and",
-      "published": "2025-09-18 11:30:00",
-      "timestamp": 1758195000
     },
     {
       "id": "a9e800ee63e08b31398108ba35e350e46d97abc8",
@@ -1400,36 +1410,6 @@
       "summary": "An analysis of the NSO BLASTPASS iMessage exploit Posted by Ian Beer, Google Project Zero On September 7, 2023 Apple issued an out-of-band security update for iOS: Around the same time on September 7th 2023, Citizen Lab published a blog post linking the two CVEs fixed in iOS 16.6.1 to an \"NSO Group Zero-Click, Zero-Day exploit captured in the wild\": \"[The target was] an individual employed by a Washington DC-based civil society organization with international offices... The exploit chain was cap",
       "published": "2025-03-26 17:30:00",
       "timestamp": 1743010200
-    },
-    {
-      "id": "e853eba21ed946c46f7e34d1f29408a2dda10a35",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Windows Bug Class: Accessing Trapped COM Objects with IDispatch",
-      "link": "https://googleprojectzero.blogspot.com/2025/01/windows-bug-class-accessing-trapped-com.html",
-      "summary": "Posted by James Forshaw, Google Project Zero Object orientated remoting technologies such as DCOM and .NET Remoting make it very easy to develop an object-orientated interface to a service which can cross process and security boundaries. This is because they're designed to support a wide range of objects, not just those implemented in the service, but any other object compatible with being remoted. For example, if you wanted to expose an XML document across the client-server boundary, you could ",
-      "published": "2025-01-30 17:57:00",
-      "timestamp": 1738259820
-    },
-    {
-      "id": "73c9e7cdf468e676fd08f8b54a60ac77d4aa2907",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Windows Exploitation Tricks: Trapping Virtual Memory Access (2025 Update)",
-      "link": "https://googleprojectzero.blogspot.com/2025/01/windows-exploitation-tricks-trapping.html",
-      "summary": "Posted by James Forshaw, Google Project Zero Back in 2021 I wrote a blog post about various ways you can build a virtual memory access trap primitive on Windows. The goal was to cause a reader or writer of a virtual memory address to halt for a significant (e.g. 1 or more seconds) amount of time, generally for the purpose of exploiting TOCTOU memory access bugs in the kernel. The solutions proposed in the blog post were to either map an SMB file on a remote server, or abuse the Cloud Filter API.",
-      "published": "2025-01-30 17:57:00",
-      "timestamp": 1738259820
-    },
-    {
-      "id": "c21a32c01bd686361a745568907a2dd6214765a5",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "The Windows Registry Adventure #5: The regf file format",
-      "link": "https://googleprojectzero.blogspot.com/2024/12/the-windows-registry-adventure-5-regf.html",
-      "summary": "Posted by Mateusz Jurczyk, Google Project Zero As previously mentioned in the second installment of the blog post series (\"A brief history of the feature\"), the binary format used to encode registry hives from Windows NT 3.1 up to the modern Windows 11 is called regf. In a way, it is quite special, because it represents a registry subtree simultaneously on disk and in memory, as opposed to most other common file formats. Documents, images, videos, etc. are generally designed to store data effici",
-      "published": "2024-12-19 19:03:00",
-      "timestamp": 1734634980
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
