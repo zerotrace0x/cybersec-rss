@@ -1,6 +1,56 @@
 {
-  "generated_at": 1758889001,
+  "generated_at": 1758899338,
   "items": [
+    {
+      "id": "08bd8afb5f8401df6a00e07c85548e425734dac6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The hidden cyber risks of deploying generative AI",
+      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-cyber-risks-of-deploying-generative-ai/",
+      "summary": "Generative AI can boost productivity\u2014but without safeguards, it also opens the door to phishing, fraud & model manipulation. Learn more from Acronis TRU on why AI security must be built in from the start. [...]",
+      "published": "2025-09-26 14:01:11",
+      "timestamp": 1758895271
+    },
+    {
+      "id": "6b5e2d6aba3b1d91288402927d3336d53c3f4790",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Maximum severity GoAnywhere MFT flaw exploited as zero day",
+      "link": "https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/",
+      "summary": "Hackers are actively exploiting a maximum severity vulnerability (CVE-2025-10035) in Fortra's GoAnywhere MFT that allows injecting commands remotely without authentication. [...]",
+      "published": "2025-09-26 13:50:42",
+      "timestamp": 1758894642
+    },
+    {
+      "id": "dcee00f12d0196654953bbce0098c73a147cbe06",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft releases the final Windows 10 22H2 preview update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/",
+      "summary": "Microsoft has released the final non-security preview update for Windows 10, version 22H2, which includes fixes for the out-of-box experience and SMBv1 protocol connectivity. [...]",
+      "published": "2025-09-26 13:32:07",
+      "timestamp": 1758893527
+    },
+    {
+      "id": "6ceb677620422315568236da5fe427cd0834c6ea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks",
+      "link": "https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html",
+      "summary": "The Russian advanced persistent threat (APT) group known as COLDRIVER has been attributed to a fresh round of ClickFix-style attacks designed to deliver two new \"lightweight\" malware families tracked as BAITSWITCH and SIMPLEFIX. Zscaler ThreatLabz, which detected the new multi-stage ClickFix campaign earlier this month, described BAITSWITCH as a downloader that ultimately drops SIMPLEFIX, a",
+      "published": "2025-09-26 12:45:00",
+      "timestamp": 1758890700
+    },
+    {
+      "id": "642a61c71f9988f84b80a40487071e0c5ba001a2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions",
+      "link": "https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html",
+      "summary": "Car makers don\u2019t trust blueprints. They smash prototypes into walls. Again and again. In controlled conditions. Because design specs don\u2019t prove survival. Crash tests do. They separate theory from reality. Cybersecurity is no different. Dashboards overflow with \u201ccritical\u201d exposure alerts. Compliance reports tick every box. But none of that proves what matters most to a CISO: The",
+      "published": "2025-09-26 11:22:00",
+      "timestamp": 1758885720
+    },
     {
       "id": "466e4a897a90001fe4c98bad3525fed748fcfd46",
       "source": "The Hacker News",
@@ -260,36 +310,6 @@
       "summary": "Cisco has warned of a high-severity security flaw in IOS Software and IOS XE Software that could allow a remote attacker to execute arbitrary code or trigger a denial-of-service (DoS) condition under specific circumstances. The company said the vulnerability, CVE-2025-20352 (CVSS score: 7.7), has been exploited in the wild, adding it became aware of it \"after local Administrator credentials were",
       "published": "2025-09-25 06:30:00",
       "timestamp": 1758781800
-    },
-    {
-      "id": "4a44bd48e67989fe2733fa9652e8bbeb2beb1bc8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Supermicro BMC flaws can create persistent backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/",
-      "summary": "Two vulnerabilities affecting the firmware of Supermicro hardware, including Baseboard Management Controller (BMC) allow attackers to update systems with maliciously crafted images. [...]",
-      "published": "2025-09-24 20:13:49",
-      "timestamp": 1758744829
-    },
-    {
-      "id": "a47a4266ec407cede87bc743db594ff930b6f52a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI is testing a new GPT-5-based AI agent \"GPT-Alpha\"",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/",
-      "summary": "OpenAI is internally testing a new version of its AI agent, which uses a special version of GPT-5 dubbed \"GPT-Alpha.\" [...]",
-      "published": "2025-09-24 20:09:25",
-      "timestamp": 1758744565
-    },
-    {
-      "id": "36cccf894a16f4d0903a19170034fc5e73a21049",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Kali Linux 2025.3 released with 10 new tools, Wi-Fi enhancements",
-      "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/",
-      "summary": "Kali Linux has released version 2025.3, the third version of 2025, featuring ten new tools, Nexmon support, and NetHunter improvements. [...]",
-      "published": "2025-09-24 18:30:02",
-      "timestamp": 1758738602
     },
     {
       "id": "f46501c363264de3bfa1099e1214e2ec3afb94c3",
@@ -780,26 +800,6 @@
       "summary": "AI\u2019s growing role in enterprise environments has heightened the urgency for Chief Information Security Officers (CISOs) to drive effective AI governance. When it comes to any emerging technology, governance is hard \u2013 but effective governance is even harder. The first instinct for most organizations is to respond with rigid policies. Write a policy document, circulate a set of restrictions, and",
       "published": "2025-09-18 11:30:00",
       "timestamp": 1758195000
-    },
-    {
-      "id": "0a9988becd65c02abb23d99762901b5e2b48eac2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions",
-      "link": "https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html",
-      "summary": "Google on Wednesday released security updates for the Chrome web browser to address four vulnerabilities, including one that it said has been exploited in the wild. The zero-day vulnerability in question is CVE-2025-10585, which has been described as a type confusion issue in the V8 JavaScript and WebAssembly engine. Type confusion vulnerabilities can have severe consequences as they can be",
-      "published": "2025-09-18 05:49:00",
-      "timestamp": 1758174540
-    },
-    {
-      "id": "53d52c5788ca12689bc2b67ffb8b5b0e21aee843",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks",
-      "link": "https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html",
-      "summary": "The threat actor known as TA558 has been attributed to a fresh set of attacks delivering various remote access trojans (RATs) like Venom RAT to breach hotels in Brazil and Spanish-speaking markets. Russian cybersecurity vendor Kaspersky is tracking the activity, observed in summer 2025, to a cluster it tracks as RevengeHotels. \"The threat actors continue to employ phishing emails with invoice",
-      "published": "2025-09-17 18:30:00",
-      "timestamp": 1758133800
     },
     {
       "id": "a9e800ee63e08b31398108ba35e350e46d97abc8",
