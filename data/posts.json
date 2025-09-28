@@ -1,6 +1,16 @@
 {
-  "generated_at": 1759083057,
+  "generated_at": 1759093436,
   "items": [
+    {
+      "id": "c0d12179a9c805b760ba58e2faaaf05c7d3ea4c4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Akira ransomware breaching MFA-protected SonicWall VPN accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/",
+      "summary": "Ongoing Akira ransomware attacks targeting SonicWall SSL VPN devices continue to evolve, with the threat actors found to be successfully authenticating despite OTP MFA being enabled on accounts. Researchers suspect this may through the use of previously stolen OTP seeds, though the exact method remains unconfirmed at this time. [...]",
+      "published": "2025-09-28 18:49:30",
+      "timestamp": 1759085370
+    },
     {
       "id": "8e5d1b6a94b2d5a56805842db1987b8e8d66b068",
       "source": "BleepingComputer",
@@ -190,16 +200,6 @@
       "summary": "Microsoft Threat Intelligence reports that a new variant of the XCSSET macOS malware has been detected in limited attacks, incorporating several new features, including enhanced browser targeting, clipboard hijacking, and improved persistence mechanisms. [...]",
       "published": "2025-09-25 22:49:22",
       "timestamp": 1758840562
-    },
-    {
-      "id": "f2c8f2f1bfa278e078cc46fa5944be0998b6417c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Unofficial Postmark MCP npm silently stole users' emails",
-      "link": "https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/",
-      "summary": "A npm package copying the official 'postmark-mcp' project on GitHub turned bad with the latest update that added a single line of code to exfiltrate all its users' email communication. [...]",
-      "published": "2025-09-25 20:23:34",
-      "timestamp": 1758831814
     },
     {
       "id": "22e7b35ff266b84b00ea919c5f5cd61bef88ab05",
