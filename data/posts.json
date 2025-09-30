@@ -1,6 +1,96 @@
 {
-  "generated_at": 1759234656,
+  "generated_at": 1759244885,
   "items": [
+    {
+      "id": "da00e15edd0159077ca24633c4b4217dffb52898",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese hackers exploiting VMware zero-day since October 2024",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/",
+      "summary": "Broadcom has patched a high-severity privilege escalation vulnerability in its VMware Aria Operations and VMware Tools software, which has been exploited in zero-day attacks since October 2024. [...]",
+      "published": "2025-09-30 14:54:44",
+      "timestamp": 1759244084
+    },
+    {
+      "id": "c3437ff4f0912ae2fc9b0c0df204d3e6c710e8d0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "VMware Certification Is Surging in a Shifting IT Landscape",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/",
+      "summary": "VMware certification is surging as IT teams face hybrid infra, cloud complexity, & rising risks. See how VMUG Advantage helps practitioners & enterprises turn certification into stronger security & measurable value. [...]",
+      "published": "2025-09-30 14:01:11",
+      "timestamp": 1759240871
+    },
+    {
+      "id": "855d7683577ed5378c4f369a708b587544020918",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Cybercrime Observations from the Frontlines: UNC6040 Proactive Hardening Recommendations",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6040-proactive-hardening-recommendations/",
+      "summary": "Written by: Omar ElAhdan, Matthew McWhirt, Michael Rudden, Aswad Robinson, Bhavesh Dhake, Laith Al Background Protecting software-as-a-service (SaaS) platforms and applications requires a comprehensive security strategy. Drawing from analysis of UNC6040\u2019s specific attack methodologies, this guide presents a structured defensive framework encompassing proactive hardening measures, comprehensive logging protocols, and advanced detection capabilities. While emphasizing Salesforce-specific security ",
+      "published": "2025-09-30 14:00:00",
+      "timestamp": 1759240800
+    },
+    {
+      "id": "cf40573af4e93d8d1d8e4e49e5ed31af9a7fb7c4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes Windows DRM video playback issues for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/",
+      "summary": "Microsoft says it has \"partially\" resolved a known issue that caused problems when trying to play DRM-protected video in Blu-ray/DVD/Digital TV applications. [...]",
+      "published": "2025-09-30 13:47:45",
+      "timestamp": 1759240065
+    },
+    {
+      "id": "8f7a313600bb850ccb77050153187e808ff0b640",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of critical Linux Sudo flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/",
+      "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2025-32463) in the sudo package that enables the execution of commands with root-level privileges on Linux operating systems. [...]",
+      "published": "2025-09-30 13:42:53",
+      "timestamp": 1759239773
+    },
+    {
+      "id": "bf42d5ea6a05331410a079eb3d5be9a4608a5da5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits",
+      "link": "https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html",
+      "summary": "Cybersecurity researchers have disclosed three now-patched security vulnerabilities impacting Google's Gemini artificial intelligence (AI) assistant that, if successfully exploited, could have exposed users to major privacy risks and data theft. \"They made Gemini vulnerable to search-injection attacks on its Search Personalization Model; log-to-prompt injection attacks against Gemini Cloud",
+      "published": "2025-09-30 13:18:00",
+      "timestamp": 1759238280
+    },
+    {
+      "id": "53fd89d5ccfc2a23effcf739452cb5485700c884",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake",
+      "link": "https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html",
+      "summary": "Microsoft on Tuesday unveiled the expansion of its Sentinel Security Incidents and Event Management solution (SIEM) as a unified agentic platform with the general availability of the Sentinel data lake. In addition, the tech giant said it's also releasing a public preview of Sentinel Graph and Sentinel Model Context Protocol (MCP) server. \"With graph-based context, semantic access, and agentic",
+      "published": "2025-09-30 13:00:00",
+      "timestamp": 1759237200
+    },
+    {
+      "id": "ebdbe1e9c4e15105b6416a948769467b993e188a",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Empowering defenders in the era of agentic AI with Microsoft Sentinel",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/09/30/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/",
+      "summary": "Microsoft Sentinel is expanding into an agentic platform with general availability of the Sentinel data lake, and the public preview of Sentinel graph and Sentinel Model Context Protocol (MCP) server. The post Empowering defenders in the era of agentic AI with Microsoft Sentinel appeared first on Microsoft Security Blog.",
+      "published": "2025-09-30 13:00:00",
+      "timestamp": 1759237200
+    },
+    {
+      "id": "0d5a68371972b54621aabd57cd7e880e70b401e4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 KB5065789 update released with 41 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065789-update-released-with-41-changes-and-fixes/",
+      "summary": "\u200b\u200bMicrosoft has released the KB5065789 preview cumulative update for Windows 11 24H2, which includes 41 improvements, including new AI actions in File Explorer and bug fixes for Windows Update and Windows Sandbox. [...]",
+      "published": "2025-09-30 12:50:47",
+      "timestamp": 1759236647
+    },
     {
       "id": "e8992277ddd9e694cefc649042f437cfbc57502a",
       "source": "BleepingComputer",
@@ -10,6 +100,26 @@
       "summary": "Broadcom has released security updates to patch two high-severity VMware NSX vulnerabilities reported by the U.S. National Security Agency (NSA). [...]",
       "published": "2025-09-30 12:10:13",
       "timestamp": 1759234213
+    },
+    {
+      "id": "6dff59c433b9ff91bc8154cd2a68cf673a241085",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Stop Alert Chaos: Context Is the Key to Effective Incident Response",
+      "link": "https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html",
+      "summary": "The Problem: Legacy SOCs and Endless Alert Noise Every SOC leader knows the feeling: hundreds of alerts pouring in, dashboards lighting up like a slot machine, analysts scrambling to keep pace. The harder they try to scale people or buy new tools, the faster the chaos multiplies. The problem is not just volume; it is the model itself. Traditional SOCs start with rules, wait for alerts to fire,",
+      "published": "2025-09-30 11:30:00",
+      "timestamp": 1759231800
+    },
+    {
+      "id": "ceb8589086d7895e9add82912e2418a50a19fdd5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024",
+      "link": "https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html",
+      "summary": "A newly patched security flaw impacting Broadcom VMware Tools and VMware Aria Operations has been exploited in the wild as a zero-day since mid-October 2024 by a threat actor called UNC5174, according to NVISO Labs. The vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), a local privilege escalation bug affecting the following versions - VMware Cloud Foundation 4.x and 5.x VMware",
+      "published": "2025-09-30 10:57:00",
+      "timestamp": 1759229820
     },
     {
       "id": "739a01e72217fc09adc7614ea742ec84c11011c6",
@@ -152,16 +262,6 @@
       "timestamp": 1759149360
     },
     {
-      "id": "a3b8443b7ef6155eac1f051364d4ad2c4bc5b71b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI is routing GPT-4o to safety models when it detects harmful activities",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-routing-gpt-4o-to-safety-models-when-it-detects-harmful-activities/",
-      "summary": "\u200bOver the weekend, some people noticed that GPT-4o is routing requests to an unknown model out of nowhere. It turns out to be a \"safety\" feature. [...]",
-      "published": "2025-09-29 12:04:25",
-      "timestamp": 1759147465
-    },
-    {
       "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -220,26 +320,6 @@
       "summary": "Cybersecurity researchers have discovered what has been described as the first-ever instance of a malicious Model Context Protocol (MCP) server spotted in the wild, raising software supply chain risks. According to Koi Security, a legitimate-looking developer managed to slip in rogue code within an npm package called \"postmark-mcp\" that copied an official Postmark Labs library of the same name.",
       "published": "2025-09-29 08:36:00",
       "timestamp": 1759134960
-    },
-    {
-      "id": "c0d12179a9c805b760ba58e2faaaf05c7d3ea4c4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Akira ransomware breaching MFA-protected SonicWall VPN accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/",
-      "summary": "Ongoing Akira ransomware attacks targeting SonicWall SSL VPN devices continue to evolve, with the threat actors found to be successfully logging in despite OTP MFA being enabled on accounts. Researchers suspect that this may be achieved through the use of previously stolen OTP seeds, although the exact method remains unconfirmed. [...]",
-      "published": "2025-09-28 18:49:30",
-      "timestamp": 1759085370
-    },
-    {
-      "id": "8e5d1b6a94b2d5a56805842db1987b8e8d66b068",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "EU probes SAP over anti-competitive ERP support practices",
-      "link": "https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/",
-      "summary": "The European Comission is investigating potential anti-competitive practices in aftermarket services SAP provides for its on-premise ERP software. [...]",
-      "published": "2025-09-28 14:23:46",
-      "timestamp": 1759069426
     },
     {
       "id": "0ef055098dce713e8fa61302d70bc047bff458ee",
@@ -762,46 +842,6 @@
       "timestamp": 1758452160
     },
     {
-      "id": "7f70944d45718abd4411f9c827bf6ce8a26d2d81",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer",
-      "link": "https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html",
-      "summary": "LastPass is warning of an ongoing, widespread information stealer campaign targeting Apple macOS users through fake GitHub repositories that distribute malware-laced programs masquerading as legitimate tools. \"In the case of LastPass, the fraudulent repositories redirected potential victims to a repository that downloads the Atomic infostealer malware,\" researchers Alex Cox, Mike Kosak, and",
-      "published": "2025-09-20 07:07:00",
-      "timestamp": 1758352020
-    },
-    {
-      "id": "18bb3af80778b534362ea1b5ab02ba58b489dbca",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell",
-      "link": "https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html",
-      "summary": "Cybersecurity researchers have discovered what they say is the earliest example known to date of a malware that bakes in Large Language Model (LLM) capabilities. The malware has been codenamed MalTerminal by SentinelOne SentinelLABS research team. The findings were presented at the LABScon 2025 security conference. In a report examining the malicious use of LLMs, the cybersecurity company said",
-      "published": "2025-09-20 05:48:00",
-      "timestamp": 1758347280
-    },
-    {
-      "id": "9af147f6400023cba439992fe9feea4c3e50d032",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent",
-      "link": "https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html",
-      "summary": "Cybersecurity researchers have disclosed a zero-click flaw in OpenAI ChatGPT's Deep Research agent that could allow an attacker to leak sensitive Gmail inbox data with a single crafted email without any user action. The new class of attack has been codenamed ShadowLeak by Radware. Following responsible disclosure on June 18, 2025, the issue was addressed by OpenAI in early August. \"The attack",
-      "published": "2025-09-20 05:31:00",
-      "timestamp": 1758346260
-    },
-    {
-      "id": "e5044094f20f4e65f67522312badaac811a0cd79",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware",
-      "link": "https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html",
-      "summary": "An Iran-nexus cyber espionage group known as UNC1549 has been attributed to a new campaign targeting European telecommunications companies, successfully infiltrating 34 devices across 11 organizations as part of a recruitment-themed activity on LinkedIn. Swiss cybersecurity company PRODAFT is tracking the cluster under the name Subtle Snail. It's assessed to be affiliated with Iran's Islamic",
-      "published": "2025-09-19 16:06:00",
-      "timestamp": 1758297960
-    },
-    {
       "id": "753eb457c2cc778ad26dfbf7e94631feca0fdf6b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1060,16 +1100,6 @@
       "summary": "Financially motivated threat actor Storm-0501 has continuously evolved their campaigns to achieve sharpened focus on cloud-based tactics, techniques, and procedures (TTPs). While the threat actor has been known for targeting hybrid cloud environments, their primary objective has shifted from deploying on-premises endpoint ransomware to using cloud-based ransomware tactics. The post Storm-0501\u2019s evolving techniques lead to cloud-based ransomware appeared first on Microsoft Security Blog.",
       "published": "2025-08-27 16:00:00",
       "timestamp": 1756310400
-    },
-    {
-      "id": "3727c3b95c280c7ed11175b44d7029636b0b5837",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft ranked number one in modern endpoint security market share third year in a row",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/08/27/microsoft-ranked-number-one-in-modern-endpoint-security-market-share-third-year-in-a-row/",
-      "summary": "For a third year a row, Microsoft has been named the number one leader for endpoint security market share, as featured in a new IDC report. The post Microsoft ranked number one in modern endpoint security market share third year in a row appeared first on Microsoft Security Blog.",
-      "published": "2025-08-27 15:00:00",
-      "timestamp": 1756306800
     },
     {
       "id": "5c042f2886c64824c0c13dacff12aa6f0ab9fa67",
@@ -1370,16 +1400,6 @@
       "summary": "Written by: Casey Charrier, James Sadowski, Clement Lecigne, Vlad Stolyarov Executive Summary Google Threat Intelligence Group (GTIG) tracked 75 zero-day vulnerabilities exploited in the wild in 2024, a decrease from the number we identified in 2023 (98 vulnerabilities), but still an increase from 2022 (63 vulnerabilities). We divided the reviewed vulnerabilities into two main categories: end-user platforms and products (e.g., mobile devices, operating systems, and browsers) and enterprise-focus",
       "published": "2025-04-29 05:00:00",
       "timestamp": 1745902800
-    },
-    {
-      "id": "6b2b63f7b0f0dc4958b8289daf6eee1056661549",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "M-Trends 2025: Data, Insights, and Recommendations From the Frontlines",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2025/",
-      "summary": "One of the ways threat actors keep up with the constantly evolving cyber defense landscape is by raising the level of sophistication of their attacks. This trend can be seen across many of our engagements, particularly when responding to China-nexus groups. These actors have demonstrated the ability to create custom malware ecosystems, identify and use zero-day vulnerabilities in security and other appliances, leverage proxy networks akin to botnets, target edge devices and platforms that tradit",
-      "published": "2025-04-23 14:00:00",
-      "timestamp": 1745416800
     },
     {
       "id": "c7e74139015d45a0dcbe774a6881720bdc7bda34",
