@@ -1,6 +1,26 @@
 {
-  "generated_at": 1759417744,
+  "generated_at": 1759428770,
   "items": [
+    {
+      "id": "ab27d7babf26524195f2732b714fc938d8d8d04b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DrayTek warns of remote code execution bug in Vigor routers",
+      "link": "https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/",
+      "summary": "Networking hardware maker DrayTek released an advisory to warn about a security vulnerability in several Vigor router models that could allow remote, unauthenticated actors to execute perform arbitrary code. [...]",
+      "published": "2025-10-02 17:37:46",
+      "timestamp": 1759426666
+    },
+    {
+      "id": "2bae1caa91a2e4eba550d34430fe30d25be5647c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "HackerOne paid $81 million in bug bounties over the past year",
+      "link": "https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/",
+      "summary": "Bug bounty platform HackerOne announced that it paid out $81 million in rewards to white-hat hackers worldwide over the past 12 months. [...]",
+      "published": "2025-10-02 15:35:44",
+      "timestamp": 1759419344
+    },
     {
       "id": "2e885851fc78e63aff3eb7183401ebad64fc592c",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "Brave browser this September has reached 101 million monthly active users and 42 million daily active users, hitting a new record in the project's history. [...]",
       "published": "2025-10-02 15:07:56",
       "timestamp": 1759417676
+    },
+    {
+      "id": "088fc700b3e2fa1b49397411bf572e03afac1aa7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Confucius Hackers Hit Pakistan With New WooperStealer and Anondoor Malware",
+      "link": "https://thehackernews.com/2025/10/confucius-hackers-hit-pakistan-with-new.html",
+      "summary": "The threat actor known as Confucius has been attributed to a new phishing campaign that has targeted Pakistan with malware families like WooperStealer and Anondoor. \"Over the past decade, Confucius has repeatedly targeted government agencies, military organizations, defense contractors, and critical industries -- especially in Pakistan \u2013 using spear-phishing and malicious documents as initial",
+      "published": "2025-10-02 14:44:00",
+      "timestamp": 1759416240
     },
     {
       "id": "89e96088cdda6463ef3ecdfe3d2ef31036f44ccb",
@@ -40,6 +70,26 @@
       "summary": "Cybersecurity researchers have flagged a malicious package on the Python Package Index (PyPI) repository that claims to offer the ability to create a SOCKS5 proxy service, while also providing a stealthy backdoor-like functionality to drop additional payloads on Windows systems. The deceptive package, named soopsocks, attracted a total of 2,653 downloads before it was taken down. It was first",
       "published": "2025-10-02 13:07:00",
       "timestamp": 1759410420
+    },
+    {
+      "id": "1a44182df4745690c94bbf2f15baf4336b78af52",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Two Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-releases-two-industrial-control-systems-advisories",
+      "summary": "CISA released two Industrial Control Systems (ICS) advisories on October 2, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-275-01 Raise3D Pro2 Series 3D Printers ICSA-25-275-02 Hitachi Energy MSM Product CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+      "published": "2025-10-02 12:00:00",
+      "timestamp": 1759406400
+    },
+    {
+      "id": "1b2b88e4c8ec1118c159662b2f565c1616daf8a6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2014-6278 GNU Bash OS Command Injection Vulnerability CVE-2015-7755 Juniper ScreenOS Improper Authentication Vulnerability CVE-2017-1000353 Jenkins Remote Code Execution Vulnerability CVE-2025-4008 Smartbedded Meteobridge Command Injection Vulnerability CVE-2025-21043 Samsung Mobile Devices Out-of-Bounds Write Vulnerability These types of vulnerabilities are",
+      "published": "2025-10-02 12:00:00",
+      "timestamp": 1759406400
     },
     {
       "id": "a0333fb5bcfe731e371645b1c404778e53b15db3",
@@ -102,12 +152,12 @@
       "timestamp": 1759397040
     },
     {
-      "id": "96c03a927f3a3ea7e5b06ddb4cae854ec3a705c1",
+      "id": "a3d0565e49d5714f0a5d3051e418d76ff2621e3e",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Red Hat confirms security incident after hackers claim GitHub breach",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/",
-      "summary": "An extortion group calling itself the Crimson Collective claims to have breached Red Hat's private GitHub repositories, stealing nearly 570GB of compressed data across 28,000 internal projects. [...]",
+      "title": "Red Hat confirms security incident after hackers breach GitLab instance",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/",
+      "summary": "An extortion group calling itself the Crimson Collective claims to have stolen nearly 570GB of compressed data across 28,000 internal development respositories, with the company confirming it was a breach of one of its GitLab instances. [...]",
       "published": "2025-10-02 06:15:17",
       "timestamp": 1759385717
     },
@@ -180,26 +230,6 @@
       "summary": "F-Droid is warning that the project could reach an end due to Google's new requirements for all Android developers to verify their identity. [...]",
       "published": "2025-10-01 17:12:58",
       "timestamp": 1759338778
-    },
-    {
-      "id": "7d979728e070f6492b7deb499f54a453a8dc1c91",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft to force install Microsoft 365 companion apps in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/",
-      "summary": "Later this month, Microsoft will start automatically installing the Microsoft 365 companion apps on Windows 11 devices that have the Microsoft 365 desktop client apps. [...]",
-      "published": "2025-10-01 17:01:58",
-      "timestamp": 1759338118
-    },
-    {
-      "id": "cc0cfd7dfb583c76ee6a1402c5ccbb9c7851b4e3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WestJet data breach exposes travel details of 1.2 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/",
-      "summary": "Canadian airline WestJet is informing customers that the cyberattack disclosed in June compromised the personal information of 1.2 million customers, including passports and ID documents. [...]",
-      "published": "2025-10-01 16:27:32",
-      "timestamp": 1759336052
     },
     {
       "id": "c6cb942c529be15b269c9d2c1cb8f824d884a599",
@@ -782,16 +812,6 @@
       "timestamp": 1758714511
     },
     {
-      "id": "f0ff045ab60e23009410df834020a7375fa90b95",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus",
-      "link": "https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malware family dubbed YiBackdoor that has been found to share \"significant\" source code overlaps with IcedID and Latrodectus. \"The exact connection to YiBackdoor is not yet clear, but it may be used in conjunction with Latrodectus and IcedID during attacks,\" Zscaler ThreatLabz said in a Tuesday report. \"YiBackdoor is able to execute",
-      "published": "2025-09-24 11:28:00",
-      "timestamp": 1758713280
-    },
-    {
       "id": "a4569c9327bb7c45a72ef4a3fa022e9490e5fb67",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -922,22 +942,22 @@
       "timestamp": 1757612422
     },
     {
-      "id": "48459b9b3634e4301dab77810aa2238d5bd096b7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Eleven Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-releases-eleven-industrial-control-systems-advisories",
-      "summary": "CISA released eleven Industrial Control Systems (ICS) advisories on September 11, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-254-01 Siemens SIMOTION Tools ICSA-25-254-02 Siemens SIMATIC Virtualization as a Service (SIVaaS) ICSA-25-254-03 Siemens SINAMICS Drives ICSA-25-254-04 Siemens SINEC OS ICSA-25-254-05 Siemens Apogee PXC and Talon TC Devices ICSA-25-254-06 Siemens Industrial Edge Management OS (IEM-",
-      "published": "2025-09-11 12:00:00",
-      "timestamp": 1757592000
-    },
-    {
       "id": "787565b3bae995b3650d33c09090b0300b936209",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-5086 Dassault Syst\u00e8mes DELMIA Apriso Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog ",
+      "published": "2025-09-11 12:00:00",
+      "timestamp": 1757592000
+    },
+    {
+      "id": "48459b9b3634e4301dab77810aa2238d5bd096b7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Eleven Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-releases-eleven-industrial-control-systems-advisories",
+      "summary": "CISA released eleven Industrial Control Systems (ICS) advisories on September 11, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-254-01 Siemens SIMOTION Tools ICSA-25-254-02 Siemens SIMATIC Virtualization as a Service (SIVaaS) ICSA-25-254-03 Siemens SINAMICS Drives ICSA-25-254-04 Siemens SINEC OS ICSA-25-254-05 Siemens Apogee PXC and Talon TC Devices ICSA-25-254-06 Siemens Industrial Edge Management OS (IEM-",
       "published": "2025-09-11 12:00:00",
       "timestamp": 1757592000
     },
@@ -992,22 +1012,22 @@
       "timestamp": 1757084400
     },
     {
-      "id": "d5871cb593d663377a85479df28a3b8d0a74bb2c",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-38352 Linux Kernel Time-of-Check Time-of-Use (TOCTOU) Race Condition Vulnerability CVE-2025-48543 Android Runtime Unspecified Vulnerability CVE-2025-53690 Sitecore Multiple Products Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the fede",
-      "published": "2025-09-04 12:00:00",
-      "timestamp": 1756987200
-    },
-    {
       "id": "d041853ebd227b6092c34f28cd39967457d7808e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Five Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-releases-five-industrial-control-systems-advisories",
       "summary": "CISA released five Industrial Control Systems (ICS) advisories on September 4, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-247-01 Honeywell OneWireless Wireless Device Manager (WDM) ICSA-25-217-01 Mitsubishi Electric Iconics Digital Solutions Multiple Products (Update A) ICSA-25-105-07 Delta Electronics COMMGR (Update A) ICSA-25-205-03 Honeywell Experion PKS (Update A) ICSA-25-191-10 End-of-Train and Head",
+      "published": "2025-09-04 12:00:00",
+      "timestamp": 1756987200
+    },
+    {
+      "id": "d5871cb593d663377a85479df28a3b8d0a74bb2c",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-38352 Linux Kernel Time-of-Check Time-of-Use (TOCTOU) Race Condition Vulnerability CVE-2025-48543 Android Runtime Unspecified Vulnerability CVE-2025-53690 Sitecore Multiple Products Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the fede",
       "published": "2025-09-04 12:00:00",
       "timestamp": 1756987200
     },
@@ -1160,26 +1180,6 @@
       "summary": "Written by: Patrick Whitsell In March 2025, Google Threat Intelligence Group (GTIG) identified a complex, multifaceted campaign attributed to the PRC-nexus threat actor UNC6384. The campaign targeted diplomats in Southeast Asia and other entities globally. GTIG assesses this was likely in support of cyber espionage operations aligned with the strategic interests of the People's Republic of China (PRC). The campaign hijacks target web traffic, using a captive portal redirect, to deliver a digital",
       "published": "2025-08-25 14:00:00",
       "timestamp": 1756130400
-    },
-    {
-      "id": "d696673524edf199c48af37864f178e6a9e4a633",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/25/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-8069 Citrix Session Recording Deserialization of Untrusted Data Vulnerability CVE-2024-8068 Citrix Session Recording Improper Privilege Management Vulnerability CVE-2025-48384 Git Link Following Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bindi",
-      "published": "2025-08-25 12:00:00",
-      "timestamp": 1756123200
-    },
-    {
-      "id": "572b0d61429a23b81e239866a3b3c72546a42356",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Requests Public Comment for Updated Guidance on Software Bill of Materials",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/22/cisa-requests-public-comment-updated-guidance-software-bill-materials",
-      "summary": "CISA released updated guidance for the Minimum Elements for a Software Bill of Materials (SBOM) for public comment\u2014comment period begins today and concludes on October 3, 2025. These updates build on the 2021 version of the National Telecommunications and Information Administration SBOM Minimum Elements to reflect advancements in tooling and implementation. An SBOM serves as a vital inventory of software components, enabling organizations to identify vulnerabilities, manage dependencies, and mit",
-      "published": "2025-08-22 12:00:00",
-      "timestamp": 1755864000
     },
     {
       "id": "6e3a8006a40444d7dbfd23e214dd966b9431e9ab",
