@@ -1,6 +1,76 @@
 {
-  "generated_at": 1759763361,
+  "generated_at": 1759774395,
   "items": [
+    {
+      "id": "0f043429b1bb4c42340eda884dab5d9a4f1410f1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/",
+      "summary": "A cybercrime group, tracked as Storm-1175, has been actively exploiting a maximum severity GoAnywhere MFT vulnerability in Medusa ransomware attacks for nearly a month. [...]",
+      "published": "2025-10-06 18:11:46",
+      "timestamp": 1759774306
+    },
+    {
+      "id": "3ef654105eb0df5c64de5ec76a78a860fa1713b0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Running multiple Office apps causes Copilot issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/",
+      "summary": "Microsoft is investigating a bug that causes Copilot issues when multiple Office apps are running simultaneously on the same system. [...]",
+      "published": "2025-10-06 17:16:55",
+      "timestamp": 1759771015
+    },
+    {
+      "id": "7c6c1b5c0c04d3b8d44eb2b348766f38c079c533",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Zeroday Cloud hacking contest offers $4.5 million in bounties",
+      "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/",
+      "summary": "A new hacking competition called Zeroday Cloud, focused on open-source cloud and AI tools, announced a total prize pool of $4.5 million in bug bounties for researchers that submit exploits for various targets. [...]",
+      "published": "2025-10-06 17:12:13",
+      "timestamp": 1759770733
+    },
+    {
+      "id": "e9e057d4d08247c9657f9b492cc66c9ece83e1cd",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/",
+      "summary": "Storm-1175, a financially motivated actor known for deploying Medusa ransomware and exploiting public-facing applications for initial access, was observed exploiting the deserialization vulnerability in GoAnywhere MFT's License Servlet, tracked as CVE-2025-10035. We are publishing this blog post to increase awareness of this threat and to share end-to-end protection coverage details across Microsoft Defender. The post Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Tr",
+      "published": "2025-10-06 17:00:00",
+      "timestamp": 1759770000
+    },
+    {
+      "id": "39cfc02c84b40344e213c91985a080d9397c4167",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ChatGPT Pulse is coming to the web, but no word on free or Plus roll out",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/",
+      "summary": "OpenAI's ChatGPT Pulse, which is a tool that gives you personalised updates based on usage patterns, is coming to the web. [...]",
+      "published": "2025-10-06 16:59:26",
+      "timestamp": 1759769966
+    },
+    {
+      "id": "89ac18a6cbcb9c718786b0291d73923aa7b335a6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI is testing ChatGPT-powered Agent Builder",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/",
+      "summary": "AI startups are convinced AI agents are the future, and OpenAI is building a tool that will allow you to create your own AI Agents. [...]",
+      "published": "2025-10-06 16:06:34",
+      "timestamp": 1759766794
+    },
+    {
+      "id": "3eee7c37c74639414e58412ec1c766cd9ffc477f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Redis warns of critical flaw impacting thousands of instances",
+      "link": "https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/",
+      "summary": "The Redis security team has released patches for a maximum severity vulnerability that could allow attackers to gain remote code execution on thousands of vulnerable instances. [...]",
+      "published": "2025-10-06 15:55:51",
+      "timestamp": 1759766151
+    },
     {
       "id": "cb2da94fbb5ae7e7cdf7c0836dcdadb224e378a4",
       "source": "BleepingComputer",
@@ -40,6 +110,16 @@
       "summary": "A code execution vulnerability in the Unity game engine could be exploited to achieve code execution on Android and privilege escalation on Windows. [...]",
       "published": "2025-10-06 13:56:22",
       "timestamp": 1759758982
+    },
+    {
+      "id": "cac29dcb4e0e161d8495b9bc5b5a8812155eaf16",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/06/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2010-3765 Mozilla Multiple Products Remote Code Execution Vulnerability CVE-2010-3962 Microsoft Internet Explorer Uninitialized Memory Corruption Vulnerability CVE-2011-3402 Microsoft Windows Remote Code Execution Vulnerability CVE-2013-3918 Microsoft Windows Out-of-Bounds Write Vulnerability CVE-2021-22555 Linux Kernel Heap Out-of-Bounds Write Vulnerabilit",
+      "published": "2025-10-06 12:00:00",
+      "timestamp": 1759752000
     },
     {
       "id": "6664346997dc391e1774fb16c029cdf7ffd53bca",
@@ -132,56 +212,6 @@
       "timestamp": 1759666583
     },
     {
-      "id": "fb4c899fd09dec1c968be29814a1d2774bc6fd99",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Leaked Apple iPad Pro M5 benchmark shows massive improvements",
-      "link": "https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/",
-      "summary": "A new leaked benchmark shows Apple's alleged M5 chip on an iPad, and it's almost as fast as a desktop CPU. [...]",
-      "published": "2025-10-04 20:35:48",
-      "timestamp": 1759610148
-    },
-    {
-      "id": "efb5aba16642e4b92d19c4d21ca0afca4c45da18",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ChatGPT social could be a thing, as leak shows direct messages support",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/",
-      "summary": "OpenAI doesn't want ChatGPT to remain just a chatbot for interacting with a large language model. [...]",
-      "published": "2025-10-04 19:00:00",
-      "timestamp": 1759604400
-    },
-    {
-      "id": "8a361200ae9c77328342bf1b83b69e0f81ad3348",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI rolls out GPT Codex Alpha with early access to new models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/",
-      "summary": "OpenAI's Codex is already making waves in the vibe coding vertical, and it's now set to get even better. [...]",
-      "published": "2025-10-04 17:30:00",
-      "timestamp": 1759599000
-    },
-    {
-      "id": "626e8419aed46d8c86fe596895a00f363e9ef912",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI wants ChatGPT to be your emotional support",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/",
-      "summary": "GPT-5 isn't as good as GPT-4o when it comes to emotional support, but that changes today. [...]",
-      "published": "2025-10-04 16:30:00",
-      "timestamp": 1759595400
-    },
-    {
-      "id": "33c61face81ee730c228c115a4ee7654fb827d9d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI prepares $4 ChatGPT Go for several new countries",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/",
-      "summary": "OpenAI has been testing a new, cheaper ChatGPT plan called \"Go,\" and it's now rolling out to more regions. [...]",
-      "published": "2025-10-04 15:42:39",
-      "timestamp": 1759592559
-    },
-    {
       "id": "2ce644994207d369887bee8c3caaa58790a2dd2c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -190,16 +220,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity's agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar. The sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the",
       "published": "2025-10-04 14:37:00",
       "timestamp": 1759588620
-    },
-    {
-      "id": "2819b9bb21a7adb0eec37990deb4f57deb494438",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Massive surge in scans targeting Palo Alto Networks login portals",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/",
-      "summary": "A spike in suspicious scans targeting Palo Alto Networks login portals indicates clear reconnaissance efforts from suspicious IP addresses, researchers warn. [...]",
-      "published": "2025-10-04 14:18:29",
-      "timestamp": 1759587509
     },
     {
       "id": "1c96f97dc8f59857bffaecc46c3a2a91eff6778a",
@@ -822,7 +842,7 @@
       "timestamp": 1758714511
     },
     {
-      "id": "a09b9017a11262d6b22e45311a842c52556a4a4d",
+      "id": "a4569c9327bb7c45a72ef4a3fa022e9490e5fb67",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft Purview delivered 30% reduction in data breach likelihood",
@@ -852,22 +872,22 @@
       "timestamp": 1758628800
     },
     {
-      "id": "582052ca489eb4389e63b35ad9e1bbfe89967ced",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-10585 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Commo",
-      "published": "2025-09-23 12:00:00",
-      "timestamp": 1758628800
-    },
-    {
       "id": "8533fc01f05da3e4e77d2aea7b99986dea676f6f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Widespread Supply Chain Compromise Impacting npm Ecosystem",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem",
       "summary": "CISA is releasing this Alert to provide guidance in response to a widespread software supply chain compromise involving the world\u2019s largest JavaScript registry, npmjs.com. A self-replicating worm\u2014publicly known as \u201cShai-Hulud\u201d\u2014has compromised over 500 packages.[i] After gaining initial access, the malicious cyber actor deployed malware that scanned the environment for sensitive credentials. The cyber actor then targeted GitHub Personal Access Tokens (PATs) and application programming interface (",
+      "published": "2025-09-23 12:00:00",
+      "timestamp": 1758628800
+    },
+    {
+      "id": "582052ca489eb4389e63b35ad9e1bbfe89967ced",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-10585 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Commo",
       "published": "2025-09-23 12:00:00",
       "timestamp": 1758628800
     },
@@ -912,16 +932,6 @@
       "timestamp": 1758196800
     },
     {
-      "id": "a9e800ee63e08b31398108ba35e350e46d97abc8",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft Purview innovations for your Fabric data: Unify data security and governance for the AI era",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/09/16/microsoft-purview-innovations-for-your-fabric-data-unify-data-security-and-governance-for-the-ai-era/",
-      "summary": "The Microsoft Fabric and Purview teams are thrilled to participate in the European Microsoft Fabric Community Conference. The post Microsoft Purview innovations for your Fabric data: Unify data security and governance for the AI era appeared first on Microsoft Security Blog.",
-      "published": "2025-09-16 16:00:00",
-      "timestamp": 1758038400
-    },
-    {
       "id": "873fc4179994745f9fbee7e618a5cfdf0f660a73",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -952,22 +962,22 @@
       "timestamp": 1757612422
     },
     {
-      "id": "787565b3bae995b3650d33c09090b0300b936209",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-5086 Dassault Syst\u00e8mes DELMIA Apriso Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog ",
-      "published": "2025-09-11 12:00:00",
-      "timestamp": 1757592000
-    },
-    {
       "id": "48459b9b3634e4301dab77810aa2238d5bd096b7",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Eleven Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-releases-eleven-industrial-control-systems-advisories",
       "summary": "CISA released eleven Industrial Control Systems (ICS) advisories on September 11, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-254-01 Siemens SIMOTION Tools ICSA-25-254-02 Siemens SIMATIC Virtualization as a Service (SIVaaS) ICSA-25-254-03 Siemens SINAMICS Drives ICSA-25-254-04 Siemens SINEC OS ICSA-25-254-05 Siemens Apogee PXC and Talon TC Devices ICSA-25-254-06 Siemens Industrial Edge Management OS (IEM-",
+      "published": "2025-09-11 12:00:00",
+      "timestamp": 1757592000
+    },
+    {
+      "id": "787565b3bae995b3650d33c09090b0300b936209",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-5086 Dassault Syst\u00e8mes DELMIA Apriso Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog ",
       "published": "2025-09-11 12:00:00",
       "timestamp": 1757592000
     },
@@ -1062,22 +1072,22 @@
       "timestamp": 1756900800
     },
     {
-      "id": "9bb02d1c09adc532446df662bfdd8e0edd6315e6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2020-24363 TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability CVE-2025-55177 Meta Platforms WhatsApp Incorrect Authorization Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the",
-      "published": "2025-09-02 12:00:00",
-      "timestamp": 1756814400
-    },
-    {
       "id": "4f1416b8d50d4951eeb0b56313c54c2313e428df",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Four Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-releases-four-industrial-control-systems-advisories",
       "summary": "CISA released four Industrial Control Systems (ICS) advisories on September 2, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-245-01 Delta Electronics EIP Builder ICSA-25-245-02 Fuji Electric FRENIC-Loader 4 ICSA-25-245-03 SunPower PVS6 ICSA-25-182-06 Hitachi Energy Relion 670/650 and SAM600-IO Series (Update A) CISA encourages users and administrators to review newly released ICS advisories for technical de",
+      "published": "2025-09-02 12:00:00",
+      "timestamp": 1756814400
+    },
+    {
+      "id": "9bb02d1c09adc532446df662bfdd8e0edd6315e6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2020-24363 TP-link TL-WA855RE Missing Authentication for Critical Function Vulnerability CVE-2025-55177 Meta Platforms WhatsApp Incorrect Authorization Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the",
       "published": "2025-09-02 12:00:00",
       "timestamp": 1756814400
     },
@@ -1158,16 +1168,6 @@
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-7775 Citrix NetScaler Memory Overflow Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common ",
-      "published": "2025-08-26 12:00:00",
-      "timestamp": 1756209600
-    },
-    {
-      "id": "0aa187bcd702bc4b85a7fdad746d03d76de75142",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Three Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/08/26/cisa-releases-three-industrial-control-systems-advisories",
-      "summary": "CISA released three Industrial Control Systems (ICS) advisories on August 26, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-238-01 INVT VT-Designer and HMITool ICSA-25-238-03 Schneider Electric Modicon M340 Controller and Communication Modules ICSA-25-140-03 Danfoss AK-SM 8xxA Series (Update A) CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigat",
       "published": "2025-08-26 12:00:00",
       "timestamp": 1756209600
     },
