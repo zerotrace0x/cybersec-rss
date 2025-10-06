@@ -1,6 +1,56 @@
 {
-  "generated_at": 1759741928,
+  "generated_at": 1759753022,
   "items": [
+    {
+      "id": "6664346997dc391e1774fb16c029cdf7ffd53bca",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "XWorm malware resurfaces with ransomware module, over 35 plugins",
+      "link": "https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/",
+      "summary": "New versions of the XWorm backdoor are being distributed in phishing campaigns after the original developer, XCoder, abandoned the project last year. [...]",
+      "published": "2025-10-06 11:42:17",
+      "timestamp": 1759750937
+    },
+    {
+      "id": "1fe0ba4e72f93fa0f367aba8c8c3507a3783f512",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More",
+      "link": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
+      "summary": "The cyber world never hits pause, and staying alert matters more than ever. Every week brings new tricks, smarter attacks, and fresh lessons from the field. This recap cuts through the noise to share what really matters\u2014key trends, warning signs, and stories shaping today\u2019s security landscape. Whether you\u2019re defending systems or just keeping up, these highlights help you spot what\u2019s coming",
+      "published": "2025-10-06 11:38:00",
+      "timestamp": 1759750680
+    },
+    {
+      "id": "6876b08bf6c5ecb41d563e0fbca1867e2acf3ad3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "5 Critical Questions For Adopting an AI Security Solution",
+      "link": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
+      "summary": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
+      "published": "2025-10-06 11:38:00",
+      "timestamp": 1759750680
+    },
+    {
+      "id": "c598bce24a21df927b34e7ea0e33f85818379894",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
+      "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
+      "summary": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite that it said has been exploited in the recent wave of Cl0p data theft attacks. The vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
+      "published": "2025-10-06 11:37:00",
+      "timestamp": 1759750620
+    },
+    {
+      "id": "aacb4c907b84dbd086b32f8a4a91e688f0272031",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers",
+      "link": "https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html",
+      "summary": "Cybersecurity researchers have shed light on a Chinese-speaking cybercrime group codenamed UAT-8099 that has been attributed to search engine optimization (SEO) fraud and theft of high-value credentials, configuration files, and certificate data. The attacks are designed to target Microsoft Internet Information Services (IIS) servers, with most of the infections reported in India, Thailand",
+      "published": "2025-10-06 11:36:00",
+      "timestamp": 1759750560
+    },
     {
       "id": "d69ac651b505f60eb845371d979dee204683dc4c",
       "source": "The Hacker News",
@@ -10,16 +60,6 @@
       "summary": "A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military. Tracked as CVE-2025-27915 (CVSS score: 5.4), the vulnerability is a stored cross-site scripting (XSS) vulnerability in the Classic Web Client that arises as a result of insufficient sanitization of HTML content in ICS calendar files,",
       "published": "2025-10-06 06:01:00",
       "timestamp": 1759730460
-    },
-    {
-      "id": "c598bce24a21df927b34e7ea0e33f85818379894",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
-      "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-      "summary": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite that it said has been exploited in the recent wave of Cl0p data theft attacks. The vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
-      "published": "2025-10-06 05:15:00",
-      "timestamp": 1759727700
     },
     {
       "id": "1d2493760795ae9fba1eda1101dda52c622cc3ce",
@@ -160,16 +200,6 @@
       "summary": "A threat actor named Detour Dog has been outed as powering campaigns distributing an information stealer known as Strela Stealer. That's according to findings from Infoblox, which found the threat actor to maintain control of domains hosting the first stage of the stealer, a backdoor called StarFish. The DNS threat intelligence firm said it has been tracking Detour Dog since August 2023, when",
       "published": "2025-10-03 18:11:00",
       "timestamp": 1759515060
-    },
-    {
-      "id": "ad721ec8f0c1104e79c85613a5b1b4b12518c49c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Signal adds new cryptographic defense against quantum attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/",
-      "summary": "Signal announced the introduction of Sparse Post-Quantum Ratchet (SPQR), a new cryptographic component designed to withstand quantum computing threats. [...]",
-      "published": "2025-10-03 17:15:44",
-      "timestamp": 1759511744
     },
     {
       "id": "af61441c6140106fcba664668aa7ee7bc6f9b90e",
@@ -702,36 +732,6 @@
       "timestamp": 1758865860
     },
     {
-      "id": "22e7b35ff266b84b00ea919c5f5cd61bef88ab05",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Urgent: Cisco ASA Zero-Day Duo Under Attack; CISA Triggers Emergency Mitigation Directive",
-      "link": "https://thehackernews.com/2025/09/urgent-cisco-asa-zero-day-duo-under.html",
-      "summary": "Cisco is urging customers to patch two security flaws impacting the VPN web server of Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software, which it said have been exploited in the wild. The zero-day vulnerabilities in question are listed below - CVE-2025-20333 (CVSS score: 9.9) - An improper validation of user-supplied input",
-      "published": "2025-09-25 18:17:00",
-      "timestamp": 1758824220
-    },
-    {
-      "id": "22348c5a5a85b31deb5fdeadcc50d2a3734d49f2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More",
-      "link": "https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html",
-      "summary": "Welcome to this week\u2019s Threatsday Bulletin\u2014your Thursday check-in on the latest twists and turns in cybersecurity and hacking. The digital threat landscape never stands still. One week it\u2019s a critical zero-day, the next it\u2019s a wave of phishing lures or a state-backed disinformation push. Each headline is a reminder that the rules keep changing and that defenders\u2014whether you\u2019re protecting a",
-      "published": "2025-09-25 17:24:00",
-      "timestamp": 1758821040
-    },
-    {
-      "id": "4399efca43aa779bd8adbf13f023220021938c95",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network",
-      "link": "https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html",
-      "summary": "The threat actor known as Vane Viper has been outed as a purveyor of malicious ad technology (adtech), while relying on a tangled web of shell companies and opaque ownership structures to deliberately evade responsibility. \"Vane Viper has provided core infrastructure in widespread malvertising, ad fraud, and cyberthreat proliferation for at least a decade,\" Infoblox said in a technical report",
-      "published": "2025-09-25 17:22:00",
-      "timestamp": 1758820920
-    },
-    {
       "id": "6487aac39a0c189c5e0ef43cf653aa09698b534a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -800,16 +800,6 @@
       "summary": "Microsoft Threat Intelligence recently detected and blocked a credential phishing campaign that likely used AI-generated code to obfuscate its payload and evade traditional defenses, demonstrating a broader trend of attackers leveraging AI to increase the effectiveness of their operations and underscoring the need for defenders to understand and anticipate AI-driven threats. The post AI vs. AI: Detecting an AI-obfuscated phishing campaign appeared first on Microsoft Security Blog.",
       "published": "2025-09-24 12:00:00",
       "timestamp": 1758715200
-    },
-    {
-      "id": "bee142941135788571291463e79e1078135bd4a5",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
-      "link": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "summary": "U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for extorting at least $115 million in ransom payments from victims. The charges came as Jubair and an alleged co-conspirator appeared in a London court to face accusations of hacking into and extorting several large U.K. retailers, the London transit system, and healthcare providers in the United Stat",
-      "published": "2025-09-24 11:48:31",
-      "timestamp": 1758714511
     },
     {
       "id": "a09b9017a11262d6b22e45311a842c52556a4a4d",
@@ -912,16 +902,6 @@
       "timestamp": 1758038400
     },
     {
-      "id": "873fc4179994745f9fbee7e618a5cfdf0f660a73",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Self-Replicating Worm Hits 180+ Software Packages",
-      "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
-      "summary": "At least 187 code packages made available through the JavaScript repository NPM have been infected with a self-replicating worm that steals credentials from developers and publishes those secrets on GitHub, experts warn. The malware, which briefly infected multiple code packages from the security vendor CrowdStrike, steals and publishes even more credentials every time an infected package is installed.",
-      "published": "2025-09-16 14:08:02",
-      "timestamp": 1758031682
-    },
-    {
       "id": "c1300c5df783187273728593487fe24e91f4da95",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -930,16 +910,6 @@
       "summary": "CISA released eight Industrial Control Systems (ICS) advisories on September 16, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-259-01 Schneider Electric Altivar Products, ATVdPAC Module, ILC992 InterLink Converter ICSA-25-259-02 Hitachi Energy RTU500 Series ICSA-25-259-03 Siemens SIMATIC NET CP, SINEMA, and SCALANCE ICSA-25-259-04 Siemens RUGGEDCOM, SINEC NMS, and SINEMA ICSA-25-259-05 Siemens OpenSSL Vulne",
       "published": "2025-09-16 12:00:00",
       "timestamp": 1758024000
-    },
-    {
-      "id": "e6deb833b890e1cb4aedc7ee32460983664c037b",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
-      "link": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
-      "summary": "In May 2025, the European Union levied financial sanctions on the owners of Stark Industries Solutions Ltd., a bulletproof hosting provider that materialized two weeks before Russia invaded Ukraine and quickly became a top source of Kremlin-linked cyberattacks and disinformation campaigns. But new data shows those sanctions have done little to stop Stark from simply rebranding and transferring their assets to other corporate entities controlled by its original hosting providers.",
-      "published": "2025-09-11 17:40:22",
-      "timestamp": 1757612422
     },
     {
       "id": "787565b3bae995b3650d33c09090b0300b936209",
@@ -962,16 +932,6 @@
       "timestamp": 1757592000
     },
     {
-      "id": "c8a6117562333f56e53807f6fa07c9441c062415",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Patch Tuesday, September 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
-      "summary": "Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known \"zero-day\" or actively exploited vulnerabilities in this month's bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft's most-dire \"critical\" label. Meanwhile, both Apple and Google recently released updates to fix zero-day bugs in their devices.",
-      "published": "2025-09-09 21:21:14",
-      "timestamp": 1757452874
-    },
-    {
       "id": "b7aca9f81a96a61e8608e94aff9d4100cdb6a953",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -980,26 +940,6 @@
       "summary": "CISA released fourteen Industrial Control Systems (ICS) advisories on September 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-252-01 Rockwell Automation ThinManager ICSA-25-252-02 ABB Cylon Aspect BMS/BAS ICSA-25-252-03 Rockwell Automation Stratix IOS ICSA-25-252-04 Rockwell Automation FactoryTalk Optix ICSA-25-252-05 Rockwell Automation FactoryTalk Activation Manager ICSA-25-252-06 Rockwell Automation C",
       "published": "2025-09-09 12:00:00",
       "timestamp": 1757419200
-    },
-    {
-      "id": "f1dd639fe3b5f5d8adba53e5405c61b33a954c21",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
-      "link": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
-      "summary": "At least 18 popular JavaScript code packages that are collectively downloaded more than two billion times each week were briefly compromised with malicious software today, after a developer involved in maintaining the projects was phished. The attack appears to have been quickly contained and was narrowly focused on stealing cryptocurrency. But experts warn that a similar attack with a slightly more nefarious payload could quickly lead to a disruptive malware outbreak that is far more difficult ",
-      "published": "2025-09-08 22:53:41",
-      "timestamp": 1757372021
-    },
-    {
-      "id": "d4d8b5da4e145269d692818345dca7bcda2785a0",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "GOP Cries Censorship Over Spam Filters That Work",
-      "link": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
-      "summary": "The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google's CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block similar missives supporting Democrats. The letter followed media reports accusing Gmail of disproportionately flagging messages from the GOP fundraising platform WinRed and sending them to the spam folder. But according to experts who track daily spam volumes worldwide, WinRed's messages are getting b",
-      "published": "2025-09-06 03:23:35",
-      "timestamp": 1757129015
     },
     {
       "id": "d041853ebd227b6092c34f28cd39967457d7808e",
@@ -1072,16 +1012,6 @@
       "timestamp": 1756814400
     },
     {
-      "id": "7d62849858c84009044be7a0ed2d1e94de5b2a02",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "summary": "The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, ",
-      "published": "2025-09-01 21:55:04",
-      "timestamp": 1756763704
-    },
-    {
       "id": "f351c22c44a3517c0c1aa939d4435856c3e54ca0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1090,16 +1020,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-57819 Sangoma FreePBX Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known C",
       "published": "2025-08-29 12:00:00",
       "timestamp": 1756468800
-    },
-    {
-      "id": "1b2fc7c628162afb3a9be4bce369ebfd9faa5d57",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
-      "link": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
-      "summary": "Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We've since learned that these scam gambling sites have proliferated thanks to a new Russian affiliate program called \"Gambler Panel\" that bills itself as a \"soulless project that is made for profit.\"",
-      "published": "2025-08-28 17:21:32",
-      "timestamp": 1756401692
     },
     {
       "id": "d220353bec23d4a12a1d7970ccc2c29b6d91f994",
@@ -1120,16 +1040,6 @@
       "summary": "CISA, along with the National Security Agency, Federal Bureau of Investigation, and international partners, released a joint Cybersecurity Advisory on People\u2019s Republic of China (PRC) state-sponsored Advanced Persistent Threat (APT) actors targeting critical infrastructure across sectors and continents to maintain persistent, long-term access to networks. This advisory builds on previous reporting and is based on real-world investigations conducted across multiple countries through July 2025. Wh",
       "published": "2025-08-27 12:00:00",
       "timestamp": 1756296000
-    },
-    {
-      "id": "b7244a1ca905d096715145edb87d74c72cb6c776",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
-      "link": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
-      "summary": "The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they'd made with company called DSLRoot, which was paying $250 a month to plug a pair of laptops into the Redditor's high-speed Internet connection in the United States. This post examines the history and provenance of DSLRoot, one of the oldest \"residential proxy\" networks with origins in Russia and Eastern E",
-      "published": "2025-08-26 14:05:12",
-      "timestamp": 1756217112
     },
     {
       "id": "57b99892ad337350a711786494a0c98e9dd0b4c6",
@@ -1170,16 +1080,6 @@
       "summary": "Written by: Patrick Whitsell In March 2025, Google Threat Intelligence Group (GTIG) identified a complex, multifaceted campaign attributed to the PRC-nexus threat actor UNC6384. The campaign targeted diplomats in Southeast Asia and other entities globally. GTIG assesses this was likely in support of cyber espionage operations aligned with the strategic interests of the People's Republic of China (PRC). The campaign hijacks target web traffic, using a captive portal redirect, to deliver a digital",
       "published": "2025-08-25 14:00:00",
       "timestamp": 1756130400
-    },
-    {
-      "id": "6e3a8006a40444d7dbfd23e214dd966b9431e9ab",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
-      "link": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
-      "summary": "A 21-year-old Florida man at the center of a prolific cybercrime group known as \"Scattered Spider\" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims. Noah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of wire fraud and conspiracy. Florida prosecutors alleged Urban conspired with others to steal at least $800,000 from five victims via SIM-swapping attacks that diverted their mobile phone calls and text m",
-      "published": "2025-08-21 01:47:22",
-      "timestamp": 1755740842
     },
     {
       "id": "4e1f870e060c29ee2611664c46ff443ff651e502",
