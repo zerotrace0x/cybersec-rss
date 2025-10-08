@@ -1,6 +1,46 @@
 {
-  "generated_at": 1759936168,
+  "generated_at": 1759947223,
   "items": [
+    {
+      "id": "89576cfd9197525d984479e1e9024549bb792db6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft enables Exchange Online auto-archiving by default",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
+      "summary": "Microsoft is enabling threshold-based auto-archiving by default in Exchange Online to prevent email flow issues caused by mailboxes filling up faster than expected. [...]",
+      "published": "2025-10-08 17:49:59",
+      "timestamp": 1759945799
+    },
+    {
+      "id": "f7df45e675a6f14aee8140523b8da39352b2aa0f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Crimson Collective hackers target AWS cloud instances for data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
+      "summary": "The 'Crimson Collective' threat group has been targeting AWS (Amazon Web Services) cloud environments for the past weeks, to steal data and extort companies. [...]",
+      "published": "2025-10-08 17:33:38",
+      "timestamp": 1759944818
+    },
+    {
+      "id": "5dd04578f2d62ce2918bc3e6eb479d5c394eab11",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
+      "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a nefarious campaign targeting WordPress sites to make malicious JavaScript injections that are designed to redirect users to sketchy sites. \"Site visitors get injected content that was drive-by malware like fake Cloudflare verification,\" Sucuri researcher Puja Srivastava said in an analysis published last week. The website security company",
+      "published": "2025-10-08 16:43:00",
+      "timestamp": 1759941780
+    },
+    {
+      "id": "c11a6d5b6361bd11251ee18e4979b9e2ef885827",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
+      "summary": "Threat actors are actively exploiting a critical vulnerability in the Service Finder WordPress theme that allows them to bypass authentication and log in as administrators. [...]",
+      "published": "2025-10-08 15:57:53",
+      "timestamp": 1759939073
+    },
     {
       "id": "265f720d193937438cb85544afa835f8e49a9011",
       "source": "BleepingComputer",
@@ -20,6 +60,16 @@
       "summary": "The Salesloft Drift breach shows attackers don't need to \"hack Google\" \u2014 they just need to breach a trusted integration. Learn from Material Security how to secure OAuth, detect risky behavior, and protect data in Google Workspace. [...]",
       "published": "2025-10-08 14:02:12",
       "timestamp": 1759932132
+    },
+    {
+      "id": "f8298f5d216b159e9c1bf6645a6f4eecc0957438",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
+      "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
+      "summary": "Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets. The activity, observed by cybersecurity company Huntress in August 2025, is characterized by the use of an unusual technique called log poisoning (aka log injection) to plant a web shell on a web",
+      "published": "2025-10-08 13:56:00",
+      "timestamp": 1759931760
     },
     {
       "id": "8b595b387bacdc64a19aeac8bdd95301befdb9ce",
@@ -202,26 +252,6 @@
       "timestamp": 1759850280
     },
     {
-      "id": "f618253460b020f9b7dc8722e39bb5e65e28175b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Redefining Security Validation with AI-Powered Breach and Attack Simulation",
-      "link": "https://www.bleepingcomputer.com/news/security/redefining-security-validation-with-ai-powered-breach-and-attack-simulation/",
-      "summary": "Security teams are drowning in threat intel \u2014 but AI is changing that. AI-powered Breach and Attack Simulation turns new threats into real, testable scenarios in minutes \u2014 delivering proof that your defenses work, not just assumptions. Join the BAS Summit 2025 to see how AI redefines security validation. [...]",
-      "published": "2025-10-07 14:01:11",
-      "timestamp": 1759845671
-    },
-    {
-      "id": "71a78fbf531ad4dd751d896c8ca18d38403c148c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google's new AI bug bounty program pays up to $30,000 for flaws",
-      "link": "https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/",
-      "summary": "This week, Google has launched an AI Vulnerability Reward Program dedicated to security researchers who find and report flaws in the company's AI systems. [...]",
-      "published": "2025-10-07 13:19:27",
-      "timestamp": 1759843167
-    },
-    {
       "id": "3cc087876b66807cd40729bf20df16210d94ec73",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -302,7 +332,7 @@
       "timestamp": 1759784400
     },
     {
-      "id": "e9e057d4d08247c9657f9b492cc66c9ece83e1cd",
+      "id": "ff54e06f28a7605fc10964e7d10b25cd92191842",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
@@ -752,26 +782,6 @@
       "timestamp": 1759224000
     },
     {
-      "id": "87275bc723d99303ecdf01c9ae6b70b99cdd42aa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Evolving Enterprise Defense to Secure the Modern AI Supply Chain",
-      "link": "https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html",
-      "summary": "The world of enterprise technology is undergoing a dramatic shift. Gen-AI adoption is accelerating at an unprecedented pace, and SaaS vendors are embedding powerful LLMs directly into their platforms. Organizations are embracing AI-powered applications across every function, from marketing and development to finance and HR. This transformation unlocks innovation and efficiency, but it also",
-      "published": "2025-09-30 08:33:00",
-      "timestamp": 1759221180
-    },
-    {
-      "id": "23e9742617570acf161660350e47e426e77b21af",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.K. Police Just Seized \u00a35.5 Billion in Bitcoin \u2014 The World\u2019s Largest Crypto Bust",
-      "link": "https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html",
-      "summary": "A Chinese national has been convicted for her role in a fraudulent cryptocurrency scheme after law enforcement authorities in the U.K. confiscated \u00a35.5 billion (about $7.39 billion) during a raid of her home in London. The cryptocurrency seizure, amounting to 61,000 Bitcoin, is believed to be the single largest such effort in the world, the Metropolitan Police said. Zhimin Qian (aka Yadi Zhang),",
-      "published": "2025-09-30 08:23:00",
-      "timestamp": 1759220580
-    },
-    {
       "id": "7da91232e280ac6f46e9be8f0f10cf6827e2f7de",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -822,7 +832,7 @@
       "timestamp": 1758815252
     },
     {
-      "id": "a666543b843331a8344b310408627c7231765579",
+      "id": "fbb90d68b99d9c280dba541589ff343d95ec5875",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "XCSSET evolves again: Analyzing the latest updates to XCSSET\u2019s inventory",
