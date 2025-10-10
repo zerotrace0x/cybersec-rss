@@ -1,6 +1,46 @@
 {
-  "generated_at": 1760087440,
+  "generated_at": 1760098657,
   "items": [
+    {
+      "id": "f787e0d3a54268af64e6aced718d4aa5d40fa0ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
+      "link": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
+      "summary": "Fortra on Thursday revealed the results of its investigation into CVE-2025-10035, a critical security flaw in GoAnywhere Managed File Transfer (MFT) that's assessed to have come under active exploitation since at least September 11, 2025. The company said it began its investigation on September 11 following a \"potential vulnerability\" reported by a customer, uncovering \"potentially suspicious",
+      "published": "2025-10-10 11:42:00",
+      "timestamp": 1760096520
+    },
+    {
+      "id": "a653059f000512f044aed46a2cacf9e40ece052d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
+      "link": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
+      "summary": "The SOC of 2026 will no longer be a human-only battlefield. As organizations scale and threats evolve in sophistication and velocity, a new generation of AI-powered agents is reshaping how Security Operations Centers (SOCs) detect, respond, and adapt. But not all AI SOC platforms are created equal. From prompt-dependent copilots to autonomous, multi-agent systems, the current market offers",
+      "published": "2025-10-10 11:00:00",
+      "timestamp": 1760094000
+    },
+    {
+      "id": "9eef3a69bb2ae3cab13036158053a9aea77d1fe6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
+      "link": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
+      "summary": "Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign. The packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy",
+      "published": "2025-10-10 10:45:00",
+      "timestamp": 1760093100
+    },
+    {
+      "id": "dfe9e368f2b0aad7c51c12efc9a4b5c92c3c6e58",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
+      "link": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
+      "summary": "Cybersecurity company Huntress said it has observed active in-the-wild exploitation of an unpatched security flaw impacting Gladinet CentreStack and TrioFox products. The zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an unauthenticated local file inclusion bug that allows unintended disclosure of system files. It impacts all versions of the software prior to and",
+      "published": "2025-10-10 09:34:00",
+      "timestamp": 1760088840
+    },
     {
       "id": "0f43d0667cfc961fb4e1ccbd963604b37c7d6754",
       "source": "BleepingComputer",
@@ -250,16 +290,6 @@
       "summary": "Discord says they will not be negotiating with threat actors who claim to have stolen the data of 5.5 million unique users from the company's Zendesk support system instance, including government IDs and partial payment information for some people. [...]",
       "published": "2025-10-09 00:22:03",
       "timestamp": 1759969323
-    },
-    {
-      "id": "d05fd3ab9396168a35e2980b90ef1f9f86f53b57",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New FileFix attack uses cache smuggling to evade security software",
-      "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
-      "summary": "A new variant of the FileFix social engineering attack uses cache smuggling to secretly download a malicious ZIP archive onto a victim's system and bypassing security software. [...]",
-      "published": "2025-10-08 19:49:47",
-      "timestamp": 1759952987
     },
     {
       "id": "5dd04578f2d62ce2918bc3e6eb479d5c394eab11",
@@ -760,46 +790,6 @@
       "summary": "AI is changing automation\u2014but not always for the better. That\u2019s why we\u2019re hosting a new webinar, \"Workflow Clarity: Where AI Fits in Modern Automation,\" with Thomas Kinsella, Co-founder & Chief Customer Officer at Tines, to explore how leading teams are cutting through the hype and building workflows that actually deliver.The rise of AI has changed how organizations think about automation.",
       "published": "2025-10-01 12:45:00",
       "timestamp": 1759322700
-    },
-    {
-      "id": "8fc70ef70cfbd9ec2ad763c164c05b975455a17d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Red Hat OpenShift AI Flaw Exposes Hybrid Cloud Infrastructure to Full Takeover",
-      "link": "https://thehackernews.com/2025/10/critical-red-hat-openshift-ai-flaw.html",
-      "summary": "A severe security flaw has been disclosed in the Red Hat OpenShift AI service that could allow attackers to escalate privileges and take control of the complete infrastructure under certain conditions. OpenShift AI is a platform for managing the lifecycle of predictive and generative artificial intelligence (GenAI) models at scale and across hybrid cloud environments. It also facilitates data",
-      "published": "2025-10-01 12:36:00",
-      "timestamp": 1759322160
-    },
-    {
-      "id": "47b1715f58230017b3140f633d5ae967595ce198",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploit Milesight Routers to Send Phishing SMS to European Users",
-      "link": "https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html",
-      "summary": "Unknown threat actors are abusing Milesight industrial cellular routers to send SMS messages as part of a smishing campaign targeting users in European countries since at least February 2022. French cybersecurity company SEKOIA said the attackers are exploiting the cellular router's API to send malicious SMS messages containing phishing URLs, with the campaigns primarily targeting Sweden, Italy,",
-      "published": "2025-10-01 11:07:00",
-      "timestamp": 1759316820
-    },
-    {
-      "id": "f255f52cbba6e4b4d215ff08daac269aef8b36fd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising",
-      "link": "https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html",
-      "summary": "Bitdefender\u2019s 2025 Cybersecurity Assessment Report paints a sobering picture of today\u2019s cyber defense landscape: mounting pressure to remain silent after breaches, a gap between leadership and frontline teams, and a growing urgency to shrink the enterprise attack surface. The annual research combines insights from over 1,200 IT and security professionals across six countries, along with an",
-      "published": "2025-10-01 11:07:00",
-      "timestamp": 1759316820
-    },
-    {
-      "id": "5bbda94b99e07f70d7ad8d31325d1f53967fdbbe",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Android Banking Trojan \u201cKlopatra\u201d Uses Hidden VNC to Control Infected Smartphones",
-      "link": "https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html",
-      "summary": "A previously undocumented Android banking trojan called Klopatra has compromised over 3,000 devices, with a majority of the infections reported in Spain and Italy. Italian fraud prevention firm Cleafy, which discovered the sophisticated malware and remote access trojan (RAT) in late August 2025, said it leverages Hidden Virtual Network Computing (VNC) for remote control of infected devices and",
-      "published": "2025-10-01 09:25:00",
-      "timestamp": 1759310700
     },
     {
       "id": "855d7683577ed5378c4f369a708b587544020918",
