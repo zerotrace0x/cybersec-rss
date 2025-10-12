@@ -1,6 +1,36 @@
 {
-  "generated_at": 1760281671,
+  "generated_at": 1760292664,
   "items": [
+    {
+      "id": "b3b3060f56cfb31a1328e1b1de9be8a6c8ee8cb9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
+      "link": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
+      "summary": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data. The vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14. \"Easily exploitable vulnerability allows an unauthenticated attacker with",
+      "published": "2025-10-12 17:24:00",
+      "timestamp": 1760289840
+    },
+    {
+      "id": "f0afc90ef1ce979125b497cc842d68607355bdc1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake 'Inflation Refund' texts target New Yorkers in new scam",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/",
+      "summary": "An ongoing smishing campaign is targeting New Yorkers with text messages posing as the Department of Taxation and Finance, claiming to offer \"Inflation Refunds\" in an attempt to steal victims' personal and financial data. [...]",
+      "published": "2025-10-12 14:19:29",
+      "timestamp": 1760278769
+    },
+    {
+      "id": "fcee582d1e06ff8328da7fa036f1de0bcca5b218",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spain dismantles \u201cGXC Team\u201d cybercrime syndicate, arrests leader",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/",
+      "summary": "Spanish Guardia Civil have dismantled the \"GXC Team\" cybercrime syndicate and arrested its alleged leader, a 25-year-old Brazilian known as \"GoogleXcoder.\" [...]",
+      "published": "2025-10-11 14:17:42",
+      "timestamp": 1760192262
+    },
     {
       "id": "47d72261f036feed1c072728ab9bc564ffb9c039",
       "source": "The Hacker News",
@@ -55,7 +85,7 @@
       "id": "00139f0537544d01b01a5ec3066da2ae7d5fdf81",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Google Chrome to revoke notification access for inactive sites",
+      "title": "Google Chrome to revoke browser notifications for inactive sites",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
       "summary": "Google is updating the Chrome web browser to automatically revoke notification permissions for websites that haven't been visited recently, to reduce alert overload. [...]",
       "published": "2025-10-10 17:00:00",
@@ -202,26 +232,6 @@
       "timestamp": 1760038680
     },
     {
-      "id": "9634e64c4b028cd32c51af7a412f1f1665a22739",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers now use Velociraptor DFIR tool in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/",
-      "summary": "Threat actors have started to use the Velociraptor digital forensics and incident response (DFIR) tool in attacks that deploy LockBit and Babuk ransomware. [...]",
-      "published": "2025-10-09 19:31:55",
-      "timestamp": 1760038315
-    },
-    {
-      "id": "98109168bf2911a43056b7c518dc04334dc80130",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
-      "summary": "\u200bMicrosoft is working to resolve a known issue that causes its Defender for Endpoint enterprise endpoint security platform to incorrectly tag SQL Server software as end-of-life. [...]",
-      "published": "2025-10-09 18:09:26",
-      "timestamp": 1760033366
-    },
-    {
       "id": "0cee9d9f512194c93702327f052298f72db6b8ae",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +240,6 @@
       "summary": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL. \"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely",
       "published": "2025-10-09 17:19:00",
       "timestamp": 1760030340
-    },
-    {
-      "id": "2e2786774fa13a03fb94db86cbbe84950a8808a6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "RondoDox botnet targets 56 n-day flaws in worldwide attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/",
-      "summary": "A new large-scale botnet called RondoDox is targeting 56 vulnerabilities in more than 30 distinct devices, including flaws first disclosed during Pwn2Own hacking competitions. [...]",
-      "published": "2025-10-09 17:17:28",
-      "timestamp": 1760030248
     },
     {
       "id": "a48e1ea19d88bf4f73783cbcef53ff7f0c0f73ce",
@@ -262,7 +262,7 @@
       "timestamp": 1760023800
     },
     {
-      "id": "14c3372eb7a78dbb631641c5c9624fff64e693e3",
+      "id": "01a1262d9990767596b53cf3bc813e870c4c0d02",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Investigating targeted \u201cpayroll pirate\u201d attacks affecting US universities",
@@ -552,7 +552,7 @@
       "timestamp": 1759784400
     },
     {
-      "id": "e9e057d4d08247c9657f9b492cc66c9ece83e1cd",
+      "id": "ff54e06f28a7605fc10964e7d10b25cd92191842",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability",
@@ -712,7 +712,7 @@
       "timestamp": 1759479780
     },
     {
-      "id": "f56225736dc166a0fcaa48d39584a3dcb58136a8",
+      "id": "c10ad1ad3d8024870bc06149e2390728543090b1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft named a Leader in the IDC MarketScape for XDR",
@@ -790,16 +790,6 @@
       "summary": "Google Mandiant and Google Threat Intelligence Group (GTIG) have disclosed that they are tracking a new cluster of activity possibly linked to a financially motivated threat actor known as Cl0p. The malicious activity involves sending extortion emails to executives at various organizations and claiming to have stolen sensitive data from their Oracle E-Business Suite. \"This activity began on or",
       "published": "2025-10-02 11:25:00",
       "timestamp": 1759404300
-    },
-    {
-      "id": "6ede6f067a125918fff6527e19ab980b6d5e7bfa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How to Close Threat Detection Gaps: Your SOC's Action Plan",
-      "link": "https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html",
-      "summary": "Running a SOC often feels like drowning in alerts. Every morning, dashboards light up with thousands of signals; some urgent, many irrelevant. The job is to find the real threats fast enough to keep cases from piling up, prevent analyst burnout, and maintain client or leadership confidence. The toughest challenges, however, aren\u2019t the alerts that can be dismissed quickly, but the ones that hide",
-      "published": "2025-10-02 11:00:00",
-      "timestamp": 1759402800
     },
     {
       "id": "c6cb942c529be15b269c9d2c1cb8f824d884a599",
