@@ -1,6 +1,46 @@
 {
-  "generated_at": 1760433036,
+  "generated_at": 1760444295,
   "items": [
+    {
+      "id": "4e1e56ecbe4d5196423fcd1f345044b9e7564ebe",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
+      "link": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
+      "summary": "Every October brings a familiar rhythm - pumpkin-spice everything in stores and caf\u00e9s, alongside a wave of reminders, webinars, and checklists in my inbox. Halloween may be just around the corner, yet for those of us in cybersecurity, Security Awareness Month is the true seasonal milestone. Make no mistake, as a security professional, I love this month. Launched by CISA and the National",
+      "published": "2025-10-14 11:55:00",
+      "timestamp": 1760442900
+    },
+    {
+      "id": "5679c5aec44bf9307f7d5d059a42f9bb43cf93a6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "RMPocalypse: Single 8-Byte Write Shatters AMD\u2019s SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
+      "summary": "Chipmaker AMD has released fixes to address a security flaw dubbed RMPocalypse that could be exploited to undermine confidential computing guarantees provided by Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP). The attack, per ETH Z\u00fcrich researchers Benedict Schl\u00fcter and Shweta Shinde, exploits AMD's incomplete protections that make it possible to perform a single memory",
+      "published": "2025-10-14 11:45:00",
+      "timestamp": 1760442300
+    },
+    {
+      "id": "e765941bd18a51ad4b41501204cd0690af5408ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
+      "link": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
+      "summary": "Android devices from Google and Samsung have been found vulnerable to a side-channel attack that could be exploited to covertly steal two-factor authentication (2FA) codes, Google Maps timelines, and other sensitive data without the users' knowledge pixel-by-pixel. The attack has been codenamed Pixnapping by a group of academics from the University of California (Berkeley), University of",
+      "published": "2025-10-14 11:18:00",
+      "timestamp": 1760440680
+    },
+    {
+      "id": "112815b55816f4cc09a141be904609aa5da00ed6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "What AI Reveals About Web Applications\u2014 and Why It Matters",
+      "link": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
+      "summary": "Before an attacker ever sends a payload, they\u2019ve already done the work of understanding how your environment is built. They look at your login flows, your JavaScript files, your error messages, your API documentation, your GitHub repos. These are all clues that help them understand how your systems behave. AI is significantly accelerating reconnaissance and enabling attackers to map your",
+      "published": "2025-10-14 11:00:00",
+      "timestamp": 1760439600
+    },
     {
       "id": "d6d111dd254b2768724a2af2b18ebba9c2ee35f9",
       "source": "The Hacker News",
@@ -730,46 +770,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new attack called CometJacking targeting Perplexity's agentic AI browser Comet by embedding malicious prompts within a seemingly innocuous link to siphon sensitive data, including from connected services, like email and calendar. The sneaky prompt injection attack plays out in the form of a malicious link that, when clicked, triggers the",
       "published": "2025-10-04 14:37:00",
       "timestamp": 1759588620
-    },
-    {
-      "id": "1c96f97dc8f59857bffaecc46c3a2a91eff6778a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Scanning Activity on Palo Alto Networks Portals Jump 500% in One Day",
-      "link": "https://thehackernews.com/2025/10/scanning-activity-on-palo-alto-networks.html",
-      "summary": "Threat intelligence firm GreyNoise disclosed on Friday that it has observed a massive spike in scanning activity targeting Palo Alto Networks login portals. The company said it observed a nearly 500% increase in IP addresses scanning Palo Alto Networks login portals on October 3, 2025, the highest level recorded in the last three months. It described the traffic as targeted and structured, and",
-      "published": "2025-10-04 10:39:00",
-      "timestamp": 1759574340
-    },
-    {
-      "id": "218dbd3494e8e8d5fc80240c85963241c29f6d55",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer",
-      "link": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
-      "summary": "A threat actor named Detour Dog has been outed as powering campaigns distributing an information stealer known as Strela Stealer. That's according to findings from Infoblox, which found the threat actor to maintain control of domains hosting the first stage of the stealer, a backdoor called StarFish. The DNS threat intelligence firm said it has been tracking Detour Dog since August 2023, when",
-      "published": "2025-10-03 18:11:00",
-      "timestamp": 1759515060
-    },
-    {
-      "id": "af61441c6140106fcba664668aa7ee7bc6f9b90e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
-      "link": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
-      "summary": "The threat actor behind Rhadamanthys has also advertised two other tools called Elysium Proxy Bot and Crypt Service on their website, even as the flagship information stealer has been updated to support the ability to collect device and web browser fingerprints, among others. \"Rhadamanthys was initially promoted through posts on cybercrime forums, but soon it became clear that the author had a",
-      "published": "2025-10-03 15:58:00",
-      "timestamp": 1759507080
-    },
-    {
-      "id": "b9f8eb14f3154b3b537f281f779fc7742a643574",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
-      "link": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
-      "summary": "Brazilian users have emerged as the target of a new self-propagating malware dubbed SORVEPOTEL that spreads via the popular messaging app WhatsApp. The campaign, codenamed Water Saci by Trend Micro, weaponizes the trust with the platform to extend its reach across Windows systems, adding the attack is \"engineered for speed and propagation\" rather than data theft or ransomware. \"SORVEPOTEL has",
-      "published": "2025-10-03 12:02:00",
-      "timestamp": 1759492920
     },
     {
       "id": "f56225736dc166a0fcaa48d39584a3dcb58136a8",
