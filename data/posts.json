@@ -1,6 +1,16 @@
 {
-  "generated_at": 1760499053,
+  "generated_at": 1760508867,
   "items": [
+    {
+      "id": "0f3a49db265a6d3bcba3844a39390e57e0610cbe",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
+      "link": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
+      "summary": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution. The vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization. \"Due to a deserialization vulnerability in SAP NetWeaver, an",
+      "published": "2025-10-15 05:36:00",
+      "timestamp": 1760506560
+    },
     {
       "id": "8e9a1b21da8ae0d1f00b370a31767aef0bb96b95",
       "source": "Krebs on Security",
@@ -810,16 +820,6 @@
       "summary": "Cybersecurity researchers have shed light on a Chinese-speaking cybercrime group codenamed UAT-8099 that has been attributed to search engine optimization (SEO) fraud and theft of high-value credentials, configuration files, and certificate data. The attacks are designed to target Microsoft Internet Information Services (IIS) servers, with most of the infections reported in India, Thailand",
       "published": "2025-10-06 11:36:00",
       "timestamp": 1759750560
-    },
-    {
-      "id": "d69ac651b505f60eb845371d979dee204683dc4c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
-      "link": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
-      "summary": "A now patched security vulnerability in Zimbra Collaboration was exploited as a zero-day earlier this year in cyber attacks targeting the Brazilian military. Tracked as CVE-2025-27915 (CVSS score: 5.4), the vulnerability is a stored cross-site scripting (XSS) vulnerability in the Classic Web Client that arises as a result of insufficient sanitization of HTML content in ICS calendar files,",
-      "published": "2025-10-06 06:01:00",
-      "timestamp": 1759730460
     },
     {
       "id": "f56225736dc166a0fcaa48d39584a3dcb58136a8",
