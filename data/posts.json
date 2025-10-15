@@ -1,6 +1,26 @@
 {
-  "generated_at": 1760508867,
+  "generated_at": 1760519437,
   "items": [
+    {
+      "id": "de7fb3138557f59617016fc1c781e5cd6d3a79ba",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
+      "link": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
+      "summary": "Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges. The shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system. \"The vulnerabilities affect Red Lion SixTRAK and VersaTRAK",
+      "published": "2025-10-15 06:50:00",
+      "timestamp": 1760511000
+    },
+    {
+      "id": "9acca67e2f66a5615a65d800709efd978b48167a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
+      "link": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
+      "summary": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center",
+      "published": "2025-10-15 06:16:00",
+      "timestamp": 1760508960
+    },
     {
       "id": "0f3a49db265a6d3bcba3844a39390e57e0610cbe",
       "source": "The Hacker News",
@@ -800,26 +820,6 @@
       "summary": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help",
       "published": "2025-10-06 11:38:00",
       "timestamp": 1759750680
-    },
-    {
-      "id": "c598bce24a21df927b34e7ea0e33f85818379894",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
-      "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-      "summary": "Oracle has released an emergency update to address a critical security flaw in its E-Business Suite software that it said has been exploited in the recent wave of Cl0p data theft attacks. The vulnerability, tracked as CVE-2025-61882 (CVSS score: 9.8), concerns an unspecified bug that could allow an unauthenticated attacker with network access via HTTP to compromise and take control of the Oracle",
-      "published": "2025-10-06 11:37:00",
-      "timestamp": 1759750620
-    },
-    {
-      "id": "aacb4c907b84dbd086b32f8a4a91e688f0272031",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Cybercrime Group Runs Global SEO Fraud Ring Using Compromised IIS Servers",
-      "link": "https://thehackernews.com/2025/10/chinese-cybercrime-group-runs-global.html",
-      "summary": "Cybersecurity researchers have shed light on a Chinese-speaking cybercrime group codenamed UAT-8099 that has been attributed to search engine optimization (SEO) fraud and theft of high-value credentials, configuration files, and certificate data. The attacks are designed to target Microsoft Internet Information Services (IIS) servers, with most of the infections reported in India, Thailand",
-      "published": "2025-10-06 11:36:00",
-      "timestamp": 1759750560
     },
     {
       "id": "f56225736dc166a0fcaa48d39584a3dcb58136a8",
