@@ -1,6 +1,16 @@
 {
-  "generated_at": 1760585434,
+  "generated_at": 1760595278,
   "items": [
+    {
+      "id": "259d849541569e66a25f02a14168d51396c84556",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Flags Adobe AEM Flaw with Perfect 10.0 Score \u2014 Already Under Active Attack",
+      "link": "https://thehackernews.com/2025/10/cisa-flags-adobe-aem-flaw-with-perfect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
+      "published": "2025-10-16 04:26:00",
+      "timestamp": 1760588760
+    },
     {
       "id": "bdcf5002ffc9968c56fb52a85b22fa23c3590a11",
       "source": "BleepingComputer",
@@ -810,16 +820,6 @@
       "summary": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts. \"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are",
       "published": "2025-10-07 10:36:00",
       "timestamp": 1759833360
-    },
-    {
-      "id": "7d3eed1d12b1b72d50986728d3afb5f455d639e9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
-      "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
-      "summary": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances. The vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0. \"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,",
-      "published": "2025-10-07 08:33:00",
-      "timestamp": 1759825980
     },
     {
       "id": "442e375c3c979f46f1824f9b734d1e9707469ed7",
