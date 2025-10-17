@@ -1,6 +1,46 @@
 {
-  "generated_at": 1760692238,
+  "generated_at": 1760703423,
   "items": [
+    {
+      "id": "2c76095a5188d3ced32261c607b674629b6b9df6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
+      "summary": "Internet security nonprofit Shadowserver Foundation has found more than 266,000 F5 BIG-IP instances exposed online after the security breach disclosed by cybersecurity company F5 this week. [...]",
+      "published": "2025-10-17 12:16:23",
+      "timestamp": 1760703383
+    },
+    {
+      "id": "8f4ddeee4b512f268a8214c2416c17f775dd2012",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "summary": "Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing messages that come from hundreds of Zendesk corporate customers simultaneously.",
+      "published": "2025-10-17 11:26:27",
+      "timestamp": 1760700387
+    },
+    {
+      "id": "e4386045d16470ebb6c45ad8ba73f42806fe185e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Identity Security: Your First and Last Line of Defense",
+      "link": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+      "summary": "The danger isn\u2019t that AI agents have bad days \u2014 it\u2019s that they never do. They execute faithfully, even when what they\u2019re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe. This isn't some dystopian fantasy\u2014it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They",
+      "published": "2025-10-17 11:00:00",
+      "timestamp": 1760698800
+    },
+    {
+      "id": "871472d1f4323dfcbe95537955452fb7eccbe01f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
+      "link": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
+      "summary": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code. The vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including",
+      "published": "2025-10-17 09:25:00",
+      "timestamp": 1760693100
+    },
     {
       "id": "72e072be3c2684ba838035d7c579ce10e088f9c0",
       "source": "The Hacker News",
@@ -47,12 +87,12 @@
       "source_category": "General",
       "title": "Hackers exploit Cisco SNMP flaw to deploy rootkit on switches",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/",
-      "summary": "Threat actors exploited a recently patched remote code execution vulnerability (CVE-2025-20352) in older, unprotected Cisco networking devices to deploy a Linux rootkit and gain persistent access. [...]",
+      "summary": "Threat actors exploited a recently patched remote code execution vulnerability (CVE-2025-20352) in Cisco networking devices to deploy a rootkit and target unprotected Linux systems. [...]",
       "published": "2025-10-16 18:13:32",
       "timestamp": 1760638412
     },
     {
-      "id": "e0ea30eabdbe4b158ce67137e9dedab36efcab4c",
+      "id": "f53cc49fa6919fe916a045c076a4150b79fe47e0",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft named a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for SIEM",
@@ -262,16 +302,6 @@
       "timestamp": 1760588760
     },
     {
-      "id": "bdcf5002ffc9968c56fb52a85b22fa23c3590a11",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "YouTube is down worldwide with playback error",
-      "link": "https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/",
-      "summary": "YouTube is currently facing a global outage, with users reporting playback errors on both the website and mobile apps. [...]",
-      "published": "2025-10-16 00:09:53",
-      "timestamp": 1760573393
-    },
-    {
       "id": "a17f421ec25d30b4711b731470ecbf49f5b26d90",
       "source": "The Hacker News",
       "source_category": "General",
@@ -402,7 +432,7 @@
       "timestamp": 1760460900
     },
     {
-      "id": "65929a900c175f8d739c0040ea99892b3d48a401",
+      "id": "313a0e64ca4d159f0831176fd1e6d3b85a29f988",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
@@ -802,26 +832,6 @@
       "timestamp": 1759941780
     },
     {
-      "id": "f8298f5d216b159e9c1bf6645a6f4eecc0957438",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
-      "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
-      "summary": "Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets. The activity, observed by cybersecurity company Huntress in August 2025, is characterized by the use of an unusual technique called log poisoning (aka log injection) to plant a web shell on a web",
-      "published": "2025-10-08 13:56:00",
-      "timestamp": 1759931760
-    },
-    {
-      "id": "8b595b387bacdc64a19aeac8bdd95301befdb9ce",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Step Into the Password Graveyard\u2026 If You Dare (and Join the Live Session)",
-      "link": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
-      "summary": "Every year, weak passwords lead to millions in losses \u2014 and many of those breaches could have been stopped. Attackers don\u2019t need advanced tools; they just need one careless login. For IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak. This Halloween, The Hacker News and Specops Software invite you to a live webinar: \u201c",
-      "published": "2025-10-08 12:08:00",
-      "timestamp": 1759925280
-    },
-    {
       "id": "4af14eaf6ccd977eb6dcd819303ccb750fe3b7a2",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -842,7 +852,7 @@
       "timestamp": 1759856400
     },
     {
-      "id": "29ba41070fcde2594edbcef9091829b62117fe9f",
+      "id": "11c016eadf9991ff7a8360cd2ceb9ca88944b5d2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security",
@@ -1190,16 +1200,6 @@
       "summary": "Written by: Rommel Joven, Josh Fleischer, Joseph Sciuto, Andi Slok, Choon Kiat Ng Update (September 3): This post was updated to include information about GoTokenTheft usage. In a recent investigation, Mandiant Threat Defense discovered an active ViewState deserialization attack affecting Sitecore deployments leveraging a sample machine key that had been exposed in Sitecore deployment guides from 2017 and earlier. An attacker leveraged the exposed ASP.NET machine key to perform remote code execu",
       "published": "2025-09-03 14:00:00",
       "timestamp": 1756908000
-    },
-    {
-      "id": "7d62849858c84009044be7a0ed2d1e94de5b2a02",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "summary": "The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warns the breach goes far beyond access to Salesforce data, noting the hackers responsible also stole valid authentication tokens for hundreds of online services that customers can integrate with Salesloft, ",
-      "published": "2025-09-01 21:55:04",
-      "timestamp": 1756763704
     },
     {
       "id": "57b99892ad337350a711786494a0c98e9dd0b4c6",
