@@ -1,13 +1,83 @@
 {
-  "generated_at": 1760962656,
+  "generated_at": 1760972989,
   "items": [
+    {
+      "id": "c66426553654024baec1205991913630079ecadd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft warns of Windows smart card auth issues after October updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
+      "summary": "Microsoft says the October 2025 Windows security updates are causing smart card authentication and certificate issues due to a change designed to strengthen the Windows Cryptographic Services. [...]",
+      "published": "2025-10-20 14:21:54",
+      "timestamp": 1760970114
+    },
+    {
+      "id": "bd1d419d4c5b6d2e8e06034e630a9e23025576e5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Find hidden malicious OAuth apps in Microsoft 365 using Cazadora",
+      "link": "https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/",
+      "summary": "Malicious OAuth apps can hide inside Microsoft 365 tenants. Huntress Labs' Cazadora script helps uncover rogue apps before they lead to a breach. Dive deeper in their Tradecraft Tuesday sessions. [...]",
+      "published": "2025-10-20 14:00:10",
+      "timestamp": 1760968810
+    },
+    {
+      "id": "ec2672aa02a0a262dd4625f7d18974abe76468be",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "To Be (A Robot) or Not to Be: New Malware Attributed to Russia State-Sponsored COLDRIVER",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/",
+      "summary": "Written by: Wesley Shields Introduction COLDRIVER, a Russian state-sponsored threat group known for targeting high profile individuals in NGOs, policy advisors and dissidents, swiftly shifted operations after the May 2025 public disclosure of its LOSTKEYS malware, operationalizing new malware families five days later. It is unclear how long COLDRIVER had this malware in development, but GTIG has not observed a single instance of LOSTKEYS since publication. Instead, GTIG has seen new malware used",
+      "published": "2025-10-20 14:00:00",
+      "timestamp": 1760968800
+    },
+    {
+      "id": "a3ff0a77f5ddf9ee532a01edece5b7be89abe2c5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
+      "link": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
+      "summary": "It\u2019s easy to think your defenses are solid \u2014 until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn\u2019t just patching fast, but watching smarter and staying alert for what you don\u2019t expect. Here\u2019s a quick look at this week\u2019s top threats, new tactics, and security stories shaping",
+      "published": "2025-10-20 12:27:00",
+      "timestamp": 1760963220
+    },
+    {
+      "id": "9e9d1bdaf0402825db509c4ea87a2e20d5949574",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/20/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-48503 Apple Multiple Products Unspecified Vulnerability CVE-2025-2746 Kentico Xperience Staging Sync Server Digest Password Authentication Bypass Vulnerability CVE-2025-2747 Kentico Xperience Staging Sync Server None Password Type Authentication Bypass Vulnerability CVE-2025-33073 Microsoft Windows SMB Client Improper Access Control Vulnerability CVE-20",
+      "published": "2025-10-20 12:00:00",
+      "timestamp": 1760961600
+    },
+    {
+      "id": "6180cea7b711ace37becbda64e94bac82773e8f0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
+      "link": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
+      "summary": "ClickFix, FileFix, fake CAPTCHA \u2014 whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches. ClickFix attacks prompt the user to solve some kind of problem or challenge in the browser \u2014 most commonly a CAPTCHA, but also things like fixing an error on a webpage. The name is a little misleading, though",
+      "published": "2025-10-20 11:55:00",
+      "timestamp": 1760961300
+    },
+    {
+      "id": "f2d1e62ee19eacf417d805e8b31eff267cc28af1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign",
+      "link": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
+      "summary": "Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale. The 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users. \"",
+      "published": "2025-10-20 10:47:00",
+      "timestamp": 1760957220
+    },
     {
       "id": "c63849ffd2351f722d3308db1a7a4d43fbe3203d",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more",
+      "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
       "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/",
-      "summary": "AWS outage has taken down millions of websites, including Amazon.com, PrimeVideo, Perplexity AI, Canva and more. [...]",
+      "summary": "AWS outage has taken down millions of websites, including Amazon.com, Prime Video, Perplexity AI, Canva and more. [...]",
       "published": "2025-10-20 08:24:25",
       "timestamp": 1760948665
     },
@@ -142,26 +212,6 @@
       "timestamp": 1760715349
     },
     {
-      "id": "c64b4d64eef263f9cd00c01d2c06bb728d6ce289",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "VMware Certification: Your Next Career Power Move",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-certification-your-next-career-power-move/",
-      "summary": "VMware certification isn't just about passing exams \u2014 it's about mastering systems, proving expertise, and your career. Gain hands-on labs, discounts, and mentorship with VMUG Advantage to reach your next goal faster. [...]",
-      "published": "2025-10-17 14:02:12",
-      "timestamp": 1760709732
-    },
-    {
-      "id": "f603f6c38f325001b346007ee1c63eff2311629c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Windows bug breaking localhost HTTP connections",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/",
-      "summary": "Microsoft has fixed a known issue breaking HTTP/2 localhost (127.0.0.1) connections and IIS websites after installing recent Windows security updates. [...]",
-      "published": "2025-10-17 13:58:27",
-      "timestamp": 1760709507
-    },
-    {
       "id": "3ad899b94d27a2ad23417aea7258b7f08a379c64",
       "source": "The Hacker News",
       "source_category": "General",
@@ -170,16 +220,6 @@
       "summary": "The North Korean threat actor linked to the Contagious Interview campaign has been observed merging some of the functionality of two of its malware programs, indicating that the hacking group is actively refining its toolset. That's according to new findings from Cisco Talos, which said recent campaigns undertaken by the hacking group have seen the functions of BeaverTail and OtterCookie coming",
       "published": "2025-10-17 13:33:00",
       "timestamp": 1760707980
-    },
-    {
-      "id": "2c76095a5188d3ced32261c607b674629b6b9df6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
-      "summary": "Internet security nonprofit Shadowserver Foundation has found more than 266,000 F5 BIG-IP instances exposed online after the security breach disclosed by cybersecurity company F5 this week. [...]",
-      "published": "2025-10-17 12:16:23",
-      "timestamp": 1760703383
     },
     {
       "id": "8f4ddeee4b512f268a8214c2416c17f775dd2012",
@@ -392,22 +432,22 @@
       "timestamp": 1760537760
     },
     {
-      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
-    },
-    {
       "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
       "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
+      "published": "2025-10-15 12:00:00",
+      "timestamp": 1760529600
+    },
+    {
+      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
       "published": "2025-10-15 12:00:00",
       "timestamp": 1760529600
     },
@@ -752,16 +792,6 @@
       "timestamp": 1760078460
     },
     {
-      "id": "0cee9d9f512194c93702327f052298f72db6b8ae",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
-      "link": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
-      "summary": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL. \"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely",
-      "published": "2025-10-09 17:19:00",
-      "timestamp": 1760030340
-    },
-    {
       "id": "a48e1ea19d88bf4f73783cbcef53ff7f0c0f73ce",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -770,16 +800,6 @@
       "summary": "\u200bSecurity is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. The post Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog appeared first on Microsoft Security Blog.",
       "published": "2025-10-09 16:00:00",
       "timestamp": 1760025600
-    },
-    {
-      "id": "ab6855b39c98fbcf6798ed7772515cc97bb2b5eb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New ClayRat Spyware Targets Android Users via Fake WhatsApp and TikTok Apps",
-      "link": "https://thehackernews.com/2025/10/new-clayrat-spyware-targets-android.html",
-      "summary": "A rapidly evolving Android spyware campaign called ClayRat has targeted users in Russia using a mix of Telegram channels and lookalike phishing websites by impersonating popular apps like WhatsApp, Google Photos, TikTok, and YouTube as lures to install them. \"Once active, the spyware can exfiltrate SMS messages, call logs, notifications, and device information; taking photos with the front",
-      "published": "2025-10-09 15:30:00",
-      "timestamp": 1760023800
     },
     {
       "id": "14c3372eb7a78dbb631641c5c9624fff64e693e3",
@@ -802,14 +822,14 @@
       "timestamp": 1760018400
     },
     {
-      "id": "c6ced4562259acfccded5ef9c87d96acbe6ed30d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
-      "link": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
-      "summary": "SonicWall on Wednesday disclosed that an unauthorized party accessed firewall configuration backup files for all customers who have used the cloud backup service. \"The files contain encrypted credentials and configuration data; while encryption remains in place, possession of these files could increase the risk of targeted attacks,\" the company said. It also noted that it's working to notify all",
-      "published": "2025-10-09 13:48:00",
-      "timestamp": 1760017680
+      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
+      "published": "2025-10-09 12:00:00",
+      "timestamp": 1760011200
     },
     {
       "id": "6cda9edff6de4352fc2eb00fc7afb48fc7134c8f",
@@ -818,16 +838,6 @@
       "title": "CISA Releases Four Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
       "summary": "CISA released four Industrial Control Systems (ICS) Advisories on October 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-282-01 Hitachi Energy Asset Suite ICSA-25-282-02 Rockwell Automation Lifecycle Services with Cisco ICSA-25-282-03 Rockwell Automation Stratix ICSA-25-128-03 Mitsubishi Electric Multiple FA Products (Update A) CISA encourages users and administrators to review newly released ICS Advisori",
-      "published": "2025-10-09 12:00:00",
-      "timestamp": 1760011200
-    },
-    {
-      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
       "published": "2025-10-09 12:00:00",
       "timestamp": 1760011200
     },
@@ -862,22 +872,22 @@
       "timestamp": 1759852800
     },
     {
-      "id": "3cc087876b66807cd40729bf20df16210d94ec73",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-27915 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
-      "published": "2025-10-07 12:00:00",
-      "timestamp": 1759838400
-    },
-    {
       "id": "e01278297fcc6d900f51de67731851975553e462",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Two Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-releases-two-industrial-control-systems-advisories",
       "summary": "CISA released two Industrial Control Systems (ICS) advisories on October 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-280-01 Delta Electronics DIAScreen ICSA-25-226-31 Rockwell Automation 1756-EN4TR, 1756-EN4TRXT (Update B) CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+      "published": "2025-10-07 12:00:00",
+      "timestamp": 1759838400
+    },
+    {
+      "id": "3cc087876b66807cd40729bf20df16210d94ec73",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-27915 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
       "published": "2025-10-07 12:00:00",
       "timestamp": 1759838400
     },
@@ -942,12 +952,12 @@
       "timestamp": 1759233600
     },
     {
-      "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
+      "id": "14883688993f3a148849a65de3f139c4b3bca1e9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
-      "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
+      "title": "CISA Strengthens Commitment to SLTT Governments",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-strengthens-commitment-sltt-governments",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced that it has transitioned to a new model to better equip state, local, tribal, and territorial (SLTT) governments to strengthen shared responsibility nationwide. CISA is supporting our SLTT partners with access to grant funding, no-cost tools, and cybersecurity expertise to be resilient and lead at the local level. CISA\u2019s cooperative agreement with the Center for Internet Security (CIS) will reach its planned end on September 3",
       "published": "2025-09-29 12:00:00",
       "timestamp": 1759147200
     },
@@ -962,12 +972,12 @@
       "timestamp": 1759147200
     },
     {
-      "id": "14883688993f3a148849a65de3f139c4b3bca1e9",
+      "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Strengthens Commitment to SLTT Governments",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-strengthens-commitment-sltt-governments",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced that it has transitioned to a new model to better equip state, local, tribal, and territorial (SLTT) governments to strengthen shared responsibility nationwide. CISA is supporting our SLTT partners with access to grant funding, no-cost tools, and cybersecurity expertise to be resilient and lead at the local level. CISA\u2019s cooperative agreement with the Center for Internet Security (CIS) will reach its planned end on September 3",
+      "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
+      "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
       "published": "2025-09-29 12:00:00",
       "timestamp": 1759147200
     },
@@ -1182,16 +1192,6 @@
       "timestamp": 1757129015
     },
     {
-      "id": "d041853ebd227b6092c34f28cd39967457d7808e",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Five Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-releases-five-industrial-control-systems-advisories",
-      "summary": "CISA released five Industrial Control Systems (ICS) advisories on September 4, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-247-01 Honeywell OneWireless Wireless Device Manager (WDM) ICSA-25-217-01 Mitsubishi Electric Iconics Digital Solutions Multiple Products (Update A) ICSA-25-105-07 Delta Electronics COMMGR (Update A) ICSA-25-205-03 Honeywell Experion PKS (Update A) ICSA-25-191-10 End-of-Train and Head",
-      "published": "2025-09-04 12:00:00",
-      "timestamp": 1756987200
-    },
-    {
       "id": "9f9692e97cee9f6aaf61ced8322cdd8c7d0dec35",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1360,16 +1360,6 @@
       "summary": "Written by: Patrick Whitsell Google Threat Intelligence Group\u2019s (GTIG) mission is to protect Google\u2019s billions of users and Google\u2019s multitude of products and services. In late October 2024, GTIG discovered an exploited government website hosting malware being used to target multiple other government entities. The exploited site delivered a malware payload, which we have dubbed \u201cTOUGHPROGRESS\u201d, that took advantage of Google Calendar for command and control (C2). Misuse of cloud services for C2 i",
       "published": "2025-05-28 14:00:00",
       "timestamp": 1748440800
-    },
-    {
-      "id": "23726fb71cc95c7b3bac521a23a2f78502081418",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Text-to-Malware: How Cybercriminals Weaponize Fake AI-Themed Websites",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/cybercriminals-weaponize-fake-ai-websites/",
-      "summary": "Written by: Diana Ion, Rommel Joven, Yash Gupta Since November 2024, Mandiant Threat Defense has been investigating an UNC6032 campaign that weaponizes the interest around AI tools, in particular those tools which can be used to generate videos based on user prompts. UNC6032 utilizes fake \u201cAI video generator\u201d websites to distribute malware leading to the deployment of payloads such as Python-based infostealers and several backdoors. Victims are typically directed to these fake websites via malic",
-      "published": "2025-05-27 05:00:00",
-      "timestamp": 1748322000
     },
     {
       "id": "f0fec0ab26be60ed5761ca34a6dd618d377af4b5",
