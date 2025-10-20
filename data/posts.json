@@ -1,6 +1,56 @@
 {
-  "generated_at": 1760972989,
+  "generated_at": 1760984047,
   "items": [
+    {
+      "id": "6ac40923f0e9908ad2887061db98d6bdfd160ce9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 75,000 WatchGuard security devices vulnerable to critical RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/",
+      "summary": "Nearly 76,000 WatchGuard Firebox network security appliances are exposed on the public web and still vulnerable to a critical issue (CVE-2025-9242) that could allow a remote attacker to execute code without authentication. [...]",
+      "published": "2025-10-20 17:42:08",
+      "timestamp": 1760982128
+    },
+    {
+      "id": "2fb1e5b932174fa0ddf390a5c11756ef17493937",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
+      "summary": "CISA says threat actors are now actively exploiting a high-severity Windows SMB privilege escalation vulnerability that can let them gain SYSTEM privileges on unpatched systems. [...]",
+      "published": "2025-10-20 17:18:16",
+      "timestamp": 1760980696
+    },
+    {
+      "id": "0c2f30fbeb357f76ee2c8dc6265ee7540a8b0224",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries",
+      "link": "https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/",
+      "summary": "A new and ongoing supply-chain attack is targeting developers on the OpenVSX and Microsoft Visual Studio marketplaces with self-spreading malware called GlassWorm that has been installed an estimated 35,800 times. [...]",
+      "published": "2025-10-20 16:13:20",
+      "timestamp": 1760976800
+    },
+    {
+      "id": "6d5d2289ad2e7c2f9a5919952bd352a09ad46c66",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/20/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/",
+      "summary": "Azure Blob Storage is a high-value target for threat actors due to its critical role in storing and managing massive amounts of unstructured data at scale across diverse workloads and is increasingly targeted through sophisticated attack chains that exploit misconfigurations, exposed credentials, and evolving cloud tactics. The post Inside the attack chain: Threat activity targeting Azure Blob Storage appeared first on Microsoft Security Blog.",
+      "published": "2025-10-20 16:00:00",
+      "timestamp": 1760976000
+    },
+    {
+      "id": "593d43e5381e8f50ffedb6930088d22de7e96bc5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes Windows Server Active Directory sync issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/",
+      "summary": "Microsoft is rolling out a fix for Active Directory issues affecting some Windows Server 2025 systems after installing security updates released since September. [...]",
+      "published": "2025-10-20 15:58:21",
+      "timestamp": 1760975901
+    },
     {
       "id": "c66426553654024baec1205991913630079ecadd",
       "source": "BleepingComputer",
@@ -72,11 +122,11 @@
       "timestamp": 1760957220
     },
     {
-      "id": "c63849ffd2351f722d3308db1a7a4d43fbe3203d",
+      "id": "02822228cd2184e76a77de7f50492b329e63b840",
       "source": "BleepingComputer",
       "source_category": "General",
       "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
-      "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/",
+      "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-prime-video-fortnite-perplexity-and-more/",
       "summary": "AWS outage has taken down millions of websites, including Amazon.com, Prime Video, Perplexity AI, Canva and more. [...]",
       "published": "2025-10-20 08:24:25",
       "timestamp": 1760948665
@@ -170,46 +220,6 @@
       "summary": "ConnectWise released a security update to address vulnerabilities, one of them with critical severity, in Automate product that could expose sensitive communications to interception and modification. [...]",
       "published": "2025-10-17 19:29:22",
       "timestamp": 1760729362
-    },
-    {
-      "id": "00d451d0717bafd83086e8b4c44539cceb63cae8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "American Airlines subsidiary Envoy confirms Oracle data theft attack",
-      "link": "https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/",
-      "summary": "Envoy Air, a regional airline carrier owned by American Airlines, confirms that data was compromised from its Oracle E-Business Suite application after the Clop extortion gang listed American Airlines on its data leak site. [...]",
-      "published": "2025-10-17 19:11:52",
-      "timestamp": 1760728312
-    },
-    {
-      "id": "d1af5f6340f45d435c2ba33d7ee65bdd3b844d25",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft lifts more safeguard holds blocking Windows 11 updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/",
-      "summary": "Microsoft has removed two more compatibility holds preventing customers from installing Windows 11 24H2 via Windows Update. [...]",
-      "published": "2025-10-17 17:22:16",
-      "timestamp": 1760721736
-    },
-    {
-      "id": "5ca46723ba0306fb1729a01974d0d11ccbaf2994",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Europol dismantles SIM box operation renting numbers for cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/",
-      "summary": "European law enforcement in an operation codenamed 'SIMCARTEL' has dismantled an illegal SIM-box service that enabled more than 3,200 fraud cases and caused at least 4.5 million euros in losses. [...]",
-      "published": "2025-10-17 17:01:51",
-      "timestamp": 1760720511
-    },
-    {
-      "id": "152d7b7767d6db3c7a86c2d015a76814224e7043",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes highest-severity ASP.NET Core flaw ever",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/",
-      "summary": "Earlier this week, Microsoft patched a vulnerability that was flagged with the \"highest ever\" severity rating received by an ASP.NET Core security flaw. [...]",
-      "published": "2025-10-17 15:35:49",
-      "timestamp": 1760715349
     },
     {
       "id": "3ad899b94d27a2ad23417aea7258b7f08a379c64",
@@ -817,7 +827,7 @@
       "source_category": "Threat Intel",
       "title": "Oracle E-Business Suite Zero-Day Exploited in Widespread Extortion Campaign",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/oracle-ebusiness-suite-zero-day-exploitation/",
-      "summary": "Written by: Peter Ukhanov, Genevieve Stark, Zander Work, Ashley Pearson, Josh Murchie, Austin Larsen Update (Oct. 15) Added new information for CVE-2025-61844. Introduction Beginning Sept. 29, 2025, Google Threat Intelligence Group (GTIG) and Mandiant began tracking a new, large-scale extortion campaign by a threat actor claiming affiliation with the CL0P extortion brand. The actor began sending a high volume of emails to executives at numerous organizations, alleging the theft of sensitive data",
+      "summary": "Written by: Peter Ukhanov, Genevieve Stark, Zander Work, Ashley Pearson, Josh Murchie, Austin Larsen Update (Oct. 11): On Oct. 11, Oracle released another patch, addressing CVE-2025-61884. Introduction Beginning Sept. 29, 2025, Google Threat Intelligence Group (GTIG) and Mandiant began tracking a new, large-scale extortion campaign by a threat actor claiming affiliation with the CL0P extortion brand. The actor began sending a high volume of emails to executives at numerous organizations, allegin",
       "published": "2025-10-09 14:00:00",
       "timestamp": 1760018400
     },
@@ -890,16 +900,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-27915 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
       "published": "2025-10-07 12:00:00",
       "timestamp": 1759838400
-    },
-    {
-      "id": "442e375c3c979f46f1824f9b734d1e9707469ed7",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Inside Microsoft Threat Intelligence: Calm in the chaos",
-      "link": "https://www.microsoft.com/en-us/security/security-insider/threat-landscape/inside-microsoft-threat-intelligence-calm-in-chaos#overview-video",
-      "summary": "Incident response is never orderly. Threat actors don\u2019t wait. Environments are compromised. Data is missing. Confidence is shaken. But for Microsoft\u2019s Incident Response (IR) team, that chaos is exactly where the work begins. The post Inside Microsoft Threat Intelligence: Calm in the chaos appeared first on Microsoft Security Blog.",
-      "published": "2025-10-06 21:00:00",
-      "timestamp": 1759784400
     },
     {
       "id": "cac29dcb4e0e161d8495b9bc5b5a8812155eaf16",
