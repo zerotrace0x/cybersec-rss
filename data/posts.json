@@ -1,6 +1,46 @@
 {
-  "generated_at": 1761027279,
+  "generated_at": 1761037836,
   "items": [
+    {
+      "id": "56051286ef8714ffcf364ebd91518d2117fdde7f",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Pro-Russia Information Operations Leverage Russian Drone Incursions into Polish Airspace",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-information-operations-drone-incursions/",
+      "summary": "Written by: Alden Wahlstrom, David Mainor Introduction Google Threat Intelligence Group (GTIG) observed multiple instances of pro-Russia information operations (IO) actors promoting narratives related to the reported incursion of Russian drones into Polish airspace that occurred on Sept. 9-10, 2025. The identified IO activity, which mobilized in response to this event and the ensuing political and security developments, appeared consistent with previously observed instances of pro-Russia IO targ",
+      "published": "2025-10-21 14:00:00",
+      "timestamp": 1761055200
+    },
+    {
+      "id": "352e02531d7f7ff90c7e6167613a9bdbffb3c78a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 KB5070773 emergency update fixes Windows Recovery issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/",
+      "summary": "Microsoft has released an emergency update to fix the Windows Recovery Environment (WinRE), which became unusable on systems with USB mice and keyboards after installing the October 2025 security updates. [...]",
+      "published": "2025-10-21 09:01:44",
+      "timestamp": 1761037304
+    },
+    {
+      "id": "9943ef4ab8452f78fb3c141d084286a9f92c1b54",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers",
+      "link": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
+      "summary": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor. The findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following",
+      "published": "2025-10-21 07:29:00",
+      "timestamp": 1761031740
+    },
+    {
+      "id": "8cf1742878b6d5f023344a8ce40fa44642adc6d9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network",
+      "link": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
+      "summary": "A European telecommunications organization is said to have been targeted by a threat actor that aligns with a China-nexus cyber espionage group known as Salt Typhoon. The organization, per Darktrace, was targeted in the first week of July 2025, with the attackers exploiting a Citrix NetScaler Gateway appliance to obtain initial access. Salt Typhoon, also known as Earth Estries, FamousSparrow,",
+      "published": "2025-10-21 07:23:00",
+      "timestamp": 1761031380
+    },
     {
       "id": "7778ee3ba9c787d2f6cc7ab42dc6071e32db1dca",
       "source": "BleepingComputer",
@@ -210,16 +250,6 @@
       "summary": "Europol on Friday announced the disruption of a sophisticated cybercrime-as-a-service (CaaS) platform that operated a SIM farm and enabled its customers to carry out a broad spectrum of crimes ranging from phishing to investment fraud. The coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of",
       "published": "2025-10-19 06:13:00",
       "timestamp": 1760854380
-    },
-    {
-      "id": "0422e408b23f39e63affe90e5d5a385cb3b8ada2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI confirms GPT-6 is not shipping in 2025",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/",
-      "summary": "OpenAI is not planning to ship GPT-6 this year, but that doesn't necessarily mean the company will not release new models. [...]",
-      "published": "2025-10-18 21:51:29",
-      "timestamp": 1760824289
     },
     {
       "id": "6a93fe3d5d8a114effb6cbca7088eb749f210352",
@@ -792,26 +822,6 @@
       "timestamp": 1760094000
     },
     {
-      "id": "9eef3a69bb2ae3cab13036158053a9aea77d1fe6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
-      "link": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
-      "summary": "Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign. The packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy",
-      "published": "2025-10-10 10:45:00",
-      "timestamp": 1760093100
-    },
-    {
-      "id": "dfe9e368f2b0aad7c51c12efc9a4b5c92c3c6e58",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
-      "link": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
-      "summary": "Cybersecurity company Huntress said it has observed active in-the-wild exploitation of an unpatched security flaw impacting Gladinet CentreStack and TrioFox products. The zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an unauthenticated local file inclusion bug that allows unintended disclosure of system files. It impacts all versions of the software prior to and",
-      "published": "2025-10-10 09:34:00",
-      "timestamp": 1760088840
-    },
-    {
       "id": "a48e1ea19d88bf4f73783cbcef53ff7f0c0f73ce",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1360,16 +1370,6 @@
       "summary": "Posted by Mateusz Jurczyk, Google Project Zero In the previous blog post, we focused on the general security analysis of the registry and how to effectively approach finding vulnerabilities in it. Here, we will direct our attention to the exploitation of hive-based memory corruption bugs, i.e., those that allow an attacker to overwrite data within an active hive mapping in memory. This is a class of issues characteristic of the Windows registry, but universal enough that the techniques described",
       "published": "2025-05-28 18:09:00",
       "timestamp": 1748455740
-    },
-    {
-      "id": "bd6a5f8a6cbb77ec77143aa214844a18ede67fb5",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Mark Your Calendar: APT41 Innovative Tactics",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/apt41-innovative-tactics/",
-      "summary": "Written by: Patrick Whitsell Google Threat Intelligence Group\u2019s (GTIG) mission is to protect Google\u2019s billions of users and Google\u2019s multitude of products and services. In late October 2024, GTIG discovered an exploited government website hosting malware being used to target multiple other government entities. The exploited site delivered a malware payload, which we have dubbed \u201cTOUGHPROGRESS\u201d, that took advantage of Google Calendar for command and control (C2). Misuse of cloud services for C2 i",
-      "published": "2025-05-28 14:00:00",
-      "timestamp": 1748440800
     },
     {
       "id": "f0fec0ab26be60ed5761ca34a6dd618d377af4b5",
