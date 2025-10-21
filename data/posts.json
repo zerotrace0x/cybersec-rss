@@ -1,6 +1,46 @@
 {
-  "generated_at": 1761059441,
+  "generated_at": 1761070297,
   "items": [
+    {
+      "id": "dcfc3aa861ca2a646edf991b53c072dda0a35939",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit 34 zero-days on first day of Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-34-zero-days-on-first-day-of-pwn2own-ireland/",
+      "summary": "On the first day of Pwn2Own Ireland 2025, security researchers exploited 34 unique zero-days and collected $522,500 in cash awards. [...]",
+      "published": "2025-10-21 17:39:40",
+      "timestamp": 1761068380
+    },
+    {
+      "id": "0f084d309c24b448834f24d520599859fa399fb8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Recent Windows updates cause login issues on some PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-login-issues-on-pcs-sharing-security-ids/",
+      "summary": "Microsoft has confirmed that Windows updates released since August 29, 2025, are breaking authentication on systems sharing Security Identifiers. [...]",
+      "published": "2025-10-21 16:56:36",
+      "timestamp": 1761065796
+    },
+    {
+      "id": "2cc71231a0ccc6e1b83e38f3a0e547d8c76277b6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian hackers evolve malware pushed in \"I am not a robot\" captchas",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/",
+      "summary": "The Russian state-backed Star Blizzard hacker group has ramped up operations with new, constantly evolving malware families (NoRobot, MaybeRobot) deployed in complex delivery chains that start with ClickFix social engineering attacks. [...]",
+      "published": "2025-10-21 15:13:19",
+      "timestamp": 1761059599
+    },
+    {
+      "id": "3606cf12683923bed553b9bed3838679766ca99b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
+      "link": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
+      "summary": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams. To that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes. On Messenger, users can opt to",
+      "published": "2025-10-21 15:03:00",
+      "timestamp": 1761058980
+    },
     {
       "id": "f593b73add7335c403360ea6a48d3b409c8a4f8a",
       "source": "BleepingComputer",
@@ -22,6 +62,16 @@
       "timestamp": 1761055200
     },
     {
+      "id": "f126e0f099da62dcd9994ccd36c363fad8e9cff4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign",
+      "link": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
+      "summary": "Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge. PolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose. The TLS-based ELF implant, at its core, is designed to monitor",
+      "published": "2025-10-21 13:47:00",
+      "timestamp": 1761054420
+    },
+    {
       "id": "c9b8154ab4ecc5cf785e424f4f657e6e02347f1f",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -30,6 +80,16 @@
       "summary": "Microsoft has fixed a major bug preventing Microsoft 365 users from launching the classic Outlook email client on Windows systems. [...]",
       "published": "2025-10-21 12:59:48",
       "timestamp": 1761051588
+    },
+    {
+      "id": "a1695cffedc7ef367d89edddf110e87d666cadd6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases 10 Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/21/cisa-releases-10-industrial-control-systems-advisories",
+      "summary": "CISA released 10 Industrial Control Systems (ICS) advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-294-01 Rockwell Automation 1783-NATR ICSA-25-294-02 Rockwell Automation Compact GuardLogix 5370 ICSA-25-294-03 Siemens SIMATIC S7-1200 CPU V1/V2 Devices ICSA-25-294-04 Siemens RUGGEDCOM ROS Devices ICSA-25-294-05 CloudEdge Online Cameras and App ICSA-25-294-06 Raisecomm RAX701-GC Series ICSMA-25-294-01 Oxfo",
+      "published": "2025-10-21 12:00:00",
+      "timestamp": 1761048000
     },
     {
       "id": "c3066ae4b1c696249300a4005e97e222d01dffc5",
@@ -172,16 +232,6 @@
       "timestamp": 1760970114
     },
     {
-      "id": "bd1d419d4c5b6d2e8e06034e630a9e23025576e5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Find hidden malicious OAuth apps in Microsoft 365 using Cazadora",
-      "link": "https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/",
-      "summary": "Malicious OAuth apps can hide inside Microsoft 365 tenants. Huntress Labs' Cazadora script helps uncover rogue apps before they lead to a breach. Dive deeper in their Tradecraft Tuesday sessions. [...]",
-      "published": "2025-10-20 14:00:10",
-      "timestamp": 1760968810
-    },
-    {
       "id": "ec2672aa02a0a262dd4625f7d18974abe76468be",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -230,16 +280,6 @@
       "summary": "Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale. The 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users. \"",
       "published": "2025-10-20 10:47:00",
       "timestamp": 1760957220
-    },
-    {
-      "id": "02822228cd2184e76a77de7f50492b329e63b840",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
-      "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-prime-video-fortnite-perplexity-and-more/",
-      "summary": "AWS outage has taken down millions of websites, including Amazon.com, Prime Video, Perplexity AI, Canva and more. [...]",
-      "published": "2025-10-20 08:24:25",
-      "timestamp": 1760948665
     },
     {
       "id": "2962b39db1f6c2bb239c6f7a5a977e31b6197c86",
@@ -802,26 +842,6 @@
       "timestamp": 1760106300
     },
     {
-      "id": "0ccba0316e601dff1b969efeb3ee5e9747720a60",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Warns of \u2018Payroll Pirates\u2019 Hijacking HR SaaS Accounts to Steal Employee Salaries",
-      "link": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
-      "summary": "A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts. \"Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,\" the",
-      "published": "2025-10-10 13:31:00",
-      "timestamp": 1760103060
-    },
-    {
-      "id": "f787e0d3a54268af64e6aced718d4aa5d40fa0ad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
-      "link": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
-      "summary": "Fortra on Thursday revealed the results of its investigation into CVE-2025-10035, a critical security flaw in GoAnywhere Managed File Transfer (MFT) that's assessed to have come under active exploitation since at least September 11, 2025. The company said it began its investigation on September 11 following a \"potential vulnerability\" reported by a customer, uncovering \"potentially suspicious",
-      "published": "2025-10-10 11:42:00",
-      "timestamp": 1760096520
-    },
-    {
       "id": "a48e1ea19d88bf4f73783cbcef53ff7f0c0f73ce",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -852,22 +872,22 @@
       "timestamp": 1760018400
     },
     {
-      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
-      "published": "2025-10-09 12:00:00",
-      "timestamp": 1760011200
-    },
-    {
       "id": "6cda9edff6de4352fc2eb00fc7afb48fc7134c8f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Four Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
       "summary": "CISA released four Industrial Control Systems (ICS) Advisories on October 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-282-01 Hitachi Energy Asset Suite ICSA-25-282-02 Rockwell Automation Lifecycle Services with Cisco ICSA-25-282-03 Rockwell Automation Stratix ICSA-25-128-03 Mitsubishi Electric Multiple FA Products (Update A) CISA encourages users and administrators to review newly released ICS Advisori",
+      "published": "2025-10-09 12:00:00",
+      "timestamp": 1760011200
+    },
+    {
+      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
       "published": "2025-10-09 12:00:00",
       "timestamp": 1760011200
     },
@@ -972,6 +992,16 @@
       "timestamp": 1759233600
     },
     {
+      "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
+      "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
+      "published": "2025-09-29 12:00:00",
+      "timestamp": 1759147200
+    },
+    {
       "id": "14883688993f3a148849a65de3f139c4b3bca1e9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -988,16 +1018,6 @@
       "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-adds-five-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-21311 Adminer Server-Side Request Forgery Vulnerability CVE-2025-20352 Cisco IOS and IOS XE Software SNMP Denial of Service and Remote Code Execution Vulnerability CVE-2025-10035 Fortra GoAnywhere MFT Deserialization of Untrusted Data Vulnerability CVE-2025-59689 Libraesva Email Security Gateway Command Injection Vulnerability CVE-2025-32463 Sudo Inclus",
-      "published": "2025-09-29 12:00:00",
-      "timestamp": 1759147200
-    },
-    {
-      "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
-      "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
       "published": "2025-09-29 12:00:00",
       "timestamp": 1759147200
     },
@@ -1052,16 +1072,6 @@
       "timestamp": 1758714511
     },
     {
-      "id": "8b807dd2da9f16b6038374cb6cc3d8a3d67e0dbc",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Advisory on Lessons Learned from an Incident Response Engagement",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-advisory-lessons-learned-incident-response-engagement",
-      "summary": "Today, CISA released a cybersecurity advisory detailing lessons learned from an incident response engagement following the detection of potential malicious activity identified through security alerts generated by the agency\u2019s endpoint detection and response tool. This advisory, CISA Shares Lessons Learned from an Incident Response Engagement, highlights takeaways that illuminate the urgent need for timely patching, comprehensive incident response planning, and proactive threat monitoring to miti",
-      "published": "2025-09-23 12:00:00",
-      "timestamp": 1758628800
-    },
-    {
       "id": "582052ca489eb4389e63b35ad9e1bbfe89967ced",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1088,6 +1098,16 @@
       "title": "CISA Releases Six Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-six-industrial-control-systems-advisories",
       "summary": "CISA released six Industrial Control Systems (ICS) advisories on September 23, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-266-01 AutomationDirect CLICK PLUS ICSA-25-266-02 Mitsubishi Electric MELSEC-Q Series CPU Module ICSA-25-266-03 Schneider Electric SESU ICSA-25-266-04 Viessmann Vitogate 300 ICSA-25-023-02 Hitachi Energy RTU500 Series Product (Update A) ICSA-25-093-01 Hitachi Energy RTU500 Series (Upd",
+      "published": "2025-09-23 12:00:00",
+      "timestamp": 1758628800
+    },
+    {
+      "id": "8b807dd2da9f16b6038374cb6cc3d8a3d67e0dbc",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Advisory on Lessons Learned from an Incident Response Engagement",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-advisory-lessons-learned-incident-response-engagement",
+      "summary": "Today, CISA released a cybersecurity advisory detailing lessons learned from an incident response engagement following the detection of potential malicious activity identified through security alerts generated by the agency\u2019s endpoint detection and response tool. This advisory, CISA Shares Lessons Learned from an Incident Response Engagement, highlights takeaways that illuminate the urgent need for timely patching, comprehensive incident response planning, and proactive threat monitoring to miti",
       "published": "2025-09-23 12:00:00",
       "timestamp": 1758628800
     },
@@ -1180,16 +1200,6 @@
       "summary": "Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known \"zero-day\" or actively exploited vulnerabilities in this month's bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft's most-dire \"critical\" label. Meanwhile, both Apple and Google recently released updates to fix zero-day bugs in their devices.",
       "published": "2025-09-09 21:21:14",
       "timestamp": 1757452874
-    },
-    {
-      "id": "b7aca9f81a96a61e8608e94aff9d4100cdb6a953",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Fourteen Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/09/cisa-releases-fourteen-industrial-control-systems-advisories",
-      "summary": "CISA released fourteen Industrial Control Systems (ICS) advisories on September 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-252-01 Rockwell Automation ThinManager ICSA-25-252-02 ABB Cylon Aspect BMS/BAS ICSA-25-252-03 Rockwell Automation Stratix IOS ICSA-25-252-04 Rockwell Automation FactoryTalk Optix ICSA-25-252-05 Rockwell Automation FactoryTalk Activation Manager ICSA-25-252-06 Rockwell Automation C",
-      "published": "2025-09-09 12:00:00",
-      "timestamp": 1757419200
     },
     {
       "id": "f1dd639fe3b5f5d8adba53e5405c61b33a954c21",
