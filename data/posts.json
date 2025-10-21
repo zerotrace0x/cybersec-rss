@@ -1,6 +1,26 @@
 {
-  "generated_at": 1761070297,
+  "generated_at": 1761080915,
   "items": [
+    {
+      "id": "be7a3a584f8ab9bdface44220f5f8a60f3502e8c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
+      "summary": "CISA has confirmed that an Oracle E-Business Suite flaw tracked as CVE-2025-61884 is being exploited in attacks, adding it to its Known Exploited Vulnerabilities catalog. [...]",
+      "published": "2025-10-21 19:15:34",
+      "timestamp": 1761074134
+    },
+    {
+      "id": "4fa0555be7ad30de333038b4174d4da092b57130",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cursor, Windsurf IDEs riddled with 94+ n-day Chromium vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/",
+      "summary": "The latest releases of Cursor and Windsurf integrated development environments are vulnerable to more than 94 known and patched security issues in the Chromium browser and the V8 JavaScript engine. [...]",
+      "published": "2025-10-21 19:00:00",
+      "timestamp": 1761073200
+    },
     {
       "id": "dcfc3aa861ca2a646edf991b53c072dda0a35939",
       "source": "BleepingComputer",
@@ -20,6 +40,16 @@
       "summary": "Microsoft has confirmed that Windows updates released since August 29, 2025, are breaking authentication on systems sharing Security Identifiers. [...]",
       "published": "2025-10-21 16:56:36",
       "timestamp": 1761065796
+    },
+    {
+      "id": "903f2dd69d3fcdb339ccd626dfc2c824c652d826",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The new Microsoft Security Store unites partners and\u00a0innovation",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/21/the-new-microsoft-security-store-unites-partners-and-innovation/",
+      "summary": "The Microsoft Security Store is the gateway for customers to easily discover, buy, and deploy trusted security solutions and AI agents from leading partners. The post The new Microsoft Security Store unites partners and innovation appeared first on Microsoft Security Blog.",
+      "published": "2025-10-21 16:00:00",
+      "timestamp": 1761062400
     },
     {
       "id": "2cc71231a0ccc6e1b83e38f3a0e547d8c76277b6",
@@ -192,16 +222,6 @@
       "timestamp": 1760980696
     },
     {
-      "id": "0c2f30fbeb357f76ee2c8dc6265ee7540a8b0224",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries",
-      "link": "https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/",
-      "summary": "A new and ongoing supply-chain attack is targeting developers on the OpenVSX and Microsoft Visual Studio marketplaces with self-spreading malware called GlassWorm that has been installed an estimated 35,800 times. [...]",
-      "published": "2025-10-20 16:13:20",
-      "timestamp": 1760976800
-    },
-    {
       "id": "6d5d2289ad2e7c2f9a5919952bd352a09ad46c66",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -210,26 +230,6 @@
       "summary": "Azure Blob Storage is a high-value target for threat actors due to its critical role in storing and managing massive amounts of unstructured data at scale across diverse workloads and is increasingly targeted through sophisticated attack chains that exploit misconfigurations, exposed credentials, and evolving cloud tactics. The post Inside the attack chain: Threat activity targeting Azure Blob Storage appeared first on Microsoft Security Blog.",
       "published": "2025-10-20 16:00:00",
       "timestamp": 1760976000
-    },
-    {
-      "id": "593d43e5381e8f50ffedb6930088d22de7e96bc5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Windows Server Active Directory sync issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/",
-      "summary": "Microsoft is rolling out a fix for Active Directory issues affecting some Windows Server 2025 systems after installing security updates released since September. [...]",
-      "published": "2025-10-20 15:58:21",
-      "timestamp": 1760975901
-    },
-    {
-      "id": "c66426553654024baec1205991913630079ecadd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft warns of Windows smart card auth issues after October updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
-      "summary": "Microsoft says the October 2025 Windows security updates are causing smart card authentication and certificate issues due to a change designed to strengthen the Windows Cryptographic Services. [...]",
-      "published": "2025-10-20 14:21:54",
-      "timestamp": 1760970114
     },
     {
       "id": "ec2672aa02a0a262dd4625f7d18974abe76468be",
@@ -910,16 +910,6 @@
       "summary": "Threat actors seek to abuse Microsoft Teams features and capabilities across the attack chain, underscoring the importance for defenders to proactively monitor, detect, and respond effectively. In this blog, we recommend countermeasures and optimal controls across identity, endpoints, data apps, and network layers to help strengthen protection for enterprise Teams users. The post Disrupting threats targeting Microsoft Teams appeared first on Microsoft Security Blog.",
       "published": "2025-10-07 17:00:00",
       "timestamp": 1759856400
-    },
-    {
-      "id": "29ba41070fcde2594edbcef9091829b62117fe9f",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "New Microsoft Secure Future Initiative (SFI) patterns and practices: Practical guides to strengthen security",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/07/new-microsoft-secure-future-initiative-sfi-patterns-and-practices-practical-guides-to-strengthen-security/",
-      "summary": "Microsoft Secure Future Initiative (SFI) patterns and practices are practical, actionable, insights from practitioners for practitioners based on Microsoft\u2019s implementation of Zero Trust through the Microsoft Secure Future Initiatives. By adopting these patterns, organizations can accelerate their security maturity, reduce implementation friction, and build systems that are more secure by design, default, and in operation. The post New Microsoft Secure Future Initiative (SFI) patterns and practi",
-      "published": "2025-10-07 16:00:00",
-      "timestamp": 1759852800
     },
     {
       "id": "e01278297fcc6d900f51de67731851975553e462",
