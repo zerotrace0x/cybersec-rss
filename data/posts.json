@@ -1,6 +1,26 @@
 {
-  "generated_at": 1761135489,
+  "generated_at": 1761145745,
   "items": [
+    {
+      "id": "9b4f438b98c12d5889a8bd433f374a7a41b8e5a6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "PhantomCaptcha ClickFix attack targets Ukraine war relief orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/",
+      "summary": "A spearphishing attack that lasted a single day targeted members of the Ukrainian regional government administration and organizations critical for the war relief effort in Ukraine, including the International Committee of the Red Cross, UNICEF, and various NGOs. [...]",
+      "published": "2025-10-22 13:37:17",
+      "timestamp": 1761140237
+    },
+    {
+      "id": "383ecc2408665483150fbe622aa76c11449bc063",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
+      "link": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
+      "summary": "Threat actors with ties to China exploited the ToolShell security vulnerability in Microsoft SharePoint to breach a telecommunications company in the Middle East after it was publicly disclosed and patched in July 2025. Also targeted were government departments in an African country, as well as government agencies in South America, a university in the U.S., as well as likely a state technology",
+      "published": "2025-10-22 12:56:00",
+      "timestamp": 1761137760
+    },
     {
       "id": "08cf2281813352cf0e60d0f0b45697717edf0a46",
       "source": "The Hacker News",
@@ -10,6 +30,16 @@
       "summary": "From Detection to Resolution: Why the Gap Persists A critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context. What\u2019s missing is a system of action. How do you transition from the",
       "published": "2025-10-22 11:55:00",
       "timestamp": 1761134100
+    },
+    {
+      "id": "fbc7241d1d4cc96d1e953aff892034ce859794b0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys",
+      "link": "https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html",
+      "summary": "Cybersecurity researchers have uncovered a new supply chain attack targeting the NuGet package manager with malicious typosquats of Nethereum, a popular Ethereum .NET integration platform, to steal victims' cryptocurrency wallet keys. The package, Nether\u0435um.All, has been found to harbor functionality to decode a command-and-control (C2) endpoint and exfiltrate mnemonic phrases, private keys, and",
+      "published": "2025-10-22 11:43:00",
+      "timestamp": 1761133380
     },
     {
       "id": "151324f1345fd887d6b30f675ace6b2897f59928",
@@ -242,26 +272,6 @@
       "timestamp": 1761031380
     },
     {
-      "id": "7778ee3ba9c787d2f6cc7ab42dc6071e32db1dca",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DNS0.EU private DNS service shuts down over sustainability issues",
-      "link": "https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/",
-      "summary": "The DNS0.EU non-profit public DNS service focused on European users announced its immediate shut down due to time and resource constraints. [...]",
-      "published": "2025-10-20 21:05:17",
-      "timestamp": 1760994317
-    },
-    {
-      "id": "9f1b875dff890c8997d51fd8d8e7d06fba243924",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: October updates break USB input in Windows Recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/",
-      "summary": "Microsoft has confirmed that this month's security updates disable USB mice and keyboards in the Windows Recovery Environment (WinRE), making it unusable. [...]",
-      "published": "2025-10-20 19:06:40",
-      "timestamp": 1760987200
-    },
-    {
       "id": "b2ae5718acf1b6bd07790f0462cf508635db1e2a",
       "source": "The Hacker News",
       "source_category": "General",
@@ -272,7 +282,7 @@
       "timestamp": 1760986800
     },
     {
-      "id": "6d5d2289ad2e7c2f9a5919952bd352a09ad46c66",
+      "id": "985b5cbbff563614992f814a4e7a3053172b317d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
@@ -772,7 +782,7 @@
       "timestamp": 1760419680
     },
     {
-      "id": "8fb95bfe2c686c38dcd9c55557bc7c45f897be54",
+      "id": "014a3fcd8a6acea139af316afdbdc0bf3645ca18",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Building a lasting security culture at Microsoft",
@@ -812,26 +822,6 @@
       "timestamp": 1760350320
     },
     {
-      "id": "d49a5c56a756aba3599558c464a8fa0f60576955",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor",
-      "link": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
-      "summary": "Microsoft said it has revamped the Internet Explorer (IE) mode in its Edge browser after receiving \"credible reports\" in August 2025 that unknown threat actors were abusing the backward compatibility feature to gain unauthorized access to users' devices. \"Threat actors were leveraging basic social engineering techniques alongside unpatched (0-day) exploits in Internet Explorer's JavaScript",
-      "published": "2025-10-13 09:54:00",
-      "timestamp": 1760349240
-    },
-    {
-      "id": "a16c0dc4aedcaebc5f9f3baea9cdd998701f9e65",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
-      "link": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that delivers the Astaroth banking trojan that employs GitHub as a backbone for its operations to stay resilient in the face of infrastructure takedowns. \"Instead of relying solely on traditional command-and-control (C2) servers that can be taken down, these attackers are leveraging GitHub repositories to host malware",
-      "published": "2025-10-13 06:52:00",
-      "timestamp": 1760338320
-    },
-    {
       "id": "d7adef61b32231cf8a25dadbb73e0261cfc56591",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -842,7 +832,7 @@
       "timestamp": 1760112643
     },
     {
-      "id": "a48e1ea19d88bf4f73783cbcef53ff7f0c0f73ce",
+      "id": "9b22d627fc4b8292b4958776cf0de200b7cb4837",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
@@ -852,7 +842,7 @@
       "timestamp": 1760025600
     },
     {
-      "id": "01a1262d9990767596b53cf3bc813e870c4c0d02",
+      "id": "14c3372eb7a78dbb631641c5c9624fff64e693e3",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Investigating targeted \u201cpayroll pirate\u201d attacks affecting US universities",
