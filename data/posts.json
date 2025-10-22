@@ -1,6 +1,36 @@
 {
-  "generated_at": 1761124305,
+  "generated_at": 1761135489,
   "items": [
+    {
+      "id": "08cf2281813352cf0e60d0f0b45697717edf0a46",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Bridging the Remediation Gap: Introducing Pentera Resolve",
+      "link": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
+      "summary": "From Detection to Resolution: Why the Gap Persists A critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context. What\u2019s missing is a system of action. How do you transition from the",
+      "published": "2025-10-22 11:55:00",
+      "timestamp": 1761134100
+    },
+    {
+      "id": "151324f1345fd887d6b30f675ace6b2897f59928",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Sharepoint ToolShell attacks targeted orgs across four continents",
+      "link": "https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/",
+      "summary": "Hackers believed to be associated with China have leveraged the ToolShell vulnerability (CVE-2025-53770) in Microsoft SharePoint in attacks targeting government agencies, universities, telecommunication service providers, and finance organizations. [...]",
+      "published": "2025-10-22 10:24:29",
+      "timestamp": 1761128669
+    },
+    {
+      "id": "5723838a1df74bceafd2b8006a1c208bb3bb2d2a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Why You Should Swap Passwords for Passphrases",
+      "link": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
+      "summary": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create",
+      "published": "2025-10-22 09:26:00",
+      "timestamp": 1761125160
+    },
     {
       "id": "bd28e14ab09c27e07447ab29d65aadcf3d534fe4",
       "source": "The Hacker News",
@@ -242,17 +272,7 @@
       "timestamp": 1760986800
     },
     {
-      "id": "b196ab64756fe5eaa24f58128b7a89d6eb7a05c8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Retail giant Muji halts online sales after ransomware attack on supplier",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/",
-      "summary": "Japanese retail company Muji has taken offline its store due to a logistics outage caused by a ransomware attack at its delivery partner, Askul. [...]",
-      "published": "2025-10-20 18:45:33",
-      "timestamp": 1760985933
-    },
-    {
-      "id": "985b5cbbff563614992f814a4e7a3053172b317d",
+      "id": "6d5d2289ad2e7c2f9a5919952bd352a09ad46c66",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
@@ -752,7 +772,7 @@
       "timestamp": 1760419680
     },
     {
-      "id": "014a3fcd8a6acea139af316afdbdc0bf3645ca18",
+      "id": "8fb95bfe2c686c38dcd9c55557bc7c45f897be54",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Building a lasting security culture at Microsoft",
@@ -812,26 +832,6 @@
       "timestamp": 1760338320
     },
     {
-      "id": "03e9ddd3119dfb17ca59bd955e08af0b98f6bb72",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
-      "link": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts. \"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
-      "published": "2025-10-13 05:12:00",
-      "timestamp": 1760332320
-    },
-    {
-      "id": "b3b3060f56cfb31a1328e1b1de9be8a6c8ee8cb9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
-      "link": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
-      "summary": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data. The vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14. \"Easily exploitable vulnerability allows an unauthenticated attacker with",
-      "published": "2025-10-12 17:24:00",
-      "timestamp": 1760289840
-    },
-    {
       "id": "d7adef61b32231cf8a25dadbb73e0261cfc56591",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -842,7 +842,7 @@
       "timestamp": 1760112643
     },
     {
-      "id": "9b22d627fc4b8292b4958776cf0de200b7cb4837",
+      "id": "a48e1ea19d88bf4f73783cbcef53ff7f0c0f73ce",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
@@ -852,7 +852,7 @@
       "timestamp": 1760025600
     },
     {
-      "id": "14c3372eb7a78dbb631641c5c9624fff64e693e3",
+      "id": "01a1262d9990767596b53cf3bc813e870c4c0d02",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Investigating targeted \u201cpayroll pirate\u201d attacks affecting US universities",
