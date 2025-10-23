@@ -1,6 +1,66 @@
 {
-  "generated_at": 1761221864,
+  "generated_at": 1761232224,
   "items": [
+    {
+      "id": "67129573bb5ff03d78a9f51e80bdec4f365fd5a6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Zero Trust Has a Blind Spot\u2014Your AI Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/",
+      "summary": "AI agents now act, decide, and access systems on their own \u2014 creating new blind spots Zero Trust can't see. Token Security helps organizations govern AI identities so every agent's access, intent, and action are verified and accountable. [...]",
+      "published": "2025-10-23 14:15:25",
+      "timestamp": 1761228925
+    },
+    {
+      "id": "355011d23d52e768aef84e9009704c8ddca7e382",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
+      "link": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
+      "summary": "OpenAI's Atlas and Perplexity's Comet browsers are vulnerable to AI sidebar spoofing attacks that mislead users into following fake AI-generated instructions. [...]",
+      "published": "2025-10-23 14:09:18",
+      "timestamp": 1761228558
+    },
+    {
+      "id": "37244755d7ff06a2c4431701199adc78dfea3ab0",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Help Wanted: Vietnamese Actors Using Fake Job Posting Campaigns to Deliver Malware and Steal Credentials",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/",
+      "summary": "Google Threat Intelligence Group (GTIG) is tracking a cluster of financially motivated threat actors operating from Vietnam that leverages fake job postings on legitimate platforms to target individuals in the digital advertising and marketing sectors. The actor effectively uses social engineering to deliver malware and phishing kits, ultimately aiming to compromise high-value corporate accounts, in order to hijack digital advertising accounts. GTIG tracks parts of this activity as UNC6229. The ",
+      "published": "2025-10-23 14:00:00",
+      "timestamp": 1761228000
+    },
+    {
+      "id": "ad1fb3705fee6fc1cf0f5222786de81a325cbf49",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "North Korean Lazarus hackers targeted European defense companies",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/",
+      "summary": "North Korean Lazarus hackers compromised three European companies in the defense sector through a coordinated Operation DreamJob campaign leveraging fake recruitment lures. [...]",
+      "published": "2025-10-23 12:38:39",
+      "timestamp": 1761223119
+    },
+    {
+      "id": "e33c95c68209b902a9ee0733a2fd880231ad001e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Secure AI at Scale and Speed \u2014 Learn the Framework in this Free Webinar",
+      "link": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
+      "summary": "AI is everywhere\u2014and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling. Because while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn\u2019t create, can\u2019t fully see, and weren\u2019t designed to control. Join our upcoming webinar and learn how to make AI",
+      "published": "2025-10-23 11:55:00",
+      "timestamp": 1761220500
+    },
+    {
+      "id": "f83723fe7c450462d12366ab36f9a6cb446fda2f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack & More",
+      "link": "https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html",
+      "summary": "Criminals don\u2019t need to be clever all the time; they just follow the easiest path in: trick users, exploit stale components, or abuse trusted systems like OAuth and package registries. If your stack or habits make any of those easy, you\u2019re already a target. This week\u2019s ThreatsDay highlights show exactly how those weak points are being exploited \u2014 from overlooked",
+      "published": "2025-10-23 11:30:00",
+      "timestamp": 1761219000
+    },
     {
       "id": "caf5e1736d77a70f250bedb929d6e7622bf870b4",
       "source": "The Hacker News",
@@ -250,36 +310,6 @@
       "summary": "The operators of Vidar Stealer, one of the most successful malware-as-a-service (MaaS) operations of the past decade, have released a new major version to reflect massive improvements in the malware. [...]",
       "published": "2025-10-21 22:26:02",
       "timestamp": 1761085562
-    },
-    {
-      "id": "483430e9d1695d55ce1166466a811c78315b1b32",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "TP-Link warns of critical command injection flaw in Omada gateways",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
-      "summary": "TP-Link has made firmware updates available for a broad range of Omada gateway models to address four vulnerabilities, among which a critical pre-auth OS command injection. [...]",
-      "published": "2025-10-21 21:11:35",
-      "timestamp": 1761081095
-    },
-    {
-      "id": "be7a3a584f8ab9bdface44220f5f8a60f3502e8c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
-      "summary": "CISA has confirmed that an Oracle E-Business Suite flaw tracked as CVE-2025-61884 is being exploited in attacks, adding it to its Known Exploited Vulnerabilities catalog. [...]",
-      "published": "2025-10-21 19:15:34",
-      "timestamp": 1761074134
-    },
-    {
-      "id": "4fa0555be7ad30de333038b4174d4da092b57130",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cursor, Windsurf IDEs riddled with 94+ n-day Chromium vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/",
-      "summary": "The latest releases of Cursor and Windsurf integrated development environments are vulnerable to more than 94 known and patched security issues in the Chromium browser and the V8 JavaScript engine. [...]",
-      "published": "2025-10-21 19:00:00",
-      "timestamp": 1761073200
     },
     {
       "id": "903f2dd69d3fcdb339ccd626dfc2c824c652d826",
@@ -822,26 +852,6 @@
       "timestamp": 1760442900
     },
     {
-      "id": "5679c5aec44bf9307f7d5d059a42f9bb43cf93a6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RMPocalypse: Single 8-Byte Write Shatters AMD\u2019s SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
-      "summary": "Chipmaker AMD has released fixes to address a security flaw dubbed RMPocalypse that could be exploited to undermine confidential computing guarantees provided by Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP). The attack, per ETH Z\u00fcrich researchers Benedict Schl\u00fcter and Shweta Shinde, exploits AMD's incomplete protections that make it possible to perform a single memory",
-      "published": "2025-10-14 11:45:00",
-      "timestamp": 1760442300
-    },
-    {
-      "id": "e765941bd18a51ad4b41501204cd0690af5408ad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
-      "link": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
-      "summary": "Android devices from Google and Samsung have been found vulnerable to a side-channel attack that could be exploited to covertly steal two-factor authentication (2FA) codes, Google Maps timelines, and other sensitive data without the users' knowledge pixel-by-pixel. The attack has been codenamed Pixnapping by a group of academics from the University of California (Berkeley), University of",
-      "published": "2025-10-14 11:18:00",
-      "timestamp": 1760440680
-    },
-    {
       "id": "8fb95bfe2c686c38dcd9c55557bc7c45f897be54",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1340,16 +1350,6 @@
       "summary": "Written by: Nick Guttilla Introduction Organizations are increasingly relying on diverse digital communication channels for essential business operations. The way employees interact with colleagues, access corporate resources, and especially, receive information technology (IT) support is often conducted through calls, chat platforms, and other remote technologies. While these various available methods enhance both efficiency and global accessibility, they also introduce an expanded attack surfa",
       "published": "2025-06-04 15:00:00",
       "timestamp": 1749049200
-    },
-    {
-      "id": "b0dcf3711c2d91d8762d89ffb419a3af5014ae56",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "The Cost of a Call: From Voice Phishing to Data Extortion",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/voice-phishing-data-extortion/",
-      "summary": "Update (August 8): Google has completed its email notifications to those affected by this incident. Update (August 8): Emails are actively being sent to those affected by this incident. Another update will be posted here once these alerts have been issued. Update (August 5) In June, one of Google\u2019s corporate Salesforce instances was impacted by similar UNC6040 activity described in this post. Google responded to the activity, performed an impact analysis and began mitigations. The instance was u",
-      "published": "2025-06-04 14:00:00",
-      "timestamp": 1749045600
     },
     {
       "id": "7a3a22170ca0eb8acc5a7b83b2628a5342587627",
