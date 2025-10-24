@@ -1,6 +1,36 @@
 {
-  "generated_at": 1761318608,
+  "generated_at": 1761329634,
   "items": [
+    {
+      "id": "58a3f490c1fbbd6bcf26a6092fe5ea5bd78f14fa",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability",
+      "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+      "summary": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild. The vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant",
+      "published": "2025-10-24 16:30:00",
+      "timestamp": 1761323400
+    },
+    {
+      "id": "7f1d1af20ea6beebe1eb521f178b974b9372b1f7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/",
+      "summary": "Attackers are now exploiting a critical-severity Windows Server Update Service (WSUS) vulnerability, which already has publicly available proof-of-concept exploit code. [...]",
+      "published": "2025-10-24 16:28:14",
+      "timestamp": 1761323294
+    },
+    {
+      "id": "1998e452e71dc6fe476a21120ada4e17923d60c4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Amazon: This week\u2019s AWS outage caused by major DNS failure",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/",
+      "summary": "Amazon says a major DNS failure was behind a massive AWS (Amazon Web Services) outage that took down many websites and online services on Monday. [...]",
+      "published": "2025-10-24 15:33:58",
+      "timestamp": 1761320038
+    },
     {
       "id": "62299569362f95f48f1599b5724b33486e0f6d00",
       "source": "BleepingComputer",
@@ -40,6 +70,16 @@
       "summary": "Starting next month, Mozilla will require Firefox extension developers to disclose whether their add-ons collect or share user data with third parties. [...]",
       "published": "2025-10-24 13:17:00",
       "timestamp": 1761311820
+    },
+    {
+      "id": "2ffcb17d77f9a151b6b3b717733393f991bb8ec5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54236 Adobe Commerce and Magento Improper Input Validation Vulnerability CVE-2025-59287 Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (B",
+      "published": "2025-10-24 12:00:00",
+      "timestamp": 1761307200
     },
     {
       "id": "57a1d0f7cba5637159a16fb97aa227a6530b5b58",
@@ -172,16 +212,6 @@
       "timestamp": 1761228925
     },
     {
-      "id": "355011d23d52e768aef84e9009704c8ddca7e382",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
-      "link": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
-      "summary": "OpenAI's Atlas and Perplexity's Comet browsers are vulnerable to AI sidebar spoofing attacks that mislead users into following fake AI-generated instructions. [...]",
-      "published": "2025-10-23 14:09:18",
-      "timestamp": 1761228558
-    },
-    {
       "id": "37244755d7ff06a2c4431701199adc78dfea3ab0",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -190,16 +220,6 @@
       "summary": "Google Threat Intelligence Group (GTIG) is tracking a cluster of financially motivated threat actors operating from Vietnam that leverages fake job postings on legitimate platforms to target individuals in the digital advertising and marketing sectors. The actor effectively uses social engineering to deliver malware and phishing kits, ultimately aiming to compromise high-value corporate accounts, in order to hijack digital advertising accounts. GTIG tracks parts of this activity as UNC6229. The ",
       "published": "2025-10-23 14:00:00",
       "timestamp": 1761228000
-    },
-    {
-      "id": "ad1fb3705fee6fc1cf0f5222786de81a325cbf49",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "North Korean Lazarus hackers targeted European defense companies",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/",
-      "summary": "North Korean Lazarus hackers compromised three European companies in the defense sector through a coordinated Operation DreamJob campaign leveraging fake recruitment lures. [...]",
-      "published": "2025-10-23 12:38:39",
-      "timestamp": 1761223119
     },
     {
       "id": "c1969c3358758a19163f36c0e93b549214bffb72",
@@ -245,7 +265,7 @@
       "id": "777d855d8be906c85100e44c59d69f5c4807578c",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "\u201cJingle Thief\u201d Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+      "title": "'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
       "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
       "summary": "Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud. \"Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,\" Palo Alto Networks Unit 42 researchers",
       "published": "2025-10-23 07:52:00",
@@ -802,22 +822,22 @@
       "timestamp": 1760537760
     },
     {
-      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
-    },
-    {
       "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
       "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
+      "published": "2025-10-15 12:00:00",
+      "timestamp": 1760529600
+    },
+    {
+      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
       "published": "2025-10-15 12:00:00",
       "timestamp": 1760529600
     },
@@ -830,16 +850,6 @@
       "summary": "TLDR Even if you take nothing else away from this piece, if your organization is evaluating passkey deployments, it is insecure to deploy synced passkeys. Synced passkeys inherit the risk of the cloud accounts and recovery processes that protect them, which creates material enterprise exposure. Adversary-in-the-middle (AiTM) kits can force authentication fallbacks that circumvent strong",
       "published": "2025-10-15 11:30:00",
       "timestamp": 1760527800
-    },
-    {
-      "id": "221e023c5bc88d0d9bf46d2e7342e41652fa072c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two New Windows Zero-Days Exploited in the Wild \u2014 One Affects Every Version Ever Shipped",
-      "link": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
-      "summary": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program. Of the 183 vulnerabilities, eight of them are non-Microsoft",
-      "published": "2025-10-15 09:23:00",
-      "timestamp": 1760520180
     },
     {
       "id": "8e9a1b21da8ae0d1f00b370a31767aef0bb96b95",
@@ -862,22 +872,22 @@
       "timestamp": 1760457600
     },
     {
-      "id": "222bcf35a2af2bfd582890ea54d6a32ab7a8c246",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases One Industrial Control Systems Advisory",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-releases-one-industrial-control-systems-advisory",
-      "summary": "CISA released one Industrial Control Systems (ICS) advisory on October 14, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-287-01 Rockwell Automation 1715 EtherNet/IP Comms Module CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
-      "published": "2025-10-14 12:00:00",
-      "timestamp": 1760443200
-    },
-    {
       "id": "9048c7145c51b70e36b4a3ef4127ede068402c34",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-adds-five-known-exploited-vulnerabilities-catalog",
       "summary": "Updated October 22, 2025 CISA is continually collaborating with partners across government and the private sector. Through this collaboration, CISA has determined that CVE-2025-6264 has not been exploited and there is insufficient evidence to keep this CVE on the KEV and that the best course of action is to remove it. CISA is committed to continued collaboration with partners. End of Update CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evi",
+      "published": "2025-10-14 12:00:00",
+      "timestamp": 1760443200
+    },
+    {
+      "id": "222bcf35a2af2bfd582890ea54d6a32ab7a8c246",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases One Industrial Control Systems Advisory",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-releases-one-industrial-control-systems-advisory",
+      "summary": "CISA released one Industrial Control Systems (ICS) advisory on October 14, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-287-01 Rockwell Automation 1715 EtherNet/IP Comms Module CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
       "published": "2025-10-14 12:00:00",
       "timestamp": 1760443200
     },
@@ -922,22 +932,22 @@
       "timestamp": 1760018400
     },
     {
-      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
-      "published": "2025-10-09 12:00:00",
-      "timestamp": 1760011200
-    },
-    {
       "id": "6cda9edff6de4352fc2eb00fc7afb48fc7134c8f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Four Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
       "summary": "CISA released four Industrial Control Systems (ICS) Advisories on October 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-282-01 Hitachi Energy Asset Suite ICSA-25-282-02 Rockwell Automation Lifecycle Services with Cisco ICSA-25-282-03 Rockwell Automation Stratix ICSA-25-128-03 Mitsubishi Electric Multiple FA Products (Update A) CISA encourages users and administrators to review newly released ICS Advisori",
+      "published": "2025-10-09 12:00:00",
+      "timestamp": 1760011200
+    },
+    {
+      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
       "published": "2025-10-09 12:00:00",
       "timestamp": 1760011200
     },
@@ -982,22 +992,22 @@
       "timestamp": 1759752000
     },
     {
-      "id": "1b2b88e4c8ec1118c159662b2f565c1616daf8a6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2014-6278 GNU Bash OS Command Injection Vulnerability CVE-2015-7755 Juniper ScreenOS Improper Authentication Vulnerability CVE-2017-1000353 Jenkins Remote Code Execution Vulnerability CVE-2025-4008 Smartbedded Meteobridge Command Injection Vulnerability CVE-2025-21043 Samsung Mobile Devices Out-of-Bounds Write Vulnerability These types of vulnerabilities are",
-      "published": "2025-10-02 12:00:00",
-      "timestamp": 1759406400
-    },
-    {
       "id": "1a44182df4745690c94bbf2f15baf4336b78af52",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Two Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-releases-two-industrial-control-systems-advisories",
       "summary": "CISA released two Industrial Control Systems (ICS) advisories on October 2, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-275-01 Raise3D Pro2 Series 3D Printers ICSA-25-275-02 Hitachi Energy MSM Product CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+      "published": "2025-10-02 12:00:00",
+      "timestamp": 1759406400
+    },
+    {
+      "id": "1b2b88e4c8ec1118c159662b2f565c1616daf8a6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2014-6278 GNU Bash OS Command Injection Vulnerability CVE-2015-7755 Juniper ScreenOS Improper Authentication Vulnerability CVE-2017-1000353 Jenkins Remote Code Execution Vulnerability CVE-2025-4008 Smartbedded Meteobridge Command Injection Vulnerability CVE-2025-21043 Samsung Mobile Devices Out-of-Bounds Write Vulnerability These types of vulnerabilities are",
       "published": "2025-10-02 12:00:00",
       "timestamp": 1759406400
     },
@@ -1102,26 +1112,6 @@
       "timestamp": 1758714511
     },
     {
-      "id": "1814e22634797afd9afa411b9b6b5dfa26c3a8f7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-six-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) advisories on September 23, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-266-01 AutomationDirect CLICK PLUS ICSA-25-266-02 Mitsubishi Electric MELSEC-Q Series CPU Module ICSA-25-266-03 Schneider Electric SESU ICSA-25-266-04 Viessmann Vitogate 300 ICSA-25-023-02 Hitachi Energy RTU500 Series Product (Update A) ICSA-25-093-01 Hitachi Energy RTU500 Series (Upd",
-      "published": "2025-09-23 12:00:00",
-      "timestamp": 1758628800
-    },
-    {
-      "id": "8533fc01f05da3e4e77d2aea7b99986dea676f6f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Widespread Supply Chain Compromise Impacting npm Ecosystem",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem",
-      "summary": "CISA is releasing this Alert to provide guidance in response to a widespread software supply chain compromise involving the world\u2019s largest JavaScript registry, npmjs.com. A self-replicating worm\u2014publicly known as \u201cShai-Hulud\u201d\u2014has compromised over 500 packages.[i] After gaining initial access, the malicious cyber actor deployed malware that scanned the environment for sensitive credentials. The cyber actor then targeted GitHub Personal Access Tokens (PATs) and application programming interface (",
-      "published": "2025-09-23 12:00:00",
-      "timestamp": 1758628800
-    },
-    {
       "id": "582052ca489eb4389e63b35ad9e1bbfe89967ced",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1138,6 +1128,26 @@
       "title": "CISA Releases Advisory on Lessons Learned from an Incident Response Engagement",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-advisory-lessons-learned-incident-response-engagement",
       "summary": "Today, CISA released a cybersecurity advisory detailing lessons learned from an incident response engagement following the detection of potential malicious activity identified through security alerts generated by the agency\u2019s endpoint detection and response tool. This advisory, CISA Shares Lessons Learned from an Incident Response Engagement, highlights takeaways that illuminate the urgent need for timely patching, comprehensive incident response planning, and proactive threat monitoring to miti",
+      "published": "2025-09-23 12:00:00",
+      "timestamp": 1758628800
+    },
+    {
+      "id": "1814e22634797afd9afa411b9b6b5dfa26c3a8f7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Six Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-six-industrial-control-systems-advisories",
+      "summary": "CISA released six Industrial Control Systems (ICS) advisories on September 23, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-266-01 AutomationDirect CLICK PLUS ICSA-25-266-02 Mitsubishi Electric MELSEC-Q Series CPU Module ICSA-25-266-03 Schneider Electric SESU ICSA-25-266-04 Viessmann Vitogate 300 ICSA-25-023-02 Hitachi Energy RTU500 Series Product (Update A) ICSA-25-093-01 Hitachi Energy RTU500 Series (Upd",
+      "published": "2025-09-23 12:00:00",
+      "timestamp": 1758628800
+    },
+    {
+      "id": "8533fc01f05da3e4e77d2aea7b99986dea676f6f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Widespread Supply Chain Compromise Impacting npm Ecosystem",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem",
+      "summary": "CISA is releasing this Alert to provide guidance in response to a widespread software supply chain compromise involving the world\u2019s largest JavaScript registry, npmjs.com. A self-replicating worm\u2014publicly known as \u201cShai-Hulud\u201d\u2014has compromised over 500 packages.[i] After gaining initial access, the malicious cyber actor deployed malware that scanned the environment for sensitive credentials. The cyber actor then targeted GitHub Personal Access Tokens (PATs) and application programming interface (",
       "published": "2025-09-23 12:00:00",
       "timestamp": 1758628800
     },
@@ -1180,16 +1190,6 @@
       "summary": "At least 187 code packages made available through the JavaScript repository NPM have been infected with a self-replicating worm that steals credentials from developers and publishes those secrets on GitHub, experts warn. The malware, which briefly infected multiple code packages from the security vendor CrowdStrike, steals and publishes even more credentials every time an infected package is installed.",
       "published": "2025-09-16 14:08:02",
       "timestamp": 1758031682
-    },
-    {
-      "id": "c1300c5df783187273728593487fe24e91f4da95",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Eight Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/16/cisa-releases-eight-industrial-control-systems-advisories",
-      "summary": "CISA released eight Industrial Control Systems (ICS) advisories on September 16, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-259-01 Schneider Electric Altivar Products, ATVdPAC Module, ILC992 InterLink Converter ICSA-25-259-02 Hitachi Energy RTU500 Series ICSA-25-259-03 Siemens SIMATIC NET CP, SINEMA, and SCALANCE ICSA-25-259-04 Siemens RUGGEDCOM, SINEC NMS, and SINEMA ICSA-25-259-05 Siemens OpenSSL Vulne",
-      "published": "2025-09-16 12:00:00",
-      "timestamp": 1758024000
     },
     {
       "id": "e6deb833b890e1cb4aedc7ee32460983664c037b",
