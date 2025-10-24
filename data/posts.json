@@ -1,6 +1,36 @@
 {
-  "generated_at": 1761286429,
+  "generated_at": 1761297069,
   "items": [
+    {
+      "id": "836cb728d786566d36a65b1c1b9eebf500dae05b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
+      "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with publicly available proof-of-concept exploit code. [...]",
+      "published": "2025-10-24 07:27:56",
+      "timestamp": 1761290876
+    },
+    {
+      "id": "0a65dd1ab3a8fa8853e8fbc9a3fb20074cb17b0a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
+      "link": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
+      "summary": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks. The sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span",
+      "published": "2025-10-24 07:00:00",
+      "timestamp": 1761289200
+    },
+    {
+      "id": "94c523e63b76c9cf1228244c867df753a2ec1f6e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/",
+      "summary": "\u200bThe Pwn2Own Ireland 2025 hacking competition has ended with security researchers collecting $1,024,750 in cash awards after exploiting 73 zero-day vulnerabilities. [...]",
+      "published": "2025-10-24 06:36:55",
+      "timestamp": 1761287815
+    },
     {
       "id": "581f63ec56392070991514f3adcac3cd7d1e95d6",
       "source": "BleepingComputer",
@@ -67,7 +97,7 @@
       "source_category": "General",
       "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
       "link": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
-      "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job. \"Some of these [companies' are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
+      "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job. \"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
       "published": "2025-10-23 15:29:00",
       "timestamp": 1761233340
     },
@@ -195,9 +225,9 @@
       "id": "1ef7097e330a77daff4862f937b7bc19cba5a18b",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Pwn2Own Day 2: Hackers exploit 56 zero-days for $790,000",
+      "title": "Pwn2Own Day 2: Hackers exploit 22 zero-days for $267.500",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
-      "summary": "Security researchers collected $792,750 in cash after exploiting 56\u200b\u200b\u200b\u200b\u200b\u200b\u200b unique zero-day vulnerabilities during the second day of the Pwn2Own Ireland 2025 hacking competition. [...]",
+      "summary": "Security researchers collected $267,500 in cash after exploiting 22\u200b\u200b\u200b\u200b\u200b\u200b\u200b unique zero-day vulnerabilities during the second day of the Pwn2Own Ireland 2025 hacking competition. [...]",
       "published": "2025-10-22 18:52:53",
       "timestamp": 1761159173
     },
@@ -220,16 +250,6 @@
       "summary": "Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian cryptocurrency exchanges and websites hawking cybercrime services. The penalties for violating Canada's anti money-laundering laws come ten months after KrebsOnSecurity noted that Cryptomus's Vancouver street address was home to dozens of foreign currency dealers, money transfer businesses, and cryptocurrency exchanges \u2014 none of which were physicall",
       "published": "2025-10-22 17:21:36",
       "timestamp": 1761153696
-    },
-    {
-      "id": "9cc328cfd6d5723b77746b5fcab0ba37ece87a3c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
-      "summary": "A high-severity vulnerability in the now-abandoned async-tar Rust library and its forks can be exploited to gain remote code execution on systems running unpatched software. [...]",
-      "published": "2025-10-22 17:21:24",
-      "timestamp": 1761153684
     },
     {
       "id": "e5794a95348707940436c0111dc9c5e654bb54ed",
@@ -830,16 +850,6 @@
       "summary": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October's Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you're running a Windows 10 PC and you're unable or unwilling to migrate to Windows 11, read on for other options.",
       "published": "2025-10-14 22:57:38",
       "timestamp": 1760482658
-    },
-    {
-      "id": "894b5a541b9cc49a691f641de239826f3140ab50",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
-      "link": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
-      "summary": "Threat actors with ties to China have been attributed to a novel campaign that compromised an ArcGIS system and turned it into a backdoor for more than a year. The activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hacking group called Flax Typhoon, which is also tracked as Ethereal Panda and RedJuliett. According to the U.S. government, it's assessed to be a publicly-traded",
-      "published": "2025-10-14 16:55:00",
-      "timestamp": 1760460900
     },
     {
       "id": "313a0e64ca4d159f0831176fd1e6d3b85a29f988",
