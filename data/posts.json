@@ -1,5 +1,5 @@
 {
-  "generated_at": 1761459156,
+  "generated_at": 1761469704,
   "items": [
     {
       "id": "59f898b2199b32d87bb8b9579262e44ed90b9d17",
@@ -50,16 +50,6 @@
       "summary": "Attackers are now exploiting a critical-severity Windows Server Update Service (WSUS) vulnerability, which already has publicly available proof-of-concept exploit code. [...]",
       "published": "2025-10-24 16:28:14",
       "timestamp": 1761323294
-    },
-    {
-      "id": "b802be38d3babfefadf17d19f58d7ff36de37982",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "What\u2019s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "summary": "Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. Tip: Not sure where to find what you\u2019re looking for on the Google Cloud blog? Start here: Google Cloud blog 101: Full list of topics, links, and resources. Oct 20 - Oct 24 Dataframe visualization in Colab Enterprise. Use visualization cells to create custom, stylized visualizations of your DataFrames: no co",
-      "published": "2025-10-24 16:00:00",
-      "timestamp": 1761321600
     },
     {
       "id": "1998e452e71dc6fe476a21120ada4e17923d60c4",
@@ -230,6 +220,16 @@
       "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job. \"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
       "published": "2025-10-23 15:29:00",
       "timestamp": 1761233340
+    },
+    {
+      "id": "37244755d7ff06a2c4431701199adc78dfea3ab0",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Help Wanted: Vietnamese Actors Using Fake Job Posting Campaigns to Deliver Malware and Steal Credentials",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vietnamese-actors-fake-job-posting-campaigns/",
+      "summary": "Google Threat Intelligence Group (GTIG) is tracking a cluster of financially motivated threat actors operating from Vietnam that leverages fake job postings on legitimate platforms to target individuals in the digital advertising and marketing sectors. The actor effectively uses social engineering to deliver malware and phishing kits, ultimately aiming to compromise high-value corporate accounts, in order to hijack digital advertising accounts. GTIG tracks parts of this activity as UNC6229. The ",
+      "published": "2025-10-23 14:00:00",
+      "timestamp": 1761228000
     },
     {
       "id": "c1969c3358758a19163f36c0e93b549214bffb72",
@@ -442,6 +442,16 @@
       "timestamp": 1761058980
     },
     {
+      "id": "56051286ef8714ffcf364ebd91518d2117fdde7f",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Pro-Russia Information Operations Leverage Russian Drone Incursions into Polish Airspace",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-information-operations-drone-incursions/",
+      "summary": "Written by: Alden Wahlstrom, David Mainor Introduction Google Threat Intelligence Group (GTIG) observed multiple instances of pro-Russia information operations (IO) actors promoting narratives related to the reported incursion of Russian drones into Polish airspace that occurred on Sept. 9-10, 2025. The identified IO activity, which mobilized in response to this event and the ensuing political and security developments, appeared consistent with previously observed instances of pro-Russia IO targ",
+      "published": "2025-10-21 14:00:00",
+      "timestamp": 1761055200
+    },
+    {
       "id": "f126e0f099da62dcd9994ccd36c363fad8e9cff4",
       "source": "The Hacker News",
       "source_category": "General",
@@ -510,6 +520,16 @@
       "summary": "Azure Blob Storage is a high-value target for threat actors due to its critical role in storing and managing massive amounts of unstructured data at scale across diverse workloads and is increasingly targeted through sophisticated attack chains that exploit misconfigurations, exposed credentials, and evolving cloud tactics. The post Inside the attack chain: Threat activity targeting Azure Blob Storage appeared first on Microsoft Security Blog.",
       "published": "2025-10-20 16:00:00",
       "timestamp": 1760976000
+    },
+    {
+      "id": "ec2672aa02a0a262dd4625f7d18974abe76468be",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "To Be (A Robot) or Not to Be: New Malware Attributed to Russia State-Sponsored COLDRIVER",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/",
+      "summary": "Written by: Wesley Shields Introduction COLDRIVER, a Russian state-sponsored threat group known for targeting high profile individuals in NGOs, policy advisors and dissidents, swiftly shifted operations after the May 2025 public disclosure of its LOSTKEYS malware, operationalizing new malware families five days later. It is unclear how long COLDRIVER had this malware in development, but GTIG has not observed a single instance of LOSTKEYS since publication. Instead, GTIG has seen new malware used",
+      "published": "2025-10-20 14:00:00",
+      "timestamp": 1760968800
     },
     {
       "id": "a3ff0a77f5ddf9ee532a01edece5b7be89abe2c5",
@@ -692,6 +712,26 @@
       "timestamp": 1760623500
     },
     {
+      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
+      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
+      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
+      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
       "id": "eabcaa38cc12db393d48d4252b06b3f40047919a",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -822,7 +862,7 @@
       "timestamp": 1760482658
     },
     {
-      "id": "313a0e64ca4d159f0831176fd1e6d3b85a29f988",
+      "id": "65929a900c175f8d739c0040ea99892b3d48a401",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft raises the bar: A smarter way to measure AI for cybersecurity",
@@ -880,6 +920,16 @@
       "summary": "\u200bSecurity is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. The post Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog appeared first on Microsoft Security Blog.",
       "published": "2025-10-09 16:00:00",
       "timestamp": 1760025600
+    },
+    {
+      "id": "c5572a0e3b9922bd7aaba12634d8824814096b14",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Oracle E-Business Suite Zero-Day Exploited in Widespread Extortion Campaign",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/oracle-ebusiness-suite-zero-day-exploitation/",
+      "summary": "Written by: Peter Ukhanov, Genevieve Stark, Zander Work, Ashley Pearson, Josh Murchie, Austin Larsen Update (Oct. 11): On Oct. 11, Oracle released another patch, addressing CVE-2025-61884. Introduction Beginning Sept. 29, 2025, Google Threat Intelligence Group (GTIG) and Mandiant began tracking a new, large-scale extortion campaign by a threat actor claiming affiliation with the CL0P extortion brand. The actor began sending a high volume of emails to executives at numerous organizations, allegin",
+      "published": "2025-10-09 14:00:00",
+      "timestamp": 1760018400
     },
     {
       "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
@@ -962,6 +1012,16 @@
       "timestamp": 1759406400
     },
     {
+      "id": "855d7683577ed5378c4f369a708b587544020918",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Cybercrime Observations from the Frontlines: UNC6040 Proactive Hardening Recommendations",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6040-proactive-hardening-recommendations/",
+      "summary": "Written by: Omar ElAhdan, Matthew McWhirt, Michael Rudden, Aswad Robinson, Bhavesh Dhake, Laith Al Background Protecting software-as-a-service (SaaS) platforms and applications requires a comprehensive security strategy. Drawing from analysis of UNC6040\u2019s specific attack methodologies, this guide presents a structured defensive framework encompassing proactive hardening measures, comprehensive logging protocols, and advanced detection capabilities. While emphasizing Salesforce-specific security ",
+      "published": "2025-09-30 14:00:00",
+      "timestamp": 1759240800
+    },
+    {
       "id": "e1137d8e1a746e30046531d5285c6dae270ee215",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1030,6 +1090,16 @@
       "summary": "CISA released one Industrial Control Systems (ICS) advisory on September 25, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-268-01 Dingtian DT-R002 CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
       "published": "2025-09-25 12:00:00",
       "timestamp": 1758801600
+    },
+    {
+      "id": "64f14f5c2b1d419be1b716823994c21ed6cb3fa1",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Another BRICKSTORM: Stealthy Backdoor Enabling Espionage into Tech and Legal Sectors",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/brickstorm-espionage-campaign/",
+      "summary": "Written by: Sarah Yoder, John Wolfram, Ashley Pearson, Doug Bienstock, Josh Madeley, Josh Murchie, Brad Slaybaugh, Matt Lin, Geoff Carstairs, Austin Larsen Introduction Google Threat Intelligence Group (GTIG) is tracking BRICKSTORM malware activity, which is being used to maintain persistent access to victim organizations in the United States. Since March 2025, Mandiant Consulting has responded to intrusions across a range of industry verticals, most notably legal services, Software as a Service",
+      "published": "2025-09-24 14:00:00",
+      "timestamp": 1758722400
     },
     {
       "id": "bee142941135788571291463e79e1078135bd4a5",
@@ -1142,6 +1212,46 @@
       "timestamp": 1757372021
     },
     {
+      "id": "9f9692e97cee9f6aaf61ced8322cdd8c7d0dec35",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "ViewState Deserialization Zero-Day Vulnerability in Sitecore Products (CVE-2025-53690)",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/viewstate-deserialization-zero-day-vulnerability/",
+      "summary": "Written by: Rommel Joven, Josh Fleischer, Joseph Sciuto, Andi Slok, Choon Kiat Ng Update (September 3): This post was updated to include information about GoTokenTheft usage. In a recent investigation, Mandiant Threat Defense discovered an active ViewState deserialization attack affecting Sitecore deployments leveraging a sample machine key that had been exposed in Sitecore deployment guides from 2017 and earlier. An attacker leveraged the exposed ASP.NET machine key to perform remote code execu",
+      "published": "2025-09-03 14:00:00",
+      "timestamp": 1756908000
+    },
+    {
+      "id": "57b99892ad337350a711786494a0c98e9dd0b4c6",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Widespread Data Theft Targets Salesforce Instances via Salesloft Drift",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/data-theft-salesforce-instances-via-salesloft-drift/",
+      "summary": "Written by: Austin Larsen, Matt Lin, Tyler McLellan, Omar ElAhdan Update (August 28) Based on new information identified by GTIG, the scope of this compromise is not exclusive to the Salesforce integration with Salesloft Drift and impacts other integrations. We now advise all Salesloft Drift customers to treat any and all authentication tokens stored in or connected to the Drift platform as potentially compromised. On August 28, 2025, our investigation confirmed that the actor also compromised O",
+      "published": "2025-08-26 14:00:00",
+      "timestamp": 1756216800
+    },
+    {
+      "id": "17bbb22a350217a2aa2f7ebbd6b1c2cbe5246143",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Deception in Depth: PRC-Nexus Espionage Campaign Hijacks Web Traffic to Target Diplomats",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-nexus-espionage-targets-diplomats/",
+      "summary": "Written by: Patrick Whitsell In March 2025, Google Threat Intelligence Group (GTIG) identified a complex, multifaceted campaign attributed to the PRC-nexus threat actor UNC6384. The campaign targeted diplomats in Southeast Asia and other entities globally. GTIG assesses this was likely in support of cyber espionage operations aligned with the strategic interests of the People's Republic of China (PRC). The campaign hijacks target web traffic, using a captive portal redirect, to deliver a digital",
+      "published": "2025-08-25 14:00:00",
+      "timestamp": 1756130400
+    },
+    {
+      "id": "4e1f870e060c29ee2611664c46ff443ff651e502",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "A Cereal Offender: Analyzing the CORNFLAKE.V3 Backdoor",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/analyzing-cornflake-v3-backdoor/",
+      "summary": "Written by: Marco Galli Welcome to the Frontline Bulletin Series Straight from Mandiant Threat Defense, the \"Frontline Bulletin\" series brings you the latest on the most intriguing compromises we are seeing in the wild right now, equipping our community to understand and respond to the most compelling threats we observe. This edition dissects an infection involving two threat groups, UNC5518 and UNC5774, leading to the deployment of CORNFLAKE.V3. Introduction Since June 2024, Mandiant Threat Def",
+      "published": "2025-08-20 14:00:00",
+      "timestamp": 1755698400
+    },
+    {
       "id": "623c1535b47e20e38cde53200832947574c3fe19",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1160,6 +1270,86 @@
       "summary": "Posted by Tim Willis, Google Project Zero In 2021, we updated our vulnerability disclosure policy to the current \"90+30\" model. Our goals were to drive faster yet thorough patch development, and improve patch adoption. While we\u2019ve seen progress, a significant challenge remains: the time it takes for a fix to actually reach an end-user's device.This delay, often called the \"patch gap,\" is a complex problem. Many consider the patch gap to be the time between a fix being released for a security vul",
       "published": "2025-07-29 14:54:00",
       "timestamp": 1753800840
+    },
+    {
+      "id": "35d741677f6a5d39121e526db1d5199cb2276647",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Beyond Convenience: Exposing the Risks of VMware vSphere Active Directory Integration",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vsphere-active-directory-integration-risks/",
+      "summary": "Written by: Stuart Carrera, Brian Meyer Executive Summary Broadcom's VMware vSphere product continues to be a top choice for private cloud virtualization, underpinning important systems and critical infrastructure. Far from losing its appeal, organizations still rely heavily on vSphere for its stability and control. Mandiant is also observing a clear trend where critical workloads are moving back from public cloud services to these on-premises vSphere environments, often driven by strategies tha",
+      "published": "2025-07-23 14:00:00",
+      "timestamp": 1753279200
+    },
+    {
+      "id": "7a3a4c402f363586fe276f2f9c77d84b37cdb4f4",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "From Help Desk to Hypervisor: Defending Your VMware vSphere Estate from UNC3944",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944/",
+      "summary": "Introduction In mid 2025, Google Threat Intelligence Group (GTIG) identified a sophisticated and aggressive cyber campaign targeting multiple industries, including retail, airline, and insurance. This was the work of UNC3944, a financially motivated threat group that has exhibited overlaps with public reporting of \"0ktapus,\" \"Octo Tempest,\" and \"Scattered Spider.\" Following public alerts from the Federal Bureau of Investigation (FBI), the group's targeting became clear. GTIG observed that the gr",
+      "published": "2025-07-23 14:00:00",
+      "timestamp": 1753279200
+    },
+    {
+      "id": "e8565df873b79b7c9ab323b62857193e54ad3a26",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Ongoing SonicWall Secure Mobile Access (SMA) Exploitation Campaign using the OVERSTEP Backdoor",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/sonicwall-secure-mobile-access-exploitation-overstep-backdoor/",
+      "summary": "Written by: Josh Goddard, Zander Work, Dimiter Andonov UPDATE (Sep 16): Clarified hunting guidance specifics surrounding ld.so.preload files. UPDATE (July 30): Added additional network IOC identified by Sonicwall as being associated with OVERSTEP. Introduction Google Threat Intelligence Group (GTIG) has identified an ongoing campaign by a suspected financially-motivated threat actor we track as UNC6148, targeting fully patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliance",
+      "published": "2025-07-16 14:00:00",
+      "timestamp": 1752674400
+    },
+    {
+      "id": "d6934a8b288be42e91bdcb69b47d87dd7ae79099",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Isolated Recovery Environments: A Critical Layer in Modern Cyber Resilience",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/isolated-recovery-environments-modern-cyber-resilience/",
+      "summary": "Written by: Jaysn Rye Executive Summary As adversaries grow faster, stealthier, and more destructive, traditional recovery strategies are increasingly insufficient. Mandiant's M-Trends 2025 report reinforces this shift, highlighting that ransomware operators now routinely target not just production systems but also backups. This evolution demands that organizations re-evaluate their resilience posture. One approach gaining traction is the implementation of an isolated recovery environment (IRE)\u2014",
+      "published": "2025-07-07 14:00:00",
+      "timestamp": 1751896800
+    },
+    {
+      "id": "5870f3b2360011511cdc5281572e4294063f1b6d",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Protecting the Core: Securing Protection Relays in Modern Substations",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/securing-protection-relays-modern-substations/",
+      "summary": "Written by: Seemant Bisht, Chris Sistrunk, Shishir Gupta, Anthony Candarini, Glen Chason, Camille Felx Leduc Introduction \u2014 Why Securing Protection Relays Matters More Than Ever Substations are critical nexus points in the power grid, transforming high-voltage electricity to ensure its safe and efficient delivery from power plants to millions of end-users. At the core of a modern substation lies the protection relay: an intelligent electronic device (IED) that plays a critical role in maintainin",
+      "published": "2025-06-30 14:00:00",
+      "timestamp": 1751292000
+    },
+    {
+      "id": "c8989200d40dbefc33ef26954660b9d6a3caae52",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Trix Shots: Remote Code Execution on Aviatrix Controller",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/remote-code-execution-aviatrix-controller/",
+      "summary": "Written by: Louis Dion-Marcil This blog post highlights a Mandiant Red Team case study simulating an \u201cInitial Access Brokerage\u201d approach that discovered two vulnerabilities on Aviatrix Controller, a Software-Defined Networking (SDN) utility that allows for the creation of links between different cloud vendors and regions: CVE-2025-2171: an administrator authentication bypass CVE-2025-2172: an authenticated command injection The vulnerabilities affected Aviatrix Controller 7.2.5012 and prior vers",
+      "published": "2025-06-23 14:00:00",
+      "timestamp": 1750687200
+    },
+    {
+      "id": "52d1035d41954f769e131f6f222061d541e7c0b8",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "What\u2019s in an ASP? Creative Phishing Attack on Prominent Academics and Critics of Russia",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/creative-phishing-academics-critics-of-russia/",
+      "summary": "Written by: Gabby Roncone, Wesley Shields UPDATE (July 10) In late June 2025, Google Threat Intelligence Group (GTIG) discovered continued UNC6293 operations that demonstrate an evolution in the group\u2019s tradecraft. Using similar lure themes as previously observed activity, UNC6293 continued the ASP phishing campaign against prominent academics, critics of Russia, and journalists using different ASP names, potentially as a response to our publication of their tradecraft. In a different campaign, ",
+      "published": "2025-06-18 14:00:00",
+      "timestamp": 1750255200
+    },
+    {
+      "id": "070761c66c315bb5d9a547b93d948bf3aca98e39",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Hello, Operator? A Technical Analysis of Vishing Threats",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/technical-analysis-vishing-threats/",
+      "summary": "Written by: Nick Guttilla Introduction Organizations are increasingly relying on diverse digital communication channels for essential business operations. The way employees interact with colleagues, access corporate resources, and especially, receive information technology (IT) support is often conducted through calls, chat platforms, and other remote technologies. While these various available methods enhance both efficiency and global accessibility, they also introduce an expanded attack surfa",
+      "published": "2025-06-04 15:00:00",
+      "timestamp": 1749049200
     },
     {
       "id": "7a3a22170ca0eb8acc5a7b83b2628a5342587627",
@@ -1710,196 +1900,6 @@
       "summary": "Insecure temporary file creation in bitrix/modules/crm/lib/order/import/instagram.php in Bitrix24 22.0.300 hosted on Apache HTTP Server allows remote authenticated attackers to execute arbitrary code via uploading a crafted \".htaccess\" file.",
       "published": "2023-11-01 10:15:08",
       "timestamp": 1698833708
-    },
-    {
-      "id": "fedfb0859f586cab64464352210cf9b714afdb97",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Google Cloud Summits 2022  [frequently updated]",
-      "link": "https://cloud.google.com/blog/topics/events/news-updates-on-the-google-cloud-summit-digital-event-series-2022/",
-      "summary": "Register for our 2022 Google Cloud Summit series, and be among the first to learn about new solutions across data, machine learning, collaboration, security, sustainability, and more. You\u2019ll hear from experts, explore customer perspectives, engage with interactive demos, and gain valuable insights to help you accelerate your business transformation. Bookmark the Google Cloud Summit series website to easily find updates as news develops. Can\u2019t join us for a live broadcast? You can still register ",
-      "published": "2022-06-15 20:00:00",
-      "timestamp": 1655323200
-    },
-    {
-      "id": "8ba573f00f480758edac642cebc3c0fea3956c8a",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Celebrating our tech and startup customers",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/celebrating-tech-and-startup-customers/",
-      "summary": "Our tech and startup customers are disrupting industries, driving innovation and changing how people do things. We\u2019re proud of their success and want to showcase what they\u2019re up to! You\u2019ll hear about their new products, their businesses reaching new milestones and their ability to get things done faster and easier using Google Cloud\u2019s app development, data analytics and AI/ML services. Congrats to Impact Analytics for Closing PVHWith the COVID-19 pandemic, the rise of e-commerce, and supply chai",
-      "published": "2022-04-20 20:00:00",
-      "timestamp": 1650484800
-    },
-    {
-      "id": "62a8c64eee9c8fb0c3c73869c5532b102f6cf041",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "What\u2019s new in cloud-native apps?",
-      "link": "https://cloud.google.com/blog/topics/cloud-first/whats-new-cloud-native-apps/",
-      "summary": "Developers and IT operations pros of all stripes come to Google Cloud to build modern, cloud-first and cloud-native applications. Here\u2019s the latest from Google Cloud on everything app dev, containers, Kubernetes, DevOps, serverless and open source, all in one place. Week of Apr 11 - Apr 15, 2022Listen to a ProdcastGoogle\u2019s SRE team has launched a \u201cProdcast\u201d focusing on concepts from its SRE book. Available from wherever you get your podcasts. Run Apache Spark on a modern container baseDataproc, ",
-      "published": "2022-04-15 20:00:00",
-      "timestamp": 1650052800
-    },
-    {
-      "id": "e536cd688420e547a7efc83a8bd0308eb0f6e999",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Running Spark on Kubernetes with Dataproc",
-      "link": "https://cloud.google.com/blog/products/infrastructure-modernization/running-spark-on-kubernetes-with-dataproc/",
-      "summary": "Apache Spark is now the de facto standard for data engineering, data exploration and machine learning. Just likeKubernetes (k8s), is for automating containerized application deployment, scaling, and management. The open source ecosystem is now converging towards utilizing k8s as the compute platform in addition to YARN. Today, we are announcing the general availability of Dataproc on Google Kubernetes Engine (GKE), enabling you to leverage k8s to manage and optimize your compute platforms. You c",
-      "published": "2022-04-14 17:00:00",
-      "timestamp": 1649955600
-    },
-    {
-      "id": "db00bd46f61142230133f1c4182a03a97cc704fb",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Hands-on learning lab: Stream Google Cloud data into Splunk Cloud",
-      "link": "https://cloud.google.com/blog/products/containers-kubernetes/enroll-in-google-cloud-and-splunks-first-hands-on-lab/",
-      "summary": "Splunk and Google Cloud customers, this one\u2019s for you: The first Hands-on-Lab of Splunk on Google Cloud is now live and ready for enrollees. If you haven\u2019t tried it yet, Google Cloud Skills Boost provides hands-on educational experiences so you can learn what you need to know about operating in the cloud. Labs from Google Cloud Skills Boost give users more than just a sandbox environment \u2014 they offer live Google Cloud projects for truly interactive learning. Users get to pick experiences ranging",
-      "published": "2022-04-11 16:00:00",
-      "timestamp": 1649692800
-    },
-    {
-      "id": "5b91a79dc18501454d6033b3cbbd97deffb16ba3",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "How to migrate from Apache HBase to Cloud Bigtable with Live Migrations",
-      "link": "https://cloud.google.com/blog/products/databases/migrate-from-apache-hbase-to-cloud-bigtable-with-live-migrations/",
-      "summary": "Cloud Bigtable is a natural destination for Apache HBase workloads, as it is a fully managed service that is compatible with the HBase API. As a result, many customers running business-critical applications with large-scale data and low-latency needs consider migrating to Bigtable.However, migrating from HBase to Bigtable can still be challenging since you typically have to pause your applications for migration downtime. In addition, some companies choose to write custom tools, which require ext",
-      "published": "2022-04-07 16:00:00",
-      "timestamp": 1649347200
-    },
-    {
-      "id": "5bc151cf23480166cbd260a405e9e551e88f29e5",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Google's subsea fiber optics, explained",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained/",
-      "summary": "Fiber optic networks are a foundation of the modern internet. In fact, subsea cables carry 99% of international network traffic, and yet we are barely aware that they exist. What you might not know is that the first subsea cable was deployed in 1858 for telegraph messages between Europe and North America. A message took over 17 hours to deliver, at 2 minutes and 5 seconds per letter by Morse code. Today, a single cable can deliver a whopping 340 Tbps capacity; that\u2019s more than 25 million times f",
-      "published": "2022-04-06 17:00:00",
-      "timestamp": 1649264400
-    },
-    {
-      "id": "d8f3be14655bc5efd66fcd09103a1d6983708503",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "BigLake: unifying data lakes and data warehouses across clouds",
-      "link": "https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake/",
-      "summary": "The volume of valuable data that organizations have to manage and analyze is growing at an incredible rate. This data is increasingly distributed across many locations, including data warehouses, data lakes, and NoSQL stores. As an organization\u2019s data gets more complex and proliferates across disparate data environments, silos emerge, creating increased risk and cost, especially when that data needs to be moved. Our customers have made it clear; they need help. That\u2019s why today, we\u2019re excited to",
-      "published": "2022-04-06 16:02:00",
-      "timestamp": 1649260920
-    },
-    {
-      "id": "7d2d9ff887c6c4162c8f6e871de549d05dbe7954",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Meet Canadian compliance requirements with Protected B Landing Zone",
-      "link": "https://cloud.google.com/blog/topics/public-sector/meet-canadian-compliance-requirements-protected-b-landing-zones/",
-      "summary": "The Canadian government\u2019s security guidance for cloud environments outlines a standardized set of security controls to protect data and workloads in the cloud. The security guidance, known as the Security Control Profile for Cloud-based GC Services, also outlines security controls and profiles from a different publication, the IT Security Risk Management: A Lifecycle Approach (ITSG-33). The ITSG-33 publication has made Protected B Medium Integrity Medium Availability (PBMM) a key compliance meas",
-      "published": "2022-04-06 16:00:00",
-      "timestamp": 1649260800
-    },
-    {
-      "id": "c7899f23a52c8b59841d41d478d52f9e5e5511f0",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Accelerate your move to the cloud with the new Database Migration Program",
-      "link": "https://cloud.google.com/blog/products/databases/migrate-your-databases-to-google-cloud-with-the-new-database-migration-program/",
-      "summary": "Today, we\u2019re announcing the Database Migration Program, a new and stress-free approach to migrating existing open source and proprietary databases, whether on-premises or in the cloud, to Google Cloud\u2019s industry-leading, managed database services. With the Database Migration Program, you benefit from assessments, tooling, best practices, and resources from our network of specialized database technology partners. The program also offers special incentive funding to offset migration costs, helping",
-      "published": "2022-04-06 16:00:00",
-      "timestamp": 1649260800
-    },
-    {
-      "id": "186ad9ed8dd323843fd69f434d4435211e4d0d97",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Google Cloud partners with CIQ to provide an enterprise-grade experience for Rocky Linux",
-      "link": "https://cloud.google.com/blog/products/compute/google-partners-with-ciq-on-rocky-linux/",
-      "summary": "At Google Cloud, we strive to offer a great customer experience for enterprises by building a robust and supported platform for running all Linux-based workloads.This mission is why we were one of the first cloud providers to offer purpose-built Rocky Linux images when Rocky Linux debuted last year as a replacement option for CentOS. We were also one of the first hyperscalers to sponsor the Rocky Enterprise Software Foundation (RESF) to support the open source community behind this Linux distrib",
-      "published": "2022-04-06 16:00:00",
-      "timestamp": 1649260800
-    },
-    {
-      "id": "3b9d325615e0c1f710e4b16866275300f4d088e6",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Modernize your Oracle workloads to PostgreSQL with Database Migration Service, now in preview",
-      "link": "https://cloud.google.com/blog/products/databases/migrate-oracle-to-postgresql/",
-      "summary": "Many organizations have been struggling with the complexity of their legacy databases. Unfortunately, they often find themselves locked into expensive licenses and restrictive contracts, which can limit their ability to modernize and introduce new functionality. Migrating to open-source databases, especially in the cloud, can solve many of these issues and help build modern, scalable, cost-effective applications.However, database migrations are often highly complex and may require you to convert",
-      "published": "2022-04-06 16:00:00",
-      "timestamp": 1649260800
-    },
-    {
-      "id": "8ce08155b28c2074b16d90862c280f62c8fbc524",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Boost the power of your transactional data with Cloud Spanner change streams",
-      "link": "https://cloud.google.com/blog/products/databases/track-and-integrate-change-data-with-spanner-change-streams/",
-      "summary": "Data is one of the most valuable assets in today\u2019s digital economy. One way to unlock the value of your data is to give it life after it\u2019s first collected. A transactional database, like Cloud Spanner, captures incremental changes to your data in real time, at scale, so you can leverage it in more powerful ways. Cloud Spanner is our fully managed relational database that offers near unlimited scale, strong consistency, and industry-leading high availability of up to 99.999%. The traditional way ",
-      "published": "2022-04-06 16:00:00",
-      "timestamp": 1649260800
-    },
-    {
-      "id": "a277f5ae85e69f8dd39425325ab84226e0e8f361",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Introducing Topaz \u2014 the first subsea cable to connect Canada and Asia",
-      "link": "https://cloud.google.com/blog/products/infrastructure/topaz-subsea-cable-connects-canada-and-asia/",
-      "summary": "There\u2019s a new subsea cable in town: Topaz, the first-ever fiber cable to connect Canada and Asia. Once complete, Topaz will run from Vancouver to the small town of Port Alberni on the west coast of Vancouver Island in British Columbia, and across the Pacific Ocean to the prefectures of Mie and Ibaraki in Japan. We expect the cable to be ready for service in 2023, not only delivering low-latency access to Search, Gmail and YouTube, Google Cloud, and other Google services, but also increasing capa",
-      "published": "2022-04-06 13:00:00",
-      "timestamp": 1649250000
-    },
-    {
-      "id": "66b0de5cf2c627623dedfb363cb3eff3093614a4",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Limitless Data. All Workloads. For Everyone",
-      "link": "https://cloud.google.com/blog/products/data-analytics/google-cloud-data-cloud-summit/",
-      "summary": "Today, data exists in many formats, is provided in real-time streams, and stretches across many different data centers and clouds, all over the world. From analytics, to data engineering, to AI/ML, to data-driven applications, the ways in which we leverage and share data continues to expand. Data has moved beyond the analyst and now impacts every employee, every customer, and every partner. With the dramatic growth in the amount and types of data, workloads, and users, we are at a tipping point ",
-      "published": "2022-04-06 05:00:00",
-      "timestamp": 1649221200
-    },
-    {
-      "id": "e028d687922b2247a2ecf15121c8563a8a3f78cb",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Investing in our data cloud partner ecosystem to accelerate data-driven transformations",
-      "link": "https://cloud.google.com/blog/products/data-analytics/new-partner-initiatives-make-google-cloud-more-accessible/",
-      "summary": "By 2023, 60% of organizations will use three or more analytics solutions to build business applications to connect insights to actions. These multiple implementations add complexity and challenges with multiple data models, disparate toolsets, and lack of integration and governance. To provide organizations the flexibility, interoperability and agility to accelerate data-driven transformations, we have significantly expanded our data cloud partner ecosystem, and are increasing our partner invest",
-      "published": "2022-04-06 05:00:00",
-      "timestamp": 1649221200
-    },
-    {
-      "id": "b179910bd4ff44825ac532b864838e9e31ba4164",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Announcing BigQuery and BigQuery ML operators for Vertex AI Pipelines",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-bigquery-and-bigquery-ml-operators-vertex-ai-pipelines/",
-      "summary": "Developers (especially ML engineers) looking to orchestrate BigQuery and BigQuery ML (BQML) operations as part of a Vertex AI Pipeline have previously needed to write their own custom components. Today we are excited to announce the release of new BigQuery and BQML components for Vertex AI Pipelines, that help make it easier to operationalize BigQuery and BQML jobs in a Vertex AI Pipeline. As official components created by Google Cloud, using these components will allow you to more easily includ",
-      "published": "2022-04-05 16:00:00",
-      "timestamp": 1649174400
-    },
-    {
-      "id": "0d8972aab91b9729ab0e5e4302920275384a2022",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Deploy a coloring page generator in minutes with Cloud Run",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/deploy-coloring-page-generator-minutes-cloud-run/",
-      "summary": "Have you ever written a script to transform an image? Did you share the script with others or did you run it on multiple computers? How many times did you need to update the script or the setup instructions? Did you end up making it a service or an online app? If your script is useful, you\u2019ll likely want to make it available to others. Deploying processing services is a recurring need \u2013 one that comes with its own set of challenges. Serverless technologies let you solve these challenges easily a",
-      "published": "2022-04-05 15:00:00",
-      "timestamp": 1649170800
-    },
-    {
-      "id": "f80ce846272b65cd860293e5e2cf77f15fba5f7f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Cloud Support API: Building a \"red button\" for creating critical cases",
-      "link": "https://cloud.google.com/blog/topics/developers-practitioners/cloud-support-api-building-red-button-creating-critical-cases/",
-      "summary": "The Cymbal Group is a happy (and fictional) GCP premium support customer. They enjoy the benefits of being a premium support customer - access to a dedicated Technical Account Manager (TAM), 15 minute response time for P1 Technical support cases, 24 hours a day, 7 days a week, and now - access to the Cloud Support API. Folks at Cymbal realize that when it comes to urgent situations, every second counts. Previously, the Cymbal Group team spent time finding the correct team members that have acces",
-      "published": "2022-04-04 23:30:00",
-      "timestamp": 1649115000
     }
   ]
 }
