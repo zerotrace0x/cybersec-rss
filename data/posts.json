@@ -1,6 +1,26 @@
 {
-  "generated_at": 1761567472,
+  "generated_at": 1761577873,
   "items": [
+    {
+      "id": "28e8fe4b6333ef25c6cdef03b57487d506f2f6d2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. government agencies to patch a critical-severity Windows Server Update Services (WSUS) vulnerability after adding it to its catalog of security flaws exploited in attacks. [...]",
+      "published": "2025-10-27 13:27:35",
+      "timestamp": 1761571655
+    },
+    {
+      "id": "ba9a9ff1bfecb5206bf49b1ebd7660322125bc2b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
+      "link": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
+      "summary": "Security, trust, and stability \u2014 once the pillars of our digital world \u2014 are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior. Each new breach proves a harsh truth: in cybersecurity, feeling safe can be far more dangerous than being alert. Here\u2019s how that false sense of security",
+      "published": "2025-10-27 12:51:00",
+      "timestamp": 1761569460
+    },
     {
       "id": "7813be8984207486a2558c2e0d6ceab4093eb5bb",
       "source": "The Hacker News",
@@ -77,7 +97,7 @@
       "source_category": "General",
       "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/",
-      "summary": "Attackers are now exploiting a critical-severity Windows Server Update Service (WSUS) vulnerability, which already has publicly available proof-of-concept exploit code. [...]",
+      "summary": "Attackers are now exploiting a critical-severity Windows Server Update Services (WSUS) vulnerability, which already has publicly available proof-of-concept exploit code. [...]",
       "published": "2025-10-24 16:28:14",
       "timestamp": 1761323294
     },
@@ -200,26 +220,6 @@
       "summary": "\u200bThe Pwn2Own Ireland 2025 hacking competition has ended with security researchers collecting $1,024,750 in cash awards after exploiting 73 zero-day vulnerabilities. [...]",
       "published": "2025-10-24 06:36:55",
       "timestamp": 1761287815
-    },
-    {
-      "id": "581f63ec56392070991514f3adcac3cd7d1e95d6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Toys \u201cR\u201d Us Canada warns customers' info leaked in data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/",
-      "summary": "Toys \"R\" Us Canada has sent notices of a data breach to customers informing them of a security incident where threat actors leaked customer records they had previously stolen from its systems. [...]",
-      "published": "2025-10-23 22:25:35",
-      "timestamp": 1761258335
-    },
-    {
-      "id": "d3293d55d00a096193c1432648ebc6d1a48e6d41",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "HP pulls update that broke Microsoft Entra ID auth on some AI PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/",
-      "summary": "HP has pulled an HP OneAgent software update for Windows 11 that mistakenly deleted Microsoft certificates required for some organizations to log in to Microsoft Entra ID, effectively disconnecting them from their company's cloud environments. [...]",
-      "published": "2025-10-23 21:50:41",
-      "timestamp": 1761256241
     },
     {
       "id": "e17369b93092bca6218209e1c4f4d2f2b9cecedc",
@@ -810,16 +810,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Adobe Experience Manager to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2025-54253 (CVSS score: 10.0), a maximum-severity misconfiguration bug that could result in arbitrary code execution.",
       "published": "2025-10-16 04:26:00",
       "timestamp": 1760588760
-    },
-    {
-      "id": "a17f421ec25d30b4711b731470ecbf49f5b26d90",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
-      "link": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
-      "summary": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America. The activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with",
-      "published": "2025-10-15 17:28:00",
-      "timestamp": 1760549280
     },
     {
       "id": "df8840b6f0c61983c90117fdd7b0eac6474a325f",
