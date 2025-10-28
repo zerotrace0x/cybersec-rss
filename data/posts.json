@@ -1,6 +1,66 @@
 {
-  "generated_at": 1761664231,
+  "generated_at": 1761675253,
   "items": [
+    {
+      "id": "285a0787b73e0055a278bc2445fe1e5a5760e1d0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Copilot now lets you build apps, automate workflows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/",
+      "summary": "\u200bMicrosoft announced today a new Microsoft 365 Copilot agent called App Builder that can help users create and deploy apps \"in minutes.\" [...]",
+      "published": "2025-10-28 17:59:18",
+      "timestamp": 1761674358
+    },
+    {
+      "id": "47a0a599736b9b52e47251da9678b58995e452b6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft sued for allegedly tricking millions into Copilot M365 subscriptions",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-sued-for-allegedly-tricking-millions-into-copilot-m365-subscriptions/",
+      "summary": "The Australian Competition and Consumer Commission (ACCC) is suing Microsoft for allegedly misleading 2.7 million Australians into paying for the Copilot AI assistant in the Microsoft 365 service. [...]",
+      "published": "2025-10-28 17:59:05",
+      "timestamp": 1761674345
+    },
+    {
+      "id": "13f7b425bf608dd57e02705e7c5410f704c4e383",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
+      "link": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
+      "summary": "Academic researchers developed a side-channel attack called TEE.Fail, which allows extracting secrets from the trusted execution environment in the CPU, the highly secure area of a system, such as Intel's SGX and TDX, and AMD's SEV-SNP. [...]",
+      "published": "2025-10-28 17:00:00",
+      "timestamp": 1761670800
+    },
+    {
+      "id": "2d47b52202c977b78ee57b140110a0614934bb73",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google Chrome to warn users before opening insecure HTTP sites",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
+      "summary": "Google announced today that the Chrome web browser will ask for permission by default before connecting to public, insecure HTTP websites, beginning with Chrome 154 in October 2026. [...]",
+      "published": "2025-10-28 17:00:00",
+      "timestamp": 1761670800
+    },
+    {
+      "id": "9f40eb39b55db7192523315ef13f336fdd955dbe",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
+      "link": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks. \"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with",
+      "published": "2025-10-28 16:33:00",
+      "timestamp": 1761669180
+    },
+    {
+      "id": "0153917b807d03f2447f083a1aa30047b5661ff3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
+      "link": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
+      "summary": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire. According to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,",
+      "published": "2025-10-28 16:12:00",
+      "timestamp": 1761667920
+    },
     {
       "id": "cf69de9bfc7f9cc55989f1d93a7e9d3da71c4eb8",
       "source": "BleepingComputer",
@@ -12,6 +72,16 @@
       "timestamp": 1761660315
     },
     {
+      "id": "3b5c1437de071087c7b7f1a0639a8af1e36ef010",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Keys to the Kingdom: A Defender's Guide to Privileged Account Monitoring",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/privileged-account-monitoring/",
+      "summary": "Written by: Bhavesh Dhake, Will Silverstone, Matthew Hitchcock, Aaron Fletcher The Criticality of Privileged Access in Today's Threat Landscape Privileged access stands as the most critical pathway for adversaries seeking to compromise sensitive systems and data. Its protection is not only a best practice, it is a fundamental imperative for organizational resilience. The increasing complexity of modern IT environments, exacerbated by rapid cloud migration, has led to a surge in both human and no",
+      "published": "2025-10-28 14:00:00",
+      "timestamp": 1761660000
+    },
+    {
       "id": "72608a7185894acc8d73b93082676c0fbcbdd8b8",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -20,6 +90,26 @@
       "summary": "A new malware-as-a-service (MaaS) platform named Atroposia provides cybercriminals a remote access trojan that combines capabilities for persistent access, evasion, data theft, and local vulnerability scanning. [...]",
       "published": "2025-10-28 13:15:11",
       "timestamp": 1761657311
+    },
+    {
+      "id": "7534f4b9632c527d5a30e6640294ffadd57c397a",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-6204 Dassault Syst\u00e8mes DELMIA Apriso Code Injection Vulnerability CVE-2025-6205 Dassault Syst\u00e8mes DELMIA Apriso Missing Authorization Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant ",
+      "published": "2025-10-28 12:00:00",
+      "timestamp": 1761652800
+    },
+    {
+      "id": "f593125acde187ca067da71190ec8dfdbb9d1268",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Three Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-releases-three-industrial-control-systems-advisories",
+      "summary": "CISA released three Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-301-01 Schneider Electric EcoStruxure ICSMA-25-301-01 Vertikal Systems Hospital Manager Backend Services ICSA-24-352-04 Schneider Electric Modicon (Update B) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
+      "published": "2025-10-28 12:00:00",
+      "timestamp": 1761652800
     },
     {
       "id": "e1a859be5d7e740f14e4582e4ade9dfdcfacc9c2",
@@ -142,26 +232,6 @@
       "timestamp": 1761581520
     },
     {
-      "id": "36931211f74c5441e466d70008262afc43b353dd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google says everyone will be able to vibe code video games",
-      "link": "https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/",
-      "summary": "Google AI Studio product lead teased that everyone will be able to vibe code video games by the end of the year. [...]",
-      "published": "2025-10-27 15:59:36",
-      "timestamp": 1761580776
-    },
-    {
-      "id": "1efd811c9c8e5c76d42eb14e3ef1865757dc7b07",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: New policy removes pre-installed Microsoft Store apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/",
-      "summary": "Microsoft now allows IT administrators to remove pre-installed Microsoft Store apps (also known as in-box apps) using a new app management policy. [...]",
-      "published": "2025-10-27 15:13:58",
-      "timestamp": 1761578038
-    },
-    {
       "id": "6f59dcc50922743e57932d1b0ef09a75eac36630",
       "source": "The Hacker News",
       "source_category": "General",
@@ -170,26 +240,6 @@
       "summary": "Cybersecurity researchers have discovered a new vulnerability in OpenAI's ChatGPT Atlas web browser that could allow malicious actors to inject nefarious instructions into the artificial intelligence (AI)-powered assistant's memory and run arbitrary code. \"This exploit can allow attackers to infect systems with malicious code, grant themselves access privileges, or deploy malware,\" LayerX",
       "published": "2025-10-27 14:31:00",
       "timestamp": 1761575460
-    },
-    {
-      "id": "0f2a679d961a5445dceb9539911c96d550a1ca00",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The State of Exposure Management in 2025: Insights From 3,000+ Organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/",
-      "summary": "Attackers are using AI to weaponize old vulnerabilities while security teams face expanding attack surfaces and limited resources. Intruder's 2025 Exposure Management Index reveals how 3,000+ organizations are adapting and fixing critical flaws faster than ever. [...]",
-      "published": "2025-10-27 14:01:11",
-      "timestamp": 1761573671
-    },
-    {
-      "id": "28e8fe4b6333ef25c6cdef03b57487d506f2f6d2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. government agencies to patch a critical-severity Windows Server Update Services (WSUS) vulnerability after adding it to its catalog of security flaws exploited in attacks. [...]",
-      "published": "2025-10-27 13:27:35",
-      "timestamp": 1761571655
     },
     {
       "id": "ba9a9ff1bfecb5206bf49b1ebd7660322125bc2b",
@@ -772,26 +822,6 @@
       "timestamp": 1760637600
     },
     {
-      "id": "f6b9acbc6dc8d7b1834091ebd56105e1e1897310",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
-      "link": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
-      "summary": "A threat actor with ties to the Democratic People's Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method. The activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,",
-      "published": "2025-10-16 14:56:00",
-      "timestamp": 1760626560
-    },
-    {
-      "id": "3586305b0f4813c895bd3a8561f6d7166f65ef19",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
-      "link": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
-      "summary": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers, such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems. \"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used",
-      "published": "2025-10-16 14:52:00",
-      "timestamp": 1760626320
-    },
-    {
       "id": "64490d1e8ac04e4ea2507da8eff27015260c235f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -942,22 +972,22 @@
       "timestamp": 1760018400
     },
     {
-      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
-      "published": "2025-10-09 12:00:00",
-      "timestamp": 1760011200
-    },
-    {
       "id": "6cda9edff6de4352fc2eb00fc7afb48fc7134c8f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Four Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
       "summary": "CISA released four Industrial Control Systems (ICS) Advisories on October 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-282-01 Hitachi Energy Asset Suite ICSA-25-282-02 Rockwell Automation Lifecycle Services with Cisco ICSA-25-282-03 Rockwell Automation Stratix ICSA-25-128-03 Mitsubishi Electric Multiple FA Products (Update A) CISA encourages users and administrators to review newly released ICS Advisori",
+      "published": "2025-10-09 12:00:00",
+      "timestamp": 1760011200
+    },
+    {
+      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
       "published": "2025-10-09 12:00:00",
       "timestamp": 1760011200
     },
@@ -1132,12 +1162,12 @@
       "timestamp": 1758628800
     },
     {
-      "id": "8533fc01f05da3e4e77d2aea7b99986dea676f6f",
+      "id": "1814e22634797afd9afa411b9b6b5dfa26c3a8f7",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "Widespread Supply Chain Compromise Impacting npm Ecosystem",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem",
-      "summary": "CISA is releasing this Alert to provide guidance in response to a widespread software supply chain compromise involving the world\u2019s largest JavaScript registry, npmjs.com. A self-replicating worm\u2014publicly known as \u201cShai-Hulud\u201d\u2014has compromised over 500 packages.[i] After gaining initial access, the malicious cyber actor deployed malware that scanned the environment for sensitive credentials. The cyber actor then targeted GitHub Personal Access Tokens (PATs) and application programming interface (",
+      "title": "CISA Releases Six Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-six-industrial-control-systems-advisories",
+      "summary": "CISA released six Industrial Control Systems (ICS) advisories on September 23, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-266-01 AutomationDirect CLICK PLUS ICSA-25-266-02 Mitsubishi Electric MELSEC-Q Series CPU Module ICSA-25-266-03 Schneider Electric SESU ICSA-25-266-04 Viessmann Vitogate 300 ICSA-25-023-02 Hitachi Energy RTU500 Series Product (Update A) ICSA-25-093-01 Hitachi Energy RTU500 Series (Upd",
       "published": "2025-09-23 12:00:00",
       "timestamp": 1758628800
     },
@@ -1152,34 +1182,14 @@
       "timestamp": 1758628800
     },
     {
-      "id": "1814e22634797afd9afa411b9b6b5dfa26c3a8f7",
+      "id": "8533fc01f05da3e4e77d2aea7b99986dea676f6f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/cisa-releases-six-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) advisories on September 23, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-266-01 AutomationDirect CLICK PLUS ICSA-25-266-02 Mitsubishi Electric MELSEC-Q Series CPU Module ICSA-25-266-03 Schneider Electric SESU ICSA-25-266-04 Viessmann Vitogate 300 ICSA-25-023-02 Hitachi Energy RTU500 Series Product (Update A) ICSA-25-093-01 Hitachi Energy RTU500 Series (Upd",
+      "title": "Widespread Supply Chain Compromise Impacting npm Ecosystem",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem",
+      "summary": "CISA is releasing this Alert to provide guidance in response to a widespread software supply chain compromise involving the world\u2019s largest JavaScript registry, npmjs.com. A self-replicating worm\u2014publicly known as \u201cShai-Hulud\u201d\u2014has compromised over 500 packages.[i] After gaining initial access, the malicious cyber actor deployed malware that scanned the environment for sensitive credentials. The cyber actor then targeted GitHub Personal Access Tokens (PATs) and application programming interface (",
       "published": "2025-09-23 12:00:00",
       "timestamp": 1758628800
-    },
-    {
-      "id": "b6e8ab3a4ff5f49a60dfc97c99889452a09b85b9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "SonicWall Releases Advisory for Customers after Security Incident",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/22/sonicwall-releases-advisory-customers-after-security-incident",
-      "summary": "SonicWall released a security advisory to assist their customers with protecting systems impacted by the MySonicWall cloud backup file incident. SonicWall\u2019s investigation found that a malicious actor performed a series of brute force techniques against their MySonicWall.com web portal to gain access to a subset of customers\u2019 preference files stored in their cloud backups. While credentials within the files were encrypted, the files also included information that actors can use to gain access to ",
-      "published": "2025-09-22 12:00:00",
-      "timestamp": 1758542400
-    },
-    {
-      "id": "39ae6bfe1574112cafecc6c85f4930beb5f1ad08",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Nine Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/18/cisa-releases-nine-industrial-control-systems-advisories",
-      "summary": "CISA released nine Industrial Control Systems (ICS) advisories on September 18, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-261-01 Westermo Network Technologies WeOS 5 ICSA-25-261-02 Westermo Network Technologies WeOS 5 ICSA-25-261-03 Schneider Electric Saitel DR & Saitel DP Remote Terminal Unit ICSA-25-261-04 Hitachi Energy Asset Suite ICSA-25-261-05 Hitachi Energy Service Suite ICSA-25-261-06 Cognex In-",
-      "published": "2025-09-18 12:00:00",
-      "timestamp": 1758196800
     },
     {
       "id": "873fc4179994745f9fbee7e618a5cfdf0f660a73",
@@ -1350,16 +1360,6 @@
       "summary": "Written by: Gabby Roncone, Wesley Shields UPDATE (July 10) In late June 2025, Google Threat Intelligence Group (GTIG) discovered continued UNC6293 operations that demonstrate an evolution in the group\u2019s tradecraft. Using similar lure themes as previously observed activity, UNC6293 continued the ASP phishing campaign against prominent academics, critics of Russia, and journalists using different ASP names, potentially as a response to our publication of their tradecraft. In a different campaign, ",
       "published": "2025-06-18 14:00:00",
       "timestamp": 1750255200
-    },
-    {
-      "id": "070761c66c315bb5d9a547b93d948bf3aca98e39",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Hello, Operator? A Technical Analysis of Vishing Threats",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/technical-analysis-vishing-threats/",
-      "summary": "Written by: Nick Guttilla Introduction Organizations are increasingly relying on diverse digital communication channels for essential business operations. The way employees interact with colleagues, access corporate resources, and especially, receive information technology (IT) support is often conducted through calls, chat platforms, and other remote technologies. While these various available methods enhance both efficiency and global accessibility, they also introduce an expanded attack surfa",
-      "published": "2025-06-04 15:00:00",
-      "timestamp": 1749049200
     },
     {
       "id": "7a3a22170ca0eb8acc5a7b83b2628a5342587627",
