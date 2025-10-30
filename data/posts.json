@@ -1,6 +1,46 @@
 {
-  "generated_at": 1761847988,
+  "generated_at": 1761858510,
   "items": [
+    {
+      "id": "f7a3e30e1480ef3da08b87683c03a59b140381e7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Massive surge of NFC relay malware steals Europeans\u2019 credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/",
+      "summary": "Near-Field Communication (NFC) relay malware has grown massively popular in Eastern Europe, with researchers discovering over 760 malicious Android apps using the technique to steal people's payment card information in the past few months. [...]",
+      "published": "2025-10-30 20:17:03",
+      "timestamp": 1761855423
+    },
+    {
+      "id": "a600253ef5ff65b4cdc9e1fe6ffcf738658679a5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch VMware Tools flaw exploited by Chinese hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/",
+      "summary": "CISA has ordered federal agencies to patch a high-severity vulnerability in Broadcom's VMware Aria Operations and VMware Tools software, exploited by Chinese hackers since October 2024. [...]",
+      "published": "2025-10-30 20:01:40",
+      "timestamp": 1761854500
+    },
+    {
+      "id": "85be5ed6232b281d387aaca6282b8ad3025307c6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Major telecom services provider Ribbon breached by state hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/",
+      "summary": "Ribbon Communications, a provider of telecommunications services to the U.S. government and telecom companies worldwide, revealed that nation-state hackers breached its IT network as early as December 2024. [...]",
+      "published": "2025-10-30 19:03:37",
+      "timestamp": 1761851017
+    },
+    {
+      "id": "c662f81f5ba145a45cc6987a3f3acdc5eaffbd0c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "BPO giant Conduent confirms data breach impacts 10.5 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/",
+      "summary": "American business services giant Conduent has confirmed that a 2024 data breach has impacted over 10.5 million people, according to notifications filed with the US Attorney General's offices. [...]",
+      "published": "2025-10-30 18:38:45",
+      "timestamp": 1761849525
+    },
     {
       "id": "2778f6da89350dea318e050fb210ce85c083f705",
       "source": "BleepingComputer",
@@ -10,6 +50,16 @@
       "summary": "WhatsApp is rolling out passkey-encrypted backups for iOS and Android devices, enabling users to encrypt their chat history using their fingerprint, face, or a screen lock code. [...]",
       "published": "2025-10-30 18:02:49",
       "timestamp": 1761847369
+    },
+    {
+      "id": "45ef7d77b4c37d03d960e66c23a2dcb8ecf68fd8",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The 5 generative AI security threats you need to know about detailed in new e-book",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/30/the-5-generative-ai-security-threats-you-need-to-know-about-detailed-in-new-e-book/",
+      "summary": "In this blog post, we\u2019ll highlight the key themes covered in the e-book, including the challenges organizations face, the top generative AI threats to organizations, and how companies can enhance their security posture to meet the dangers of today\u2019s unpredictable AI environments. The post The 5 generative AI security threats you need to know about detailed in new e-book appeared first on Microsoft Security Blog.",
+      "published": "2025-10-30 18:00:00",
+      "timestamp": 1761847200
     },
     {
       "id": "653a2b872a4ad26eb525bb6e7b6670a0793ed5c5",
@@ -182,36 +232,6 @@
       "timestamp": 1761764586
     },
     {
-      "id": "9376f2b2bcb82efd7f9fd89cccbfa7bdadc4210f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Media Creation Tool broken on some Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/",
-      "summary": "Microsoft has confirmed that the Windows 11 Media Creation Tool (MCT) is working again on Windows 10 22H2 and Windows 11 25H2 systems. [...]",
-      "published": "2025-10-29 17:41:28",
-      "timestamp": 1761759688
-    },
-    {
-      "id": "2ea9a0cbe67283e6347463f71900c700828efa7b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/",
-      "summary": "Microsoft is suffering an ongoing DNS outage affecting customers worldwide, preventing them from logging into company networks and accessing Microsoft Azure and Microsoft 365 services. [...]",
-      "published": "2025-10-29 16:49:33",
-      "timestamp": 1761756573
-    },
-    {
-      "id": "c4c3a8521370e638528f0359b1c88c7ce9c11a4c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "PhantomRaven attack floods npm with credential-stealing packages",
-      "link": "https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/",
-      "summary": "An active campaign named 'PhantomRaven' is targeting developers with dozens of malicious npm packages that steal authentication tokens, CI/CD secrets, and GitHub credentials. [...]",
-      "published": "2025-10-29 16:26:38",
-      "timestamp": 1761755198
-    },
-    {
       "id": "e19566cbb587286f1729730e2c8036de2d1bdc88",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +250,6 @@
       "summary": "Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks. In the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been",
       "published": "2025-10-29 14:57:00",
       "timestamp": 1761749820
-    },
-    {
-      "id": "d14f251d289374085b35593e3859b6a1f0cd0dd1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes 0x800F081F errors causing Windows update failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/",
-      "summary": "Microsoft has resolved a known issue that caused Windows updates to fail, leading to 0x800F081F errors on Windows 11 24H2 systems. [...]",
-      "published": "2025-10-29 14:32:56",
-      "timestamp": 1761748376
     },
     {
       "id": "2bef9133b884ca1c6a1994a679e4f5ee93cf3cec",
@@ -497,7 +507,7 @@
       "source_category": "Blue Team",
       "title": "Microsoft Releases Out-of-Band Security Update to Mitigate Windows Server Update Service Vulnerability, CVE-2025-59287",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/microsoft-releases-out-band-security-update-mitigate-windows-server-update-service-vulnerability-cve",
-      "summary": "Updated October 29, 2025: CISA has updated this Alert to include revised information on vulnerable product identification, potential threat activity detections, and additional resources. Microsoft released an update to address a critical remote code execution vulnerability impacting Windows Server Update Service (WSUS) in Windows Server (2012, 2016, 2019, 2022, and 2025), CVE-2025-59287, that a prior update did not fully mitigate. CISA strongly urges organizations to implement Microsoft\u2019s update",
+      "summary": "Updated October 29, 2025: CISA has updated this Alert to include revised information on vulnerable product identification, potential threat activity detections, and additional resources. Microsoft released an update to address a critical remote code execution vulnerability impacting Windows Server Update Service (WSUS) in Windows Server (2012, 2016, 2019, 2022, and 2025), CVE-2025-59287, that a prior update did not fully mitigate. (Updated October 29, 2025): CISA strongly urges organizations to ",
       "published": "2025-10-24 12:00:00",
       "timestamp": 1761307200
     },
@@ -812,7 +822,7 @@
       "timestamp": 1761044400
     },
     {
-      "id": "6d5d2289ad2e7c2f9a5919952bd352a09ad46c66",
+      "id": "985b5cbbff563614992f814a4e7a3053172b317d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
@@ -990,16 +1000,6 @@
       "summary": "The world's largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&T, Comcast and Verizon, new evidence suggests. Experts say the heavy concentration of infected devices at U.S. providers is complicating efforts to limit collateral damage from the botnet's attacks, which shattered previous records this week with a brief traffic flood that clocked in at nearly 30 trillion bits of dat",
       "published": "2025-10-10 16:10:43",
       "timestamp": 1760112643
-    },
-    {
-      "id": "a48e1ea19d88bf4f73783cbcef53ff7f0c0f73ce",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/09/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/",
-      "summary": "\u200bSecurity is a core focus at Microsoft Ignite 2025, reflected in dedicated sessions and hands-on experiences designed for security professionals and leaders. Take a look at the session catalog. The post Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog appeared first on Microsoft Security Blog.",
-      "published": "2025-10-09 16:00:00",
-      "timestamp": 1760025600
     },
     {
       "id": "c5572a0e3b9922bd7aaba12634d8824814096b14",
