@@ -1,6 +1,26 @@
 {
-  "generated_at": 1762193590,
+  "generated_at": 1762204096,
   "items": [
+    {
+      "id": "ccf1a8e7f2cae1c64a8fa39cdd3e8117379e3731",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake Solidity VSCode extension on Open VSX backdoors developers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/",
+      "summary": "A remote access trojan dubbed SleepyDuck, and disguised as the well-known Solidity extension in the Open VSX open-source registry, uses an Ethereum smart contract to establish a communication channel with the attacker. [...]",
+      "published": "2025-11-03 20:50:10",
+      "timestamp": 1762203010
+    },
+    {
+      "id": "ffa282c74bd356951ab20017015b0583aac07c8f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/",
+      "summary": "Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel. [...]",
+      "published": "2025-11-03 18:35:15",
+      "timestamp": 1762194915
+    },
     {
       "id": "9f86b81ca06a92f06b039b0d90c078efc0b2733b",
       "source": "Google Project Zero",
@@ -12,6 +32,16 @@
       "timestamp": 1762193340
     },
     {
+      "id": "b7ec2d9edb24d27d010b61c6fba890ab6ac8774b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
+      "link": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
+      "summary": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck. According to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to",
+      "published": "2025-11-03 18:08:00",
+      "timestamp": 1762193280
+    },
+    {
       "id": "367fdcca635de099ada42fb348c1c4c3c54f7ef5",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -20,6 +50,16 @@
       "summary": "Three former employees of cybersecurity incident response companies DigitalMint and Sygnia have been indicted for allegedly hacking the networks of five U.S. companies in BlackCat (ALPHV) ransomware attacks between May 2023 and November 2023. [...]",
       "published": "2025-11-03 17:15:39",
       "timestamp": 1762190139
+    },
+    {
+      "id": "82f4f3268405529763b532a18b281021cc3337b2",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/11/03/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/",
+      "summary": "Microsoft Incident Response \u2013 Detection and Response Team (DART) researchers uncovered a new backdoor that is notable for its novel use of the OpenAI Assistants Application Programming Interface (API) as a mechanism for command-and-control (C2) communications. Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised environment. To do this, a c",
+      "published": "2025-11-03 17:00:00",
+      "timestamp": 1762189200
     },
     {
       "id": "a364055faf191c18758cdb2d25aad052b78639f0",
@@ -190,16 +230,6 @@
       "summary": "The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY. The activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an",
       "published": "2025-11-01 13:43:00",
       "timestamp": 1762004580
-    },
-    {
-      "id": "6c4ade82ed72f315793feab609c1efe144446cc7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/",
-      "summary": "If you have two headphones, speakers, earbuds, or any other Bluetooth hardware, you can now use both simultaneously on a Copilot+ PC. [...]",
-      "published": "2025-10-31 20:59:02",
-      "timestamp": 1761944342
     },
     {
       "id": "7cd86ecbd3469dd7b731ae4b8f3f37ef40d89c1e",
@@ -762,16 +792,6 @@
       "timestamp": 1761219000
     },
     {
-      "id": "caf5e1736d77a70f250bedb929d6e7622bf870b4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
-      "link": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
-      "summary": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link. For decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
-      "published": "2025-10-23 11:00:00",
-      "timestamp": 1761217200
-    },
-    {
       "id": "9b5e29ca9f7a73c60f29bd3637973d105bcbb89d",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -990,16 +1010,6 @@
       "summary": "Updated October 22, 2025 CISA is continually collaborating with partners across government and the private sector. Through this collaboration, CISA has determined that CVE-2025-6264 has not been exploited and there is insufficient evidence to keep this CVE on the KEV and that the best course of action is to remove it. CISA is committed to continued collaboration with partners. End of Update CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evi",
       "published": "2025-10-14 12:00:00",
       "timestamp": 1760443200
-    },
-    {
-      "id": "8fb95bfe2c686c38dcd9c55557bc7c45f897be54",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Building a lasting security culture at Microsoft",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/10/13/building-a-lasting-security-culture-at-microsoft/",
-      "summary": "At Microsoft, building a lasting security culture is more than a strategic priority\u2014it is a call to action. Security begins and ends with people, which is why every employee plays a critical role in protecting both Microsoft and our customers. When secure practices are woven into how we think, work, and collaborate, individual actions come together to form a unified, proactive, and resilient defense. \u200b The post Building a lasting security culture at Microsoft appeared first on Microsoft Security",
-      "published": "2025-10-13 16:00:00",
-      "timestamp": 1760371200
     },
     {
       "id": "d7adef61b32231cf8a25dadbb73e0261cfc56591",
