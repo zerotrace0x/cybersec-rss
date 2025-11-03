@@ -1,6 +1,56 @@
 {
-  "generated_at": 1762182596,
+  "generated_at": 1762193590,
   "items": [
+    {
+      "id": "9f86b81ca06a92f06b039b0d90c078efc0b2733b",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Defeating KASLR by Doing Nothing at All",
+      "link": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
+      "summary": "Posted by Seth Jenkins, Project ZeroIntroductionI've recently been researching Pixel kernel exploitation and as part of this research I found myself with an excellent arbitrary write primitive\u2026but without a KASLR leak. As necessity is the mother of all invention, on a hunch, I started researching the Linux kernel linear mapping.The Linux Linear MappingThe linear mapping is a region in the kernel virtual address space that is a direct 1:1 unstructured representation of physical memory. Working wi",
+      "published": "2025-11-03 18:09:00",
+      "timestamp": 1762193340
+    },
+    {
+      "id": "367fdcca635de099ada42fb348c1c4c3c54f7ef5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US cybersecurity experts indicted for BlackCat ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/",
+      "summary": "Three former employees of cybersecurity incident response companies DigitalMint and Sygnia have been indicted for allegedly hacking the networks of five U.S. companies in BlackCat (ALPHV) ransomware attacks between May 2023 and November 2023. [...]",
+      "published": "2025-11-03 17:15:39",
+      "timestamp": 1762190139
+    },
+    {
+      "id": "a364055faf191c18758cdb2d25aad052b78639f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers use RMM tools to breach freighters and steal cargo shipments",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/",
+      "summary": "Threat actors are targeting freight brokers and trucking carriers with malicious links and emails to deploy remote monitoring and management tools (RMMs) that enable them to hijack cargo and steal physical goods. [...]",
+      "published": "2025-11-03 16:46:40",
+      "timestamp": 1762188400
+    },
+    {
+      "id": "67f7841425bcb1d4f336b128fa8c036567ed9626",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
+      "summary": "An out-of-band (OOB) security update that patches an actively exploited Windows Server Update Service (WSUS) vulnerability has broken hotpatching on some Windows Server 2025 devices. [...]",
+      "published": "2025-11-03 15:22:12",
+      "timestamp": 1762183332
+    },
+    {
+      "id": "d1411908bb6c04b8c09774df10c9d5b1e0388c68",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OAuth Device Code Phishing: Azure vs. Google Compared",
+      "link": "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/",
+      "summary": "Device code phishing abuses the OAuth device flow, and Google and Azure produce strikingly different attack surfaces. Register for Huntress Labs' Live Hack to learn about attack techniques, defensive tactics, and get an Identity Security Assessment. [...]",
+      "published": "2025-11-03 15:11:21",
+      "timestamp": 1762182681
+    },
     {
       "id": "e2563674e8597b96bd00831b6de165b4fde214c2",
       "source": "The Hacker News",
@@ -152,16 +202,6 @@
       "timestamp": 1761944342
     },
     {
-      "id": "0850f799ea3c7485cbafe933c56417acd82192d2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data",
-      "link": "https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/",
-      "summary": "The University of Pennsylvania suffered a cybersecurity incident on Friday, where students and alumni received a series of offensive emails from various University email addresses, claiming that data was stolen in a breach. [...]",
-      "published": "2025-10-31 18:32:39",
-      "timestamp": 1761935559
-    },
-    {
       "id": "7cd86ecbd3469dd7b731ae4b8f3f37ef40d89c1e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -172,16 +212,6 @@
       "timestamp": 1761931140
     },
     {
-      "id": "ef97eb26405dc08a547416c4dd89c77c9287521d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Edge gets scareware sensor for faster scam detection",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/",
-      "summary": "Microsoft is introducing a new scareware sensor for the Microsoft Edge web browser, which helps detect scam pages more quickly and ensures that Defender SmartScreen blocks them faster. [...]",
-      "published": "2025-10-31 17:15:06",
-      "timestamp": 1761930906
-    },
-    {
       "id": "e9b8987641f29f7fd769540b8c9be894a657d243",
       "source": "The Hacker News",
       "source_category": "General",
@@ -190,26 +220,6 @@
       "summary": "A suspected nation-state threat actor has been linked to the distribution of a new malware called Airstalk as part of a likely supply chain attack. Palo Alto Networks Unit 42 said it's tracking the cluster under the moniker CL-STA-1009, where \"CL\" stands for cluster and \"STA\" refers to state-backed motivation. \"Airstalk misuses the AirWatch API for mobile device management (MDM), which is now",
       "published": "2025-10-31 16:08:00",
       "timestamp": 1761926880
-    },
-    {
-      "id": "b08e86d9802387fd260b4c680a8e53f9dec45073",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Australia warns of BadCandy infections on unpatched Cisco devices",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/",
-      "summary": "The Australian government is warning about ongoing cyberattacks against unpatched Cisco IOS XE devices in the country to infect routers with the BadCandy webshell. [...]",
-      "published": "2025-10-31 15:38:55",
-      "timestamp": 1761925135
-    },
-    {
-      "id": "01b68b82cc56461dcfa17e27e459ad7961fc79fc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why password controls still matter in cybersecurity",
-      "link": "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/",
-      "summary": "Passwords still matter \u2014 and weak policies leave the door wide open. Specops Software explains how longer passphrases, smarter banned-password lists, and adaptive rotation strategies can strengthen security without frustrating users. [...]",
-      "published": "2025-10-31 14:02:12",
-      "timestamp": 1761919332
     },
     {
       "id": "a00cde85f80eb09673ef356a5bad4cecf1d596c3",
@@ -1390,16 +1400,6 @@
       "summary": "Posted by Mateusz Jurczyk, Google Project Zero Welcome back to the Windows Registry Adventure! In the previous installment of the series, we took a deep look into the internals of the regf hive format. Understanding this foundational aspect of the registry is crucial, as it illuminates the design principles behind the mechanism, as well as its inherent strengths and weaknesses. The data stored within the regf file represents the definitive state of the hive. Knowing how to parse this data is suf",
       "published": "2025-04-16 21:19:00",
       "timestamp": 1744838340
-    },
-    {
-      "id": "60bfd55dcb7007d7ef521d0dd6903af1137f861a",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Blasting Past Webp",
-      "link": "https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html",
-      "summary": "An analysis of the NSO BLASTPASS iMessage exploit Posted by Ian Beer, Google Project Zero On September 7, 2023 Apple issued an out-of-band security update for iOS: Around the same time on September 7th 2023, Citizen Lab published a blog post linking the two CVEs fixed in iOS 16.6.1 to an \"NSO Group Zero-Click, Zero-Day exploit captured in the wild\": \"[The target was] an individual employed by a Washington DC-based civil society organization with international offices... The exploit chain was cap",
-      "published": "2025-03-26 17:30:00",
-      "timestamp": 1743010200
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
