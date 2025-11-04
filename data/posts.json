@@ -1,6 +1,36 @@
 {
-  "generated_at": 1762279997,
+  "generated_at": 1762290506,
   "items": [
+    {
+      "id": "b363ba15a2b0501c652d2365ce1aba6c751656a9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malicious Android apps on Google Play downloaded 42 million times",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/",
+      "summary": "Hundreds of malicious Android apps on Google Play were downloaded more than 40 million times between June 2024 and May 2025, notes a report from cloud security company Zscaler. [...]",
+      "published": "2025-11-04 20:26:26",
+      "timestamp": 1762287986
+    },
+    {
+      "id": "50756faa59405b72984f52e51a64694f3064f348",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft removing Defender Application Guard from Office",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/",
+      "summary": "Microsoft plans to remove Defender Application Guard from Office by December 2027, starting with the February 2026 release of Office version 2602. [...]",
+      "published": "2025-11-04 19:02:33",
+      "timestamp": 1762282953
+    },
+    {
+      "id": "a3bd6c5c0a2e2bf9ce00b28a140f5ed69afb68d9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "A Cybercrime Merger Like No Other \u2014 Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
+      "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
+      "summary": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025. \"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name \u2013 a recurring cycle reflecting platform moderation and the operators'",
+      "published": "2025-11-04 17:25:00",
+      "timestamp": 1762277100
+    },
     {
       "id": "1971d2b701644f80d507af843298711f5d7823f4",
       "source": "Microsoft Security Blog",
@@ -118,6 +148,16 @@
       "title": "CISA Releases Five Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-releases-five-industrial-control-systems-advisories",
       "summary": "CISA released five Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-308-01 Fuji Electric Monitouch V-SFT-6 ICSA-25-308-02 Survision License Plate Recognition Camera ICSA-25-308-03 Delta Electronics CNCSoft-G2 ICSA-25-308-04 Radiometrics VizAir ICSA-25-308-05 IDIS ICM Viewer CISA encourages users and administrators to review newly released ICS Advisories for technical deta",
+      "published": "2025-11-04 12:00:00",
+      "timestamp": 1762257600
+    },
+    {
+      "id": "261d6b4e305b6719eb03f6627b37c21e63bfbc18",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-11371 Gladinet CentreStack and Triofox Files or Directories Accessible to External Parties Vulnerability CVE-2025-48703 CWP Control Web Panel OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-",
       "published": "2025-11-04 12:00:00",
       "timestamp": 1762257600
     },
@@ -250,36 +290,6 @@
       "summary": "Microsoft Incident Response \u2013 Detection and Response Team (DART) researchers uncovered a new backdoor that is notable for its novel use of the OpenAI Assistants Application Programming Interface (API) as a mechanism for command-and-control (C2) communications. Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised environment. To do this, a c",
       "published": "2025-11-03 17:00:00",
       "timestamp": 1762189200
-    },
-    {
-      "id": "a364055faf191c18758cdb2d25aad052b78639f0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers use RMM tools to breach freighters and steal cargo shipments",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/",
-      "summary": "Threat actors are targeting freight brokers and trucking carriers with malicious links and emails to deploy remote monitoring and management tools (RMMs) that enable them to hijack cargo and steal physical goods. [...]",
-      "published": "2025-11-03 16:46:40",
-      "timestamp": 1762188400
-    },
-    {
-      "id": "67f7841425bcb1d4f336b128fa8c036567ed9626",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
-      "summary": "An out-of-band (OOB) security update that patches an actively exploited Windows Server Update Service (WSUS) vulnerability has broken hotpatching on some Windows Server 2025 devices. [...]",
-      "published": "2025-11-03 15:22:12",
-      "timestamp": 1762183332
-    },
-    {
-      "id": "d1411908bb6c04b8c09774df10c9d5b1e0388c68",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OAuth Device Code Phishing: Azure vs. Google Compared",
-      "link": "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/",
-      "summary": "Device code phishing abuses the OAuth device flow, and Google and Azure produce strikingly different attack surfaces. Register for Huntress Labs' Live Hack to learn about attack techniques, defensive tactics, and get an Identity Security Assessment. [...]",
-      "published": "2025-11-03 15:11:21",
-      "timestamp": 1762182681
     },
     {
       "id": "e2563674e8597b96bd00831b6de165b4fde214c2",
@@ -772,14 +782,14 @@
       "timestamp": 1761550140
     },
     {
-      "id": "a3aac6cb1831b7d7a0ab468c506bb96bc6e538b2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
-      "link": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
-      "summary": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42. \"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is",
-      "published": "2025-10-24 18:35:00",
-      "timestamp": 1761330900
+      "id": "2ffcb17d77f9a151b6b3b717733393f991bb8ec5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54236 Adobe Commerce and Magento Improper Input Validation Vulnerability CVE-2025-59287 Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (B",
+      "published": "2025-10-24 12:00:00",
+      "timestamp": 1761307200
     },
     {
       "id": "3409f245b80ac22db2e65ab2b8ac5720c89bc438",
@@ -788,16 +798,6 @@
       "title": "Microsoft Releases Out-of-Band Security Update to Mitigate Windows Server Update Service Vulnerability, CVE-2025-59287",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/microsoft-releases-out-band-security-update-mitigate-windows-server-update-service-vulnerability-cve",
       "summary": "Updated October 29, 2025: CISA has updated this Alert to include revised information on vulnerable product identification, potential threat activity detections, and additional resources. Microsoft released an update to address a critical remote code execution vulnerability impacting Windows Server Update Service (WSUS) in Windows Server (2012, 2016, 2019, 2022, and 2025), CVE-2025-59287, that a prior update did not fully mitigate. (Updated October 29, 2025): CISA strongly urges organizations to ",
-      "published": "2025-10-24 12:00:00",
-      "timestamp": 1761307200
-    },
-    {
-      "id": "2ffcb17d77f9a151b6b3b717733393f991bb8ec5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54236 Adobe Commerce and Magento Improper Input Validation Vulnerability CVE-2025-59287 Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (B",
       "published": "2025-10-24 12:00:00",
       "timestamp": 1761307200
     },
@@ -942,7 +942,7 @@
       "timestamp": 1760637600
     },
     {
-      "id": "ca192d41caf47070570bf09f58c6bc4328f17544",
+      "id": "64490d1e8ac04e4ea2507da8eff27015260c235f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Extortion and ransomware drive over half of cyberattacks",
@@ -982,7 +982,7 @@
       "timestamp": 1760616000
     },
     {
-      "id": "dfc7fea8994dbb24c595e09630503383601bda72",
+      "id": "df8840b6f0c61983c90117fdd7b0eac6474a325f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "The importance of hardening customer support tools against cyberattacks",
@@ -992,22 +992,22 @@
       "timestamp": 1760544000
     },
     {
-      "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
-      "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
-    },
-    {
       "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
+      "published": "2025-10-15 12:00:00",
+      "timestamp": 1760529600
+    },
+    {
+      "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
+      "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
       "published": "2025-10-15 12:00:00",
       "timestamp": 1760529600
     },
@@ -1062,22 +1062,22 @@
       "timestamp": 1760018400
     },
     {
-      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
-      "published": "2025-10-09 12:00:00",
-      "timestamp": 1760011200
-    },
-    {
       "id": "6cda9edff6de4352fc2eb00fc7afb48fc7134c8f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Four Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
       "summary": "CISA released four Industrial Control Systems (ICS) Advisories on October 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-282-01 Hitachi Energy Asset Suite ICSA-25-282-02 Rockwell Automation Lifecycle Services with Cisco ICSA-25-282-03 Rockwell Automation Stratix ICSA-25-128-03 Mitsubishi Electric Multiple FA Products (Update A) CISA encourages users and administrators to review newly released ICS Advisori",
+      "published": "2025-10-09 12:00:00",
+      "timestamp": 1760011200
+    },
+    {
+      "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
       "published": "2025-10-09 12:00:00",
       "timestamp": 1760011200
     },
@@ -1162,22 +1162,22 @@
       "timestamp": 1759233600
     },
     {
-      "id": "14883688993f3a148849a65de3f139c4b3bca1e9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Strengthens Commitment to SLTT Governments",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-strengthens-commitment-sltt-governments",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced that it has transitioned to a new model to better equip state, local, tribal, and territorial (SLTT) governments to strengthen shared responsibility nationwide. CISA is supporting our SLTT partners with access to grant funding, no-cost tools, and cybersecurity expertise to be resilient and lead at the local level. CISA\u2019s cooperative agreement with the Center for Internet Security (CIS) will reach its planned end on September 3",
-      "published": "2025-09-29 12:00:00",
-      "timestamp": 1759147200
-    },
-    {
       "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
       "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
+      "published": "2025-09-29 12:00:00",
+      "timestamp": 1759147200
+    },
+    {
+      "id": "14883688993f3a148849a65de3f139c4b3bca1e9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Strengthens Commitment to SLTT Governments",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-strengthens-commitment-sltt-governments",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced that it has transitioned to a new model to better equip state, local, tribal, and territorial (SLTT) governments to strengthen shared responsibility nationwide. CISA is supporting our SLTT partners with access to grant funding, no-cost tools, and cybersecurity expertise to be resilient and lead at the local level. CISA\u2019s cooperative agreement with the Center for Internet Security (CIS) will reach its planned end on September 3",
       "published": "2025-09-29 12:00:00",
       "timestamp": 1759147200
     },
@@ -1200,16 +1200,6 @@
       "summary": "Posted by Jann Horn, Google Project Zero IntroductionSome time in 2024, during a Project Zero team discussion, we were talking about how remote ASLR leaks would be helpful or necessary for exploiting some types of memory corruption bugs, specifically in the context of Apple devices. Coming from the angle of \"where would be a good first place to look for a remote ASLR leak\", this led to the discovery of a trick that could potentially be used to leak a pointer remotely, without any memory safety v",
       "published": "2025-09-26 17:00:00",
       "timestamp": 1758906000
-    },
-    {
-      "id": "bb85d87382f389ccb97470d6df1132e3ba5930ac",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Directs Federal Agencies to Identify and Mitigate Potential Compromise of Cisco Devices",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/25/cisa-directs-federal-agencies-identify-and-mitigate-potential-compromise-cisco-devices",
-      "summary": "Today, CISA issued Emergency Directive ED 25-03: Identify and Mitigate Potential Compromise of Cisco Devices to address vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Cisco Firepower devices. CISA has added vulnerabilities CVE-2025-20333 and CVE-2025-20362 to the Known Exploited Vulnerabilities Catalog. The Emergency Directive requires federal agencies to identify, analyze, and mitigate potential compromises immediately. Agencies must: Identify all instances of Cisco ASA and Cis",
-      "published": "2025-09-25 12:00:00",
-      "timestamp": 1758801600
     },
     {
       "id": "78df3aa073099398ce2dfa2a90c1fe6c03f5fac0",
