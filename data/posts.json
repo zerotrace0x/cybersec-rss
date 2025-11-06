@@ -1,6 +1,26 @@
 {
-  "generated_at": 1762441829,
+  "generated_at": 1762452829,
   "items": [
+    {
+      "id": "a8f6b7a85b85d5a274391a646beaeb8fb4ad97d4",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "New IDC research highlights a major cloud security shift",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/11/06/new-idc-research-highlights-a-major-cloud-security-shift/",
+      "summary": "New IDC research shows why CISOs must move toward AI-powered, integrated platforms like CNAPP, XDR, and SIEM to reduce risk, cut complexity, and strengthen resilience. The post New IDC research highlights a major cloud security shift appeared first on Microsoft Security Blog.",
+      "published": "2025-11-06 17:00:00",
+      "timestamp": 1762448400
+    },
+    {
+      "id": "f73222bf4bf96be6138afe09ade4fd64fc5a3b23",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
+      "link": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
+      "summary": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities. The campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned. \"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link",
+      "published": "2025-11-06 15:31:00",
+      "timestamp": 1762443060
+    },
     {
       "id": "0430ae7b99d1e61c64ada2477fbbf84eefadf162",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "Red and blue teams often operate independently, but attackers don't. Picus Security shows how continuous purple teaming and BAS turn red-blue rivalry into real defense, validating controls and closing gaps in real time. [...]",
       "published": "2025-11-06 15:02:12",
       "timestamp": 1762441332
+    },
+    {
+      "id": "2af8eed8dcb589b9a2321e8297e9235cb608a60c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
+      "link": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
+      "summary": "Cisco on Wednesday disclosed that it became aware of a new attack variant that's designed to target devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software releases that are susceptible to CVE-2025-20333 and CVE-2025-20362. \"This attack can cause unpatched devices to unexpectedly reload, leading to denial-of-service",
+      "published": "2025-11-06 14:58:00",
+      "timestamp": 1762441080
     },
     {
       "id": "b321ea9f1c56fffd5f0b7d7211fc99f8b969e8a7",
@@ -30,6 +60,16 @@
       "summary": "Cisco has released security updates to patch a critical vulnerability in the Unified Contact Center Express (UCCX) software, which could enable attackers to execute commands with root privileges. [...]",
       "published": "2025-11-06 13:31:10",
       "timestamp": 1762435870
+    },
+    {
+      "id": "4fd37e76aed4747ff3f29515ac3d1ac6600630f5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Four Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/06/cisa-releases-four-industrial-control-systems-advisories",
+      "summary": "CISA released four Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-310-01 Advantech DeviceOn iEdge ICSA-25-310-02 Ubia Ubox ICSA-25-310-03 ABB FLXeon Controllers ICSA-25-282-01 Hitachi Energy Asset Suite (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
+      "published": "2025-11-06 12:00:00",
+      "timestamp": 1762430400
     },
     {
       "id": "4b62d15d403e2a79291c445e6158a582425675c4",
@@ -292,7 +332,7 @@
       "timestamp": 1762277100
     },
     {
-      "id": "1971d2b701644f80d507af843298711f5d7823f4",
+      "id": "d1fcf996abd8c52f3780bdee54fae988cbeca88f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "\u200b\u200bLearn what generative AI can do for your security operations center",
@@ -752,26 +792,6 @@
       "timestamp": 1761738660
     },
     {
-      "id": "5f3fbc23e6d6cec23737073aac419df3c5542add",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux",
-      "link": "https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html",
-      "summary": "Cybersecurity researchers have discovered a set of 10 malicious npm packages that are designed to deliver an information stealer targeting Windows, Linux, and macOS systems. \"The malware uses four layers of obfuscation to hide its payload, displays a fake CAPTCHA to appear legitimate, fingerprints victims by IP address, and downloads a 24MB PyInstaller-packaged information stealer that harvests",
-      "published": "2025-10-29 08:34:00",
-      "timestamp": 1761726840
-    },
-    {
-      "id": "7df301a3611d6261edfc40d48a21871afc4d50a2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Active Exploits Hit Dassault and XWiki \u2014 CISA Confirms Critical Flaws Under Attack",
-      "link": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
-      "summary": "Threat actors are actively exploiting multiple security flaws impacting Dassault Syst\u00e8mes DELMIA Apriso and XWiki, according to alerts issued by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and VulnCheck. The vulnerabilities are listed below - CVE-2025-6204 (CVSS score: 8.0) - A code injection vulnerability in Dassault Syst\u00e8mes DELMIA Apriso that could allow an attacker to",
-      "published": "2025-10-29 07:44:00",
-      "timestamp": 1761723840
-    },
-    {
       "id": "bdf782c2604480e68d0cfd6995271fe89ae3a49a",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -812,22 +832,22 @@
       "timestamp": 1761652800
     },
     {
-      "id": "2ffcb17d77f9a151b6b3b717733393f991bb8ec5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54236 Adobe Commerce and Magento Improper Input Validation Vulnerability CVE-2025-59287 Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (B",
-      "published": "2025-10-24 12:00:00",
-      "timestamp": 1761307200
-    },
-    {
       "id": "3409f245b80ac22db2e65ab2b8ac5720c89bc438",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Microsoft Releases Out-of-Band Security Update to Mitigate Windows Server Update Service Vulnerability, CVE-2025-59287",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/microsoft-releases-out-band-security-update-mitigate-windows-server-update-service-vulnerability-cve",
       "summary": "Updated October 29, 2025: CISA has updated this Alert to include revised information on vulnerable product identification, potential threat activity detections, and additional resources. Microsoft released an update to address a critical remote code execution vulnerability impacting Windows Server Update Service (WSUS) in Windows Server (2012, 2016, 2019, 2022, and 2025), CVE-2025-59287, that a prior update did not fully mitigate. (Updated October 29, 2025): CISA strongly urges organizations to ",
+      "published": "2025-10-24 12:00:00",
+      "timestamp": 1761307200
+    },
+    {
+      "id": "2ffcb17d77f9a151b6b3b717733393f991bb8ec5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54236 Adobe Commerce and Magento Improper Input Validation Vulnerability CVE-2025-59287 Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (B",
       "published": "2025-10-24 12:00:00",
       "timestamp": 1761307200
     },
@@ -892,7 +912,7 @@
       "timestamp": 1761134400
     },
     {
-      "id": "903f2dd69d3fcdb339ccd626dfc2c824c652d826",
+      "id": "1c50e97265a4db81d3dc4113cf93fbe1ab6cdc8c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "The new Microsoft Security Store unites partners and\u00a0innovation",
@@ -922,7 +942,7 @@
       "timestamp": 1761048000
     },
     {
-      "id": "6d5d2289ad2e7c2f9a5919952bd352a09ad46c66",
+      "id": "985b5cbbff563614992f814a4e7a3053172b317d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Inside the attack chain: Threat activity targeting Azure Blob Storage",
@@ -970,16 +990,6 @@
       "summary": "We\u2019re honored to share that Microsoft has again been recognized as a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Security Information and Event Management (SIEM). The post Microsoft named a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for SIEM appeared first on Microsoft Security Blog.",
       "published": "2025-10-16 18:00:00",
       "timestamp": 1760637600
-    },
-    {
-      "id": "ca192d41caf47070570bf09f58c6bc4328f17544",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Extortion and ransomware drive over half of cyberattacks",
-      "link": "https://blogs.microsoft.com/on-the-issues/2025/10/16/mddr-2025/",
-      "summary": "In 80% of the cyber incidents Microsoft\u2019s security teams investigated last year, attackers sought to steal data\u2014a trend driven more by financial gain than intelligence gathering. The post Extortion and ransomware drive over half of cyberattacks appeared first on Microsoft Security Blog.",
-      "published": "2025-10-16 14:05:00",
-      "timestamp": 1760623500
     },
     {
       "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
@@ -1042,22 +1052,22 @@
       "timestamp": 1760482658
     },
     {
-      "id": "9048c7145c51b70e36b4a3ef4127ede068402c34",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "Updated October 22, 2025 CISA is continually collaborating with partners across government and the private sector. Through this collaboration, CISA has determined that CVE-2025-6264 has not been exploited and there is insufficient evidence to keep this CVE on the KEV and that the best course of action is to remove it. CISA is committed to continued collaboration with partners. End of Update CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evi",
-      "published": "2025-10-14 12:00:00",
-      "timestamp": 1760443200
-    },
-    {
       "id": "222bcf35a2af2bfd582890ea54d6a32ab7a8c246",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases One Industrial Control Systems Advisory",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-releases-one-industrial-control-systems-advisory",
       "summary": "CISA released one Industrial Control Systems (ICS) advisory on October 14, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-287-01 Rockwell Automation 1715 EtherNet/IP Comms Module CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+      "published": "2025-10-14 12:00:00",
+      "timestamp": 1760443200
+    },
+    {
+      "id": "9048c7145c51b70e36b4a3ef4127ede068402c34",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+      "summary": "Updated October 22, 2025 CISA is continually collaborating with partners across government and the private sector. Through this collaboration, CISA has determined that CVE-2025-6264 has not been exploited and there is insufficient evidence to keep this CVE on the KEV and that the best course of action is to remove it. CISA is committed to continued collaboration with partners. End of Update CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evi",
       "published": "2025-10-14 12:00:00",
       "timestamp": 1760443200
     },
@@ -1220,16 +1230,6 @@
       "summary": "Posted by Jann Horn, Google Project Zero IntroductionSome time in 2024, during a Project Zero team discussion, we were talking about how remote ASLR leaks would be helpful or necessary for exploiting some types of memory corruption bugs, specifically in the context of Apple devices. Coming from the angle of \"where would be a good first place to look for a remote ASLR leak\", this led to the discovery of a trick that could potentially be used to leak a pointer remotely, without any memory safety v",
       "published": "2025-09-26 17:00:00",
       "timestamp": 1758906000
-    },
-    {
-      "id": "78df3aa073099398ce2dfa2a90c1fe6c03f5fac0",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases One Industrial Control Systems Advisory",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/25/cisa-releases-one-industrial-control-systems-advisory",
-      "summary": "CISA released one Industrial Control Systems (ICS) advisory on September 25, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-268-01 Dingtian DT-R002 CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
-      "published": "2025-09-25 12:00:00",
-      "timestamp": 1758801600
     },
     {
       "id": "64f14f5c2b1d419be1b716823994c21ed6cb3fa1",
