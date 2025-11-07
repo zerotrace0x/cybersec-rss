@@ -1,5 +1,5 @@
 {
-  "generated_at": 1762486609,
+  "generated_at": 1762496084,
   "items": [
     {
       "id": "0ffbe25c8004a47ac73a0be1802c2d8a04063725",
@@ -160,6 +160,16 @@
       "summary": "SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files. \"The malicious activity \u2013 carried out by a state-sponsored threat actor - was isolated to the unauthorized access of cloud backup files from a specific cloud environment using an API call,\" the company said in a",
       "published": "2025-11-06 05:40:00",
       "timestamp": 1762407600
+    },
+    {
+      "id": "8160d93f73d730d77785ca0dab2555b7c2c4434e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru's overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company's domain name system (DNS) service.",
+      "published": "2025-11-06 02:04:36",
+      "timestamp": 1762394676
     },
     {
       "id": "51c93e478f15a343e1353434f006b827e4205e8e",
@@ -512,6 +522,16 @@
       "timestamp": 1762166520
     },
     {
+      "id": "4d490e46f430289ca5601f224bb949096234c91c",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
+      "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "summary": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned. Sources close to the investigation say Yuriy Igorevich Rybtsov, a 41-year-old from the Russia-controlled city of Donetsk, Ukraine, was previously referenced in U.S. federal charging documents only by his online handle \"MrICQ.\" According to a 13-year-old indictment file",
+      "published": "2025-11-02 20:37:24",
+      "timestamp": 1762115844
+    },
+    {
       "id": "e7ecdd1f9540d8cc4bb7b8553ccdb3e679e5c10c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -762,6 +782,16 @@
       "timestamp": 1761738660
     },
     {
+      "id": "bdf782c2604480e68d0cfd6995271fe89ae3a49a",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+      "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+      "summary": "Aisuru, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts says a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI",
+      "published": "2025-10-29 00:51:05",
+      "timestamp": 1761699065
+    },
+    {
       "id": "3b5c1437de071087c7b7f1a0639a8af1e36ef010",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -840,6 +870,16 @@
       "summary": "CISA released eight Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-296-01 AutomationDirect Productivity Suite ICSA-25-296-02 ASKI Energy ALS-Mini-S8 and ALS-Mini-S4 ICSA-25-296-03 Veeder-Root TLS4B Automatic Tank Gauge System ICSA-25-296-04 Delta Electronics ASDA-Soft ICSMA-25-296-01 NIHON KOHDEN Central Monitor CNS-6201 ICSA-25-037-02 Schneider Electric EcoStruxure (Up",
       "published": "2025-10-23 12:00:00",
       "timestamp": 1761220800
+    },
+    {
+      "id": "9b5e29ca9f7a73c60f29bd3637973d105bcbb89d",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+      "link": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
+      "summary": "Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian cryptocurrency exchanges and websites hawking cybercrime services. The penalties for violating Canada's anti money-laundering laws come ten months after KrebsOnSecurity noted that Cryptomus's Vancouver street address was home to dozens of foreign currency dealers, money transfer businesses, and cryptocurrency exchanges \u2014 none of which were physicall",
+      "published": "2025-10-22 17:21:36",
+      "timestamp": 1761153696
     },
     {
       "id": "62092aa873998c4b08763d2f984af4ff0e0720e7",
@@ -922,6 +962,16 @@
       "timestamp": 1760961600
     },
     {
+      "id": "8f4ddeee4b512f268a8214c2416c17f775dd2012",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "summary": "Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing messages that come from hundreds of Zendesk corporate customers simultaneously.",
+      "published": "2025-10-17 11:26:27",
+      "timestamp": 1760700387
+    },
+    {
       "id": "e0ea30eabdbe4b158ce67137e9dedab36efcab4c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -982,6 +1032,16 @@
       "timestamp": 1760529600
     },
     {
+      "id": "8e9a1b21da8ae0d1f00b370a31767aef0bb96b95",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
+      "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
+      "summary": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October's Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you're running a Windows 10 PC and you're unable or unwilling to migrate to Windows 11, read on for other options.",
+      "published": "2025-10-14 22:57:38",
+      "timestamp": 1760482658
+    },
+    {
       "id": "222bcf35a2af2bfd582890ea54d6a32ab7a8c246",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1000,6 +1060,16 @@
       "summary": "Updated October 22, 2025 CISA is continually collaborating with partners across government and the private sector. Through this collaboration, CISA has determined that CVE-2025-6264 has not been exploited and there is insufficient evidence to keep this CVE on the KEV and that the best course of action is to remove it. CISA is committed to continued collaboration with partners. End of Update CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evi",
       "published": "2025-10-14 12:00:00",
       "timestamp": 1760443200
+    },
+    {
+      "id": "d7adef61b32231cf8a25dadbb73e0261cfc56591",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+      "summary": "The world's largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&T, Comcast and Verizon, new evidence suggests. Experts say the heavy concentration of infected devices at U.S. providers is complicating efforts to limit collateral damage from the botnet's attacks, which shattered previous records this week with a brief traffic flood that clocked in at nearly 30 trillion bits of dat",
+      "published": "2025-10-10 16:10:43",
+      "timestamp": 1760112643
     },
     {
       "id": "c5572a0e3b9922bd7aaba12634d8824814096b14",
@@ -1030,6 +1100,16 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
       "published": "2025-10-09 12:00:00",
       "timestamp": 1760011200
+    },
+    {
+      "id": "4af14eaf6ccd977eb6dcd819303ccb750fe3b7a2",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+      "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+      "summary": "A cybercriminal group that used voice phishing attacks to siphon more than a billion records from Salesforce customers earlier this year has launched a website that threatens to publish data stolen from dozens of Fortune 500 firms if they refuse to pay a ransom. The group also claimed responsibility for a recent breach involving Discord user data, and for stealing terabytes of sensitive files from thousands of customers of the enterprise software maker Red Hat.",
+      "published": "2025-10-07 22:45:35",
+      "timestamp": 1759877135
     },
     {
       "id": "3cc087876b66807cd40729bf20df16210d94ec73",
@@ -1150,6 +1230,26 @@
       "summary": "Written by: Sarah Yoder, John Wolfram, Ashley Pearson, Doug Bienstock, Josh Madeley, Josh Murchie, Brad Slaybaugh, Matt Lin, Geoff Carstairs, Austin Larsen Introduction Google Threat Intelligence Group (GTIG) is tracking BRICKSTORM malware activity, which is being used to maintain persistent access to victim organizations in the United States. Since March 2025, Mandiant Consulting has responded to intrusions across a range of industry verticals, most notably legal services, Software as a Service",
       "published": "2025-09-24 14:00:00",
       "timestamp": 1758722400
+    },
+    {
+      "id": "bee142941135788571291463e79e1078135bd4a5",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
+      "link": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
+      "summary": "U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for extorting at least $115 million in ransom payments from victims. The charges came as Jubair and an alleged co-conspirator appeared in a London court to face accusations of hacking into and extorting several large U.K. retailers, the London transit system, and healthcare providers in the United Stat",
+      "published": "2025-09-24 11:48:31",
+      "timestamp": 1758714511
+    },
+    {
+      "id": "873fc4179994745f9fbee7e618a5cfdf0f660a73",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Self-Replicating Worm Hits 180+ Software Packages",
+      "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
+      "summary": "At least 187 code packages made available through the JavaScript repository NPM have been infected with a self-replicating worm that steals credentials from developers and publishes those secrets on GitHub, experts warn. The malware, which briefly infected multiple code packages from the security vendor CrowdStrike, steals and publishes even more credentials every time an infected package is installed.",
+      "published": "2025-09-16 14:08:02",
+      "timestamp": 1758031682
     },
     {
       "id": "9f9692e97cee9f6aaf61ced8322cdd8c7d0dec35",
