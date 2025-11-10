@@ -1,6 +1,36 @@
 {
-  "generated_at": 1762798391,
+  "generated_at": 1762808891,
   "items": [
+    {
+      "id": "54b899a534ffc9d81f369a46e48b487e5b1517da",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/",
+      "summary": "CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp. [...]",
+      "published": "2025-11-10 20:00:34",
+      "timestamp": 1762804834
+    },
+    {
+      "id": "01f8a4804b86e11a85442749a76cfa173605855e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Yanluowang initial access broker pleaded guilty to ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/",
+      "summary": "A Russian national will plead guilty to acting as an initial access broker (IAB) for Yanluowang ransomware attacks that targeted at least eight U.S. companies between July 2021 and November 2022. [...]",
+      "published": "2025-11-10 19:12:51",
+      "timestamp": 1762801971
+    },
+    {
+      "id": "f343b303098f6d6be44c3e791a5a728fa473ee33",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/",
+      "summary": "A critical vulnerability in the popular expr-eval JavaScript library, with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input. [...]",
+      "published": "2025-11-10 18:32:29",
+      "timestamp": 1762799549
+    },
     {
       "id": "ecc666f3640a437737b61717865df0dc21647ad7",
       "source": "Microsoft Security Blog",
@@ -40,6 +70,16 @@
       "summary": "Cyber threats didn\u2019t slow down last week\u2014and attackers are getting smarter. We\u2019re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild. But that\u2019s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week\u2019s roundup highlights a clear shift: cybercrime is evolving fast",
       "published": "2025-11-10 12:51:00",
       "timestamp": 1762779060
+    },
+    {
+      "id": "89e81c514eb37a62a9ca205ed5be75d3d7f6af64",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/10/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-21042 Samsung Mobile Devices Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of kn",
+      "published": "2025-11-10 12:00:00",
+      "timestamp": 1762776000
     },
     {
       "id": "dadb163d92d28e4e0bf22935478321523c59b6d6",
@@ -170,36 +210,6 @@
       "summary": "Several malicious packages on NuGet have sabotage payloads scheduled to activate in 2027 and 2028, targeting database implementations and Siemens S7 industrial control devices. [...]",
       "published": "2025-11-07 20:53:48",
       "timestamp": 1762548828
-    },
-    {
-      "id": "a7ed41a259453200c48f164dd3e5aa169cf5bc83",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft testing faster Quick Machine Recovery in Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/",
-      "summary": "Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]",
-      "published": "2025-11-07 19:46:32",
-      "timestamp": 1762544792
-    },
-    {
-      "id": "b00a3fb93381930b3f24849bf4a2b6b5217aad69",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/",
-      "summary": "QNAP has fixed seven zero-day vulnerabilities that security researchers exploited to hack QNAP network-attached storage (NAS) devices during the Pwn2Own Ireland 2025 competition. [...]",
-      "published": "2025-11-07 18:24:43",
-      "timestamp": 1762539883
-    },
-    {
-      "id": "c97902ec4aed7b221736ac8584b693c3f3888781",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/",
-      "summary": "A threat actor exploited a zero-day vulnerability in Samsung's Android image processing library to deploy a previously unknown spyware called 'LandFall' using malicious images sent over WhatsApp. [...]",
-      "published": "2025-11-07 18:23:25",
-      "timestamp": 1762539805
     },
     {
       "id": "060bfd2e286a4be1b4729b4a0fd2b59407dcb95e",
@@ -1032,22 +1042,22 @@
       "timestamp": 1760616000
     },
     {
-      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
-    },
-    {
       "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
       "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
+      "published": "2025-10-15 12:00:00",
+      "timestamp": 1760529600
+    },
+    {
+      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
       "published": "2025-10-15 12:00:00",
       "timestamp": 1760529600
     },
@@ -1102,22 +1112,22 @@
       "timestamp": 1760018400
     },
     {
-      "id": "6cda9edff6de4352fc2eb00fc7afb48fc7134c8f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Four Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
-      "summary": "CISA released four Industrial Control Systems (ICS) Advisories on October 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-282-01 Hitachi Energy Asset Suite ICSA-25-282-02 Rockwell Automation Lifecycle Services with Cisco ICSA-25-282-03 Rockwell Automation Stratix ICSA-25-128-03 Mitsubishi Electric Multiple FA Products (Update A) CISA encourages users and administrators to review newly released ICS Advisori",
-      "published": "2025-10-09 12:00:00",
-      "timestamp": 1760011200
-    },
-    {
       "id": "af3da5fc1cba17ffc5cfa1933bb4e17716b97db9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-43798 Grafana Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabi",
+      "published": "2025-10-09 12:00:00",
+      "timestamp": 1760011200
+    },
+    {
+      "id": "6cda9edff6de4352fc2eb00fc7afb48fc7134c8f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Four Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
+      "summary": "CISA released four Industrial Control Systems (ICS) Advisories on October 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-282-01 Hitachi Energy Asset Suite ICSA-25-282-02 Rockwell Automation Lifecycle Services with Cisco ICSA-25-282-03 Rockwell Automation Stratix ICSA-25-128-03 Mitsubishi Electric Multiple FA Products (Update A) CISA encourages users and administrators to review newly released ICS Advisori",
       "published": "2025-10-09 12:00:00",
       "timestamp": 1760011200
     },
@@ -1132,22 +1142,22 @@
       "timestamp": 1759877135
     },
     {
-      "id": "3cc087876b66807cd40729bf20df16210d94ec73",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-27915 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
-      "published": "2025-10-07 12:00:00",
-      "timestamp": 1759838400
-    },
-    {
       "id": "e01278297fcc6d900f51de67731851975553e462",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Two Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-releases-two-industrial-control-systems-advisories",
       "summary": "CISA released two Industrial Control Systems (ICS) advisories on October 7, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-280-01 Delta Electronics DIAScreen ICSA-25-226-31 Rockwell Automation 1756-EN4TR, 1756-EN4TRXT (Update B) CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
+      "published": "2025-10-07 12:00:00",
+      "timestamp": 1759838400
+    },
+    {
+      "id": "3cc087876b66807cd40729bf20df16210d94ec73",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-27915 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
       "published": "2025-10-07 12:00:00",
       "timestamp": 1759838400
     },
@@ -1202,32 +1212,22 @@
       "timestamp": 1759233600
     },
     {
-      "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
-      "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
-      "published": "2025-09-29 12:00:00",
-      "timestamp": 1759147200
-    },
-    {
-      "id": "14883688993f3a148849a65de3f139c4b3bca1e9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Strengthens Commitment to SLTT Governments",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-strengthens-commitment-sltt-governments",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced that it has transitioned to a new model to better equip state, local, tribal, and territorial (SLTT) governments to strengthen shared responsibility nationwide. CISA is supporting our SLTT partners with access to grant funding, no-cost tools, and cybersecurity expertise to be resilient and lead at the local level. CISA\u2019s cooperative agreement with the Center for Internet Security (CIS) will reach its planned end on September 3",
-      "published": "2025-09-29 12:00:00",
-      "timestamp": 1759147200
-    },
-    {
       "id": "7da91232e280ac6f46e9be8f0f10cf6827e2f7de",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-adds-five-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-21311 Adminer Server-Side Request Forgery Vulnerability CVE-2025-20352 Cisco IOS and IOS XE Software SNMP Denial of Service and Remote Code Execution Vulnerability CVE-2025-10035 Fortra GoAnywhere MFT Deserialization of Untrusted Data Vulnerability CVE-2025-59689 Libraesva Email Security Gateway Command Injection Vulnerability CVE-2025-32463 Sudo Inclus",
+      "published": "2025-09-29 12:00:00",
+      "timestamp": 1759147200
+    },
+    {
+      "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
+      "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
       "published": "2025-09-29 12:00:00",
       "timestamp": 1759147200
     },
