@@ -1,6 +1,46 @@
 {
-  "generated_at": 1762808891,
+  "generated_at": 1762821853,
   "items": [
+    {
+      "id": "b777e3c7428b26e3210b5e13db3288cfcda510a9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Mozilla Firefox gets new anti-fingerprinting defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/",
+      "summary": "Mozilla announced a major privacy upgrade in Firefox 145 that reduces even more the number of users vulnerable to digital fingerprinting. [...]",
+      "published": "2025-11-10 22:25:55",
+      "timestamp": 1762813555
+    },
+    {
+      "id": "58f508649375edc009caa0b6173f0ac228a5613e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/",
+      "summary": "A new phishing automation platform named Quantum Route Redirect is using around 1,000 domains to steal Microsoft 365 users' credentials. [...]",
+      "published": "2025-11-10 21:29:03",
+      "timestamp": 1762810143
+    },
+    {
+      "id": "0f372e715865fa5896f73408e24bae3d1d735300",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
+      "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
+      "summary": "Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform. The critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads. The",
+      "published": "2025-11-10 20:49:00",
+      "timestamp": 1762807740
+    },
+    {
+      "id": "67d70f43178df4b609b298ac5bc6028038cd3fa3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon",
+      "link": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
+      "summary": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control. \"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians",
+      "published": "2025-11-10 20:29:00",
+      "timestamp": 1762806540
+    },
     {
       "id": "54b899a534ffc9d81f369a46e48b487e5b1517da",
       "source": "BleepingComputer",
@@ -200,16 +240,6 @@
       "summary": "Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean details about model conversation topics despite encryption protections under certain circumstances. This leakage of data exchanged between humans and streaming-mode language models could pose serious risks to",
       "published": "2025-11-08 14:29:00",
       "timestamp": 1762612140
-    },
-    {
-      "id": "ca2324288b5f448f509043cf6c8d8e38c78ca60b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious NuGet packages drop disruptive 'time bombs'",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/",
-      "summary": "Several malicious packages on NuGet have sabotage payloads scheduled to activate in 2027 and 2028, targeting database implementations and Siemens S7 industrial control devices. [...]",
-      "published": "2025-11-07 20:53:48",
-      "timestamp": 1762548828
     },
     {
       "id": "060bfd2e286a4be1b4729b4a0fd2b59407dcb95e",
@@ -770,26 +800,6 @@
       "summary": "Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in the marketplace. The action comes following a report from cloud security company Wiz earlier this month, which found several extensions from both Microsoft's VS Code Marketplace and Open VSX",
       "published": "2025-10-31 08:02:00",
       "timestamp": 1761897720
-    },
-    {
-      "id": "6f33701a551ae78e07a738ba8ceb6f01951a00a8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
-      "link": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Broadcom VMware Tools and VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), which could be exploited by an attacker to attain",
-      "published": "2025-10-31 07:09:00",
-      "timestamp": 1761894540
-    },
-    {
-      "id": "260ef2f72bd543ef5c75d9419972a842261843c0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do",
-      "link": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
-      "summary": "A design firm is editing a new campaign video on a MacBook Pro. The creative director opens a collaboration app that quietly requests microphone and camera permissions. MacOS is supposed to flag that, but in this case, the checks are loose. The app gets access anyway. On another Mac in the same office, file sharing is enabled through an old protocol called SMB version one. It\u2019s fast and",
-      "published": "2025-10-31 03:37:00",
-      "timestamp": 1761881820
     },
     {
       "id": "45ef7d77b4c37d03d960e66c23a2dcb8ecf68fd8",
