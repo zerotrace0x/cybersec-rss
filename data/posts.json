@@ -1,6 +1,46 @@
 {
-  "generated_at": 1762960227,
+  "generated_at": 1762971235,
   "items": [
+    {
+      "id": "5fd859da2992186b4f96252fb9938a2f2c96e1ba",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DanaBot malware is back to infecting Windows after 6-month break",
+      "link": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
+      "summary": "The DanaBot malware has returned with a new version observed in attacks, six-months after law enforcement's Operation Endgame disrupted its activity in May. [...]",
+      "published": "2025-11-12 16:34:54",
+      "timestamp": 1762965294
+    },
+    {
+      "id": "007cddd4fa9182af838d70402d25010d16bf4825",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform",
+      "link": "https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html",
+      "summary": "Google has filed a civil lawsuit in the U.S. District Court for the Southern District of New York (SDNY) against China-based hackers who are behind a massive Phishing-as-a-Service (PhaaS) platform called Lighthouse that has ensnared over 1 million users across 120 countries. The PhaaS kit is used to conduct large-scale SMS phishing attacks that exploit trusted brands like E-ZPass and USPS to",
+      "published": "2025-11-12 15:48:00",
+      "timestamp": 1762962480
+    },
+    {
+      "id": "19b88c5be476a0121bbc543fbc1d03aaaa8eeae3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes bug causing false Windows 10 end-of-support alerts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-false-windows-10-end-of-support-alerts/",
+      "summary": "Microsoft has resolved a bug causing incorrect Windows 10 end-of-support warnings on systems with active security coverage or still under active support after installing the October 2025 updates. [...]",
+      "published": "2025-11-12 15:29:13",
+      "timestamp": 1762961353
+    },
+    {
+      "id": "f84b1f806ca7c84e505fe5f2996e71be6c9d6097",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Extending Zero Trust to AI Agents: \u201cNever Trust, Always Verify\u201d Goes Autonomous",
+      "link": "https://www.bleepingcomputer.com/news/security/extending-zero-trust-to-ai-agents-never-trust-always-verify-goes-autonomous/",
+      "summary": "As AI agents gain autonomy to act, decide, and access data, traditional Zero Trust models fall short. Token Security explains how to extend \"never trust, always verify\" to agentic AI with scoped access, continuous monitoring, and human accountability. [...]",
+      "published": "2025-11-12 15:25:35",
+      "timestamp": 1762961135
+    },
     {
       "id": "0cd7affad8026a6352bf7afdca3fbef875575850",
       "source": "BleepingComputer",
@@ -40,6 +80,16 @@
       "summary": "Synnovis, a leading UK pathology services provider, is notifying healthcare providers that a data breach occurred following a ransomware attack in June 2024, which resulted in the theft of some patients' data. [...]",
       "published": "2025-11-12 12:28:42",
       "timestamp": 1762950522
+    },
+    {
+      "id": "019e20dc583593874428db09d7fc559f02ae2dab",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability CVE-2025-62215 Microsoft Windows Race Condition Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Dire",
+      "published": "2025-11-12 12:00:00",
+      "timestamp": 1762948800
     },
     {
       "id": "ba21c6c4ee05c614157f2c0ceec07a3d182b8498",
@@ -160,36 +210,6 @@
       "summary": "Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp. According to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications.",
       "published": "2025-11-11 18:37:00",
       "timestamp": 1762886220
-    },
-    {
-      "id": "1d12dcdb31c34611eef3b499d15265ba19ca222a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5068861\u00a0& KB5068865\u00a0cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5068861-and-kb5068865-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5068861 and KB5068865 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "2025-11-11 18:32:29",
-      "timestamp": 1762885949
-    },
-    {
-      "id": "1936a0a6c39715bb0994af451d28df12ca0cb6c6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/",
-      "summary": "Microsoft has released an emergency out-of-band update to address a known issue preventing Windows 10 users from enrolling in the Extended Security Updates (ESU) program. [...]",
-      "published": "2025-11-11 18:28:18",
-      "timestamp": 1762885698
-    },
-    {
-      "id": "de85f9b65f08e990bb2e646becbb48f6066eb7a1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam",
-      "link": "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/",
-      "summary": "A Chinese woman known as the \"Bitcoin Queen\" was sentenced in London to 11 years and eight months in jail for laundering Bitcoin from a \u00a35.5 billion ($7.3 billion) cryptocurrency investment scheme. [...]",
-      "published": "2025-11-11 17:07:44",
-      "timestamp": 1762880864
     },
     {
       "id": "b8e6e6eb7935d5d79db0aa61854b5b15483ed298",
@@ -782,16 +802,6 @@
       "timestamp": 1762174560
     },
     {
-      "id": "ab09c414bca0fb2bc421e399224c4530256e5fae",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations",
-      "link": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
-      "summary": "Security Operations Centers (SOC) today are overwhelmed. Analysts handle thousands of alerts every day, spending much time chasing false positives and adjusting detection rules reactively. SOCs often lack the environmental context and relevant threat intelligence needed to quickly verify which alerts are truly malicious. As a result, analysts spend excessive time manually triaging alerts, the",
-      "published": "2025-11-03 11:56:00",
-      "timestamp": 1762170960
-    },
-    {
       "id": "4d490e46f430289ca5601f224bb949096234c91c",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1222,22 +1232,12 @@
       "timestamp": 1759233600
     },
     {
-      "id": "7da91232e280ac6f46e9be8f0f10cf6827e2f7de",
+      "id": "14883688993f3a148849a65de3f139c4b3bca1e9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-21311 Adminer Server-Side Request Forgery Vulnerability CVE-2025-20352 Cisco IOS and IOS XE Software SNMP Denial of Service and Remote Code Execution Vulnerability CVE-2025-10035 Fortra GoAnywhere MFT Deserialization of Untrusted Data Vulnerability CVE-2025-59689 Libraesva Email Security Gateway Command Injection Vulnerability CVE-2025-32463 Sudo Inclus",
-      "published": "2025-09-29 12:00:00",
-      "timestamp": 1759147200
-    },
-    {
-      "id": "5de0d0bcacca3f8bd8d3eb8abafa1e8e685b2ab9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and UK NCSC Release Joint Guidance for Securing OT Systems",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-and-uk-ncsc-release-joint-guidance-securing-ot-systems",
-      "summary": "CISA, in collaboration with the Federal Bureau of Investigation, the United Kingdom\u2019s National Cyber Security Centre, and other international partners has released new joint cybersecurity guidance: Creating and Maintaining a Definitive View of Your Operational Technology (OT) Architecture. Building on the recent Foundations for OT Cybersecurity: Asset Inventory Guidance for Owners and Operators, this guidance explains how organizations can leverage data sources, such as asset inventories and man",
+      "title": "CISA Strengthens Commitment to SLTT Governments",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/09/29/cisa-strengthens-commitment-sltt-governments",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) announced that it has transitioned to a new model to better equip state, local, tribal, and territorial (SLTT) governments to strengthen shared responsibility nationwide. CISA is supporting our SLTT partners with access to grant funding, no-cost tools, and cybersecurity expertise to be resilient and lead at the local level. CISA\u2019s cooperative agreement with the Center for Internet Security (CIS) will reach its planned end on September 3",
       "published": "2025-09-29 12:00:00",
       "timestamp": 1759147200
     },
