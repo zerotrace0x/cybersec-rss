@@ -1,6 +1,26 @@
 {
-  "generated_at": 1763046661,
+  "generated_at": 1763057578,
   "items": [
+    {
+      "id": "775d0144b595c2dbd49144164af3a4791731834a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Washington Post data breach impacts nearly 10K employees, contractors",
+      "link": "https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/",
+      "summary": "The Washington Post is notifying nearly 10,000 employees and contractors that some of their personal and financial data has been exposed in the Oracle data theft attack. [...]",
+      "published": "2025-11-13 16:00:36",
+      "timestamp": 1763049636
+    },
+    {
+      "id": "9edaf142a4b9d64a641ae67fbc1d0b4a5b8df4e6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kerberoasting in 2025: How to protect your service accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/",
+      "summary": "Kerberoasting attacks let hackers steal service account passwords and escalate to domain admin, often without triggering alerts. Specops Software shares how auditing AD passwords, enforcing long unique credentials, and using AES encryption can shut these attacks down early. [...]",
+      "published": "2025-11-13 15:02:12",
+      "timestamp": 1763046132
+    },
     {
       "id": "5764e6b4b03c85f91308fe883ee8fd0238f5cc07",
       "source": "Krebs on Security",
@@ -60,6 +80,26 @@
       "summary": "CISA warned federal agencies to fully patch two actively exploited vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. [...]",
       "published": "2025-11-13 12:05:55",
       "timestamp": 1763035555
+    },
+    {
+      "id": "fa52de059959b204e08e14e269b4443153faa6e0",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases 18 Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-releases-18-industrial-control-systems-advisories",
+      "summary": "CISA released 18 Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-317-01 Mitsubishi Electric MELSEC iQ-F Series ICSA-25-317-02 AVEVA Application Server IDE ICSA-25-317-03 AVEVA Edge ICSA-25-317-04 Brightpick Mission Control / Internal Logic Control ICSA-25-317-05 Rockwell Automation Verve Asset Manager ICSA-25-317-06 Rockwell Automation Studio 5000 Simulation Interface IC",
+      "published": "2025-11-13 12:00:00",
+      "timestamp": 1763035200
+    },
+    {
+      "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
+      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
+      "published": "2025-11-13 12:00:00",
+      "timestamp": 1763035200
     },
     {
       "id": "e2ce4b261792b20a2a2d95b51f5c341d459801cb",
@@ -210,26 +250,6 @@
       "summary": "Amazon's threat intelligence team on Wednesday disclosed that it observed an advanced threat actor exploiting two then-zero-day security flaws in Cisco Identity Service Engine (ISE) and Citrix NetScaler ADC products as part of attacks designed to deliver custom malware. \"This discovery highlights the trend of threat actors focusing on critical identity and network access control infrastructure \u2013",
       "published": "2025-11-12 14:00:00",
       "timestamp": 1762956000
-    },
-    {
-      "id": "ef5cdeae20766934302d38aa87c760e6d77c7ee3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/",
-      "summary": "An advanced threat actor exploited the critical vulnerabilities \"Citrix Bleed 2\" (CVE-2025-5777) in NetScaler ADC and Gateway, and CVE-2025-20337 affecting Cisco Identity Service Engine (ISE) as zero-days to deploy custom malware. [...]",
-      "published": "2025-11-12 14:00:00",
-      "timestamp": 1762956000
-    },
-    {
-      "id": "38037cf3c1ba90d1ce48cdd02421b4d19663e2a4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Synnovis notifies of data breach after 2024 ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
-      "summary": "Synnovis, a leading UK pathology services provider, is notifying healthcare providers that a data breach occurred following a ransomware attack in June 2024, which resulted in the theft of some patients' data. [...]",
-      "published": "2025-11-12 12:28:42",
-      "timestamp": 1762950522
     },
     {
       "id": "019e20dc583593874428db09d7fc559f02ae2dab",
@@ -1092,22 +1112,22 @@
       "timestamp": 1760616000
     },
     {
-      "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
-      "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
-    },
-    {
       "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
+      "published": "2025-10-15 12:00:00",
+      "timestamp": 1760529600
+    },
+    {
+      "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
+      "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
       "published": "2025-10-15 12:00:00",
       "timestamp": 1760529600
     },
@@ -1232,16 +1252,6 @@
       "timestamp": 1759406400
     },
     {
-      "id": "1a44182df4745690c94bbf2f15baf4336b78af52",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Two Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-releases-two-industrial-control-systems-advisories",
-      "summary": "CISA released two Industrial Control Systems (ICS) advisories on October 2, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-275-01 Raise3D Pro2 Series 3D Printers ICSA-25-275-02 Hitachi Energy MSM Product CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
-      "published": "2025-10-02 12:00:00",
-      "timestamp": 1759406400
-    },
-    {
       "id": "855d7683577ed5378c4f369a708b587544020918",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1250,16 +1260,6 @@
       "summary": "Written by: Omar ElAhdan, Matthew McWhirt, Michael Rudden, Aswad Robinson, Bhavesh Dhake, Laith Al Background Protecting software-as-a-service (SaaS) platforms and applications requires a comprehensive security strategy. Drawing from analysis of UNC6040\u2019s specific attack methodologies, this guide presents a structured defensive framework encompassing proactive hardening measures, comprehensive logging protocols, and advanced detection capabilities. While emphasizing Salesforce-specific security ",
       "published": "2025-09-30 14:00:00",
       "timestamp": 1759240800
-    },
-    {
-      "id": "e1137d8e1a746e30046531d5285c6dae270ee215",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Ten Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/09/30/cisa-releases-ten-industrial-control-systems-advisories",
-      "summary": "CISA released ten Industrial Control Systems (ICS) advisories on September 30, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-273-01 MegaSys Enterprises Telenium Online Web Application ICSA-25-273-02 Festo SBRD-Q/SBOC-Q/SBOI-Q ICSA-25-273-03 Festo CPX-CEC-C1 and CPX-CMXX ICSA-25-273-04 Festo Controller CECC-S,-LK,-D Family Firmware ICSA-25-273-05 OpenPLC_V3 ICSA-25-273-06 National Instruments Circuit Design ",
-      "published": "2025-09-30 12:00:00",
-      "timestamp": 1759233600
     },
     {
       "id": "425bf383092a7871e1c79ae25f63ace32ae4d79b",
