@@ -1,6 +1,56 @@
 {
-  "generated_at": 1763036268,
+  "generated_at": 1763046661,
   "items": [
+    {
+      "id": "5764e6b4b03c85f91308fe883ee8fd0238f5cc07",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
+      "published": "2025-11-13 14:47:22",
+      "timestamp": 1763045242
+    },
+    {
+      "id": "bfdd8d6b68d0ab7fc444d44fd4416dd23625e9a0",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Time Travel Triage: An Introduction to Time Travel Debugging using a .NET Process Hollowing Case Study",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/time-travel-debugging-using-net-process-hollowing/",
+      "summary": "Written by: Josh Stroschein, Jae Young Kim The prevalence of obfuscation and multi-stage layering in today\u2019s malware often forces analysts into tedious and manual debugging sessions. For instance, the primary challenge of analyzing pervasive commodity stealers like AgentTesla isn\u2019t identifying the malware, but quickly cutting through the obfuscated delivery chain to get to the final payload. Unlike traditional live debugging, Time Travel Debugging (TTD) captures a deterministic, shareable record",
+      "published": "2025-11-13 14:00:00",
+      "timestamp": 1763042400
+    },
+    {
+      "id": "35f9aa9a689d8f63fdf5732ef6816ce5aca21850",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft rolls out screen capture prevention for Teams users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/",
+      "summary": "Microsoft is rolling out a new Teams feature for Premium customers that will automatically block screenshots and recordings during meetings. [...]",
+      "published": "2025-11-13 13:50:58",
+      "timestamp": 1763041858
+    },
+    {
+      "id": "3b604db74e269b27fba3f95eb197318571737287",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Chrome Extension \u201cSafery\u201d Steals Ethereum Wallet Seed Phrases Using Sui Blockchain",
+      "link": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
+      "summary": "Cybersecurity researchers have uncovered a malicious Chrome extension that poses as a legitimate Ethereum wallet but harbors functionality to exfiltrate users' seed phrases. The name of the extension is \"Safery: Ethereum Wallet,\" with the threat actor describing it as a \"secure wallet for managing Ethereum cryptocurrency with flexible settings.\" It was uploaded to the Chrome Web Store on",
+      "published": "2025-11-13 13:04:00",
+      "timestamp": 1763039040
+    },
+    {
+      "id": "b843607ce79a1b1c3e4c3429a387766f2d0bfca1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Popular Android-based photo frames download malware on boot",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/",
+      "summary": "Uhale Android-based digital picture frames come with multiple critical security vulnerabilities and some of them download and execute malware at boot time. [...]",
+      "published": "2025-11-13 13:00:00",
+      "timestamp": 1763038800
+    },
     {
       "id": "637b5b385ea0c9378e16f9c15f8ad1e5e73ecc58",
       "source": "BleepingComputer",
@@ -222,16 +272,6 @@
       "timestamp": 1762945620
     },
     {
-      "id": "ad7c34707e1d07b65f6f4c834471c2f2567bf63a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Windows Task Manager bug affecting performance",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/",
-      "summary": "Microsoft has resolved a known issue preventing users from quitting the Windows 11 Task Manager after installing the optional Windows 11 KB5067036 update. [...]",
-      "published": "2025-11-12 10:42:34",
-      "timestamp": 1762944154
-    },
-    {
       "id": "8c1f6b6129be07c4cad2088b06d4d2fa30fb1aa2",
       "source": "The Hacker News",
       "source_category": "General",
@@ -250,16 +290,6 @@
       "summary": "Google on Tuesday unveiled a new privacy-enhancing technology called Private AI Compute to process artificial intelligence (AI) queries in a secure platform in the cloud. The company said it has built Private AI Compute to \"unlock the full speed and power of Gemini cloud models for AI experiences, while ensuring your personal data stays private to you and is not accessible to anyone else, not",
       "published": "2025-11-12 08:35:00",
       "timestamp": 1762936500
-    },
-    {
-      "id": "c94fe163bb926aa6e940fbeefb0c7d8c06c610f6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access",
-      "link": "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/",
-      "summary": "The Rhadamanthys infostealer operation has been disrupted, with numerous \"customers\" of the malware-as-a-service reporting that they no longer have access to their servers. [...]",
-      "published": "2025-11-12 00:14:19",
-      "timestamp": 1762906459
     },
     {
       "id": "d82c14a6971b76b4521f98135d187215901e2206",
@@ -782,16 +812,6 @@
       "timestamp": 1762253340
     },
     {
-      "id": "317796cb098fa2bafb0917132a5f32359dfd137d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google\u2019s AI \u2018Big Sleep\u2019 Finds 5 New Vulnerabilities in Apple\u2019s Safari WebKit",
-      "link": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
-      "summary": "Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption. The list of vulnerabilities is as follows - CVE-2025-43429 - A buffer overflow",
-      "published": "2025-11-04 08:10:00",
-      "timestamp": 1762243800
-    },
-    {
       "id": "9f86b81ca06a92f06b039b0d90c078efc0b2733b",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1262,16 +1282,6 @@
       "timestamp": 1758722400
     },
     {
-      "id": "bee142941135788571291463e79e1078135bd4a5",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
-      "link": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "summary": "U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for extorting at least $115 million in ransom payments from victims. The charges came as Jubair and an alleged co-conspirator appeared in a London court to face accusations of hacking into and extorting several large U.K. retailers, the London transit system, and healthcare providers in the United Stat",
-      "published": "2025-09-24 11:48:31",
-      "timestamp": 1758714511
-    },
-    {
       "id": "9f9692e97cee9f6aaf61ced8322cdd8c7d0dec35",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1360,16 +1370,6 @@
       "summary": "Written by: Josh Goddard, Zander Work, Dimiter Andonov UPDATE (Sep 16): Clarified hunting guidance specifics surrounding ld.so.preload files. UPDATE (July 30): Added additional network IOC identified by Sonicwall as being associated with OVERSTEP. Introduction Google Threat Intelligence Group (GTIG) has identified an ongoing campaign by a suspected financially-motivated threat actor we track as UNC6148, targeting fully patched end-of-life SonicWall Secure Mobile Access (SMA) 100 series appliance",
       "published": "2025-07-16 14:00:00",
       "timestamp": 1752674400
-    },
-    {
-      "id": "d6934a8b288be42e91bdcb69b47d87dd7ae79099",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Isolated Recovery Environments: A Critical Layer in Modern Cyber Resilience",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/isolated-recovery-environments-modern-cyber-resilience/",
-      "summary": "Written by: Jaysn Rye Executive Summary As adversaries grow faster, stealthier, and more destructive, traditional recovery strategies are increasingly insufficient. Mandiant's M-Trends 2025 report reinforces this shift, highlighting that ransomware operators now routinely target not just production systems but also backups. This evolution demands that organizations re-evaluate their resilience posture. One approach gaining traction is the implementation of an isolated recovery environment (IRE)\u2014",
-      "published": "2025-07-07 14:00:00",
-      "timestamp": 1751896800
     },
     {
       "id": "7a3a22170ca0eb8acc5a7b83b2628a5342587627",
