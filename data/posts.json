@@ -1,6 +1,36 @@
 {
-  "generated_at": 1763132975,
+  "generated_at": 1763144022,
   "items": [
+    {
+      "id": "d393b8cd28802d73c3c7046cf68d8574b6c1c01c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/",
+      "summary": "Fortinet has silently patched a critical zero-day vulnerability in its FortiWeb web application firewall, which is now being widely exploited. [...]",
+      "published": "2025-11-14 17:00:42",
+      "timestamp": 1763139642
+    },
+    {
+      "id": "5426adf555c4f2fcf3d2dc2e97f1fbc49ed24786",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Checkout.com snubs hackers after data breach, to donate ransom instead",
+      "link": "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/",
+      "summary": "UK financial technology company Checkout announced that the ShinyHunters threat group has breached one of its legacy cloud storage systems and is now extorting the company for a ransom. [...]",
+      "published": "2025-11-14 16:25:42",
+      "timestamp": 1763137542
+    },
+    {
+      "id": "838acf114013560a54dc3fa7bb1b17fcd50ec59e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
+      "link": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+      "summary": "Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang. \"These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python's pickle deserialization,\"",
+      "published": "2025-11-14 15:20:00",
+      "timestamp": 1763133600
+    },
     {
       "id": "f160c75ad92e8e32dd146350dcf07c8d922d26ea",
       "source": "BleepingComputer",
@@ -10,6 +40,26 @@
       "summary": "U.S. federal authorities have established a new task force to disrupt Chinese cryptocurrency scam networks that defraud Americans of nearly $10 billion annually. [...]",
       "published": "2025-11-14 14:54:30",
       "timestamp": 1763132070
+    },
+    {
+      "id": "8664d23e3e30b2953a8fbf2a3c0a4e0a6b7b5d69",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Iranian Hackers Launch \u2018SpearSpecter\u2019 Spy Operation on Defense & Government Targets",
+      "link": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+      "summary": "The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign. The activity, detected in early September 2025 and assessed to be ongoing, has been codenamed SpearSpecter by the Israel National Digital Agency (INDA). \"The",
+      "published": "2025-11-14 14:40:00",
+      "timestamp": 1763131200
+    },
+    {
+      "id": "0703caa063de82307a6bf3382368c596db50c2c8",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-64446 Fortinet FortiWeb Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
+      "published": "2025-11-14 12:00:00",
+      "timestamp": 1763121600
     },
     {
       "id": "3bac043257bd6281e5cdb1d9449b0e330dd52856",
@@ -107,7 +157,7 @@
       "source_category": "General",
       "title": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages",
       "link": "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/",
-      "summary": "A self-spreading package published on npm spams the registry by spawning new packages every every seven seconds, creating large volumes of junk. [...]",
+      "summary": "A self-spreading package published on npm spams the registry by spawning new packages every seven seconds, creating large volumes of junk. [...]",
       "published": "2025-11-13 22:07:05",
       "timestamp": 1763071625
     },
@@ -172,16 +222,6 @@
       "timestamp": 1763042400
     },
     {
-      "id": "35f9aa9a689d8f63fdf5732ef6816ce5aca21850",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft rolls out screen capture prevention for Teams users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/",
-      "summary": "Microsoft is rolling out a new Teams feature for Premium customers that will automatically block screenshots and recordings during meetings. [...]",
-      "published": "2025-11-13 13:50:58",
-      "timestamp": 1763041858
-    },
-    {
       "id": "3b604db74e269b27fba3f95eb197318571737287",
       "source": "The Hacker News",
       "source_category": "General",
@@ -190,16 +230,6 @@
       "summary": "Cybersecurity researchers have uncovered a malicious Chrome extension that poses as a legitimate Ethereum wallet but harbors functionality to exfiltrate users' seed phrases. The name of the extension is \"Safery: Ethereum Wallet,\" with the threat actor describing it as a \"secure wallet for managing Ethereum cryptocurrency with flexible settings.\" It was uploaded to the Chrome Web Store on",
       "published": "2025-11-13 13:04:00",
       "timestamp": 1763039040
-    },
-    {
-      "id": "b843607ce79a1b1c3e4c3429a387766f2d0bfca1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Popular Android-based photo frames download malware on boot",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/",
-      "summary": "Uhale Android-based digital picture frames come with multiple critical security vulnerabilities and some of them download and execute malware at boot time. [...]",
-      "published": "2025-11-13 13:00:00",
-      "timestamp": 1763038800
     },
     {
       "id": "fa52de059959b204e08e14e269b4443153faa6e0",
@@ -772,16 +802,6 @@
       "timestamp": 1762323120
     },
     {
-      "id": "a3bd6c5c0a2e2bf9ce00b28a140f5ed69afb68d9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "A Cybercrime Merger Like No Other \u2014 Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
-      "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
-      "summary": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025. \"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name \u2013 a recurring cycle reflecting platform moderation and the operators'",
-      "published": "2025-11-04 17:25:00",
-      "timestamp": 1762277100
-    },
-    {
       "id": "d1fcf996abd8c52f3780bdee54fae988cbeca88f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -790,16 +810,6 @@
       "summary": "This new e-book showcases what generative AI can do for your SOC, from reducing alert fatigue and enabling quicker triage to getting ahead of cyberattacks with proactive threat hunting, and more. The post \u200b\u200bLearn what generative AI can do for your security operations center appeared first on Microsoft Security Blog.",
       "published": "2025-11-04 17:00:00",
       "timestamp": 1762275600
-    },
-    {
-      "id": "afaf9ef8a10c065fa1bbfc5bef9e3295dfd0882e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "European Authorities Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
-      "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
-      "summary": "Nine people have been arrested in connection with a coordinated law enforcement operation that targeted a cryptocurrency money laundering network that defrauded victims of \u20ac600 million (~$688 million). According to a statement released by Eurojust today, the action took place between October 27 and 29 across Cyprus, Spain, and Germany, with the suspects arrested on charges of involvement in",
-      "published": "2025-11-04 15:57:00",
-      "timestamp": 1762271820
     },
     {
       "id": "dcc6ee45707665d137ee38255b9d04aba5ad804c",
@@ -882,22 +892,22 @@
       "timestamp": 1761825600
     },
     {
-      "id": "2b1d744effdc5dc317e45d4b8edc73360a5e6c23",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "New Guidance Released on Microsoft Exchange Server Security Best Practices",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/new-guidance-released-microsoft-exchange-server-security-best-practices",
-      "summary": "Today, CISA, in partnership with the National Security Agency and international cybersecurity partners, released Microsoft Exchange Server Security Best Practices, a guide to help network defenders harden on-premises Exchange servers against exploitation by malicious actors. Threat activity targeting Exchange continues to persist, and organizations with unprotected or misconfigured Exchange servers remain at high risk of compromise. Best practices in this guide focus on hardening user authentica",
-      "published": "2025-10-30 12:00:00",
-      "timestamp": 1761825600
-    },
-    {
       "id": "d42f66e03d97c8df8e4c02289025c0bcc816243f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-24893 XWiki Platform Eval Injection Vulnerability CVE-2025-41244 Broadcom VMware Aria Operations and VMware Tools Privilege Defined with Unsafe Actions Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducin",
+      "published": "2025-10-30 12:00:00",
+      "timestamp": 1761825600
+    },
+    {
+      "id": "2b1d744effdc5dc317e45d4b8edc73360a5e6c23",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "New Guidance Released on Microsoft Exchange Server Security Best Practices",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/new-guidance-released-microsoft-exchange-server-security-best-practices",
+      "summary": "Today, CISA, in partnership with the National Security Agency and international cybersecurity partners, released Microsoft Exchange Server Security Best Practices, a guide to help network defenders harden on-premises Exchange servers against exploitation by malicious actors. Threat activity targeting Exchange continues to persist, and organizations with unprotected or misconfigured Exchange servers remain at high risk of compromise. Best practices in this guide focus on hardening user authentica",
       "published": "2025-10-30 12:00:00",
       "timestamp": 1761825600
     },
@@ -1112,22 +1122,22 @@
       "timestamp": 1760616000
     },
     {
-      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
-    },
-    {
       "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
       "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
+      "published": "2025-10-15 12:00:00",
+      "timestamp": 1760529600
+    },
+    {
+      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
       "published": "2025-10-15 12:00:00",
       "timestamp": 1760529600
     },
@@ -1240,16 +1250,6 @@
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2010-3765 Mozilla Multiple Products Remote Code Execution Vulnerability CVE-2010-3962 Microsoft Internet Explorer Uninitialized Memory Corruption Vulnerability CVE-2011-3402 Microsoft Windows Remote Code Execution Vulnerability CVE-2013-3918 Microsoft Windows Out-of-Bounds Write Vulnerability CVE-2021-22555 Linux Kernel Heap Out-of-Bounds Write Vulnerabilit",
       "published": "2025-10-06 12:00:00",
       "timestamp": 1759752000
-    },
-    {
-      "id": "1b2b88e4c8ec1118c159662b2f565c1616daf8a6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/02/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2014-6278 GNU Bash OS Command Injection Vulnerability CVE-2015-7755 Juniper ScreenOS Improper Authentication Vulnerability CVE-2017-1000353 Jenkins Remote Code Execution Vulnerability CVE-2025-4008 Smartbedded Meteobridge Command Injection Vulnerability CVE-2025-21043 Samsung Mobile Devices Out-of-Bounds Write Vulnerability These types of vulnerabilities are",
-      "published": "2025-10-02 12:00:00",
-      "timestamp": 1759406400
     },
     {
       "id": "855d7683577ed5378c4f369a708b587544020918",
