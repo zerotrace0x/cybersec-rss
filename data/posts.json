@@ -1,6 +1,46 @@
 {
-  "generated_at": 1763392257,
+  "generated_at": 1763403149,
   "items": [
+    {
+      "id": "fae5d991190efe7fd9f664f460a60f4ee712313d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
+      "summary": "Microsoft said today that the Aisuru botnet hit its Azure network with a 15.72 terabits per second (Tbps) DDoS attack, launched from over 500,000 IP addresses. [...]",
+      "published": "2025-11-17 17:13:15",
+      "timestamp": 1763399595
+    },
+    {
+      "id": "d92cc22679316bb4159d2c3a20e40b1dc74f5227",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
+      "link": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+      "summary": "Cybersecurity researchers have discovered malware campaigns using the now-prevalent ClickFix social engineering tactic to deploy Amatera Stealer and NetSupport RAT. The activity, observed this month, is being tracked by eSentire under the moniker EVALUSION. First spotted in June 2025, Amatera is assessed to be an evolution of ACR (short for \"AcridRain\") Stealer, which was available under the",
+      "published": "2025-11-17 16:53:00",
+      "timestamp": 1763398380
+    },
+    {
+      "id": "93ab4304dd6a0e71e0e129654aa924e66c521da4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
+      "link": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
+      "summary": "A vulnerability in DoorDash's systems could allow anyone to send \"official\" DoorDash-themed emails right from company's authorized servers, paving a near-perfect phishing channel. DoorDash has now patched the issue, but a contentious disclosure dispute has erupted, with both sides accusing each other of acting in bad faith. [...]",
+      "published": "2025-11-17 16:32:09",
+      "timestamp": 1763397129
+    },
+    {
+      "id": "d0998d5ba4bd2a510974b07105d2cde00019f23e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
+      "link": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
+      "summary": "The office of Pennsylvania's attorney general has confirmed that the ransomware gang behind an August 2025 cyberattack stole files containing personal and medical information. [...]",
+      "published": "2025-11-17 15:57:48",
+      "timestamp": 1763395068
+    },
     {
       "id": "5b08dfde9003f657aac38b6629a10fb4a405a8ca",
       "source": "BleepingComputer",
@@ -60,16 +100,6 @@
       "summary": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% of total vulnerabilities for the first time. \"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android\u2019s C and C++ code. But the biggest surprise was",
       "published": "2025-11-17 06:02:00",
       "timestamp": 1763359320
-    },
-    {
-      "id": "be96914a09fb7991782ab962e612255216a74977",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Patch Tuesday, November 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-      "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
-      "published": "2025-11-16 21:47:14",
-      "timestamp": 1763329634
     },
     {
       "id": "fb26bd7ccffa36262695ea1bc0a73577ef6a6f3e",
@@ -182,16 +212,6 @@
       "timestamp": 1763139642
     },
     {
-      "id": "5426adf555c4f2fcf3d2dc2e97f1fbc49ed24786",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Checkout.com snubs hackers after data breach, to donate ransom instead",
-      "link": "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/",
-      "summary": "UK financial technology company Checkout announced that the ShinyHunters threat group has breached one of its legacy cloud storage systems and is now extorting the company for a ransom. [...]",
-      "published": "2025-11-14 16:25:42",
-      "timestamp": 1763137542
-    },
-    {
       "id": "838acf114013560a54dc3fa7bb1b17fcd50ec59e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -200,16 +220,6 @@
       "summary": "Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang. \"These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python's pickle deserialization,\"",
       "published": "2025-11-14 15:20:00",
       "timestamp": 1763133600
-    },
-    {
-      "id": "f160c75ad92e8e32dd146350dcf07c8d922d26ea",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US announces new strike force targeting Chinese crypto scammers",
-      "link": "https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/",
-      "summary": "U.S. federal authorities have established a new task force to disrupt Chinese cryptocurrency scam networks that defraud Americans of nearly $10 billion annually. [...]",
-      "published": "2025-11-14 14:54:30",
-      "timestamp": 1763132070
     },
     {
       "id": "8664d23e3e30b2953a8fbf2a3c0a4e0a6b7b5d69",
@@ -280,16 +290,6 @@
       "summary": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year. The activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
       "published": "2025-11-13 20:27:00",
       "timestamp": 1763065620
-    },
-    {
-      "id": "5764e6b4b03c85f91308fe883ee8fd0238f5cc07",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
-      "published": "2025-11-13 14:47:22",
-      "timestamp": 1763045242
     },
     {
       "id": "bfdd8d6b68d0ab7fc444d44fd4416dd23625e9a0",
@@ -602,16 +602,6 @@
       "timestamp": 1762764660
     },
     {
-      "id": "4a580ede247493622344c9bbabe63e78a3ed3171",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
-      "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
-      "published": "2025-11-09 18:14:40",
-      "timestamp": 1762712080
-    },
-    {
       "id": "60c13d62f1f6b820cc8cd8ce93b436fff246e8f9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -772,26 +762,6 @@
       "timestamp": 1762413720
     },
     {
-      "id": "01d49d7018725ac7c2fd5512257457d4ad503e18",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
-      "link": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
-      "summary": "SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files. \"The malicious activity \u2013 carried out by a state-sponsored threat actor \u2013 was isolated to the unauthorized access of cloud backup files from a specific cloud environment using an API call,\" the company said in a",
-      "published": "2025-11-06 05:40:00",
-      "timestamp": 1762407600
-    },
-    {
-      "id": "8160d93f73d730d77785ca0dab2555b7c2c4434e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru's overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company's domain name system (DNS) service.",
-      "published": "2025-11-06 02:04:36",
-      "timestamp": 1762394676
-    },
-    {
       "id": "5ee67b8d892cefc075779800c8684260649d429f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -872,16 +842,6 @@
       "timestamp": 1762189200
     },
     {
-      "id": "4d490e46f430289ca5601f224bb949096234c91c",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
-      "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "summary": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned. Sources close to the investigation say Yuriy Igorevich Rybtsov, a 41-year-old from the Russia-controlled city of Donetsk, Ukraine, was previously referenced in U.S. federal charging documents only by his online handle \"MrICQ.\" According to a 13-year-old indictment file",
-      "published": "2025-11-02 20:37:24",
-      "timestamp": 1762115844
-    },
-    {
       "id": "45ef7d77b4c37d03d960e66c23a2dcb8ecf68fd8",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -920,16 +880,6 @@
       "summary": "Today, CISA, in partnership with the National Security Agency and international cybersecurity partners, released Microsoft Exchange Server Security Best Practices, a guide to help network defenders harden on-premises Exchange servers against exploitation by malicious actors. Threat activity targeting Exchange continues to persist, and organizations with unprotected or misconfigured Exchange servers remain at high risk of compromise. Best practices in this guide focus on hardening user authentica",
       "published": "2025-10-30 12:00:00",
       "timestamp": 1761825600
-    },
-    {
-      "id": "bdf782c2604480e68d0cfd6995271fe89ae3a49a",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "summary": "Aisuru, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts says a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI",
-      "published": "2025-10-29 00:51:05",
-      "timestamp": 1761699065
     },
     {
       "id": "3b5c1437de071087c7b7f1a0639a8af1e36ef010",
@@ -1012,16 +962,6 @@
       "timestamp": 1761220800
     },
     {
-      "id": "9b5e29ca9f7a73c60f29bd3637973d105bcbb89d",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-      "link": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-      "summary": "Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian cryptocurrency exchanges and websites hawking cybercrime services. The penalties for violating Canada's anti money-laundering laws come ten months after KrebsOnSecurity noted that Cryptomus's Vancouver street address was home to dozens of foreign currency dealers, money transfer businesses, and cryptocurrency exchanges \u2014 none of which were physicall",
-      "published": "2025-10-22 17:21:36",
-      "timestamp": 1761153696
-    },
-    {
       "id": "57b09f7eb8b00519cdc2890067fdaf3961c987a0",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1092,16 +1032,6 @@
       "timestamp": 1760961600
     },
     {
-      "id": "8f4ddeee4b512f268a8214c2416c17f775dd2012",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "summary": "Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing messages that come from hundreds of Zendesk corporate customers simultaneously.",
-      "published": "2025-10-17 11:26:27",
-      "timestamp": 1760700387
-    },
-    {
       "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1152,16 +1082,6 @@
       "timestamp": 1760529600
     },
     {
-      "id": "8e9a1b21da8ae0d1f00b370a31767aef0bb96b95",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
-      "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "summary": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October's Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you're running a Windows 10 PC and you're unable or unwilling to migrate to Windows 11, read on for other options.",
-      "published": "2025-10-14 22:57:38",
-      "timestamp": 1760482658
-    },
-    {
       "id": "9048c7145c51b70e36b4a3ef4127ede068402c34",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1180,16 +1100,6 @@
       "summary": "CISA released one Industrial Control Systems (ICS) advisory on October 14, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-287-01 Rockwell Automation 1715 EtherNet/IP Comms Module CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
       "published": "2025-10-14 12:00:00",
       "timestamp": 1760443200
-    },
-    {
-      "id": "d7adef61b32231cf8a25dadbb73e0261cfc56591",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "summary": "The world's largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&T, Comcast and Verizon, new evidence suggests. Experts say the heavy concentration of infected devices at U.S. providers is complicating efforts to limit collateral damage from the botnet's attacks, which shattered previous records this week with a brief traffic flood that clocked in at nearly 30 trillion bits of dat",
-      "published": "2025-10-10 16:10:43",
-      "timestamp": 1760112643
     },
     {
       "id": "c5572a0e3b9922bd7aaba12634d8824814096b14",
