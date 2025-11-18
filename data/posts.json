@@ -1,25 +1,15 @@
 {
-  "generated_at": 1763457089,
+  "generated_at": 1763468284,
   "items": [
     {
-      "id": "404a867f79d4d2e3d505425a2992f43fa05117bb",
-      "source": "The Hacker News",
+      "id": "8a4656abd9f4c613905baf9ba961a2e1ff8bca00",
+      "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Microsoft Mitigates Record 5.72 Tbps DDoS Attack Driven by AISURU Botnet",
-      "link": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
-      "summary": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps). The tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
-      "published": "2025-11-18 08:17:00",
-      "timestamp": 1763453820
-    },
-    {
-      "id": "00550cb809e0d6c6f61c78309ba151f6b04d2284",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
-      "link": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
-      "summary": "Google on Monday released security updates for its Chrome browser to address two security flaws, including one that has come under active exploitation in the wild. The vulnerability in question is CVE-2025-13223 (CVSS score: 8.8), a type confusion vulnerability in the V8 JavaScript and WebAssembly engine that could be exploited to achieve arbitrary code execution or program crashes. \"Type",
-      "published": "2025-11-18 04:44:00",
-      "timestamp": 1763441040
+      "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has released an emergency security update to fix the seventh Chrome zero-day vulnerability exploited in attacks this year. [...]",
+      "published": "2025-11-18 10:13:17",
+      "timestamp": 1763460797
     },
     {
       "id": "0b6d39182363908be35ed0afe7ee617b38e3b1e5",
@@ -122,16 +112,6 @@
       "timestamp": 1763399034
     },
     {
-      "id": "d92cc22679316bb4159d2c3a20e40b1dc74f5227",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
-      "link": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
-      "summary": "Cybersecurity researchers have discovered malware campaigns using the now-prevalent ClickFix social engineering tactic to deploy Amatera Stealer and NetSupport RAT. The activity, observed this month, is being tracked by eSentire under the moniker EVALUSION. First spotted in June 2025, Amatera is assessed to be an evolution of ACR (short for \"AcridRain\") Stealer, which was available under the",
-      "published": "2025-11-17 16:53:00",
-      "timestamp": 1763398380
-    },
-    {
       "id": "93ab4304dd6a0e71e0e129654aa924e66c521da4",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -172,46 +152,6 @@
       "timestamp": 1763388000
     },
     {
-      "id": "f5c7db50970a8724464151eae3a21c3dd7c85c49",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
-      "link": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
-      "summary": "This week showed just how fast things can go wrong when no one\u2019s watching. Some attacks were silent and sneaky. Others used tools we trust every day \u2014 like AI, VPNs, or app stores \u2014 to cause damage without setting off alarms. It\u2019s not just about hacking anymore. Criminals are building systems to make money, spy, or spread malware like it\u2019s a business. And in some cases, they\u2019re using the same",
-      "published": "2025-11-17 12:34:00",
-      "timestamp": 1763382840
-    },
-    {
-      "id": "4a27631222ed4fc92b3431dce9cc0f474482f8c0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
-      "link": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
-      "summary": "Phishing attacks are no longer confined to the email inbox, with 1 in 3 phishing attacks now taking place over non-email channels like social media, search engines, and messaging apps. LinkedIn in particular has become a hotbed for phishing attacks, and for good reason. Attackers are running sophisticated spear-phishing attacks against company executives, with recent campaigns seen targeting",
-      "published": "2025-11-17 11:55:00",
-      "timestamp": 1763380500
-    },
-    {
-      "id": "fe1a360ee4058217e0e5986881ba0ce0ee41bb55",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
-      "link": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
-      "summary": "The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT. The campaign, which is primarily aimed at Chinese-speaking users, employs trojanized NSIS installers masquerading as legitimate like Google Chrome and Microsoft Teams, according to Elastic Security Labs. \"The",
-      "published": "2025-11-17 11:20:00",
-      "timestamp": 1763378400
-    },
-    {
-      "id": "6f462acbdb6aa21092b912b7c0aca72d3f435dab",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
-      "link": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
-      "summary": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% of total vulnerabilities for the first time. \"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android\u2019s C and C++ code. But the biggest surprise was",
-      "published": "2025-11-17 06:02:00",
-      "timestamp": 1763359320
-    },
-    {
       "id": "be96914a09fb7991782ab962e612255216a74977",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -230,56 +170,6 @@
       "summary": "Google will start taking action on Android apps in the official Google Play store that have high background activity and cause excessive battery draining. [...]",
       "published": "2025-11-16 15:15:25",
       "timestamp": 1763306125
-    },
-    {
-      "id": "5bf304655d9e52009734775c8a8675291042d30e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
-      "link": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
-      "summary": "The botnet malware known as RondoDox has been observed targeting unpatched XWiki instances against a critical security flaw that could allow attackers to achieve arbitrary code execution. The vulnerability in question is CVE-2025-24893 (CVSS score: 9.8), an eval injection bug that could allow any guest user to perform arbitrary remote code execution through a request to the \"/bin/get/Main/",
-      "published": "2025-11-15 16:35:00",
-      "timestamp": 1763224500
-    },
-    {
-      "id": "22c89a90a0fa1bdf798b52e1227bec3aaa5abc09",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
-      "link": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Friday announced that five individuals have pleaded guilty to assisting North Korea's illicit revenue generation schemes by enabling information technology (IT) worker fraud in violation of international sanctions. The five individuals are listed below - Audricus Phagnasay, 24 Jason Salazar, 30 Alexander Paul Travis, 34 Oleksandr Didenko, 28, and Erick",
-      "published": "2025-11-15 10:21:00",
-      "timestamp": 1763202060
-    },
-    {
-      "id": "677feb9ec711e8f42be53e8a08e44f2208d38fe2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
-      "link": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have once again tweaked their tactics by using JSON storage services to stage malicious payloads. \"The threat actors have recently resorted to utilizing JSON storage services like JSON Keeper, JSONsilo, and npoint.io to host and deliver malware from trojanized code projects, with the lure,\" NVISO researchers Bart Parys, Stef",
-      "published": "2025-11-14 18:25:00",
-      "timestamp": 1763144700
-    },
-    {
-      "id": "838acf114013560a54dc3fa7bb1b17fcd50ec59e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
-      "link": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
-      "summary": "Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang. \"These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python's pickle deserialization,\"",
-      "published": "2025-11-14 15:20:00",
-      "timestamp": 1763133600
-    },
-    {
-      "id": "8664d23e3e30b2953a8fbf2a3c0a4e0a6b7b5d69",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Iranian Hackers Launch \u2018SpearSpecter\u2019 Spy Operation on Defense & Government Targets",
-      "link": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
-      "summary": "The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign. The activity, detected in early September 2025 and assessed to be ongoing, has been codenamed SpearSpecter by the Israel National Digital Agency (INDA). \"The",
-      "published": "2025-11-14 14:40:00",
-      "timestamp": 1763131200
     },
     {
       "id": "0703caa063de82307a6bf3382368c596db50c2c8",
@@ -302,46 +192,6 @@
       "timestamp": 1763121600
     },
     {
-      "id": "640f413c2bf0ade81e6f4e4e221d0e01a6e23b86",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
-      "link": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
-      "summary": "Key Takeaways: 85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date. 1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure. 14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns. LockBit\u2019s reappearance with",
-      "published": "2025-11-14 10:37:00",
-      "timestamp": 1763116620
-    },
-    {
-      "id": "3efc3e0050732ea9a7719fb176c15127067d2bf6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
-      "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
-      "summary": "State-sponsored threat actors from China used artificial intelligence (AI) technology developed by Anthropic to orchestrate automated cyber attacks as part of a \"highly sophisticated espionage campaign\" in mid-September 2025. \"The attackers used AI's 'agentic' capabilities to an unprecedented degree \u2013 using AI not just as an advisor, but to execute the cyber attacks themselves,\" the AI upstart",
-      "published": "2025-11-14 09:53:00",
-      "timestamp": 1763113980
-    },
-    {
-      "id": "95d24534ad3560f2890a752760856a32acf52374",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
-      "link": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
-      "summary": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet FortiWeb Web Application Firewall (WAF) that could allow an attacker to take over admin accounts and completely compromise a device. \"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb",
-      "published": "2025-11-14 09:00:00",
-      "timestamp": 1763110800
-    },
-    {
-      "id": "1b82180dfc6af18cb7126eab17e3aeba47935d18",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
-      "link": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
-      "summary": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year. The activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
-      "published": "2025-11-13 20:27:00",
-      "timestamp": 1763065620
-    },
-    {
       "id": "5764e6b4b03c85f91308fe883ee8fd0238f5cc07",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -360,16 +210,6 @@
       "summary": "Written by: Josh Stroschein, Jae Young Kim The prevalence of obfuscation and multi-stage layering in today\u2019s malware often forces analysts into tedious and manual debugging sessions. For instance, the primary challenge of analyzing pervasive commodity stealers like AgentTesla isn\u2019t identifying the malware, but quickly cutting through the obfuscated delivery chain to get to the final payload. Unlike traditional live debugging, Time Travel Debugging (TTD) captures a deterministic, shareable record",
       "published": "2025-11-13 14:00:00",
       "timestamp": 1763042400
-    },
-    {
-      "id": "3b604db74e269b27fba3f95eb197318571737287",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Chrome Extension \u201cSafery\u201d Steals Ethereum Wallet Seed Phrases Using Sui Blockchain",
-      "link": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
-      "summary": "Cybersecurity researchers have uncovered a malicious Chrome extension that poses as a legitimate Ethereum wallet but harbors functionality to exfiltrate users' seed phrases. The name of the extension is \"Safery: Ethereum Wallet,\" with the threat actor describing it as a \"secure wallet for managing Ethereum cryptocurrency with flexible settings.\" It was uploaded to the Chrome Web Store on",
-      "published": "2025-11-13 13:04:00",
-      "timestamp": 1763039040
     },
     {
       "id": "fa52de059959b204e08e14e269b4443153faa6e0",
@@ -392,76 +232,6 @@
       "timestamp": 1763035200
     },
     {
-      "id": "e2ce4b261792b20a2a2d95b51f5c341d459801cb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security",
-      "link": "https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html",
-      "summary": "The Race for Every New CVE Based on multiple 2025 industry reports: roughly 50 to 61 percent of newly disclosed vulnerabilities saw exploit code weaponized within 48 hours. Using the CISA Known Exploited Vulnerabilities Catalog as a reference, hundreds of software flaws are now confirmed as actively targeted within days of public disclosure. Each new announcement now triggers a global race",
-      "published": "2025-11-13 11:30:00",
-      "timestamp": 1763033400
-    },
-    {
-      "id": "58a0d1e616ea3a480fd1f4286b2b04e01d629636",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown",
-      "link": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
-      "summary": "Malware families like Rhadamanthys Stealer, Venom RAT, and the Elysium botnet have been disrupted as part of a coordinated law enforcement operation led by Europol and Eurojust. The activity, which took place between November 10 and 13, 2025, marks Please remove image compression the latest phase of Operation Endgame, an ongoing operation designed to take down criminal infrastructures and combat",
-      "published": "2025-11-13 11:16:00",
-      "timestamp": 1763032560
-    },
-    {
-      "id": "da5eea628f1915bbf1a3eec6f0a1eaa718525a5c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories",
-      "link": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
-      "summary": "Behind every click, there\u2019s a risk waiting to be tested. A simple ad, email, or link can now hide something dangerous. Hackers are getting smarter, using new tools to sneak past filters and turn trusted systems against us. But security teams are fighting back. They\u2019re building faster defenses, better ways to spot attacks, and stronger systems to keep people safe. It\u2019s a constant race \u2014 every",
-      "published": "2025-11-13 10:10:00",
-      "timestamp": 1763028600
-    },
-    {
-      "id": "1fb8378e64b3050ce4081bfab98b17c56756460a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
-      "link": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2025-9242 (CVSS score: 9.3), an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including",
-      "published": "2025-11-13 07:23:00",
-      "timestamp": 1763018580
-    },
-    {
-      "id": "241d35f4c5c6c20b9eb72b4041a7da7d30ce3325",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack",
-      "link": "https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html",
-      "summary": "Cybersecurity researchers are calling attention to a large-scale spam campaign that has flooded the npm registry with thousands of fake packages since early 2024 as part of a likely financially motivated effort. \"The packages were systematically published over an extended period, flooding the npm registry with junk packages that survived in the ecosystem for almost two years,\" Endor Labs",
-      "published": "2025-11-13 04:58:00",
-      "timestamp": 1763009880
-    },
-    {
-      "id": "007cddd4fa9182af838d70402d25010d16bf4825",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform",
-      "link": "https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html",
-      "summary": "Google has filed a civil lawsuit in the U.S. District Court for the Southern District of New York (SDNY) against China-based hackers who are behind a massive Phishing-as-a-Service (PhaaS) platform called Lighthouse that has ensnared over 1 million users across 120 countries. The PhaaS kit is used to conduct large-scale SMS phishing attacks that exploit trusted brands like E-ZPass and USPS to",
-      "published": "2025-11-12 15:48:00",
-      "timestamp": 1762962480
-    },
-    {
-      "id": "a042de59c6e5def5f81b28a70e38a17ccedaab97",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws",
-      "link": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
-      "summary": "Amazon's threat intelligence team on Wednesday disclosed that it observed an advanced threat actor exploiting two then-zero-day security flaws in Cisco Identity Service Engine (ISE) and Citrix NetScaler ADC products as part of attacks designed to deliver custom malware. \"This discovery highlights the trend of threat actors focusing on critical identity and network access control infrastructure \u2013",
-      "published": "2025-11-12 14:00:00",
-      "timestamp": 1762956000
-    },
-    {
       "id": "019e20dc583593874428db09d7fc559f02ae2dab",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -480,116 +250,6 @@
       "summary": "CISA has released Emergency Cisco Directive 25-03 Implementation Guidance to assist federal agencies in addressing critical vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. Emergency Directive 25-03: Identify and Mitigate Potential Compromise of Cisco Devices, issued on Sept. 25, identified known vulnerabilities CVE-2025-20333 and CVE-2025-20362, and mandated immediate action to mitigate risks. Threat actors continue to target these devices, posing significant r",
       "published": "2025-11-12 12:00:00",
       "timestamp": 1762948800
-    },
-    {
-      "id": "ba21c6c4ee05c614157f2c0ceec07a3d182b8498",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
-      "link": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
-      "summary": "Every day, security teams face the same problem\u2014too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you\u2019re always one step behind. But what if there was a smarter way to stay ahead\u2014without adding more work or stress? Join The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack",
-      "published": "2025-11-12 11:55:00",
-      "timestamp": 1762948500
-    },
-    {
-      "id": "e8abdfce489654c979fd338557fc4857ba86199a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security",
-      "link": "https://thehackernews.com/2025/11/active-directory-under-siege-why.html",
-      "summary": "Active Directory remains the authentication backbone for over 90% of Fortune 1000 companies. AD's importance has grown as companies adopt hybrid and cloud infrastructure, but so has its complexity. Every application, user, and device traces back to AD for authentication and authorization, making it the ultimate target. For attackers, it represents the holy grail: compromise Active",
-      "published": "2025-11-12 11:07:00",
-      "timestamp": 1762945620
-    },
-    {
-      "id": "8c1f6b6129be07c4cad2088b06d4d2fa30fb1aa2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack",
-      "link": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
-      "summary": "Microsoft on Tuesday released patches for 63 new security vulnerabilities identified in its software, including one that has come under active exploitation in the wild. Of the 63 flaws, four are rated Critical and 59 are rated Important in severity. Twenty-nine of these vulnerabilities are related to privilege escalation, followed by 16 remote code execution, 11 information disclosure, three",
-      "published": "2025-11-12 10:21:00",
-      "timestamp": 1762942860
-    },
-    {
-      "id": "2ea366196716f25af37b6b6c65a037d2846b6110",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Launches 'Private AI Compute' \u2014 Secure AI Processing with On-Device-Level Privacy",
-      "link": "https://thehackernews.com/2025/11/google-launches-private-ai-compute.html",
-      "summary": "Google on Tuesday unveiled a new privacy-enhancing technology called Private AI Compute to process artificial intelligence (AI) queries in a secure platform in the cloud. The company said it has built Private AI Compute to \"unlock the full speed and power of Gemini cloud models for AI experiences, while ensuring your personal data stays private to you and is not accessible to anyone else, not",
-      "published": "2025-11-12 08:35:00",
-      "timestamp": 1762936500
-    },
-    {
-      "id": "d82c14a6971b76b4521f98135d187215901e2206",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
-      "link": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
-      "summary": "Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp. According to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications.",
-      "published": "2025-11-11 18:37:00",
-      "timestamp": 1762886220
-    },
-    {
-      "id": "b8e6e6eb7935d5d79db0aa61854b5b15483ed298",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites",
-      "link": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
-      "summary": "The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress. The cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection. \"",
-      "published": "2025-11-11 15:44:00",
-      "timestamp": 1762875840
-    },
-    {
-      "id": "01c500dbe6b0a201d342df75fb82368bb890d171",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISO's Expert Guide To AI Supply Chain Attacks",
-      "link": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
-      "summary": "AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations. Download the full CISO\u2019s expert guide to AI Supply chain attacks here. TL;DR AI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in",
-      "published": "2025-11-11 11:58:00",
-      "timestamp": 1762862280
-    },
-    {
-      "id": "2a936689bee7a3e4fc47db80e342dd0d70b9fba4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Npm Package Targeting GitHub-Owned Repositories Flagged as Red Team Exercise",
-      "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories. \"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
-      "published": "2025-11-11 11:55:00",
-      "timestamp": 1762862100
-    },
-    {
-      "id": "101e25582eefe3dddb83c863b0dd2720d3f6977d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
-      "link": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model. According to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,",
-      "published": "2025-11-11 11:44:00",
-      "timestamp": 1762861440
-    },
-    {
-      "id": "0f372e715865fa5896f73408e24bae3d1d735300",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
-      "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
-      "summary": "Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform. The critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads. The",
-      "published": "2025-11-10 20:49:00",
-      "timestamp": 1762807740
-    },
-    {
-      "id": "67d70f43178df4b609b298ac5bc6028038cd3fa3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon",
-      "link": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
-      "summary": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control. \"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians",
-      "published": "2025-11-10 20:29:00",
-      "timestamp": 1762806540
     },
     {
       "id": "ecc666f3640a437737b61717865df0dc21647ad7",
@@ -612,16 +272,6 @@
       "timestamp": 1762783200
     },
     {
-      "id": "10912237e4dfa6ab7216da7859fc07b17c589dfb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
-      "link": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
-      "summary": "Cyber threats didn\u2019t slow down last week\u2014and attackers are getting smarter. We\u2019re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild. But that\u2019s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week\u2019s roundup highlights a clear shift: cybercrime is evolving fast",
-      "published": "2025-11-10 12:51:00",
-      "timestamp": 1762779060
-    },
-    {
       "id": "89e81c514eb37a62a9ca205ed5be75d3d7f6af64",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -630,36 +280,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-21042 Samsung Mobile Devices Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of kn",
       "published": "2025-11-10 12:00:00",
       "timestamp": 1762776000
-    },
-    {
-      "id": "dadb163d92d28e4e0bf22935478321523c59b6d6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Browser Security Report Reveals Emerging Threats for Enterprises",
-      "link": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
-      "summary": "According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user\u2019s browser. Yet traditional controls like DLP, EDR, and SSE still operate one layer too low. What\u2019s emerging isn\u2019t just a blindspot. It\u2019s a parallel threat surface: unmanaged extensions acting like supply chain implants, GenAI",
-      "published": "2025-11-10 11:58:06",
-      "timestamp": 1762775886
-    },
-    {
-      "id": "dc70c8814c7209a516ee4c0a580c722b9ef0534d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
-      "link": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
-      "summary": "Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT. \"The attacker's modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,\" Sekoia said. \"This campaign",
-      "published": "2025-11-10 09:11:00",
-      "timestamp": 1762765860
-    },
-    {
-      "id": "906340981592b70ac84bac4f2dba6e4d83feb223",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs",
-      "link": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
-      "summary": "Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Code (VS Code) ecosystem. The extensions in question, which are still available for download, are listed below - ai-driven-dev.ai-driven-dev (3,402 downloads) adhamu.history-in-sublime-merge (4,057",
-      "published": "2025-11-10 08:51:00",
-      "timestamp": 1762764660
     },
     {
       "id": "4a580ede247493622344c9bbabe63e78a3ed3171",
@@ -672,26 +292,6 @@
       "timestamp": 1762712080
     },
     {
-      "id": "60c13d62f1f6b820cc8cd8ce93b436fff246e8f9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
-      "link": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
-      "summary": "Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean details about model conversation topics despite encryption protections under certain circumstances. This leakage of data exchanged between humans and streaming-mode language models could pose serious risks to",
-      "published": "2025-11-08 14:29:00",
-      "timestamp": 1762612140
-    },
-    {
-      "id": "060bfd2e286a4be1b4729b4a0fd2b59407dcb95e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware",
-      "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
-      "summary": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East. The activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
-      "published": "2025-11-07 18:00:00",
-      "timestamp": 1762538400
-    },
-    {
       "id": "e209481d2902b499c3a44ecf34d85194f0bc25e5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -700,56 +300,6 @@
       "summary": "Microsoft has discovered a side-channel attack on language models which allows adversaries to conclude model conversation topics, despite being encrypted. The post \u200b\u200bWhisper Leak: A novel side-channel attack on remote language models appeared first on Microsoft Security Blog.",
       "published": "2025-11-07 17:00:00",
       "timestamp": 1762534800
-    },
-    {
-      "id": "4ace3a45d5527b4cf2936607f21bdb5f2792580e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "From Log4j to IIS, China\u2019s Hackers Turn Legacy Bugs into Global Espionage Tools",
-      "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
-      "summary": "A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues. The organization, according to a report from Broadcom's Symantec and Carbon Black teams, is \"active in attempting to influence U.S. government",
-      "published": "2025-11-07 16:07:00",
-      "timestamp": 1762531620
-    },
-    {
-      "id": "67d808e33bdd34db34338f0e180f20e09cea9af0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
-      "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
-      "summary": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems. According to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
-      "published": "2025-11-07 11:55:00",
-      "timestamp": 1762516500
-    },
-    {
-      "id": "fa5c07f2b2e7432e05c1cdc6a2a6cc8768fa5416",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Enterprise Credentials at Risk \u2013 Same Old, Same Old?",
-      "link": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
-      "summary": "Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization\u2019s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she\u2019s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web",
-      "published": "2025-11-07 10:30:00",
-      "timestamp": 1762511400
-    },
-    {
-      "id": "72ccfa49a834aca565ecf81191a0d1b0db416996",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
-      "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-      "summary": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments. The approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an",
-      "published": "2025-11-07 09:15:00",
-      "timestamp": 1762506900
-    },
-    {
-      "id": "af97e3cc359ee2bed92ff53f742d1108bb2911f5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
-      "link": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
-      "summary": "Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence \u2013 in other words, vibe-coded. Secure Annex researcher John Tuckner, who flagged the extension \"susvsex,\" said it does not attempt to hide its malicious functionality. The extension was uploaded on",
-      "published": "2025-11-07 06:48:00",
-      "timestamp": 1762498080
     },
     {
       "id": "a8f6b7a85b85d5a274391a646beaeb8fb4ad97d4",
@@ -762,26 +312,6 @@
       "timestamp": 1762448400
     },
     {
-      "id": "f73222bf4bf96be6138afe09ade4fd64fc5a3b23",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
-      "link": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
-      "summary": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities. The campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned. \"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link",
-      "published": "2025-11-06 15:31:00",
-      "timestamp": 1762443060
-    },
-    {
-      "id": "2af8eed8dcb589b9a2321e8297e9235cb608a60c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
-      "link": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
-      "summary": "Cisco on Wednesday disclosed that it became aware of a new attack variant that's designed to target devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software releases that are susceptible to CVE-2025-20333 and CVE-2025-20362. \"This attack can cause unpatched devices to unexpectedly reload, leading to denial-of-service",
-      "published": "2025-11-06 14:58:00",
-      "timestamp": 1762441080
-    },
-    {
       "id": "4fd37e76aed4747ff3f29515ac3d1ac6600630f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -790,26 +320,6 @@
       "summary": "CISA released four Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-310-01 Advantech DeviceOn iEdge ICSA-25-310-02 Ubia Ubox ICSA-25-310-03 ABB FLXeon Controllers ICSA-25-282-01 Hitachi Energy Asset Suite (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
       "published": "2025-11-06 12:00:00",
       "timestamp": 1762430400
-    },
-    {
-      "id": "4b62d15d403e2a79291c445e6158a582425675c4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services",
-      "link": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
-      "summary": "Introduction Financial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement. Crisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in",
-      "published": "2025-11-06 11:59:00",
-      "timestamp": 1762430340
-    },
-    {
-      "id": "998b343acfdd0f06c5a4f551f9bd402e56ff0fa6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
-      "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
-      "summary": "Cybercrime has stopped being a problem of just the internet \u2014 it\u2019s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors. The result is a global system where every digital weakness can be turned into physical harm, economic loss, or political leverage.",
-      "published": "2025-11-06 11:40:00",
-      "timestamp": 1762429200
     },
     {
       "id": "8160d93f73d730d77785ca0dab2555b7c2c4434e",
