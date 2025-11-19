@@ -1,6 +1,46 @@
 {
-  "generated_at": 1763565011,
+  "generated_at": 1763576041,
   "items": [
+    {
+      "id": "f341059ff9ca58c0b7bb4132ddc587b21bed89e3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
+      "link": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
+      "summary": "A critical flaw in the W3 Total Cache (W3TC) WordPress plugin can be exploited to run PHP commands on the server by posting a comment that contains a malicious payload. [...]",
+      "published": "2025-11-19 17:34:45",
+      "timestamp": 1763573685
+    },
+    {
+      "id": "0a05d90545a6d7ec6a080b54db0fe23e2bbe69a9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
+      "summary": "Today, the United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations. [...]",
+      "published": "2025-11-19 16:43:46",
+      "timestamp": 1763570626
+    },
+    {
+      "id": "aa2366d95d298f8751fc90ab5dc4b213bc925617",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Actively Exploiting 7-Zip Symbolic Link\u2013Based RCE Vulnerability (CVE-2025-11001)",
+      "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+      "summary": "A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K. NHS England Digital on Tuesday. The vulnerability in question is CVE-2025-11001 (CVSS score: 7.0), which allows remote attackers to execute arbitrary code. It has been addressed in 7-Zip version 25.00 released in July 2025. \"The specific flaw exists",
+      "published": "2025-11-19 16:27:00",
+      "timestamp": 1763569620
+    },
+    {
+      "id": "ab9afcbaa2c6c9edfee3b1a4cc2d00364eea3ee9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that leverages a combination of social engineering and WhatsApp hijacking to distribute a Delphi-based banking trojan named Eternidade Stealer as part of attacks targeting users in Brazil. \"It uses Internet Message Access Protocol (IMAP) to dynamically retrieve command-and-control (C2) addresses, allowing the threat actor to",
+      "published": "2025-11-19 15:35:00",
+      "timestamp": 1763566500
+    },
     {
       "id": "6dc2e52d26b30390c55d984ec7b35c85c97a4cf4",
       "source": "BleepingComputer",
@@ -190,26 +230,6 @@
       "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued evolution of such offerings and further making it easier for less-skilled threat actors to mount attacks at scale. Push Security, in a report shared with The Hacker News, said it observed the use",
       "published": "2025-11-18 18:31:00",
       "timestamp": 1763490660
-    },
-    {
-      "id": "f2c747d5fe26de771ab01699f730f116b3db27b9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
-      "summary": "Microsoft announced today that it will integrate Sysmon natively into Windows 11 and Windows Server 2025 next year, making it unnecessary to deploy the standalone Sysinternals tools. [...]",
-      "published": "2025-11-18 17:25:18",
-      "timestamp": 1763486718
-    },
-    {
-      "id": "763538dcc04ef04d5c4ad544ec6ae9c98c38f611",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Teams to let users report messages wrongly flagged as threats",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/",
-      "summary": "Microsoft says that Teams users will be able to report false-positive threat alerts triggered by messages incorrectly flagged as malicious. [...]",
-      "published": "2025-11-18 17:14:34",
-      "timestamp": 1763486074
     },
     {
       "id": "903817f80179966ab7c7caba37bb02cc1f70070d",
@@ -812,26 +832,6 @@
       "timestamp": 1762776000
     },
     {
-      "id": "dadb163d92d28e4e0bf22935478321523c59b6d6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Browser Security Report Reveals Emerging Threats for Enterprises",
-      "link": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
-      "summary": "According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user\u2019s browser. Yet traditional controls like DLP, EDR, and SSE still operate one layer too low. What\u2019s emerging isn\u2019t just a blindspot. It\u2019s a parallel threat surface: unmanaged extensions acting like supply chain implants, GenAI",
-      "published": "2025-11-10 11:58:06",
-      "timestamp": 1762775886
-    },
-    {
-      "id": "dc70c8814c7209a516ee4c0a580c722b9ef0534d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
-      "link": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
-      "summary": "Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT. \"The attacker's modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,\" Sekoia said. \"This campaign",
-      "published": "2025-11-10 09:11:00",
-      "timestamp": 1762765860
-    },
-    {
       "id": "4a580ede247493622344c9bbabe63e78a3ed3171",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1162,22 +1162,22 @@
       "timestamp": 1760700387
     },
     {
-      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
-      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
-    },
-    {
       "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
       "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
+      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
+      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
     },
