@@ -1,6 +1,36 @@
 {
-  "generated_at": 1763641080,
+  "generated_at": 1763651391,
   "items": [
+    {
+      "id": "0fbfcc7e2bfbd3aed896ce568d310a1dd5f01264",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Beyond the Watering Hole: APT24's Pivot to Multi-Vector Attacks",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/apt24-pivot-to-multi-vector-attacks/",
+      "summary": "Written by: Harsh Parashar, Tierra Duncan, Dan Perez Google Threat Intelligence Group (GTIG) is tracking a long-running and adaptive cyber espionage campaign by APT24, a People's Republic of China (PRC)-nexus threat actor. Spanning three years, APT24 has been deploying BADAUDIO, a highly obfuscated first-stage downloader used to establish persistent access to victim networks. While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently ",
+      "published": "2025-11-20 14:00:00",
+      "timestamp": 1763647200
+    },
+    {
+      "id": "d325e7d5977889d1b26b8972260f39cc2ab2c8e8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "TV streaming piracy service with 26M yearly visits shut down",
+      "link": "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/",
+      "summary": "Photocall, a TV piracy streaming platform with over 26 million users annually, has ceased operations following a joint investigation by the Alliance for Creativity and Entertainment (ACE) and DAZN. [...]",
+      "published": "2025-11-20 13:31:43",
+      "timestamp": 1763645503
+    },
+    {
+      "id": "d0cd2ad243049547c6a05407f684afdc1ab28143",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
+      "link": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
+      "summary": "This week has been crazy in the world of hacking and online security. From Thailand to London to the US, we've seen arrests, spies at work, and big power moves online. Hackers are getting caught. Spies are getting better at their jobs. Even simple things like browser add-ons and smart home gadgets are being used to attack people. Every day, there's a new story that shows how quickly things are",
+      "published": "2025-11-20 12:29:00",
+      "timestamp": 1763641740
+    },
     {
       "id": "0342f41732447234a06874fb70073e14acc1358b",
       "source": "The Hacker News",
@@ -200,16 +230,6 @@
       "summary": "A newly discovered campaign has compromised tens of thousands of outdated or end-of-life (EoL) ASUS routers worldwide, predominantly in Taiwan, the U.S., and Russia, to rope them into a massive network. The router hijacking activity has been codenamed Operation WrtHug by SecurityScorecard's STRIKE team. Southeast Asia and European countries are some of the other regions where infections have",
       "published": "2025-11-19 13:00:00",
       "timestamp": 1763557200
-    },
-    {
-      "id": "b6e6d77bf7c6eefb3c0af405e93f6662ca058abb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "California man admits to laundering crypto stolen in $230M heist",
-      "link": "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/",
-      "summary": "A 45-year-old from Irvine, California, has pleaded guilty to laundering at least $25 million stolen in a massive $230 million cryptocurrency heist. [...]",
-      "published": "2025-11-19 12:13:34",
-      "timestamp": 1763554414
     },
     {
       "id": "92417f3232f28b90abf264e6e15ade2103b3cd4f",
@@ -802,16 +822,6 @@
       "timestamp": 1762862280
     },
     {
-      "id": "2a936689bee7a3e4fc47db80e342dd0d70b9fba4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Npm Package Targeting GitHub-Owned Repositories Flagged as Red Team Exercise",
-      "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories. \"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
-      "published": "2025-11-11 11:55:00",
-      "timestamp": 1762862100
-    },
-    {
       "id": "ecc666f3640a437737b61717865df0dc21647ad7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1172,22 +1182,22 @@
       "timestamp": 1760700387
     },
     {
-      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
-      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
-    },
-    {
       "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
       "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
+      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
+      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
     },
@@ -1358,16 +1368,6 @@
       "title": "Beyond Convenience: Exposing the Risks of VMware vSphere Active Directory Integration",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/vsphere-active-directory-integration-risks/",
       "summary": "Written by: Stuart Carrera, Brian Meyer Executive Summary Broadcom's VMware vSphere product continues to be a top choice for private cloud virtualization, underpinning important systems and critical infrastructure. Far from losing its appeal, organizations still rely heavily on vSphere for its stability and control. Mandiant is also observing a clear trend where critical workloads are moving back from public cloud services to these on-premises vSphere environments, often driven by strategies tha",
-      "published": "2025-07-23 14:00:00",
-      "timestamp": 1753279200
-    },
-    {
-      "id": "7a3a4c402f363586fe276f2f9c77d84b37cdb4f4",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "From Help Desk to Hypervisor: Defending Your VMware vSphere Estate from UNC3944",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944/",
-      "summary": "Introduction In mid 2025, Google Threat Intelligence Group (GTIG) identified a sophisticated and aggressive cyber campaign targeting multiple industries, including retail, airline, and insurance. This was the work of UNC3944, a financially motivated threat group that has exhibited overlaps with public reporting of \"0ktapus,\" \"Octo Tempest,\" and \"Scattered Spider.\" Following public alerts from the Federal Bureau of Investigation (FBI), the group's targeting became clear. GTIG observed that the gr",
       "published": "2025-07-23 14:00:00",
       "timestamp": 1753279200
     },
