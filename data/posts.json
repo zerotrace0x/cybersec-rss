@@ -1,6 +1,26 @@
 {
-  "generated_at": 1763662434,
+  "generated_at": 1763672907,
   "items": [
+    {
+      "id": "04d3f5c6040181b3c196a26deebf7ce4d42ee1b7",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
+      "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will offici",
+      "published": "2025-11-20 19:06:51",
+      "timestamp": 1763665611
+    },
+    {
+      "id": "56cfdeabb592f13564ea6648f18a32f70ef70ede",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hacker claims to steal 2.3TB data from Italian rail group, Almavia",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almavia/",
+      "summary": "Data from Italy's national railway operator, the FS Italiane Group, has been exposed after a threat actor breached the organization's IT services provider, Almaviva. [...]",
+      "published": "2025-11-20 18:54:17",
+      "timestamp": 1763664857
+    },
     {
       "id": "175b2e618a0050e0829bbce868e96f007ec25c2a",
       "source": "The Hacker News",
@@ -210,16 +230,6 @@
       "summary": "In a move that could redefine the web, Google is testing AI-powered, UI-based answers for its AI mode. [...]",
       "published": "2025-11-19 19:45:05",
       "timestamp": 1763581505
-    },
-    {
-      "id": "f341059ff9ca58c0b7bb4132ddc587b21bed89e3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
-      "link": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
-      "summary": "A critical flaw in the W3 Total Cache (W3TC) WordPress plugin can be exploited to run PHP commands on the server by posting a comment that contains a malicious payload. [...]",
-      "published": "2025-11-19 17:34:45",
-      "timestamp": 1763573685
     },
     {
       "id": "aa2366d95d298f8751fc90ab5dc4b213bc925617",
@@ -882,7 +892,7 @@
       "timestamp": 1762534800
     },
     {
-      "id": "f19684dcede1b48db58dd4d195b199653db009ef",
+      "id": "a8f6b7a85b85d5a274391a646beaeb8fb4ad97d4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "New IDC research highlights a major cloud security shift",
@@ -982,7 +992,7 @@
       "timestamp": 1762193340
     },
     {
-      "id": "1d1157f3baef248bd54424dc48db6e841a71162c",
+      "id": "82f4f3268405529763b532a18b281021cc3337b2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
@@ -1192,22 +1202,22 @@
       "timestamp": 1760700387
     },
     {
-      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
-      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
-    },
-    {
       "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
       "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
+      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
+      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
     },
@@ -1240,16 +1250,6 @@
       "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
       "published": "2025-10-15 12:00:00",
       "timestamp": 1760529600
-    },
-    {
-      "id": "8e9a1b21da8ae0d1f00b370a31767aef0bb96b95",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
-      "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "summary": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October's Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you're running a Windows 10 PC and you're unable or unwilling to migrate to Windows 11, read on for other options.",
-      "published": "2025-10-14 22:57:38",
-      "timestamp": 1760482658
     },
     {
       "id": "9048c7145c51b70e36b4a3ef4127ede068402c34",
