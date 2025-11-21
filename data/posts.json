@@ -1,6 +1,66 @@
 {
-  "generated_at": 1763737756,
+  "generated_at": 1763748830,
   "items": [
+    {
+      "id": "0371f3d0aaedaf5a3514b5915edfc994f135afe5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
+      "summary": "Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly. [...]",
+      "published": "2025-11-21 18:02:05",
+      "timestamp": 1763748125
+    },
+    {
+      "id": "b03e84fb8c8da1cf70c7543fbbdd8fcc27b65950",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Grafana warns of max severity admin spoofing vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/",
+      "summary": "Grafana Labs is warning of a maximum severity vulnerability (CVE-2025-41115) in its Enterprise product that can be exploited to treat new users as administrators or for privilege escalation. [...]",
+      "published": "2025-11-21 17:58:32",
+      "timestamp": 1763747912
+    },
+    {
+      "id": "93075b663fa29aab7f8e55f1a16e0090bbfc6510",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CrowdStrike catches insider feeding information to hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/",
+      "summary": "American cybersecurity firm CrowdStrike has confirmed that an insider shared screenshots taken on internal systems with hackers after they were leaked on Telegram by the Scattered Lapsus$ Hunters threat actors. [...]",
+      "published": "2025-11-21 16:48:41",
+      "timestamp": 1763743721
+    },
+    {
+      "id": "4a3d78206bc1abd4e1f135ee568e9f1c754a927d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/",
+      "summary": "The Federal Communications Commission (FCC) has rolled back a previous ruling that required U.S. telecom carriers to implement stricter cybersecurity measures following the massive hack from the Chinese threat group known as Salt Typhoon. [...]",
+      "published": "2025-11-21 16:01:41",
+      "timestamp": 1763740901
+    },
+    {
+      "id": "19c14e2cf75b66d4659cd0125a7d8097b56d5e9e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "'Scattered Spider' teens plead not guilty to UK transport hack",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/",
+      "summary": "Two British teenagers have denied charges related to an investigation into the breach of Transport for London (TfL) in August 2024, which caused millions of pounds in damage and exposed customer data. [...]",
+      "published": "2025-11-21 15:41:24",
+      "timestamp": 1763739684
+    },
+    {
+      "id": "7c4d2b39c1cefc0ed06bddb0b6b6a08af621ddb6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+      "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+      "summary": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations. The vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
+      "published": "2025-11-21 15:40:00",
+      "timestamp": 1763739600
+    },
     {
       "id": "5c877b056c50946f6a746702ebcb9c71fb324c58",
       "source": "BleepingComputer",
@@ -162,16 +222,6 @@
       "timestamp": 1763653136
     },
     {
-      "id": "4eddfc2536e96e342a469e5fbd46dfb3a6c2b1cd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Turn your Windows 11 migration into a security opportunity",
-      "link": "https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/",
-      "summary": "Windows 11 migration is inevitable as Windows 10 support ends, and unsupported systems create major security and ransomware risks. Acronis explains how to use this migration to review backups, strengthen cybersecurity, and ensure data stays recoverable. [...]",
-      "published": "2025-11-20 15:05:15",
-      "timestamp": 1763651115
-    },
-    {
       "id": "0fbfcc7e2bfbd3aed896ce568d310a1dd5f01264",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -180,16 +230,6 @@
       "summary": "Written by: Harsh Parashar, Tierra Duncan, Dan Perez Google Threat Intelligence Group (GTIG) is tracking a long-running and adaptive cyber espionage campaign by APT24, a People's Republic of China (PRC)-nexus threat actor. Spanning three years, APT24 has been deploying BADAUDIO, a highly obfuscated first-stage downloader used to establish persistent access to victim networks. While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently ",
       "published": "2025-11-20 14:00:00",
       "timestamp": 1763647200
-    },
-    {
-      "id": "d325e7d5977889d1b26b8972260f39cc2ab2c8e8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "TV streaming piracy service with 26M yearly visits shut down",
-      "link": "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/",
-      "summary": "Photocall, a TV piracy streaming platform with over 26 million users annually, has ceased operations following a joint investigation by the Alliance for Creativity and Entertainment (ACE) and DAZN. [...]",
-      "published": "2025-11-20 13:31:43",
-      "timestamp": 1763645503
     },
     {
       "id": "d0cd2ad243049547c6a05407f684afdc1ab28143",
@@ -230,26 +270,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud. \"A key differentiator is its ability to bypass encrypted messaging,\" ThreatFabric said in a report shared with The Hacker News. \"By capturing content directly from the device screen after decryption, Sturnus can monitor",
       "published": "2025-11-20 11:04:00",
       "timestamp": 1763636640
-    },
-    {
-      "id": "7e89cae5f38364896f9f884c2c4a27c22a5f2523",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Crypto mixer founders sent to prison for laundering over $237 million",
-      "link": "https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/",
-      "summary": "The founders of the Samourai Wallet (Samourai) cryptocurrency mixing service have been sent to prison for helping criminals launder over $237 million. [...]",
-      "published": "2025-11-20 10:49:37",
-      "timestamp": 1763635777
-    },
-    {
-      "id": "51bb9387daef5cf6af8557d446db225044752a65",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Multi-threat Android malware Sturnus steals Signal, WhatsApp messages",
-      "link": "https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/",
-      "summary": "A new Android banking trojan named Sturnus can capture communication from end-to-end encrypted messaging platforms like Signal, WhatsApp, and Telegram, as well as take complete control of the device. [...]",
-      "published": "2025-11-20 10:00:00",
-      "timestamp": 1763632800
     },
     {
       "id": "41f7db980a97352de52d8ac5eea83aa8a37d44d3",
@@ -800,16 +820,6 @@
       "summary": "Google has filed a civil lawsuit in the U.S. District Court for the Southern District of New York (SDNY) against China-based hackers who are behind a massive Phishing-as-a-Service (PhaaS) platform called Lighthouse that has ensnared over 1 million users across 120 countries. The PhaaS kit is used to conduct large-scale SMS phishing attacks that exploit trusted brands like E-ZPass and USPS to",
       "published": "2025-11-12 15:48:00",
       "timestamp": 1762962480
-    },
-    {
-      "id": "a042de59c6e5def5f81b28a70e38a17ccedaab97",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws",
-      "link": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
-      "summary": "Amazon's threat intelligence team on Wednesday disclosed that it observed an advanced threat actor exploiting two then-zero-day security flaws in Cisco Identity Service Engine (ISE) and Citrix NetScaler ADC products as part of attacks designed to deliver custom malware. \"This discovery highlights the trend of threat actors focusing on critical identity and network access control infrastructure \u2013",
-      "published": "2025-11-12 14:00:00",
-      "timestamp": 1762956000
     },
     {
       "id": "19cdbb338a7f87d3781a2e451931cc3b7a960e12",
