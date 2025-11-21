@@ -1,6 +1,36 @@
 {
-  "generated_at": 1763727410,
+  "generated_at": 1763737756,
   "items": [
+    {
+      "id": "5c877b056c50946f6a746702ebcb9c71fb324c58",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/",
+      "summary": "Avast is rolling out Scam Guardian, a free AI-powered protection layer that analyzes websites, messages, and links to detect rising scam threats. Powered by Gen Threat Labs data, it reveals hidden dangers in code and adds 24/7 scam guidance through the Avast Assistant. [...]",
+      "published": "2025-11-21 15:00:10",
+      "timestamp": 1763737210
+    },
+    {
+      "id": "b3dbd718882128e7e2663a0dd558884935773a92",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google begins showing ads in AI Mode (AI answers)",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
+      "summary": "Google has started rolling out ads in AI mode, which is the company's \"answer engine,\" not a search engine. [...]",
+      "published": "2025-11-21 13:02:11",
+      "timestamp": 1763730131
+    },
+    {
+      "id": "c328e33ce15c5e9ace8ede9bc79ec436a2ddae82",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Brings AirDrop Compatibility to Android\u2019s Quick Share Using Rust-Hardened Security",
+      "link": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+      "summary": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices. The cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand",
+      "published": "2025-11-21 13:00:00",
+      "timestamp": 1763730000
+    },
     {
       "id": "63b4532f1cbf606885b75f13be054fbcf3c609ff",
       "source": "The Hacker News",
@@ -240,36 +270,6 @@
       "summary": "Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising campaign dubbed TamperedChef. The end goal of the attacks is to establish persistence and deliver JavaScript malware that facilitates remote access and control, per a new report from Acronis Threat Research Unit (TRU). The campaign, per the",
       "published": "2025-11-20 04:06:00",
       "timestamp": 1763611560
-    },
-    {
-      "id": "d0f44a16f03222d9bfeeee9cc5b3f2d6ddf44fc4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/",
-      "summary": "OpenAI has started rolling out GPT 5.1-Codex-Max on Codex with a better performance on coding tasks. [...]",
-      "published": "2025-11-20 00:00:00",
-      "timestamp": 1763596800
-    },
-    {
-      "id": "e02693d1abaa6731b70e60fd667abd336935998f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
-      "link": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
-      "summary": "Sneaky2FA, a popular among cybercriminals phishing-as-a-service (PhaaS) kit, has added Browser-in-the-Browser (BitB) capabilities, giving \"customers\" the option to launch highly deceptive attacks. [...]",
-      "published": "2025-11-19 21:59:46",
-      "timestamp": 1763589586
-    },
-    {
-      "id": "5cc3f51e4e74ded7aa0c00490da3d4be6c14ec8f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
-      "summary": "Google's Gemini 3 is finally here, and we're impressed with the results, but it still does not adhere to my requests as well as Claude Code. [...]",
-      "published": "2025-11-19 20:39:28",
-      "timestamp": 1763584768
     },
     {
       "id": "aa2366d95d298f8751fc90ab5dc4b213bc925617",
@@ -632,22 +632,22 @@
       "timestamp": 1763131200
     },
     {
-      "id": "0703caa063de82307a6bf3382368c596db50c2c8",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-64446 Fortinet FortiWeb Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
-      "published": "2025-11-14 12:00:00",
-      "timestamp": 1763121600
-    },
-    {
       "id": "c5e74f0757c375f658311e91ea3af0d3769c0705",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb",
       "summary": "CISA is aware of exploitation of a newly disclosed vulnerability, CVE-2025-64446, in Fortinet FortiWeb, a web application firewall. This vulnerability affects the following FortiWeb versions:1 8.0.0 through 8.0.1 7.6.0 through 7.6.4 7.4.0 through 7.4.9 7.2.0 through 7.2.11 7.0.0 through 7.0.11 CVE-2025-64446 is a relative path traversal vulnerability CWE-23: Relative Path Traversal that may allow an unauthenticated malicious actor to execute administrative commands on a system via specially craf",
+      "published": "2025-11-14 12:00:00",
+      "timestamp": 1763121600
+    },
+    {
+      "id": "0703caa063de82307a6bf3382368c596db50c2c8",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-64446 Fortinet FortiWeb Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
       "published": "2025-11-14 12:00:00",
       "timestamp": 1763121600
     },
@@ -832,16 +832,6 @@
       "timestamp": 1762948800
     },
     {
-      "id": "ba21c6c4ee05c614157f2c0ceec07a3d182b8498",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
-      "link": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
-      "summary": "Every day, security teams face the same problem\u2014too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you\u2019re always one step behind. But what if there was a smarter way to stay ahead\u2014without adding more work or stress? Join The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack",
-      "published": "2025-11-12 11:55:00",
-      "timestamp": 1762948500
-    },
-    {
       "id": "ecc666f3640a437737b61717865df0dc21647ad7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -962,22 +952,22 @@
       "timestamp": 1762264800
     },
     {
-      "id": "261d6b4e305b6719eb03f6627b37c21e63bfbc18",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-11371 Gladinet CentreStack and Triofox Files or Directories Accessible to External Parties Vulnerability CVE-2025-48703 CWP Control Web Panel OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-",
-      "published": "2025-11-04 12:00:00",
-      "timestamp": 1762257600
-    },
-    {
       "id": "74a214c8f986ac7b8a91c9066051161b1ced04c9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Five Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-releases-five-industrial-control-systems-advisories",
       "summary": "CISA released five Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-308-01 Fuji Electric Monitouch V-SFT-6 ICSA-25-308-02 Survision License Plate Recognition Camera ICSA-25-308-03 Delta Electronics CNCSoft-G2 ICSA-25-308-04 Radiometrics VizAir ICSA-25-308-05 IDIS ICM Viewer CISA encourages users and administrators to review newly released ICS Advisories for technical deta",
+      "published": "2025-11-04 12:00:00",
+      "timestamp": 1762257600
+    },
+    {
+      "id": "261d6b4e305b6719eb03f6627b37c21e63bfbc18",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-11371 Gladinet CentreStack and Triofox Files or Directories Accessible to External Parties Vulnerability CVE-2025-48703 CWP Control Web Panel OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-",
       "published": "2025-11-04 12:00:00",
       "timestamp": 1762257600
     },
@@ -1252,12 +1242,12 @@
       "timestamp": 1760529600
     },
     {
-      "id": "9048c7145c51b70e36b4a3ef4127ede068402c34",
+      "id": "222bcf35a2af2bfd582890ea54d6a32ab7a8c246",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "Updated October 22, 2025 CISA is continually collaborating with partners across government and the private sector. Through this collaboration, CISA has determined that CVE-2025-6264 has not been exploited and there is insufficient evidence to keep this CVE on the KEV and that the best course of action is to remove it. CISA is committed to continued collaboration with partners. End of Update CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evi",
+      "title": "CISA Releases One Industrial Control Systems Advisory",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-releases-one-industrial-control-systems-advisory",
+      "summary": "CISA released one Industrial Control Systems (ICS) advisory on October 14, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-287-01 Rockwell Automation 1715 EtherNet/IP Comms Module CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
       "published": "2025-10-14 12:00:00",
       "timestamp": 1760443200
     },
