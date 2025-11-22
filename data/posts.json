@@ -1,6 +1,16 @@
 {
-  "generated_at": 1763835114,
+  "generated_at": 1763845640,
   "items": [
+    {
+      "id": "4879693e33641a9e90f8d118f5d29e7dc9b7a386",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WhatsApp API flaw let researchers scrape 3.5 billion accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/",
+      "summary": "Researchers compiled a list of 3.5 billion WhatsApp mobile phone numbers and associated personal information by abusing a contact-discovery API that lacked rate limiting. [...]",
+      "published": "2025-11-22 18:53:21",
+      "timestamp": 1763837601
+    },
     {
       "id": "f1612598b0ff9373aa0ac4351efcb19c7fa3a82b",
       "source": "The Hacker News",
@@ -10,6 +20,26 @@
       "summary": "The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technology (IT) sector between 2024 and 2025 while staying undetected for extended periods of time. \"In the period from 2024 to 2025, the Russian IT sector, especially companies working as contractors and integrators of solutions for government agencies,",
       "published": "2025-11-22 15:19:00",
       "timestamp": 1763824740
+    },
+    {
+      "id": "f66855750f6e18c10f0ef0d79762daa8d701ec89",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
+      "summary": "Cox Enterprises is notifying impacted individuals of a data breach that exposed their personal data to hackers who breached the company network after exploiting a zero-day flaw in Oracle E-Business Suite. [...]",
+      "published": "2025-11-22 15:16:23",
+      "timestamp": 1763824583
+    },
+    {
+      "id": "0359de81512b6480032a0568bc3949da433ad593",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
+      "summary": "Huntress analysts reconstructed a Qilin ransomware attack from a single endpoint, using limited logs to reveal rogue ScreenConnect access, failed infostealer attempts, and the ransomware execution path. The investigation shows how validating multiple data sources can uncover activity even when visibility is reduced to a \"pinhole.\" [...]",
+      "published": "2025-11-22 13:45:53",
+      "timestamp": 1763819153
     },
     {
       "id": "652ab6722c3d263938d8f3e24c2a3be6bf6369b2",
@@ -222,16 +252,6 @@
       "timestamp": 1763665611
     },
     {
-      "id": "98b625bfeab211ddd8a9c3093ff376cb428a1cb7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hacker claims to steal 2.3TB data from Italian rail group, Almaviva",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almaviva/",
-      "summary": "Data from Italy's national railway operator, the FS Italiane Group, has been exposed after a threat actor breached the organization's IT services provider, Almaviva. [...]",
-      "published": "2025-11-20 18:54:17",
-      "timestamp": 1763664857
-    },
-    {
       "id": "175b2e618a0050e0829bbce868e96f007ec25c2a",
       "source": "The Hacker News",
       "source_category": "General",
@@ -240,16 +260,6 @@
       "summary": "Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet. The activity, codenamed ShadowRay 2.0, is an evolution of a prior wave that was observed between September 2023 and March 2024. The attack, at its core,",
       "published": "2025-11-20 17:24:00",
       "timestamp": 1763659440
-    },
-    {
-      "id": "f9ac5aacb2937643d30734baead66af5c0a0e4bf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/",
-      "summary": "A major spike in malicious scanning against Palo Alto Networks GlobalProtect portals has been detected, starting on November 14, 2025. [...]",
-      "published": "2025-11-20 17:08:55",
-      "timestamp": 1763658535
     },
     {
       "id": "5c319a6b4db05c8429a9b07d19329f6eca3a1a3a",
@@ -1202,22 +1212,22 @@
       "timestamp": 1760700387
     },
     {
-      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
-      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
-    },
-    {
       "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
       "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
+      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
+      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
     },
