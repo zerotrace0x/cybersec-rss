@@ -1,6 +1,16 @@
 {
-  "generated_at": 1763759273,
+  "generated_at": 1763772102,
   "items": [
+    {
+      "id": "6408f5b3cf50e9f66d59f1772454212325bb4717",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
+      "summary": "The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning government agencies to patch an Oracle Identity Manager tracked as CVE-2025-61757 that has been exploited in attacks, potentially as a zero-day. [...]",
+      "published": "2025-11-21 23:50:27",
+      "timestamp": 1763769027
+    },
     {
       "id": "c35a65aefde5a26c309ba446510a44682688b1ea",
       "source": "BleepingComputer",
@@ -112,6 +122,16 @@
       "timestamp": 1763730000
     },
     {
+      "id": "db57d14c1822140923371bbd73e2fa9245234528",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61757 Oracle Fusion Middleware Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Cat",
+      "published": "2025-11-21 12:00:00",
+      "timestamp": 1763726400
+    },
+    {
       "id": "63b4532f1cbf606885b75f13be054fbcf3c609ff",
       "source": "The Hacker News",
       "source_category": "General",
@@ -220,16 +240,6 @@
       "summary": "Salesforce says it revoked refresh tokens linked to Gainsight-published applications while investigating a new wave of data theft attacks targeting customers. [...]",
       "published": "2025-11-20 16:47:20",
       "timestamp": 1763657240
-    },
-    {
-      "id": "678ac5651926160b833e666790d2dbcb5ae9fd0f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
-      "link": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
-      "summary": "American cybersecurity company SonicWall urged customers today to patch a high-severity SonicOS SSLVPN security flaw that can allow attackers to crash vulnerable firewalls. [...]",
-      "published": "2025-11-20 15:56:00",
-      "timestamp": 1763654160
     },
     {
       "id": "0fbfcc7e2bfbd3aed896ce568d310a1dd5f01264",
@@ -1202,22 +1212,22 @@
       "timestamp": 1760700387
     },
     {
-      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
-      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
-    },
-    {
       "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
       "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
+      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
+      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
     },
@@ -1232,16 +1242,6 @@
       "timestamp": 1760616000
     },
     {
-      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
-    },
-    {
       "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1252,14 +1252,14 @@
       "timestamp": 1760529600
     },
     {
-      "id": "222bcf35a2af2bfd582890ea54d6a32ab7a8c246",
+      "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Releases One Industrial Control Systems Advisory",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/14/cisa-releases-one-industrial-control-systems-advisory",
-      "summary": "CISA released one Industrial Control Systems (ICS) advisory on October 14, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-287-01 Rockwell Automation 1715 EtherNet/IP Comms Module CISA encourages users and administrators to review newly released ICS advisories for technical details and mitigations.",
-      "published": "2025-10-14 12:00:00",
-      "timestamp": 1760443200
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54253 Adobe Experience Manager Forms Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
+      "published": "2025-10-15 12:00:00",
+      "timestamp": 1760529600
     },
     {
       "id": "c5572a0e3b9922bd7aaba12634d8824814096b14",
@@ -1277,7 +1277,7 @@
       "source_category": "Threat Intel",
       "title": "Cybercrime Observations from the Frontlines: UNC6040 Proactive Hardening Recommendations",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6040-proactive-hardening-recommendations/",
-      "summary": "Written by: Omar ElAhdan, Matthew McWhirt, Michael Rudden, Aswad Robinson, Bhavesh Dhake, Laith Al Update (Nov. 21): In response to the Salesforce advisory related to Gainsight applications, this blog post has been updated to include comprehensive hardening, logging, and detection recommendations for programmatic credentials such as API keys, OAuth tokens, service accounts, and access keys. Background Protecting software-as-a-service (SaaS) platforms and applications requires a comprehensive sec",
+      "summary": "Written by: Omar ElAhdan, Matthew McWhirt, Michael Rudden, Aswad Robinson, Bhavesh Dhake, Laith Al, Ravi Kumar Raja Update (Nov. 21): In response to the Salesforce advisory related to Gainsight applications, this blog post has been updated to include comprehensive hardening, logging, and detection recommendations for programmatic credentials such as API keys, OAuth tokens, service accounts, and access keys. Background Protecting software-as-a-service (SaaS) platforms and applications requires a ",
       "published": "2025-09-30 14:00:00",
       "timestamp": 1759240800
     },
