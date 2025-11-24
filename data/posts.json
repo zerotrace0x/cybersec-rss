@@ -1,6 +1,36 @@
 {
-  "generated_at": 1763997040,
+  "generated_at": 1764008083,
   "items": [
+    {
+      "id": "759c98fad43ffa179ecc4ef7a784b790e92af667",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Real-estate finance services giant SitusAMC breach exposes client data",
+      "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
+      "summary": "SitusAMC, a company that provides back-end services for top banks and lenders, disclosed on Saturday a data breach it had discovered earlier this month that impacted customer data. [...]",
+      "published": "2025-11-24 17:36:28",
+      "timestamp": 1764005788
+    },
+    {
+      "id": "2f31bf804ea2d94c7ee7e7312665ef1200a0f97b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
+      "link": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
+      "summary": "Cybersecurity researchers have discovered five vulnerabilities in Fluent Bit, an open-source and lightweight telemetry agent, that could be chained to compromise and take over cloud infrastructures. The security defects \"allow attackers to bypass authentication, perform path traversal, achieve remote code execution, cause denial-of-service conditions, and manipulate tags,\" Oligo Security said in",
+      "published": "2025-11-24 15:03:00",
+      "timestamp": 1763996580
+    },
+    {
+      "id": "2fc3b9484152fe92fcf9e3027647e4f19b46bbe3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching",
+      "link": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
+      "summary": "Hybrid work exposes the limits of SCCM and WSUS, with remote devices often missing updates and WSUS now deprecated. Action1's cloud-native patching keeps devices updated from any location, strengthening compliance and security. [...]",
+      "published": "2025-11-24 15:01:11",
+      "timestamp": 1763996471
+    },
     {
       "id": "5198fb794d7fdba38f7b32c8cc82e85dd79cb220",
       "source": "BleepingComputer",
@@ -37,7 +67,7 @@
       "source_category": "General",
       "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
       "link": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
-      "summary": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack. The new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, and Wiz. \"The campaign introduces a new variant that executes malicious",
+      "summary": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack. The new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, Step Security, and Wiz. The trojanized npm packages were uploaded to",
       "published": "2025-11-24 13:03:00",
       "timestamp": 1763989380
     },
@@ -190,16 +220,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
       "published": "2025-11-22 06:45:00",
       "timestamp": 1763793900
-    },
-    {
-      "id": "6408f5b3cf50e9f66d59f1772454212325bb4717",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
-      "summary": "The U.S. Cybersecurity & Infrastructure Security Agency (CISA) is warning government agencies to patch an Oracle Identity Manager tracked as CVE-2025-61757 that has been exploited in attacks, potentially as a zero-day. [...]",
-      "published": "2025-11-21 23:50:27",
-      "timestamp": 1763769027
     },
     {
       "id": "d8605c3665e3bbe12deedf5402009ebfde44151f",
@@ -612,7 +632,7 @@
       "timestamp": 1763441040
     },
     {
-      "id": "7190c1330ed2c1d40556d60c5f0e766ff3ceb3f2",
+      "id": "e1a7c8a7f756799cb20c53df10212c2c2bc5164a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Collaborative research by Microsoft and NVIDIA on real-time immunity",
@@ -792,16 +812,6 @@
       "timestamp": 1763110800
     },
     {
-      "id": "1b82180dfc6af18cb7126eab17e3aeba47935d18",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
-      "link": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
-      "summary": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year. The activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around",
-      "published": "2025-11-13 20:27:00",
-      "timestamp": 1763065620
-    },
-    {
       "id": "5764e6b4b03c85f91308fe883ee8fd0238f5cc07",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -902,7 +912,7 @@
       "timestamp": 1762712080
     },
     {
-      "id": "e209481d2902b499c3a44ecf34d85194f0bc25e5",
+      "id": "1c3ae43f716a908273e04ec7e50fc5af3d467b75",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "\u200b\u200bWhisper Leak: A novel side-channel attack on remote language models",
@@ -912,7 +922,7 @@
       "timestamp": 1762534800
     },
     {
-      "id": "a8f6b7a85b85d5a274391a646beaeb8fb4ad97d4",
+      "id": "f19684dcede1b48db58dd4d195b199653db009ef",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "New IDC research highlights a major cloud security shift",
@@ -942,7 +952,7 @@
       "timestamp": 1762394676
     },
     {
-      "id": "5ee67b8d892cefc075779800c8684260649d429f",
+      "id": "8c614361f282749ec212727ab645930cc13f864a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "\u200b\u200bSecuring critical infrastructure: Why Europe\u2019s risk-based regulations matter",
@@ -1012,7 +1022,7 @@
       "timestamp": 1762193340
     },
     {
-      "id": "1d1157f3baef248bd54424dc48db6e841a71162c",
+      "id": "82f4f3268405529763b532a18b281021cc3337b2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "SesameOp: Novel backdoor uses OpenAI Assistants API for command and control",
