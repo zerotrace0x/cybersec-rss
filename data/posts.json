@@ -1,6 +1,26 @@
 {
-  "generated_at": 1764008083,
+  "generated_at": 1764018523,
   "items": [
+    {
+      "id": "c10552ed101c25ac7dceec60925d8f1dad6ec901",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ClickFix attack uses fake Windows Update screen to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
+      "summary": "New ClickFix attack variants have been observed where threat actors trick users with a realistic-looking Windows Update animation in a full-screen browser page and hide the malicious code inside images. [...]",
+      "published": "2025-11-24 20:42:35",
+      "timestamp": 1764016955
+    },
+    {
+      "id": "d0e1757013536024b0d5b20de72f32551d9405c7",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account t",
+      "published": "2025-11-24 18:44:52",
+      "timestamp": 1764009892
+    },
     {
       "id": "759c98fad43ffa179ecc4ef7a784b790e92af667",
       "source": "BleepingComputer",
@@ -80,6 +100,16 @@
       "summary": "This week saw a lot of new cyber trouble. Hackers hit Fortinet and Chrome with new 0-day bugs. They also broke into supply chains and SaaS tools. Many hid inside trusted apps, browser alerts, and software updates. Big firms like Microsoft, Salesforce, and Google had to react fast \u2014 stopping DDoS attacks, blocking bad links, and fixing live flaws. Reports also showed how fast fake news, AI",
       "published": "2025-11-24 12:32:00",
       "timestamp": 1763987520
+    },
+    {
+      "id": "249ac5273ea122021abf2035b4f729b4e16ea1d7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bSpyware Allows Cyber Threat Actors to Target Users of Messaging Applications\u200b",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/24/spyware-allows-cyber-threat-actors-target-users-messaging-applications",
+      "summary": "CISA is aware of multiple cyber threat actors actively leveraging commercial spyware to target users of mobile messaging applications (apps).1 These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim\u2019s messaging app, facilitating the deployment of additional malicious payloads that can further compromise the victim\u2019s mobile device. These cyber actors use tactics such as: Phishing and malicious device-linking QR c",
+      "published": "2025-11-24 12:00:00",
+      "timestamp": 1763985600
     },
     {
       "id": "d6ebbcd4dbec07e09b8c2f837aa2aa6d829edc3a",
@@ -190,16 +220,6 @@
       "summary": "Cox Enterprises is notifying impacted individuals of a data breach that exposed their personal data to hackers who breached the company network after exploiting a zero-day flaw in Oracle E-Business Suite. [...]",
       "published": "2025-11-22 15:16:23",
       "timestamp": 1763824583
-    },
-    {
-      "id": "0359de81512b6480032a0568bc3949da433ad593",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
-      "link": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
-      "summary": "Huntress analysts reconstructed a Qilin ransomware attack from a single endpoint, using limited logs to reveal rogue ScreenConnect access, failed infostealer attempts, and the ransomware execution path. The investigation shows how validating multiple data sources can uncover activity even when visibility is reduced to a \"pinhole.\" [...]",
-      "published": "2025-11-22 13:45:53",
-      "timestamp": 1763819153
     },
     {
       "id": "652ab6722c3d263938d8f3e24c2a3be6bf6369b2",
@@ -1112,22 +1132,22 @@
       "timestamp": 1761652800
     },
     {
-      "id": "3409f245b80ac22db2e65ab2b8ac5720c89bc438",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Microsoft Releases Out-of-Band Security Update to Mitigate Windows Server Update Service Vulnerability, CVE-2025-59287",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/microsoft-releases-out-band-security-update-mitigate-windows-server-update-service-vulnerability-cve",
-      "summary": "Updated October 29, 2025: CISA has updated this Alert to include revised information on vulnerable product identification, potential threat activity detections, and additional resources. Microsoft released an update to address a critical remote code execution vulnerability impacting Windows Server Update Service (WSUS) in Windows Server (2012, 2016, 2019, 2022, and 2025), CVE-2025-59287, that a prior update did not fully mitigate. (Updated October 29, 2025): CISA strongly urges organizations to ",
-      "published": "2025-10-24 12:00:00",
-      "timestamp": 1761307200
-    },
-    {
       "id": "2ffcb17d77f9a151b6b3b717733393f991bb8ec5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-54236 Adobe Commerce and Magento Improper Input Validation Vulnerability CVE-2025-59287 Microsoft Windows Server Update Service (WSUS) Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (B",
+      "published": "2025-10-24 12:00:00",
+      "timestamp": 1761307200
+    },
+    {
+      "id": "3409f245b80ac22db2e65ab2b8ac5720c89bc438",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Microsoft Releases Out-of-Band Security Update to Mitigate Windows Server Update Service Vulnerability, CVE-2025-59287",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/24/microsoft-releases-out-band-security-update-mitigate-windows-server-update-service-vulnerability-cve",
+      "summary": "Updated October 29, 2025: CISA has updated this Alert to include revised information on vulnerable product identification, potential threat activity detections, and additional resources. Microsoft released an update to address a critical remote code execution vulnerability impacting Windows Server Update Service (WSUS) in Windows Server (2012, 2016, 2019, 2022, and 2025), CVE-2025-59287, that a prior update did not fully mitigate. (Updated October 29, 2025): CISA strongly urges organizations to ",
       "published": "2025-10-24 12:00:00",
       "timestamp": 1761307200
     },
@@ -1212,16 +1232,6 @@
       "timestamp": 1760961600
     },
     {
-      "id": "8f4ddeee4b512f268a8214c2416c17f775dd2012",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "summary": "Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing messages that come from hundreds of Zendesk corporate customers simultaneously.",
-      "published": "2025-10-17 11:26:27",
-      "timestamp": 1760700387
-    },
-    {
       "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1250,16 +1260,6 @@
       "summary": "CISA released thirteen Industrial Control Systems (ICS) advisories on October 16, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-289-01 Rockwell Automation FactoryTalk View Machine Edition and PanelView Plus 7 ICSA-25-289-02 Rockwell Automation FactoryTalk Linx ICSA-25-289-03 Rockwell Automation FactoryTalk ViewPoint ICSA-25-289-04 Rockwell Automation ArmorStart AOP ICSA-25-289-05 Siemens Solid Edge ICSA-25-",
       "published": "2025-10-16 12:00:00",
       "timestamp": 1760616000
-    },
-    {
-      "id": "a4848716fc3953d4b2963e09c2eae75ef6a195e6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Directs Federal Agencies to Mitigate Vulnerabilities in F5 Devices",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/15/cisa-directs-federal-agencies-mitigate-vulnerabilities-f5-devices",
-      "summary": "Today, CISA issued Emergency Directive ED 26-01: Mitigate Vulnerabilities in F5 Devices to direct Federal Civilian Executive Branch agencies to inventory F5 BIG-IP products, evaluate if the networked management interfaces are accessible from the public internet, and apply newly released updates from F5. A nation-state affiliated cyber threat actor has compromised F5 systems and exfiltrated data, including portions of the BIG-IP proprietary source code and vulnerability information, which provide",
-      "published": "2025-10-15 12:00:00",
-      "timestamp": 1760529600
     },
     {
       "id": "a58a81f4261fdfc63e37e39a2683e51b97b4b08d",
