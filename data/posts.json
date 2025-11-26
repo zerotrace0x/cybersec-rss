@@ -1,6 +1,16 @@
 {
-  "generated_at": 1764104902,
+  "generated_at": 1764117831,
   "items": [
+    {
+      "id": "ed5040691464f63d3af90f46136c72daf00a85e1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
+      "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
+      "summary": "Risk management company Crisis24 has confirmed its OnSolve CodeRED platform suffered a cyberattack that disrupted emergency notification systems used by state and local governments, police departments, and fire agencies across the United States. [...]",
+      "published": "2025-11-25 21:48:40",
+      "timestamp": 1764107320
+    },
     {
       "id": "29431cd9aec34d363e9f65a35649c2b428e75e97",
       "source": "BleepingComputer",
@@ -220,16 +230,6 @@
       "summary": "Hybrid work exposes the limits of SCCM and WSUS, with remote devices often missing updates and WSUS now deprecated. Action1's cloud-native patching keeps devices updated from any location, strengthening compliance and security. [...]",
       "published": "2025-11-24 15:01:11",
       "timestamp": 1763996471
-    },
-    {
-      "id": "5198fb794d7fdba38f7b32c8cc82e85dd79cb220",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
-      "summary": "Hundreds of trojanized versions of well-known packages such as Zapier, ENS Domains, PostHog, and Postman have been planted in the npm registry in a new Shai-Hulud supply-chain campaign. [...]",
-      "published": "2025-11-24 14:32:40",
-      "timestamp": 1763994760
     },
     {
       "id": "87ea96d359ffe2c11bbe09833ab06d8128b20cd9",
@@ -827,7 +827,7 @@
       "source_category": "Blue Team",
       "title": "Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb",
-      "summary": "CISA is aware of exploitation of a newly disclosed vulnerability, CVE-2025-64446, in Fortinet FortiWeb, a web application firewall. This vulnerability affects the following FortiWeb versions:1 8.0.0 through 8.0.1 7.6.0 through 7.6.4 7.4.0 through 7.4.9 7.2.0 through 7.2.11 7.0.0 through 7.0.11 CVE-2025-64446 is a relative path traversal vulnerability CWE-23: Relative Path Traversal that may allow an unauthenticated malicious actor to execute administrative commands on a system via specially craf",
+      "summary": "CISA has updated this Alert to include an additional vulnerability, CVE-2025-58034, and its relation to CVE-2025-64446, and associated resources. CISA is aware of the exploitation of two vulnerabilities, CVE-2025-64446 and CVE-2025-58034, in Fortinet FortiWeb, a web application firewall. CISA is also aware that threat actors could exploit CVE-2025-64446 as an initial access vector and then chain CVE-2025-58034 to escalate privileges on a target system. These vulnerabilities chained together coul",
       "published": "2025-11-14 12:00:00",
       "timestamp": 1763121600
     },
