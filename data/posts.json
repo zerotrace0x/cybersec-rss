@@ -1,6 +1,36 @@
 {
-  "generated_at": 1764159535,
+  "generated_at": 1764169713,
   "items": [
+    {
+      "id": "b2b10713eab794e196c86660fa2175904351a53c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Security keys may prompt for PIN after recent updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/",
+      "summary": "Microsoft warned users on Tuesday that FIDO2 security keys may prompt them to enter a PIN when signing in after installing Windows updates released since the September 2025 preview update. [...]",
+      "published": "2025-11-26 14:43:57",
+      "timestamp": 1764168237
+    },
+    {
+      "id": "687867e1bb415d66c91f85ce73f066b686045acc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
+      "summary": "Starting in mid-to-late October 2026, Microsoft will enhance the security of the Entra ID authentication system against external script injection attacks. [...]",
+      "published": "2025-11-26 13:26:06",
+      "timestamp": 1764163566
+    },
+    {
+      "id": "0a6613f53508cdeddc25bf485e91e72a08521986",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
+      "link": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
+      "summary": "Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Yet security leaders struggle to justify dedicating resources further down the alert lifecycle to their superiors. As a result, most organizations' security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,",
+      "published": "2025-11-26 11:55:00",
+      "timestamp": 1764158100
+    },
     {
       "id": "5e487ccdd23e6f56a2ca0efc799acde4e0268c19",
       "source": "BleepingComputer",
@@ -30,6 +60,16 @@
       "summary": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet. The extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
       "published": "2025-11-26 11:10:00",
       "timestamp": 1764155400
+    },
+    {
+      "id": "5d6fcab01d2addae5d1fb1cf5bfb762ee07d9b4e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Passwork 7: Self-hosted password and secrets manager for enterprise teams",
+      "link": "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/",
+      "summary": "Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the full system with a free trial and up to 50% Black Friday savings. [...]",
+      "published": "2025-11-26 10:12:17",
+      "timestamp": 1764151937
     },
     {
       "id": "af098be8c5c55725387f132c20ef33a887a14e88",
@@ -202,16 +242,6 @@
       "timestamp": 1764070080
     },
     {
-      "id": "d9f4735acc79d26d72a53fa18a68787d7bda2587",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Dartmouth College confirms data breach after Clop extortion attack",
-      "link": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
-      "summary": "\u200bDartmouth College has disclosed a data breach after the Clop extortion gang leaked data allegedly stolen from the school's Oracle E-Business Suite servers on its dark web leak site. [...]",
-      "published": "2025-11-25 11:12:19",
-      "timestamp": 1764069139
-    },
-    {
       "id": "1769350859f55763e6181eeeef2ba940a9f069df",
       "source": "The Hacker News",
       "source_category": "General",
@@ -222,26 +252,6 @@
       "timestamp": 1764052920
     },
     {
-      "id": "96e4afa637d39b2fab23526ebb9681a3db7981e0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious Blender model files deliver StealC infostealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
-      "summary": "A Russian-linked campaign delivers the StealC V2 information stealer malware through malicious Blender files uploaded to 3D model marketplaces like CGTrader. [...]",
-      "published": "2025-11-24 22:00:45",
-      "timestamp": 1764021645
-    },
-    {
-      "id": "c10552ed101c25ac7dceec60925d8f1dad6ec901",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ClickFix attack uses fake Windows Update screen to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
-      "summary": "New ClickFix attack variants have been observed where threat actors trick users with a realistic-looking Windows Update animation in a full-screen browser page and hide the malicious code inside images. [...]",
-      "published": "2025-11-24 20:42:35",
-      "timestamp": 1764016955
-    },
-    {
       "id": "d0e1757013536024b0d5b20de72f32551d9405c7",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -250,16 +260,6 @@
       "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account t",
       "published": "2025-11-24 18:44:52",
       "timestamp": 1764009892
-    },
-    {
-      "id": "759c98fad43ffa179ecc4ef7a784b790e92af667",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Real-estate finance services giant SitusAMC breach exposes client data",
-      "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
-      "summary": "SitusAMC, a company that provides back-end services for top banks and lenders, disclosed on Saturday a data breach it had discovered earlier this month that impacted customer data. [...]",
-      "published": "2025-11-24 17:36:28",
-      "timestamp": 1764005788
     },
     {
       "id": "2f31bf804ea2d94c7ee7e7312665ef1200a0f97b",
@@ -800,16 +800,6 @@
       "summary": "This week showed just how fast things can go wrong when no one\u2019s watching. Some attacks were silent and sneaky. Others used tools we trust every day \u2014 like AI, VPNs, or app stores \u2014 to cause damage without setting off alarms. It\u2019s not just about hacking anymore. Criminals are building systems to make money, spy, or spread malware like it\u2019s a business. And in some cases, they\u2019re using the same",
       "published": "2025-11-17 12:34:00",
       "timestamp": 1763382840
-    },
-    {
-      "id": "4a27631222ed4fc92b3431dce9cc0f474482f8c0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
-      "link": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
-      "summary": "Phishing attacks are no longer confined to the email inbox, with 1 in 3 phishing attacks now taking place over non-email channels like social media, search engines, and messaging apps. LinkedIn in particular has become a hotbed for phishing attacks, and for good reason. Attackers are running sophisticated spear-phishing attacks against company executives, with recent campaigns seen targeting",
-      "published": "2025-11-17 11:55:00",
-      "timestamp": 1763380500
     },
     {
       "id": "be96914a09fb7991782ab962e612255216a74977",
