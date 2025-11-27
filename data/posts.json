@@ -1,6 +1,16 @@
 {
-  "generated_at": 1764191281,
+  "generated_at": 1764204183,
   "items": [
+    {
+      "id": "1773a4899fab6611ed595bde1cd9d4a4956b9b8b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
+      "summary": "A new Mirai-based botnet malware named 'ShadowV2' has been observed targeting IoT devices from D-Link, TP-Link, and other vendors with exploits for known vulnerabilities. [...]",
+      "published": "2025-11-26 22:24:14",
+      "timestamp": 1764195854
+    },
     {
       "id": "8ac33011fd5fc3db63476bcc04f393f2f959c159",
       "source": "BleepingComputer",
@@ -190,16 +200,6 @@
       "summary": "The FBI warns of a surge in account takeover (ATO) fraud schemes and says that cybercriminals impersonating various financial institutions have stolen over $262 million in ATO attacks since the start of the year. [...]",
       "published": "2025-11-25 17:23:23",
       "timestamp": 1764091403
-    },
-    {
-      "id": "4fc5c9a271dc3e836bf1629f1d8140e710737591",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
-      "link": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
-      "summary": "Tor has announced improved encryption and security for the circuit traffic by replacing the old tor1 relay encryption algorithm with a new design called Counter Galois Onion (CGO). [...]",
-      "published": "2025-11-25 17:09:19",
-      "timestamp": 1764090559
     },
     {
       "id": "27aa5a3e74affafaa793a2a89c8ce4d02cb4d455",
@@ -1222,22 +1222,22 @@
       "timestamp": 1760961600
     },
     {
-      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
-      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
-    },
-    {
       "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
       "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
+      "published": "2025-10-16 14:00:00",
+      "timestamp": 1760623200
+    },
+    {
+      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
+      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
     },
