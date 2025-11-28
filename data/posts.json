@@ -1,6 +1,56 @@
 {
-  "generated_at": 1764342547,
+  "generated_at": 1764353566,
   "items": [
+    {
+      "id": "2e019ade8984211d5e7c17cee969660d66fb3d55",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Windows updates make password login option invisible",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/",
+      "summary": "Microsoft warned users that Windows 11 updates released since August may cause the password sign-in option to disappear from the lock screen options, even though the button remains functional. [...]",
+      "published": "2025-11-28 18:07:17",
+      "timestamp": 1764353237
+    },
+    {
+      "id": "ec0c72a56adc882045c7a491b89a10238877b9ec",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Public GitLab repositories exposed more than 17,000 secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
+      "summary": "After scanning all 5.6 million public repositories on GitLab Cloud, a security engineer discovered more than 17,000 exposed secrets across over 2,800 unique domains. [...]",
+      "published": "2025-11-28 17:43:02",
+      "timestamp": 1764351782
+    },
+    {
+      "id": "cc90ac7cd772beb86f61bde0ad0b7c6867867233",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
+      "link": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
+      "summary": "Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack. Software supply chain security company ReversingLabs said it found the \"vulnerability\" in bootstrap files provided by a build and deployment automation tool named \"zc.buildout.\" \"The",
+      "published": "2025-11-28 16:27:00",
+      "timestamp": 1764347220
+    },
+    {
+      "id": "4f6ffb0ecb1d779e67239e5ad7af0e41640f4b99",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
+      "link": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month. According to Socket, these packages have been downloaded over 31,000 times, and are designed to deliver a variant of OtterCookie that brings together the features of BeaverTail and prior versions of OtterCookie. Some of the",
+      "published": "2025-11-28 16:18:00",
+      "timestamp": 1764346680
+    },
+    {
+      "id": "82da72f0f98d5ba0e8c9b346c8589f8eed8bbcb3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "French Football Federation discloses data breach after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/",
+      "summary": "The French Football Federation (FFF) disclosed a data breach on Friday after attackers used a compromised account to gain access to administrative management software used by football clubs. [...]",
+      "published": "2025-11-28 16:12:03",
+      "timestamp": 1764346323
+    },
     {
       "id": "c16ad68b0d39c9f8a98ff19cf0e1ae62d81f6ca1",
       "source": "The Hacker News",
@@ -172,16 +222,6 @@
       "timestamp": 1764177756
     },
     {
-      "id": "b2b10713eab794e196c86660fa2175904351a53c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Security keys may prompt for PIN after recent updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/",
-      "summary": "Microsoft warned users on Tuesday that FIDO2 security keys may prompt them to enter a PIN when signing in after installing Windows updates released since the September 2025 preview update. [...]",
-      "published": "2025-11-26 14:43:57",
-      "timestamp": 1764168237
-    },
-    {
       "id": "2125790de36807a22f28469d4634044d3c7e8f7f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -190,16 +230,6 @@
       "summary": "South Korea's financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware. \"This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)",
       "published": "2025-11-26 14:31:00",
       "timestamp": 1764167460
-    },
-    {
-      "id": "687867e1bb415d66c91f85ce73f066b686045acc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
-      "summary": "Starting in mid-to-late October 2026, Microsoft will enhance the security of the Entra ID authentication system against external script injection attacks. [...]",
-      "published": "2025-11-26 13:26:06",
-      "timestamp": 1764163566
     },
     {
       "id": "0a6613f53508cdeddc25bf485e91e72a08521986",
@@ -730,26 +760,6 @@
       "summary": "In the agentic era, security must be ambient and autonomous, like the AI it protects. This is our vision for security, where security becomes the core primitive. The post \u200b\u200bAmbient and autonomous security for the agentic era\u200b\u200b appeared first on Microsoft Security Blog.",
       "published": "2025-11-18 16:00:00",
       "timestamp": 1763481600
-    },
-    {
-      "id": "bb23c0ccaa28b79ce81ee8448212dc91f24cb891",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
-      "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
-      "summary": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging platform's network protocol. The idea is to make it easier to delve into WhatsApp-specific technologies as the application continues to be a lucrative attack surface for state-sponsored actors and",
-      "published": "2025-11-18 15:56:00",
-      "timestamp": 1763481360
-    },
-    {
-      "id": "bbf9a74fb63cbc51cfa18279609e7e1222a0be03",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
-      "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
-      "summary": "You\u2019ve probably already moved some of your business to the cloud\u2014or you\u2019re planning to. That\u2019s a smart move. It helps you work faster, serve your customers better, and stay ahead. But as your cloud setup grows, it gets harder to control who can access what. Even one small mistake\u2014like the wrong person getting access\u2014can lead to big problems. We're talking data leaks, legal trouble, and serious",
-      "published": "2025-11-18 15:25:00",
-      "timestamp": 1763479500
     },
     {
       "id": "8f51123dc875c820af33b8062997924c1575d89e",
