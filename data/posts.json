@@ -1,6 +1,46 @@
 {
-  "generated_at": 1764785681,
+  "generated_at": 1764796123,
   "items": [
+    {
+      "id": "5abb9cb38128c8048cf71a9491750fcb756c3be1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "French DIY retail giant Leroy Merlin discloses a data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/",
+      "summary": "Leroy Merlin is sending security breach notifications to customers in France, informing them that their personal data was compromised. [...]",
+      "published": "2025-12-03 20:52:36",
+      "timestamp": 1764795156
+    },
+    {
+      "id": "4492a462bc242540ba244d6b84a3ac013ad11c55",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Freedom Mobile discloses data breach exposing customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/",
+      "summary": "Freedom Mobile, the fourth-largest wireless carrier in Canada, has disclosed a data breach after attackers hacked into its customer account management platform and stole the personal information of an undisclosed number of customers. [...]",
+      "published": "2025-12-03 20:28:01",
+      "timestamp": 1764793681
+    },
+    {
+      "id": "30c90c7628d86563f2cb0cada563868958f8967f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
+      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution. The vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. It allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints,\" the React Team said in",
+      "published": "2025-12-03 18:19:00",
+      "timestamp": 1764785940
+    },
+    {
+      "id": "c3a7c8127f088df3479524c48f5d035b9408cb63",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar",
+      "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+      "summary": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country? Those days are over. Today, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool. We are witnessing the industrialization of",
+      "published": "2025-12-03 17:56:00",
+      "timestamp": 1764784560
+    },
     {
       "id": "824bd62a60399820be4b56f3601a4e8fada6cf54",
       "source": "The Hacker News",
@@ -102,14 +142,14 @@
       "timestamp": 1764763200
     },
     {
-      "id": "c3a7c8127f088df3479524c48f5d035b9408cb63",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar",
-      "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-      "summary": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country? Those days are over. Today, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool. We are witnessing the industrialization of",
-      "published": "2025-12-03 11:59:00",
-      "timestamp": 1764763140
+      "id": "597e0a8fc1918d617f7637a5c3ff99225a179a14",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-26828 OpenPLC ScadaBR Unrestricted Upload of File with Dangerous Type Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog a",
+      "published": "2025-12-03 12:00:00",
+      "timestamp": 1764763200
     },
     {
       "id": "87832829b2a89af0598435167bae381815275ef4",
@@ -202,26 +242,6 @@
       "timestamp": 1764694800
     },
     {
-      "id": "afee440926edc1b5a009114e0d0584ca87e18837",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Defender portal outage disrupts threat hunting alerts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/",
-      "summary": "Microsoft is working to mitigate an ongoing incident that has been blocking access to some Defender XDR portal capabilities, including threat hunting alerts. [...]",
-      "published": "2025-12-02 16:10:06",
-      "timestamp": 1764691806
-    },
-    {
-      "id": "04c90bbb0368ae1f82dd062b8d73b174d591f84c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/",
-      "summary": "Cybercrime has fully shifted to a subscription model, with phishing kits, Telegram OTP bots, infostealer logs, and even RATs now rented like SaaS tools. Varonis explains how this \"crime-as-a-service\" economy lowers the barrier to entry and gives low-skill attackers on-demand access to advanced capabilities. [...]",
-      "published": "2025-12-02 15:10:20",
-      "timestamp": 1764688220
-    },
-    {
       "id": "925b4807c7706a46343eece02120f5f5ca6a0af6",
       "source": "The Hacker News",
       "source_category": "General",
@@ -240,16 +260,6 @@
       "summary": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue. GlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,",
       "published": "2025-12-02 15:01:00",
       "timestamp": 1764687660
-    },
-    {
-      "id": "160291b8f0a51186a2147e27e050fd86a1410b3d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "North Korea lures engineers to rent identities in fake IT worker scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
-      "summary": "In an unprecedented intelligence operation, security researchers exposed how North Korean IT recruiters target and lure developers into renting their identities for illicit fundraising. [...]",
-      "published": "2025-12-02 14:57:26",
-      "timestamp": 1764687446
     },
     {
       "id": "6bf5a15b5899525040b724be187f2a7960c4aefb",
@@ -722,16 +732,6 @@
       "timestamp": 1763794020
     },
     {
-      "id": "c8b707a9f553ce968dd4d78cfd3f5be1a08a48e2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
-      "link": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
-      "published": "2025-11-22 06:45:00",
-      "timestamp": 1763793900
-    },
-    {
       "id": "d8605c3665e3bbe12deedf5402009ebfde44151f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -832,22 +832,22 @@
       "timestamp": 1763481600
     },
     {
-      "id": "8f51123dc875c820af33b8062997924c1575d89e",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-58034 Fortinet FortiWeb OS Command Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. With recent and ongoing exploitation events Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products, a redu",
-      "published": "2025-11-18 12:00:00",
-      "timestamp": 1763467200
-    },
-    {
       "id": "19b378c256022efa05702ad3efdc39758f901a72",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Six Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-releases-six-industrial-control-systems-advisories",
       "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-322-01 Schneider Electric EcoStruxure Machine SCADA Expert & Pro-face BLUE Open Studio ICSA-25-322-02 Shelly Pro 4PM ICSA-25-322-03 Shelly Pro 3EM ICSA-25-322-04 Schneider Electric PowerChute Serial Shutdown ICSA-25-322-05 METZ CONNECT EWIO2 ICSA-25-224-03 Schneider Electric EcoStruxure (Update B) CISA enc",
+      "published": "2025-11-18 12:00:00",
+      "timestamp": 1763467200
+    },
+    {
+      "id": "8f51123dc875c820af33b8062997924c1575d89e",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-58034 Fortinet FortiWeb OS Command Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. With recent and ongoing exploitation events Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products, a redu",
       "published": "2025-11-18 12:00:00",
       "timestamp": 1763467200
     },
@@ -922,16 +922,6 @@
       "timestamp": 1763042400
     },
     {
-      "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
-      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
-      "published": "2025-11-13 12:00:00",
-      "timestamp": 1763035200
-    },
-    {
       "id": "fa52de059959b204e08e14e269b4443153faa6e0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -942,14 +932,14 @@
       "timestamp": 1763035200
     },
     {
-      "id": "019e20dc583593874428db09d7fc559f02ae2dab",
+      "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability CVE-2025-62215 Microsoft Windows Race Condition Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Dire",
-      "published": "2025-11-12 12:00:00",
-      "timestamp": 1762948800
+      "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
+      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
+      "published": "2025-11-13 12:00:00",
+      "timestamp": 1763035200
     },
     {
       "id": "19cdbb338a7f87d3781a2e451931cc3b7a960e12",
@@ -958,6 +948,16 @@
       "title": "Update: Implementation Guidance for Emergency Directive on Cisco ASA and Firepower Device Vulnerabilities",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/update-implementation-guidance-emergency-directive-cisco-asa-and-firepower-device-vulnerabilities",
       "summary": "CISA has released Emergency Cisco Directive 25-03 Implementation Guidance to assist federal agencies in addressing critical vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. Emergency Directive 25-03: Identify and Mitigate Potential Compromise of Cisco Devices, issued on Sept. 25, identified known vulnerabilities CVE-2025-20333 and CVE-2025-20362, and mandated immediate action to mitigate risks. Threat actors continue to target these devices, posing significant r",
+      "published": "2025-11-12 12:00:00",
+      "timestamp": 1762948800
+    },
+    {
+      "id": "019e20dc583593874428db09d7fc559f02ae2dab",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability CVE-2025-62215 Microsoft Windows Race Condition Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Dire",
       "published": "2025-11-12 12:00:00",
       "timestamp": 1762948800
     },
@@ -1210,16 +1210,6 @@
       "summary": "Google Threat Intelligence Group (GTIG) is tracking a cluster of financially motivated threat actors operating from Vietnam that leverages fake job postings on legitimate platforms to target individuals in the digital advertising and marketing sectors. The actor effectively uses social engineering to deliver malware and phishing kits, ultimately aiming to compromise high-value corporate accounts, in order to hijack digital advertising accounts. GTIG tracks parts of this activity as UNC6229. The ",
       "published": "2025-10-23 14:00:00",
       "timestamp": 1761228000
-    },
-    {
-      "id": "c1969c3358758a19163f36c0e93b549214bffb72",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Eight Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/23/cisa-releases-eight-industrial-control-systems-advisories",
-      "summary": "CISA released eight Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-296-01 AutomationDirect Productivity Suite ICSA-25-296-02 ASKI Energy ALS-Mini-S8 and ALS-Mini-S4 ICSA-25-296-03 Veeder-Root TLS4B Automatic Tank Gauge System ICSA-25-296-04 Delta Electronics ASDA-Soft ICSMA-25-296-01 NIHON KOHDEN Central Monitor CNS-6201 ICSA-25-037-02 Schneider Electric EcoStruxure (Up",
-      "published": "2025-10-23 12:00:00",
-      "timestamp": 1761220800
     },
     {
       "id": "56051286ef8714ffcf364ebd91518d2117fdde7f",
