@@ -1,5 +1,5 @@
 {
-  "generated_at": 1764819928,
+  "generated_at": 1764828924,
   "items": [
     {
       "id": "1618ce2674dace507762253415a85f6693597d7f",
@@ -47,7 +47,7 @@
       "source_category": "General",
       "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
       "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
-      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution. The vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. It allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints,\" the React Team said in",
+      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution. The vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. The vulnerability has been codenamed React2shell. It allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React",
       "published": "2025-12-03 18:19:00",
       "timestamp": 1764785940
     },
@@ -140,6 +140,16 @@
       "summary": "In just three months, the massive Aisuru botnet launched more than 1,300 distributed denial-of-service attacks, one of them setting a new record with a peak at 29.7 terabits per second. [...]",
       "published": "2025-12-03 14:01:04",
       "timestamp": 1764770464
+    },
+    {
+      "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Sanctioned but Still Spying: Intellexa\u2019s Prolific Zero-Day Exploits Continue",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/intellexa-zero-day-exploits-continue/",
+      "summary": "Introduction Despite extensive scrutiny and public reporting, commercial surveillance vendors continue to operate unimpeded. A prominent name continues to surface in the world of mercenary spyware, Intellexa. Known for its \u201cPredator\u201d spyware, the company was sanctioned by the US Government. New Google Threat Intelligence Group (GTIG) analysis shows that Intellexa is evading restrictions and thriving. Intellexa has adapted, evaded restrictions, and continues selling digital weapons to the highest",
+      "published": "2025-12-03 14:00:00",
+      "timestamp": 1764770400
     },
     {
       "id": "645d7ee51018636b59a4b379bd3e6b68ff898af1",
@@ -1360,16 +1370,6 @@
       "summary": "Posted by Tim Willis, Google Project Zero In 2021, we updated our vulnerability disclosure policy to the current \"90+30\" model. Our goals were to drive faster yet thorough patch development, and improve patch adoption. While we\u2019ve seen progress, a significant challenge remains: the time it takes for a fix to actually reach an end-user's device.This delay, often called the \"patch gap,\" is a complex problem. Many consider the patch gap to be the time between a fix being released for a security vul",
       "published": "2025-07-29 14:54:00",
       "timestamp": 1753800840
-    },
-    {
-      "id": "35d741677f6a5d39121e526db1d5199cb2276647",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Beyond Convenience: Exposing the Risks of VMware vSphere Active Directory Integration",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vsphere-active-directory-integration-risks/",
-      "summary": "Written by: Stuart Carrera, Brian Meyer Executive Summary Broadcom's VMware vSphere product continues to be a top choice for private cloud virtualization, underpinning important systems and critical infrastructure. Far from losing its appeal, organizations still rely heavily on vSphere for its stability and control. Mandiant is also observing a clear trend where critical workloads are moving back from public cloud services to these on-premises vSphere environments, often driven by strategies tha",
-      "published": "2025-07-23 14:00:00",
-      "timestamp": 1753279200
     },
     {
       "id": "7a3a22170ca0eb8acc5a7b83b2628a5342587627",
