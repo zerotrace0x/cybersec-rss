@@ -1,6 +1,36 @@
 {
-  "generated_at": 1764947419,
+  "generated_at": 1764958341,
   "items": [
+    {
+      "id": "128ba075591f4020bec8ffc7a866979cfffb964d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI warns of virtual kidnapping scams using altered social media photos",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/",
+      "summary": "The FBI warns of criminals altering images shared on social media and using them as fake proof of life photos in virtual kidnapping ransom scams. [...]",
+      "published": "2025-12-05 16:37:28",
+      "timestamp": 1764952648
+    },
+    {
+      "id": "67d095b14c538d04b4ca3e687769f0f1197eb28b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch",
+      "link": "https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html",
+      "summary": "A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack. The vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS scoring scale, indicating maximum severity. \"Critical XXE in Apache Tika tika-core (1.13-3.2.1), tika-pdf-module (2.0.0-3.2.1) and tika-parsers (1.13-1.28.5) modules on all platforms allows an",
+      "published": "2025-12-05 16:23:00",
+      "timestamp": 1764951780
+    },
+    {
+      "id": "cb6a385b1643e6532eb7b80e4e9950ae59c497ae",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "A Practical Guide to Continuous Attack Surface Visibility",
+      "link": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
+      "summary": "Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automated recon gives accurate, up-to-date attack surface visibility. [...]",
+      "published": "2025-12-05 15:00:10",
+      "timestamp": 1764946810
+    },
     {
       "id": "edfdc8006850095b93200c0832cc0946051fc918",
       "source": "BleepingComputer",
@@ -12,10 +42,20 @@
       "timestamp": 1764945661
     },
     {
+      "id": "f2cfd5db176ecb265182e1a9b24e0f202c4f50ab",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
+      "link": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
+      "summary": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge. The vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1. According",
+      "published": "2025-12-05 14:10:00",
+      "timestamp": 1764943800
+    },
+    {
       "id": "14fee13ff11e4a95d3178abd8acc20d651ce8796",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Cloudflare blames today's outage on emergency React2Shell patch",
+      "title": "Cloudflare blames today's outage on React2Shell mitigations",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
       "summary": "Cloudflare has blamed today's outage on the emergency patching of a critical React remote code execution vulnerability, which is now actively exploited in attacks. [...]",
       "published": "2025-12-05 13:53:26",
@@ -30,6 +70,16 @@
       "summary": "American pharmaceutical firm Inotiv is notifying thousands of people that they're personal information was stolen in an August 2025 ransomware attack. [...]",
       "published": "2025-12-05 13:05:52",
       "timestamp": 1764939952
+    },
+    {
+      "id": "0fe73516fc4e31092aaf906e8a4c082c913b3328",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-55182 Meta React Server Components Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living li",
+      "published": "2025-12-05 12:00:00",
+      "timestamp": 1764936000
     },
     {
       "id": "ca5808eb03c9f9ae081b8c6ef4115d5bf3c0fcc8",
@@ -180,26 +230,6 @@
       "summary": "U.S. prosecutors have charged two Virginia brothers arrested on Wednesday with allegedly conspiring to steal sensitive information and destroy government databases after being fired from their jobs as federal contractors. [...]",
       "published": "2025-12-04 16:30:59",
       "timestamp": 1764865859
-    },
-    {
-      "id": "6cae5e71198687dddad67cd3b520f0b42714ab4b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical React, Next.js flaw lets hackers execute code on servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
-      "summary": "A maximum severity vulnerability, dubbed 'React2Shell', in the React Server Components (RSC) 'Flight' protocol allows remote code execution without authentication in React and Next.js applications. [...]",
-      "published": "2025-12-04 15:11:54",
-      "timestamp": 1764861114
-    },
-    {
-      "id": "3f72983a85b8ad84274f9bc761f84d8c00f6bd0a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How strong password policies secure OT systems against cyber threats",
-      "link": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
-      "summary": "OT environments rely on aging systems, shared accounts, and remote access, making weak or reused passwords a major attack vector. Specops Software explains how stronger password policies and continuous checks for compromised credentials help secure critical OT infrastructure. [...]",
-      "published": "2025-12-04 15:11:22",
-      "timestamp": 1764861082
     },
     {
       "id": "ab4a9d9549ca9e0e9a824aee43ffc0f587462978",
@@ -752,26 +782,6 @@
       "timestamp": 1764072000
     },
     {
-      "id": "6da644b41ee487b857f0908ff81a819694139591",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ToddyCat\u2019s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
-      "link": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
-      "summary": "The threat actor known as ToddyCat has been observed adopting new methods to obtain access to corporate email data belonging to target companies, including using a custom tool dubbed TCSectorCopy. \"This attack allows them to obtain tokens for the OAuth 2.0 authorization protocol using the user's browser, which can be used outside the perimeter of the compromised infrastructure to access",
-      "published": "2025-11-25 11:36:00",
-      "timestamp": 1764070560
-    },
-    {
-      "id": "f9d40d6443fdcf0c05af0d6b410122c5207e4be7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "3 SOC Challenges You Need to Solve Before 2026",
-      "link": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
-      "summary": "2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to scale attacks, automate reconnaissance, and craft hyper-realistic social engineering campaigns. The Storm on the Horizon Global world instability, coupled with rapid technological advancement, will force security teams to adapt not just their",
-      "published": "2025-11-25 11:30:00",
-      "timestamp": 1764070200
-    },
-    {
       "id": "d0e1757013536024b0d5b20de72f32551d9405c7",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -892,22 +902,22 @@
       "timestamp": 1763481600
     },
     {
-      "id": "19b378c256022efa05702ad3efdc39758f901a72",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-releases-six-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-322-01 Schneider Electric EcoStruxure Machine SCADA Expert & Pro-face BLUE Open Studio ICSA-25-322-02 Shelly Pro 4PM ICSA-25-322-03 Shelly Pro 3EM ICSA-25-322-04 Schneider Electric PowerChute Serial Shutdown ICSA-25-322-05 METZ CONNECT EWIO2 ICSA-25-224-03 Schneider Electric EcoStruxure (Update B) CISA enc",
-      "published": "2025-11-18 12:00:00",
-      "timestamp": 1763467200
-    },
-    {
       "id": "8f51123dc875c820af33b8062997924c1575d89e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-58034 Fortinet FortiWeb OS Command Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. With recent and ongoing exploitation events Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products, a redu",
+      "published": "2025-11-18 12:00:00",
+      "timestamp": 1763467200
+    },
+    {
+      "id": "19b378c256022efa05702ad3efdc39758f901a72",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Six Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-releases-six-industrial-control-systems-advisories",
+      "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-322-01 Schneider Electric EcoStruxure Machine SCADA Expert & Pro-face BLUE Open Studio ICSA-25-322-02 Shelly Pro 4PM ICSA-25-322-03 Shelly Pro 3EM ICSA-25-322-04 Schneider Electric PowerChute Serial Shutdown ICSA-25-322-05 METZ CONNECT EWIO2 ICSA-25-224-03 Schneider Electric EcoStruxure (Update B) CISA enc",
       "published": "2025-11-18 12:00:00",
       "timestamp": 1763467200
     },
@@ -942,22 +952,22 @@
       "timestamp": 1763329634
     },
     {
-      "id": "c5e74f0757c375f658311e91ea3af0d3769c0705",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb",
-      "summary": "CISA has updated this Alert to include an additional vulnerability, CVE-2025-58034, and its relation to CVE-2025-64446, and associated resources. CISA is aware of the exploitation of two vulnerabilities, CVE-2025-64446 and CVE-2025-58034, in Fortinet FortiWeb, a web application firewall. CISA is also aware that threat actors could exploit CVE-2025-64446 as an initial access vector and then chain CVE-2025-58034 to escalate privileges on a target system. These vulnerabilities chained together coul",
-      "published": "2025-11-14 12:00:00",
-      "timestamp": 1763121600
-    },
-    {
       "id": "0703caa063de82307a6bf3382368c596db50c2c8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-64446 Fortinet FortiWeb Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
+      "published": "2025-11-14 12:00:00",
+      "timestamp": 1763121600
+    },
+    {
+      "id": "c5e74f0757c375f658311e91ea3af0d3769c0705",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb",
+      "summary": "CISA has updated this Alert to include an additional vulnerability, CVE-2025-58034, and its relation to CVE-2025-64446, and associated resources. CISA is aware of the exploitation of two vulnerabilities, CVE-2025-64446 and CVE-2025-58034, in Fortinet FortiWeb, a web application firewall. CISA is also aware that threat actors could exploit CVE-2025-64446 as an initial access vector and then chain CVE-2025-58034 to escalate privileges on a target system. These vulnerabilities chained together coul",
       "published": "2025-11-14 12:00:00",
       "timestamp": 1763121600
     },
@@ -982,16 +992,6 @@
       "timestamp": 1763042400
     },
     {
-      "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
-      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
-      "published": "2025-11-13 12:00:00",
-      "timestamp": 1763035200
-    },
-    {
       "id": "fa52de059959b204e08e14e269b4443153faa6e0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1002,14 +1002,14 @@
       "timestamp": 1763035200
     },
     {
-      "id": "19cdbb338a7f87d3781a2e451931cc3b7a960e12",
+      "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "Update: Implementation Guidance for Emergency Directive on Cisco ASA and Firepower Device Vulnerabilities",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/update-implementation-guidance-emergency-directive-cisco-asa-and-firepower-device-vulnerabilities",
-      "summary": "CISA has released Emergency Cisco Directive 25-03 Implementation Guidance to assist federal agencies in addressing critical vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. Emergency Directive 25-03: Identify and Mitigate Potential Compromise of Cisco Devices, issued on Sept. 25, identified known vulnerabilities CVE-2025-20333 and CVE-2025-20362, and mandated immediate action to mitigate risks. Threat actors continue to target these devices, posing significant r",
-      "published": "2025-11-12 12:00:00",
-      "timestamp": 1762948800
+      "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
+      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
+      "published": "2025-11-13 12:00:00",
+      "timestamp": 1763035200
     },
     {
       "id": "019e20dc583593874428db09d7fc559f02ae2dab",
@@ -1018,6 +1018,16 @@
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability CVE-2025-62215 Microsoft Windows Race Condition Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Dire",
+      "published": "2025-11-12 12:00:00",
+      "timestamp": 1762948800
+    },
+    {
+      "id": "19cdbb338a7f87d3781a2e451931cc3b7a960e12",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Update: Implementation Guidance for Emergency Directive on Cisco ASA and Firepower Device Vulnerabilities",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/update-implementation-guidance-emergency-directive-cisco-asa-and-firepower-device-vulnerabilities",
+      "summary": "CISA has released Emergency Cisco Directive 25-03 Implementation Guidance to assist federal agencies in addressing critical vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. Emergency Directive 25-03: Identify and Mitigate Potential Compromise of Cisco Devices, issued on Sept. 25, identified known vulnerabilities CVE-2025-20333 and CVE-2025-20362, and mandated immediate action to mitigate risks. Threat actors continue to target these devices, posing significant r",
       "published": "2025-11-12 12:00:00",
       "timestamp": 1762948800
     },
@@ -1208,16 +1218,6 @@
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-6204 Dassault Syst\u00e8mes DELMIA Apriso Code Injection Vulnerability CVE-2025-6205 Dassault Syst\u00e8mes DELMIA Apriso Missing Authorization Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant ",
-      "published": "2025-10-28 12:00:00",
-      "timestamp": 1761652800
-    },
-    {
-      "id": "f593125acde187ca067da71190ec8dfdbb9d1268",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Three Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-releases-three-industrial-control-systems-advisories",
-      "summary": "CISA released three Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-301-01 Schneider Electric EcoStruxure ICSMA-25-301-01 Vertikal Systems Hospital Manager Backend Services ICSA-24-352-04 Schneider Electric Modicon (Update B) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
       "published": "2025-10-28 12:00:00",
       "timestamp": 1761652800
     },
