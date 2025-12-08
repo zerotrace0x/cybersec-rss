@@ -1,6 +1,26 @@
 {
-  "generated_at": 1765217697,
+  "generated_at": 1765228129,
   "items": [
+    {
+      "id": "bc59e6836aca2073e5ed90d93e87af04d4924215",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
+      "link": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
+      "summary": "A new report by the Financial Crimes Enforcement Network (FinCEN) shows that ransomware activity peaked in 2023 before falling in 2024, following a series of law enforcement actions targeting the ALPHV/BlackCat and LockBit ransomware gangs. [...]",
+      "published": "2025-12-08 21:07:30",
+      "timestamp": 1765228050
+    },
+    {
+      "id": "75beaa9d762cb0e32869059fb3f64456ec5be3b5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/",
+      "summary": "The police in Poland arrested three Ukrainian nationals for allegedly attempting to damage IT systems in the country using hacking equipment and for obtaining \"computer data of particular importance to national defense.\" [...]",
+      "published": "2025-12-08 18:31:13",
+      "timestamp": 1765218673
+    },
     {
       "id": "b1b56d70196ec1e2fe867bf44f5c84d180db2d25",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "Google Chrome is introducing a new security architecture designed to protect upcoming agentic AI browsing features powered by Gemini. [...]",
       "published": "2025-12-08 18:08:52",
       "timestamp": 1765217332
+    },
+    {
+      "id": "844fb5182bd27f82e6393a275f1a435cfced6925",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
+      "link": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed JS#SMUGGLER that has been observed leveraging compromised websites as a distribution vector for a remote access trojan named NetSupport RAT. The attack chain, analyzed by Securonix, involves three main moving parts: An obfuscated JavaScript loader injected into a website, an HTML Application (HTA) that runs encrypted",
+      "published": "2025-12-08 17:37:00",
+      "timestamp": 1765215420
     },
     {
       "id": "5a0a750d7c3f654d22d61f3b936b701bf1825a51",
@@ -40,6 +70,16 @@
       "summary": "It\u2019s been a week of chaos in code and calm in headlines. A bug that broke the internet\u2019s favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks \u2014 all within days. If you blink, you\u2019ll miss how fast the threat map is changing. New flaws are being found, published, and exploited in hours instead of weeks. AI-powered tools meant to help developers",
       "published": "2025-12-08 12:44:00",
       "timestamp": 1765197840
+    },
+    {
+      "id": "3d899f0cdbf59bce74903eff934c10205acdaf78",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-37055 D-Link Routers Buffer Overflow Vulnerability CVE-2025-66644 Array Networks ArrayOS AG OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploit",
+      "published": "2025-12-08 12:00:00",
+      "timestamp": 1765195200
     },
     {
       "id": "26edd21469aaa2570f0739e7cf139c721eafeb83",
@@ -230,26 +270,6 @@
       "summary": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge. The vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1. According",
       "published": "2025-12-05 14:10:00",
       "timestamp": 1764943800
-    },
-    {
-      "id": "14fee13ff11e4a95d3178abd8acc20d651ce8796",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cloudflare blames today's outage on React2Shell mitigations",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
-      "summary": "Cloudflare has blamed today's outage on the emergency patching of a critical React remote code execution vulnerability, which is now actively exploited in attacks. [...]",
-      "published": "2025-12-05 13:53:26",
-      "timestamp": 1764942806
-    },
-    {
-      "id": "d9e8f53888473fdc1814facf5bd18ab0bb6ca77c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Pharma firm Inotiv discloses data breach after ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/",
-      "summary": "American pharmaceutical firm Inotiv is notifying thousands of people that their personal information was stolen in an August 2025 ransomware attack. [...]",
-      "published": "2025-12-05 13:05:52",
-      "timestamp": 1764939952
     },
     {
       "id": "0fe73516fc4e31092aaf906e8a4c082c913b3328",
@@ -762,16 +782,6 @@
       "timestamp": 1764237780
     },
     {
-      "id": "c504cc6b2c66a10a2629a4065e37d6a6e1117511",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
-      "link": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
-      "summary": "Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought. The company said Salesforce initially provided a list of 3 impacted customers and that it has \"expanded to a larger list\" as of November 21, 2025. It did not reveal the exact number of customers who were impacted, but its CEO, Chuck Ganapathi, said \"we",
-      "published": "2025-11-27 07:03:00",
-      "timestamp": 1764226980
-    },
-    {
       "id": "269c0676d062e76dac972993c0ad366fdd54a57d",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1012,22 +1022,22 @@
       "timestamp": 1763042400
     },
     {
-      "id": "fa52de059959b204e08e14e269b4443153faa6e0",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases 18 Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-releases-18-industrial-control-systems-advisories",
-      "summary": "CISA released 18 Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-317-01 Mitsubishi Electric MELSEC iQ-F Series ICSA-25-317-02 AVEVA Application Server IDE ICSA-25-317-03 AVEVA Edge ICSA-25-317-04 Brightpick Mission Control / Internal Logic Control ICSA-25-317-05 Rockwell Automation Verve Asset Manager ICSA-25-317-06 Rockwell Automation Studio 5000 Simulation Interface IC",
-      "published": "2025-11-13 12:00:00",
-      "timestamp": 1763035200
-    },
-    {
       "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
       "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
+      "published": "2025-11-13 12:00:00",
+      "timestamp": 1763035200
+    },
+    {
+      "id": "fa52de059959b204e08e14e269b4443153faa6e0",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases 18 Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-releases-18-industrial-control-systems-advisories",
+      "summary": "CISA released 18 Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-317-01 Mitsubishi Electric MELSEC iQ-F Series ICSA-25-317-02 AVEVA Application Server IDE ICSA-25-317-03 AVEVA Edge ICSA-25-317-04 Brightpick Mission Control / Internal Logic Control ICSA-25-317-05 Rockwell Automation Verve Asset Manager ICSA-25-317-06 Rockwell Automation Studio 5000 Simulation Interface IC",
       "published": "2025-11-13 12:00:00",
       "timestamp": 1763035200
     },
@@ -1200,16 +1210,6 @@
       "summary": "Written by: Bhavesh Dhake, Will Silverstone, Matthew Hitchcock, Aaron Fletcher The Criticality of Privileged Access in Today's Threat Landscape Privileged access stands as the most critical pathway for adversaries seeking to compromise sensitive systems and data. Its protection is not only a best practice, it is a fundamental imperative for organizational resilience. The increasing complexity of modern IT environments, exacerbated by rapid cloud migration, has led to a surge in both human and no",
       "published": "2025-10-28 14:00:00",
       "timestamp": 1761660000
-    },
-    {
-      "id": "7534f4b9632c527d5a30e6640294ffadd57c397a",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-6204 Dassault Syst\u00e8mes DELMIA Apriso Code Injection Vulnerability CVE-2025-6205 Dassault Syst\u00e8mes DELMIA Apriso Missing Authorization Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant ",
-      "published": "2025-10-28 12:00:00",
-      "timestamp": 1761652800
     },
     {
       "id": "37244755d7ff06a2c4431701199adc78dfea3ab0",
