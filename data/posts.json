@@ -1,6 +1,16 @@
 {
-  "generated_at": 1765282727,
+  "generated_at": 1765293086,
   "items": [
+    {
+      "id": "e9e225333763bb834984aca0342a22f840ffc3bb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
+      "link": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
+      "summary": "The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading, and fileless PowerShell execution to facilitate ransomware attacks. \"These methods allow them to bypass defenses, infiltrate networks, maintain persistence, and operate undetected, raising serious concerns for",
+      "published": "2025-12-09 13:37:00",
+      "timestamp": 1765287420
+    },
     {
       "id": "703bfb210893c488dd9831917b2fa97a239ccbb8",
       "source": "BleepingComputer",
@@ -10,6 +20,26 @@
       "summary": "Microsoft is working to mitigate an ongoing incident that has been blocking users in Europe from accessing the company's AI-powered Copilot digital assistant. [...]",
       "published": "2025-12-09 11:48:39",
       "timestamp": 1765280919
+    },
+    {
+      "id": "e72f59815f9ed65dcce2158a950f417fdb4d047a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
+      "link": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
+      "summary": "Zero Trust helps organizations shrink their attack surface and respond to threats faster, but many still struggle to implement it because their security tools don\u2019t share signals reliably. 88% of organizations admit they\u2019ve suffered significant challenges in trying to implement such approaches, according to Accenture. When products can\u2019t communicate, real-time access decisions break down. The",
+      "published": "2025-12-09 11:30:00",
+      "timestamp": 1765279800
+    },
+    {
+      "id": "3d9f80a01cdd398a4697af6c176efbcaa7216ddb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
+      "link": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
+      "summary": "Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabilities to the web browser. To that end, the tech giant said it has implemented layered defenses to make it harder for bad actors to exploit indirect prompt injections that arise as a result of exposure to untrusted web content and inflict harm. Chief",
+      "published": "2025-12-09 11:14:00",
+      "timestamp": 1765278840
     },
     {
       "id": "9908c5c9407665b25ea4d8f3054675f167d1e4cb",
@@ -250,16 +280,6 @@
       "summary": "Microsoft has been named a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Email Security, which we believe highlights the innovative capabilities of Microsoft Defender for Office 365. The post Microsoft named a leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Email Security appeared first on Microsoft Security Blog.",
       "published": "2025-12-05 20:00:00",
       "timestamp": 1764964800
-    },
-    {
-      "id": "c5400e2e570121181226a3afafec281f04c349a0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Barts Health NHS discloses data breach after Oracle zero-day hack",
-      "link": "https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/",
-      "summary": "Barts Health NHS Trust has announced that Clop ransomware actors have stolen files from a database by exploiting a vulnerability in its Oracle E-business Suite software. [...]",
-      "published": "2025-12-05 18:55:26",
-      "timestamp": 1764960926
     },
     {
       "id": "1874f3d029dd39a80215b47eb5b12f2424c0ee08",
@@ -750,36 +770,6 @@
       "summary": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising",
       "published": "2025-11-28 11:09:00",
       "timestamp": 1764328140
-    },
-    {
-      "id": "5e39eaba446cfc0addfa3610d4d715065a3d69a9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
-      "link": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
-      "summary": "Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams. \"When users operate as guests in another tenant, their protections are determined entirely by that hosting environment, not by their home organization,\" Ontinue security researcher Rhys Downing said in a report",
-      "published": "2025-11-28 08:33:00",
-      "timestamp": 1764318780
-    },
-    {
-      "id": "66d49d8681195b8233f1cff8ec989ee4a005f971",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
-      "link": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
-      "summary": "The threat actor known as Bloody Wolf has been attributed to a cyber attack campaign that has targeted Kyrgyzstan since at least June 2025 with the goal of delivering NetSupport RAT. As of October 2025, the activity has expanded to also single out Uzbekistan, Group-IB researchers Amirbek Kurbanov and Volen Kayo said in a report published in collaboration with Ukuk, a state enterprise under the",
-      "published": "2025-11-27 18:13:00",
-      "timestamp": 1764267180
-    },
-    {
-      "id": "32121781aacae18319a5e1638b0ca90437d5adff",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
-      "link": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
-      "summary": "Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now. The update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at \"login.microsoftonline[.]com\" by only letting scripts from trusted Microsoft domains run. \"This update strengthens security and adds an extra",
-      "published": "2025-11-27 15:37:00",
-      "timestamp": 1764257820
     },
     {
       "id": "269c0676d062e76dac972993c0ad366fdd54a57d",
