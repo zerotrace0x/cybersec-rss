@@ -1,6 +1,66 @@
 {
-  "generated_at": 1765293086,
+  "generated_at": 1765303939,
   "items": [
+    {
+      "id": "677c4296e35f2eb868d00a3616cc5e878fac064f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ivanti warns of critical Endpoint Manager code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/",
+      "summary": "American IT software company Ivanti warned customers today to patch a newly disclosed vulnerability in its Endpoint Manager (EPM) solution that could allow attackers to execute code remotely. [...]",
+      "published": "2025-12-09 17:10:25",
+      "timestamp": 1765300225
+    },
+    {
+      "id": "9a1bcfcac983dee7775cf11f1b93988575bb73c3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR",
+      "link": "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/",
+      "summary": "Poor IT hygiene, such as unused accounts, outdated software, and risky extensions, creates hidden exposure in your infrastructure. Wazuh, the open-source XDR and SIEM, shows how continuous inventory monitoring across endpoints helps teams spot drift and tighten security. [...]",
+      "published": "2025-12-09 17:09:33",
+      "timestamp": 1765300173
+    },
+    {
+      "id": "6a96615f6c762e14e4a58698ceb1d6ee1734385e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spain arrests teen who stole 64 million personal data records",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/",
+      "summary": "The National Police in Spain have arrested a suspected 19-year-old hacker in Barcelona, for allegedly stealing and attempting to sell 64 million records obtained from breaches at nine companies. [...]",
+      "published": "2025-12-09 16:57:06",
+      "timestamp": 1765299426
+    },
+    {
+      "id": "c660c68f14430c646ece40e3dca6e84ea8451db9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
+      "link": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
+      "summary": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model. The threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150.",
+      "published": "2025-12-09 16:01:00",
+      "timestamp": 1765296060
+    },
+    {
+      "id": "e2fdfd43f7c4de26218e0f85c083e0b4b457d9ad",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
+      "summary": "A new malware implant called EtherRAT, deployed in a recent React2Shell attack, runs five separate Linux persistence mechanisms and leverages Ethereum smart contracts for communication with the attacker. [...]",
+      "published": "2025-12-09 15:43:05",
+      "timestamp": 1765294985
+    },
+    {
+      "id": "8b37c783fe969a7133ec92e06ecbc93d9e4f4d75",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ransomware IAB abuses EDR for stealthy malware execution",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/",
+      "summary": "An initial access broker tracked as Storm-0249 is abusing endpoint detection and response solutions and trusted Microsoft Windows utilities to load malware, establish communication, and persistence in preparation for ransomware attacks. [...]",
+      "published": "2025-12-09 15:24:00",
+      "timestamp": 1765293840
+    },
     {
       "id": "e9e225333763bb834984aca0342a22f840ffc3bb",
       "source": "The Hacker News",
@@ -10,6 +70,16 @@
       "summary": "The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading, and fileless PowerShell execution to facilitate ransomware attacks. \"These methods allow them to bypass defenses, infiltrate networks, maintain persistence, and operate undetected, raising serious concerns for",
       "published": "2025-12-09 13:37:00",
       "timestamp": 1765287420
+    },
+    {
+      "id": "4437cbb01109691c49f63723c5e9410b7264fbf5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Three Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/09/cisa-releases-three-industrial-control-systems-advisories",
+      "summary": "CISA released three Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-343-01 Universal Boot Loader (U-Boot) ICSA-25-343-02 Festo LX Appliance ICSA-25-343-03 Multiple India-Based CCTV Cameras CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
+      "published": "2025-12-09 12:00:00",
+      "timestamp": 1765281600
     },
     {
       "id": "703bfb210893c488dd9831917b2fa97a239ccbb8",
@@ -212,26 +282,6 @@
       "timestamp": 1765140668
     },
     {
-      "id": "881f1113aaa0cb88afa988835acf8ab7b42b77d5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Portugal updates cybercrime law to exempt security researchers",
-      "link": "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/",
-      "summary": "Portugal has modified its cybercrime law to establish a legal safe harbor for good-faith security research and to make hacking non-punishable under certain strict conditions. [...]",
-      "published": "2025-12-07 15:09:44",
-      "timestamp": 1765120184
-    },
-    {
-      "id": "22339f3e4c1c2579572b17c8e4f25e0703e455d8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable",
-      "link": "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/",
-      "summary": "Over 77,000 Internet-exposed IP addresses are vulnerable to the critical React2Shell remote code execution flaw (CVE-2025-55182), with researchers now confirming that attackers have already compromised over 30 organizations across multiple sectors. [...]",
-      "published": "2025-12-06 19:07:33",
-      "timestamp": 1765048053
-    },
-    {
       "id": "a03173785ce313bdce7cfea3dbe63e549919c2d7",
       "source": "The Hacker News",
       "source_category": "General",
@@ -240,16 +290,6 @@
       "summary": "Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution. The security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA). They affect popular",
       "published": "2025-12-06 15:24:00",
       "timestamp": 1765034640
-    },
-    {
-      "id": "bf4c661a42896738469179a236640161a9c6b338",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New wave of VPN login attempts targets Palo Alto GlobalProtect portals",
-      "link": "https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/",
-      "summary": "A campaign has been observed targeting Palo Alto GlobalProtect portals with login attempts and launching scanning activity against SonicWall SonicOS API endpoints. [...]",
-      "published": "2025-12-06 15:18:19",
-      "timestamp": 1765034299
     },
     {
       "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
@@ -762,16 +802,6 @@
       "timestamp": 1764331200
     },
     {
-      "id": "c16ad68b0d39c9f8a98ff19cf0e1ae62d81f6ca1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Why Organizations Are Turning to RPAM",
-      "link": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
-      "summary": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising",
-      "published": "2025-11-28 11:09:00",
-      "timestamp": 1764328140
-    },
-    {
       "id": "269c0676d062e76dac972993c0ad366fdd54a57d",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1132,22 +1162,22 @@
       "timestamp": 1762264800
     },
     {
-      "id": "74a214c8f986ac7b8a91c9066051161b1ced04c9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Five Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-releases-five-industrial-control-systems-advisories",
-      "summary": "CISA released five Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-308-01 Fuji Electric Monitouch V-SFT-6 ICSA-25-308-02 Survision License Plate Recognition Camera ICSA-25-308-03 Delta Electronics CNCSoft-G2 ICSA-25-308-04 Radiometrics VizAir ICSA-25-308-05 IDIS ICM Viewer CISA encourages users and administrators to review newly released ICS Advisories for technical deta",
-      "published": "2025-11-04 12:00:00",
-      "timestamp": 1762257600
-    },
-    {
       "id": "261d6b4e305b6719eb03f6627b37c21e63bfbc18",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-11371 Gladinet CentreStack and Triofox Files or Directories Accessible to External Parties Vulnerability CVE-2025-48703 CWP Control Web Panel OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-",
+      "published": "2025-11-04 12:00:00",
+      "timestamp": 1762257600
+    },
+    {
+      "id": "74a214c8f986ac7b8a91c9066051161b1ced04c9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Five Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/04/cisa-releases-five-industrial-control-systems-advisories",
+      "summary": "CISA released five Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-308-01 Fuji Electric Monitouch V-SFT-6 ICSA-25-308-02 Survision License Plate Recognition Camera ICSA-25-308-03 Delta Electronics CNCSoft-G2 ICSA-25-308-04 Radiometrics VizAir ICSA-25-308-05 IDIS ICM Viewer CISA encourages users and administrators to review newly released ICS Advisories for technical deta",
       "published": "2025-11-04 12:00:00",
       "timestamp": 1762257600
     },
@@ -1162,16 +1192,6 @@
       "timestamp": 1762193340
     },
     {
-      "id": "2b1d744effdc5dc317e45d4b8edc73360a5e6c23",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "New Guidance Released on Microsoft Exchange Server Security Best Practices",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/new-guidance-released-microsoft-exchange-server-security-best-practices",
-      "summary": "Today, CISA, in partnership with the National Security Agency and international cybersecurity partners, released Microsoft Exchange Server Security Best Practices, a guide to help network defenders harden on-premises Exchange servers against exploitation by malicious actors. Threat activity targeting Exchange continues to persist, and organizations with unprotected or misconfigured Exchange servers remain at high risk of compromise. Best practices in this guide focus on hardening user authentica",
-      "published": "2025-10-30 12:00:00",
-      "timestamp": 1761825600
-    },
-    {
       "id": "d92448b3888e1a2c5055844018d23b11193d84d6",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1182,12 +1202,12 @@
       "timestamp": 1761825600
     },
     {
-      "id": "d42f66e03d97c8df8e4c02289025c0bcc816243f",
+      "id": "2b1d744effdc5dc317e45d4b8edc73360a5e6c23",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-24893 XWiki Platform Eval Injection Vulnerability CVE-2025-41244 Broadcom VMware Aria Operations and VMware Tools Privilege Defined with Unsafe Actions Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducin",
+      "title": "New Guidance Released on Microsoft Exchange Server Security Best Practices",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/new-guidance-released-microsoft-exchange-server-security-best-practices",
+      "summary": "Today, CISA, in partnership with the National Security Agency and international cybersecurity partners, released Microsoft Exchange Server Security Best Practices, a guide to help network defenders harden on-premises Exchange servers against exploitation by malicious actors. Threat activity targeting Exchange continues to persist, and organizations with unprotected or misconfigured Exchange servers remain at high risk of compromise. Best practices in this guide focus on hardening user authentica",
       "published": "2025-10-30 12:00:00",
       "timestamp": 1761825600
     },
