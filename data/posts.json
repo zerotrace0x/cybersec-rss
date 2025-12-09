@@ -1,6 +1,66 @@
 {
-  "generated_at": 1765303939,
+  "generated_at": 1765314489,
   "items": [
+    {
+      "id": "ea9fe9a807bfd3d9c36cfab349fa8bf67ad6b00f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
+      "summary": "Microsoft says Windows PowerShell now warns when running scripts that use the Invoke-WebRequest cmdlet to download web content, aiming to prevent potentially risky code from executing. [...]",
+      "published": "2025-12-09 20:45:20",
+      "timestamp": 1765313120
+    },
+    {
+      "id": "4a1a445e48e88621ed0e74b0bc2c8182b6f64545",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft releases Windows 10 KB5071546 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
+      "summary": "Microsoft has released the KB5071546 extended security update to resolve 57 security vulnerabilities, including three zero-day flaws. [...]",
+      "published": "2025-12-09 19:54:26",
+      "timestamp": 1765310066
+    },
+    {
+      "id": "43b43ea8184002b6d4e32efd10edab265fc9af57",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
+      "summary": "Microsoft's December 2025 Patch Tuesday fixes 57 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "2025-12-09 18:38:00",
+      "timestamp": 1765305480
+    },
+    {
+      "id": "35b5b4588c4f7821602e2dac063147e4d347098f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/",
+      "summary": "Fortinet has released security updates to address two critical vulnerabilities in FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager that could allow attackers to bypass FortiCloud SSO authentication. [...]",
+      "published": "2025-12-09 18:36:48",
+      "timestamp": 1765305408
+    },
+    {
+      "id": "515922519503f5145f161bdfac6999fc1af925c6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 KB5072033 & KB5071417 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5072033 and KB5071417 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "2025-12-09 18:31:38",
+      "timestamp": 1765305098
+    },
+    {
+      "id": "114833f72dde5fc947509d7feeb89f6130fec75f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
+      "link": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
+      "summary": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT. \"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
+      "published": "2025-12-09 18:25:00",
+      "timestamp": 1765304700
+    },
     {
       "id": "677c4296e35f2eb868d00a3616cc5e878fac064f",
       "source": "BleepingComputer",
@@ -20,6 +80,16 @@
       "summary": "Poor IT hygiene, such as unused accounts, outdated software, and risky extensions, creates hidden exposure in your infrastructure. Wazuh, the open-source XDR and SIEM, shows how continuous inventory monitoring across endpoints helps teams spot drift and tighten security. [...]",
       "published": "2025-12-09 17:09:33",
       "timestamp": 1765300173
+    },
+    {
+      "id": "0ec3ab60a2fbe118cff900cb55b3f7a6d31842c4",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Changing the physics of cyber defense",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/",
+      "summary": "Cyber defense is evolving. Find out how graph-powered strategies and AI can help organizations detect threats faster and improve security hygiene. The post Changing the physics of cyber defense appeared first on Microsoft Security Blog.",
+      "published": "2025-12-09 17:00:00",
+      "timestamp": 1765299600
     },
     {
       "id": "6a96615f6c762e14e4a58698ceb1d6ee1734385e",
@@ -78,6 +148,16 @@
       "title": "CISA Releases Three Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/09/cisa-releases-three-industrial-control-systems-advisories",
       "summary": "CISA released three Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-343-01 Universal Boot Loader (U-Boot) ICSA-25-343-02 Festo LX Appliance ICSA-25-343-03 Multiple India-Based CCTV Cameras CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
+      "published": "2025-12-09 12:00:00",
+      "timestamp": 1765281600
+    },
+    {
+      "id": "3f643fd492995f24ad42ed08b7f3253bac871177",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/09/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-6218 RARLAB WinRAR Path Traversal Vulnerability CVE-2025-62221 Microsoft Windows Use After Free Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilitie",
       "published": "2025-12-09 12:00:00",
       "timestamp": 1765281600
     },
@@ -152,36 +232,6 @@
       "timestamp": 1765233019
     },
     {
-      "id": "bc59e6836aca2073e5ed90d93e87af04d4924215",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
-      "link": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
-      "summary": "A new report by the Financial Crimes Enforcement Network (FinCEN) shows that ransomware activity peaked in 2023 before falling in 2024, following a series of law enforcement actions targeting the ALPHV/BlackCat and LockBit ransomware gangs. [...]",
-      "published": "2025-12-08 21:07:30",
-      "timestamp": 1765228050
-    },
-    {
-      "id": "75beaa9d762cb0e32869059fb3f64456ec5be3b5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment",
-      "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/",
-      "summary": "The police in Poland arrested three Ukrainian nationals for allegedly attempting to damage IT systems in the country using hacking equipment and for obtaining \"computer data of particular importance to national defense.\" [...]",
-      "published": "2025-12-08 18:31:13",
-      "timestamp": 1765218673
-    },
-    {
-      "id": "b1b56d70196ec1e2fe867bf44f5c84d180db2d25",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google Chrome adds new security layer for Gemini AI agentic browsing",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/",
-      "summary": "Google Chrome is introducing a new security architecture designed to protect upcoming agentic AI browsing features powered by Gemini. [...]",
-      "published": "2025-12-08 18:08:52",
-      "timestamp": 1765217332
-    },
-    {
       "id": "844fb5182bd27f82e6393a275f1a435cfced6925",
       "source": "The Hacker News",
       "source_category": "General",
@@ -200,16 +250,6 @@
       "summary": "To bolster security for our customers, we need to align with our ecosystem partners. Our new collaboration with Beazley as an incident response partner is a step in that direction. The post Stronger together: New Beazley collaboration enhances cyber resilience appeared first on Microsoft Security Blog.",
       "published": "2025-12-08 17:00:00",
       "timestamp": 1765213200
-    },
-    {
-      "id": "42aca2fee3f5ef060bdf90e02cd807b0eab101a3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies",
-      "link": "https://www.bleepingcomputer.com/news/security/how-agentic-bas-ai-turns-threat-headlines-into-defense-strategies/",
-      "summary": "Picus Security explains why relying on LLM-generated attack scripts is risky and how an agentic approach maps real threat intel to safe, validated TTPs. Their breakdown shows how teams can turn headline threats into reliable defense checks without unsafe automation. [...]",
-      "published": "2025-12-08 15:02:12",
-      "timestamp": 1765206132
     },
     {
       "id": "0bec0a2ca5265758c8487c3720540670d36cc533",
@@ -270,16 +310,6 @@
       "summary": "The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes. The cyber espionage activity targeted users in Turkey, Israel, and Azerbaijan, according to a report from Fortinet FortiGuard Labs. \"This malware enables remote control of compromised systems by allowing",
       "published": "2025-12-08 06:46:00",
       "timestamp": 1765176360
-    },
-    {
-      "id": "d6f7d26ed323a2c6a4b3d67bcd00ce110088c0ed",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI denies rolling out ads on ChatGPT paid plans",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/",
-      "summary": "ChatGPT is allegedly showing ads to those who pay $20 for the Plus subscription, but OpenAI says this is an app recommendation feature, not an ad. [...]",
-      "published": "2025-12-07 20:51:08",
-      "timestamp": 1765140668
     },
     {
       "id": "a03173785ce313bdce7cfea3dbe63e549919c2d7",
@@ -782,16 +812,6 @@
       "timestamp": 1764347220
     },
     {
-      "id": "4f6ffb0ecb1d779e67239e5ad7af0e41640f4b99",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
-      "link": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month. According to Socket, these packages have been downloaded over 31,000 times, and are designed to deliver a variant of OtterCookie that brings together the features of BeaverTail and prior versions of OtterCookie. Some of the",
-      "published": "2025-11-28 16:18:00",
-      "timestamp": 1764346680
-    },
-    {
       "id": "9dc8bb74ff0d84357ff4aff59ba6f33a3ab21c9c",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -912,22 +932,22 @@
       "timestamp": 1763561223
     },
     {
-      "id": "c5afd16f3108fd7c0cd35616350b000712465a79",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Guide to Mitigate Risks from Bulletproof Hosting Providers",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/19/cisa-releases-guide-mitigate-risks-bulletproof-hosting-providers",
-      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the U.S. National Security Agency, U.S. Department of Defense Cyber Crime Center, U.S. Federal Bureau of Investigation, and international partners, released the guide Bulletproof Defense: Mitigating Risks from Bulletproof Hosting Providers to help Internet Service Providers (ISPs) and network defenders mitigate cybercriminal activity enabled by Bulletproof Hosting (BPH) providers. A BPH provider is an internet ",
-      "published": "2025-11-19 12:00:00",
-      "timestamp": 1763553600
-    },
-    {
       "id": "92417f3232f28b90abf264e6e15ade2103b3cd4f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/19/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-13223 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Commo",
+      "published": "2025-11-19 12:00:00",
+      "timestamp": 1763553600
+    },
+    {
+      "id": "c5afd16f3108fd7c0cd35616350b000712465a79",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Guide to Mitigate Risks from Bulletproof Hosting Providers",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/19/cisa-releases-guide-mitigate-risks-bulletproof-hosting-providers",
+      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the U.S. National Security Agency, U.S. Department of Defense Cyber Crime Center, U.S. Federal Bureau of Investigation, and international partners, released the guide Bulletproof Defense: Mitigating Risks from Bulletproof Hosting Providers to help Internet Service Providers (ISPs) and network defenders mitigate cybercriminal activity enabled by Bulletproof Hosting (BPH) providers. A BPH provider is an internet ",
       "published": "2025-11-19 12:00:00",
       "timestamp": 1763553600
     },
@@ -952,16 +972,6 @@
       "timestamp": 1763481600
     },
     {
-      "id": "8f51123dc875c820af33b8062997924c1575d89e",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-58034 Fortinet FortiWeb OS Command Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. With recent and ongoing exploitation events Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products, a redu",
-      "published": "2025-11-18 12:00:00",
-      "timestamp": 1763467200
-    },
-    {
       "id": "19b378c256022efa05702ad3efdc39758f901a72",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -972,7 +982,17 @@
       "timestamp": 1763467200
     },
     {
-      "id": "7190c1330ed2c1d40556d60c5f0e766ff3ceb3f2",
+      "id": "8f51123dc875c820af33b8062997924c1575d89e",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-58034 Fortinet FortiWeb OS Command Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. With recent and ongoing exploitation events Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products, a redu",
+      "published": "2025-11-18 12:00:00",
+      "timestamp": 1763467200
+    },
+    {
+      "id": "e1a7c8a7f756799cb20c53df10212c2c2bc5164a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Collaborative research by Microsoft and NVIDIA on real-time immunity",
@@ -1002,22 +1022,22 @@
       "timestamp": 1763329634
     },
     {
-      "id": "0703caa063de82307a6bf3382368c596db50c2c8",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-64446 Fortinet FortiWeb Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
-      "published": "2025-11-14 12:00:00",
-      "timestamp": 1763121600
-    },
-    {
       "id": "c5e74f0757c375f658311e91ea3af0d3769c0705",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Fortinet Releases Security Advisory for Relative Path Traversal Vulnerability Affecting FortiWeb Products",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/fortinet-releases-security-advisory-relative-path-traversal-vulnerability-affecting-fortiweb",
       "summary": "CISA has updated this Alert to include an additional vulnerability, CVE-2025-58034, and its relation to CVE-2025-64446, and associated resources. CISA is aware of the exploitation of two vulnerabilities, CVE-2025-64446 and CVE-2025-58034, in Fortinet FortiWeb, a web application firewall. CISA is also aware that threat actors could exploit CVE-2025-64446 as an initial access vector and then chain CVE-2025-58034 to escalate privileges on a target system. These vulnerabilities chained together coul",
+      "published": "2025-11-14 12:00:00",
+      "timestamp": 1763121600
+    },
+    {
+      "id": "0703caa063de82307a6bf3382368c596db50c2c8",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/14/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-64446 Fortinet FortiWeb Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common",
       "published": "2025-11-14 12:00:00",
       "timestamp": 1763121600
     },
@@ -1042,22 +1062,22 @@
       "timestamp": 1763042400
     },
     {
-      "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
-      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
-      "published": "2025-11-13 12:00:00",
-      "timestamp": 1763035200
-    },
-    {
       "id": "fa52de059959b204e08e14e269b4443153faa6e0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases 18 Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-releases-18-industrial-control-systems-advisories",
       "summary": "CISA released 18 Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-317-01 Mitsubishi Electric MELSEC iQ-F Series ICSA-25-317-02 AVEVA Application Server IDE ICSA-25-317-03 AVEVA Edge ICSA-25-317-04 Brightpick Mission Control / Internal Logic Control ICSA-25-317-05 Rockwell Automation Verve Asset Manager ICSA-25-317-06 Rockwell Automation Studio 5000 Simulation Interface IC",
+      "published": "2025-11-13 12:00:00",
+      "timestamp": 1763035200
+    },
+    {
+      "id": "b8ec5d46b4183ae04b1ac4e776aedb5527c1870b",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and Partners Release Advisory Update on Akira Ransomware",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/13/cisa-and-partners-release-advisory-update-akira-ransomware",
+      "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Federal Bureau of Investigation, Department of Defense Cyber Crime Center, Department of Health and Human Services, and international partners, released an updated joint Cybersecurity Advisory, #StopRansomware: Akira Ransomware, to provide network defenders with the latest indicators of compromise, tactics, techniques, and procedures, and detection methods associated with Akira ransomware activity. This adv",
       "published": "2025-11-13 12:00:00",
       "timestamp": 1763035200
     },
@@ -1080,16 +1100,6 @@
       "summary": "CISA has released Emergency Cisco Directive 25-03 Implementation Guidance to assist federal agencies in addressing critical vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. Emergency Directive 25-03: Identify and Mitigate Potential Compromise of Cisco Devices, issued on Sept. 25, identified known vulnerabilities CVE-2025-20333 and CVE-2025-20362, and mandated immediate action to mitigate risks. Threat actors continue to target these devices, posing significant r",
       "published": "2025-11-12 12:00:00",
       "timestamp": 1762948800
-    },
-    {
-      "id": "ecc666f3640a437737b61717865df0dc21647ad7",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200bSecuring our future: November 2025 progress report on Microsoft\u2019s Secure Future Initiative \u200b\u200b",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/",
-      "summary": "When we launched the Secure Future Initiative, our mission was clear: accelerate innovation, strengthen resilience, and lead the industry toward a safer digital future. Today, we\u2019re sharing our latest progress report that reflects steady progress in every area and engineering pillar, underscoring our commitment to security above all else. The post \u200b\u200bSecuring our future: November 2025 progress report on Microsoft\u2019s Secure Future Initiative \u200b\u200b appeared first on Microsoft Security Blog.",
-      "published": "2025-11-10 17:00:00",
-      "timestamp": 1762794000
     },
     {
       "id": "a4228dffa066bb43a7e720d2eb758063303344a7",
@@ -1190,16 +1200,6 @@
       "summary": "Posted by Seth Jenkins, Project ZeroIntroductionI've recently been researching Pixel kernel exploitation and as part of this research I found myself with an excellent arbitrary write primitive\u2026but without a KASLR leak. As necessity is the mother of all invention, on a hunch, I started researching the Linux kernel linear mapping.The Linux Linear MappingThe linear mapping is a region in the kernel virtual address space that is a direct 1:1 unstructured representation of physical memory. Working wi",
       "published": "2025-11-03 18:09:00",
       "timestamp": 1762193340
-    },
-    {
-      "id": "d92448b3888e1a2c5055844018d23b11193d84d6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Two Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/cisa-releases-two-industrial-control-systems-advisories",
-      "summary": "CISA released two Industrial Control Systems (ICS). These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-303-01 International Standards Organization ISO 15118-2 ICSA-25-303-02 Hitachi Energy TropOS CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
-      "published": "2025-10-30 12:00:00",
-      "timestamp": 1761825600
     },
     {
       "id": "2b1d744effdc5dc317e45d4b8edc73360a5e6c23",
