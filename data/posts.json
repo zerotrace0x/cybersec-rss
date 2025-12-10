@@ -1,6 +1,16 @@
 {
-  "generated_at": 1765338546,
+  "generated_at": 1765347357,
   "items": [
+    {
+      "id": "6bc15092ed076333002b96362188aa6a169c1abd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
+      "link": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
+      "summary": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution. The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and",
+      "published": "2025-12-10 04:50:00",
+      "timestamp": 1765342200
+    },
     {
       "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
       "source": "Krebs on Security",
@@ -830,16 +840,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation. The vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
       "published": "2025-11-30 09:23:00",
       "timestamp": 1764494580
-    },
-    {
-      "id": "cc90ac7cd772beb86f61bde0ad0b7c6867867233",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
-      "link": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
-      "summary": "Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack. Software supply chain security company ReversingLabs said it found the \"vulnerability\" in bootstrap files provided by a build and deployment automation tool named \"zc.buildout.\" \"The",
-      "published": "2025-11-28 16:27:00",
-      "timestamp": 1764347220
     },
     {
       "id": "9dc8bb74ff0d84357ff4aff59ba6f33a3ab21c9c",
