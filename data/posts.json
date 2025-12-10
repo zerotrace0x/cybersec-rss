@@ -1,6 +1,56 @@
 {
-  "generated_at": 1765390515,
+  "generated_at": 1765401026,
   "items": [
+    {
+      "id": "2359d6b29441faeed114c7db5f9db92c871a3eb3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
+      "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
+      "summary": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress. This includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
+      "published": "2025-12-10 20:19:00",
+      "timestamp": 1765397940
+    },
+    {
+      "id": "a55cede7779529c6977639bd6c38d97b4391a482",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Teams to warn of suspicious traffic with external domains",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/",
+      "summary": "Microsoft is working on a new Teams security feature that will analyze suspicious traffic with external domains to help IT administrators tackle potential security threats. [...]",
+      "published": "2025-12-10 19:32:08",
+      "timestamp": 1765395128
+    },
+    {
+      "id": "6d07de56c7058068a794b155bc02c5815beadef3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+      "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+      "summary": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution. WatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
+      "published": "2025-12-10 19:21:00",
+      "timestamp": 1765394460
+    },
+    {
+      "id": "3c995f87bcf7f9f9a6ce56bd2456cfed3669ffc2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 10,000 Docker Hub images found leaking credentials, auth keys",
+      "link": "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/",
+      "summary": "More than 10,000 Docker Hub container images expose data that should be protected, including live credentials to production systems, CI/CD databases, or LLM model keys. [...]",
+      "published": "2025-12-10 18:22:25",
+      "timestamp": 1765390945
+    },
+    {
+      "id": "8597f52e7c2025bf7b508ff83a983b86f9a89d30",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "From awareness to action: Building a security-first culture for the agentic AI era",
+      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/",
+      "summary": "The insights gained from Cybersecurity Awareness Month, right through to Microsoft Ignite 2025, demonstrate that security remains a top priority for business leaders. The post From awareness to action: Building a security-first culture for the agentic AI era appeared first on Microsoft Security Blog.",
+      "published": "2025-12-10 18:00:00",
+      "timestamp": 1765389600
+    },
     {
       "id": "47d5e1e74b6fe0c21d630f6f8f68425be05d5ec8",
       "source": "Microsoft Security Blog",
@@ -192,16 +242,6 @@
       "timestamp": 1765300225
     },
     {
-      "id": "9a1bcfcac983dee7775cf11f1b93988575bb73c3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR",
-      "link": "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/",
-      "summary": "Poor IT hygiene, such as unused accounts, outdated software, and risky extensions, creates hidden exposure in your infrastructure. Wazuh, the open-source XDR and SIEM, shows how continuous inventory monitoring across endpoints helps teams spot drift and tighten security. [...]",
-      "published": "2025-12-09 17:09:33",
-      "timestamp": 1765300173
-    },
-    {
       "id": "0ec3ab60a2fbe118cff900cb55b3f7a6d31842c4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -212,16 +252,6 @@
       "timestamp": 1765299600
     },
     {
-      "id": "6a96615f6c762e14e4a58698ceb1d6ee1734385e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Spain arrests teen who stole 64 million personal data records",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/",
-      "summary": "The National Police in Spain have arrested a suspected 19-year-old hacker in Barcelona, for allegedly stealing and attempting to sell 64 million records obtained from breaches at nine companies. [...]",
-      "published": "2025-12-09 16:57:06",
-      "timestamp": 1765299426
-    },
-    {
       "id": "c660c68f14430c646ece40e3dca6e84ea8451db9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +260,6 @@
       "summary": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model. The threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150. The",
       "published": "2025-12-09 16:01:00",
       "timestamp": 1765296060
-    },
-    {
-      "id": "e2fdfd43f7c4de26218e0f85c083e0b4b457d9ad",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
-      "summary": "A new malware implant called EtherRAT, deployed in a recent React2Shell attack, runs five separate Linux persistence mechanisms and leverages Ethereum smart contracts for communication with the attacker. [...]",
-      "published": "2025-12-09 15:43:05",
-      "timestamp": 1765294985
     },
     {
       "id": "e9e225333763bb834984aca0342a22f840ffc3bb",
@@ -832,26 +852,6 @@
       "timestamp": 1764611700
     },
     {
-      "id": "f799650d804af162fff84cec9902b2ce13bb813a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
-      "link": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
-      "summary": "A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time. Five of these extensions started off as legitimate programs before malicious changes were introduced in mid-2024, according to a report from Koi Security, attracting 300,000 installs. These extensions have since been taken down. \"These",
-      "published": "2025-12-01 17:29:00",
-      "timestamp": 1764610140
-    },
-    {
-      "id": "133d5a0611be1c16c13a463fee7616992b04d1d6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
-      "link": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
-      "summary": "Hackers aren\u2019t kicking down the door anymore. They just use the same tools we use every day \u2014 code packages, cloud accounts, email, chat, phones, and \u201ctrusted\u201d partners \u2014 and turn them against us. One bad download can leak your keys. One weak vendor can expose many customers at once. One guest invite, one link on a phone, one bug in a common tool, and suddenly your mail, chats, repos, and",
-      "published": "2025-12-01 12:47:00",
-      "timestamp": 1764593220
-    },
-    {
       "id": "9dc8bb74ff0d84357ff4aff59ba6f33a3ab21c9c",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -990,16 +990,6 @@
       "summary": "Today, Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the U.S. National Security Agency, U.S. Department of Defense Cyber Crime Center, U.S. Federal Bureau of Investigation, and international partners, released the guide Bulletproof Defense: Mitigating Risks from Bulletproof Hosting Providers to help Internet Service Providers (ISPs) and network defenders mitigate cybercriminal activity enabled by Bulletproof Hosting (BPH) providers. A BPH provider is an internet ",
       "published": "2025-11-19 12:00:00",
       "timestamp": 1763553600
-    },
-    {
-      "id": "903817f80179966ab7c7caba37bb02cc1f70070d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Agents built into your workflow: Get Security Copilot with Microsoft 365 E5",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/11/18/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/",
-      "summary": "At Microsoft Ignite 2025, we are not just announcing new features\u2014we are redefining what\u2019s possible, empowering security teams to shift from reactive responses to proactive strategies. The post Agents built into your workflow: Get Security Copilot with Microsoft 365 E5 appeared first on Microsoft Security Blog.",
-      "published": "2025-11-18 16:00:00",
-      "timestamp": 1763481600
     },
     {
       "id": "19b378c256022efa05702ad3efdc39758f901a72",
