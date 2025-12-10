@@ -1,6 +1,36 @@
 {
-  "generated_at": 1765314489,
+  "generated_at": 1765327579,
   "items": [
+    {
+      "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+      "published": "2025-12-09 23:18:29",
+      "timestamp": 1765322309
+    },
+    {
+      "id": "5a215be7468f2cc0f1de484fa9f5c89f44340152",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SAP fixes three critical vulnerabilities across multiple products",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/",
+      "summary": "SAP has released its December security updates addressing 14 vulnerabilities across a range of products, including three critical-severity flaws. [...]",
+      "published": "2025-12-09 22:41:26",
+      "timestamp": 1765320086
+    },
+    {
+      "id": "f1f395d4348bdd72989be5d39c906ecdb8a17d41",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/",
+      "summary": "The Shai\u2011Hulud 2.0 supply chain attack represents one of the most significant cloud-native ecosystem compromises observed recently. Attackers maliciously modified hundreds of publicly available packages, targeting developer environments, continuous integration and continuous delivery (CI/CD) pipelines, and cloud-connected workloads to harvest credentials and configuration secrets. The Shai\u2011Hulud 2. The post Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply c",
+      "published": "2025-12-09 21:41:32",
+      "timestamp": 1765316492
+    },
     {
       "id": "ea9fe9a807bfd3d9c36cfab349fa8bf67ad6b00f",
       "source": "BleepingComputer",
@@ -152,6 +182,16 @@
       "timestamp": 1765281600
     },
     {
+      "id": "d588e540f657df4afbf0288e46e4290f0c8b52d9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Opportunistic Pro-Russia Hacktivists Attack US and Global Critical Infrastructure",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/09/opportunistic-pro-russia-hacktivists-attack-us-and-global-critical-infrastructure",
+      "summary": "CISA, in partnership with Federal Bureau of Investigation, the National Security Agency, Department of Energy, Environmental Protection Agency, the Department of Defense Cyber Crime Center, and other international partners published a joint cybersecurity advisory, Pro-Russia Hacktivists Create Opportunistic Attacks Against US and Global Critical Infrastructure. This advisory, published as an addition to the joint fact sheet on Primary Mitigations to Reduce Cyber Threats to Operational Technology",
+      "published": "2025-12-09 12:00:00",
+      "timestamp": 1765281600
+    },
+    {
       "id": "3f643fd492995f24ad42ed08b7f3253bac871177",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -220,16 +260,6 @@
       "summary": "Several ransomware groups have been spotted using a packer-as-a-service (PaaS) platform named Shanya to assist in EDR (endpoint detection and response) killing operations. [...]",
       "published": "2025-12-09 00:00:05",
       "timestamp": 1765238405
-    },
-    {
-      "id": "edccb57904648720ab942114f6b9884bb5ff4a24",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
-      "summary": "Two malicious extensions on Microsoft's Visual Studio Code Marketplace infect developers' machines with information-stealing malware that can take screenshots, steal credentials, and hijack browser sessions. [...]",
-      "published": "2025-12-08 22:30:19",
-      "timestamp": 1765233019
     },
     {
       "id": "844fb5182bd27f82e6393a275f1a435cfced6925",
@@ -387,7 +417,7 @@
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-55182 Meta React Server Components Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living li",
+      "summary": "Updated December 9, 2025: Check for signs of potential compromise on all internet accessible REACT instances after applying mitigations. For more information, see React Blog: Critical Security Vulnerability in React Server Components. CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-55182 Meta React Server Components Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vect",
       "published": "2025-12-05 12:00:00",
       "timestamp": 1764936000
     },
@@ -992,16 +1022,6 @@
       "timestamp": 1763467200
     },
     {
-      "id": "e1a7c8a7f756799cb20c53df10212c2c2bc5164a",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Collaborative research by Microsoft and NVIDIA on real-time immunity",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/4470164",
-      "summary": "Read about Microsoft and NVIDIA joint research on real-time immunity. The post Collaborative research by Microsoft and NVIDIA on real-time immunity appeared first on Microsoft Security Blog.",
-      "published": "2025-11-17 17:03:54",
-      "timestamp": 1763399034
-    },
-    {
       "id": "5f632a8579ef76a227d990a8efd865bf8c65f763",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1082,22 +1102,22 @@
       "timestamp": 1763035200
     },
     {
-      "id": "019e20dc583593874428db09d7fc559f02ae2dab",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability CVE-2025-62215 Microsoft Windows Race Condition Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Dire",
-      "published": "2025-11-12 12:00:00",
-      "timestamp": 1762948800
-    },
-    {
       "id": "19cdbb338a7f87d3781a2e451931cc3b7a960e12",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Update: Implementation Guidance for Emergency Directive on Cisco ASA and Firepower Device Vulnerabilities",
       "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/update-implementation-guidance-emergency-directive-cisco-asa-and-firepower-device-vulnerabilities",
       "summary": "CISA has released Emergency Cisco Directive 25-03 Implementation Guidance to assist federal agencies in addressing critical vulnerabilities in Cisco Adaptive Security Appliances (ASA) and Firepower devices. Emergency Directive 25-03: Identify and Mitigate Potential Compromise of Cisco Devices, issued on Sept. 25, identified known vulnerabilities CVE-2025-20333 and CVE-2025-20362, and mandated immediate action to mitigate risks. Threat actors continue to target these devices, posing significant r",
+      "published": "2025-11-12 12:00:00",
+      "timestamp": 1762948800
+    },
+    {
+      "id": "019e20dc583593874428db09d7fc559f02ae2dab",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/11/12/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-9242 WatchGuard Firebox Out-of-Bounds Write Vulnerability CVE-2025-12480 Gladinet Triofox Improper Access Control Vulnerability CVE-2025-62215 Microsoft Windows Race Condition Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Dire",
       "published": "2025-11-12 12:00:00",
       "timestamp": 1762948800
     },
@@ -1140,16 +1160,6 @@
       "summary": "CISA released four Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-310-01 Advantech DeviceOn iEdge ICSA-25-310-02 Ubia Ubox ICSA-25-310-03 ABB FLXeon Controllers ICSA-25-282-01 Hitachi Energy Asset Suite (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
       "published": "2025-11-06 12:00:00",
       "timestamp": 1762430400
-    },
-    {
-      "id": "8160d93f73d730d77785ca0dab2555b7c2c4434e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru's overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company's domain name system (DNS) service.",
-      "published": "2025-11-06 02:04:36",
-      "timestamp": 1762394676
     },
     {
       "id": "b94080fc64fa47b8af55092e7b94f253cc38c273",
@@ -1200,16 +1210,6 @@
       "summary": "Posted by Seth Jenkins, Project ZeroIntroductionI've recently been researching Pixel kernel exploitation and as part of this research I found myself with an excellent arbitrary write primitive\u2026but without a KASLR leak. As necessity is the mother of all invention, on a hunch, I started researching the Linux kernel linear mapping.The Linux Linear MappingThe linear mapping is a region in the kernel virtual address space that is a direct 1:1 unstructured representation of physical memory. Working wi",
       "published": "2025-11-03 18:09:00",
       "timestamp": 1762193340
-    },
-    {
-      "id": "2b1d744effdc5dc317e45d4b8edc73360a5e6c23",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "New Guidance Released on Microsoft Exchange Server Security Best Practices",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/10/30/new-guidance-released-microsoft-exchange-server-security-best-practices",
-      "summary": "Today, CISA, in partnership with the National Security Agency and international cybersecurity partners, released Microsoft Exchange Server Security Best Practices, a guide to help network defenders harden on-premises Exchange servers against exploitation by malicious actors. Threat activity targeting Exchange continues to persist, and organizations with unprotected or misconfigured Exchange servers remain at high risk of compromise. Best practices in this guide focus on hardening user authentica",
-      "published": "2025-10-30 12:00:00",
-      "timestamp": 1761825600
     },
     {
       "id": "3b5c1437de071087c7b7f1a0639a8af1e36ef010",
