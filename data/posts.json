@@ -1,6 +1,36 @@
 {
-  "generated_at": 1765465872,
+  "generated_at": 1765476782,
   "items": [
+    {
+      "id": "bbd9995a0cdd3f77f3ee36b53333a3a18d15deea",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/",
+      "summary": "The UK Information Commissioner's Office (ICO) fined the LastPass password management firm \u00a31.2 million for failing to implement security measures that allowed an attacker to steal personal information and encrypted password vaults belonging to up to 1.6 million UK users in a 2022 breach. [...]",
+      "published": "2025-12-11 17:09:00",
+      "timestamp": 1765472940
+    },
+    {
+      "id": "a1db7c9c3cf0922a8d6b21cf723c0bede3a851b5",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Imposter for hire: How fake people can gain very real access",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/",
+      "summary": "Fake employees are an emerging cybersecurity threat. Learn how they infiltrate organizations and what steps you can take to protect your business. The post Imposter for hire: How fake people can gain very real access appeared first on Microsoft Security Blog.",
+      "published": "2025-12-11 17:00:00",
+      "timestamp": 1765472400
+    },
+    {
+      "id": "36e436e8e26015c2bf442b92291c0044160edc5e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft bounty program now includes any flaw impacting its services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/",
+      "summary": "Microsoft now pays security researchers for finding critical vulnerabilities in any of its online services, regardless of whether the code was written by Microsoft or a third party. [...]",
+      "published": "2025-12-11 16:00:46",
+      "timestamp": 1765468846
+    },
     {
       "id": "082634fc4e710612caa98f170e46b9ec7d1c103d",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications. [...]",
       "published": "2025-12-11 15:10:49",
       "timestamp": 1765465849
+    },
+    {
+      "id": "95f2dd46a49809dadd8970f0e9bea19e97310c8e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AI is accelerating cyberattacks. Is your network prepared?",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
+      "summary": "AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses. Corelight explains how network detection and response (NDR) provides the visibility and behavioral insights SOC teams need to spot and stop these fast-moving threats. [...]",
+      "published": "2025-12-11 15:05:15",
+      "timestamp": 1765465515
     },
     {
       "id": "4e9cbfa4a48267c9e6c04f55fe815e4536b12d5f",
@@ -57,7 +97,7 @@
       "source_category": "General",
       "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
       "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
-      "summary": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020. Palo Alto Networks is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its sights",
+      "summary": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020. Palo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its",
       "published": "2025-12-11 11:00:00",
       "timestamp": 1765450800
     },
@@ -222,16 +262,6 @@
       "timestamp": 1765373520
     },
     {
-      "id": "19a403bcad0073fc86790f11a7c4b5dfb7fb8093",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
-      "summary": "U.S. prosecutors have charged a Ukrainian national for her role in cyberattacks targeting critical infrastructure worldwide, including U.S. water systems, election systems, and nuclear facilities, on behalf of Russian state-backed hacktivist groups. [...]",
-      "published": "2025-12-10 12:26:32",
-      "timestamp": 1765369592
-    },
-    {
       "id": "d832d9063336c89bcc3f0e952004b245909ab1c1",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +310,6 @@
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "published": "2025-12-09 23:18:29",
       "timestamp": 1765322309
-    },
-    {
-      "id": "5a215be7468f2cc0f1de484fa9f5c89f44340152",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SAP fixes three critical vulnerabilities across multiple products",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/",
-      "summary": "SAP has released its December security updates addressing 14 vulnerabilities across a range of products, including three critical-severity flaws. [...]",
-      "published": "2025-12-09 22:41:26",
-      "timestamp": 1765320086
     },
     {
       "id": "54404777523fe82775791007c1e3d7ec77b2b048",
@@ -910,16 +930,6 @@
       "summary": "CISA is aware of multiple cyber threat actors actively leveraging commercial spyware to target users of mobile messaging applications (apps).1 These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim\u2019s messaging app, facilitating the deployment of additional malicious payloads that can further compromise the victim\u2019s mobile device. These cyber actors use tactics such as: Phishing and malicious device-linking QR c",
       "published": "2025-11-24 12:00:00",
       "timestamp": 1763985600
-    },
-    {
-      "id": "d8605c3665e3bbe12deedf5402009ebfde44151f",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft named a Leader in the Gartner\u00ae Magic Quadrant\u2122 for Access Management for the ninth consecutive year",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/11/21/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/",
-      "summary": "We\u2019re happy to share that Microsoft has been recognized as a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Access Management for the ninth consecutive year. The post Microsoft named a Leader in the Gartner\u00ae Magic Quadrant\u2122 for Access Management for the ninth consecutive year appeared first on Microsoft Security Blog.",
-      "published": "2025-11-21 17:00:00",
-      "timestamp": 1763744400
     },
     {
       "id": "db57d14c1822140923371bbd73e2fa9245234528",
