@@ -1,6 +1,36 @@
 {
-  "generated_at": 1765444492,
+  "generated_at": 1765455608,
   "items": [
+    {
+      "id": "891b933a7331fec4c641661032da1171823485fa",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
+      "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
+      "summary": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020. Palo Alto Networks is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its sights",
+      "published": "2025-12-11 11:00:00",
+      "timestamp": 1765450800
+    },
+    {
+      "id": "9b9a1b8ee151e2afe6ae127c8fe1ddd3341f7aea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
+      "link": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
+      "summary": "A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz. The flaw, tracked as CVE-2025-8110 (CVSS score: 8.7), is a case of file overwrite in the file update API of the Go-based self-hosted Git service. A fix for the issue is said to be currently in the",
+      "published": "2025-12-11 10:30:00",
+      "timestamp": 1765449000
+    },
+    {
+      "id": "55fb9faaeb6339e9bbae807def6c78065f787a38",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
+      "summary": "Microsoft has fixed a known issue that caused bright white flashes when launching File Explorer in dark mode on Windows 11 systems after installing the KB5070311 optional update. [...]",
+      "published": "2025-12-11 10:09:52",
+      "timestamp": 1765447792
+    },
     {
       "id": "b52d79e5f9e5dfb7e6310c4171d68e952c7e7804",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "Google has released emergency updates to fix another Chrome zero-day vulnerability exploited in the wild, marking the eighth such security flaw patched since the start of the year. [...]",
       "published": "2025-12-11 08:01:21",
       "timestamp": 1765440081
+    },
+    {
+      "id": "061456ffb3c8746f5776592840c260d94d9e6946",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
+      "link": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+      "summary": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild. The vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
+      "published": "2025-12-11 07:09:00",
+      "timestamp": 1765436940
     },
     {
       "id": "0ee4c5671e91ef003cde9aa074ff4ba8a92565fe",
@@ -142,22 +182,22 @@
       "timestamp": 1765369592
     },
     {
-      "id": "17ccfa40ebc95de150b07a8acd00b9c5465c8a4f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
-      "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
-      "summary": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code. Standard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world. Next week, the Cortex Cloud team at Palo Alto Networks",
-      "published": "2025-12-10 11:54:00",
-      "timestamp": 1765367640
-    },
-    {
       "id": "d832d9063336c89bcc3f0e952004b245909ab1c1",
       "source": "The Hacker News",
       "source_category": "General",
       "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
       "link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation",
+      "published": "2025-12-10 11:54:00",
+      "timestamp": 1765367640
+    },
+    {
+      "id": "17ccfa40ebc95de150b07a8acd00b9c5465c8a4f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
+      "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
+      "summary": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code. Standard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world. Next week, the Cortex Cloud team at Palo Alto Networks",
       "published": "2025-12-10 11:54:00",
       "timestamp": 1765367640
     },
@@ -230,16 +270,6 @@
       "summary": "Microsoft has released the KB5071546 extended security update to resolve 57 security vulnerabilities, including three zero-day flaws. [...]",
       "published": "2025-12-09 19:54:26",
       "timestamp": 1765310066
-    },
-    {
-      "id": "43b43ea8184002b6d4e32efd10edab265fc9af57",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
-      "summary": "Microsoft's December 2025 Patch Tuesday fixes 57 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "published": "2025-12-09 18:38:00",
-      "timestamp": 1765305480
     },
     {
       "id": "114833f72dde5fc947509d7feeb89f6130fec75f",
@@ -802,16 +832,6 @@
       "timestamp": 1764685020
     },
     {
-      "id": "d0742e52692abe051824da4cc0683849a4f2b65d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
-      "link": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
-      "summary": "Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertaken by Iranian nation-state actors that have delivered a previously undocumented backdoor called MuddyViper. The activity has been attributed by ESET to a hacking group known as MuddyWater (aka Mango",
-      "published": "2025-12-02 13:37:00",
-      "timestamp": 1764682620
-    },
-    {
       "id": "c48367450cec59d719f639b6efe5feb0db7df8d9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -830,26 +850,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-48572 Android Framework Privilege Escalation Vulnerability CVE-2025-48633 Android Framework Information Disclosure Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Expl",
       "published": "2025-12-02 12:00:00",
       "timestamp": 1764676800
-    },
-    {
-      "id": "00ca6ceaae4e7e7fb551eb41b8511eef2a606300",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
-      "link": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
-      "summary": "Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it (when was the last time you checked?), and keeping track of all the vulnerability alerts, notifications, and updates can be a burden on resources and often leads to missed vulnerabilities. Taking into account that nearly 10% of",
-      "published": "2025-12-02 11:30:00",
-      "timestamp": 1764675000
-    },
-    {
-      "id": "8ef088e6c6018892e5b38e19b4c92a2afc6aecaa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
-      "link": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
-      "summary": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild. The patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison. The two high-severity shortcomings",
-      "published": "2025-12-02 07:17:00",
-      "timestamp": 1764659820
     },
     {
       "id": "9dc8bb74ff0d84357ff4aff59ba6f33a3ab21c9c",
