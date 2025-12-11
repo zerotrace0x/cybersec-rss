@@ -1,6 +1,56 @@
 {
-  "generated_at": 1765455608,
+  "generated_at": 1765465872,
   "items": [
+    {
+      "id": "082634fc4e710612caa98f170e46b9ec7d1c103d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
+      "link": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
+      "summary": "A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications. [...]",
+      "published": "2025-12-11 15:10:49",
+      "timestamp": 1765465849
+    },
+    {
+      "id": "4e9cbfa4a48267c9e6c04f55fe815e4536b12d5f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories",
+      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
+      "summary": "This week\u2019s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open. The new Threatsday Bulletin",
+      "published": "2025-12-11 13:40:00",
+      "timestamp": 1765460400
+    },
+    {
+      "id": "aec5f025909e726a5e7bae4b13f7dc4bad128d1d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
+      "summary": "An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on Internet-facing instances and compromise hundreds of servers. [...]",
+      "published": "2025-12-11 13:19:50",
+      "timestamp": 1765459190
+    },
+    {
+      "id": "92473d1fb2e82d0bf3ac87f9afccb64ed0083921",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
+      "link": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes. According to a report from Elastic Security Labs, the malware shares code similarities with another implant codenamed FINALDRAFT (aka Squidoor) that employs Microsoft Graph API for C2. FINALDRAFT is attributed to a",
+      "published": "2025-12-11 13:16:00",
+      "timestamp": 1765458960
+    },
+    {
+      "id": "b5e24f6e17494601c0ae55235045a5c234398905",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+      "link": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+      "summary": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber",
+      "published": "2025-12-11 11:30:00",
+      "timestamp": 1765452600
+    },
     {
       "id": "891b933a7331fec4c641661032da1171823485fa",
       "source": "The Hacker News",
@@ -250,26 +300,6 @@
       "summary": "The Shai\u2011Hulud 2.0 supply chain attack represents one of the most significant cloud-native ecosystem compromises observed recently. Attackers maliciously modified hundreds of publicly available packages, targeting developer environments, continuous integration and continuous delivery (CI/CD) pipelines, and cloud-connected workloads to harvest credentials and configuration secrets. The Shai\u2011Hulud 2. The post Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply c",
       "published": "2025-12-09 21:41:32",
       "timestamp": 1765316492
-    },
-    {
-      "id": "ea9fe9a807bfd3d9c36cfab349fa8bf67ad6b00f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
-      "summary": "Microsoft says Windows PowerShell now warns when running scripts that use the Invoke-WebRequest cmdlet to download web content, aiming to prevent potentially risky code from executing. [...]",
-      "published": "2025-12-09 20:45:20",
-      "timestamp": 1765313120
-    },
-    {
-      "id": "4a1a445e48e88621ed0e74b0bc2c8182b6f64545",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases Windows 10 KB5071546 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
-      "summary": "Microsoft has released the KB5071546 extended security update to resolve 57 security vulnerabilities, including three zero-day flaws. [...]",
-      "published": "2025-12-09 19:54:26",
-      "timestamp": 1765310066
     },
     {
       "id": "114833f72dde5fc947509d7feeb89f6130fec75f",
@@ -800,36 +830,6 @@
       "summary": "To secure the future, we must future-proof our cybersecurity talent and develop teams that are agile, innovative, and perpetually learning. The post How to build forward-thinking cybersecurity teams for tomorrow appeared first on Microsoft Security Blog.",
       "published": "2025-12-02 17:00:00",
       "timestamp": 1764694800
-    },
-    {
-      "id": "925b4807c7706a46343eece02120f5f5ca6a0af6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
-      "link": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
-      "summary": "A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea\u2019s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group\u2019s Famous Chollima division. For the first time, researchers managed",
-      "published": "2025-12-02 15:02:00",
-      "timestamp": 1764687720
-    },
-    {
-      "id": "de33f7fc8122737146b59e0ac8dbe09b1386d59e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
-      "link": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
-      "summary": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue. GlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,",
-      "published": "2025-12-02 15:01:00",
-      "timestamp": 1764687660
-    },
-    {
-      "id": "6bf5a15b5899525040b724be187f2a7960c4aefb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
-      "link": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
-      "summary": "Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners. The package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named \"hamburgerisland\" in February 2024. The package has been downloaded",
-      "published": "2025-12-02 14:17:00",
-      "timestamp": 1764685020
     },
     {
       "id": "c48367450cec59d719f639b6efe5feb0db7df8d9",
