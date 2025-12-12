@@ -1,6 +1,46 @@
 {
-  "generated_at": 1765552264,
+  "generated_at": 1765563294,
   "items": [
+    {
+      "id": "52395277e09267a3bb728ee3973864c87159ad27",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "A look at an Android ITW DNG exploit",
+      "link": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
+      "summary": "Posted by Beno\u00eet Sevens, Google Threat Intelligence GroupIntroductionBetween July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group.Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices.On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used ",
+      "published": "2025-12-12 18:01:00",
+      "timestamp": 1765562460
+    },
+    {
+      "id": "e00905375af007248fc0e2371ce3c9d219c9a478",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/",
+      "summary": "A fake torrent for Leonardo DiCaprio's 'One Battle After Another' hides malicious PowerShell malware loaders inside subtitle files that ultimately infect devices with the Agent Tesla RAT malware. [...]",
+      "published": "2025-12-12 17:12:47",
+      "timestamp": 1765559567
+    },
+    {
+      "id": "e53021910f857dad0771cb6fa642dd645a98d630",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
+      "summary": "Kali Linux has released version 2025.4, its final update of the year, introducing three new tools, desktop environment improvements, and enhanced Wayland support. [...]",
+      "published": "2025-12-12 15:27:16",
+      "timestamp": 1765553236
+    },
+    {
+      "id": "7fa002adf2ee826082663ea6b167fe82feb6cfc9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Shadow spreadsheets: The security gap your tools can\u2019t see",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
+      "summary": "When official systems can't support everyday workflows, employees turn to spreadsheets \u2014 creating \"shadow spreadsheets\" that circulate unchecked. Grist shows how these spreadsheets expose sensitive data, create version sprawl, and remove the audit trails security teams depend on. [...]",
+      "published": "2025-12-12 15:01:11",
+      "timestamp": 1765551671
+    },
     {
       "id": "165461df289e8d19bf2c12dfe7bc2d6b0de1d6db",
       "source": "The Hacker News",
@@ -162,26 +202,6 @@
       "timestamp": 1765468846
     },
     {
-      "id": "082634fc4e710612caa98f170e46b9ec7d1c103d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
-      "link": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
-      "summary": "A new variation of the ClickFix attack dubbed 'ConsentFix' abuses the Azure CLI OAuth app to hijack Microsoft accounts without the need for a password or to bypass multi-factor authentication (MFA) verifications. [...]",
-      "published": "2025-12-11 15:10:49",
-      "timestamp": 1765465849
-    },
-    {
-      "id": "95f2dd46a49809dadd8970f0e9bea19e97310c8e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AI is accelerating cyberattacks. Is your network prepared?",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
-      "summary": "AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses. Corelight explains how network detection and response (NDR) provides the visibility and behavioral insights SOC teams need to spot and stop these fast-moving threats. [...]",
-      "published": "2025-12-11 15:05:15",
-      "timestamp": 1765465515
-    },
-    {
       "id": "4e9cbfa4a48267c9e6c04f55fe815e4536b12d5f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -190,16 +210,6 @@
       "summary": "This week\u2019s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open. The new Threatsday Bulletin",
       "published": "2025-12-11 13:40:00",
       "timestamp": 1765460400
-    },
-    {
-      "id": "aec5f025909e726a5e7bae4b13f7dc4bad128d1d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
-      "summary": "An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on Internet-facing instances and compromise hundreds of servers. [...]",
-      "published": "2025-12-11 13:19:50",
-      "timestamp": 1765459190
     },
     {
       "id": "92473d1fb2e82d0bf3ac87f9afccb64ed0083921",
@@ -1090,26 +1100,6 @@
       "summary": "Posted by Mateusz Jurczyk, Google Project Zero In the first three blog posts of this series, I sought to outline what the Windows Registry actually is, its role, history, and where to find further information about it. In the subsequent three posts, my goal was to describe in detail how this mechanism works internally \u2013 from the perspective of its clients (e.g., user-mode applications running on Windows), the regf format used to encode hives, and finally the kernel itself, which contains its can",
       "published": "2025-05-23 09:05:00",
       "timestamp": 1747991100
-    },
-    {
-      "id": "5c1461586aa96d62f27042273d6db6fda349b9ea",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages",
-      "link": "https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html",
-      "summary": "Guest post by Dillon Franke, Senior Security Engineer, 20% time on Project Zero Every second, highly-privileged MacOS system daemons accept and process hundreds of IPC messages. In some cases, these message handlers accept data from sandboxed or unprivileged processes. In this blog post, I\u2019ll explore using Mach IPC messages as an attack vector to find and exploit sandbox escapes. I\u2019ll detail how I used a custom fuzzing harness, dynamic instrumentation, and plenty of debugging/static analysis to ",
-      "published": "2025-05-09 17:38:00",
-      "timestamp": 1746812280
-    },
-    {
-      "id": "c7e74139015d45a0dcbe774a6881720bdc7bda34",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "The Windows Registry Adventure #6: Kernel-mode objects",
-      "link": "https://googleprojectzero.blogspot.com/2025/04/the-windows-registry-adventure-6-kernel.html",
-      "summary": "Posted by Mateusz Jurczyk, Google Project Zero Welcome back to the Windows Registry Adventure! In the previous installment of the series, we took a deep look into the internals of the regf hive format. Understanding this foundational aspect of the registry is crucial, as it illuminates the design principles behind the mechanism, as well as its inherent strengths and weaknesses. The data stored within the regf file represents the definitive state of the hive. Knowing how to parse this data is suf",
-      "published": "2025-04-16 21:19:00",
-      "timestamp": 1744838340
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
