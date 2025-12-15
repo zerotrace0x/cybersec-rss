@@ -1,6 +1,56 @@
 {
-  "generated_at": 1765801195,
+  "generated_at": 1765811669,
   "items": [
+    {
+      "id": "2825c50c52f56c3a23b16309a6f9532d665faebe",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
+      "summary": "Microsoft says that recent Windows 11 security updates are causing VPN networking failures for enterprise users running Windows Subsystem for Linux. [...]",
+      "published": "2025-12-15 14:34:31",
+      "timestamp": 1765809271
+    },
+    {
+      "id": "3647b8c70c1fc42f2c7ffe639bcf7e7819249db8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
+      "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+      "summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations. The shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below - CVE-2025-61675 (CVSS score: 8.6) - Numerous",
+      "published": "2025-12-15 14:32:00",
+      "timestamp": 1765809120
+    },
+    {
+      "id": "05c1de4a474ce829c0b771e7dbe1afae51d2d6f3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google links more Chinese hacking groups to React2Shell attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
+      "summary": "Over the weekend, \u200bGoogle's threat intelligence team linked five more Chinese hacking groups to attacks exploiting the maximum-severity \"React2Shell\" remote code execution vulnerability. [...]",
+      "published": "2025-12-15 12:46:50",
+      "timestamp": 1765802810
+    },
+    {
+      "id": "90a8aecd3a5eef1531fcf26d4fc072d0fa296b26",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+      "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+      "summary": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on\u2014and in some cases, they started attacking before a fix was even ready. Below, we list the urgent updates you need to install right now to stop these active threats. \u26a1 Threat of the Week Apple and",
+      "published": "2025-12-15 12:24:00",
+      "timestamp": 1765801440
+    },
+    {
+      "id": "66352f872133c874c7e17acea67bdb53598490ae",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
+      "link": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
+      "summary": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale. A threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into",
+      "published": "2025-12-15 11:55:00",
+      "timestamp": 1765799700
+    },
     {
       "id": "7247372c4227be6bc7af678ff3fa9f0484acba72",
       "source": "BleepingComputer",
@@ -172,16 +222,6 @@
       "timestamp": 1765548000
     },
     {
-      "id": "b490fa0e341e3be9a9a02592db5ad41c9634f7b0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
-      "summary": "Free unofficial patches are available for a new Windows zero-day vulnerability that allows attackers to crash the Remote Access Connection Manager (RasMan) service. [...]",
-      "published": "2025-12-12 11:28:06",
-      "timestamp": 1765538886
-    },
-    {
       "id": "27c2f437cc125e5b7563f962e4d3e2ddf86f40f0",
       "source": "The Hacker News",
       "source_category": "General",
@@ -192,16 +232,6 @@
       "timestamp": 1765534680
     },
     {
-      "id": "787012400eb6d5171cf7675fc2f9dbafb250f2f5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to patch actively exploited Geoserver flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
-      "summary": "CISA has ordered U.S. federal agencies to patch a critical GeoServer vulnerability now actively exploited in XML External Entity (XXE) injection attacks. [...]",
-      "published": "2025-12-12 09:48:31",
-      "timestamp": 1765532911
-    },
-    {
       "id": "51e0544c6da8a748eab7586130bf9601433a8282",
       "source": "The Hacker News",
       "source_category": "General",
@@ -210,16 +240,6 @@
       "summary": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure. The team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
       "published": "2025-12-12 08:55:00",
       "timestamp": 1765529700
-    },
-    {
-      "id": "ebdec966164f8c83ec5783b86ee7664664555974",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
-      "link": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
-      "summary": "MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June 2024 and June 2025. [...]",
-      "published": "2025-12-12 08:43:16",
-      "timestamp": 1765528996
     },
     {
       "id": "d2ce73f513f727a091681d9d5272891d052d8a8b",
@@ -585,9 +605,9 @@
       "id": "a03173785ce313bdce7cfea3dbe63e549919c2d7",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
+      "title": "Researcher Uncovers 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
       "link": "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html",
-      "summary": "Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution. The security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA). They affect popular",
+      "summary": "Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution. The security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA), who discovered them",
       "published": "2025-12-06 15:24:00",
       "timestamp": 1765034640
     },
@@ -712,7 +732,7 @@
       "timestamp": 1764869100
     },
     {
-      "id": "369a7805671a2e6caaa3ce9b798d70cdc07d80a2",
+      "id": "c3cc219af5167e89805c844e29c3664884e38258",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cybersecurity strategies to prioritize now\u200b\u200b",
@@ -720,36 +740,6 @@
       "summary": "In this article, Damon Becknel, Vice President and Deputy CISO for Regulated Industries at Microsoft, outlines four things to prioritize doing now. The post Cybersecurity strategies to prioritize now\u200b\u200b appeared first on Microsoft Security Blog.",
       "published": "2025-12-04 17:00:00",
       "timestamp": 1764867600
-    },
-    {
-      "id": "6130c0ccd861474009e4e459189285e4b8154604",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014 and 15 More Stories",
-      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
-      "summary": "Think your Wi-Fi is safe? Your coding tools? Or even your favorite financial apps? This week proves again how hackers, companies, and governments are all locked in a nonstop race to outsmart each other. Here\u2019s a quick rundown of the latest cyber stories that show how fast the game keeps changing. DeFi exploit drains funds Critical yETH Exploit Used to Steal $9M",
-      "published": "2025-12-04 11:58:00",
-      "timestamp": 1764849480
-    },
-    {
-      "id": "10173a7433c3d1ba864e121f4793ac6c28fc459d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "5 Threats That Reshaped Web Security This Year [2025]",
-      "link": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
-      "summary": "As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compromises affecting hundreds of thousands of websites forced a fundamental rethink of defensive strategies. Here are the five threats that reshaped web security this year, and",
-      "published": "2025-12-04 11:30:00",
-      "timestamp": 1764847800
-    },
-    {
-      "id": "c6c7bbe64d9ad35d955c6fb7cf3aa39bc379dd68",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
-      "link": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
-      "summary": "Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impersonating government services. The activity, observed since October 2024, involves distributing modified banking applications that act as a conduit for Android malware, Group-IB said in a technical",
-      "published": "2025-12-04 09:27:00",
-      "timestamp": 1764840420
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
