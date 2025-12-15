@@ -1,6 +1,26 @@
 {
-  "generated_at": 1765779445,
+  "generated_at": 1765790377,
   "items": [
+    {
+      "id": "b90886d60cceccc8217ac001818c3f779c8516b3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: December security updates cause Message Queuing failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
+      "summary": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites. [...]",
+      "published": "2025-12-15 09:04:59",
+      "timestamp": 1765789499
+    },
+    {
+      "id": "40073db577328a0bdfdd2d4a12e078724c0421de",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
+      "link": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
+      "summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee. According to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows",
+      "published": "2025-12-15 05:33:00",
+      "timestamp": 1765776780
+    },
     {
       "id": "edc890bb902e58738581a6d1088653233b7731bf",
       "source": "BleepingComputer",
@@ -210,16 +230,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild. The vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
       "published": "2025-12-12 05:01:00",
       "timestamp": 1765515660
-    },
-    {
-      "id": "813b199cd65db7311da6e0ec23a608eaed02eadd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Brave browser starts testing agentic AI mode for automated tasks",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/",
-      "summary": "Brave has introduced a new AI browsing feature that leverages Leo, its privacy-respecting AI assistant, to perform automated tasks for the user. [...]",
-      "published": "2025-12-11 23:03:37",
-      "timestamp": 1765494217
     },
     {
       "id": "a1db7c9c3cf0922a8d6b21cf723c0bede3a851b5",
@@ -740,16 +750,6 @@
       "summary": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps). The activity, the web infrastructure and security company said, originated from a DDoS botnet-for-hire known as AISURU, which has been linked to a number of hyper-volumetric DDoS attacks over the past year. The attack lasted for 69",
       "published": "2025-12-04 06:52:00",
       "timestamp": 1764831120
-    },
-    {
-      "id": "30c90c7628d86563f2cb0cada563868958f8967f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
-      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution. The vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. The vulnerability has been codenamed React2shell. It allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React",
-      "published": "2025-12-03 18:19:00",
-      "timestamp": 1764785940
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
