@@ -1,6 +1,46 @@
 {
-  "generated_at": 1765887567,
+  "generated_at": 1765897958,
   "items": [
+    {
+      "id": "64cbb81e3b0f258d82f19543de003813cd60ba96",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet",
+      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/",
+      "summary": "Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once. Drawing on real-world incident data, Huntress explains how attackers exploit visibility gaps at the hypervisor layer and outlines steps orgs can take to harden virtualization infrastructure. [...]",
+      "published": "2025-12-16 15:01:11",
+      "timestamp": 1765897271
+    },
+    {
+      "id": "1c81a9b2e6684274a3fd262e8df3d7fefa6c2a79",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
+      "published": "2025-12-16 14:14:48",
+      "timestamp": 1765894488
+    },
+    {
+      "id": "69b64c65fcec5b3569a047954e7aa6b8443aaa95",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft to block Exchange Online access for outdated mobile devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
+      "summary": "Microsoft announced on Monday that it will soon block mobile devices running outdated email software from accessing Exchange Online services until they're updated. [...]",
+      "published": "2025-12-16 12:53:25",
+      "timestamp": 1765889605
+    },
+    {
+      "id": "c130d12d45152814ec09b5ae141b710a852c248b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+      "link": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
+      "summary": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025. Targets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has",
+      "published": "2025-12-16 12:27:00",
+      "timestamp": 1765888020
+    },
     {
       "id": "8fec9165b0c4cdf01811d9853ecaff3e80a556a9",
       "source": "BleepingComputer",
@@ -212,16 +252,6 @@
       "timestamp": 1765799700
     },
     {
-      "id": "7247372c4227be6bc7af678ff3fa9f0484acba72",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "French Interior Ministry confirms cyberattack on email servers",
-      "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
-      "summary": "The French Interior Minister confirmed on Friday that the country's Ministry of the Interior was breached in a cyberattack that compromised e-mail servers. [...]",
-      "published": "2025-12-15 11:06:10",
-      "timestamp": 1765796770
-    },
-    {
       "id": "d4829e32fc3689d6a985b3a9e86c7e28943bea90",
       "source": "The Hacker News",
       "source_category": "General",
@@ -232,16 +262,6 @@
       "timestamp": 1765790640
     },
     {
-      "id": "b90886d60cceccc8217ac001818c3f779c8516b3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: December security updates cause Message Queuing failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
-      "summary": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites. [...]",
-      "published": "2025-12-15 09:04:59",
-      "timestamp": 1765789499
-    },
-    {
       "id": "40073db577328a0bdfdd2d4a12e078724c0421de",
       "source": "The Hacker News",
       "source_category": "General",
@@ -250,16 +270,6 @@
       "summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee. According to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows",
       "published": "2025-12-15 05:33:00",
       "timestamp": 1765776780
-    },
-    {
-      "id": "edc890bb902e58738581a6d1088653233b7731bf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
-      "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
-      "summary": "An email scam is abusing abusing PayPal's \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications embedded in the Customer service URL field. [...]",
-      "published": "2025-12-14 16:06:10",
-      "timestamp": 1765728370
     },
     {
       "id": "40d4d635d4c639d11687d918002c95420a8ab79d",
@@ -762,16 +772,6 @@
       "timestamp": 1764951780
     },
     {
-      "id": "f2cfd5db176ecb265182e1a9b24e0f202c4f50ab",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
-      "link": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
-      "summary": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge. The vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1. According",
-      "published": "2025-12-05 14:10:00",
-      "timestamp": 1764943800
-    },
-    {
       "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -900,16 +900,6 @@
       "summary": "Written by: Stallone D'Souza, Praveeth DSouza, Bill Glynn, Kevin O'Flynn, Yash Gupta Welcome to the Frontline Bulletin Series Straight from Mandiant Threat Defense, the \"Frontline Bulletin\" series brings you the latest on the threats we are seeing in the wild right now, equipping our community to understand and respond. Introduction Mandiant Threat Defense has uncovered exploitation of an unauthenticated access vulnerability within Gladinet\u2019s Triofox file-sharing and remote access platform. This",
       "published": "2025-11-10 14:00:00",
       "timestamp": 1762783200
-    },
-    {
-      "id": "4a580ede247493622344c9bbabe63e78a3ed3171",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
-      "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
-      "published": "2025-11-09 18:14:40",
-      "timestamp": 1762712080
     },
     {
       "id": "b94080fc64fa47b8af55092e7b94f253cc38c273",
