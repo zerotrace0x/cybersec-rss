@@ -1,6 +1,26 @@
 {
-  "generated_at": 1765919428,
+  "generated_at": 1765932173,
   "items": [
+    {
+      "id": "f18c4c032272661f95157cc996fc3d99ec952186",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cellik Android malware builds malicious versions from Google Play apps",
+      "link": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
+      "summary": "A new Android malware-as-a-service (MaaS) named Cellik is being advertised on underground cybercrime forums offering a robust set of capabilities that include the option to embed it in any app available on the Google Play Store. [...]",
+      "published": "2025-12-16 22:59:35",
+      "timestamp": 1765925975
+    },
+    {
+      "id": "2e312af0d26541e17e9ec94c5e69d8abc763487a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
+      "summary": "A new campaign dubbed 'GhostPoster' is hiding JavaScript code in the image logo of malicious Firefox extensions counting more than 50,000 downloads, to monitor browser activity and plant a backdoor. [...]",
+      "published": "2025-12-16 22:17:46",
+      "timestamp": 1765923466
+    },
     {
       "id": "03a7aaeea52e865b351f5bd60f55f621ea5d5b92",
       "source": "BleepingComputer",
@@ -132,6 +152,26 @@
       "timestamp": 1765882680
     },
     {
+      "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Welcome to the new Project Zero Blog",
+      "link": "https://projectzero.google/2025/12/welcome.html",
+      "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was \u2026 not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
+      "published": "2025-12-16 10:00:00",
+      "timestamp": 1765879200
+    },
+    {
+      "id": "1ec0dab54fbc65bcbbb02486e8ef543d629ce073",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Thinking Outside The Box [dusted off draft from 2017]",
+      "link": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
+      "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft\u2026 But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
+      "published": "2025-12-16 09:00:00",
+      "timestamp": 1765875600
+    },
+    {
       "id": "802e15154151377e674c5936782883c98a28f5fb",
       "source": "The Hacker News",
       "source_category": "General",
@@ -140,6 +180,16 @@
       "summary": "The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security. \"KSwapDoor is a professionally engineered remote access tool designed with stealth in mind,\" Justin Moore, senior manager of threat intel research at Palo Alto Networks Unit 42, said in a",
       "published": "2025-12-16 08:21:00",
       "timestamp": 1765873260
+    },
+    {
+      "id": "85d0791317ebec3156a73d368a2c0df54c2683ee",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Windows Exploitation Techniques: Winning Race Conditions with Path Lookups",
+      "link": "https://projectzero.google/2025/12/windows-exploitation-techniques.html",
+      "summary": "This post was originally written in 2016 for the Project Zero blog. However, in the end it was published separately in the journal PoC||GTFO issue #13 as well as in the second volume of the printed version. In honor of our new blog we\u2019re republishing it on this blog and included an updated analysis to see if it still works on a modern Windows 11 system. During my Windows research I tend to find quite a few race condition vulnerabilities. A fairly typical exploitable form look something like this",
+      "published": "2025-12-16 08:00:00",
+      "timestamp": 1765872000
     },
     {
       "id": "e42bf10f3bf0de12e45fed441323b1d226426f04",
@@ -192,16 +242,6 @@
       "timestamp": 1765838590
     },
     {
-      "id": "abf5b1040c65c7dd491b49e7d4c73468c50fdc37",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "PornHub extorted after hackers steal Premium member activity data",
-      "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
-      "summary": "Adult video platform PornHub is being extorted by the ShinyHunters extortion gang after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach. [...]",
-      "published": "2025-12-15 21:27:07",
-      "timestamp": 1765834027
-    },
-    {
       "id": "91f032cbf0763a4d4143ac7207eedd9d5d7c5dbb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -210,16 +250,6 @@
       "summary": "CVE-2025-55182 (also referred to as React2Shell and includes CVE-2025-66478, which was merged into it) is a critical pre-authentication remote code execution (RCE) vulnerability affecting React Server Components and related frameworks. The post Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components appeared first on Microsoft Security Blog.",
       "published": "2025-12-15 19:35:00",
       "timestamp": 1765827300
-    },
-    {
-      "id": "9d64a36ca443924ed19c5788b678078b50bc720d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
-      "link": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
-      "summary": "Users accessing the SoundCloud audio streaming platform through a virtual private network (VPN) connection are denied access to the service and see a 403 'forbidden' error. [...]",
-      "published": "2025-12-15 18:20:47",
-      "timestamp": 1765822847
     },
     {
       "id": "d6c01f198a40bce60c4e31ffdc4217de2b6a26cb",
@@ -322,16 +352,6 @@
       "timestamp": 1765565400
     },
     {
-      "id": "52395277e09267a3bb728ee3973864c87159ad27",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "A look at an Android ITW DNG exploit",
-      "link": "https://googleprojectzero.blogspot.com/2025/12/a-look-at-android-itw-dng-exploit.html",
-      "summary": "Posted by Beno\u00eet Sevens, Google Threat Intelligence GroupIntroductionBetween July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group.Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices.On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used ",
-      "published": "2025-12-12 18:01:00",
-      "timestamp": 1765562460
-    },
-    {
       "id": "165461df289e8d19bf2c12dfe7bc2d6b0de1d6db",
       "source": "The Hacker News",
       "source_category": "General",
@@ -360,6 +380,16 @@
       "summary": "The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI\u2011powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files. Traditional",
       "published": "2025-12-12 10:18:00",
       "timestamp": 1765534680
+    },
+    {
+      "id": "6df18e7754144ebb7bbfbfa5f2157b30b4c23388",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "A look at an Android ITW DNG exploit",
+      "link": "https://projectzero.google/2025/12/android-itw-dng.html",
+      "summary": "Introduction Between July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group. Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices. On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used and the spyware they dropped. In this blogpost, we wou",
+      "published": "2025-12-12 10:00:00",
+      "timestamp": 1765533600
     },
     {
       "id": "51e0544c6da8a748eab7586130bf9601433a8282",
@@ -592,7 +622,7 @@
       "timestamp": 1765304700
     },
     {
-      "id": "40914167da60bd327280a9a3f9f0f02562fb4961",
+      "id": "0ec3ab60a2fbe118cff900cb55b3f7a6d31842c4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Changing the physics of cyber defense",
@@ -782,7 +812,7 @@
       "timestamp": 1764889354
     },
     {
-      "id": "369a7805671a2e6caaa3ce9b798d70cdc07d80a2",
+      "id": "c3cc219af5167e89805c844e29c3664884e38258",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cybersecurity strategies to prioritize now\u200b\u200b",
@@ -922,14 +952,14 @@
       "timestamp": 1762264800
     },
     {
-      "id": "9f86b81ca06a92f06b039b0d90c078efc0b2733b",
+      "id": "04580c37ae20136d42b06f4cc714840d838be9da",
       "source": "Google Project Zero",
       "source_category": "Research",
       "title": "Defeating KASLR by Doing Nothing at All",
-      "link": "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
-      "summary": "Posted by Seth Jenkins, Project ZeroIntroductionI've recently been researching Pixel kernel exploitation and as part of this research I found myself with an excellent arbitrary write primitive\u2026but without a KASLR leak. As necessity is the mother of all invention, on a hunch, I started researching the Linux kernel linear mapping.The Linux Linear MappingThe linear mapping is a region in the kernel virtual address space that is a direct 1:1 unstructured representation of physical memory. Working wi",
-      "published": "2025-11-03 18:09:00",
-      "timestamp": 1762193340
+      "link": "https://projectzero.google/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
+      "summary": "Introduction I\u2019ve recently been researching Pixel kernel exploitation and as part of this research I found myself with an excellent arbitrary write primitive\u2026but without a KASLR leak. As necessity is the mother of all invention, on a hunch, I started researching the Linux kernel linear mapping. The Linux Linear Mapping The linear mapping is a region in the kernel virtual address space that is a direct 1:1 unstructured representation of physical memory. Working with Jann, I learned how the kernel",
+      "published": "2025-11-03 08:00:00",
+      "timestamp": 1762156800
     },
     {
       "id": "3b5c1437de071087c7b7f1a0639a8af1e36ef010",
@@ -1012,14 +1042,14 @@
       "timestamp": 1759240800
     },
     {
-      "id": "425bf383092a7871e1c79ae25f63ace32ae4d79b",
+      "id": "6f72db8e4b87e68560169946b648d727335a2c79",
       "source": "Google Project Zero",
       "source_category": "Research",
       "title": "Pointer leaks through pointer-keyed data structures",
-      "link": "https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html",
-      "summary": "Posted by Jann Horn, Google Project Zero IntroductionSome time in 2024, during a Project Zero team discussion, we were talking about how remote ASLR leaks would be helpful or necessary for exploiting some types of memory corruption bugs, specifically in the context of Apple devices. Coming from the angle of \"where would be a good first place to look for a remote ASLR leak\", this led to the discovery of a trick that could potentially be used to leak a pointer remotely, without any memory safety v",
-      "published": "2025-09-26 17:00:00",
-      "timestamp": 1758906000
+      "link": "https://projectzero.google/2025/09/pointer-leaks-through-pointer-keyed.html",
+      "summary": "Introduction Some time in 2024, during a Project Zero team discussion, we were talking about how remote ASLR leaks would be helpful or necessary for exploiting some types of memory corruption bugs, specifically in the context of Apple devices. Coming from the angle of \u201cwhere would be a good first place to look for a remote ASLR leak\u201d, this led to the discovery of a trick that could potentially be used to leak a pointer remotely, without any memory safety violations or timing attacks, in scenario",
+      "published": "2025-09-26 07:00:00",
+      "timestamp": 1758870000
     },
     {
       "id": "64f14f5c2b1d419be1b716823994c21ed6cb3fa1",
@@ -1062,44 +1092,44 @@
       "timestamp": 1756130400
     },
     {
-      "id": "623c1535b47e20e38cde53200832947574c3fe19",
+      "id": "5d2369381ffd979702ed520ed26280b30fb2c99f",
       "source": "Google Project Zero",
       "source_category": "Research",
       "title": "From Chrome renderer code exec to kernel with MSG_OOB",
-      "link": "https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html",
-      "summary": "Posted by Jann Horn, Google Project ZeroIntroduction In early June, I was reviewing a new Linux kernel feature when I learned about the MSG_OOB feature supported by stream-oriented UNIX domain sockets. I reviewed the implementation of MSG_OOB, and discovered a security bug (CVE-2025-38236) affecting Linux >=6.9. I reported the bug to Linux, and it got fixed. Interestingly, while the MSG_OOB feature is not used by Chrome, it was exposed in the Chrome renderer sandbox. (Since then, sending MSG_OOB",
-      "published": "2025-08-08 10:43:00",
-      "timestamp": 1754649780
+      "link": "https://projectzero.google/2025/08/from-chrome-renderer-code-exec-to-kernel.html",
+      "summary": "Introduction In early June, I was reviewing a new Linux kernel feature when I learned about the MSG_OOB feature supported by stream-oriented UNIX domain sockets. I reviewed the implementation of MSG_OOB, and discovered a security bug (CVE-2025-38236) affecting Linux >=6.9. I reported the bug to Linux, and it got fixed. Interestingly, while the MSG_OOB feature is not used by Chrome, it was exposed in the Chrome renderer sandbox. (Since then, sending MSG_OOB messages has been blocked in Chrome ren",
+      "published": "2025-08-08 07:00:00",
+      "timestamp": 1754636400
     },
     {
-      "id": "0603c212e5d351aee742ef5d7209659e2d6e2067",
+      "id": "938a950feec499bd46d2588d9584289c06153ddd",
       "source": "Google Project Zero",
       "source_category": "Research",
       "title": "Policy and Disclosure: 2025 Edition",
-      "link": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
+      "link": "https://projectzero.google/2025/07/reporting-transparency.html",
       "summary": "Posted by Tim Willis, Google Project Zero In 2021, we updated our vulnerability disclosure policy to the current \"90+30\" model. Our goals were to drive faster yet thorough patch development, and improve patch adoption. While we\u2019ve seen progress, a significant challenge remains: the time it takes for a fix to actually reach an end-user's device.This delay, often called the \"patch gap,\" is a complex problem. Many consider the patch gap to be the time between a fix being released for a security vul",
-      "published": "2025-07-29 14:54:00",
-      "timestamp": 1753800840
+      "published": "2025-07-29 07:00:00",
+      "timestamp": 1753772400
     },
     {
-      "id": "7a3a22170ca0eb8acc5a7b83b2628a5342587627",
+      "id": "aef949eb1295f7a1ac2f8c98a058f601c1a3956b",
       "source": "Google Project Zero",
       "source_category": "Research",
       "title": "The Windows Registry Adventure #8: Practical exploitation of hive memory corruption",
-      "link": "https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-8-exploitation.html",
+      "link": "https://projectzero.google/2025/05/the-windows-registry-adventure-8-exploitation.html",
       "summary": "Posted by Mateusz Jurczyk, Google Project Zero In the previous blog post, we focused on the general security analysis of the registry and how to effectively approach finding vulnerabilities in it. Here, we will direct our attention to the exploitation of hive-based memory corruption bugs, i.e., those that allow an attacker to overwrite data within an active hive mapping in memory. This is a class of issues characteristic of the Windows registry, but universal enough that the techniques described",
-      "published": "2025-05-28 18:09:00",
-      "timestamp": 1748455740
+      "published": "2025-05-28 07:00:00",
+      "timestamp": 1748415600
     },
     {
-      "id": "f0fec0ab26be60ed5761ca34a6dd618d377af4b5",
+      "id": "302c7ec9939404dba12db32bdc17006a6ceacee7",
       "source": "Google Project Zero",
       "source_category": "Research",
       "title": "The Windows Registry Adventure #7: Attack surface analysis",
-      "link": "https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html",
+      "link": "https://projectzero.google/2025/05/the-windows-registry-adventure-7-attack-surface.html",
       "summary": "Posted by Mateusz Jurczyk, Google Project Zero In the first three blog posts of this series, I sought to outline what the Windows Registry actually is, its role, history, and where to find further information about it. In the subsequent three posts, my goal was to describe in detail how this mechanism works internally \u2013 from the perspective of its clients (e.g., user-mode applications running on Windows), the regf format used to encode hives, and finally the kernel itself, which contains its can",
-      "published": "2025-05-23 09:05:00",
-      "timestamp": 1747991100
+      "published": "2025-05-23 07:00:00",
+      "timestamp": 1747983600
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
