@@ -1,6 +1,46 @@
 {
-  "generated_at": 1765995335,
+  "generated_at": 1766005797,
   "items": [
+    {
+      "id": "2dccbd60807810b85099153bd111ea8c122304fd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WhatsApp device linking abused in account hijacking attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
+      "summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
+      "published": "2025-12-17 19:14:30",
+      "timestamp": 1765998870
+    },
+    {
+      "id": "cb2ff1d7161e7ab4a9d9e49f3a3344e1972b087b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
+      "summary": "\u200bCisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
+      "published": "2025-12-17 18:45:36",
+      "timestamp": 1765997136
+    },
+    {
+      "id": "f2bc91cb6e424cdf32dbab7cf958738aad4c036b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
+      "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
+      "summary": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild. The vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC). It affects the following",
+      "published": "2025-12-17 18:17:00",
+      "timestamp": 1765995420
+    },
+    {
+      "id": "22fcf21c1b7e37a06a841d47ca76efdfa1d54719",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
+      "link": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
+      "summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab. \"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report",
+      "published": "2025-12-17 18:09:00",
+      "timestamp": 1765994940
+    },
     {
       "id": "904e624f13cb07c717d65a6939012938a0e9e9b8",
       "source": "BleepingComputer",
@@ -182,16 +222,6 @@
       "timestamp": 1765898357
     },
     {
-      "id": "64cbb81e3b0f258d82f19543de003813cd60ba96",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet",
-      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/",
-      "summary": "Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once. Drawing on real-world incident data, Huntress explains how attackers exploit visibility gaps at the hypervisor layer and outlines steps orgs can take to harden virtualization infrastructure. [...]",
-      "published": "2025-12-16 15:01:11",
-      "timestamp": 1765897271
-    },
-    {
       "id": "1c81a9b2e6684274a3fd262e8df3d7fefa6c2a79",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -200,16 +230,6 @@
       "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
       "published": "2025-12-16 14:14:48",
       "timestamp": 1765894488
-    },
-    {
-      "id": "69b64c65fcec5b3569a047954e7aa6b8443aaa95",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft to block Exchange Online access for outdated mobile devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
-      "summary": "Microsoft announced on Monday that it will soon block mobile devices running outdated email software from accessing Exchange Online services until they're updated. [...]",
-      "published": "2025-12-16 12:53:25",
-      "timestamp": 1765889605
     },
     {
       "id": "c130d12d45152814ec09b5ae141b710a852c248b",
@@ -760,26 +780,6 @@
       "summary": "To bolster security for our customers, we need to align with our ecosystem partners. Our new collaboration with Beazley as an incident response partner is a step in that direction. The post Stronger together: New Beazley collaboration enhances cyber resilience appeared first on Microsoft Security Blog.",
       "published": "2025-12-08 17:00:00",
       "timestamp": 1765213200
-    },
-    {
-      "id": "0bec0a2ca5265758c8487c3720540670d36cc533",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
-      "link": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
-      "summary": "It\u2019s been a week of chaos in code and calm in headlines. A bug that broke the internet\u2019s favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks \u2014 all within days. If you blink, you\u2019ll miss how fast the threat map is changing. New flaws are being found, published, and exploited in hours instead of weeks. AI-powered tools meant to help developers",
-      "published": "2025-12-08 12:44:00",
-      "timestamp": 1765197840
-    },
-    {
-      "id": "26edd21469aaa2570f0739e7cf139c721eafeb83",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?",
-      "link": "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html",
-      "summary": "The holiday season compresses risk into a short, high-stakes window. Systems run hot, teams run lean, and attackers time automated campaigns to get maximum return. Multiple industry threat reports show that bot-driven fraud, credential stuffing and account takeover attempts intensify around peak shopping events, especially the weeks around Black Friday and Christmas. Why holiday peaks",
-      "published": "2025-12-08 11:58:00",
-      "timestamp": 1765195080
     },
     {
       "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
