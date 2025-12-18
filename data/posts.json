@@ -1,6 +1,26 @@
 {
-  "generated_at": 1766081708,
+  "generated_at": 1766092164,
   "items": [
+    {
+      "id": "61d56df42477fd954b949cf701ea35cf479c4567",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "University of Sydney suffers data breach exposing student and staff info",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
+      "summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students. [...]",
+      "published": "2025-12-18 20:22:58",
+      "timestamp": 1766089378
+    },
+    {
+      "id": "8e8b64dce5178c5c08bfa21b89d691adfcb97b1a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
+      "summary": "The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
+      "published": "2025-12-18 20:16:55",
+      "timestamp": 1766089015
+    },
     {
       "id": "a2ed802281407f809316d6bfb8b46c6b56edc525",
       "source": "The Hacker News",
@@ -20,6 +40,16 @@
       "summary": "An automated campaign is targeting multiple VPN platforms, with credential-based attacks being observed on Palo Alto Networks GlobalProtect and Cisco SSL VPN. [...]",
       "published": "2025-12-18 17:27:25",
       "timestamp": 1766078845
+    },
+    {
+      "id": "16fa65372d48e6dbb63e9e8f5954550feaf948cc",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "New Microsoft e-book: 3 reasons point solutions are holding you back",
+      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/18/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/",
+      "summary": "Explore the new Microsoft e-book on how a unified, AI-ready platform delivers speed, resilience, and measurable security gains. The post New Microsoft e-book: 3 reasons point solutions are holding you back appeared first on Microsoft Security Blog.",
+      "published": "2025-12-18 17:00:00",
+      "timestamp": 1766077200
     },
     {
       "id": "52448ce82154f6000ddd34dcdb79c9afcf593f8a",
@@ -182,16 +212,6 @@
       "timestamp": 1765998870
     },
     {
-      "id": "cb2ff1d7161e7ab4a9d9e49f3a3344e1972b087b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
-      "summary": "\u200bCisco warned customers today of an unpatched, maximum-severity Cisco AsyncOS zero-day actively exploited in attacks targeting Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances. [...]",
-      "published": "2025-12-17 18:45:36",
-      "timestamp": 1765997136
-    },
-    {
       "id": "f2bc91cb6e424cdf32dbab7cf958738aad4c036b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -212,16 +232,6 @@
       "timestamp": 1765994940
     },
     {
-      "id": "904e624f13cb07c717d65a6939012938a0e9e9b8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
-      "summary": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day attacks to escalate privileges. [...]",
-      "published": "2025-12-17 17:44:18",
-      "timestamp": 1765993458
-    },
-    {
       "id": "4770e9197c8af5a09395bb00fc34b55bc3cf81c1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -230,16 +240,6 @@
       "summary": "An Access Fabric is a unified access security solution that continuously decides who can access what, from where, and under what conditions\u2014in real time. The post Access Fabric: A modern approach to identity and network access appeared first on Microsoft Security Blog.",
       "published": "2025-12-17 17:00:00",
       "timestamp": 1765990800
-    },
-    {
-      "id": "33245a7a0632024e105cd6550888ff30b31424eb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical React2Shell flaw exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
-      "summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file-encrypting malware less than a minute later. [...]",
-      "published": "2025-12-17 16:09:51",
-      "timestamp": 1765987791
     },
     {
       "id": "98727e28bdb057bfcdd46a566e4e19e8970ce84c",
@@ -800,16 +800,6 @@
       "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
       "published": "2025-12-06 14:45:03",
       "timestamp": 1765032303
-    },
-    {
-      "id": "fc628795c6243d4087312d90e99080130a8fc1ed",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft named a leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Email Security",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/05/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/",
-      "summary": "Microsoft has been named a Leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Email Security, which we believe highlights the innovative capabilities of Microsoft Defender for Office 365. The post Microsoft named a leader in the 2025 Gartner\u00ae Magic Quadrant\u2122 for Email Security appeared first on Microsoft Security Blog.",
-      "published": "2025-12-05 20:00:00",
-      "timestamp": 1764964800
     },
     {
       "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
