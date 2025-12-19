@@ -1,6 +1,46 @@
 {
-  "generated_at": 1766135611,
+  "generated_at": 1766146681,
   "items": [
+    {
+      "id": "95509e1eadac2e4bb58e7ee57cfefa1d5f4fb2da",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+      "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+      "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks. Tracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code. \"This vulnerability affects both the",
+      "published": "2025-12-19 11:23:00",
+      "timestamp": 1766143380
+    },
+    {
+      "id": "486c06077ea7723ad82d24fc88887c0331523841",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
+      "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+      "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme. The Nigeria Police Force National Cybercrime Centre (NPF\u2013NCCC) said investigations conducted in collaboration with",
+      "published": "2025-12-19 10:26:00",
+      "timestamp": 1766139960
+    },
+    {
+      "id": "242f9f83595aa5bbf3844d63716b6cbc03973e77",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
+      "summary": "WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls. [...]",
+      "published": "2025-12-19 10:25:06",
+      "timestamp": 1766139906
+    },
+    {
+      "id": "4853edc9e84990a53324ef869562d8e8d7d8a7e5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
+      "link": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
+      "summary": "Grocery delivery service Instacart will refund $60 million to settle FTC claims that it misled customers with false advertising and unlawfully enrolled them in paid subscriptions. [...]",
+      "published": "2025-12-19 09:19:40",
+      "timestamp": 1766135980
+    },
     {
       "id": "d8b36d6ca2262f5c109d97ff4aa3e0c3c6a5887d",
       "source": "The Hacker News",
@@ -210,26 +250,6 @@
       "summary": "French authorities arrested a 22-year-old suspect on Tuesday for a cyberattack that targeted France's Ministry of the Interior earlier this month. [...]",
       "published": "2025-12-17 22:20:02",
       "timestamp": 1766010002
-    },
-    {
-      "id": "e612b6bc285ad4d0f4efeca7b8de000264dcdfa6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
-      "summary": "Amazon's AWS GuardDuty security team is warning of an ongoing crypto-mining campaign that targets its Elastic Compute Cloud (EC2) and Elastic Container Service (ECS) using compromised credentials for Identity and Access Management (IAM). [...]",
-      "published": "2025-12-17 21:48:33",
-      "timestamp": 1766008113
-    },
-    {
-      "id": "2dccbd60807810b85099153bd111ea8c122304fd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WhatsApp device linking abused in account hijacking attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
-      "summary": "Threat actors are abusing the legitimate device-linking feature to hijack WhatsApp accounts via pairing codes in a campaign dubbed GhostPairing. [...]",
-      "published": "2025-12-17 19:14:30",
-      "timestamp": 1765998870
     },
     {
       "id": "f2bc91cb6e424cdf32dbab7cf958738aad4c036b",
@@ -740,26 +760,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation",
       "published": "2025-12-10 11:54:00",
       "timestamp": 1765367640
-    },
-    {
-      "id": "17ccfa40ebc95de150b07a8acd00b9c5465c8a4f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
-      "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
-      "summary": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code. Standard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world. Next week, the Cortex Cloud team at Palo Alto Networks",
-      "published": "2025-12-10 11:54:00",
-      "timestamp": 1765367640
-    },
-    {
-      "id": "0a2b2350827b8f3bfb2b6ee6d60921e7bc36a122",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
-      "link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
-      "summary": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild. Of the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
-      "published": "2025-12-10 08:50:00",
-      "timestamp": 1765356600
     },
     {
       "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
