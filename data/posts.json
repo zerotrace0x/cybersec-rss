@@ -1,6 +1,16 @@
 {
-  "generated_at": 1766124944,
+  "generated_at": 1766135611,
   "items": [
+    {
+      "id": "d8b36d6ca2262f5c109d97ff4aa3e0c3c6a5887d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
+      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
+      "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input\u2013output memory management unit (IOMMU). UEFI and IOMMU are designed to enforce a security",
+      "published": "2025-12-19 08:25:00",
+      "timestamp": 1766132700
+    },
     {
       "id": "f3ba8080b5c43283611932bad7f6fb98d4e19574",
       "source": "BleepingComputer",
@@ -750,16 +760,6 @@
       "summary": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild. Of the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
       "published": "2025-12-10 08:50:00",
       "timestamp": 1765356600
-    },
-    {
-      "id": "6bc15092ed076333002b96362188aa6a169c1abd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
-      "link": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
-      "summary": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution. The Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and",
-      "published": "2025-12-10 04:50:00",
-      "timestamp": 1765342200
     },
     {
       "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
