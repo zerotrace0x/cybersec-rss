@@ -1,6 +1,46 @@
 {
-  "generated_at": 1766157013,
+  "generated_at": 1766168054,
   "items": [
+    {
+      "id": "0980e3f9da10d36fca2a3b128f662f6b81c438de",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
+      "summary": "Multiple threat actors are compromising Microsoft 365 accounts in phishing attacks that leverage the OAuth device code authorization mechanism. [...]",
+      "published": "2025-12-19 17:19:04",
+      "timestamp": 1766164744
+    },
+    {
+      "id": "93a6749872047373a371a8561be5a9af0e3e6bcf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
+      "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
+      "summary": "The UEFI firmware implementation in some motherboards from ASUS, Gigabyte, MSI, and ASRock is vulnerable to direct memory access (DMA) attacks that can bypass early-boot memory protections. [...]",
+      "published": "2025-12-19 15:54:48",
+      "timestamp": 1766159688
+    },
+    {
+      "id": "97f44d615099d7416b7b48b546403b41189b2be0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as CountLoader. The campaign \"uses CountLoader as the initial tool in a multistage attack for access, evasion, and delivery of additional malware families,\" Cyderes Howler Cell Threat Intelligence",
+      "published": "2025-12-19 15:34:00",
+      "timestamp": 1766158440
+    },
+    {
+      "id": "573a647b99259c7839167fd3f8a423ae87d14825",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation\u2019s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president\u2019s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren\u2019t even aware of them all.",
+      "published": "2025-12-19 15:14:55",
+      "timestamp": 1766157295
+    },
     {
       "id": "a76af92f12193bbf8a0a2ec4717d96f465a91d63",
       "source": "BleepingComputer",
@@ -170,16 +210,6 @@
       "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution. The critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
       "published": "2025-12-18 14:39:00",
       "timestamp": 1766068740
-    },
-    {
-      "id": "e72e9de75cbcd1c198af4a374853537a49e37eb3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "France arrests Latvian for installing malware on Italian ferry",
-      "link": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
-      "summary": "French authorities arrested two crew members of an Italian passenger ferry suspected of infecting the ship with malware that could have enabled them to remotely control the vessel. [...]",
-      "published": "2025-12-18 13:47:59",
-      "timestamp": 1766065679
     },
     {
       "id": "6efab78f0f5f89fcefc10b126da535a66ebe7a31",
@@ -742,16 +772,6 @@
       "timestamp": 1765373520
     },
     {
-      "id": "d832d9063336c89bcc3f0e952004b245909ab1c1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
-      "link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation",
-      "published": "2025-12-10 11:54:00",
-      "timestamp": 1765367640
-    },
-    {
       "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -890,16 +910,6 @@
       "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
       "published": "2025-11-16 21:47:14",
       "timestamp": 1763329634
-    },
-    {
-      "id": "5764e6b4b03c85f91308fe883ee8fd0238f5cc07",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
-      "published": "2025-11-13 14:47:22",
-      "timestamp": 1763045242
     },
     {
       "id": "bfdd8d6b68d0ab7fc444d44fd4416dd23625e9a0",
