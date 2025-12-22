@@ -1,6 +1,36 @@
 {
-  "generated_at": 1766384242,
+  "generated_at": 1766394994,
   "items": [
+    {
+      "id": "5492b002773d9f44bd6cf7c9f5e3ca94bcf26414",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
+      "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
+      "summary": "Over 115,000 WatchGuard Firebox devices exposed online remain unpatched against a critical remote code execution (RCE) vulnerability actively exploited in attacks. [...]",
+      "published": "2025-12-22 09:00:55",
+      "timestamp": 1766394055
+    },
+    {
+      "id": "04b54262246ad75aab1ecba424fe1845d13614b8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+      "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
+      "summary": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan. \"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
+      "published": "2025-12-22 06:11:00",
+      "timestamp": 1766383860
+    },
+    {
+      "id": "1d5d122b66a0286e46c77cc542bf06f2b85297b6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Docker Hardened Images now open source and available for free",
+      "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
+      "summary": "More than a 1,000 Docker Hardened Images (DHI) are now freely available and open source for software builders, under the Apache 2.0 license. [...]",
+      "published": "2025-12-21 15:12:14",
+      "timestamp": 1766329934
+    },
     {
       "id": "3896bbdec9305ffc0bfb1d5f6164339731ab6f70",
       "source": "The Hacker News",
@@ -180,36 +210,6 @@
       "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input\u2013output memory management unit (IOMMU). UEFI and IOMMU are designed to enforce a security",
       "published": "2025-12-19 08:25:00",
       "timestamp": 1766132700
-    },
-    {
-      "id": "f3ba8080b5c43283611932bad7f6fb98d4e19574",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
-      "summary": "This month's extended security update for Windows 11 broke Message Queuing (MSMQ), which is typically used by enterprises to manage background tasks. [...]",
-      "published": "2025-12-19 01:15:19",
-      "timestamp": 1766106919
-    },
-    {
-      "id": "61d56df42477fd954b949cf701ea35cf479c4567",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "University of Sydney suffers data breach exposing student and staff info",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
-      "summary": "Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students. [...]",
-      "published": "2025-12-18 20:22:58",
-      "timestamp": 1766089378
-    },
-    {
-      "id": "8e8b64dce5178c5c08bfa21b89d691adfcb97b1a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
-      "summary": "The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
-      "published": "2025-12-18 20:16:55",
-      "timestamp": 1766089015
     },
     {
       "id": "a2ed802281407f809316d6bfb8b46c6b56edc525",
@@ -740,16 +740,6 @@
       "summary": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild. The vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
       "published": "2025-12-11 07:09:00",
       "timestamp": 1765436940
-    },
-    {
-      "id": "0ee4c5671e91ef003cde9aa074ff4ba8a92565fe",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
-      "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-      "summary": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far. \"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
-      "published": "2025-12-11 05:56:00",
-      "timestamp": 1765432560
     },
     {
       "id": "8597f52e7c2025bf7b508ff83a983b86f9a89d30",
