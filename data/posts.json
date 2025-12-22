@@ -1,6 +1,46 @@
 {
-  "generated_at": 1766405945,
+  "generated_at": 1766416222,
   "items": [
+    {
+      "id": "3bb5e1d5d5028e8faa0a31b01a4f85ad99726f69",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
+      "summary": "The Clop ransomware gang has stolen the data of nearly 3.5 million University of Phoenix (UoPX) students, staff, and suppliers after breaching the university's network in August. [...]",
+      "published": "2025-12-22 14:18:55",
+      "timestamp": 1766413135
+    },
+    {
+      "id": "cc6434d267ebf4af8fd786fc95d6e841d138e670",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
+      "link": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
+      "summary": "Coupang disclosed a data breach affecting 33.7 million customers after unauthorized access to personal data went undetected for nearly five months. Penta Security explains how the incident highlights insider credential abuse risks and why encrypting customer data beyond legal requirements can reduce exposure and limit damage. [...]",
+      "published": "2025-12-22 14:00:09",
+      "timestamp": 1766412009
+    },
+    {
+      "id": "0349df5ea929e71ab16e206e5ca173cd745fdfdb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
+      "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
+      "summary": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They\u2019re going after the everyday tools we trust most \u2014 firewalls, browser add-ons, and even smart TVs \u2014 turning small cracks into serious breaches. The real danger now isn\u2019t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
+      "published": "2025-12-22 12:00:00",
+      "timestamp": 1766404800
+    },
+    {
+      "id": "774252e778dcc774076c6bcab8806a883c7a7c29",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How to Browse the Web More Sustainably With a Green Browser",
+      "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
+      "summary": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. Data centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant. Choosing a browser designed with",
+      "published": "2025-12-22 11:55:00",
+      "timestamp": 1766404500
+    },
     {
       "id": "cb1ece65bfa887bc2e5b6ebca1e54342944a658e",
       "source": "BleepingComputer",
@@ -160,26 +200,6 @@
       "summary": "Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks targeting a critical authentication bypass vulnerability. [...]",
       "published": "2025-12-19 15:00:45",
       "timestamp": 1766156445
-    },
-    {
-      "id": "d8a63fdf504df1b7090c83c6d00a1b825f88ff1a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
-      "summary": "Criminal IP (criminalip.io), the AI-powered threat intelligence and attack surface monitoring platform developed by AI SPERA, is now officially integrated into Palo Alto Networks' Cortex XSOAR. [...]",
-      "published": "2025-12-19 14:30:00",
-      "timestamp": 1766154600
-    },
-    {
-      "id": "b5f94b939c94382b5dc6ad966067b1004174c538",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Denmark blames Russia for destructive cyberattack on water utility",
-      "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
-      "summary": "Danish intelligence officials blamed Russia for orchestrating cyberattacks against Denmark's critical infrastructure, as part of Moscow's hybrid attacks against Western nations. [...]",
-      "published": "2025-12-19 12:28:48",
-      "timestamp": 1766147328
     },
     {
       "id": "95509e1eadac2e4bb58e7ee57cfefa1d5f4fb2da",
@@ -720,26 +740,6 @@
       "summary": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020. Palo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its",
       "published": "2025-12-11 11:00:00",
       "timestamp": 1765450800
-    },
-    {
-      "id": "9b9a1b8ee151e2afe6ae127c8fe1ddd3341f7aea",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
-      "link": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
-      "summary": "A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz. The flaw, tracked as CVE-2025-8110 (CVSS score: 8.7), is a case of file overwrite in the file update API of the Go-based self-hosted Git service. A fix for the issue is said to be currently in the",
-      "published": "2025-12-11 10:30:00",
-      "timestamp": 1765449000
-    },
-    {
-      "id": "061456ffb3c8746f5776592840c260d94d9e6946",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
-      "link": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
-      "summary": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild. The vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and",
-      "published": "2025-12-11 07:09:00",
-      "timestamp": 1765436940
     },
     {
       "id": "8597f52e7c2025bf7b508ff83a983b86f9a89d30",
