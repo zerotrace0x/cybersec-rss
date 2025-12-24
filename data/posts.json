@@ -1,6 +1,36 @@
 {
-  "generated_at": 1766589013,
+  "generated_at": 1766600056,
   "items": [
+    {
+      "id": "2458ba27c3b115a7555aa89839c0f458f4a54e7e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
+      "link": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
+      "summary": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks. \"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
+      "published": "2025-12-24 16:23:00",
+      "timestamp": 1766593380
+    },
+    {
+      "id": "e507667705251932b42fa16f7a013c67a9957c53",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "summary": "MongoDB has warned IT admins to immediately patch a high-severity vulnerability that can be exploited in remote code execution (RCE) attacks targeting vulnerable servers. [...]",
+      "published": "2025-12-24 14:18:36",
+      "timestamp": 1766585916
+    },
+    {
+      "id": "c3f47700d673f94fc3403ee631d4a24b4447453a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
+      "summary": "The U.S. government has seized the 'web3adspanels.org' domain and the associated database used by cybercriminals to host bank login credentials stolen in account takeover attacks. [...]",
+      "published": "2025-12-24 13:17:32",
+      "timestamp": 1766582252
+    },
     {
       "id": "10e26747086c72ca84c06623eb30603331375b7b",
       "source": "The Hacker News",
@@ -40,6 +70,16 @@
       "summary": "Apple has been fined \u20ac98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition. The Italian Competition Authority (Autorit\u00e0 Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
       "published": "2025-12-24 06:15:00",
       "timestamp": 1766556900
+    },
+    {
+      "id": "1ccd44dc1626cb9e1e6e2145795a212eb4e01bf7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/",
+      "summary": "Microsoft is rolling out hardware-accelerated BitLocker in Windows 11 to address growing performance and security concerns by leveraging the capabilities of system-on-a-chip and CPU. [...]",
+      "published": "2025-12-23 20:03:34",
+      "timestamp": 1766520214
     },
     {
       "id": "7460f3a06e95065a7d2120fb20bda5982cdd2847",
@@ -200,46 +240,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account. The package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
       "published": "2025-12-22 16:28:00",
       "timestamp": 1766420880
-    },
-    {
-      "id": "6406fe7fac1082bc5bb871d923b587f34c084427",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious npm package steals WhatsApp accounts and messages",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
-      "summary": "A malicious package in the Node Package Manager (NPM) registry poses as a legitimate WhatsApp Web API library to steal WhatsApp messages, collect contacts, and gain access to the account. [...]",
-      "published": "2025-12-22 16:08:46",
-      "timestamp": 1766419726
-    },
-    {
-      "id": "db8abd568412008fd013ac603733f50b79d1fc4a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Romanian water authority hit by ransomware attack over weekend",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
-      "summary": "Romanian Waters (Administra\u021bia Na\u021bional\u0103 Apele Rom\u00e2ne), the country's water management authority, was hit by a ransomware attack over the weekend. [...]",
-      "published": "2025-12-22 15:25:50",
-      "timestamp": 1766417150
-    },
-    {
-      "id": "3bb5e1d5d5028e8faa0a31b01a4f85ad99726f69",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
-      "summary": "The Clop ransomware gang has stolen the data of nearly 3.5 million University of Phoenix (UoPX) students, staff, and suppliers after breaching the university's network in August. [...]",
-      "published": "2025-12-22 14:18:55",
-      "timestamp": 1766413135
-    },
-    {
-      "id": "cc6434d267ebf4af8fd786fc95d6e841d138e670",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
-      "link": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
-      "summary": "Coupang disclosed a data breach affecting 33.7 million customers after unauthorized access to personal data went undetected for nearly five months. Penta Security explains how the incident highlights insider credential abuse risks and why encrypting customer data beyond legal requirements can reduce exposure and limit damage. [...]",
-      "published": "2025-12-22 14:00:09",
-      "timestamp": 1766412009
     },
     {
       "id": "0349df5ea929e71ab16e206e5ca173cd745fdfdb",
@@ -710,16 +710,6 @@
       "summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee. According to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows",
       "published": "2025-12-15 05:33:00",
       "timestamp": 1765776780
-    },
-    {
-      "id": "40d4d635d4c639d11687d918002c95420a8ab79d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks",
-      "link": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. CVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code",
-      "published": "2025-12-13 12:33:00",
-      "timestamp": 1765629180
     },
     {
       "id": "c831231ca336cd9806f75beb3e64472425ce5caf",
