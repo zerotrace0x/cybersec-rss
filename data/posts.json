@@ -1,6 +1,26 @@
 {
-  "generated_at": 1766643341,
+  "generated_at": 1766653950,
   "items": [
+    {
+      "id": "25bad57c3b71673d0408e3beaa0f5df0b728799f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
+      "link": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
+      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations. The vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
+      "published": "2025-12-25 08:22:00",
+      "timestamp": 1766650920
+    },
+    {
+      "id": "d5d6cb80c410248877f78f111a2f7fa5b691612c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code",
+      "published": "2025-12-25 08:07:00",
+      "timestamp": 1766650020
+    },
     {
       "id": "fc02d4cac3d4eb1c7fb82867ba7f2db70906fd9d",
       "source": "BleepingComputer",
@@ -680,26 +700,6 @@
       "summary": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale. A threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into",
       "published": "2025-12-15 11:55:00",
       "timestamp": 1765799700
-    },
-    {
-      "id": "d4829e32fc3689d6a985b3a9e86c7e28943bea90",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
-      "link": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images. The activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll",
-      "published": "2025-12-15 09:24:00",
-      "timestamp": 1765790640
-    },
-    {
-      "id": "40073db577328a0bdfdd2d4a12e078724c0421de",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
-      "link": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
-      "summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee. According to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows",
-      "published": "2025-12-15 05:33:00",
-      "timestamp": 1765776780
     },
     {
       "id": "c831231ca336cd9806f75beb3e64472425ce5caf",
