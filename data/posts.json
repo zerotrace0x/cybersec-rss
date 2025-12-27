@@ -1,6 +1,16 @@
 {
-  "generated_at": 1766816078,
+  "generated_at": 1766826588,
   "items": [
+    {
+      "id": "c0aff4736e775ebb0ae2c576d58782efe25ed843",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+      "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+      "summary": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory. The vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the",
+      "published": "2025-12-27 07:52:00",
+      "timestamp": 1766821920
+    },
     {
       "id": "d476955274080f691f4f2112c95eb490d146f8d6",
       "source": "BleepingComputer",
@@ -660,16 +670,6 @@
       "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft\u2026 But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
       "published": "2025-12-16 09:00:00",
       "timestamp": 1765875600
-    },
-    {
-      "id": "802e15154151377e674c5936782883c98a28f5fb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
-      "link": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
-      "summary": "The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security. \"KSwapDoor is a professionally engineered remote access tool designed with stealth in mind,\" Justin Moore, senior manager of threat intel research at Palo Alto Networks Unit 42, said in a",
-      "published": "2025-12-16 08:21:00",
-      "timestamp": 1765873260
     },
     {
       "id": "85d0791317ebec3156a73d368a2c0df54c2683ee",
