@@ -1,6 +1,46 @@
 {
-  "generated_at": 1767107407,
+  "generated_at": 1767118494,
   "items": [
+    {
+      "id": "032df7785dff16fe07fc6724d01cbab53ea6e591",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
+      "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
+      "published": "2025-12-30 16:28:00",
+      "timestamp": 1767112080
+    },
+    {
+      "id": "74fb2dc69298822eabf796db24908bef711d557c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "European Space Agency confirms breach of \"external servers\"",
+      "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
+      "summary": "The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities. [...]",
+      "published": "2025-12-30 16:26:56",
+      "timestamp": 1767112016
+    },
+    {
+      "id": "87de9bc1c5144524544a97664c1607e29cfab788",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
+      "summary": "A newly discovered campaign, which researchers call Zoom Stealer, is affecting 2.2 million Chrome, Firefox, and Microsoft Edge users through 18 extensions that collect online meeting-related data like URLs, IDs, topics, descriptions, and embedded passwords. [...]",
+      "published": "2025-12-30 15:41:53",
+      "timestamp": 1767109313
+    },
+    {
+      "id": "72a7f3aee0a2d0ccc6cbce9d4ef142b08e77a729",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
+      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint have pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+      "published": "2025-12-30 15:25:17",
+      "timestamp": 1767108317
+    },
     {
       "id": "773c86b860ae3f425202a7a8190bff300a52c85a",
       "source": "BleepingComputer",
@@ -162,16 +202,6 @@
       "timestamp": 1767011015
     },
     {
-      "id": "426dbcf70dd0fe61abbd05c1ec425195068a9649",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
-      "summary": "Fortinet has warned customers that threat actors are still actively exploiting a critical FortiOS vulnerability that allows them to bypass two-factor authentication (2FA) when targeting vulnerable FortiGate firewalls. [...]",
-      "published": "2025-12-29 11:16:03",
-      "timestamp": 1767006963
-    },
-    {
       "id": "be29013b335397f85aea8b2b417b3796187a8d7c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -200,16 +230,6 @@
       "summary": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory. The result: 23.77 million secrets were leaked through AI",
       "published": "2025-12-29 06:34:00",
       "timestamp": 1766990040
-    },
-    {
-      "id": "f2f2fd28e8bd7f210ca4c9f4a79314a094cd5610",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
-      "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
-      "summary": "A severe vulnerability affecting multiple MongoDB versions, dubbed MongoBleed (CVE-2025-14847), is being actively exploited in the wild, with over 80,000 potentially vulnerable servers exposed on the public web. [...]",
-      "published": "2025-12-28 20:38:15",
-      "timestamp": 1766954295
     },
     {
       "id": "c0aff4736e775ebb0ae2c576d58782efe25ed843",
@@ -660,16 +680,6 @@
       "summary": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky. The Russian cybersecurity vendor said it detected the new activity in October 2025. The origins of the threat actor are presently unknown. \"While the spring cyberattacks focused on organizations, the fall campaign honed in on",
       "published": "2025-12-17 14:54:00",
       "timestamp": 1765983240
-    },
-    {
-      "id": "6fe1e6154c9d1a92cf8c85a2ed4f4d720cc33813",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
-      "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-      "summary": "Modern security teams often feel like they\u2019re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It\u2019s the difference between preventing incidents and cleaning up after them. Below is the path from reactive firefighting to a",
-      "published": "2025-12-17 11:30:00",
-      "timestamp": 1765971000
     },
     {
       "id": "1c81a9b2e6684274a3fd262e8df3d7fefa6c2a79",
