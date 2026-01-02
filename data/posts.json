@@ -1,6 +1,36 @@
 {
-  "generated_at": 1767356282,
+  "generated_at": 1767366593,
   "items": [
+    {
+      "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "2026-01-02 14:20:10",
+      "timestamp": 1767363610
+    },
+    {
+      "id": "94a1338243a1ef00f014993b47f9eba12435b97c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack",
+      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/",
+      "summary": "Trust Wallet believes the compromise of its web browser to steal roughly $8.5 million from over 2,500 crypto wallets is likely related to an \"industry-wide\" Sha1-Hulud attack in November. [...]",
+      "published": "2026-01-02 14:19:40",
+      "timestamp": 1767363580
+    },
+    {
+      "id": "6387a7916b76907cc719a56014aaa8fb05296f6b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
+      "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
+      "summary": "The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grants them persistent control over compromised hosts. \"The campaign employs deceptive delivery techniques, including a weaponized Windows shortcut (LNK) file masquerading as a legitimate PDF document",
+      "published": "2026-01-02 13:52:00",
+      "timestamp": 1767361920
+    },
     {
       "id": "6a9f6dab1589e37d40dfae15aedfb3a54bf983bf",
       "source": "The Hacker News",
@@ -200,26 +230,6 @@
       "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
       "published": "2025-12-30 16:28:00",
       "timestamp": 1767112080
-    },
-    {
-      "id": "74fb2dc69298822eabf796db24908bef711d557c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "European Space Agency confirms breach of \"external servers\"",
-      "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
-      "summary": "The European Space Agency (ESA) confirmed that attackers recently breached servers outside its corporate network, which contained what it described as \"unclassified\" information on collaborative engineering activities. [...]",
-      "published": "2025-12-30 16:26:56",
-      "timestamp": 1767112016
-    },
-    {
-      "id": "87de9bc1c5144524544a97664c1607e29cfab788",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
-      "summary": "A newly discovered campaign, which researchers call Zoom Stealer, is affecting 2.2 million Chrome, Firefox, and Microsoft Edge users through 18 extensions that collect online meeting-related data like URLs, IDs, topics, descriptions, and embedded passwords. [...]",
-      "published": "2025-12-30 15:41:53",
-      "timestamp": 1767109313
     },
     {
       "id": "c2571bb9dcee6745f1a664c7210470c2c2e1cbf9",
@@ -632,16 +642,6 @@
       "timestamp": 1766077200
     },
     {
-      "id": "8dabb91b84fbb090b464e12cef89ca8a9b9d23ff",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
-      "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution. The critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
-      "published": "2025-12-18 14:39:00",
-      "timestamp": 1766068740
-    },
-    {
       "id": "4770e9197c8af5a09395bb00fc34b55bc3cf81c1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -870,16 +870,6 @@
       "summary": "Written by: Harsh Parashar, Tierra Duncan, Dan Perez Google Threat Intelligence Group (GTIG) is tracking a long-running and adaptive cyber espionage campaign by APT24, a People's Republic of China (PRC)-nexus threat actor. Spanning three years, APT24 has been deploying BADAUDIO, a highly obfuscated first-stage downloader used to establish persistent access to victim networks. While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently ",
       "published": "2025-11-20 14:00:00",
       "timestamp": 1763647200
-    },
-    {
-      "id": "f37df0ea50b803da0490ea529edac54f129fdf9e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
-      "published": "2025-11-19 14:07:03",
-      "timestamp": 1763561223
     },
     {
       "id": "5f632a8579ef76a227d990a8efd865bf8c65f763",
