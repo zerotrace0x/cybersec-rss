@@ -1,6 +1,56 @@
 {
-  "generated_at": 1767723302,
+  "generated_at": 1767733775,
   "items": [
+    {
+      "id": "43516545c207f55fb1eee7cd83bcfb077d24ce65",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
+      "summary": "Microsoft announced today that it has canceled plans to impose a daily limit of 2,000 external recipients on Exchange Online bulk email senders. [...]",
+      "published": "2026-01-06 20:49:30",
+      "timestamp": 1767732570
+    },
+    {
+      "id": "70eb7550ba83e0c0fdc92ff363f16a6547baf4c6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/",
+      "summary": "Threat actors are exploiting a recently discovered command injection vulnerability that affects multiple D-Link DSL gateway routers that went out of support years ago. [...]",
+      "published": "2026-01-06 19:52:52",
+      "timestamp": 1767729172
+    },
+    {
+      "id": "242ae3ed8a8a25b366e253190140359057cecd2e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices",
+      "link": "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/",
+      "summary": "The Kimwolf botnet, an Android variant of the Aisuru malware, has grown to more than two million hosts, most of them infected by exploiting vulnerabilities in residential proxy networks to target devices on internal networks. [...]",
+      "published": "2026-01-06 19:15:11",
+      "timestamp": 1767726911
+    },
+    {
+      "id": "ddb3585849abc05e3810c21475e73c51373ac1c8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
+      "summary": "Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes. [...]",
+      "published": "2026-01-06 18:27:08",
+      "timestamp": 1767724028
+    },
+    {
+      "id": "413b701f6b3ac26539ec93ae0a351b0a6d3158df",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Phishing actors exploit complex routing and misconfigurations to spoof domains",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/06/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/",
+      "summary": "Threat actors are exploiting complex routing scenarios and misconfigured spoof protections to send spoofed phishing emails, crafted to appear as internally sent messages. The post Phishing actors exploit complex routing and misconfigurations to spoof domains appeared first on Microsoft Security Blog.",
+      "published": "2026-01-06 18:00:00",
+      "timestamp": 1767722400
+    },
     {
       "id": "f8188d26695bc71bf1f0590daf889050602a8fd4",
       "source": "The Hacker News",
@@ -10,6 +60,16 @@
       "summary": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control. The names of the extensions, which collectively have over 900,000 users, are below - Chat GPT for Chrome with GPT-5, Claude Sonnet & DeepSeek AI (ID:",
       "published": "2026-01-06 17:21:00",
       "timestamp": 1767720060
+    },
+    {
+      "id": "7860d6d23e74c2aad3519a262ee0f5b463eba0c4",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/06/introducing-the-microsoft-defender-experts-suite-elevate-your-security-with-expert-led-services/",
+      "summary": "Announcing Microsoft Defender Experts Suite, a integrated set of expert-led services that helps security teams keep pace with modern cyberattacks. The post Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services appeared first on Microsoft Security Blog.",
+      "published": "2026-01-06 17:00:00",
+      "timestamp": 1767718800
     },
     {
       "id": "034bed00ae84410246cba5f91d21fbd8c83c923e",
@@ -182,16 +242,6 @@
       "timestamp": 1767625515
     },
     {
-      "id": "307ea11c42ad78e95ba0c5fd47e2e3914009594f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
-      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
-      "summary": "NordVPN denied allegations that its internal Salesforce development servers were breached, saying that cybercriminals obtained \"dummy data\" from a trial account on a third-party automated testing platform. [...]",
-      "published": "2026-01-05 14:48:46",
-      "timestamp": 1767624526
-    },
-    {
       "id": "d1f75df4144f1c8ee7022070cd9821a207ad0a92",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +280,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new Python-based information stealer called VVS Stealer (also styled as VVS $tealer) that's capable of harvesting Discord credentials and tokens. The stealer is said to have been on sale on Telegram as far back as April 2025, according to a report from Palo Alto Networks Unit 42. \"VVS stealer's code is obfuscated by Pyarmor,\" researchers",
       "published": "2026-01-05 07:48:00",
       "timestamp": 1767599280
-    },
-    {
-      "id": "7b6942d64bb26d360e9668df13b011f2e7e61ab6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
-      "summary": "The ShinyHunters hacking group claims it breached the systems of cybersecurity firm Resecurity and stole internal data, while Resecurity says the attackers only accessed a deliberately deployed honeypot containing fake information used to monitor their activity. [...]",
-      "published": "2026-01-03 20:34:22",
-      "timestamp": 1767472462
     },
     {
       "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
@@ -790,26 +830,6 @@
       "summary": "The Shai\u2011Hulud 2.0 supply chain attack represents one of the most significant cloud-native ecosystem compromises observed recently. Attackers maliciously modified hundreds of publicly available packages, targeting developer environments, continuous integration and continuous delivery (CI/CD) pipelines, and cloud-connected workloads to harvest credentials and configuration secrets. The Shai\u2011Hulud 2. The post Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply c",
       "published": "2025-12-09 21:41:32",
       "timestamp": 1765316492
-    },
-    {
-      "id": "40914167da60bd327280a9a3f9f0f02562fb4961",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Changing the physics of cyber defense",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/changing-the-physics-of-cyber-defense/",
-      "summary": "Cyber defense is evolving. Find out how graph-powered strategies and AI can help organizations detect threats faster and improve security hygiene. The post Changing the physics of cyber defense appeared first on Microsoft Security Blog.",
-      "published": "2025-12-09 17:00:00",
-      "timestamp": 1765299600
-    },
-    {
-      "id": "5a0a750d7c3f654d22d61f3b936b701bf1825a51",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Stronger together: New Beazley collaboration enhances cyber resilience",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/08/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/",
-      "summary": "To bolster security for our customers, we need to align with our ecosystem partners. Our new collaboration with Beazley as an incident response partner is a step in that direction. The post Stronger together: New Beazley collaboration enhances cyber resilience appeared first on Microsoft Security Blog.",
-      "published": "2025-12-08 17:00:00",
-      "timestamp": 1765213200
     },
     {
       "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
