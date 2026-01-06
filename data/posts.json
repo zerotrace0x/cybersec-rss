@@ -1,6 +1,26 @@
 {
-  "generated_at": 1767701954,
+  "generated_at": 1767712268,
   "items": [
+    {
+      "id": "cab197231b123b535f3c7ad4769a22b24b23a84a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How generative AI accelerates identity attacks against Active Directory",
+      "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
+      "summary": "Generative AI is accelerating password attacks against Active Directory, making credential abuse faster and more effective. Specops Software explains how AI-driven cracking techniques exploit weak and predictable AD passwords. [...]",
+      "published": "2026-01-06 14:46:15",
+      "timestamp": 1767710775
+    },
+    {
+      "id": "000957c8058bedbf6a6e6133e6ea8cdc68911c2a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+      "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+      "summary": "Source: Securonix Cybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector. The end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
+      "published": "2026-01-06 12:13:00",
+      "timestamp": 1767701580
+    },
     {
       "id": "6c359f4323c99390dc84a22fead2f3c1a6b6a732",
       "source": "The Hacker News",
@@ -10,6 +30,16 @@
       "summary": "The Invisible Half of the Identity Universe Identity used to live in one place - an LDAP directory, an HR system, a single IAM portal. Not anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows. Traditional IAM and IGA tools govern only the nearly",
       "published": "2026-01-06 11:30:00",
       "timestamp": 1767699000
+    },
+    {
+      "id": "8ab776109f10a8ce9bb16c41cdea5605fc54f97a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+      "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+      "summary": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names. The problem, according to Koi, is that these",
+      "published": "2026-01-06 11:25:00",
+      "timestamp": 1767698700
     },
     {
       "id": "9c85d916abb3c116463c8d787a1112da75cc8ad4",
@@ -27,7 +57,7 @@
       "source_category": "General",
       "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
       "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-      "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. It affects n8n versions from",
+      "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
       "published": "2026-01-06 05:08:00",
       "timestamp": 1767676080
     },
@@ -190,26 +220,6 @@
       "summary": "The Covenant Health organization has revised to nearly 500,000 the number of individuals affected by a data breach discovered last May. [...]",
       "published": "2026-01-02 19:00:42",
       "timestamp": 1767380442
-    },
-    {
-      "id": "69a4ccab6a0a91b067468b1238d309c07cfa0bf6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/",
-      "summary": "Blockchain investigation firm TRM Labs says ongoing cryptocurrency thefts have been traced to the 2022 LastPass breach, with attackers draining wallets years after encrypted vaults were stolen and laundering the crypto through Russian exchanges. [...]",
-      "published": "2026-01-02 17:28:01",
-      "timestamp": 1767374881
-    },
-    {
-      "id": "60cfd326d5e72c309dfcfb7da014fb5eabd731d0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass",
-      "link": "https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/",
-      "summary": "Over 10,000 Internet-exposed Fortinet firewalls are still vulnerable to attacks exploiting a five-year-old two-factor authentication (2FA) bypass vulnerability. [...]",
-      "published": "2026-01-02 16:01:55",
-      "timestamp": 1767369715
     },
     {
       "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
@@ -620,26 +630,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account. The package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \"",
       "published": "2025-12-22 16:28:00",
       "timestamp": 1766420880
-    },
-    {
-      "id": "0349df5ea929e71ab16e206e5ca173cd745fdfdb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
-      "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
-      "summary": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They\u2019re going after the everyday tools we trust most \u2014 firewalls, browser add-ons, and even smart TVs \u2014 turning small cracks into serious breaches. The real danger now isn\u2019t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can",
-      "published": "2025-12-22 12:00:00",
-      "timestamp": 1766404800
-    },
-    {
-      "id": "774252e778dcc774076c6bcab8806a883c7a7c29",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How to Browse the Web More Sustainably With a Green Browser",
-      "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
-      "summary": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow. Data centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant. Choosing a browser designed with",
-      "published": "2025-12-22 11:55:00",
-      "timestamp": 1766404500
     },
     {
       "id": "573a647b99259c7839167fd3f8a423ae87d14825",
