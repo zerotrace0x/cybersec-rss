@@ -1,5 +1,5 @@
 {
-  "generated_at": 1767680208,
+  "generated_at": 1767690941,
   "items": [
     {
       "id": "abbea57562641a6acbdb3f8f1e7fbc0ffd94f0de",
@@ -10,6 +10,16 @@
       "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. It affects n8n versions from",
       "published": "2026-01-06 05:08:00",
       "timestamp": 1767676080
+    },
+    {
+      "id": "582813a160cf64c2ead634cb570dbb38302bfaa2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+      "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+      "summary": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server. Tracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
+      "published": "2026-01-06 03:30:00",
+      "timestamp": 1767670200
     },
     {
       "id": "48a50343b9efafec5c2d044d614988899d3790dd",
@@ -630,16 +640,6 @@
       "summary": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan. \"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
       "published": "2025-12-22 06:11:00",
       "timestamp": 1766383860
-    },
-    {
-      "id": "3896bbdec9305ffc0bfb1d5f6164339731ab6f70",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
-      "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
-      "summary": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey. \"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
-      "published": "2025-12-21 04:22:00",
-      "timestamp": 1766290920
     },
     {
       "id": "573a647b99259c7839167fd3f8a423ae87d14825",
