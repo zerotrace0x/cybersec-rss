@@ -1,6 +1,66 @@
 {
-  "generated_at": 1767777449,
+  "generated_at": 1767788387,
   "items": [
+    {
+      "id": "df9106878afd67f4bbdec224c13aba6ccb0c4e0b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK announces plan to strengthen public sector cyber defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
+      "summary": "The United Kingdom has announced a new cybersecurity strategy, backed by more than \u00a3210 million ($283 million), to boost cyber defenses across government departments and the wider public sector. [...]",
+      "published": "2026-01-07 12:15:01",
+      "timestamp": 1767788101
+    },
+    {
+      "id": "4b124b19b8c9b020397e9112edb4ac812f666ee0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+      "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+      "summary": "Security teams are still catching malware. The problem is what they're not catching. More attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment \u2014 scripts, remote access, browsers, and developer workflows. That shift is creating a blind spot. Join us for a deep-dive",
+      "published": "2026-01-07 11:55:00",
+      "timestamp": 1767786900
+    },
+    {
+      "id": "93f20c7924f0ad35cc129a2ef895cf6d1032c9c8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
+      "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
+      "summary": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE). The vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system. \"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
+      "published": "2026-01-07 11:26:00",
+      "timestamp": 1767785160
+    },
+    {
+      "id": "ed2b524bbf82067d30e11c7aca8c1ff22f229e73",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Future of Cybersecurity Includes Non-Human Employees",
+      "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
+      "summary": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne\u2019s 2025 Future of Identity Security Report",
+      "published": "2026-01-07 11:00:00",
+      "timestamp": 1767783600
+    },
+    {
+      "id": "3eec3159b9e08cb8a5e881fb54bd8abcde926316",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
+      "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
+      "summary": "Veeam has released security updates to address multiple flaws in its Backup & Replication software, including a \"critical\" issue that could result in remote code execution (RCE). The vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0. \"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious",
+      "published": "2026-01-07 10:41:00",
+      "timestamp": 1767782460
+    },
+    {
+      "id": "68cfa429bbe5a24083eb5076771ddd3828a2175f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
+      "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
+      "summary": "Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have been sent internally. \"Threat actors have leveraged this vector to deliver a wide variety of phishing messages related to various phishing-as-a-service (PhaaS) platforms such as Tycoon 2FA,\" the",
+      "published": "2026-01-07 09:42:00",
+      "timestamp": 1767778920
+    },
     {
       "id": "298778c8efef0a7324cccb7c68ec1a2e75f35c5b",
       "source": "The Hacker News",
@@ -10,6 +70,16 @@
       "summary": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters. \"An unauthenticated remote attacker can inject",
       "published": "2026-01-07 04:31:00",
       "timestamp": 1767760260
+    },
+    {
+      "id": "0a06b7f78b6681a23d84a543579170c802db5b72",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI is reportedly getting ready to test ads in ChatGPT",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/",
+      "summary": "Multiple reports suggest that OpenAI is going ahead with its plans to add ads to ChatGPT, but the experiment will be initially limited to its employees. [...]",
+      "published": "2026-01-07 01:30:00",
+      "timestamp": 1767749400
     },
     {
       "id": "f2f39fe0f40d57586a6adb29374745e5c2d55687",
@@ -202,26 +272,6 @@
       "timestamp": 1767653536
     },
     {
-      "id": "f9ab650b6c77dbcd831cb1619029116d5f4619d0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
-      "summary": "A new ClickFix social engineering campaign is targeting the hospitality sector in Europe, using fake Windows Blue Screen of Death (BSOD) screens to trick users into manually compiling and executing malware on their systems. [...]",
-      "published": "2026-01-05 21:16:35",
-      "timestamp": 1767647795
-    },
-    {
-      "id": "2f16533231a87f246a77383b20163020cd455de5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US broadband provider Brightspeed investigates breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/",
-      "summary": "Brightspeed, one of the largest fiber broadband companies in the United States, is investigating security breach and data theft claims made by the Crimson Collective extortion gang. [...]",
-      "published": "2026-01-05 20:01:17",
-      "timestamp": 1767643277
-    },
-    {
       "id": "7171b8a0ee06b9d8b2704e4949a4afe1711ad5a9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +280,6 @@
       "summary": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives. \"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in",
       "published": "2026-01-05 17:56:00",
       "timestamp": 1767635760
-    },
-    {
-      "id": "26d6dd9da52d1357cf7bcd0a01dd9b0b6e3d3e9b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
-      "summary": "Popular AI-powered integrated development environment solutions, such as Cursor, Windsurf, Google Antigravity, and Trae, recommend extensions that are non-existent in the OpenVSX registry, allowing threat actors to claim the namespace and upload malicious extensions. [...]",
-      "published": "2026-01-05 16:41:38",
-      "timestamp": 1767631298
     },
     {
       "id": "36cffb3b63b0833bad349055b532c3d066d94be1",
@@ -620,56 +660,6 @@
       "summary": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors. The complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
       "published": "2025-12-24 09:19:00",
       "timestamp": 1766567940
-    },
-    {
-      "id": "cb5e7ca1996b66ff0d3c801823cc12a1b6edce6e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Italy Fines Apple \u20ac98.6 Million Over ATT Rules Limiting App Store Competition",
-      "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
-      "summary": "Apple has been fined \u20ac98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition. The Italian Competition Authority (Autorit\u00e0 Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
-      "published": "2025-12-24 06:15:00",
-      "timestamp": 1766556900
-    },
-    {
-      "id": "8a53e0a9e82e8dd0d9b02883e6bf7e0833c85e94",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-      "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-      "summary": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials. The extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
-      "published": "2025-12-23 14:42:00",
-      "timestamp": 1766500920
-    },
-    {
-      "id": "661561d8bba533345b1f1f548db27719f9f9184d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
-      "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
-      "summary": "A law enforcement operation coordinated by INTERPOL has led to the recovery of $3 million and the arrest of 574 suspects by authorities from 19 countries, amidst a continued crackdown on cybercrime networks in Africa. The coordinated effort, named Operation Sentinel, took place between October 27 and November 27, 2025, and mainly focused on business email compromise (BEC), digital extortion, and",
-      "published": "2025-12-23 11:35:00",
-      "timestamp": 1766489700
-    },
-    {
-      "id": "48cf62bda1bbee7f3b72265bccd2fb94e42400a0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
-      "link": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-      "summary": "Passwd is designed specifically for organizations operating within Google Workspace. Rather than competing as a general consumer password manager, its purpose is narrow, and business-focused: secure credential storage, controlled sharing, and seamless Workspace integration. The platform emphasizes practicality over feature overload, aiming to provide a reliable system for teams that already rely",
-      "published": "2025-12-23 11:30:00",
-      "timestamp": 1766489400
-    },
-    {
-      "id": "f40fbf3bdadec304a983b8ab0a5cbc1eaeb99e9d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
-      "link": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-      "summary": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme. The domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
-      "published": "2025-12-23 08:15:00",
-      "timestamp": 1766477700
     },
     {
       "id": "573a647b99259c7839167fd3f8a423ae87d14825",
