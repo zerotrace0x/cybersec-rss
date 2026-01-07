@@ -1,6 +1,56 @@
 {
-  "generated_at": 1767798764,
+  "generated_at": 1767809753,
   "items": [
+    {
+      "id": "afd6fb4ccf1ee67d3ba261bc843496449aa3cff9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
+      "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
+      "summary": "Logitech's Options+ and G Hub apps on macOS stopped working after their code-signing certificate expired, leaving users unable to launch them on Apple systems. [...]",
+      "published": "2026-01-07 18:05:42",
+      "timestamp": 1767809142
+    },
+    {
+      "id": "da77553fb746fd09fdd6f860eea25c111d199878",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/",
+      "summary": "A maximum severity vulnerability dubbed \"Ni8mare\" allows remote, unauthenticated attackers to take control over locally deployed instances of the N8N workflow automation platform. [...]",
+      "published": "2026-01-07 17:41:10",
+      "timestamp": 1767807670
+    },
+    {
+      "id": "fce2536904f24444e2bfdc53643976b4025b2c82",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Explore the latest Microsoft Incident Response proactive services for enhanced resilience",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/07/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/",
+      "summary": "The new proactive services from Microsoft Incident Response turn security uncertainty into readiness with expert\u2011led preparation and advanced intelligence. The post Explore the latest Microsoft Incident Response proactive services for enhanced resilience appeared first on Microsoft Security Blog.",
+      "published": "2026-01-07 17:00:00",
+      "timestamp": 1767805200
+    },
+    {
+      "id": "ae216effbada7640d7c9ea8b2114f7756cc04f1d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/",
+      "summary": "Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
+      "published": "2026-01-07 16:30:24",
+      "timestamp": 1767803424
+    },
+    {
+      "id": "d977a02deb3f1db8b76d0618755d4432b33b2f5d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT",
+      "link": "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/",
+      "summary": "Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known as \"vibe hacking.\" Flare examines how underground forums promote AI tools, jailbreak techniques, and so-called \"Hacking-GPT\" services that promise ease rather than technical mastery. [...]",
+      "published": "2026-01-07 15:00:10",
+      "timestamp": 1767798010
+    },
     {
       "id": "afde2e96c78a62542c140558433062596bef83c7",
       "source": "BleepingComputer",
@@ -10,6 +60,16 @@
       "summary": "File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
       "published": "2026-01-07 14:34:39",
       "timestamp": 1767796479
+    },
+    {
+      "id": "5c11e57cd10d7f841ce2c039f955dedb79f67dae",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
+      "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
+      "summary": "Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attacker to gain complete control over susceptible instances. The vulnerability, tracked as CVE-2026-21858 (CVSS score: 10.0), has been codenamed Ni8mare by Cyera Research Labs. Security researcher Dor Attias has been",
+      "published": "2026-01-07 13:48:00",
+      "timestamp": 1767793680
     },
     {
       "id": "51f8f610bfb2942af56cbdd2899525636103c9e2",
@@ -162,16 +222,6 @@
       "timestamp": 1767726911
     },
     {
-      "id": "ddb3585849abc05e3810c21475e73c51373ac1c8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
-      "summary": "Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes. [...]",
-      "published": "2026-01-06 18:27:08",
-      "timestamp": 1767724028
-    },
-    {
       "id": "413b701f6b3ac26539ec93ae0a351b0a6d3158df",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -210,26 +260,6 @@
       "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device. The flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start",
       "published": "2026-01-06 15:47:00",
       "timestamp": 1767714420
-    },
-    {
-      "id": "7d475ea7b8794f7bf4adb144b0265ef91943f510",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Sedgwick confirms breach at government contractor subsidiary",
-      "link": "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/",
-      "summary": "Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was the victim of a security breach. [...]",
-      "published": "2026-01-06 15:27:22",
-      "timestamp": 1767713242
-    },
-    {
-      "id": "cab197231b123b535f3c7ad4769a22b24b23a84a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How generative AI accelerates identity attacks against Active Directory",
-      "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
-      "summary": "Generative AI is accelerating password attacks against Active Directory, making credential abuse faster and more effective. Specops Software explains how AI-driven cracking techniques exploit weak and predictable AD passwords. [...]",
-      "published": "2026-01-06 14:46:15",
-      "timestamp": 1767710775
     },
     {
       "id": "000957c8058bedbf6a6e6133e6ea8cdc68911c2a",
@@ -662,16 +692,6 @@
       "timestamp": 1766575800
     },
     {
-      "id": "c434932dc0d1be28ee51e282c481be01c544b010",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips",
-      "link": "https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html",
-      "summary": "The U.S. Securities and Exchange Commission (SEC) has filed charges against multiple companies for their alleged involvement in an elaborate cryptocurrency scam that swindled more than $14 million from retail investors. The complaint charged crypto asset trading platforms Morocoin Tech Corp., Berge Blockchain Technology Co., Ltd., and Cirkor Inc., as well as investment clubs AI Wealth Inc., Lane",
-      "published": "2025-12-24 09:19:00",
-      "timestamp": 1766567940
-    },
-    {
       "id": "573a647b99259c7839167fd3f8a423ae87d14825",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -820,16 +840,6 @@
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "published": "2025-12-09 23:18:29",
       "timestamp": 1765322309
-    },
-    {
-      "id": "54404777523fe82775791007c1e3d7ec77b2b048",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/09/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/",
-      "summary": "The Shai\u2011Hulud 2.0 supply chain attack represents one of the most significant cloud-native ecosystem compromises observed recently. Attackers maliciously modified hundreds of publicly available packages, targeting developer environments, continuous integration and continuous delivery (CI/CD) pipelines, and cloud-connected workloads to harvest credentials and configuration secrets. The Shai\u2011Hulud 2. The post Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply c",
-      "published": "2025-12-09 21:41:32",
-      "timestamp": 1765316492
     },
     {
       "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
