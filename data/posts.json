@@ -1,6 +1,16 @@
 {
-  "generated_at": 1767758195,
+  "generated_at": 1767766595,
   "items": [
+    {
+      "id": "298778c8efef0a7324cccb7c68ec1a2e75f35c5b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+      "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+      "summary": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters. \"An unauthenticated remote attacker can inject",
+      "published": "2026-01-07 04:31:00",
+      "timestamp": 1767760260
+    },
     {
       "id": "f2f39fe0f40d57586a6adb29374745e5c2d55687",
       "source": "BleepingComputer",
@@ -660,16 +670,6 @@
       "summary": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme. The domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
       "published": "2025-12-23 08:15:00",
       "timestamp": 1766477700
-    },
-    {
-      "id": "030455fc6927d6c7b33d00afd5f3ce6267340a63",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-      "link": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-      "summary": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances. The vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. Security researcher Fatih \u00c7elik has been credited with discovering and reporting the flaw. The package",
-      "published": "2025-12-23 07:34:00",
-      "timestamp": 1766475240
     },
     {
       "id": "573a647b99259c7839167fd3f8a423ae87d14825",
