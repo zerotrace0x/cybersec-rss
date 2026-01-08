@@ -1,6 +1,36 @@
 {
-  "generated_at": 1767874827,
+  "generated_at": 1767885243,
   "items": [
+    {
+      "id": "138f3ad27be02a92ded46594f19ec366a3483040",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Six for 2026: The cyber threats you can\u2019t ignore",
+      "link": "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/",
+      "summary": "Cybersecurity threats in 2026 are accelerating, driven by AI, automation, and more effective social engineering. Corelight outlines six emerging attack trends and explains how network visibility can help defenders respond faster. [...]",
+      "published": "2026-01-08 15:02:12",
+      "timestamp": 1767884532
+    },
+    {
+      "id": "c11e82b5514a0627124b4db6af847c2b16502404",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere. This week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in. Read on to catch up before the next wave hits. Honeypot Traps Hackers Hackers Fall for",
+      "published": "2026-01-08 12:49:00",
+      "timestamp": 1767876540
+    },
+    {
+      "id": "07f6ffeb2783ad43affb2b3fcfa1d81bd7f0ef6e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
+      "summary": "Microsoft is working to fix an Exchange Online service outage that intermittently prevents users from accessing their mailboxes via the Internet Mailbox Access Protocol 4 (IMAP4). [...]",
+      "published": "2026-01-08 12:45:35",
+      "timestamp": 1767876335
+    },
     {
       "id": "305d07de6dbe67e2dd24aed71baaa4b0775da38b",
       "source": "BleepingComputer",
@@ -202,16 +232,6 @@
       "timestamp": 1767798010
     },
     {
-      "id": "afde2e96c78a62542c140558433062596bef83c7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ownCloud urges users to enable MFA after credential theft reports",
-      "link": "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/",
-      "summary": "File-sharing platform ownCloud warned users today to enable multi-factor authentication (MFA) to block attackers using compromised credentials from stealing their data. [...]",
-      "published": "2026-01-07 14:34:39",
-      "timestamp": 1767796479
-    },
-    {
       "id": "5c11e57cd10d7f841ce2c039f955dedb79f67dae",
       "source": "The Hacker News",
       "source_category": "General",
@@ -220,26 +240,6 @@
       "summary": "Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attacker to gain complete control over susceptible instances. The vulnerability, tracked as CVE-2026-21858 (CVSS score: 10.0), has been codenamed Ni8mare by Cyera Research Labs. Security researcher Dor Attias has been",
       "published": "2026-01-07 13:48:00",
       "timestamp": 1767793680
-    },
-    {
-      "id": "51f8f610bfb2942af56cbdd2899525636103c9e2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
-      "summary": "Veeam released security updates to patch multiple security flaws in its Backup & Replication software, including a critical remote code execution (RCE) vulnerability. [...]",
-      "published": "2026-01-07 13:06:11",
-      "timestamp": 1767791171
-    },
-    {
-      "id": "b3a6ff4c9400478a56319f5f14bad7ef636ed669",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
-      "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
-      "summary": "AI, including AI Overviews on Google Search, can hallucinate and often make up stuff or offer contradicting answers when asked in two different ways. [...]",
-      "published": "2026-01-07 12:50:38",
-      "timestamp": 1767790238
     },
     {
       "id": "93f20c7924f0ad35cc129a2ef895cf6d1032c9c8",
@@ -680,16 +680,6 @@
       "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in T\u00fcrkiye, China, and India. The activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a",
       "published": "2025-12-26 14:44:00",
       "timestamp": 1766760240
-    },
-    {
-      "id": "6fc6a8439f4a10a33e6ed9ab9b1945b58cda6cbb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
-      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
-      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection. LangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
-      "published": "2025-12-26 09:27:00",
-      "timestamp": 1766741220
     },
     {
       "id": "573a647b99259c7839167fd3f8a423ae87d14825",
