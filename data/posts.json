@@ -1,6 +1,36 @@
 {
-  "generated_at": 1768220444,
+  "generated_at": 1768230866,
   "items": [
+    {
+      "id": "da7b8816b06c6f9078d2738bcb2e29fd47a3ebc7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Prevent cloud data leaks with Microsoft 365 access reviews",
+      "link": "https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/",
+      "summary": "Microsoft 365 has made file sharing effortless, but that convenience often leaves organizations with little visibility into who can access sensitive data. Tenfold explains how access reviews for shared cloud content can help organizations regain visibility, reduce unnecessary permissions, and prevent data leaks in Microsoft 365. [...]",
+      "published": "2026-01-12 14:45:00",
+      "timestamp": 1768229100
+    },
+    {
+      "id": "f57743667aa172083571cde02589eeea9e94335c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Max severity Ni8mare flaw impacts nearly 60,000 n8n instances",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
+      "summary": "Nearly 60,000 n8n instances exposed online remain unpatched against a maximum-severity vulnerability dubbed \"Ni8mare.\" [...]",
+      "published": "2026-01-12 14:05:54",
+      "timestamp": 1768226754
+    },
+    {
+      "id": "fe838c57088c979c8b6f7a0bfc3d9756e80e7740",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+      "summary": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn\u2019t need novel tricks. They used what was already exposed and moved in without resistance. Scale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and",
+      "published": "2026-01-12 13:41:00",
+      "timestamp": 1768225260
+    },
     {
       "id": "f07fa14f90f6ab2606eb51fe1e2af3a178dc3590",
       "source": "The Hacker News",
@@ -152,16 +182,6 @@
       "timestamp": 1767990862
     },
     {
-      "id": "c91df8e38d3b71be9b8b0795f884cc36feb2ecaa",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers target misconfigured proxies to access paid LLM services",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
-      "summary": "Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. [...]",
-      "published": "2026-01-09 19:56:49",
-      "timestamp": 1767988609
-    },
-    {
       "id": "7b3dbd1c699a15f8e5a9834f88852261bcf20c6b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -172,16 +192,6 @@
       "timestamp": 1767980580
     },
     {
-      "id": "e803106e9b1044ebf4de9e0793f46a2ed684ac6e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Illinois Department of Human Services data breach affects 700K people",
-      "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
-      "summary": "The Illinois Department of Human Services (IDHS), one of Illinois' largest state agencies, accidentally exposed the personal and health data of nearly 700,000 residents due to incorrect privacy settings. [...]",
-      "published": "2026-01-09 15:37:41",
-      "timestamp": 1767973061
-    },
-    {
       "id": "e824f0791f8257f7705f97bb0c84edb86df76a7e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -190,16 +200,6 @@
       "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan. The activity has been attributed to APT28 (aka BlueDelta), which was tied to a \"sustained\"",
       "published": "2026-01-09 15:28:00",
       "timestamp": 1767972480
-    },
-    {
-      "id": "45a9763c2141d3778279cf6d4b422c019b95a325",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Email security needs more seatbelts: Why click rate is the wrong metric",
-      "link": "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/",
-      "summary": "Click rate misses the real email security risk: what attackers can do after they access a mailbox. Material Security explains why containment and post-compromise impact matter more than phishing metrics. [...]",
-      "published": "2026-01-09 15:01:11",
-      "timestamp": 1767970871
     },
     {
       "id": "d52eae8e3b67c8414dde2e4e5cff9d405d4d10b9",
@@ -670,16 +670,6 @@
       "summary": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox. The activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
       "published": "2025-12-31 16:14:00",
       "timestamp": 1767197640
-    },
-    {
-      "id": "2bd884e6e0da82adb52de1d9aa761c4582f152f3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
-      "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
-      "summary": "IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application. The vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an authentication bypass flaw. \"IBM API Connect could allow a remote attacker to bypass authentication mechanisms and gain",
-      "published": "2025-12-31 13:37:00",
-      "timestamp": 1767188220
     },
     {
       "id": "3c9ca8e75049a179fca7778a8d0eda58fc626212",
