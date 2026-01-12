@@ -1,6 +1,66 @@
 {
-  "generated_at": 1768230866,
+  "generated_at": 1768241740,
   "items": [
+    {
+      "id": "f2f7e3fb70207e68732c25cf9b0a0f0b9cb6338e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Target's dev server offline after hackers claim to steal source code",
+      "link": "https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/",
+      "summary": "Hackers are claiming to be selling internal source code belonging to Target Corporation, after publishing what appears to be a sample of stolen code repositories on a public software development platform. After BleepingComputer notified Target, the files were taken offline and the retailer's developer Git server was inaccessible. [...]",
+      "published": "2026-01-12 17:52:10",
+      "timestamp": 1768240330
+    },
+    {
+      "id": "76cf0af22d49a798cd45f7a477978fccb59e1395",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apple confirms Google Gemini will power Siri, says privacy remains a priority",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/",
+      "summary": "Apple and Google have confirmed that the next version of Siri will use Gemini and Google Cloud in a multi-year collaboration between the two tech giants. [...]",
+      "published": "2026-01-12 16:43:47",
+      "timestamp": 1768236227
+    },
+    {
+      "id": "434524a497f6a7f67117a9785950d781c82f78f0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+      "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+      "summary": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials. One such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then",
+      "published": "2026-01-12 16:39:00",
+      "timestamp": 1768235940
+    },
+    {
+      "id": "1267eec9685ff69065de4b7930cda972f6f81689",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hidden Telegram proxy links can reveal your IP address in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/",
+      "summary": "A single click on what may appear to be a Telegram username or harmless link is all it takes to expose your real IP address to attackers due to how proxy links are handled. Telegram says it will add warnings to proxy links after researchers demonstrated that such one-click interactions could reveal a Telegram user's real IP address. [...]",
+      "published": "2026-01-12 16:20:47",
+      "timestamp": 1768234847
+    },
+    {
+      "id": "1baaf7d3c56cf1984b9405f477027afe03093d0c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spanish energy giant Endesa discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/",
+      "summary": "Spanish energy provider Endesa and its Energ\u00eda XXI operator are notifying customers that hackers accessed the company's systems and accessed contract-related information, which includes personal details. [...]",
+      "published": "2026-01-12 15:57:50",
+      "timestamp": 1768233470
+    },
+    {
+      "id": "878bcc72935e1960881e8b46392315e55c2a466e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft is retiring the Lens scanner app for iOS, Android",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/",
+      "summary": "Microsoft has started retiring the Microsoft Lens PDF scanner app for Android and iOS devices on Friday, January 9th, with plans to remove it from app stores next month. [...]",
+      "published": "2026-01-12 15:48:37",
+      "timestamp": 1768232917
+    },
     {
       "id": "da7b8816b06c6f9078d2738bcb2e29fd47a3ebc7",
       "source": "BleepingComputer",
@@ -20,6 +80,16 @@
       "summary": "Nearly 60,000 n8n instances exposed online remain unpatched against a maximum-severity vulnerability dubbed \"Ni8mare.\" [...]",
       "published": "2026-01-12 14:05:54",
       "timestamp": 1768226754
+    },
+    {
+      "id": "d4a4dd6f37c5689106df248c7c31dc507e5d40c0",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "AuraInspector: Auditing Salesforce Aura for Data Exposure",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/auditing-salesforce-aura-data-exposure/",
+      "summary": "Written by: Amine Ismail, Anirudha Kanodia Introduction Mandiant is releasing AuraInspector, a new open-source tool designed to help defenders identify and audit access control misconfigurations within the Salesforce Aura framework. Salesforce Experience Cloud is a foundational platform for many businesses, but Mandiant Offensive Security Services (OSS) frequently identifies misconfigurations that allow unauthorized users to access sensitive data including credit card numbers, identity documents",
+      "published": "2026-01-12 14:00:00",
+      "timestamp": 1768226400
     },
     {
       "id": "fe838c57088c979c8b6f7a0bfc3d9756e80e7740",
@@ -132,16 +202,6 @@
       "timestamp": 1768041300
     },
     {
-      "id": "ecc93ae08fd279d7861e6780b7f11c7ae1b77d47",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
-      "link": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
-      "summary": "Ireland's Department of Foreign Affairs has recalled nearly 13,000 passports after a software update caused a printing defect. The printing error makes the documents non-compliant with international travel standards and potentially unreadable at automated border gates. [...]",
-      "published": "2026-01-10 10:27:38",
-      "timestamp": 1768040858
-    },
-    {
       "id": "9eb9296cef5b736bbcaf363ec0a627664ff36335",
       "source": "The Hacker News",
       "source_category": "General",
@@ -150,36 +210,6 @@
       "summary": "Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe. As part of an operation conducted by the Spanish National Police, in coordination with the Bavarian State Criminal Police Office and Europol, 28 arrests were made in Seville, along with three others in Madrid, two in M\u00e1laga, and one in Barcelona",
       "published": "2026-01-10 08:59:00",
       "timestamp": 1768035540
-    },
-    {
-      "id": "1ca6e939debf2a0b86843f2ba6dedc47a67156a4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
-      "summary": "Anthropic has denied reports of banning legitimate accounts, after a viral post on X claimed the creator of Claude had banned a user. [...]",
-      "published": "2026-01-10 00:06:26",
-      "timestamp": 1768003586
-    },
-    {
-      "id": "6d63f90f62aab9669e531663bb669c02f9ef1319",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
-      "summary": "OpenAI is testing \"Jobs,\" a new feature that could help you explore roles, improve your resume, and plan your career. This feature is being tested after ChatGPT gained support for the Health dashboard. [...]",
-      "published": "2026-01-09 23:23:08",
-      "timestamp": 1768000988
-    },
-    {
-      "id": "df7f2c99939a34ca325d6d5f6d29d5e828dd05e0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft may soon allow IT admins to uninstall Copilot",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/",
-      "summary": "Microsoft is testing a new policy that allows IT administrators to uninstall the AI-powered Copilot digital assistant on managed devices. [...]",
-      "published": "2026-01-09 20:34:22",
-      "timestamp": 1767990862
     },
     {
       "id": "7b3dbd1c699a15f8e5a9834f88852261bcf20c6b",
@@ -662,16 +692,6 @@
       "timestamp": 1767198540
     },
     {
-      "id": "fa831dcf13c51975fa012705e3ccd270306448c6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
-      "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
-      "summary": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox. The activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
-      "published": "2025-12-31 16:14:00",
-      "timestamp": 1767197640
-    },
-    {
       "id": "3c9ca8e75049a179fca7778a8d0eda58fc626212",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1070,16 +1090,6 @@
       "summary": "Written by: Austin Larsen, Matt Lin, Tyler McLellan, Omar ElAhdan Update (August 28) Based on new information identified by GTIG, the scope of this compromise is not exclusive to the Salesforce integration with Salesloft Drift and impacts other integrations. We now advise all Salesloft Drift customers to treat any and all authentication tokens stored in or connected to the Drift platform as potentially compromised. On August 28, 2025, our investigation confirmed that the actor also compromised O",
       "published": "2025-08-26 14:00:00",
       "timestamp": 1756216800
-    },
-    {
-      "id": "17bbb22a350217a2aa2f7ebbd6b1c2cbe5246143",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Deception in Depth: PRC-Nexus Espionage Campaign Hijacks Web Traffic to Target Diplomats",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-nexus-espionage-targets-diplomats/",
-      "summary": "Written by: Patrick Whitsell In March 2025, Google Threat Intelligence Group (GTIG) identified a complex, multifaceted campaign attributed to the PRC-nexus threat actor UNC6384. The campaign targeted diplomats in Southeast Asia and other entities globally. GTIG assesses this was likely in support of cyber espionage operations aligned with the strategic interests of the People's Republic of China (PRC). The campaign hijacks target web traffic, using a captive portal redirect, to deliver a digital",
-      "published": "2025-08-25 14:00:00",
-      "timestamp": 1756130400
     },
     {
       "id": "5d2369381ffd979702ed520ed26280b30fb2c99f",
