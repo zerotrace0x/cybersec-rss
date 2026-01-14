@@ -1,6 +1,36 @@
 {
-  "generated_at": 1768393180,
+  "generated_at": 1768403663,
   "items": [
+    {
+      "id": "ff3abe4801fe82d55c65d11104a9d283a180d88d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
+      "summary": "ConsentFix is an OAuth phishing technique abusing browser-based authorization flows to hijack Microsoft accounts. Push Security shares new insights from continued tracking, community research, and evolving attacker techniques. [...]",
+      "published": "2026-01-14 15:01:11",
+      "timestamp": 1768402871
+    },
+    {
+      "id": "68f4cc06ef9c0132d9334b000b3561efc241e16a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+      "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+      "summary": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers. \"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
+      "published": "2026-01-14 14:18:00",
+      "timestamp": 1768400280
+    },
+    {
+      "id": "63f3e53743820bb35ef8613db277f5d34260f48d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
+      "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data. [...]",
+      "published": "2026-01-14 14:00:00",
+      "timestamp": 1768399200
+    },
     {
       "id": "300654280c53ab9b611acf740b402f070d286ca2",
       "source": "BleepingComputer",
@@ -172,26 +202,6 @@
       "timestamp": 1768330404
     },
     {
-      "id": "85d360b9a37a855e06e12bc4b53f9fe747c13dc6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/",
-      "summary": "Today is Microsoft's January 2026 Patch Tuesday with security updates for 114 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "published": "2026-01-13 18:34:08",
-      "timestamp": 1768329248
-    },
-    {
-      "id": "36f232f1172d0710aa6c13f1435ee8f757de4b17",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google confirms Android bug causing volume key issues",
-      "link": "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/",
-      "summary": "Google has confirmed a software bug that is preventing volume buttons from working correctly on Android devices with accessibility features enabled. [...]",
-      "published": "2026-01-13 18:25:04",
-      "timestamp": 1768328704
-    },
-    {
       "id": "9b4378e8d22ac587e00bc0400728c8567e995e39",
       "source": "The Hacker News",
       "source_category": "General",
@@ -220,16 +230,6 @@
       "summary": "Learn how Microsoft unites privacy and security through advanced tools and global compliance to protect data and build trust. The post How Microsoft builds privacy and security to work hand-in-hand appeared first on Microsoft Security Blog.",
       "published": "2026-01-13 17:00:00",
       "timestamp": 1768323600
-    },
-    {
-      "id": "d63c89a23c64c9d9af5cf3bbef9a080fc4ec1be7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Betterment confirms data breach after wave of crypto scam emails",
-      "link": "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/",
-      "summary": "U.S. digital investment advisor Betterment confirmed that hackers breached its systems and sent fake crypto-related messages to some customers. [...]",
-      "published": "2026-01-13 16:46:02",
-      "timestamp": 1768322762
     },
     {
       "id": "69ee66aef95719bae9baccefb4d7ca163be26001",
@@ -700,16 +700,6 @@
       "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
       "published": "2026-01-06 05:08:00",
       "timestamp": 1767676080
-    },
-    {
-      "id": "582813a160cf64c2ead634cb570dbb38302bfaa2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
-      "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
-      "summary": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server. Tracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
-      "published": "2026-01-06 03:30:00",
-      "timestamp": 1767670200
     },
     {
       "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
