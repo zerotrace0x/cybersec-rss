@@ -1,6 +1,46 @@
 {
-  "generated_at": 1768403663,
+  "generated_at": 1768414609,
   "items": [
+    {
+      "id": "c2e739b3d0e00f2c643b2a1d28f9addf24abf4e0",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/",
+      "summary": "Microsoft is honored to be named a Leader in the 2025\u20132026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready. The post Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms appeared first on Microsoft Security Blog.",
+      "published": "2026-01-14 17:00:00",
+      "timestamp": 1768410000
+    },
+    {
+      "id": "b81f402c654549833859f11ce27625a5e5836dd6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft updates Windows DLL that triggered security alerts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
+      "summary": "Microsoft has resolved a known issue that was causing security applications to incorrectly flag a core Windows component, the company said in a service alert posted this week. [...]",
+      "published": "2026-01-14 16:44:09",
+      "timestamp": 1768409049
+    },
+    {
+      "id": "a96469a8405813c2f085cbdfd2fce6452652b552",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI Agents Are Becoming Privilege Escalation Paths",
+      "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+      "summary": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+      "published": "2026-01-14 15:07:00",
+      "timestamp": 1768403220
+    },
+    {
+      "id": "9217d02e105279c6d66093c4db5a6c572a84114b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/",
+      "summary": "Microsoft\u2019s investigation into RedVDS services and infrastructure uncovered a global network of disparate cybercriminals purchasing and using to target multiple sectors. In collaboration with law enforcement agencies worldwide, Microsoft\u2019s Digital Crimes Unit (DCU) recently facilitated a disruption of RedVDS infrastructure and related operations. The post Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations appeared first on Microsoft Security Blog.",
+      "published": "2026-01-14 15:03:31",
+      "timestamp": 1768403011
+    },
     {
       "id": "ff3abe4801fe82d55c65d11104a9d283a180d88d",
       "source": "BleepingComputer",
@@ -25,7 +65,7 @@
       "id": "63f3e53743820bb35ef8613db277f5d34260f48d",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
       "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data. [...]",
       "published": "2026-01-14 14:00:00",
@@ -190,16 +230,6 @@
       "summary": "Microsoft has released the KB5073724 extended security update to fix the Patch Tuesday security updates, including 3 zero-days and a fix for expiring Secure Boot certificates. [...]",
       "published": "2026-01-13 18:56:21",
       "timestamp": 1768330581
-    },
-    {
-      "id": "53ac4b28fca6cfd1e33d0e182729d4721f2c3c47",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5074109 & KB5073455 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5074109 and KB5073455 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "2026-01-13 18:53:24",
-      "timestamp": 1768330404
     },
     {
       "id": "9b4378e8d22ac587e00bc0400728c8567e995e39",
@@ -692,16 +722,6 @@
       "timestamp": 1767698700
     },
     {
-      "id": "abbea57562641a6acbdb3f8f1e7fbc0ffd94f0de",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
-      "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-      "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host. The vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir",
-      "published": "2026-01-06 05:08:00",
-      "timestamp": 1767676080
-    },
-    {
       "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -830,26 +850,6 @@
       "summary": "Introduction Between July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group. Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices. On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used and the spyware they dropped. In this blogpost, we wou",
       "published": "2025-12-12 10:00:00",
       "timestamp": 1765533600
-    },
-    {
-      "id": "243198373a6e8926e529ae21701141c2ea21d65b",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Imposter for hire: How fake people can gain very real access",
-      "link": "https://www.microsoft.com/en-us/security/blog/2025/12/11/imposter-for-hire-how-fake-people-can-gain-very-real-access/",
-      "summary": "Fake employees are an emerging cybersecurity threat. Learn how they infiltrate organizations and what steps you can take to protect your business. The post Imposter for hire: How fake people can gain very real access appeared first on Microsoft Security Blog.",
-      "published": "2025-12-11 17:00:00",
-      "timestamp": 1765472400
-    },
-    {
-      "id": "8597f52e7c2025bf7b508ff83a983b86f9a89d30",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "From awareness to action: Building a security-first culture for the agentic AI era",
-      "link": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/12/10/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/",
-      "summary": "The insights gained from Cybersecurity Awareness Month, right through to Microsoft Ignite 2025, demonstrate that security remains a top priority for business leaders. The post From awareness to action: Building a security-first culture for the agentic AI era appeared first on Microsoft Security Blog.",
-      "published": "2025-12-10 18:00:00",
-      "timestamp": 1765389600
     },
     {
       "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
