@@ -1,6 +1,46 @@
 {
-  "generated_at": 1768501252,
+  "generated_at": 1768511435,
   "items": [
+    {
+      "id": "3bc493cc2956b0ff7e0f844ca9a143ea40944a3c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit Modular DS WordPress plugin flaw for admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/",
+      "summary": "Hackers are actively exploiting a maximum severity flaw in the Modular DS WordPress plugin that allows them to bypass authentication remotely and access the vulnerable sites with admin-level privileges. [...]",
+      "published": "2026-01-15 20:49:50",
+      "timestamp": 1768510190
+    },
+    {
+      "id": "2bcba62f8bd28654feb74cb99a208810361c35cf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Verizon blames nationwide outage on a \"software issue\"",
+      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/",
+      "summary": "Verizon has confirmed that yesterday's nationwide wireless outage was caused by a software issue, though the company has not shared additional details about what went wrong. [...]",
+      "published": "2026-01-15 20:13:54",
+      "timestamp": 1768508034
+    },
+    {
+      "id": "624b8b0537f72dc9efba8cc23e8ff91e69a99658",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+      "summary": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk. The vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
+      "published": "2026-01-15 19:31:00",
+      "timestamp": 1768505460
+    },
+    {
+      "id": "26e19f8159f28f6d56aed9d3510d09f405877e76",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/",
+      "summary": "Microsoft announced that the Copilot Studio extension for the Visual Studio Code (VS Code) integrated development environment is now available to all users. [...]",
+      "published": "2026-01-15 19:08:13",
+      "timestamp": 1768504093
+    },
     {
       "id": "5e13547c7c3416ead54c4aeb5264a9e7b6cd532d",
       "source": "BleepingComputer",
@@ -182,16 +222,6 @@
       "timestamp": 1768427390
     },
     {
-      "id": "e59a5c9b09a28adfbf7233b5f9a102d62a4e70b8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "France fines Free Mobile \u20ac42 million over 2024 data breach incident",
-      "link": "https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/",
-      "summary": "The French data protection authority (CNIL) has imposed cumulative fines of \u20ac42 million on Free Mobile and its parent company, Free, for inadequate protection of customer data against cyber threats. [...]",
-      "published": "2026-01-14 19:50:49",
-      "timestamp": 1768420249
-    },
-    {
       "id": "fc5fe061fc7d5c4ccaa06ac23d9087c7108a538d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -200,26 +230,6 @@
       "summary": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025. AISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)",
       "published": "2026-01-14 19:03:00",
       "timestamp": 1768417380
-    },
-    {
-      "id": "89946b0373c180589d64c007bc00eaaf2b5a8362",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Exploit code public for critical FortiSIEM command injection flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/",
-      "summary": "Technical details and a public exploit have been published for a critical vulnerability affecting Fortinet's Security Information and Event Management (SIEM) solution that could be leveraged by a remote, unauthenticated attacker to execute commands or code. [...]",
-      "published": "2026-01-14 18:51:54",
-      "timestamp": 1768416714
-    },
-    {
-      "id": "f399f6b165107d11a8c6082d8d2362b545cc110c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Verizon Wireless outage puts phones in SOS mode without cell service",
-      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/",
-      "summary": "Verizon Wireless is suffering a massive outage in the US, with customers reporting their phones stuck in SOS mode with no cellular service. [...]",
-      "published": "2026-01-14 18:27:25",
-      "timestamp": 1768415245
     },
     {
       "id": "49220fa9cd9cad5f8031e0d3ed185b153c0a6c15",
@@ -730,16 +740,6 @@
       "summary": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE). The vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system. \"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
       "published": "2026-01-07 11:26:00",
       "timestamp": 1767785160
-    },
-    {
-      "id": "ed2b524bbf82067d30e11c7aca8c1ff22f229e73",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Future of Cybersecurity Includes Non-Human Employees",
-      "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
-      "summary": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne\u2019s 2025 Future of Identity Security Report",
-      "published": "2026-01-07 11:00:00",
-      "timestamp": 1767783600
     },
     {
       "id": "413b701f6b3ac26539ec93ae0a351b0a6d3158df",
