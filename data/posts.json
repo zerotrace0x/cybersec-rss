@@ -1,6 +1,36 @@
 {
-  "generated_at": 1768468597,
+  "generated_at": 1768479589,
   "items": [
+    {
+      "id": "1aeea38cf68037da02a6ab80c215b812273ee86e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
+      "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+      "summary": "It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts\u2019 needs, staggering investigations and incident response. Below are four limiting habits that may be preventing your SOC from evolving at",
+      "published": "2026-01-15 11:00:00",
+      "timestamp": 1768474800
+    },
+    {
+      "id": "2ed9502290ccac197b948de42ea239b3b00c1e85",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FTC bans GM from selling drivers' location data for five years",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
+      "summary": "The FTC has finalized an order with General Motors, settling charges that it collected and sold the location and driving data of millions of drivers without consent. [...]",
+      "published": "2026-01-15 09:59:30",
+      "timestamp": 1768471170
+    },
+    {
+      "id": "523aa6add81d286ae1972a7eb6697363c5c82eef",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses. The effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+      "published": "2026-01-15 09:37:00",
+      "timestamp": 1768469820
+    },
     {
       "id": "7b1ea4d6faf48e1b5b1c83b46828da0748a11847",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "Palo Alto Networks patched a high-severity vulnerability that could allow unauthenticated attackers to disable firewall protections in denial-of-service (DoS) attacks. [...]",
       "published": "2026-01-15 09:02:42",
       "timestamp": 1768467762
+    },
+    {
+      "id": "704488a493957a0ac11231f4ce4ac19f72308d1a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit. The vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+      "published": "2026-01-15 08:18:00",
+      "timestamp": 1768465080
     },
     {
       "id": "cdf6527569f1e44f4d29492ee6aae3f76c8bf69c",
@@ -135,9 +175,9 @@
       "id": "a96469a8405813c2f085cbdfd2fce6452652b552",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "AI Agents Are Becoming Privilege Escalation Paths",
+      "title": "AI Agents Are Becoming Authorization Bypass Paths",
       "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
-      "summary": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+      "summary": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster. Then organizations got ambitious. Instead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don\u2019t just suggest, but act. Agents",
       "published": "2026-01-14 15:07:00",
       "timestamp": 1768403220
     },
@@ -690,36 +730,6 @@
       "summary": "Announcing Microsoft Defender Experts Suite, a integrated set of expert-led services that helps security teams keep pace with modern cyberattacks. The post Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services appeared first on Microsoft Security Blog.",
       "published": "2026-01-06 17:00:00",
       "timestamp": 1767718800
-    },
-    {
-      "id": "034bed00ae84410246cba5f91d21fbd8c83c923e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
-      "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device. The flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start",
-      "published": "2026-01-06 15:47:00",
-      "timestamp": 1767714420
-    },
-    {
-      "id": "000957c8058bedbf6a6e6133e6ea8cdc68911c2a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
-      "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
-      "summary": "Source: Securonix Cybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector. The end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
-      "published": "2026-01-06 12:13:00",
-      "timestamp": 1767701580
-    },
-    {
-      "id": "6c359f4323c99390dc84a22fead2f3c1a6b6a732",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "What is Identity Dark Matter?",
-      "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
-      "summary": "The Invisible Half of the Identity Universe Identity used to live in one place - an LDAP directory, an HR system, a single IAM portal. Not anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows. Traditional IAM and IGA tools govern only the nearly",
-      "published": "2026-01-06 11:30:00",
-      "timestamp": 1767699000
     },
     {
       "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
