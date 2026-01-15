@@ -1,6 +1,36 @@
 {
-  "generated_at": 1768479589,
+  "generated_at": 1768489996,
   "items": [
+    {
+      "id": "4133b992f3684284e2b11efc52a4f252413e1ea6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How to automate just-in-time access to applications with Tines",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
+      "summary": "Managing just-in-time access at scale is a growing IAM challenge as speed and auditability collide daily. Tines shows how automated workflows can grant, track, and revoke temporary app access without manual effort. [...]",
+      "published": "2026-01-15 15:01:10",
+      "timestamp": 1768489270
+    },
+    {
+      "id": "a176f90bc14bba4cf0bdfaaffe2fb843600a732d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere. This week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in. Read on to catch up before the next wave hits. Unauthenticated RCE risk Security Flaw in Redis",
+      "published": "2026-01-15 13:56:00",
+      "timestamp": 1768485360
+    },
+    {
+      "id": "a1fed3fda8efd9941d4c02e6563aa9382b5e54b7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
+      "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+      "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models. Two Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
+      "published": "2026-01-15 11:55:00",
+      "timestamp": 1768478100
+    },
     {
       "id": "1aeea38cf68037da02a6ab80c215b812273ee86e",
       "source": "The Hacker News",
@@ -192,16 +222,6 @@
       "timestamp": 1768403011
     },
     {
-      "id": "ff3abe4801fe82d55c65d11104a9d283a180d88d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
-      "summary": "ConsentFix is an OAuth phishing technique abusing browser-based authorization flows to hijack Microsoft accounts. Push Security shares new insights from continued tracking, community research, and evolving attacker techniques. [...]",
-      "published": "2026-01-14 15:01:11",
-      "timestamp": 1768402871
-    },
-    {
       "id": "68f4cc06ef9c0132d9334b000b3561efc241e16a",
       "source": "The Hacker News",
       "source_category": "General",
@@ -210,16 +230,6 @@
       "summary": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers. \"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
       "published": "2026-01-14 14:18:00",
       "timestamp": 1768400280
-    },
-    {
-      "id": "63f3e53743820bb35ef8613db277f5d34260f48d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
-      "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data. [...]",
-      "published": "2026-01-14 14:00:00",
-      "timestamp": 1768399200
     },
     {
       "id": "3bc13d5d7059c1b03e9f9dd9d09a1a0b2614640c",
@@ -692,16 +702,6 @@
       "timestamp": 1767778920
     },
     {
-      "id": "298778c8efef0a7324cccb7c68ec1a2e75f35c5b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
-      "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
-      "summary": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters. \"An unauthenticated remote attacker can inject",
-      "published": "2026-01-07 04:31:00",
-      "timestamp": 1767760260
-    },
-    {
       "id": "413b701f6b3ac26539ec93ae0a351b0a6d3158df",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -710,16 +710,6 @@
       "summary": "Threat actors are exploiting complex routing scenarios and misconfigured spoof protections to send spoofed phishing emails, crafted to appear as internally sent messages. The post Phishing actors exploit complex routing and misconfigurations to spoof domains appeared first on Microsoft Security Blog.",
       "published": "2026-01-06 18:00:00",
       "timestamp": 1767722400
-    },
-    {
-      "id": "f8188d26695bc71bf1f0590daf889050602a8fd4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
-      "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
-      "summary": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control. The names of the extensions, which collectively have over 900,000 users, are below - Chat GPT for Chrome with GPT-5, Claude Sonnet & DeepSeek AI (ID:",
-      "published": "2026-01-06 17:21:00",
-      "timestamp": 1767720060
     },
     {
       "id": "7860d6d23e74c2aad3519a262ee0f5b463eba0c4",
