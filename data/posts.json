@@ -1,6 +1,36 @@
 {
-  "generated_at": 1768587346,
+  "generated_at": 1768597777,
   "items": [
+    {
+      "id": "83ab7fbd9545e6c1eaef881185bd0f6b4059609c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "StealC hackers hacked as researchers hijack malware control panels",
+      "link": "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/",
+      "summary": "A cross-site scripting (XSS) flaw in the web-based control panel used by operators of the StealC info-stealing malware allowed researchers to observe active sessions and gather intelligence on the attackers' hardware. [...]",
+      "published": "2026-01-16 21:00:22",
+      "timestamp": 1768597222
+    },
+    {
+      "id": "14003e228dbec3526f3819a18cc0a930ace0f37b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list",
+      "link": "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/",
+      "summary": "The identity of the Black Basta ransomware gang leader has been confirmed by law enforcement in Ukraine and Germany, and the individual has been added to the wanted list of Europol and Interpol. [...]",
+      "published": "2026-01-16 19:00:20",
+      "timestamp": 1768590020
+    },
+    {
+      "id": "7a30435f563b87404afe30ee68bac5c92f3e5536",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
+      "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
+      "summary": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives. \"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
+      "published": "2026-01-16 17:59:00",
+      "timestamp": 1768586340
+    },
     {
       "id": "3c13fa294479bc55a8b24ab1a38f6b0202666681",
       "source": "BleepingComputer",
@@ -180,16 +210,6 @@
       "summary": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk. The vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on",
       "published": "2026-01-15 19:31:00",
       "timestamp": 1768505460
-    },
-    {
-      "id": "26e19f8159f28f6d56aed9d3510d09f405877e76",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/",
-      "summary": "Microsoft announced that the Copilot Studio extension for the Visual Studio Code (VS Code) integrated development environment is now available to all users. [...]",
-      "published": "2026-01-15 19:08:13",
-      "timestamp": 1768504093
     },
     {
       "id": "7c9c7ec330023dd45e2ec1a1750646e7cc737675",
@@ -720,16 +740,6 @@
       "summary": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution. The list of vulnerabilities is as follows - CVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
       "published": "2026-01-08 09:53:00",
       "timestamp": 1767865980
-    },
-    {
-      "id": "5b56bdfa8c195f6addc55c9821e07e20a61e84bb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
-      "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
-      "summary": "Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health. To that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,",
-      "published": "2026-01-08 06:57:00",
-      "timestamp": 1767855420
     },
     {
       "id": "fce2536904f24444e2bfdc53643976b4025b2c82",
