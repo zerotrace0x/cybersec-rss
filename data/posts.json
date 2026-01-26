@@ -1,6 +1,56 @@
 {
-  "generated_at": 1769440625,
+  "generated_at": 1769451478,
   "items": [
+    {
+      "id": "f02a09627a25ed6495091e984403f6e617fe5ff4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cloudflare misconfiguration behind recent BGP route leak",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
+      "summary": "Cloudflare has shared more details about a recent 25-minute Border Gateway Protocol (BGP) route leak affecting IPv6 traffic, which caused measurable congestion, packet loss, and approximately 12 Gbps of dropped traffic. [...]",
+      "published": "2026-01-26 17:50:35",
+      "timestamp": 1769449835
+    },
+    {
+      "id": "02cb3812d23c2f15f3f8c37f6792df09d2904d2f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "EU launches investigation into X over Grok-generated sexual images",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
+      "summary": "The European Commission is now investigating whether X properly assessed risks before deploying its Grok artificial intelligence tool, following its use to generate sexually explicit images. [...]",
+      "published": "2026-01-26 17:14:29",
+      "timestamp": 1769447669
+    },
+    {
+      "id": "297c8af910b25ec4d457b73fb8a39547241923ac",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+      "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
+      "summary": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign. The activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat",
+      "published": "2026-01-26 17:01:00",
+      "timestamp": 1769446860
+    },
+    {
+      "id": "925c61e24295b5c869785bb86bbcf7f2395a9e1b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+      "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
+      "summary": "Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligence (AI)-powered coding assistants, but also harbor covert functionality to siphon developer data to China-based servers. The extensions, which have 1.5 million combined installs and are still available for download from the official Visual Studio",
+      "published": "2026-01-26 15:43:00",
+      "timestamp": 1769442180
+    },
+    {
+      "id": "ea58177e0d19e59888936b8a73657a77e8865573",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
+      "summary": "Internet security watchdog Shadowserver tracks nearly 800,000 IP addresses with Telnet fingerprints amid ongoing attacks exploiting a critical authentication bypass vulnerability in the GNU InetUtils telnetd server. [...]",
+      "published": "2026-01-26 15:19:14",
+      "timestamp": 1769440754
+    },
     {
       "id": "527cb978d85027e06dc49fcd45f11ee4530a8f1f",
       "source": "BleepingComputer",
@@ -60,6 +110,16 @@
       "summary": "The North Korean threat actor known as Konni has been observed using PowerShell malware generated using artificial intelligence (AI) tools to target developers and engineering teams in the blockchain sector. The phishing campaign has targeted Japan, Australia, and India, highlighting the adversary's expansion of the targeting scope beyond South Korea, Russia, Ukraine, and European nations, Check",
       "published": "2026-01-26 08:54:00",
       "timestamp": 1769417640
+    },
+    {
+      "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Bypassing Windows Administrator Protection",
+      "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
+      "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
+      "published": "2026-01-26 08:00:00",
+      "timestamp": 1769414400
     },
     {
       "id": "f6f1913468453c2433e1ac007d305ccac60d833d",
@@ -202,26 +262,6 @@
       "timestamp": 1769194051
     },
     {
-      "id": "6bd872c5412af6e6ffe08ffaaa2c1e4c8bb645ac",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US to deport Venezuelans who emptied bank ATMs using malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
-      "summary": "South Carolina federal prosecutors announced that two Venezuelan nationals convicted of stealing hundreds of thousands of dollars from U.S. banks in an ATM jackpotting scheme will be deported after serving their sentences. [...]",
-      "published": "2026-01-23 16:38:54",
-      "timestamp": 1769186334
-    },
-    {
-      "id": "20033534fe7cba7be7b1b605f7243887ee873390",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
-      "summary": "A coordinated campaign has been observed targeting a recently disclosed critical-severity vulnerability that has been present in the GNU InetUtils telnetd server for 11 years. [...]",
-      "published": "2026-01-23 16:21:46",
-      "timestamp": 1769185306
-    },
-    {
       "id": "c8fbbe29d0a1ccdb2a5afa9bd2f7eb13b2431b02",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +270,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2025-68645 (CVSS score: 8.8) - A PHP remote file inclusion vulnerability in Synacor Zimbra Collaboration Suite (ZCS) that could allow a",
       "published": "2026-01-23 15:24:00",
       "timestamp": 1769181840
-    },
-    {
-      "id": "011da1e3f3b6144db1ff4907d8dc96480cddb31b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
-      "link": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
-      "summary": "AI-generated code can introduce subtle security flaws when teams over-trust automated output. Intruder shows how an AI-written honeypot introduced hidden vulnerabilities that were exploited in attacks. [...]",
-      "published": "2026-01-23 14:59:58",
-      "timestamp": 1769180398
     },
     {
       "id": "0c3295c0644a64b05bc0dcfe220db4c0b8608fbc",
@@ -692,26 +722,6 @@
       "timestamp": 1768559220
     },
     {
-      "id": "195660a26203dd79383d81920fc46bc5ac888c54",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusion",
-      "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
-      "summary": "A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year. Cisco Talos, which is tracking the activity under the name UAT-8837, assessed it to be a China-nexus advanced persistent threat (APT) actor with medium confidence based on tactical overlaps with other campaigns mounted by threat actors from the region.",
-      "published": "2026-01-16 07:18:00",
-      "timestamp": 1768547880
-    },
-    {
-      "id": "897485a1d02a9f5d639bb520151538c87f95f827",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
-      "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
-      "summary": "Cisco on Thursday released security updates for a maximum-severity security flaw impacting Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager, nearly a month after the company disclosed that it had been exploited as a zero-day by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686. The vulnerability, tracked as CVE-2025-20393 (CVSS",
-      "published": "2026-01-16 05:38:00",
-      "timestamp": 1768541880
-    },
-    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1140,16 +1150,6 @@
       "summary": "Written by: Rommel Joven, Josh Fleischer, Joseph Sciuto, Andi Slok, Choon Kiat Ng Update (September 3): This post was updated to include information about GoTokenTheft usage. In a recent investigation, Mandiant Threat Defense discovered an active ViewState deserialization attack affecting Sitecore deployments leveraging a sample machine key that had been exposed in Sitecore deployment guides from 2017 and earlier. An attacker leveraged the exposed ASP.NET machine key to perform remote code execu",
       "published": "2025-09-03 14:00:00",
       "timestamp": 1756908000
-    },
-    {
-      "id": "5d2369381ffd979702ed520ed26280b30fb2c99f",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "From Chrome renderer code exec to kernel with MSG_OOB",
-      "link": "https://projectzero.google/2025/08/from-chrome-renderer-code-exec-to-kernel.html",
-      "summary": "Introduction In early June, I was reviewing a new Linux kernel feature when I learned about the MSG_OOB feature supported by stream-oriented UNIX domain sockets. I reviewed the implementation of MSG_OOB, and discovered a security bug (CVE-2025-38236) affecting Linux >=6.9. I reported the bug to Linux, and it got fixed. Interestingly, while the MSG_OOB feature is not used by Chrome, it was exposed in the Chrome renderer sandbox. (Since then, sending MSG_OOB messages has been blocked in Chrome ren",
-      "published": "2025-08-08 07:00:00",
-      "timestamp": 1754636400
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
