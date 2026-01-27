@@ -1,5 +1,5 @@
 {
-  "generated_at": 1769505642,
+  "generated_at": 1769516457,
   "items": [
     {
       "id": "66a34c2f95d5efbe8c8ae1dab40b9c82ebea0ad3",
@@ -8,8 +8,28 @@
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
       "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks. The vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office. \"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
-      "published": "2026-01-27 07:19:00",
-      "timestamp": 1769498340
+      "published": "2026-01-27 10:37:00",
+      "timestamp": 1769510220
+    },
+    {
+      "id": "901dc7abcf63252dba2da077da605306fa49922d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+      "summary": "A critical security flaw has been disclosed in Grist\u2011Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution. The vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs. \"One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,\"",
+      "published": "2026-01-27 10:36:00",
+      "timestamp": 1769510160
+    },
+    {
+      "id": "6bbbf02a4af6db71bbc055e70bc852b173642a0b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environments. The flexible framework has been put to use against Chinese gambling industries and malicious activities targeting Asian government entities and private organizations, according to Trend Micro",
+      "published": "2026-01-27 09:01:00",
+      "timestamp": 1769504460
     },
     {
       "id": "a217fd9c19391040a2fccaed6443ae5fe4d33e68",
@@ -710,26 +730,6 @@
       "summary": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives. \"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
       "published": "2026-01-16 17:59:00",
       "timestamp": 1768586340
-    },
-    {
-      "id": "311f2a1d9d806982a8f9fed6d15f9bde8569452f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
-      "summary": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts. \"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
-      "published": "2026-01-16 14:09:00",
-      "timestamp": 1768572540
-    },
-    {
-      "id": "9fd38092a2fa4735f2150ce49682e8df90ecfc13",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Your Digital Footprint Can Lead Right to Your Front Door",
-      "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
-      "summary": "You lock your doors at night. You avoid sketchy phone calls. You\u2019re careful about what you post on social media. But what about the information about you that\u2019s already out there\u2014without your permission? Your name. Home address. Phone number. Past jobs. Family members. Old usernames. It\u2019s all still online, and it\u2019s a lot easier to find than you think. The hidden safety threat lurking online Most",
-      "published": "2026-01-16 10:42:00",
-      "timestamp": 1768560120
     },
     {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
