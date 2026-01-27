@@ -1,6 +1,66 @@
 {
-  "generated_at": 1769516457,
+  "generated_at": 1769527149,
   "items": [
+    {
+      "id": "9b4ea174dcc2deabdee84ec5de9d3888120f303e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
+      "link": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
+      "summary": "Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomware groups weaponize stolen data and pressure tactics to force payment. [...]",
+      "published": "2026-01-27 15:02:12",
+      "timestamp": 1769526132
+    },
+    {
+      "id": "41ea38f56f70c7769163fad38b5386f2a80b8a1c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera. \"Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,\"",
+      "published": "2026-01-27 14:38:00",
+      "timestamp": 1769524680
+    },
+    {
+      "id": "9070901e5b35d767ea61dd08bfe04fb2b92ece54",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
+      "summary": "Nonprofit security organization Shadowserver has found over 6,000 SmarterMail servers exposed online and likely vulnerable to attacks exploiting a critical authentication bypass vulnerability. [...]",
+      "published": "2026-01-27 14:09:47",
+      "timestamp": 1769522987
+    },
+    {
+      "id": "9813d81e0376cfa0c3eb8ed1c1ddb71315c6b76b",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Diverse Threat Actors Exploiting Critical WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/exploiting-critical-winrar-vulnerability/",
+      "summary": "Introduction The Google Threat Intelligence Group (GTIG) has identified widespread, active exploitation of the critical vulnerability CVE-2025-8088 in WinRAR, a popular file archiver tool for Windows, to establish initial access and deliver diverse payloads. Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated threat actors continue to exploit this n-day across disparate operations. The consistent exploitation method, a ",
+      "published": "2026-01-27 14:00:00",
+      "timestamp": 1769522400
+    },
+    {
+      "id": "4f2087dd897906e87009cac003633d3d21e9c915",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
+      "summary": "Hackers have stolen the personal and contact information belonging to over 29.8 million SoundCloud user accounts after breaching the audio streaming platform's systems. [...]",
+      "published": "2026-01-27 12:25:00",
+      "timestamp": 1769516700
+    },
+    {
+      "id": "9d38725f93962800c93abf73cd82a45dc3559498",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure. Which exposures truly matter? Can attackers exploit them? Are our defenses effective? Continuous Threat Exposure",
+      "published": "2026-01-27 11:50:00",
+      "timestamp": 1769514600
+    },
     {
       "id": "66a34c2f95d5efbe8c8ae1dab40b9c82ebea0ad3",
       "source": "The Hacker News",
@@ -220,36 +280,6 @@
       "summary": "Microsoft is investigating reports that some Windows 11 devices are failing to boot with \"UNMOUNTABLE_BOOT_VOLUME\" errors after installing the January 2026 Patch Tuesday security updates. [...]",
       "published": "2026-01-25 13:20:28",
       "timestamp": 1769347228
-    },
-    {
-      "id": "1176e687ddb49db898be5b81dcc0f61d633e6ad4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
-      "summary": "Microsoft has released emergency, out-of-band updates on Saturday for Windows 10, Windows 11, and Windows Server to fix an issue that prevented Microsoft Outlook classic from opening when using PSTs stored in cloud storage. [...]",
-      "published": "2026-01-25 01:59:15",
-      "timestamp": 1769306355
-    },
-    {
-      "id": "fc38d1cc9880d39853cd94d7986ec4d3033d0342",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems",
-      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
-      "summary": "A cyberattack targeting Poland's power grid in late December 2025 has been linked to the Russian state-sponsored hacking group Sandworm, which attempted to deploy a new destructive data-wiping malware dubbed DynoWiper during the attack.. [...]",
-      "published": "2026-01-24 21:58:42",
-      "timestamp": 1769291922
-    },
-    {
-      "id": "31ab44d88f3ecbe77f8af7f446440e409da2e0f0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Konni hackers target blockchain engineers with AI-built malware",
-      "link": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
-      "summary": "The North Korean hacker group Konni (Opal Sleet, TA406) is using AI-generated PowerShell malware to target developers and engineers in the blockchain sector. [...]",
-      "published": "2026-01-24 15:23:46",
-      "timestamp": 1769268226
     },
     {
       "id": "85b02692a70b600032acc6ca17b7421c188a72d9",
@@ -712,26 +742,6 @@
       "timestamp": 1768667160
     },
     {
-      "id": "3d69bc33a05f51e53515c547dab66b1569124104",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
-      "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
-      "summary": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally. \"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give",
-      "published": "2026-01-17 08:34:00",
-      "timestamp": 1768638840
-    },
-    {
-      "id": "7a30435f563b87404afe30ee68bac5c92f3e5536",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
-      "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
-      "summary": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives. \"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools",
-      "published": "2026-01-16 17:59:00",
-      "timestamp": 1768586340
-    },
-    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1140,16 +1150,6 @@
       "summary": "Written by: Sarah Yoder, John Wolfram, Ashley Pearson, Doug Bienstock, Josh Madeley, Josh Murchie, Brad Slaybaugh, Matt Lin, Geoff Carstairs, Austin Larsen Introduction Google Threat Intelligence Group (GTIG) is tracking BRICKSTORM malware activity, which is being used to maintain persistent access to victim organizations in the United States. Since March 2025, Mandiant Consulting has responded to intrusions across a range of industry verticals, most notably legal services, Software as a Service",
       "published": "2025-09-24 14:00:00",
       "timestamp": 1758722400
-    },
-    {
-      "id": "9f9692e97cee9f6aaf61ced8322cdd8c7d0dec35",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "ViewState Deserialization Zero-Day Vulnerability in Sitecore Products (CVE-2025-53690)",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/viewstate-deserialization-zero-day-vulnerability/",
-      "summary": "Written by: Rommel Joven, Josh Fleischer, Joseph Sciuto, Andi Slok, Choon Kiat Ng Update (September 3): This post was updated to include information about GoTokenTheft usage. In a recent investigation, Mandiant Threat Defense discovered an active ViewState deserialization attack affecting Sitecore deployments leveraging a sample machine key that had been exposed in Sitecore deployment guides from 2017 and earlier. An attacker leveraged the exposed ASP.NET machine key to perform remote code execu",
-      "published": "2025-09-03 14:00:00",
-      "timestamp": 1756908000
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
