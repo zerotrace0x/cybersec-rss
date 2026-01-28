@@ -1,6 +1,46 @@
 {
-  "generated_at": 1769592133,
+  "generated_at": 1769602913,
   "items": [
+    {
+      "id": "32b8439cdbf2269e3f3db5d23d3ec4aabdefc48c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
+      "summary": "Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. [...]",
+      "published": "2026-01-28 11:48:26",
+      "timestamp": 1769600906
+    },
+    {
+      "id": "863123aa494a18196aaf0c82ee952c1ad7f49616",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "summary": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attention. However, one of the most persistent and underestimated risks to organizational security remains far more ordinary. Near-identical password reuse continues to slip past security controls, often",
+      "published": "2026-01-28 10:30:00",
+      "timestamp": 1769596200
+    },
+    {
+      "id": "60ad62eff0a6026cfa769979f7a3d8719b0dd5a1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads. \"Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated",
+      "published": "2026-01-28 09:46:00",
+      "timestamp": 1769593560
+    },
+    {
+      "id": "4943c71e17c63b47de86d278920bc43a008a9fc7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available for download, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the",
+      "published": "2026-01-28 09:30:00",
+      "timestamp": 1769592600
+    },
     {
       "id": "36cd20a4f8164d7c1d99f88b26c6af81ecd27839",
       "source": "The Hacker News",
@@ -240,16 +280,6 @@
       "summary": "Cloudflare has shared more details about a recent 25-minute Border Gateway Protocol (BGP) route leak affecting IPv6 traffic, which caused measurable congestion, packet loss, and approximately 12 Gbps of dropped traffic. [...]",
       "published": "2026-01-26 17:50:35",
       "timestamp": 1769449835
-    },
-    {
-      "id": "02cb3812d23c2f15f3f8c37f6792df09d2904d2f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "EU launches investigation into X over Grok-generated sexual images",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
-      "summary": "The European Commission is now investigating whether X properly assessed risks before deploying its Grok artificial intelligence tool, following its use to generate sexually explicit images. [...]",
-      "published": "2026-01-26 17:14:29",
-      "timestamp": 1769447669
     },
     {
       "id": "297c8af910b25ec4d457b73fb8a39547241923ac",
@@ -720,36 +750,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism. The vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
       "published": "2026-01-19 17:21:00",
       "timestamp": 1768843260
-    },
-    {
-      "id": "93466e9b341368d9fad307ae384d99188319f707",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
-      "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
-      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week\u2019s stories show how easily a small mistake or hidden service can turn into a real",
-      "published": "2026-01-19 13:17:00",
-      "timestamp": 1768828620
-    },
-    {
-      "id": "2986119cdf05d3e868aa796d6743efc498ebb3ed",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
-      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
-      "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of managed services. In recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
-      "published": "2026-01-19 11:55:00",
-      "timestamp": 1768823700
-    },
-    {
-      "id": "42454c0b26181443e6d39d03a1f0e7665af0255f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
-      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
-      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors. The security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
-      "published": "2026-01-19 11:31:00",
-      "timestamp": 1768822260
     },
     {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
