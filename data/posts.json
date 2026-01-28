@@ -1,6 +1,76 @@
 {
-  "generated_at": 1769602913,
+  "generated_at": 1769613609,
   "items": [
+    {
+      "id": "80b90d45eb56ad952aaed277f89fc56ad98349bc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AI Is Rewriting Compliance Controls and CISOs Must Take Notice",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-is-rewriting-compliance-controls-and-cisos-must-take-notice/",
+      "summary": "AI agents are now executing regulated actions, reshaping how compliance controls actually work. Token Security explains why CISOs must rethink identity, access, and auditability as AI becomes a digital employee. [...]",
+      "published": "2026-01-28 15:00:10",
+      "timestamp": 1769612410
+    },
+    {
+      "id": "1110ce1a5bdbcf01c73596f69c9042213e599aab",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SolarWinds warns of critical Web Help Desk RCE, auth bypass flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/solarwinds-warns-of-critical-web-help-desk-rce-auth-bypass-flaws/",
+      "summary": "SolarWinds has released security updates to patch critical authentication bypass and remote command execution vulnerabilities in its Web Help Desk IT help desk software. [...]",
+      "published": "2026-01-28 14:39:02",
+      "timestamp": 1769611142
+    },
+    {
+      "id": "5868c5fc2777e4b133a000dccbb7cdfe9ff98b17",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
+      "summary": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system. The vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system. \"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
+      "published": "2026-01-28 14:01:00",
+      "timestamp": 1769608860
+    },
+    {
+      "id": "cc266466b31977cff9f8bb269737a7e4f45f1620",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
+      "summary": "A malicious campaign is actively targeting exposed LLM (Large Language Model) service endpoints to commercialize unauthorized access to AI infrastructure. [...]",
+      "published": "2026-01-28 13:15:03",
+      "timestamp": 1769606103
+    },
+    {
+      "id": "6a343cb1dc0ec3719f234edb70a659962a78c907",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Slovakian man pleads guilty to operating darknet marketplace",
+      "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
+      "summary": "A Slovakian national admitted on Tuesday to helping operate a darknet marketplace that sold narcotics, cybercrime tools and services, fake government IDs, and stolen personal information for more than two years. [...]",
+      "published": "2026-01-28 12:49:05",
+      "timestamp": 1769604545
+    },
+    {
+      "id": "95631061b46fd9113f89d9b0a240c4b36493f5ae",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
+      "summary": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution. The weaknesses, discovered by the JFrog Security Research team, are listed below - CVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
+      "published": "2026-01-28 12:43:00",
+      "timestamp": 1769604180
+    },
+    {
+      "id": "347dafb4de7a221a06056fab0ed156b5b5afec55",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
+      "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
+      "summary": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts. That future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
+      "published": "2026-01-28 11:55:00",
+      "timestamp": 1769601300
+    },
     {
       "id": "32b8439cdbf2269e3f3db5d23d3ec4aabdefc48c",
       "source": "BleepingComputer",
@@ -10,6 +80,16 @@
       "summary": "Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. [...]",
       "published": "2026-01-28 11:48:26",
       "timestamp": 1769600906
+    },
+    {
+      "id": "f7cfa28d243fa8ca31a9cd36fcb85bf0e295b539",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
+      "link": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
+      "summary": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints. The activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
+      "published": "2026-01-28 11:40:00",
+      "timestamp": 1769600400
     },
     {
       "id": "863123aa494a18196aaf0c82ee952c1ad7f49616",
@@ -37,7 +117,7 @@
       "source_category": "General",
       "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
       "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available for download, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the Basque",
       "published": "2026-01-28 09:30:00",
       "timestamp": 1769592600
     },
@@ -242,46 +322,6 @@
       "timestamp": 1769504460
     },
     {
-      "id": "a217fd9c19391040a2fccaed6443ae5fe4d33e68",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New malware service guarantees phishing extensions on Chrome web store",
-      "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
-      "summary": "A new malware-as-a-service (MaaS) called 'Stanley' promises malicious Chrome extensions that can clear Google's review process and publish them to the Chrome Web Store. [...]",
-      "published": "2026-01-26 23:46:09",
-      "timestamp": 1769471169
-    },
-    {
-      "id": "baaa26e27e97427918fc0e9deb2e7a3a755cbc1f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
-      "summary": "A new malicious campaign mixes the ClickFix method with fake CAPTCHA and a signed Microsoft Application Virtualization (App-V) script to ultimately deliver the Amatera infostealing malware. [...]",
-      "published": "2026-01-26 21:42:12",
-      "timestamp": 1769463732
-    },
-    {
-      "id": "4210085dd00046add38a69b235644bd707ed563e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft patches actively exploited Office zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
-      "summary": "Microsoft has released emergency security updates to patch a high-severity Office zero-day vulnerability exploited in attacks. [...]",
-      "published": "2026-01-26 18:20:35",
-      "timestamp": 1769451635
-    },
-    {
-      "id": "f02a09627a25ed6495091e984403f6e617fe5ff4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cloudflare misconfiguration behind recent BGP route leak",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
-      "summary": "Cloudflare has shared more details about a recent 25-minute Border Gateway Protocol (BGP) route leak affecting IPv6 traffic, which caused measurable congestion, packet loss, and approximately 12 Gbps of dropped traffic. [...]",
-      "published": "2026-01-26 17:50:35",
-      "timestamp": 1769449835
-    },
-    {
       "id": "297c8af910b25ec4d457b73fb8a39547241923ac",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,6 +340,16 @@
       "summary": "Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience. The post Security strategies for safeguarding governmental data appeared first on Microsoft Security Blog.",
       "published": "2026-01-26 17:00:00",
       "timestamp": 1769446800
+    },
+    {
+      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "2026-01-26 16:11:38",
+      "timestamp": 1769443898
     },
     {
       "id": "925c61e24295b5c869785bb86bbcf7f2395a9e1b",
@@ -712,46 +762,6 @@
       "timestamp": 1768909680
     },
     {
-      "id": "9be4ed3adaae36a6452ff764111b4bce817545b5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers. \"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
-      "published": "2026-01-20 11:12:00",
-      "timestamp": 1768907520
-    },
-    {
-      "id": "93e3c3f09c3812be538c143235d787db41041502",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed? To find out, Intruder\u2019s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches. Applying this at scale by scanning 5 million applications revealed over",
-      "published": "2026-01-20 10:45:00",
-      "timestamp": 1768905900
-    },
-    {
-      "id": "349e3afb6da7c4390dba962aae4669aefaab7b3b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
-      "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
-      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic. The blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
-      "published": "2026-01-20 07:40:00",
-      "timestamp": 1768894800
-    },
-    {
-      "id": "91e24a2cca3a0663a6f91d88f2821591cc07a177",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
-      "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
-      "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism. The vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
-      "published": "2026-01-19 17:21:00",
-      "timestamp": 1768843260
-    },
-    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -960,16 +970,6 @@
       "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
       "published": "2025-12-06 14:45:03",
       "timestamp": 1765032303
-    },
-    {
-      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "2025-12-04 23:02:34",
-      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
