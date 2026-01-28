@@ -1,6 +1,56 @@
 {
-  "generated_at": 1769613609,
+  "generated_at": 1769624481,
   "items": [
+    {
+      "id": "38a9c82ff932ef60ce73476dedf74eb36ede1dd7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
+      "summary": "Two vulnerabilities in the n8n workflow automation platform could allow attackers to fully compromise affected instances, access sensitive data, and execute arbitrary code on the underlying host. [...]",
+      "published": "2026-01-28 17:46:57",
+      "timestamp": 1769622417
+    },
+    {
+      "id": "581d712f2b8bbf20e58478d82e1fafbd2a136c17",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
+      "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
+      "summary": "Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial intelligence (AI) coding assistant, but stealthily drops a malicious payload on compromised hosts. The extension, named \"ClawdBot Agent - AI Coding Assistant\" (\"clawdbot.clawdbot-agent\")",
+      "published": "2026-01-28 17:46:00",
+      "timestamp": 1769622360
+    },
+    {
+      "id": "532ef55684b785a7403a988af4f0cd040fd4f66b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
+      "summary": "The FBI has seized the notorious RAMP cybercrime forum, a platform used to advertise a wide range of malware and hacking services, and one of the few remaining forums that openly allowed the promotion of ransomware operations. [...]",
+      "published": "2026-01-28 17:38:45",
+      "timestamp": 1769621925
+    },
+    {
+      "id": "e2dd23e2c8cce3cee57ea23029ee87b24ef5bb84",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
+      "link": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
+      "summary": "\u200bA Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+      "published": "2026-01-28 17:19:02",
+      "timestamp": 1769620742
+    },
+    {
+      "id": "31f28f1ec602480243b980ff3eed0313fd389f9e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+      "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
+      "summary": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM. Operational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
+      "published": "2026-01-28 16:06:00",
+      "timestamp": 1769616360
+    },
     {
       "id": "80b90d45eb56ad952aaed277f89fc56ad98349bc",
       "source": "BleepingComputer",
@@ -20,16 +70,6 @@
       "summary": "SolarWinds has released security updates to patch critical authentication bypass and remote command execution vulnerabilities in its Web Help Desk IT help desk software. [...]",
       "published": "2026-01-28 14:39:02",
       "timestamp": 1769611142
-    },
-    {
-      "id": "5868c5fc2777e4b133a000dccbb7cdfe9ff98b17",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-      "summary": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system. The vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system. \"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
-      "published": "2026-01-28 14:01:00",
-      "timestamp": 1769608860
     },
     {
       "id": "cc266466b31977cff9f8bb269737a7e4f45f1620",
@@ -70,6 +110,16 @@
       "summary": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts. That future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
       "published": "2026-01-28 11:55:00",
       "timestamp": 1769601300
+    },
+    {
+      "id": "5868c5fc2777e4b133a000dccbb7cdfe9ff98b17",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
+      "summary": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system. The vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system. \"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
+      "published": "2026-01-28 11:50:00",
+      "timestamp": 1769601000
     },
     {
       "id": "32b8439cdbf2269e3f3db5d23d3ec4aabdefc48c",
@@ -232,16 +282,6 @@
       "timestamp": 1769531224
     },
     {
-      "id": "9b4ea174dcc2deabdee84ec5de9d3888120f303e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
-      "link": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
-      "summary": "Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomware groups weaponize stolen data and pressure tactics to force payment. [...]",
-      "published": "2026-01-27 15:02:12",
-      "timestamp": 1769526132
-    },
-    {
       "id": "41ea38f56f70c7769163fad38b5386f2a80b8a1c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -252,16 +292,6 @@
       "timestamp": 1769524680
     },
     {
-      "id": "9070901e5b35d767ea61dd08bfe04fb2b92ece54",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
-      "summary": "Nonprofit security organization Shadowserver has found over 6,000 SmarterMail servers exposed online and likely vulnerable to attacks exploiting a critical authentication bypass vulnerability. [...]",
-      "published": "2026-01-27 14:09:47",
-      "timestamp": 1769522987
-    },
-    {
       "id": "9813d81e0376cfa0c3eb8ed1c1ddb71315c6b76b",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -270,16 +300,6 @@
       "summary": "Introduction The Google Threat Intelligence Group (GTIG) has identified widespread, active exploitation of the critical vulnerability CVE-2025-8088 in WinRAR, a popular file archiver tool for Windows, to establish initial access and deliver diverse payloads. Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated threat actors continue to exploit this n-day across disparate operations. The consistent exploitation method, a ",
       "published": "2026-01-27 14:00:00",
       "timestamp": 1769522400
-    },
-    {
-      "id": "4f2087dd897906e87009cac003633d3d21e9c915",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
-      "summary": "Hackers have stolen the personal and contact information belonging to over 29.8 million SoundCloud user accounts after breaching the audio streaming platform's systems. [...]",
-      "published": "2026-01-27 12:25:00",
-      "timestamp": 1769516700
     },
     {
       "id": "9d38725f93962800c93abf73cd82a45dc3559498",
@@ -340,16 +360,6 @@
       "summary": "Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience. The post Security strategies for safeguarding governmental data appeared first on Microsoft Security Blog.",
       "published": "2026-01-26 17:00:00",
       "timestamp": 1769446800
-    },
-    {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
     },
     {
       "id": "925c61e24295b5c869785bb86bbcf7f2395a9e1b",
@@ -742,26 +752,6 @@
       "timestamp": 1768916760
     },
     {
-      "id": "7140d8972e4109011678c0a16d3fc06850b027e7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Hidden Risk of Orphan Accounts",
-      "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
-      "summary": "The Problem: The Identities Left Behind As organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or \u201corphan\u201d accounts sit dormant across applications, platforms, assets, and cloud consoles. The reason they persist isn\u2019t negligence - it\u2019s fragmentation. Traditional IAM and IGA systems are designed",
-      "published": "2026-01-20 11:58:00",
-      "timestamp": 1768910280
-    },
-    {
-      "id": "4754e2b9bcb77df80504c5d1bf50815c9b8af37b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
-      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
-      "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem. \"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer",
-      "published": "2026-01-20 11:48:00",
-      "timestamp": 1768909680
-    },
-    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -970,6 +960,16 @@
       "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
       "published": "2025-12-06 14:45:03",
       "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
