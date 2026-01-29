@@ -1,6 +1,56 @@
 {
-  "generated_at": 1769689618,
+  "generated_at": 1769700188,
   "items": [
+    {
+      "id": "93fe4dedb7f94a8502a4edb674d2314b9da21cca",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
+      "link": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
+      "summary": "Seemingly harmless game mods can hide infostealer malware that quietly steals identities. Flare shows how Roblox mods can turn a home PC infection into corporate compromise. [...]",
+      "published": "2026-01-29 15:02:12",
+      "timestamp": 1769698932
+    },
+    {
+      "id": "fb4b60c56fad544dce28b274435ba6f24407c37b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
+      "summary": "The Aisuru/Kimwolf botnet launched a new massive distributed denial of service (DDoS) attack in December 2025, peaking at 31.4 Tbps and 200 million requests per second. [...]",
+      "published": "2026-01-29 14:55:25",
+      "timestamp": 1769698525
+    },
+    {
+      "id": "7a8b7002104f86245cfc10552d3df2b26ba4f825",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Microsoft Teams feature will let you report suspicious calls",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
+      "summary": "Microsoft plans to introduce a call reporting feature in Teams by mid-March, allowing users to flag suspicious or unwanted calls as potential scams or phishing attempts. [...]",
+      "published": "2026-01-29 14:49:47",
+      "timestamp": 1769698187
+    },
+    {
+      "id": "adb1fe44501f8092eb62a99c7ded02eab2abf480",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "France fines unemployment agency \u20ac5 million over data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
+      "summary": "The French data protection authority fined the national employment agency \u20ac5 million (nearly \u20ac6 million) for failing to secure job seekers' data, which allowed hackers to steal the personal information of 43 million people. [...]",
+      "published": "2026-01-29 13:36:01",
+      "timestamp": 1769693761
+    },
+    {
+      "id": "1231b936cad3b4e8afe31126c403ce64986c40c4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+      "summary": "This week\u2019s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day. Many of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
+      "published": "2026-01-29 13:01:00",
+      "timestamp": 1769691660
+    },
     {
       "id": "809335bbdda7cd6bdb723b0a0c7ba5360831b110",
       "source": "BleepingComputer",
@@ -182,16 +232,6 @@
       "timestamp": 1769606103
     },
     {
-      "id": "6a343cb1dc0ec3719f234edb70a659962a78c907",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Slovakian man pleads guilty to operating darknet marketplace",
-      "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
-      "summary": "A Slovakian national admitted on Tuesday to helping operate a darknet marketplace that sold narcotics, cybercrime tools and services, fake government IDs, and stolen personal information for more than two years. [...]",
-      "published": "2026-01-28 12:49:05",
-      "timestamp": 1769604545
-    },
-    {
       "id": "95631061b46fd9113f89d9b0a240c4b36493f5ae",
       "source": "The Hacker News",
       "source_category": "General",
@@ -220,16 +260,6 @@
       "summary": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system. The vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system. \"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
       "published": "2026-01-28 11:50:00",
       "timestamp": 1769601000
-    },
-    {
-      "id": "32b8439cdbf2269e3f3db5d23d3ec4aabdefc48c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
-      "summary": "Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk individuals from sophisticated threats, including spyware attacks. [...]",
-      "published": "2026-01-28 11:48:26",
-      "timestamp": 1769600906
     },
     {
       "id": "f7cfa28d243fa8ca31a9cd36fcb85bf0e295b539",
@@ -280,26 +310,6 @@
       "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
       "published": "2026-01-28 04:49:00",
       "timestamp": 1769575740
-    },
-    {
-      "id": "5fdf92b74d251d90ed3c3ca7c74a6e418c31de0f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
-      "summary": "OpenAI plans to begin rolling out ads on ChatGPT in the United States if you have a free or $8 Go subscription, but the catch is that the ads could be very expensive for advertisers. [...]",
-      "published": "2026-01-28 00:04:45",
-      "timestamp": 1769558685
-    },
-    {
-      "id": "8666a9312a6a33f34698e841b1402be259773bfb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
-      "summary": "Fortinet has confirmed a new, actively exploited critical FortiCloud single sign-on (SSO) authentication bypass vulnerability, tracked as CVE-2026-24858, and says it has mitigated the zero-day attacks by blocking FortiCloud SSO connections from devices running vulnerable firmware versions. [...]",
-      "published": "2026-01-27 23:19:42",
-      "timestamp": 1769555982
     },
     {
       "id": "b7be262ac417d9816cd866b3160e9a51ea44859c",
@@ -410,16 +420,6 @@
       "summary": "Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience. The post Security strategies for safeguarding governmental data appeared first on Microsoft Security Blog.",
       "published": "2026-01-26 17:00:00",
       "timestamp": 1769446800
-    },
-    {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
     },
     {
       "id": "925c61e24295b5c869785bb86bbcf7f2395a9e1b",
@@ -742,16 +742,6 @@
       "timestamp": 1768985700
     },
     {
-      "id": "d04fc6c38523c2e24bde00e6b076b3c74c488c2c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LastPass Warns of Fake Maintenance Messages Targeting Users\u2019 Master Passwords",
-      "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
-      "summary": "LastPass is alerting users to a new active phishing campaign that's impersonating the password management service, which aims to trick users into giving up their master passwords. The campaign, which began on or around January 19, 2026, involves sending phishing emails claiming upcoming maintenance and urging them to create a local backup of their password vaults in the next 24 hours. The",
-      "published": "2026-01-21 06:40:00",
-      "timestamp": 1768977600
-    },
-    {
       "id": "862dccc9383953fc782537d1ca6f20747d2bd516",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -980,6 +970,16 @@
       "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
       "published": "2025-12-06 14:45:03",
       "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
