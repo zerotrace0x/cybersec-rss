@@ -1,6 +1,26 @@
 {
-  "generated_at": 1769786549,
+  "generated_at": 1769797463,
   "items": [
+    {
+      "id": "e0fdc07ca9be9f8c4d76692e2ad8c5d5dd97723a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft to disable NTLM by default in future Windows releases",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
+      "summary": "Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks. [...]",
+      "published": "2026-01-30 17:08:57",
+      "timestamp": 1769792937
+    },
+    {
+      "id": "d255e5cd10d49b9b7eef48d01ebd8e7ab30e7726",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Operation Switch Off dismantles major pirate TV streaming services",
+      "link": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
+      "summary": "The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services. [...]",
+      "published": "2026-01-30 16:39:43",
+      "timestamp": 1769791183
+    },
     {
       "id": "76e059a25934bcdbe485b3b631f329ae96bd6c11",
       "source": "BleepingComputer",
@@ -50,6 +70,16 @@
       "summary": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape? Introduction: One view on the scattered fight against cybercrime The growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
       "published": "2026-01-30 11:30:00",
       "timestamp": 1769772600
+    },
+    {
+      "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
+      "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
+      "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
+      "published": "2026-01-30 08:00:00",
+      "timestamp": 1769760000
     },
     {
       "id": "2be1f37eb64267684e467fcd71efafc9960da77f",
@@ -270,26 +300,6 @@
       "summary": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world. To that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
       "published": "2026-01-29 07:16:00",
       "timestamp": 1769670960
-    },
-    {
-      "id": "48630582728bede83cdf2d6da6f597c9c7764e55",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/",
-      "summary": "A prolific initial access broker tracked as TA584 has been observed using the Tsundere Bot alongside XWorm remote access trojan to gain network access that could lead to ransomware attacks. [...]",
-      "published": "2026-01-28 23:29:00",
-      "timestamp": 1769642940
-    },
-    {
-      "id": "52477f2b407930a69302e0e444019a74d5188213",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
-      "summary": "The coordinated attack on Poland's power grid in late December targeted multiple distributed energy resource (DER) sites across the country, including combined heat and power (CHP) facilities and wind and solar dispatch systems. [...]",
-      "published": "2026-01-28 22:14:35",
-      "timestamp": 1769638475
     },
     {
       "id": "581d712f2b8bbf20e58478d82e1fafbd2a136c17",
@@ -1140,16 +1150,6 @@
       "summary": "Written by: Omar ElAhdan, Matthew McWhirt, Michael Rudden, Aswad Robinson, Bhavesh Dhake, Laith Al, Ravi Kumar Raja Update (Nov. 21): In response to the Salesforce advisory related to Gainsight applications, this blog post has been updated to include comprehensive hardening, logging, and detection recommendations for programmatic credentials such as API keys, OAuth tokens, service accounts, and access keys. Background Protecting software-as-a-service (SaaS) platforms and applications requires a ",
       "published": "2025-09-30 14:00:00",
       "timestamp": 1759240800
-    },
-    {
-      "id": "6f72db8e4b87e68560169946b648d727335a2c79",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Pointer leaks through pointer-keyed data structures",
-      "link": "https://projectzero.google/2025/09/pointer-leaks-through-pointer-keyed.html",
-      "summary": "Introduction Some time in 2024, during a Project Zero team discussion, we were talking about how remote ASLR leaks would be helpful or necessary for exploiting some types of memory corruption bugs, specifically in the context of Apple devices. Coming from the angle of \u201cwhere would be a good first place to look for a remote ASLR leak\u201d, this led to the discovery of a trick that could potentially be used to leak a pointer remotely, without any memory safety violations or timing attacks, in scenario",
-      "published": "2025-09-26 07:00:00",
-      "timestamp": 1758870000
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
