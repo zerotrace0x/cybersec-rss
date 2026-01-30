@@ -1,6 +1,46 @@
 {
-  "generated_at": 1769721332,
+  "generated_at": 1769734638,
   "items": [
+    {
+      "id": "882620b208def9702bb52caf85ceb34c1743a8ec",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft links Windows 11 boot failures to failed December 2025 update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/",
+      "summary": "Microsoft has linked recent reports of Windows 11 boot failures after installing the January 2026 updates to previously failed attempts to install the December 2025 security update, which left systems in an \"improper state.\" [...]",
+      "published": "2026-01-30 00:21:49",
+      "timestamp": 1769732509
+    },
+    {
+      "id": "f930587d65ac955d941bc86a204739120e4bb4cf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hugging Face abused to spread thousands of Android malware variants",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
+      "summary": "A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credentials for popular financial and payment services. [...]",
+      "published": "2026-01-29 22:08:19",
+      "timestamp": 1769724499
+    },
+    {
+      "id": "06bf8b22f68947ccaff2485bfb9b4d7f25b1395d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
+      "summary": "Ivanti has disclosed two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340, that were exploited in zero-day attacks. [...]",
+      "published": "2026-01-29 22:07:33",
+      "timestamp": 1769724453
+    },
+    {
+      "id": "b8c719a1c069b1e260cfad14ef9ae05a94f97af5",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Turning threat reports into detection insights with AI",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/29/turning-threat-reports-detection-insights-ai/",
+      "summary": "Security teams often spend days manually turning long incident reports and threat writeups into actionable detections by extracting TTPs. This blog post shows an AI-assisted workflow that does the same job in minutes. It extracts the TTPs, maps them to existing detection coverage, and flags potential gaps. Defenders can respond faster, with human experts still reviewing and validating the results. The post Turning threat reports into detection insights with AI appeared first on Microsoft Securit",
+      "published": "2026-01-29 21:20:18",
+      "timestamp": 1769721618
+    },
     {
       "id": "cedef7960ee2e6873687394d870a60d1dff8ddeb",
       "source": "BleepingComputer",
@@ -192,16 +232,6 @@
       "timestamp": 1769632019
     },
     {
-      "id": "38a9c82ff932ef60ce73476dedf74eb36ede1dd7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
-      "summary": "Two vulnerabilities in the n8n workflow automation platform could allow attackers to fully compromise affected instances, access sensitive data, and execute arbitrary code on the underlying host. [...]",
-      "published": "2026-01-28 17:46:57",
-      "timestamp": 1769622417
-    },
-    {
       "id": "581d712f2b8bbf20e58478d82e1fafbd2a136c17",
       "source": "The Hacker News",
       "source_category": "General",
@@ -210,26 +240,6 @@
       "summary": "Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial intelligence (AI) coding assistant, but stealthily drops a malicious payload on compromised hosts. The extension, named \"ClawdBot Agent - AI Coding Assistant\" (\"clawdbot.clawdbot-agent\")",
       "published": "2026-01-28 17:46:00",
       "timestamp": 1769622360
-    },
-    {
-      "id": "532ef55684b785a7403a988af4f0cd040fd4f66b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
-      "summary": "The FBI has seized the notorious RAMP cybercrime forum, a platform used to advertise a wide range of malware and hacking services, and one of the few remaining forums that openly allowed the promotion of ransomware operations. [...]",
-      "published": "2026-01-28 17:38:45",
-      "timestamp": 1769621925
-    },
-    {
-      "id": "e2dd23e2c8cce3cee57ea23029ee87b24ef5bb84",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
-      "link": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
-      "summary": "\u200bA Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
-      "published": "2026-01-28 17:19:02",
-      "timestamp": 1769620742
     },
     {
       "id": "31f28f1ec602480243b980ff3eed0313fd389f9e",
@@ -440,16 +450,6 @@
       "summary": "Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience. The post Security strategies for safeguarding governmental data appeared first on Microsoft Security Blog.",
       "published": "2026-01-26 17:00:00",
       "timestamp": 1769446800
-    },
-    {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
     },
     {
       "id": "925c61e24295b5c869785bb86bbcf7f2395a9e1b",
@@ -772,7 +772,7 @@
       "timestamp": 1768933153
     },
     {
-      "id": "deec3613c0f1144cdee184b5ae6b2376743c85d7",
+      "id": "9ec4f325008ace705051ea3fae72b7927eee7dda",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Four priorities for AI-powered identity and network access security in 2026",
@@ -822,7 +822,7 @@
       "timestamp": 1768413540
     },
     {
-      "id": "c2e739b3d0e00f2c643b2a1d28f9addf24abf4e0",
+      "id": "9173017078e5ca0faccc7556acc2bfca59bff6c4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms",
@@ -830,16 +830,6 @@
       "summary": "Microsoft is honored to be named a Leader in the 2025\u20132026 IDC MarketScape for Unified AI Governance Platforms, highlighting our commitment to making AI innovation safe, responsible, and enterprise-ready. The post Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms appeared first on Microsoft Security Blog.",
       "published": "2026-01-14 17:00:00",
       "timestamp": 1768410000
-    },
-    {
-      "id": "9217d02e105279c6d66093c4db5a6c572a84114b",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/14/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/",
-      "summary": "Microsoft\u2019s investigation into RedVDS services and infrastructure uncovered a global network of disparate cybercriminals purchasing and using to target multiple sectors. In collaboration with law enforcement agencies worldwide, Microsoft\u2019s Digital Crimes Unit (DCU) recently facilitated a disruption of RedVDS infrastructure and related operations. The post Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations appeared first on Microsoft Security Blog.",
-      "published": "2026-01-14 15:03:31",
-      "timestamp": 1768403011
     },
     {
       "id": "77e4bfa1cf4054a5896b5c660054903dbde4ee88",
@@ -980,6 +970,16 @@
       "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
       "published": "2025-12-06 14:45:03",
       "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
