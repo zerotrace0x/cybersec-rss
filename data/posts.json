@@ -1,5 +1,5 @@
 {
-  "generated_at": 1769807806,
+  "generated_at": 1769820876,
   "items": [
     {
       "id": "2cee46227e6c51bbede8fb54d69a08469109f13e",
@@ -50,6 +50,26 @@
       "summary": "Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update. [...]",
       "published": "2026-01-30 14:48:49",
       "timestamp": 1769784529
+    },
+    {
+      "id": "2d1fcf12180a6decee48b5a11c65dbd9675a58b8",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Guidance from the Frontlines: Proactive Defense Against ShinyHunters-Branded Data Theft Targeting SaaS",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defense-against-shinyhunters-cybercrime-saas/",
+      "summary": "Introduction Mandiant is tracking a significant expansion and escalation in the operations of threat clusters associated with ShinyHunters-branded extortion. As detailed in our companion report, 'Vishing for Access: Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft', these campaigns leverage evolved voice phishing (vishing) and victim-branded credential harvesting to successfully compromise single sign-on (SSO) credentials and enroll unauthorized devices into victim multi-factor aut",
+      "published": "2026-01-30 14:00:00",
+      "timestamp": 1769781600
+    },
+    {
+      "id": "a6e7049ec05d09001e489f7b33c7ae7f4fd77cdb",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Vishing for Access: Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/expansion-shinyhunters-saas-data-theft/",
+      "summary": "Introduction Mandiant has identified an expansion in threat activity that uses tactics, techniques, and procedures (TTPs) consistent with prior ShinyHunters-branded extortion operations. These operations primarily leverage sophisticated voice phishing (vishing) and victim-branded credential harvesting sites to gain initial access to corporate environments by obtaining single sign-on (SSO) credentials and multi-factor authentication (MFA) codes. Once inside, the threat actors target cloud-based s",
+      "published": "2026-01-30 14:00:00",
+      "timestamp": 1769781600
     },
     {
       "id": "59d64a919b2f1ff18fd45803587f11abae16f20e",
@@ -1130,26 +1150,6 @@
       "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
-    },
-    {
-      "id": "c5572a0e3b9922bd7aaba12634d8824814096b14",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Oracle E-Business Suite Zero-Day Exploited in Widespread Extortion Campaign",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/oracle-ebusiness-suite-zero-day-exploitation/",
-      "summary": "Written by: Peter Ukhanov, Genevieve Stark, Zander Work, Ashley Pearson, Josh Murchie, Austin Larsen Update (Oct. 11): On Oct. 11, Oracle released another patch, addressing CVE-2025-61884. Introduction Beginning Sept. 29, 2025, Google Threat Intelligence Group (GTIG) and Mandiant began tracking a new, large-scale extortion campaign by a threat actor claiming affiliation with the CL0P extortion brand. The actor began sending a high volume of emails to executives at numerous organizations, allegin",
-      "published": "2025-10-09 14:00:00",
-      "timestamp": 1760018400
-    },
-    {
-      "id": "855d7683577ed5378c4f369a708b587544020918",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Cybercrime Observations from the Frontlines: UNC6040 Proactive Hardening Recommendations",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6040-proactive-hardening-recommendations/",
-      "summary": "Written by: Omar ElAhdan, Matthew McWhirt, Michael Rudden, Aswad Robinson, Bhavesh Dhake, Laith Al, Ravi Kumar Raja Update (Nov. 21): In response to the Salesforce advisory related to Gainsight applications, this blog post has been updated to include comprehensive hardening, logging, and detection recommendations for programmatic credentials such as API keys, OAuth tokens, service accounts, and access keys. Background Protecting software-as-a-service (SaaS) platforms and applications requires a ",
-      "published": "2025-09-30 14:00:00",
-      "timestamp": 1759240800
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
