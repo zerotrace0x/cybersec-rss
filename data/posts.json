@@ -1,6 +1,66 @@
 {
-  "generated_at": 1770046036,
+  "generated_at": 1770056727,
   "items": [
+    {
+      "id": "d88995afdbdf49924fa85de69938be90777d761d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Mozilla announces switch to disable all Firefox AI features",
+      "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
+      "summary": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or manage them individually. [...]",
+      "published": "2026-02-02 18:09:13",
+      "timestamp": 1770055753
+    },
+    {
+      "id": "df8b27b4d542c321943c4da50a397b5b0f60fef6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: January update shutdown bug affects more Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
+      "summary": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure Mode (VSM) enabled. [...]",
+      "published": "2026-02-02 17:17:30",
+      "timestamp": 1770052650
+    },
+    {
+      "id": "3cf0a8359bce1feb68dca11257268f60b80fcfca",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+      "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
+      "published": "2026-02-02 16:28:00",
+      "timestamp": 1770049680
+    },
+    {
+      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
+      "published": "2026-02-02 16:15:16",
+      "timestamp": 1770048916
+    },
+    {
+      "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+      "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options. The development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad",
+      "published": "2026-02-02 15:59:00",
+      "timestamp": 1770047940
+    },
+    {
+      "id": "740fb68b0a5b703360a697155940bf4bbcfc9c82",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
+      "summary": "Fake high-yield investment platforms are surging worldwide, promising \"guaranteed\" returns that mask classic Ponzi schemes.CTM360 explains how HYIP scams scale through social media, recycled templates, and referral abuse. [...]",
+      "published": "2026-02-02 15:34:44",
+      "timestamp": 1770046484
+    },
     {
       "id": "f7ec70b339a566acf5a0096ebd76de4700145f7f",
       "source": "BleepingComputer",
@@ -202,16 +262,6 @@
       "timestamp": 1769843100
     },
     {
-      "id": "2cee46227e6c51bbede8fb54d69a08469109f13e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Crypto wallets received a record $158 billion in illicit funds last year",
-      "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
-      "summary": "Illegal cryptocurrency flows hit a record $158 billion in 2025, reversing a three-year trend of declining amounts from $86B in 2021 to $64B in 2024. [...]",
-      "published": "2026-01-30 18:49:51",
-      "timestamp": 1769798991
-    },
-    {
       "id": "3e9f5925087db1170ec2c137064a0d1c9dcb69f7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -220,26 +270,6 @@
       "summary": "Securing AI-powered applications requires more than just safeguarding prompts. Organizations must adopt a holistic approach that includes monitoring the AI supply chain, assessing frameworks, SDKs, and orchestration layers for vulnerabilities, and enforcing strong runtime controls for agents and tools. Leveraging visibility into these components allows security teams to detect, respond to, and remediate risks before they can be exploited. The post Case study: Securing AI application supply chain",
       "published": "2026-01-30 18:49:44",
       "timestamp": 1769798984
-    },
-    {
-      "id": "e0fdc07ca9be9f8c4d76692e2ad8c5d5dd97723a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft to disable NTLM by default in future Windows releases",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
-      "summary": "Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks. [...]",
-      "published": "2026-01-30 17:08:57",
-      "timestamp": 1769792937
-    },
-    {
-      "id": "d255e5cd10d49b9b7eef48d01ebd8e7ab30e7726",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Operation Switch Off dismantles major pirate TV streaming services",
-      "link": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
-      "summary": "The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services. [...]",
-      "published": "2026-01-30 16:39:43",
-      "timestamp": 1769791183
     },
     {
       "id": "2d1fcf12180a6decee48b5a11c65dbd9675a58b8",
@@ -762,26 +792,6 @@
       "timestamp": 1769171400
     },
     {
-      "id": "c40dde987713207da5919111da18af4034135502",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
-      "link": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html",
-      "summary": "TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S. The new venture, named TikTok USDS Joint Venture LLC, has been established in compliance with the Executive Order signed by U.S. President Donald Trump in September 2025, the platform said. The new deal will see TikTok's Chinese",
-      "published": "2026-01-23 11:30:00",
-      "timestamp": 1769167800
-    },
-    {
-      "id": "17a5bd7fce0f4d689be61055b964756fe65b6f6f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
-      "link": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new dual-vector campaign that leverages stolen credentials to deploy legitimate Remote Monitoring and Management (RMM) software for persistent remote access to compromised hosts. \"Instead of deploying custom viruses, attackers are bypassing security perimeters by weaponizing the necessary IT tools that administrators trust,\" KnowBe4 Threat",
-      "published": "2026-01-23 11:18:00",
-      "timestamp": 1769167080
-    },
-    {
       "id": "3c69c35cc65f3df775d238846cda0ee00daf3a9b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1000,16 +1010,6 @@
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "published": "2025-12-09 23:18:29",
       "timestamp": 1765322309
-    },
-    {
-      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "2025-12-06 14:45:03",
-      "timestamp": 1765032303
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
