@@ -1,6 +1,46 @@
 {
-  "generated_at": 1770056727,
+  "generated_at": 1770080455,
   "items": [
+    {
+      "id": "503bbb06f6a0f8b992a7f614ff2894bb92b41d8f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
+      "summary": "A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and configurations from macOS systems. [...]",
+      "published": "2026-02-02 22:04:19",
+      "timestamp": 1770069859
+    },
+    {
+      "id": "fb77309185bb3efcca31cb77a396a10ad76394af",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Infostealers without borders: macOS, Python stealers, and platform abuse",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/",
+      "summary": "How modern infostealers target macOS systems, leverage Python\u2011based stealers, and abuse trusted platforms and utilities to distribute credential\u2011stealing payloads. The post Infostealers without borders: macOS, Python stealers, and platform abuse appeared first on Microsoft Security Blog.",
+      "published": "2026-02-02 21:04:29",
+      "timestamp": 1770066269
+    },
+    {
+      "id": "1906a401a0eaae2c451a42369be6f6519be1eb49",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+      "summary": "Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in multiple versions of Microsoft Office. [...]",
+      "published": "2026-02-02 21:00:07",
+      "timestamp": 1770066007
+    },
+    {
+      "id": "6784a9138f0d1548e14d283c61d7c5374c644fc8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malicious MoltBot skills used to push password-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
+      "summary": "More than 230 malicious packages for the personal AI assistant OpenClaw (formerly known as Moltbot and ClawdBot) have been published in less than a week on the tool's official registry and on GitHub. [...]",
+      "published": "2026-02-02 19:11:12",
+      "timestamp": 1770059472
+    },
     {
       "id": "d88995afdbdf49924fa85de69938be90777d761d",
       "source": "BleepingComputer",
@@ -10,6 +50,16 @@
       "summary": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or manage them individually. [...]",
       "published": "2026-02-02 18:09:13",
       "timestamp": 1770055753
+    },
+    {
+      "id": "798861d8bfe3efe856b3b9ac35e823b1ab669f6b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
+      "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
+      "summary": "A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks. ClawHub is a marketplace designed to make it easy for OpenClaw users to find and install third-party skills. It's an extension to the OpenClaw project, a self-hosted artificial intelligence (AI) assistant",
+      "published": "2026-02-02 17:49:00",
+      "timestamp": 1770054540
     },
     {
       "id": "df8b27b4d542c321943c4da50a397b5b0f60fef6",
@@ -200,36 +250,6 @@
       "summary": "A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms. [...]",
       "published": "2026-01-31 17:33:42",
       "timestamp": 1769880822
-    },
-    {
-      "id": "3daa04f28ae1a2cf5c87ab8937cb32177cec6056",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cloud storage payment scam floods inboxes with fake renewals",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
-      "summary": "Over the past few months, a large-scale cloud storage subscription scam campaign has been targeting users worldwide with repeated emails falsely warning recipients that their photos, files, and accounts are about to be blocked or deleted due to an alleged payment failure. [...]",
-      "published": "2026-01-31 16:21:32",
-      "timestamp": 1769876492
-    },
-    {
-      "id": "c06029e06c5e3ceac47b9f43ac5249b44a8e9094",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
-      "link": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
-      "summary": "Mandiant says a wave of recent ShinyHunters SaaS data-theft attacks is being fueled by targeted voice phishing (vishing) attacks and company-branded phishing sites that steal single sign-on (SSO) credentials and multi-factor authentication (MFA) codes. [...]",
-      "published": "2026-01-31 15:02:12",
-      "timestamp": 1769871732
-    },
-    {
-      "id": "9f2e0804c8a7383531c6b822de805b51e26de9a8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
-      "link": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
-      "summary": "A researcher has released detailed evidence showing some Instagram private accounts exposed photo links to unauthenticated visitors. The issue was later fixed, but Meta closed the report as not applicable and did not respond to multiple requests for comment. [...]",
-      "published": "2026-01-31 14:27:12",
-      "timestamp": 1769869632
     },
     {
       "id": "98a5a48555670b6c63ac4caecdf7754a1be26632",
@@ -652,7 +672,7 @@
       "timestamp": 1769446860
     },
     {
-      "id": "e86ce4358bae5a3f22c7fa2ba5cd19e161bfdbbc",
+      "id": "27b2b6d14b65e77679ea18c5dd0e0f45a286d8b1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Security strategies for safeguarding governmental data",
@@ -782,16 +802,6 @@
       "timestamp": 1769181840
     },
     {
-      "id": "0c3295c0644a64b05bc0dcfe220db4c0b8608fbc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
-      "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
-      "summary": "Fortinet has officially confirmed that it's working to completely plug a FortiCloud SSO authentication bypass vulnerability following reports of fresh exploitation activity on fully-patched firewalls. \"In the last 24 hours, we have identified a number of cases where the exploit was to a device that had been fully upgraded to the latest release at the time of the attack, which suggested a new",
-      "published": "2026-01-23 12:30:00",
-      "timestamp": 1769171400
-    },
-    {
       "id": "3c69c35cc65f3df775d238846cda0ee00daf3a9b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -802,7 +812,7 @@
       "timestamp": 1769101200
     },
     {
-      "id": "842b6e669c8e7d8e05544c81e6d64d73c2ad527b",
+      "id": "34b8a6d1d50fdf4cc15a1af15668909b2e615d9e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Resurgence of a multi\u2011stage AiTM phishing and BEC campaign abusing SharePoint",
@@ -830,16 +840,6 @@
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
       "published": "2026-01-20 18:19:13",
       "timestamp": 1768933153
-    },
-    {
-      "id": "9ec4f325008ace705051ea3fae72b7927eee7dda",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Four priorities for AI-powered identity and network access security in 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/20/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/",
-      "summary": "Discover four key identity and access priorities for the new year to strengthen your organization's identity security baseline. The post Four priorities for AI-powered identity and network access security in 2026 appeared first on Microsoft Security Blog.",
-      "published": "2026-01-20 17:00:00",
-      "timestamp": 1768928400
     },
     {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
