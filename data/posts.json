@@ -1,6 +1,66 @@
 {
-  "generated_at": 1770121769,
+  "generated_at": 1770133012,
   "items": [
+    {
+      "id": "6c875bda2a40f4d26af24610065c05b713d73f64",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
+      "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the full lifecycle of AI agent identities is becoming a critical CISO priority. [...]",
+      "published": "2026-02-03 15:01:11",
+      "timestamp": 1770130871
+    },
+    {
+      "id": "474c98ba042a89bd0769ecd5905feb3025f6946d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
+      "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant was used to generate nonconsensual sexual images. [...]",
+      "published": "2026-02-03 14:25:50",
+      "timestamp": 1770128750
+    },
+    {
+      "id": "514dac30158371e358ed7f5d70500839a5109912",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+      "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
+      "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress. Every vendor promises \u201ccomplete coverage\u201d or \u201cAI-powered automation,\u201d but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less. This",
+      "published": "2026-02-03 14:14:00",
+      "timestamp": 1770128040
+    },
+    {
+      "id": "15c97eaebaa12cc3b2e4f24339b8f9ee1dee4044",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
+      "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package. Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
+      "published": "2026-02-03 14:00:00",
+      "timestamp": 1770127200
+    },
+    {
+      "id": "f99275f2c54d4c4d04d2c31fd88f203b883ced80",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+      "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux. [...]",
+      "published": "2026-02-03 14:00:00",
+      "timestamp": 1770127200
+    },
+    {
+      "id": "3f18b1fe950626785f733546f61949317af3af1c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+      "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+      "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images. [...]",
+      "published": "2026-02-03 12:43:37",
+      "timestamp": 1770122617
+    },
     {
       "id": "32b74b849803e38307b4118434a8f64f29ccedbe",
       "source": "The Hacker News",
@@ -122,16 +182,6 @@
       "timestamp": 1770049680
     },
     {
-      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
-      "published": "2026-02-02 16:15:16",
-      "timestamp": 1770048916
-    },
-    {
       "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -250,46 +300,6 @@
       "summary": "A threat actor is targeting exposed MongoDB instances in automated data extortion attacks demanding low ransoms from owners to restore the data. [...]",
       "published": "2026-02-01 16:27:00",
       "timestamp": 1769963220
-    },
-    {
-      "id": "064418385d44ccb70ff2cb0a9816fd908fcf0a55",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Apple privacy feature limits location tracking on iPhones, iPads",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
-      "summary": "Apple is introducing a new privacy feature that lets users limit the precision of location data shared with cellular networks on some iPhone and iPad models. [...]",
-      "published": "2026-02-01 15:20:40",
-      "timestamp": 1769959240
-    },
-    {
-      "id": "c0a9ba2075ff044959dd4d9f40c20911f39998cf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
-      "summary": "OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout, at least on Android. [...]",
-      "published": "2026-02-01 02:00:00",
-      "timestamp": 1769911200
-    },
-    {
-      "id": "9172f36eeba6967749ddd85a775f34b6a6663ebb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
-      "summary": "OpenAI has confirmed that it's retiring ChatGPT's most popular model called GPT-4o and several other models, including GPT-5 Instant, GPT-5 Thinking, GPT-4.1, GPT-4.1 mini, and o4-mini. [...]",
-      "published": "2026-02-01 01:26:02",
-      "timestamp": 1769909162
-    },
-    {
-      "id": "8c9dc7c64edef4af2651a49f4ab4022ed34b7caf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
-      "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
-      "summary": "A U.S. federal jury has convicted Linwei Ding, a former software engineer at Google, for stealing AI supercomputer data from his employer and secretly sharing it with Chinese tech firms. [...]",
-      "published": "2026-01-31 17:33:42",
-      "timestamp": 1769880822
     },
     {
       "id": "98a5a48555670b6c63ac4caecdf7754a1be26632",
@@ -722,16 +732,6 @@
       "timestamp": 1769446800
     },
     {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
-    },
-    {
       "id": "925c61e24295b5c869785bb86bbcf7f2395a9e1b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -762,16 +762,6 @@
       "timestamp": 1769427000
     },
     {
-      "id": "ff6d4c7d8ab8a6eee006ab317cc6560e9512b166",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
-      "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
-      "summary": "The North Korean threat actor known as Konni has been observed using PowerShell malware generated using artificial intelligence (AI) tools to target developers and engineering teams in the blockchain sector. The phishing campaign has targeted Japan, Australia, and India, highlighting the adversary's expansion of the targeting scope beyond South Korea, Russia, Ukraine, and European nations, Check",
-      "published": "2026-01-26 08:54:00",
-      "timestamp": 1769417640
-    },
-    {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -780,16 +770,6 @@
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
       "published": "2026-01-26 08:00:00",
       "timestamp": 1769414400
-    },
-    {
-      "id": "85b02692a70b600032acc6ca17b7421c188a72d9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
-      "link": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
-      "summary": "A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT. \"The attack begins with social engineering lures delivered via business-themed documents crafted to appear routine and benign,\" Fortinet FortiGuard Labs researcher Cara Lin said in a technical breakdown published this week. \"These documents and",
-      "published": "2026-01-24 11:09:00",
-      "timestamp": 1769252940
     },
     {
       "id": "56b616aa0a9736131a1a96f33b87c91c8015c757",
@@ -832,16 +812,6 @@
       "timestamp": 1769006011
     },
     {
-      "id": "862dccc9383953fc782537d1ca6f20747d2bd516",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-      "published": "2026-01-20 18:19:13",
-      "timestamp": 1768933153
-    },
-    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -882,16 +852,6 @@
       "timestamp": 1768413540
     },
     {
-      "id": "77e4bfa1cf4054a5896b5c660054903dbde4ee88",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Patch Tuesday, January 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-      "published": "2026-01-14 00:47:38",
-      "timestamp": 1768351658
-    },
-    {
       "id": "d4a4dd6f37c5689106df248c7c31dc507e5d40c0",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -900,56 +860,6 @@
       "summary": "Written by: Amine Ismail, Anirudha Kanodia Introduction Mandiant is releasing AuraInspector, a new open-source tool designed to help defenders identify and audit access control misconfigurations within the Salesforce Aura framework. Salesforce Experience Cloud is a foundational platform for many businesses, but Mandiant Offensive Security Services (OSS) frequently identifies misconfigurations that allow unauthorized users to access sensitive data including credit card numbers, identity documents",
       "published": "2026-01-12 14:00:00",
       "timestamp": 1768226400
-    },
-    {
-      "id": "b4a67bf79133f737ff8e5a6e75562b041e26e3fc",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "2026-01-08 23:23:43",
-      "timestamp": 1767914623
-    },
-    {
-      "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "2026-01-02 14:20:10",
-      "timestamp": 1767363610
-    },
-    {
-      "id": "3c9ca8e75049a179fca7778a8d0eda58fc626212",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "2025-12-29 20:23:26",
-      "timestamp": 1767039806
-    },
-    {
-      "id": "573a647b99259c7839167fd3f8a423ae87d14825",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation\u2019s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president\u2019s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren\u2019t even aware of them all.",
-      "published": "2025-12-19 15:14:55",
-      "timestamp": 1766157295
-    },
-    {
-      "id": "1c81a9b2e6684274a3fd262e8df3d7fefa6c2a79",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "2025-12-16 14:14:48",
-      "timestamp": 1765894488
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
@@ -1000,16 +910,6 @@
       "summary": "Introduction Between July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group. Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices. On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used and the spyware they dropped. In this blogpost, we wou",
       "published": "2025-12-12 10:00:00",
       "timestamp": 1765533600
-    },
-    {
-      "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "2025-12-09 23:18:29",
-      "timestamp": 1765322309
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
