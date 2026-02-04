@@ -1,6 +1,16 @@
 {
-  "generated_at": 1770153730,
+  "generated_at": 1770166584,
   "items": [
+    {
+      "id": "de32bb27e50fe95d840a87f890669b6f00e7bd26",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
+      "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives. [...]",
+      "published": "2026-02-03 21:33:23",
+      "timestamp": 1770154403
+    },
     {
       "id": "2d97b523b6214affe1827da70ece1e4dd23154a0",
       "source": "BleepingComputer",
@@ -260,16 +270,6 @@
       "summary": "Chinese state-sponsored threat actors were likely behind the hijacking of Notepad++ update traffic last year that lasted for almost half a year, the developer states in an official announcement today. [...]",
       "published": "2026-02-02 14:53:52",
       "timestamp": 1770044032
-    },
-    {
-      "id": "eda672794c3833269cd71e5b1c04ee7419c3a407",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
-      "summary": "The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported. [...]",
-      "published": "2026-02-02 13:46:39",
-      "timestamp": 1770039999
     },
     {
       "id": "998aa857c50bcc5a5cefc36ec38c12d09d0f08c6",
@@ -812,16 +812,6 @@
       "timestamp": 1769058854
     },
     {
-      "id": "862dccc9383953fc782537d1ca6f20747d2bd516",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-      "published": "2026-01-20 18:19:13",
-      "timestamp": 1768933153
-    },
-    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -862,16 +852,6 @@
       "timestamp": 1768413540
     },
     {
-      "id": "77e4bfa1cf4054a5896b5c660054903dbde4ee88",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Patch Tuesday, January 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
-      "published": "2026-01-14 00:47:38",
-      "timestamp": 1768351658
-    },
-    {
       "id": "d4a4dd6f37c5689106df248c7c31dc507e5d40c0",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -880,56 +860,6 @@
       "summary": "Written by: Amine Ismail, Anirudha Kanodia Introduction Mandiant is releasing AuraInspector, a new open-source tool designed to help defenders identify and audit access control misconfigurations within the Salesforce Aura framework. Salesforce Experience Cloud is a foundational platform for many businesses, but Mandiant Offensive Security Services (OSS) frequently identifies misconfigurations that allow unauthorized users to access sensitive data including credit card numbers, identity documents",
       "published": "2026-01-12 14:00:00",
       "timestamp": 1768226400
-    },
-    {
-      "id": "b4a67bf79133f737ff8e5a6e75562b041e26e3fc",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "published": "2026-01-08 23:23:43",
-      "timestamp": 1767914623
-    },
-    {
-      "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
-      "published": "2026-01-02 14:20:10",
-      "timestamp": 1767363610
-    },
-    {
-      "id": "3c9ca8e75049a179fca7778a8d0eda58fc626212",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
-      "published": "2025-12-29 20:23:26",
-      "timestamp": 1767039806
-    },
-    {
-      "id": "573a647b99259c7839167fd3f8a423ae87d14825",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-      "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation\u2019s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, along with the president\u2019s efforts to restrict free speech and freedom of the press, have come at such a rapid clip that many readers probably aren\u2019t even aware of them all.",
-      "published": "2025-12-19 15:14:55",
-      "timestamp": 1766157295
-    },
-    {
-      "id": "1c81a9b2e6684274a3fd262e8df3d7fefa6c2a79",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
-      "published": "2025-12-16 14:14:48",
-      "timestamp": 1765894488
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
@@ -980,36 +910,6 @@
       "summary": "Introduction Between July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group. Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices. On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used and the spyware they dropped. In this blogpost, we wou",
       "published": "2025-12-12 10:00:00",
       "timestamp": 1765533600
-    },
-    {
-      "id": "a88e1b0230a86f28181e55c10a9bb7a291e4fb0f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
-      "published": "2025-12-09 23:18:29",
-      "timestamp": 1765322309
-    },
-    {
-      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "2025-12-06 14:45:03",
-      "timestamp": 1765032303
-    },
-    {
-      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "2025-12-04 23:02:34",
-      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
