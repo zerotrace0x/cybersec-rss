@@ -1,6 +1,36 @@
 {
-  "generated_at": 1770219015,
+  "generated_at": 1770229900,
   "items": [
+    {
+      "id": "090766a320916e208039cbbe1acf8adbce2c5cb1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
+      "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
+      "published": "2026-02-04 17:38:46",
+      "timestamp": 1770226726
+    },
+    {
+      "id": "1deae5b50ab607f339fac5d8dffc8671680b0a12",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Detecting backdoored language models at scale",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/",
+      "summary": "We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems. The post Detecting backdoored language models at scale appeared first on Microsoft Security Blog.",
+      "published": "2026-02-04 17:00:00",
+      "timestamp": 1770224400
+    },
+    {
+      "id": "9b476529a9591f29541ed0722e3208162cbfe799",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
+      "published": "2026-02-04 15:42:31",
+      "timestamp": 1770219751
+    },
     {
       "id": "8d21090c2c1585945e0a5cdd498a6e0e50217dda",
       "source": "BleepingComputer",
@@ -232,16 +262,6 @@
       "timestamp": 1770127200
     },
     {
-      "id": "3f18b1fe950626785f733546f61949317af3af1c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
-      "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
-      "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to generate sexually explicit images. [...]",
-      "published": "2026-02-03 12:43:37",
-      "timestamp": 1770122617
-    },
-    {
       "id": "32b74b849803e38307b4118434a8f64f29ccedbe",
       "source": "The Hacker News",
       "source_category": "General",
@@ -282,16 +302,6 @@
       "timestamp": 1770094500
     },
     {
-      "id": "503bbb06f6a0f8b992a7f614ff2894bb92b41d8f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
-      "summary": "A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and configurations from macOS systems. [...]",
-      "published": "2026-02-02 22:04:19",
-      "timestamp": 1770069859
-    },
-    {
       "id": "fb77309185bb3efcca31cb77a396a10ad76394af",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -320,16 +330,6 @@
       "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
       "published": "2026-02-02 16:28:00",
       "timestamp": 1770049680
-    },
-    {
-      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
-      "published": "2026-02-02 16:15:16",
-      "timestamp": 1770048916
     },
     {
       "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
@@ -482,16 +482,6 @@
       "timestamp": 1769772600
     },
     {
-      "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
-      "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
-      "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
-      "published": "2026-01-30 08:00:00",
-      "timestamp": 1769760000
-    },
-    {
       "id": "2be1f37eb64267684e467fcd71efafc9960da77f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -520,6 +510,16 @@
       "summary": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog. The critical-severity vulnerabilities are listed below - CVE-2026-1281 (CVSS score:",
       "published": "2026-01-30 04:43:00",
       "timestamp": 1769748180
+    },
+    {
+      "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
+      "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
+      "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
+      "published": "2026-01-29 23:00:00",
+      "timestamp": 1769727600
     },
     {
       "id": "b8c719a1c069b1e260cfad14ef9ae05a94f97af5",
@@ -782,24 +782,14 @@
       "timestamp": 1769446800
     },
     {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
-    },
-    {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
       "source": "Google Project Zero",
       "source_category": "Research",
       "title": "Bypassing Windows Administrator Protection",
       "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
-      "published": "2026-01-26 08:00:00",
-      "timestamp": 1769414400
+      "published": "2026-01-25 23:00:00",
+      "timestamp": 1769382000
     },
     {
       "id": "56b616aa0a9736131a1a96f33b87c91c8015c757",
@@ -820,16 +810,6 @@
       "summary": "Discover how Ford, Icertis, and TriNet modernized security with Microsoft\u2014embedding Zero Trust, automating defenses, and enabling secure AI innovation at scale. The post Microsoft Security success stories: Why integrated security is the foundation of AI transformation appeared first on Microsoft Security Blog.",
       "published": "2026-01-22 17:00:00",
       "timestamp": 1769101200
-    },
-    {
-      "id": "842b6e669c8e7d8e05544c81e6d64d73c2ad527b",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Resurgence of a multi\u2011stage AiTM phishing and BEC campaign abusing SharePoint",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/21/multistage-aitm-phishing-bec-campaign-abusing-sharepoint/",
-      "summary": "Microsoft Defender Researchers uncovered a multi\u2011stage AiTM phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector. The post Resurgence of a multi\u2011stage AiTM phishing and BEC campaign abusing SharePoint appeared first on Microsoft Security Blog.",
-      "published": "2026-01-22 05:14:14",
-      "timestamp": 1769058854
     },
     {
       "id": "862dccc9383953fc782537d1ca6f20747d2bd516",
@@ -858,8 +838,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
       "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
-      "published": "2026-01-14 18:01:00",
-      "timestamp": 1768413660
+      "published": "2026-01-14 09:01:00",
+      "timestamp": 1768381260
     },
     {
       "id": "35d01a4a81f61e3097583fe69ef74c1451a9932f",
@@ -868,8 +848,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
       "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
-      "published": "2026-01-14 18:00:00",
-      "timestamp": 1768413600
+      "published": "2026-01-14 09:00:00",
+      "timestamp": 1768381200
     },
     {
       "id": "dbb460bbb0c787324b208477ec5d48ba09fd48d6",
@@ -878,8 +858,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
       "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
-      "published": "2026-01-14 17:59:00",
-      "timestamp": 1768413540
+      "published": "2026-01-14 08:59:00",
+      "timestamp": 1768381140
     },
     {
       "id": "77e4bfa1cf4054a5896b5c660054903dbde4ee88",
@@ -1012,6 +992,26 @@
       "timestamp": 1765322309
     },
     {
+      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "2025-12-06 14:45:03",
+      "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
+    },
+    {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1088,8 +1088,8 @@
       "title": "Defeating KASLR by Doing Nothing at All",
       "link": "https://projectzero.google/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
       "summary": "Introduction I\u2019ve recently been researching Pixel kernel exploitation and as part of this research I found myself with an excellent arbitrary write primitive\u2026but without a KASLR leak. As necessity is the mother of all invention, on a hunch, I started researching the Linux kernel linear mapping. The Linux Linear Mapping The linear mapping is a region in the kernel virtual address space that is a direct 1:1 unstructured representation of physical memory. Working with Jann, I learned how the kernel",
-      "published": "2025-11-03 08:00:00",
-      "timestamp": 1762156800
+      "published": "2025-11-02 23:00:00",
+      "timestamp": 1762124400
     },
     {
       "id": "3b5c1437de071087c7b7f1a0639a8af1e36ef010",
