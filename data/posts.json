@@ -1,6 +1,26 @@
 {
-  "generated_at": 1770229900,
+  "generated_at": 1770240119,
   "items": [
+    {
+      "id": "deb2aab08f895712e8fbcb9a8bae3bddd47771a1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical n8n flaws disclosed along with public exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
+      "summary": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
+      "published": "2026-02-04 21:14:36",
+      "timestamp": 1770239676
+    },
+    {
+      "id": "3385502d37d8b589c5826eadc4b0a6b7d564fe87",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+      "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems. The tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
+      "published": "2026-02-04 17:52:00",
+      "timestamp": 1770227520
+    },
     {
       "id": "090766a320916e208039cbbe1acf8adbce2c5cb1",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
       "published": "2026-02-04 17:38:46",
       "timestamp": 1770226726
+    },
+    {
+      "id": "8e0b36515085639bb418bf94b35db2579543ac1c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT. \"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
+      "published": "2026-02-04 17:24:00",
+      "timestamp": 1770225840
     },
     {
       "id": "1deae5b50ab607f339fac5d8dffc8671680b0a12",
@@ -248,16 +278,6 @@
       "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
       "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
       "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package. Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
-      "published": "2026-02-03 14:00:00",
-      "timestamp": 1770127200
-    },
-    {
-      "id": "f99275f2c54d4c4d04d2c31fd88f203b883ced80",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
-      "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious payloads for Windows and Linux. [...]",
       "published": "2026-02-03 14:00:00",
       "timestamp": 1770127200
     },
@@ -742,16 +762,6 @@
       "timestamp": 1769532300
     },
     {
-      "id": "41ea38f56f70c7769163fad38b5386f2a80b8a1c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
-      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera. \"Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,\"",
-      "published": "2026-01-27 14:38:00",
-      "timestamp": 1769524680
-    },
-    {
       "id": "9813d81e0376cfa0c3eb8ed1c1ddb71315c6b76b",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -760,16 +770,6 @@
       "summary": "Introduction The Google Threat Intelligence Group (GTIG) has identified widespread, active exploitation of the critical vulnerability CVE-2025-8088 in WinRAR, a popular file archiver tool for Windows, to establish initial access and deliver diverse payloads. Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated threat actors continue to exploit this n-day across disparate operations. The consistent exploitation method, a ",
       "published": "2026-01-27 14:00:00",
       "timestamp": 1769522400
-    },
-    {
-      "id": "9d38725f93962800c93abf73cd82a45dc3559498",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-      "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It\u2019s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure. Which exposures truly matter? Can attackers exploit them? Are our defenses effective? Continuous Threat Exposure",
-      "published": "2026-01-27 11:50:00",
-      "timestamp": 1769514600
     },
     {
       "id": "27b2b6d14b65e77679ea18c5dd0e0f45a286d8b1",
