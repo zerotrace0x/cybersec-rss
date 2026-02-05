@@ -1,6 +1,46 @@
 {
-  "generated_at": 1770283919,
+  "generated_at": 1770294628,
   "items": [
+    {
+      "id": "09ba6a24def95e770680a4d0557d785ebc821281",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Buyer\u2019s Guide to AI Usage Control",
+      "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
+      "summary": "Today\u2019s \u201cAI everywhere\u201d reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
+      "published": "2026-02-05 11:30:00",
+      "timestamp": 1770291000
+    },
+    {
+      "id": "0e9745542718d6c35af0df4837def967419e3ee1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
+      "summary": "Hackers stole email addresses and other personal information from 1.4 million accounts after breaching the systems of automated investment platform Betterment in January. [...]",
+      "published": "2026-02-05 11:16:12",
+      "timestamp": 1770290172
+    },
+    {
+      "id": "d42c54fee395e0a6a1a069b9540035cda1cbddf0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
+      "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
+      "summary": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of the month. \"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
+      "published": "2026-02-05 10:25:00",
+      "timestamp": 1770287100
+    },
+    {
+      "id": "8b89218acf514dca46fe2e248848cb26f5d71214",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
+      "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
+      "summary": "A fresh wave of spam is hitting inboxes worldwide, with users reporting that they are once again being bombarded by automated emails generated through companies' unsecured Zendesk support systems. Some recipients say they are receiving hundreds of messages with strange or alarming subject lines. such as 'Activate account...' [...]",
+      "published": "2026-02-05 10:22:36",
+      "timestamp": 1770286956
+    },
     {
       "id": "6be871422ee0072030a9117efcf42d64574deaa1",
       "source": "The Hacker News",
@@ -57,7 +97,7 @@
       "source_category": "General",
       "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously used in zero-day attacks. [...]",
+      "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was used in zero-day attacks since at least February 2024. [...]",
       "published": "2026-02-04 17:38:46",
       "timestamp": 1770226726
     },
@@ -252,16 +292,6 @@
       "timestamp": 1770138000
     },
     {
-      "id": "31653194c000e080ab2539e613ded22fd92ee0dc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Iron Mountain: Data breach mostly limited to marketing materials",
-      "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
-      "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mostly marketing materials. [...]",
-      "published": "2026-02-03 16:49:09",
-      "timestamp": 1770137349
-    },
-    {
       "id": "0bbc144402cdfa792cbcf7e7a6972f3f75b41fe3",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +300,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data. The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
       "published": "2026-02-03 16:41:00",
       "timestamp": 1770136860
-    },
-    {
-      "id": "6c875bda2a40f4d26af24610065c05b713d73f64",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
-      "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the full lifecycle of AI agent identities is becoming a critical CISO priority. [...]",
-      "published": "2026-02-03 15:01:11",
-      "timestamp": 1770130871
     },
     {
       "id": "514dac30158371e358ed7f5d70500839a5109912",
@@ -370,16 +390,6 @@
       "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
       "published": "2026-02-02 16:28:00",
       "timestamp": 1770049680
-    },
-    {
-      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
-      "published": "2026-02-02 16:15:16",
-      "timestamp": 1770048916
     },
     {
       "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
@@ -742,26 +752,6 @@
       "timestamp": 1769593560
     },
     {
-      "id": "4943c71e17c63b47de86d278920bc43a008a9fc7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
-      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT). The packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times. \"Hidden inside the Basque",
-      "published": "2026-01-28 09:30:00",
-      "timestamp": 1769592600
-    },
-    {
-      "id": "36cd20a4f8164d7c1d99f88b26c6af81ecd27839",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
-      "published": "2026-01-28 04:49:00",
-      "timestamp": 1769575740
-    },
-    {
       "id": "b7be262ac417d9816cd866b3160e9a51ea44859c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -790,16 +780,6 @@
       "summary": "Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience. The post Security strategies for safeguarding governmental data appeared first on Microsoft Security Blog.",
       "published": "2026-01-26 17:00:00",
       "timestamp": 1769446800
-    },
-    {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
@@ -1010,6 +990,26 @@
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "published": "2025-12-09 23:18:29",
       "timestamp": 1765322309
+    },
+    {
+      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "2025-12-06 14:45:03",
+      "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
