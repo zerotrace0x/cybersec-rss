@@ -1,6 +1,26 @@
 {
-  "generated_at": 1770316399,
+  "generated_at": 1770326249,
   "items": [
+    {
+      "id": "daee9d5bad83ed3473da31c058a0e83bc71cd507",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
+      "summary": "Ransomware operators are hosting and delivering malicious payloads at scale by abusing virtual machines (VMs) provisioned by ISPsystem, a legitimate virtual infrastructure management provider. [...]",
+      "published": "2026-02-05 20:57:11",
+      "timestamp": 1770325031
+    },
+    {
+      "id": "178de83ea1aabf3b74f37e03150493f050dac197",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "New Clickfix variant \u2018CrashFix\u2019 deploying Python Remote Access Trojan",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/",
+      "summary": "CrashFix crashes browsers to coerce users into executing commands that deploy a Python RAT, abusing finger.exe and portable Python to evade detection and persist on high\u2011value systems. The post New Clickfix variant \u2018CrashFix\u2019 deploying Python Remote Access Trojan appeared first on Microsoft Security Blog.",
+      "published": "2026-02-05 18:51:39",
+      "timestamp": 1770317499
+    },
     {
       "id": "c871c7eb6a25439c342f2d4f4120fbbd5c976b2f",
       "source": "BleepingComputer",
@@ -250,16 +270,6 @@
       "summary": "A new threat actor called Amaranth Dragon, linked to APT41 state-sponsored Chinese operations, exploited the CVE-2025-8088 vulnerability in WinRAR in espionage attacks on government and law enforcement agencies. [...]",
       "published": "2026-02-04 14:00:00",
       "timestamp": 1770213600
-    },
-    {
-      "id": "ac6225f79c4980603b67c7774aa4209d89a7f8f8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
-      "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
-      "published": "2026-02-04 12:58:20",
-      "timestamp": 1770209900
     },
     {
       "id": "a9c23b879d89c45683db8ac8e0a00d2ee1e36112",
@@ -820,16 +830,6 @@
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
       "published": "2026-01-25 23:00:00",
       "timestamp": 1769382000
-    },
-    {
-      "id": "56b616aa0a9736131a1a96f33b87c91c8015c757",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "From runtime risk to real\u2011time defense: Securing AI agents",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/01/23/runtime-risk-realtime-defense-securing-ai-agents/",
-      "summary": "Why securing AI agents at runtime is essential as attackers find new ways to exploit generative orchestration. The post From runtime risk to real\u2011time defense: Securing AI agents appeared first on Microsoft Security Blog.",
-      "published": "2026-01-23 20:57:14",
-      "timestamp": 1769201834
     },
     {
       "id": "862dccc9383953fc782537d1ca6f20747d2bd516",
