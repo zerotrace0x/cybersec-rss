@@ -1,6 +1,26 @@
 {
-  "generated_at": 1770265763,
+  "generated_at": 1770273692,
   "items": [
+    {
+      "id": "6be871422ee0072030a9117efcf42d64574deaa1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands. The flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
+      "published": "2026-02-05 06:16:00",
+      "timestamp": 1770272160
+    },
+    {
+      "id": "b0d77d34e88d26a0dd9c62e1dce9a90fe5c602bf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure. Datadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX",
+      "published": "2026-02-05 04:56:00",
+      "timestamp": 1770267360
+    },
     {
       "id": "9eb419f0f6e6b0f804f4d6e25fefe8a1c293926d",
       "source": "BleepingComputer",
@@ -350,16 +370,6 @@
       "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
       "published": "2026-02-02 16:28:00",
       "timestamp": 1770049680
-    },
-    {
-      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
-      "published": "2026-02-02 16:15:16",
-      "timestamp": 1770048916
     },
     {
       "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
@@ -752,26 +762,6 @@
       "timestamp": 1769533200
     },
     {
-      "id": "86ea20c3247c667c4715488e6d359072ef9604f3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do. The feature, similar to Lockdown Mode in Apple iOS and Advanced Protection in Android, aims to protect individuals, such as journalists or public-facing figures, from sophisticated spyware by trading some functionality for",
-      "published": "2026-01-27 16:54:00",
-      "timestamp": 1769532840
-    },
-    {
-      "id": "32f65af298eaecc22546a637903b25eaf8f47e61",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft. The campaigns have been codenamed Gopher Strike and Sheet Attack by Zscaler ThreatLabz, which identified them in September 2025. \"While these campaigns share some similarities with the Pakistan-linked Advanced Persistent Threat (APT)",
-      "published": "2026-01-27 16:45:00",
-      "timestamp": 1769532300
-    },
-    {
       "id": "9813d81e0376cfa0c3eb8ed1c1ddb71315c6b76b",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -790,16 +780,6 @@
       "summary": "Discover key strategies and leadership insights to help government agencies protect sensitive data and strengthen overall cybersecurity resilience. The post Security strategies for safeguarding governmental data appeared first on Microsoft Security Blog.",
       "published": "2026-01-26 17:00:00",
       "timestamp": 1769446800
-    },
-    {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
@@ -1010,6 +990,26 @@
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "published": "2025-12-09 23:18:29",
       "timestamp": 1765322309
+    },
+    {
+      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "2025-12-06 14:45:03",
+      "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
