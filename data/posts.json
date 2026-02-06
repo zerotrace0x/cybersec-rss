@@ -1,6 +1,56 @@
 {
-  "generated_at": 1770380914,
+  "generated_at": 1770391697,
   "items": [
+    {
+      "id": "6f36bc9be13fe578e9b843497be69a49077d4157",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
+      "summary": "Many modern attacks happen entirely inside the browser, leaving little evidence for traditional security tools. Keep Aware shows why EDR, email, and SASE miss browser-only attacks and how visibility changes prevention. [...]",
+      "published": "2026-02-06 15:01:11",
+      "timestamp": 1770390071
+    },
+    {
+      "id": "df2f4fda25a185384c1a99515fcbca3fe3113c85",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+      "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+      "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019. The framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to",
+      "published": "2026-02-06 14:56:00",
+      "timestamp": 1770389760
+    },
+    {
+      "id": "180ce0d360818f496b0cdd1808be72c34fdb8cf7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "EU says TikTok faces large fine over \"addictive design\"",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
+      "summary": "The European Commission said today that TikTok is facing a fine because its addictive features, including infinite scroll, autoplay, push notifications, and personalized recommendation systems, are breaching the EU's Digital Services Act (DSA). [...]",
+      "published": "2026-02-06 13:53:53",
+      "timestamp": 1770386033
+    },
+    {
+      "id": "2e0b86ce4dab970cac0cd42222ff89a4c8cebdae",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+      "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months. The agency said the move is to drive down technical debt and minimize",
+      "published": "2026-02-06 13:43:00",
+      "timestamp": 1770385380
+    },
+    {
+      "id": "adb5d0539b07f6f637ce7210ea21c719ebbfc3c2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
+      "summary": "An Illinois man pleaded guilty to hacking nearly 600 women's Snapchat accounts to steal nude photos that he kept, sold, or traded online, including accounts he compromised at the request of a former university track coach who was later convicted of sextortion. [...]",
+      "published": "2026-02-06 12:34:30",
+      "timestamp": 1770381270
+    },
     {
       "id": "2b74930d6f1d9a6ae13529d4492609e1ee539478",
       "source": "The Hacker News",
@@ -242,16 +292,6 @@
       "timestamp": 1770247616
     },
     {
-      "id": "deb2aab08f895712e8fbcb9a8bae3bddd47771a1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical n8n flaws disclosed along with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
-      "summary": "Multiple critical vulnerabilities in the popular n8n open-source workflow automation platform allow escaping the confines of the environment and taking complete control of the host server. [...]",
-      "published": "2026-02-04 21:14:36",
-      "timestamp": 1770239676
-    },
-    {
       "id": "3385502d37d8b589c5826eadc4b0a6b7d564fe87",
       "source": "The Hacker News",
       "source_category": "General",
@@ -260,16 +300,6 @@
       "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems. The tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
       "published": "2026-02-04 17:52:00",
       "timestamp": 1770227520
-    },
-    {
-      "id": "090766a320916e208039cbbe1acf8adbce2c5cb1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was used in zero-day attacks since at least February 2024. [...]",
-      "published": "2026-02-04 17:38:46",
-      "timestamp": 1770226726
     },
     {
       "id": "8e0b36515085639bb418bf94b35db2579543ac1c",
@@ -290,16 +320,6 @@
       "summary": "We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems. The post Detecting backdoored language models at scale appeared first on Microsoft Security Blog.",
       "published": "2026-02-04 17:00:00",
       "timestamp": 1770224400
-    },
-    {
-      "id": "9b476529a9591f29541ed0722e3208162cbfe799",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems against a five-year-old GitLab vulnerability that is actively being exploited in attacks. [...]",
-      "published": "2026-02-04 15:42:31",
-      "timestamp": 1770219751
     },
     {
       "id": "a04048d122825a373f38b18f842d8fd998acac78",
@@ -750,26 +770,6 @@
       "summary": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world. To that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
       "published": "2026-01-29 07:16:00",
       "timestamp": 1769670960
-    },
-    {
-      "id": "581d712f2b8bbf20e58478d82e1fafbd2a136c17",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
-      "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
-      "summary": "Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial intelligence (AI) coding assistant, but stealthily drops a malicious payload on compromised hosts. The extension, named \"ClawdBot Agent - AI Coding Assistant\" (\"clawdbot.clawdbot-agent\")",
-      "published": "2026-01-28 17:46:00",
-      "timestamp": 1769622360
-    },
-    {
-      "id": "31f28f1ec602480243b980ff3eed0313fd389f9e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
-      "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-      "summary": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM. Operational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
-      "published": "2026-01-28 16:06:00",
-      "timestamp": 1769616360
     },
     {
       "id": "a57bc58f60552618466db5cdcd6e1e835e6acbb6",
