@@ -1,6 +1,16 @@
 {
-  "generated_at": 1770391697,
+  "generated_at": 1770402658,
   "items": [
+    {
+      "id": "8ffa8aa60f8a1683135b917eafd79605c5f74b98",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
+      "summary": "The Cybersecurity & Infrastructure Security Agency (CISA) in the U.S. has issued a warning about CVE-2026-24423, an unauthenticated remote code execution (RCE) flaw in SmarterMail that is used in ransomware attacks. [...]",
+      "published": "2026-02-06 17:16:03",
+      "timestamp": 1770398163
+    },
     {
       "id": "6f36bc9be13fe578e9b843497be69a49077d4157",
       "source": "BleepingComputer",
@@ -282,16 +292,6 @@
       "timestamp": 1770267360
     },
     {
-      "id": "9eb419f0f6e6b0f804f4d6e25fefe8a1c293926d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers compromise NGINX servers to redirect user traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
-      "summary": "A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. [...]",
-      "published": "2026-02-04 23:26:56",
-      "timestamp": 1770247616
-    },
-    {
       "id": "3385502d37d8b589c5826eadc4b0a6b7d564fe87",
       "source": "The Hacker News",
       "source_category": "General",
@@ -462,7 +462,7 @@
       "timestamp": 1770094500
     },
     {
-      "id": "fb77309185bb3efcca31cb77a396a10ad76394af",
+      "id": "963daf414a99d2b0455a3480ba7c9f9b70de1547",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Infostealers without borders: macOS, Python stealers, and platform abuse",
@@ -490,16 +490,6 @@
       "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link. The issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to",
       "published": "2026-02-02 16:28:00",
       "timestamp": 1770049680
-    },
-    {
-      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
-      "published": "2026-02-02 16:15:16",
-      "timestamp": 1770048916
     },
     {
       "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
@@ -812,16 +802,6 @@
       "timestamp": 1769446800
     },
     {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
-    },
-    {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1010,6 +990,26 @@
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "published": "2025-12-09 23:18:29",
       "timestamp": 1765322309
+    },
+    {
+      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "2025-12-06 14:45:03",
+      "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
