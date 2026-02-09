@@ -1,6 +1,26 @@
 {
-  "generated_at": 1770662380,
+  "generated_at": 1770672458,
   "items": [
+    {
+      "id": "578f461e0ae635787c79bf6261f288e7c93c2fd6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/",
+      "summary": "Hackers are now exploiting SolarWinds Web Help Desk (WHD) vulnerabilities to gain code execution rights on exposed systems and deploy legitimate tools, including the Velociraptor forensics tools, for persistence and remote control. [...]",
+      "published": "2026-02-09 20:28:15",
+      "timestamp": 1770668895
+    },
+    {
+      "id": "a00760e5baa8b64b4d959e40f9bb61ab617ea5cd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers breach SmarterTools network using flaw in its own software",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
+      "summary": "SmarterTools confirmed last week that the Warlock ransomware gang breached its network after compromising an email system, but did not impact business applications or account data. [...]",
+      "published": "2026-02-09 19:08:58",
+      "timestamp": 1770664138
+    },
     {
       "id": "90eafb713d984d64838441fac83493b1030f5d83",
       "source": "Microsoft Security Blog",
@@ -272,16 +292,6 @@
       "timestamp": 1770385380
     },
     {
-      "id": "adb5d0539b07f6f637ce7210ea21c719ebbfc3c2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
-      "summary": "An Illinois man pleaded guilty to hacking nearly 600 women's Snapchat accounts to steal nude photos that he kept, sold, or traded online, including accounts he compromised at the request of a former university track coach who was later convicted of sextortion. [...]",
-      "published": "2026-02-06 12:34:30",
-      "timestamp": 1770381270
-    },
-    {
       "id": "2b74930d6f1d9a6ae13529d4492609e1ee539478",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +310,6 @@
       "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it\u2019s a big \u201chowever\u201d), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
       "published": "2026-02-06 10:30:00",
       "timestamp": 1770373800
-    },
-    {
-      "id": "e2d8c7c014d4f1654ab21dacab07bb3f0aeac084",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Flickr discloses potential data breach exposing users' names, emails",
-      "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
-      "summary": "Photo-sharing platform Flickr is notifying users of a potential data breach after a vulnerability at a third-party email service provider exposed their real names, email addresses, IP addresses, and account activity. [...]",
-      "published": "2026-02-06 09:43:10",
-      "timestamp": 1770370990
     },
     {
       "id": "d4258ea97fdfbdf05e912217df7c5bdd900ec9fc",
@@ -612,16 +612,6 @@
       "timestamp": 1770049680
     },
     {
-      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
-      "published": "2026-02-02 16:15:16",
-      "timestamp": 1770048916
-    },
-    {
       "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -822,16 +812,6 @@
       "timestamp": 1769522400
     },
     {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
-    },
-    {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1020,6 +1000,26 @@
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "published": "2025-12-09 23:18:29",
       "timestamp": 1765322309
+    },
+    {
+      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "published": "2025-12-06 14:45:03",
+      "timestamp": 1765032303
+    },
+    {
+      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "published": "2025-12-04 23:02:34",
+      "timestamp": 1764889354
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
