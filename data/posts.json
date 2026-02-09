@@ -1,6 +1,56 @@
 {
-  "generated_at": 1770640620,
+  "generated_at": 1770651714,
   "items": [
+    {
+      "id": "8154cf51427ce8eb43d816d3d63e2b575e7b6ad7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Password guessing without AI: How attackers build targeted wordlists",
+      "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
+      "summary": "Attackers don't need AI to crack passwords, they build targeted wordlists from an organization's own public language. This article explains how tools like CeWL turn websites into high-success password guesses and why complexity rules alone fall short. [...]",
+      "published": "2026-02-09 15:01:11",
+      "timestamp": 1770649271
+    },
+    {
+      "id": "652e023d94be60ec5f1d817afd583bb0b2176a69",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
+      "link": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
+      "summary": "Microsoft has revealed that it observed a multi\u2011stage intrusion that involved the threat actors exploiting internet\u2011exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and move laterally across the organization's network to other high-value assets. That said, the Microsoft Defender Security Research Team said it's not clear whether the activity weaponized recently",
+      "published": "2026-02-09 14:42:00",
+      "timestamp": 1770648120
+    },
+    {
+      "id": "308be80e64f775cc4c734851a7059c864c50b2cb",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "UNC1069 Targets Cryptocurrency Sector with New Tooling and AI-Enabled Social Engineering",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc1069-targets-cryptocurrency-ai-social-engineering/",
+      "summary": "Written by: Ross Inman, Adrian Hernandez Introduction North Korean threat actors continue to evolve their tradecraft to target the cryptocurrency and decentralized finance (DeFi) verticals. Mandiant recently investigated an intrusion targeting a FinTech entity within this sector, attributed to UNC1069, a financially motivated threat actor active since at least 2019. This investigation revealed a tailored intrusion resulting in the deployment of seven unique malware families, including a new set ",
+      "published": "2026-02-09 14:00:00",
+      "timestamp": 1770645600
+    },
+    {
+      "id": "08e7b977a8ac0f01f672adb2e7e1e6fcd53617da",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "BeyondTrust warns of critical RCE flaw in remote support software",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
+      "summary": "BeyondTrust warned customers to patch a critical security flaw in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow unauthenticated attackers to execute arbitrary code remotely. [...]",
+      "published": "2026-02-09 13:07:03",
+      "timestamp": 1770642423
+    },
+    {
+      "id": "22c361d0be8fa6b966f2d7ed2ebc0a92189f0733",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
+      "link": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
+      "summary": "Cyber threats are no longer coming from just malware or exploits. They\u2019re showing up inside the tools, platforms, and ecosystems organizations use every day. As companies connect AI, cloud apps, developer tools, and communication systems, attackers are following those same paths. A clear pattern this week: attackers are abusing trust. Trusted updates, trusted marketplaces, trusted apps, even",
+      "published": "2026-02-09 12:59:00",
+      "timestamp": 1770641940
+    },
     {
       "id": "93be98f68226240bcc3738d3eba17e534610e567",
       "source": "BleepingComputer",
@@ -122,7 +172,7 @@
       "timestamp": 1770457630
     },
     {
-      "id": "dbbef2cf0fa7f5e0af067573a0d5ca943669b8cc",
+      "id": "375fd63d4ac2bd8636de99f48af1907dd39358a4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Analysis of active exploitation of SolarWinds Web Help Desk",
@@ -242,16 +292,6 @@
       "timestamp": 1770370990
     },
     {
-      "id": "d0aa7c7d297925defd97945b01e8f698ca5dced6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders federal agencies to replace end-of-life edge devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a new binding operational directive requiring federal agencies to identify and remove network edge devices that no longer receive security updates from manufacturers. [...]",
-      "published": "2026-02-06 08:41:11",
-      "timestamp": 1770367271
-    },
-    {
       "id": "d4258ea97fdfbdf05e912217df7c5bdd900ec9fc",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +310,6 @@
       "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF. Claude Opus 4.6, which was launched Thursday, comes with improved coding skills, including code review and debugging capabilities, along with",
       "published": "2026-02-06 05:49:00",
       "timestamp": 1770356940
-    },
-    {
-      "id": "b0e48cddb18f011b025d3245e461d336fb26048b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Spain's Ministry of Science shuts down systems after breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
-      "summary": "Spain's Ministry of Science (Ministerio de Ciencia) announced a partial shutdown of its IT systems, affecting several citizen- and company-facing services. [...]",
-      "published": "2026-02-05 21:23:00",
-      "timestamp": 1770326580
     },
     {
       "id": "178de83ea1aabf3b74f37e03150493f050dac197",
@@ -732,26 +762,6 @@
       "timestamp": 1769758500
     },
     {
-      "id": "bfbc6614406181fb887a3b234eb5924e47e3d142",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
-      "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
-      "summary": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0. \"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
-      "published": "2026-01-30 07:09:00",
-      "timestamp": 1769756940
-    },
-    {
-      "id": "6d0d06c3811998802dd01c5c98908e527d5c4d81",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-      "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-      "summary": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog. The critical-severity vulnerabilities are listed below - CVE-2026-1281 (CVSS score:",
-      "published": "2026-01-30 04:43:00",
-      "timestamp": 1769748180
-    },
-    {
       "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1138,16 +1148,6 @@
       "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
       "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
-    },
-    {
-      "id": "7bbd8a3dc70217213a5731ab1aa3012a03d44688",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "New Group on the Block: UNC5142 Leverages EtherHiding to Distribute Malware",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc5142-etherhiding-distribute-malware/",
-      "summary": "Written by: Mark Magee, Jose Hernandez, Bavi Sadayappan, Jessa Valdez Since late 2023, Mandiant Threat Defense and Google Threat Intelligence Group (GTIG) have tracked UNC5142, a financially motivated threat actor that abuses the blockchain to facilitate the distribution of information stealers (infostealers). UNC5142 is characterized by its use of compromised WordPress websites and \"EtherHiding\", a technique used to obscure malicious code or data by placing it on a public blockchain, such as th",
       "published": "2025-10-16 14:00:00",
       "timestamp": 1760623200
     },
