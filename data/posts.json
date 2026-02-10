@@ -1,6 +1,36 @@
 {
-  "generated_at": 1770706302,
+  "generated_at": 1770716751,
   "items": [
+    {
+      "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Beyond the Battlefield: Threats to the Defense Industrial Base",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/threats-to-defense-industrial-base/",
+      "summary": "Introduction In modern warfare, the front lines are no longer confined to the battlefield; they extend directly into the servers and supply chains of the industry that safeguards the nation. Today, the defense sector faces a relentless barrage of cyber operations conducted by state-sponsored actors and criminal groups alike. In recent years, Google Threat Intelligence Group (GTIG) has observed several distinct areas of focus in adversarial targeting of the defense industrial base (DIB). While no",
+      "published": "2026-02-10 14:00:00",
+      "timestamp": 1770732000
+    },
+    {
+      "id": "2144ed6e6c7351e29dde98547bcc897080dc2fa4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
+      "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
+      "summary": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in Ivanti Endpoint Manager Mobile (EPMM), according to a notice sent to the country's parliament on Friday. \"On January 29, the National Cyber Security Center (",
+      "published": "2026-02-10 08:22:00",
+      "timestamp": 1770711720
+    },
+    {
+      "id": "9f66fe0fc31fd8e3b57006cbc4310a2368fe7364",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
+      "summary": "A dual Chinese and St. Kitts and Nevis national was sentenced to 20 years in prison in absentia for his role in an international cryptocurrency investment scheme (also known as pig butchering or romance baiting) that defrauded victims of more than $73 million. [...]",
+      "published": "2026-02-10 08:17:54",
+      "timestamp": 1770711474
+    },
     {
       "id": "b287660a266a7bba60b5767687496426a678bf6b",
       "source": "The Hacker News",
@@ -270,16 +300,6 @@
       "summary": "The Cybersecurity & Infrastructure Security Agency (CISA) in the U.S. has issued a warning about CVE-2026-24423, an unauthenticated remote code execution (RCE) flaw in SmarterMail that is used in ransomware attacks. [...]",
       "published": "2026-02-06 17:16:03",
       "timestamp": 1770398163
-    },
-    {
-      "id": "6f36bc9be13fe578e9b843497be69a49077d4157",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
-      "summary": "Many modern attacks happen entirely inside the browser, leaving little evidence for traditional security tools. Keep Aware shows why EDR, email, and SASE miss browser-only attacks and how visibility changes prevention. [...]",
-      "published": "2026-02-06 15:01:11",
-      "timestamp": 1770390071
     },
     {
       "id": "df2f4fda25a185384c1a99515fcbca3fe3113c85",
@@ -622,6 +642,16 @@
       "timestamp": 1770049680
     },
     {
+      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
+      "published": "2026-02-02 16:15:16",
+      "timestamp": 1770048916
+    },
+    {
       "id": "3db7e2c772d52b9d0c430c71fde796bd39af917c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -752,16 +782,6 @@
       "timestamp": 1769780520
     },
     {
-      "id": "320e1892998f2b413727d9cd9429a4d28ec9eaca",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
-      "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
-      "summary": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026. The activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently",
-      "published": "2026-01-30 12:08:00",
-      "timestamp": 1769774880
-    },
-    {
       "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -810,6 +830,16 @@
       "summary": "Introduction The Google Threat Intelligence Group (GTIG) has identified widespread, active exploitation of the critical vulnerability CVE-2025-8088 in WinRAR, a popular file archiver tool for Windows, to establish initial access and deliver diverse payloads. Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated threat actors continue to exploit this n-day across disparate operations. The consistent exploitation method, a ",
       "published": "2026-01-27 14:00:00",
       "timestamp": 1769522400
+    },
+    {
+      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "2026-01-26 16:11:38",
+      "timestamp": 1769443898
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
@@ -1002,26 +1032,6 @@
       "timestamp": 1765322309
     },
     {
-      "id": "c59efd5dcf2eda84483163dcf8686a3eeff31d1e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
-      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
-      "published": "2025-12-06 14:45:03",
-      "timestamp": 1765032303
-    },
-    {
-      "id": "adcfa5f73e82957f63f16d745849eaa3c7366244",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
-      "published": "2025-12-04 23:02:34",
-      "timestamp": 1764889354
-    },
-    {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1140,16 +1150,6 @@
       "summary": "Written by: Wesley Shields Introduction COLDRIVER, a Russian state-sponsored threat group known for targeting high profile individuals in NGOs, policy advisors and dissidents, swiftly shifted operations after the May 2025 public disclosure of its LOSTKEYS malware, operationalizing new malware families five days later. It is unclear how long COLDRIVER had this malware in development, but GTIG has not observed a single instance of LOSTKEYS since publication. Instead, GTIG has seen new malware used",
       "published": "2025-10-20 14:00:00",
       "timestamp": 1760968800
-    },
-    {
-      "id": "8db70307b13bcbe4f373c2a3aae6af97e590124f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding/",
-      "summary": "Written by: Blas Kojusner, Robert Wallace, Joseph Dobson Google Threat Intelligence Group (GTIG) has observed the North Korea (DPRK) threat actor UNC5342 using \u2018EtherHiding\u2019 to deliver malware and facilitate cryptocurrency theft, the first time GTIG has observed a nation-state actor adopting this method. This post is part of a two-part blog series on adversaries using EtherHiding, a technique that leverages transactions on public blockchains to store and retrieve malicious payloads\u2014notable for i",
-      "published": "2025-10-16 14:00:00",
-      "timestamp": 1760623200
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
