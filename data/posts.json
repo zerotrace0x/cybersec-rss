@@ -1,6 +1,46 @@
 {
-  "generated_at": 1770910725,
+  "generated_at": 1770921746,
   "items": [
+    {
+      "id": "3908d17f034e4e40b7c4324d55b56d9521f6b7da",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Odido data breach exposes personal info of 6.2 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
+      "summary": "Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6.2 million customers. [...]",
+      "published": "2026-02-12 18:18:14",
+      "timestamp": 1770920294
+    },
+    {
+      "id": "3b9ec0629f09ad5ad990acca7ea392781eca20f5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
+      "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
+      "summary": "Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks. \"The",
+      "published": "2026-02-12 17:57:00",
+      "timestamp": 1770919020
+    },
+    {
+      "id": "94e8e1dd93c87381875a25c305ae9b3075a75c8a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
+      "summary": "A critical vulnerability in the WPvivid Backup & Migration plugin for WordPress, installed on more than 900,000 websites, can be exploited to achieve remote code execution by uploading arbitrary files without authentication. [...]",
+      "published": "2026-02-12 17:09:41",
+      "timestamp": 1770916181
+    },
+    {
+      "id": "a928e9383bf1317d17b8f256bec5b516a0e953ea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
+      "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
+      "summary": "Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group. The coordinated campaign has been codenamed graphalgo in reference to the first package published in the npm registry. It's assessed to be active since May 2025. \"",
+      "published": "2026-02-12 16:55:00",
+      "timestamp": 1770915300
+    },
     {
       "id": "2eb813316390e185f7953b573b4dec17ea74cbf6",
       "source": "BleepingComputer",
@@ -52,6 +92,16 @@
       "timestamp": 1770892200
     },
     {
+      "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Bypassing Administrator Protection by Abusing UI Access",
+      "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
+      "summary": "Bypassing Administrator Protection by Abusing UI Access In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn\u2019t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Acces",
+      "published": "2026-02-12 08:00:00",
+      "timestamp": 1770883200
+    },
+    {
       "id": "9273557359bba11c15e3d9b078edd36a278c0fcd",
       "source": "The Hacker News",
       "source_category": "General",
@@ -75,7 +125,7 @@
       "id": "23ea1ad5c388d1dac12df8bd5b671a1a65192d8a",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
+      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
       "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
       "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
       "published": "2026-02-12 05:39:00",
@@ -260,26 +310,6 @@
       "summary": "North Korean hackers are running tailored campaigns using AI-generated video and the ClickFix technique to deliver malware for macOS and Windows to targets in the cryptocurrency sector. [...]",
       "published": "2026-02-10 22:17:35",
       "timestamp": 1770761855
-    },
-    {
-      "id": "d3dd38e2f28644986d5360b1fc3a9aaee627b67f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious 7-Zip site distributes installer laced with proxy tool",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/",
-      "summary": "A fake 7-Zip website is distributing a trojanized installer of the popular archiving tool that turns the user's computer into a residential proxy node. [...]",
-      "published": "2026-02-10 19:12:55",
-      "timestamp": 1770750775
-    },
-    {
-      "id": "7142b86a9b249c914d910e63d5a8a205499e217a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases Windows 10 KB5075912 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5075912 extended security update to fix February 2026 Patch Tuesday vulnerabilities, including six zero-days, and continue rolling out replacements for expiring Secure Boot certificates. [...]",
-      "published": "2026-02-10 19:06:13",
-      "timestamp": 1770750373
     },
     {
       "id": "d78d7365539389a21b305042c7891b617fa5c8fa",
@@ -780,26 +810,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data. The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
       "published": "2026-02-03 16:41:00",
       "timestamp": 1770136860
-    },
-    {
-      "id": "514dac30158371e358ed7f5d70500839a5109912",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
-      "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
-      "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress. Every vendor promises \u201ccomplete coverage\u201d or \u201cAI-powered automation,\u201d but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less. This",
-      "published": "2026-02-03 14:14:00",
-      "timestamp": 1770128040
-    },
-    {
-      "id": "15c97eaebaa12cc3b2e4f24339b8f9ee1dee4044",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-      "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-      "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package. Cybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary",
-      "published": "2026-02-03 14:00:00",
-      "timestamp": 1770127200
     },
     {
       "id": "67c4f50a1184a936249fa118fc275dbe6bd8dd31",
@@ -1410,16 +1420,6 @@
       "summary": "Every November, we make it our mission to equip organizations with the knowledge needed to stay ahead of threats we anticipate in the coming year. The Cybersecurity Forecast 2026 report, released today, provides comprehensive insights to help security leaders and teams prepare for those challenges. This report does not contain \"crystal ball\" predictions. Instead, our forecasts are built on real-world trends and data we are observing right now. The information contained in the report comes direct",
       "published": "2025-11-04 14:00:00",
       "timestamp": 1762264800
-    },
-    {
-      "id": "04580c37ae20136d42b06f4cc714840d838be9da",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Defeating KASLR by Doing Nothing at All",
-      "link": "https://projectzero.google/2025/11/defeating-kaslr-by-doing-nothing-at-all.html",
-      "summary": "Introduction I\u2019ve recently been researching Pixel kernel exploitation and as part of this research I found myself with an excellent arbitrary write primitive\u2026but without a KASLR leak. As necessity is the mother of all invention, on a hunch, I started researching the Linux kernel linear mapping. The Linux Linear Mapping The linear mapping is a region in the kernel virtual address space that is a direct 1:1 unstructured representation of physical memory. Working with Jann, I learned how the kernel",
-      "published": "2025-11-03 08:00:00",
-      "timestamp": 1762156800
     },
     {
       "id": "3b5c1437de071087c7b7f1a0639a8af1e36ef010",
