@@ -1,6 +1,46 @@
 {
-  "generated_at": 1770878772,
+  "generated_at": 1770888888,
   "items": [
+    {
+      "id": "4eecf935276592e0f02c13205d631a60912f727d",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use/",
+      "summary": "Introduction In the final quarter of 2025, Google Threat Intelligence Group (GTIG) observed threat actors increasingly integrating artificial intelligence (AI) to accelerate the attack lifecycle, achieving productivity gains in reconnaissance, social engineering, and malware development. This report serves as an update to our November 2025 findings regarding the advances in threat actor usage of AI tools. By identifying these early indicators and offensive proofs of concept, GTIG aims to arm def",
+      "published": "2026-02-12 14:00:00",
+      "timestamp": 1770904800
+    },
+    {
+      "id": "9273557359bba11c15e3d9b078edd36a278c0fcd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
+      "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
+      "summary": "A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO. Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346",
+      "published": "2026-02-12 07:32:00",
+      "timestamp": 1770881520
+    },
+    {
+      "id": "e082885a915eeee9f5b82ac38232ad416c83b756",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google says hackers are abusing Gemini AI for all attacks stages",
+      "link": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
+      "summary": "Google Threat Intelligence Group (GTIG) has published a new report warning about AI model extraction/distillation attacks, in which private-sector firms and researchers use legitimate API access to systematically probe models and replicate their logic and reasoning. [...]",
+      "published": "2026-02-12 07:00:00",
+      "timestamp": 1770879600
+    },
+    {
+      "id": "23ea1ad5c388d1dac12df8bd5b671a1a65192d8a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
+      "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
+      "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks. The vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
+      "published": "2026-02-12 05:39:00",
+      "timestamp": 1770874740
+    },
     {
       "id": "99864e0417ee8d270289aec046b99692c68fcc35",
       "source": "BleepingComputer",
@@ -250,16 +290,6 @@
       "summary": "The information technology (IT) workers associated with the Democratic People's Republic of Korea (DPRK) are now applying to remote positions using real LinkedIn accounts of individuals they're impersonating, marking a new escalation of the fraudulent scheme. \"These profiles often have verified workplace emails and identity badges, which DPRK operatives hope will make their fraudulent",
       "published": "2026-02-10 17:44:00",
       "timestamp": 1770745440
-    },
-    {
-      "id": "a01a5b43a384d22212a527ea00bb0ec81d672208",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Volvo Group North America customer data exposed in Conduent hack",
-      "link": "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/",
-      "summary": "Volvo Group North America disclosed that it suffered an indirect data breach stemming from the compromise of IT systems at American business services giant Conduent, of which Volvo is a customer. [...]",
-      "published": "2026-02-10 17:04:18",
-      "timestamp": 1770743058
     },
     {
       "id": "8703873ccdd96e707693ae945da71b87c6c7576e",
@@ -800,26 +830,6 @@
       "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit. Zscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three",
       "published": "2026-02-03 09:12:00",
       "timestamp": 1770109920
-    },
-    {
-      "id": "0b72a7fd19764e1ac216e0a96f284064d9ce9c0b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
-      "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
-      "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features. \"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This",
-      "published": "2026-02-03 05:39:00",
-      "timestamp": 1770097140
-    },
-    {
-      "id": "b42962da2012e9a2baa2e02d958cc68f4f0f17a9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-      "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-      "summary": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++. The attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7. The development comes shortly",
-      "published": "2026-02-03 04:55:00",
-      "timestamp": 1770094500
     },
     {
       "id": "fb77309185bb3efcca31cb77a396a10ad76394af",
@@ -1440,16 +1450,6 @@
       "summary": "Written by: Alden Wahlstrom, David Mainor Introduction Google Threat Intelligence Group (GTIG) observed multiple instances of pro-Russia information operations (IO) actors promoting narratives related to the reported incursion of Russian drones into Polish airspace that occurred on Sept. 9-10, 2025. The identified IO activity, which mobilized in response to this event and the ensuing political and security developments, appeared consistent with previously observed instances of pro-Russia IO targ",
       "published": "2025-10-21 14:00:00",
       "timestamp": 1761055200
-    },
-    {
-      "id": "ec2672aa02a0a262dd4625f7d18974abe76468be",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "To Be (A Robot) or Not to Be: New Malware Attributed to Russia State-Sponsored COLDRIVER",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/new-malware-russia-coldriver/",
-      "summary": "Written by: Wesley Shields Introduction COLDRIVER, a Russian state-sponsored threat group known for targeting high profile individuals in NGOs, policy advisors and dissidents, swiftly shifted operations after the May 2025 public disclosure of its LOSTKEYS malware, operationalizing new malware families five days later. It is unclear how long COLDRIVER had this malware in development, but GTIG has not observed a single instance of LOSTKEYS since publication. Instead, GTIG has seen new malware used",
-      "published": "2025-10-20 14:00:00",
-      "timestamp": 1760968800
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
