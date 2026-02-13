@@ -1,6 +1,26 @@
 {
-  "generated_at": 1770975068,
+  "generated_at": 1770985756,
   "items": [
+    {
+      "id": "7c29f16d8d2cb3fcc3c4a6b0a21c561d2c066192",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
+      "link": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
+      "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager. The extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.",
+      "published": "2026-02-13 11:25:00",
+      "timestamp": 1770981900
+    },
+    {
+      "id": "63e66511cd88adef960ab43bda496f3bf7adb96f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "npm\u2019s Update to Harden Their Supply Chain, and Points to Consider",
+      "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
+      "summary": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don\u2019t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks \u2013 here\u2019s what you need to know for a safer Node community. Let\u2019s start with the original",
+      "published": "2026-02-13 10:45:00",
+      "timestamp": 1770979500
+    },
     {
       "id": "7b4b3f7e8b689999e5593df98fd263b71c8668bc",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers. [...]",
       "published": "2026-02-13 09:31:01",
       "timestamp": 1770975061
+    },
+    {
+      "id": "0e9f1503464d644a65e7362c7ee9b125b9f6be5a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
+      "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
+      "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr. \"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
+      "published": "2026-02-13 08:34:00",
+      "timestamp": 1770971640
     },
     {
       "id": "0a09f20e5d2360db939b4bc38e8ee235445708f2",
@@ -820,36 +850,6 @@
       "summary": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale. The tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since",
       "published": "2026-02-04 07:42:00",
       "timestamp": 1770190920
-    },
-    {
-      "id": "68662dfc121b42564eee288371d4c48f5b1d4d10",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-      "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-      "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats. The move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
-      "published": "2026-02-04 06:26:00",
-      "timestamp": 1770186360
-    },
-    {
-      "id": "fb62f4d83bad4b97095b1d7ae6224aae3998c36e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-      "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks. The vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
-      "published": "2026-02-04 05:50:00",
-      "timestamp": 1770184200
-    },
-    {
-      "id": "0bbc144402cdfa792cbcf7e7a6972f3f75b41fe3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-      "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data. The critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
-      "published": "2026-02-03 16:41:00",
-      "timestamp": 1770136860
     },
     {
       "id": "67c4f50a1184a936249fa118fc275dbe6bd8dd31",
