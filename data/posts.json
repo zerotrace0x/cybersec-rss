@@ -1,5 +1,5 @@
 {
-  "generated_at": 1771030714,
+  "generated_at": 1771043150,
   "items": [
     {
       "id": "d591a881a4ec8986dba21401ec6f8f46767a7b8a",
@@ -80,6 +80,16 @@
       "summary": "CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks. [...]",
       "published": "2026-02-13 12:35:09",
       "timestamp": 1770986109
+    },
+    {
+      "id": "0ac63e48fdef5d6a9cfe64617c3dc3c66e1929e8",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/13/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1731 BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) OS Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities est",
+      "published": "2026-02-13 12:00:00",
+      "timestamp": 1770984000
     },
     {
       "id": "7c29f16d8d2cb3fcc3c4a6b0a21c561d2c066192",
@@ -1242,22 +1252,22 @@
       "timestamp": 1765972800
     },
     {
-      "id": "677728f9532d6e235c94fc57fdab9bf3fbb73732",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the K",
-      "published": "2025-12-16 12:00:00",
-      "timestamp": 1765886400
-    },
-    {
       "id": "bf9a605ae0b946749460ce04ed7c79d7fc3ac770",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Releases Six Industrial Control Systems Advisories",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories",
       "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 G\u00fcralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, ",
+      "published": "2025-12-16 12:00:00",
+      "timestamp": 1765886400
+    },
+    {
+      "id": "677728f9532d6e235c94fc57fdab9bf3fbb73732",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the K",
       "published": "2025-12-16 12:00:00",
       "timestamp": 1765886400
     },
@@ -1340,16 +1350,6 @@
       "summary": "Introduction Between July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group. Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices. On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used and the spyware they dropped. In this blogpost, we wou",
       "published": "2025-12-12 10:00:00",
       "timestamp": 1765533600
-    },
-    {
-      "id": "fa744653511dbaede7fa4ada2b894d7014b98f42",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases 12 Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/11/cisa-releases-12-industrial-control-systems-advisories",
-      "summary": "CISA released 12 Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-345-01 Johnson Controls iSTAR ICSA-25-345-02 Johnson Controls iSTAR Ultra ICSA-25-345-03 AzeoTech DAQFactory ICSA-25-345-04 Siemens IAM Client ICSA-25-345-05 Siemens Advanced Licensing (SALT) Toolkit ICSA-25-345-06 Siemens SINEMA Remote Connect Server ICSA-25-345-07 Siemens Building X - Security Manager Edg",
-      "published": "2025-12-11 12:00:00",
-      "timestamp": 1765454400
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
