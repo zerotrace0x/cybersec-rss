@@ -1,6 +1,16 @@
 {
-  "generated_at": 1771158078,
+  "generated_at": 1771168425,
   "items": [
+    {
+      "id": "42987f78beb222c757b701b8cf0bb68a86d499e9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
+      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
+      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload. Specifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
+      "published": "2026-02-15 14:10:00",
+      "timestamp": 1771164600
+    },
     {
       "id": "99f5bec309e73468ce7853a1c90da732598ea8e4",
       "source": "BleepingComputer",
@@ -850,16 +860,6 @@
       "summary": "We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems. The post Detecting backdoored language models at scale appeared first on Microsoft Security Blog.",
       "published": "2026-02-04 17:00:00",
       "timestamp": 1770224400
-    },
-    {
-      "id": "a04048d122825a373f38b18f842d8fd998acac78",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-      "summary": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025. Check Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,",
-      "published": "2026-02-04 14:09:00",
-      "timestamp": 1770214140
     },
     {
       "id": "67c4f50a1184a936249fa118fc275dbe6bd8dd31",
