@@ -1,6 +1,46 @@
 {
-  "generated_at": 1771331528,
+  "generated_at": 1771342728,
   "items": [
+    {
+      "id": "904264afdd620bdbfe5470578af33f4aeb674c85",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Teams outage affects users in United States, Europe",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
+      "summary": "\u200bMicrosoft is working to resolve an ongoing outage affecting Microsoft Teams users, causing delays and preventing some from accessing the service. [...]",
+      "published": "2026-02-17 15:37:45",
+      "timestamp": 1771342665
+    },
+    {
+      "id": "0d258661b1620aaa5b27af50d64ff55e28c6b2dd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
+      "link": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
+      "summary": "Leaked API keys are nothing new, but the scale of the problem in front-end code has been largely a mystery - until now. Intruder's research team built a new secrets detection method and scanned 5 million applications specifically looking for secrets hidden in JavaScript bundles. Here's what we learned. [...]",
+      "published": "2026-02-17 14:40:49",
+      "timestamp": 1771339249
+    },
+    {
+      "id": "448735846089c345c3fb9ab8a9c561ff5d6fc342",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
+      "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
+      "summary": "A newly discovered and sophisticated Android malware called Keenadu has been found embedded in firmware from multiple device brands, enabling it to compromise all installed applications and gain unrestricted control over infected devices. [...]",
+      "published": "2026-02-17 14:05:25",
+      "timestamp": 1771337125
+    },
+    {
+      "id": "a1ffd3198130de58c8820baba92a09e52e0b5b62",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+      "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC. \"The threat actors cloned a legitimate Oura MCP Server \u2013 a tool that connects AI assistants to Oura Ring health data \u2013 and built a deceptive",
+      "published": "2026-02-17 12:42:00",
+      "timestamp": 1771332120
+    },
     {
       "id": "d7b8d56018a1bafbf07cc44ddd1cf5d7f2a730b0",
       "source": "The Hacker News",
@@ -47,7 +87,7 @@
       "source_category": "General",
       "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
       "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
-      "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (AI). The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
+      "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO). The new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant",
       "published": "2026-02-17 09:31:00",
       "timestamp": 1771320660
     },
@@ -222,26 +262,6 @@
       "timestamp": 1771193333
     },
     {
-      "id": "827ab715a9be469970bf61ff92119915311786e4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
-      "summary": "CTM360 reports 4,000+ malicious Google Groups and 3,500+ Google-hosted URLs used to spread the Lumma Stealer infostealing malware and a trojanized \"Ninja Browser.\" The report details how attackers abuse trusted Google services to steal credentials and maintain persistence across Windows and Linux systems. [...]",
-      "published": "2026-02-15 16:30:41",
-      "timestamp": 1771173041
-    },
-    {
-      "id": "a5ae5cf701150004e5cc0247ef4d96c169b59948",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
-      "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
-      "summary": "Threat actors are abusing Pastebin comments to distribute a new ClickFix-style attack that tricks cryptocurrency users into executing malicious JavaScript in their browser, allowing attackers to hijack Bitcoin swap transactions and redirect funds to attacker-controlled wallets. [...]",
-      "published": "2026-02-15 15:17:27",
-      "timestamp": 1771168647
-    },
-    {
       "id": "42987f78beb222c757b701b8cf0bb68a86d499e9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -250,16 +270,6 @@
       "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload. Specifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
       "published": "2026-02-15 14:10:00",
       "timestamp": 1771164600
-    },
-    {
-      "id": "99f5bec309e73468ce7853a1c90da732598ea8e4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
-      "summary": "Threat intelligence observations show that a single threat actor is responsible for most of the active exploitation of two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340. [...]",
-      "published": "2026-02-14 16:02:34",
-      "timestamp": 1771084954
     },
     {
       "id": "052fc926217a931cf888b1d680c6c5d35d0e9e96",
@@ -810,16 +820,6 @@
       "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42. In addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
       "published": "2026-02-06 12:07:00",
       "timestamp": 1770379620
-    },
-    {
-      "id": "67f74ee0510ad51a88d527ac499961bfdb8a8384",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How Samsung Knox Helps Stop Your Network Security Breach",
-      "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
-      "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it\u2019s a big \u201chowever\u201d), the increasing use of mobile devices in business operations necessitates network security measures that are specifically tailored to their",
-      "published": "2026-02-06 10:30:00",
-      "timestamp": 1770373800
     },
     {
       "id": "178de83ea1aabf3b74f37e03150493f050dac197",
