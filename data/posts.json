@@ -1,6 +1,26 @@
 {
-  "generated_at": 1771353519,
+  "generated_at": 1771363387,
   "items": [
+    {
+      "id": "bffd512b1b37602b5b2ea57708f2b240b90b52ef",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
+      "summary": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024. [...]",
+      "published": "2026-02-17 20:15:03",
+      "timestamp": 1771359303
+    },
+    {
+      "id": "d7b8d56018a1bafbf07cc44ddd1cf5d7f2a730b0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+      "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+      "summary": "Cloud attacks move fast \u2014 faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins. Cloud forensics is fundamentally",
+      "published": "2026-02-17 19:08:00",
+      "timestamp": 1771355280
+    },
     {
       "id": "b68adcd7835d3898e40ee3a89d4944063e0f87ba",
       "source": "BleepingComputer",
@@ -72,6 +92,16 @@
       "timestamp": 1771337125
     },
     {
+      "id": "b76a3f91ad628cb07d74d7e7abde7cb93c35a5f7",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "From BRICKSTORM to GRIMBOLT: UNC6201 Exploiting a Dell RecoverPoint for Virtual Machines Zero-Day",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6201-exploiting-dell-recoverpoint-zero-day/",
+      "summary": "Written by: Peter Ukhanov, Daniel Sislo, Nick Harbour, John Scarbrough, Fernando Tomlinson, Jr., Rich Reece Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified the zero-day exploitation of a high-risk vulnerability in Dell RecoverPoint for Virtual Machines, tracked as CVE-2026-22769, with a CVSSv3.0 score of 10.0. Analysis of incident response engagements revealed that UNC6201, a suspected PRC-nexus threat cluster, has exploited this flaw since at least mid-2024 to ",
+      "published": "2026-02-17 14:00:00",
+      "timestamp": 1771336800
+    },
+    {
       "id": "a1ffd3198130de58c8820baba92a09e52e0b5b62",
       "source": "The Hacker News",
       "source_category": "General",
@@ -82,14 +112,14 @@
       "timestamp": 1771332120
     },
     {
-      "id": "d7b8d56018a1bafbf07cc44ddd1cf5d7f2a730b0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-      "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-      "summary": "Cloud attacks move fast \u2014 faster than most incident response teams. In data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins. Cloud forensics is fundamentally",
-      "published": "2026-02-17 11:59:00",
-      "timestamp": 1771329540
+      "id": "6eb087065fe5c6c3fa81a1d7f2f11b7102927a3f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability CVE-2020-7796 Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability CVE-2024-7694 TeamT5 ThreatSonar Anti-Ransomware Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-2441 Google Chromium CSS Use-After-Free Vulnerability The",
+      "published": "2026-02-17 12:00:00",
+      "timestamp": 1771329600
     },
     {
       "id": "660cc7b5bf82446961ff788006cf2c16fb18fded",
@@ -280,16 +310,6 @@
       "summary": "ShinyHunters, a well-known data extortion group, claims to have stolen more than 600,000 Canada Goose customer records containing personal and payment-related data. Canada Goose told BleepingComputer the dataset appears to relate to past customer transactions and that it has not found evidence of a breach of its own systems. [...]",
       "published": "2026-02-16 04:45:32",
       "timestamp": 1771217132
-    },
-    {
-      "id": "b9cbc247db5c00ff051fe1c8d17d0e0faa83d7a8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-      "summary": "Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns. [...]",
-      "published": "2026-02-16 00:29:00",
-      "timestamp": 1771201740
     },
     {
       "id": "42987f78beb222c757b701b8cf0bb68a86d499e9",
@@ -812,7 +832,7 @@
       "timestamp": 1770462900
     },
     {
-      "id": "dbbef2cf0fa7f5e0af067573a0d5ca943669b8cc",
+      "id": "375fd63d4ac2bd8636de99f48af1907dd39358a4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Analysis of active exploitation of SolarWinds Web Help Desk",
@@ -1332,16 +1352,6 @@
       "timestamp": 1765540800
     },
     {
-      "id": "cdb6f0f3dece94d4f17b2ad6e53dff64450e8080",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/12/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2018-4063 Sierra Wireless AirLink ALEOS Unrestricted Upload of File with Dangerous Type Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the ",
-      "published": "2025-12-12 12:00:00",
-      "timestamp": 1765540800
-    },
-    {
       "id": "6df18e7754144ebb7bbfbfa5f2157b30b4c23388",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1440,16 +1450,6 @@
       "summary": "Google Threat Intelligence Group (GTIG) is tracking a cluster of financially motivated threat actors operating from Vietnam that leverages fake job postings on legitimate platforms to target individuals in the digital advertising and marketing sectors. The actor effectively uses social engineering to deliver malware and phishing kits, ultimately aiming to compromise high-value corporate accounts, in order to hijack digital advertising accounts. GTIG tracks parts of this activity as UNC6229. The ",
       "published": "2025-10-23 14:00:00",
       "timestamp": 1761228000
-    },
-    {
-      "id": "56051286ef8714ffcf364ebd91518d2117fdde7f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Pro-Russia Information Operations Leverage Russian Drone Incursions into Polish Airspace",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/pro-russia-information-operations-drone-incursions/",
-      "summary": "Written by: Alden Wahlstrom, David Mainor Introduction Google Threat Intelligence Group (GTIG) observed multiple instances of pro-Russia information operations (IO) actors promoting narratives related to the reported incursion of Russian drones into Polish airspace that occurred on Sept. 9-10, 2025. The identified IO activity, which mobilized in response to this event and the ensuing political and security developments, appeared consistent with previously observed instances of pro-Russia IO targ",
-      "published": "2025-10-21 14:00:00",
-      "timestamp": 1761055200
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
