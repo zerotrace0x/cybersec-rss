@@ -1,6 +1,46 @@
 {
-  "generated_at": 1771342728,
+  "generated_at": 1771353519,
   "items": [
+    {
+      "id": "b68adcd7835d3898e40ee3a89d4944063e0f87ba",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Notepad++ boosts update security with \u2018double-lock\u2019 mechanism",
+      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
+      "summary": "Notepad++ has adopted a \"double-lock\" design for its update mechanism to address recently exploited security gaps that resulted in a supply-chain compromise. [...]",
+      "published": "2026-02-17 18:29:18",
+      "timestamp": 1771352958
+    },
+    {
+      "id": "fdf2b892fc969554f0824f500d1fb74770b38b7b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+      "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+      "summary": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection. The attack method, which has been demonstrated against Microsoft Copilot and xAI Grok",
+      "published": "2026-02-17 18:08:00",
+      "timestamp": 1771351680
+    },
+    {
+      "id": "addc44d282b026d414887284ce08df930edd616b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Unify now or pay later: New research exposes the operational cost of a fragmented SOC",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/17/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/",
+      "summary": "New research from Microsoft and Omdia reveals how fragmented tools, manual workflows, and alert overload are pushing SOCs to a breaking point. The post Unify now or pay later: New research exposes the operational cost of a fragmented SOC appeared first on Microsoft Security Blog.",
+      "published": "2026-02-17 17:00:00",
+      "timestamp": 1771347600
+    },
+    {
+      "id": "984df600f2ac59f5c484f47dcdfb70527c6f6dbe",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+      "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
+      "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky. The Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu, in the firmware of devices associated with various brands, including Alldocube, with the compromise occurring during the firmware build phase.",
+      "published": "2026-02-17 16:41:00",
+      "timestamp": 1771346460
+    },
     {
       "id": "904264afdd620bdbfe5470578af33f4aeb674c85",
       "source": "BleepingComputer",
@@ -250,16 +290,6 @@
       "summary": "Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns. [...]",
       "published": "2026-02-16 00:29:00",
       "timestamp": 1771201740
-    },
-    {
-      "id": "abc044665b246df1e1e96b24f83703a75f3986ef",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-      "summary": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot with an \"UNMOUNTABLE_BOOT_VOLUME\" error after installing recent security updates, with the fix delivered in the February 2026 Patch Tuesday update. [...]",
-      "published": "2026-02-15 22:08:53",
-      "timestamp": 1771193333
     },
     {
       "id": "42987f78beb222c757b701b8cf0bb68a86d499e9",
@@ -802,26 +832,6 @@
       "timestamp": 1770389760
     },
     {
-      "id": "2e0b86ce4dab970cac0cd42222ff89a4c8cebdae",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
-      "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months. The agency said the move is to drive down technical debt and minimize",
-      "published": "2026-02-06 13:43:00",
-      "timestamp": 1770385380
-    },
-    {
-      "id": "2b74930d6f1d9a6ae13529d4492609e1ee539478",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
-      "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
-      "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42. In addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
-      "published": "2026-02-06 12:07:00",
-      "timestamp": 1770379620
-    },
-    {
       "id": "178de83ea1aabf3b74f37e03150493f050dac197",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -850,16 +860,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-11953 React Native Community CLI OS Command Injection Vulnerability CVE-2026-24423 SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reduci",
       "published": "2026-02-05 12:00:00",
       "timestamp": 1770292800
-    },
-    {
-      "id": "1deae5b50ab607f339fac5d8dffc8671680b0a12",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Detecting backdoored language models at scale",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/04/detecting-backdoored-language-models-at-scale/",
-      "summary": "We're releasing new research on detecting backdoors in open-weight language models and highlighting a practical scanner designed to detect backdoored models at scale and improve overall trust in AI systems. The post Detecting backdoored language models at scale appeared first on Microsoft Security Blog.",
-      "published": "2026-02-04 17:00:00",
-      "timestamp": 1770224400
     },
     {
       "id": "67c4f50a1184a936249fa118fc275dbe6bd8dd31",
