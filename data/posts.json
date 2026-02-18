@@ -1,6 +1,26 @@
 {
-  "generated_at": 1771397151,
+  "generated_at": 1771407215,
   "items": [
+    {
+      "id": "7b58e8bddf33f9f89e8e1195146b197749d99da9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
+      "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+      "summary": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest. The version 8.9.2 update incorporates what maintainer Don Ho calls a \"double lock\" design that aims to make the update process \"robust and effectively unexploitable.\" This includes verification",
+      "published": "2026-02-18 07:40:00",
+      "timestamp": 1771400400
+    },
+    {
+      "id": "7f56edd95e5220a6a03b6c7e8c65ac6d13554e25",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
+      "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
+      "published": "2026-02-18 06:52:00",
+      "timestamp": 1771397520
+    },
     {
       "id": "3577c279c401807f395aa62bf8701a968b0a56a9",
       "source": "BleepingComputer",
@@ -822,16 +842,6 @@
       "timestamp": 1770535920
     },
     {
-      "id": "c23530bd9ae592bfc75d5a8f523955a219d0fb4f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
-      "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
-      "summary": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt f\u00fcr Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by a likely state-sponsored threat actor that involves carrying out phishing attacks over the Signal messaging app. \"The focus is on high-ranking targets in",
-      "published": "2026-02-07 11:15:00",
-      "timestamp": 1770462900
-    },
-    {
       "id": "375fd63d4ac2bd8636de99f48af1907dd39358a4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -840,16 +850,6 @@
       "summary": "We are seeing exploitation of SolarWinds Web Help Desk via CVE\u20112025\u201140551 and CVE\u20112025\u201140536 that can lead to domain compromise; here is how to patch, hunt, and mitigate now. The post Analysis of active exploitation of SolarWinds Web Help Desk appeared first on Microsoft Security Blog.",
       "published": "2026-02-07 01:08:49",
       "timestamp": 1770426529
-    },
-    {
-      "id": "df2f4fda25a185384c1a99515fcbca3fe3113c85",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
-      "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
-      "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019. The framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to",
-      "published": "2026-02-06 14:56:00",
-      "timestamp": 1770389760
     },
     {
       "id": "178de83ea1aabf3b74f37e03150493f050dac197",
