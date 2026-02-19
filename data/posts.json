@@ -1,6 +1,36 @@
 {
-  "generated_at": 1771515293,
+  "generated_at": 1771526158,
   "items": [
+    {
+      "id": "a534f1cb174c6eaad3183ffb5dd32e9a317175b5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
+      "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
+      "summary": "A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications. [...]",
+      "published": "2026-02-19 17:16:32",
+      "timestamp": 1771521392
+    },
+    {
+      "id": "a11889b0626ca0bb97d21039c7913043c3f7a9bf",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "New e-book:\u00a0Establishing\u00a0a proactive defense with\u00a0Microsoft Security Exposure Management",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/",
+      "summary": "Read the new maturity-based guide that helps organizations move from fragmented, reactive security practices to a unified exposure management approach that enables proactive defense. The post New e-book: Establishing a proactive defense with Microsoft Security Exposure Management appeared first on Microsoft Security Blog.",
+      "published": "2026-02-19 17:00:00",
+      "timestamp": 1771520400
+    },
+    {
+      "id": "5e3b0074d1254e8b4c18f64e46d753a978388c6c",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Running OpenClaw safely: identity, isolation, and runtime risk",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/",
+      "summary": "Self-hosted agents execute code with durable credentials and process untrusted input. This creates dual supply chain risk, where skills and external instructions converge in the same runtime. As OpenClaw-like systems enter enterprises, governance and runtime isolation become critical. The post Running OpenClaw safely: identity, isolation, and runtime risk appeared first on Microsoft Security Blog.",
+      "published": "2026-02-19 16:27:00",
+      "timestamp": 1771518420
+    },
     {
       "id": "8c01cf376498bcdbe4c49a0a4e9625ab59bbbb26",
       "source": "BleepingComputer",
@@ -270,16 +300,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
       "published": "2026-02-18 06:52:00",
       "timestamp": 1771397520
-    },
-    {
-      "id": "3577c279c401807f395aa62bf8701a968b0a56a9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
-      "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
-      "summary": "A Spanish court has granted precautionary measures against NordVPN and ProtonVPN, ordering the two popular VPN providers to block 16 websites that facilitate piracy of football matches. [...]",
-      "published": "2026-02-17 23:15:49",
-      "timestamp": 1771370149
     },
     {
       "id": "d7b8d56018a1bafbf07cc44ddd1cf5d7f2a730b0",
@@ -860,26 +880,6 @@
       "summary": "We are seeing exploitation of SolarWinds Web Help Desk via CVE\u20112025\u201140551 and CVE\u20112025\u201140536 that can lead to domain compromise; here is how to patch, hunt, and mitigate now. The post Analysis of active exploitation of SolarWinds Web Help Desk appeared first on Microsoft Security Blog.",
       "published": "2026-02-07 01:08:49",
       "timestamp": 1770426529
-    },
-    {
-      "id": "178de83ea1aabf3b74f37e03150493f050dac197",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "New Clickfix variant \u2018CrashFix\u2019 deploying Python Remote Access Trojan",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/clickfix-variant-crashfix-deploying-python-rat-trojan/",
-      "summary": "CrashFix crashes browsers to coerce users into executing commands that deploy a Python RAT, abusing finger.exe and portable Python to evade detection and persist on high\u2011value systems. The post New Clickfix variant \u2018CrashFix\u2019 deploying Python Remote Access Trojan appeared first on Microsoft Security Blog.",
-      "published": "2026-02-05 18:51:39",
-      "timestamp": 1770317499
-    },
-    {
-      "id": "7ce9cd8345b3d76a04089642becb0d7a4ae6494f",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/05/the-security-implementation-gap-why-microsoft-is-supporting-operation-winter-shield/",
-      "summary": "Most security incidents happen in the gap between knowing what matters and actually implementing security controls consistently. Read how Microsoft is helping organizations close this implementation gap. The post The security implementation gap: Why Microsoft is supporting Operation Winter SHIELD appeared first on Microsoft Security Blog.",
-      "published": "2026-02-05 17:00:00",
-      "timestamp": 1770310800
     },
     {
       "id": "bdec8ae53ddfd1576bcaf56622b04c77e64c0d96",
