@@ -1,6 +1,26 @@
 {
-  "generated_at": 1771612160,
+  "generated_at": 1771621970,
   "items": [
+    {
+      "id": "9c66027918fa5ebdee5c540ea05150e51371ef6a",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
+      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
+      "published": "2026-02-20 20:00:30",
+      "timestamp": 1771617630
+    },
+    {
+      "id": "43b1241de5e033267f409be8ce6c12e1d14d3214",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Japanese tech giant Advantest hit by ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/",
+      "summary": "Advantest Corporation disclosed that its corporate network has been targeted in a ransomware attack that may have affected customer or employee data. [...]",
+      "published": "2026-02-20 18:30:44",
+      "timestamp": 1771612244
+    },
     {
       "id": "f79b1f375fbec085eb7ffcdaedf3eef55377328e",
       "source": "BleepingComputer",
@@ -60,6 +80,16 @@
       "summary": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year. [...]",
       "published": "2026-02-20 13:12:01",
       "timestamp": 1771593121
+    },
+    {
+      "id": "bb3fde66fee8a6ad455a39abddcd0d9e0e25a756",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-49113 RoundCube Webmail Deserialization of Untrusted Data Vulnerability CVE-2025-68461 RoundCube Webmail Cross-site Scripting Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of ",
+      "published": "2026-02-20 12:00:00",
+      "timestamp": 1771588800
     },
     {
       "id": "25e14262d2267bfd4185313144398e00af8cb0b6",
@@ -270,16 +300,6 @@
       "summary": "Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and access users' devices. [...]",
       "published": "2026-02-19 12:36:51",
       "timestamp": 1771504611
-    },
-    {
-      "id": "728c72e33b566de7f03b905ff553b21d6c0bf6db",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers target Microsoft Entra accounts in device code vishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
-      "summary": "Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2.0 Device Authorization flow and compromise Microsoft Entra accounts. [...]",
-      "published": "2026-02-19 12:30:37",
-      "timestamp": 1771504237
     },
     {
       "id": "bd07c4550e47c7cdbe7c118176980ddd0c1d9ea7",
@@ -772,6 +792,16 @@
       "timestamp": 1770829200
     },
     {
+      "id": "7e768ecac82e51b59e10abe883ddab829911b54f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "2026-02-11 16:08:11",
+      "timestamp": 1770826091
+    },
+    {
       "id": "2057d4b0b743c0c79ee788cfe18d1962a4a1428d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -780,6 +810,16 @@
       "summary": "Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines. The campaigns are characterized by the use of malware families like Geta RAT, Ares RAT, and DeskRAT, which are often",
       "published": "2026-02-11 14:52:00",
       "timestamp": 1770821520
+    },
+    {
+      "id": "aa126d398decb033265ac93c47887d2d21725a68",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "2026-02-10 21:49:53",
+      "timestamp": 1770760193
     },
     {
       "id": "8703873ccdd96e707693ae945da71b87c6c7576e",
@@ -882,6 +922,16 @@
       "timestamp": 1770120000
     },
     {
+      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
+      "published": "2026-02-02 16:15:16",
+      "timestamp": 1770048916
+    },
+    {
       "id": "a6e7049ec05d09001e489f7b33c7ae7f4fd77cdb",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -962,6 +1012,16 @@
       "timestamp": 1769515200
     },
     {
+      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "2026-01-26 16:11:38",
+      "timestamp": 1769443898
+    },
+    {
       "id": "8b9483ec4e6cd5ef2d297d617e4c2a8f97abac41",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1012,6 +1072,16 @@
       "timestamp": 1768996800
     },
     {
+      "id": "862dccc9383953fc782537d1ca6f20747d2bd516",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
+      "published": "2026-01-20 18:19:13",
+      "timestamp": 1768933153
+    },
+    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1052,6 +1122,16 @@
       "timestamp": 1768413540
     },
     {
+      "id": "77e4bfa1cf4054a5896b5c660054903dbde4ee88",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+      "published": "2026-01-14 00:47:38",
+      "timestamp": 1768351658
+    },
+    {
       "id": "cbb7eac9a2507fd69b4da4bf8aa4ef54fe1664cf",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1082,6 +1162,16 @@
       "timestamp": 1768219200
     },
     {
+      "id": "b4a67bf79133f737ff8e5a6e75562b041e26e3fc",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "2026-01-08 23:23:43",
+      "timestamp": 1767914623
+    },
+    {
       "id": "71c95b7855d0484bc99edd73525d2e1a6f1e25b0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1092,6 +1182,16 @@
       "timestamp": 1767787200
     },
     {
+      "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "2026-01-02 14:20:10",
+      "timestamp": 1767363610
+    },
+    {
       "id": "e6017fc192e3953b86a08b3e45e93b30407669d3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1100,6 +1200,16 @@
       "summary": "CISA released two Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-364-01: WHILL C2 Wheelchairs ICSA-25-345-03: AzeoTech DAQFactory (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
       "published": "2025-12-30 12:00:00",
       "timestamp": 1767096000
+    },
+    {
+      "id": "3c9ca8e75049a179fca7778a8d0eda58fc626212",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "2025-12-29 20:23:26",
+      "timestamp": 1767039806
     },
     {
       "id": "ea42a56477c1cddbb1990ed29f91b78dc4bac5a6",
@@ -1182,22 +1292,22 @@
       "timestamp": 1765972800
     },
     {
-      "id": "bf9a605ae0b946749460ce04ed7c79d7fc3ac770",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 G\u00fcralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, ",
-      "published": "2025-12-16 12:00:00",
-      "timestamp": 1765886400
-    },
-    {
       "id": "677728f9532d6e235c94fc57fdab9bf3fbb73732",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the K",
+      "published": "2025-12-16 12:00:00",
+      "timestamp": 1765886400
+    },
+    {
+      "id": "bf9a605ae0b946749460ce04ed7c79d7fc3ac770",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Releases Six Industrial Control Systems Advisories",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories",
+      "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 G\u00fcralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, ",
       "published": "2025-12-16 12:00:00",
       "timestamp": 1765886400
     },
@@ -1230,16 +1340,6 @@
       "summary": "This post was originally written in 2016 for the Project Zero blog. However, in the end it was published separately in the journal PoC||GTFO issue #13 as well as in the second volume of the printed version. In honor of our new blog we\u2019re republishing it on this blog and included an updated analysis to see if it still works on a modern Windows 11 system. During my Windows research I tend to find quite a few race condition vulnerabilities. A fairly typical exploitable form look something like this",
       "published": "2025-12-16 08:00:00",
       "timestamp": 1765872000
-    },
-    {
-      "id": "2018983958679fa172c0b7f2d5fb02c2126751db",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-14611 Gladinet CentreStack and Triofox Hard Coded Cryptographic Vulnerability CVE-2025-43529 Apple Multiple Products Use-After-Free WebKit Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Signifi",
-      "published": "2025-12-15 12:00:00",
-      "timestamp": 1765800000
     },
     {
       "id": "c831231ca336cd9806f75beb3e64472425ce5caf",
