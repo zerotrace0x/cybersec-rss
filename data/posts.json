@@ -1,6 +1,36 @@
 {
-  "generated_at": 1771839594,
+  "generated_at": 1771849997,
   "items": [
+    {
+      "id": "f3c1391d6a92d4f93b82cf2ee2a46774bd35aad9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+      "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+      "summary": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
+      "published": "2026-02-23 11:58:00",
+      "timestamp": 1771847880
+    },
+    {
+      "id": "53f6d49d27812924caf97371db942bab277fbc4f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+      "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks. [...]",
+      "published": "2026-02-23 11:44:21",
+      "timestamp": 1771847061
+    },
+    {
+      "id": "f52e5d399fca4e7d5697909af18215fa62800199",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
+      "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
+      "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft. The campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded",
+      "published": "2026-02-23 10:20:00",
+      "timestamp": 1771842000
+    },
     {
       "id": "80f9f24f02212e655c9342bf18eb8443a62b3947",
       "source": "The Hacker News",
@@ -330,16 +360,6 @@
       "summary": "Self-hosted agents execute code with durable credentials and process untrusted input. This creates dual supply chain risk, where skills and external instructions converge in the same runtime. As OpenClaw-like systems enter enterprises, governance and runtime isolation become critical. The post Running OpenClaw safely: identity, isolation, and runtime risk appeared first on Microsoft Security Blog.",
       "published": "2026-02-19 16:27:00",
       "timestamp": 1771518420
-    },
-    {
-      "id": "8c01cf376498bcdbe4c49a0a4e9625ab59bbbb26",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximum-severity Dell vulnerability that has been under active exploitation since mid-2024. [...]",
-      "published": "2026-02-19 15:30:37",
-      "timestamp": 1771515037
     },
     {
       "id": "4e09893e3f6cb7f9fb73fca7dd42f8618e74ccfd",
@@ -742,16 +762,6 @@
       "timestamp": 1770915600
     },
     {
-      "id": "a928e9383bf1317d17b8f256bec5b516a0e953ea",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
-      "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
-      "summary": "Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group. The coordinated campaign has been codenamed graphalgo in reference to the first package published in the npm registry. It's assessed to be active since May 2025. \"",
-      "published": "2026-02-12 16:55:00",
-      "timestamp": 1770915300
-    },
-    {
       "id": "4eecf935276592e0f02c13205d631a60912f727d",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -770,16 +780,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection Vulnerability CVE-2025-15556 Notepad++ Download of Code Without Integrity Check Vulnerability CVE-2025-40536 SolarWinds Web Help Desk Security Control Bypass Vulnerability CVE-2026-20700 Apple Multiple Buffer Overflow Vulnerability These types of vulnerabilities are frequent attack vectors for maliciou",
       "published": "2026-02-12 12:00:00",
       "timestamp": 1770897600
-    },
-    {
-      "id": "30f9c949bee3f42030ce89e81e4bb06e01c11840",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
-      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
-      "summary": "Threat activity this week shows one consistent signal \u2014 attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked exposures that sit in plain sight. Another shift is how access is gained versus how it\u2019s used. Initial entry points are getting simpler, while post-compromise",
-      "published": "2026-02-12 11:51:00",
-      "timestamp": 1770897060
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
