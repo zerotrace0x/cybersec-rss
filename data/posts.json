@@ -1,6 +1,26 @@
 {
-  "generated_at": 1771860904,
+  "generated_at": 1771872279,
   "items": [
+    {
+      "id": "06ede3e61ebda2241ebf55ed413f0094ec7a2ad3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
+      "summary": "New York-based ad tech company Optimizely has notified an undisclosed number of customers of a data breach after threat actors compromised some of its systems in a voice phishing attack. [...]",
+      "published": "2026-02-23 18:04:01",
+      "timestamp": 1771869841
+    },
+    {
+      "id": "d53ab5b3d26dc38ac49f435d7348b19bfcf4e211",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+      "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts. \"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim",
+      "published": "2026-02-23 17:59:00",
+      "timestamp": 1771869540
+    },
     {
       "id": "4ed14f79f68bd0362bab9bd5049ef8a3f27fcb44",
       "source": "BleepingComputer",
@@ -130,6 +150,16 @@
       "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness. EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
       "published": "2026-02-21 04:30:00",
       "timestamp": 1771648200
+    },
+    {
+      "id": "9c66027918fa5ebdee5c540ea05150e51371ef6a",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
+      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
+      "published": "2026-02-20 20:00:30",
+      "timestamp": 1771617630
     },
     {
       "id": "43b1241de5e033267f409be8ce6c12e1d14d3214",
@@ -330,16 +360,6 @@
       "summary": "Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges. Windows Admin Center is a locally deployed, browser-based management tool set that lets users manage their Windows Clients, Servers, and Clusters without the need for connecting to the cloud. The high-severity vulnerability, tracked as CVE-2026-26119, carries a",
       "published": "2026-02-19 17:40:00",
       "timestamp": 1771522800
-    },
-    {
-      "id": "a534f1cb174c6eaad3183ffb5dd32e9a317175b5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
-      "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
-      "summary": "A critical vulnerability in Grandstream GXP1600 series VoIP phones allows a remote, unauthenticated attacker to gain root privileges and silently eavesdrop on communications. [...]",
-      "published": "2026-02-19 17:16:32",
-      "timestamp": 1771521392
     },
     {
       "id": "a11889b0626ca0bb97d21039c7913043c3f7a9bf",
@@ -722,16 +742,6 @@
       "timestamp": 1770979500
     },
     {
-      "id": "0e9f1503464d644a65e7362c7ee9b125b9f6be5a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
-      "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
-      "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr. \"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
-      "published": "2026-02-13 08:34:00",
-      "timestamp": 1770971640
-    },
-    {
       "id": "052d99853cdc2b14854b88ae78fa7d8c24cef165",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -790,6 +800,26 @@
       "summary": "New guide details how a unified, AI ready SIEM platform empowers security leaders to operate at the speed of AI, strengthen resilience, accelerate detection and response, and more. The post The strategic SIEM buyer\u2019s guide: Choosing an AI-ready platform for the agentic era appeared first on Microsoft Security Blog.",
       "published": "2026-02-11 17:00:00",
       "timestamp": 1770829200
+    },
+    {
+      "id": "7e768ecac82e51b59e10abe883ddab829911b54f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "published": "2026-02-11 16:08:11",
+      "timestamp": 1770826091
+    },
+    {
+      "id": "aa126d398decb033265ac93c47887d2d21725a68",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "published": "2026-02-10 21:49:53",
+      "timestamp": 1770760193
     },
     {
       "id": "8703873ccdd96e707693ae945da71b87c6c7576e",
@@ -892,6 +922,16 @@
       "timestamp": 1770120000
     },
     {
+      "id": "ce39f26845b2bc2ef42a897ef11c17843d1167c4",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 Read More \u00bb",
+      "published": "2026-02-02 16:15:16",
+      "timestamp": 1770048916
+    },
+    {
       "id": "a6e7049ec05d09001e489f7b33c7ae7f4fd77cdb",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -972,6 +1012,16 @@
       "timestamp": 1769515200
     },
     {
+      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "published": "2026-01-26 16:11:38",
+      "timestamp": 1769443898
+    },
+    {
       "id": "8b9483ec4e6cd5ef2d297d617e4c2a8f97abac41",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1022,6 +1072,16 @@
       "timestamp": 1768996800
     },
     {
+      "id": "862dccc9383953fc782537d1ca6f20747d2bd516",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
+      "published": "2026-01-20 18:19:13",
+      "timestamp": 1768933153
+    },
+    {
       "id": "7291474e36217f82d9bddd3a499ad426683a18a2",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1062,6 +1122,16 @@
       "timestamp": 1768413540
     },
     {
+      "id": "77e4bfa1cf4054a5896b5c660054903dbde4ee88",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+      "published": "2026-01-14 00:47:38",
+      "timestamp": 1768351658
+    },
+    {
       "id": "cbb7eac9a2507fd69b4da4bf8aa4ef54fe1664cf",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1092,6 +1162,16 @@
       "timestamp": 1768219200
     },
     {
+      "id": "b4a67bf79133f737ff8e5a6e75562b041e26e3fc",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "published": "2026-01-08 23:23:43",
+      "timestamp": 1767914623
+    },
+    {
       "id": "71c95b7855d0484bc99edd73525d2e1a6f1e25b0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1102,6 +1182,16 @@
       "timestamp": 1767787200
     },
     {
+      "id": "bfc3ac2811f9b14ed7087d746fbaf95f70aad6f9",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "published": "2026-01-02 14:20:10",
+      "timestamp": 1767363610
+    },
+    {
       "id": "e6017fc192e3953b86a08b3e45e93b30407669d3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1110,6 +1200,16 @@
       "summary": "CISA released two Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-364-01: WHILL C2 Wheelchairs ICSA-25-345-03: AzeoTech DAQFactory (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
       "published": "2025-12-30 12:00:00",
       "timestamp": 1767096000
+    },
+    {
+      "id": "3c9ca8e75049a179fca7778a8d0eda58fc626212",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "published": "2025-12-29 20:23:26",
+      "timestamp": 1767039806
     },
     {
       "id": "ea42a56477c1cddbb1990ed29f91b78dc4bac5a6",
