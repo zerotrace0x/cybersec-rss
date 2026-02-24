@@ -1,6 +1,46 @@
 {
-  "generated_at": 1771936435,
+  "generated_at": 1771947770,
   "items": [
+    {
+      "id": "b615cc6fdf80486de830461c2bbb54b0b378e273",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation",
+      "link": "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/",
+      "summary": "AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains why CISOs must treat agents as identities and add intent-based controls so access is granted only when purpose and context align. [...]",
+      "published": "2026-02-24 15:02:12",
+      "timestamp": 1771945332
+    },
+    {
+      "id": "97a11a2f52499f15198dad9120f67a6871ee0a20",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK fines Reddit $19 million for using children\u2019s data unlawfully",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/",
+      "summary": "The UK Information Commissioner's Office (ICO) has fined Reddit \u00a314.47 million (over $19.5 million) for collecting and using the personal information of children under 13 without adequate safeguards. [...]",
+      "published": "2026-02-24 14:54:24",
+      "timestamp": 1771944864
+    },
+    {
+      "id": "6f43102f80bdc27d9ca7e73b0154c612b13b29e8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
+      "summary": "SolarWinds has patched four critical Serv-U remote code execution vulnerabilities that could grant attackers root access to unpatched servers. [...]",
+      "published": "2026-02-24 13:00:45",
+      "timestamp": 1771938045
+    },
+    {
+      "id": "e23747d785250952a373cef5f7945ed15fcb228f",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Scaling security operations with Microsoft Defender autonomous defense and expert-led services",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/",
+      "summary": "AI-powered cyberattacks outpace aging SOC tools. This new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection. The post Scaling security operations with Microsoft Defender autonomous defense and expert-led services appeared first on Microsoft Security Blog.",
+      "published": "2026-02-24 13:00:00",
+      "timestamp": 1771938000
+    },
     {
       "id": "bd3f25525a2dccc64ec8997cbef9b9b36b68c556",
       "source": "The Hacker News",
@@ -272,26 +312,6 @@
       "timestamp": 1771612244
     },
     {
-      "id": "f79b1f375fbec085eb7ffcdaedf3eef55377328e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "Hackers are actively exploiting the CVE-2026-1731 vulnerability in the BeyondTrust Remote Support product, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns. [...]",
-      "published": "2026-02-20 17:02:25",
-      "timestamp": 1771606945
-    },
-    {
-      "id": "03ab8b0525c329bd79aabe60a624e94acd5247b0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Data breach at French bank registry impacts 1.2 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
-      "summary": "The French Ministry of Finance has published an announcement informing of a cybersecurity incident that has impacted 1.2 million accounts. [...]",
-      "published": "2026-02-20 16:20:40",
-      "timestamp": 1771604440
-    },
-    {
       "id": "6cde04eaee1266894273db3550b002bdc9a3f616",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +320,6 @@
       "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and The vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the",
       "published": "2026-02-20 15:45:00",
       "timestamp": 1771602300
-    },
-    {
-      "id": "d2db3493d5aed286e0e5878578715eabf4776bf5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why the shift left dream has become a nightmare for security and developers",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
-      "summary": "The \"shift left\" approach has increased pressure on developers, as speed demands override security checks in modern CI pipelines. Qualys explains how analyzing 34,000 public container images revealed 7.3% were malicious and why security must be enforced at the infrastructure layer by default. [...]",
-      "published": "2026-02-20 14:45:54",
-      "timestamp": 1771598754
     },
     {
       "id": "5ff5523fb4c426d72d0bc7b6aebf2fc330e3b5c1",
@@ -890,16 +900,6 @@
       "summary": "Written by: Ross Inman, Adrian Hernandez Introduction North Korean threat actors continue to evolve their tradecraft to target the cryptocurrency and decentralized finance (DeFi) verticals. Mandiant recently investigated an intrusion targeting a FinTech entity within this sector, attributed to UNC1069, a financially motivated threat actor active since at least 2018. This investigation revealed a tailored intrusion resulting in the deployment of seven unique malware families, including a new set ",
       "published": "2026-02-09 14:00:00",
       "timestamp": 1770645600
-    },
-    {
-      "id": "dbbef2cf0fa7f5e0af067573a0d5ca943669b8cc",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Analysis of active exploitation of SolarWinds Web Help Desk",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/06/active-exploitation-solarwinds-web-help-desk/",
-      "summary": "We are seeing exploitation of SolarWinds Web Help Desk via CVE\u20112025\u201140551 and CVE\u20112025\u201140536 that can lead to domain compromise; here is how to patch, hunt, and mitigate now. The post Analysis of active exploitation of SolarWinds Web Help Desk appeared first on Microsoft Security Blog.",
-      "published": "2026-02-07 01:08:49",
-      "timestamp": 1770426529
     },
     {
       "id": "bdec8ae53ddfd1576bcaf56622b04c77e64c0d96",
