@@ -1,6 +1,16 @@
 {
-  "generated_at": 1771958556,
+  "generated_at": 1771968160,
   "items": [
+    {
+      "id": "e48f21645ef296ba17e408d5e7fdf3b33ccdd92b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
+      "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
+      "summary": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure. \"Attackers can craft hidden instructions inside a",
+      "published": "2026-02-24 18:52:00",
+      "timestamp": 1771959120
+    },
     {
       "id": "bf7e49445ea2a4e34ffa7e164767437fd7287af5",
       "source": "BleepingComputer",
@@ -80,6 +90,16 @@
       "summary": "AI-powered cyberattacks outpace aging SOC tools, and this new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection. The post Scaling security operations with Microsoft Defender autonomous defense and expert-led services appeared first on Microsoft Security Blog.",
       "published": "2026-02-24 13:00:00",
       "timestamp": 1771938000
+    },
+    {
+      "id": "d752d1a5c47c7133c43e13d6c3ef8204fed59de7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/24/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living lis",
+      "published": "2026-02-24 12:00:00",
+      "timestamp": 1771934400
     },
     {
       "id": "bd3f25525a2dccc64ec8997cbef9b9b36b68c556",
@@ -742,16 +762,6 @@
       "timestamp": 1771237440
     },
     {
-      "id": "c43c4200898620dfcd227b22f65ac0a80fc186be",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released",
-      "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-      "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild. The high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026. \"Use after",
-      "published": "2026-02-16 06:38:00",
-      "timestamp": 1771223880
-    },
-    {
       "id": "0ac63e48fdef5d6a9cfe64617c3dc3c66e1929e8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -762,12 +772,12 @@
       "timestamp": 1770984000
     },
     {
-      "id": "052d99853cdc2b14854b88ae78fa7d8c24cef165",
+      "id": "7648dfc7785773420b9d713c3974add28cd650a5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
-      "title": "Top 10 actions to build agents securely with Microsoft Copilot Studio",
+      "title": "Detecting and mitigating common agent misconfigurations",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/",
-      "summary": "Copilot Studio agents are increasingly powerful. With that power comes risk: small misconfigurations, over\u2011broad sharing, unauthenticated access, and weak orchestration controls can create real exposure. This article consolidates the ten most common risks we observe and maps each to practical detections and mitigations using Microsoft Defender capabilities. The post Top 10 actions to build agents securely with Microsoft Copilot Studio appeared first on Microsoft Security Blog.",
+      "summary": "Agents are increasingly powerful. With that power comes risk: small misconfigurations, over\u2011broad sharing, unauthenticated access, and weak orchestration controls can create real exposure. This article consolidates the most common risks we observe and maps each to practical detections with Microsoft Defender, and mitigations in Copilot Studio. The post Detecting and mitigating common agent misconfigurations appeared first on Microsoft Security Blog.",
       "published": "2026-02-12 20:38:49",
       "timestamp": 1770928729
     },
@@ -1298,16 +1308,6 @@
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the K",
-      "published": "2025-12-16 12:00:00",
-      "timestamp": 1765886400
-    },
-    {
-      "id": "bf9a605ae0b946749460ce04ed7c79d7fc3ac770",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Six Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-releases-seven-industrial-control-systems-advisories",
-      "summary": "CISA released six Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-350-01 G\u00fcralp Systems FMUS (Fortimus) Series and MIN (Minimus) Series ICSA-25-350-02 Johnson Controls PowerG, IQPanel and IQHub ICSA-25-350-03 Hitachi Energy AFS, AFR and AFF Series ICSA-25-350-04 Mitsubishi Electric GT Designer3 ICSA-25-224-02 Johnson Controls iSTAR Ultra, iSTAR Ultra SE, iSTAR Ultra G2, ",
       "published": "2025-12-16 12:00:00",
       "timestamp": 1765886400
     },
