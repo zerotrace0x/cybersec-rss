@@ -1,6 +1,56 @@
 {
-  "generated_at": 1771925920,
+  "generated_at": 1771936435,
   "items": [
+    {
+      "id": "bd3f25525a2dccc64ec8997cbef9b9b36b68c556",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
+      "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
+      "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or \u201cwhat failed a control check.\u201d That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
+      "published": "2026-02-24 11:58:00",
+      "timestamp": 1771934280
+    },
+    {
+      "id": "e31096583094784708bb8515109aadd4478eece2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
+      "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
+      "summary": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team. Broadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
+      "published": "2026-02-24 11:52:00",
+      "timestamp": 1771933920
+    },
+    {
+      "id": "6a56bd1cf06f7d8a265ad15f6a54bc177723941f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
+      "summary": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
+      "published": "2026-02-24 11:40:20",
+      "timestamp": 1771933220
+    },
+    {
+      "id": "5fb948efaa2906d79cf893c59836961b594a3c96",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
+      "summary": "North Korean state-backed hackers associated with the Lazarus threat group are targeting U.S. healthcare organizations in extortion attacks using the Medusa ransomware. [...]",
+      "published": "2026-02-24 11:00:00",
+      "timestamp": 1771930800
+    },
+    {
+      "id": "b80dedeca71742ccd6882c04c3d4e170b9d21f13",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
+      "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
+      "summary": "The threat activity cluster known as UnsolicitedBooker has been observed targeting telecommunications companies in Kyrgyzstan and Tajikistan, marking a shift from prior attacks aimed at Saudi Arabian entities. The attacks involve the deployment of two distinct backdoors codenamed LuciDoor and MarsSnake, according to a report published by Positive Technologies last week. \"The group used several",
+      "published": "2026-02-24 09:54:00",
+      "timestamp": 1771926840
+    },
     {
       "id": "ee1afdfa03b5d4d0e4be6695ca884367bdeceb44",
       "source": "The Hacker News",
@@ -272,16 +322,6 @@
       "timestamp": 1771597200
     },
     {
-      "id": "f91aceacf4b3b2208b832aa23a73c4fc29adbc05",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "summary": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including Social Security numbers, for nearly 6 months last year. [...]",
-      "published": "2026-02-20 13:12:01",
-      "timestamp": 1771593121
-    },
-    {
       "id": "bb3fde66fee8a6ad455a39abddcd0d9e0e25a756",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -300,16 +340,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT). \"The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage",
       "published": "2026-02-20 11:55:00",
       "timestamp": 1771588500
-    },
-    {
-      "id": "0be5c4e94b723412342e046e7db60672e9b53979",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Mississippi medical center closes all clinics after ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
-      "summary": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
-      "published": "2026-02-20 11:50:14",
-      "timestamp": 1771588214
     },
     {
       "id": "4fa7f1707bad24252633b6051e6c46eeafea0f54",
@@ -700,36 +730,6 @@
       "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload. Specifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
       "published": "2026-02-15 14:10:00",
       "timestamp": 1771164600
-    },
-    {
-      "id": "052fc926217a931cf888b1d680c6c5d35d0e9e96",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
-      "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
-      "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL. Google Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
-      "published": "2026-02-13 17:27:00",
-      "timestamp": 1771003620
-    },
-    {
-      "id": "596550422cba90c3b6e866f8b14043340a27de8b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-      "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-      "summary": "Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG). The tech giant's threat intelligence division said the adversarial targeting of the sector is centered around four key themes: striking defense",
-      "published": "2026-02-13 16:23:00",
-      "timestamp": 1770999780
-    },
-    {
-      "id": "de2415a761d019192330d6984be1e4fdcea8163c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
-      "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
-      "summary": "A previously unknown threat actor tracked as UAT-9921 has been observed leveraging a new modular framework called VoidLink in its campaigns targeting the technology and financial services sectors, according to findings from Cisco Talos. \"This threat actor seems to have been active since 2019, although they have not necessarily used VoidLink over the duration of their activity,\" researchers Nick",
-      "published": "2026-02-13 15:23:00",
-      "timestamp": 1770996180
     },
     {
       "id": "0ac63e48fdef5d6a9cfe64617c3dc3c66e1929e8",
