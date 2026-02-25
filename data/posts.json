@@ -1,6 +1,56 @@
 {
-  "generated_at": 1772034409,
+  "generated_at": 1772045170,
   "items": [
+    {
+      "id": "6b2d8765887864e5ce526bb947d668505364c791",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
+      "summary": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in zero-day attacks that allowed remote attackers to compromise controllers and add malicious rogue peers to targeted networks. [...]",
+      "published": "2026-02-25 18:01:51",
+      "timestamp": 1772042511
+    },
+    {
+      "id": "0fce4f1516d5407cc7e2a67f0112e9448954cbc2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+      "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries. \"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
+      "published": "2026-02-25 17:46:00",
+      "timestamp": 1772041560
+    },
+    {
+      "id": "c35a1bffd0045c0b087af2673eb83022c9499551",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
+      "summary": "Google's Threat Intelligence Group (GTIG), Mandiant, and partners disrupted a global espionage campaign attributed to a suspected Chinese threat actor that used SaaS API calls to hide malicious traffic in attacks targeting telecom and government networks. [...]",
+      "published": "2026-02-25 17:00:15",
+      "timestamp": 1772038815
+    },
+    {
+      "id": "7151bc58736a3d9f9f1276103e4af56a7eb48d08",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+      "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials. \"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables \u2013 executing",
+      "published": "2026-02-25 17:00:00",
+      "timestamp": 1772038800
+    },
+    {
+      "id": "6cb1abb3e6ec94179fe9243bdd1d23f061f7ea6d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
+      "summary": "Marquis Software Solutions has filed a lawsuit against SonicWall, accusing the cybersecurity company of gross negligence and misrepresentation that allegedly led to a ransomware attack disrupting operations at 74 U.S. banks. [...]",
+      "published": "2026-02-25 15:54:44",
+      "timestamp": 1772034884
+    },
     {
       "id": "962a2b70af773ecff68aa3f084f7382c40cb2db9",
       "source": "The Hacker News",
@@ -60,6 +110,26 @@
       "summary": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data. The campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
       "published": "2026-02-25 12:43:00",
       "timestamp": 1772023380
+    },
+    {
+      "id": "3fbcd95db62f11d03569fdf7b8ae23ad0ff9eb2b",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-20775 Cisco Catalyst SD-WAN Path Traversal Vulnerability CVE-2026-20127 Cisco Catalyst SD-WAN Controller and Manager Authentication Bypass Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Signifi",
+      "published": "2026-02-25 12:00:00",
+      "timestamp": 1772020800
+    },
+    {
+      "id": "3c50fe9f314246d01dd05acf1cc3ec06fb629ec3",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA and Partners Release Guidance for Ongoing Global Exploitation of Cisco SD-WAN Systems",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/25/cisa-and-partners-release-guidance-ongoing-global-exploitation-cisco-sd-wan-systems",
+      "summary": "The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to address ongoing exploitation of multiple vulnerabilities. Notably, the Cybersecurity and Infrastructure Security Agency (CISA) has added CVE-2026-20127 and CVE-2022-20775 to its Known Exploited Vulnerabilities (KEV) Catalog on Feb. 25, 2026. As a result of the malicious cyber activity and vulnerabili",
+      "published": "2026-02-25 12:00:00",
+      "timestamp": 1772020800
     },
     {
       "id": "b0df65db3d146c4ee27eaaee7c3f1aae0384efb2",
@@ -232,16 +302,6 @@
       "timestamp": 1771942860
     },
     {
-      "id": "6f43102f80bdc27d9ca7e73b0154c612b13b29e8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
-      "summary": "SolarWinds has patched four critical Serv-U remote code execution vulnerabilities that could grant attackers root access to unpatched servers. [...]",
-      "published": "2026-02-24 13:00:45",
-      "timestamp": 1771938045
-    },
-    {
       "id": "e23747d785250952a373cef5f7945ed15fcb228f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -280,26 +340,6 @@
       "summary": "The North Korea-linked Lazarus Group (aka Diamond Sleet and Pompilus) has been observed using Medusa ransomware in an attack targeting an unnamed entity in the Middle East, according to a new report by the Symantec and Carbon Black Threat Hunter Team. Broadcom's threat intelligence division said it also identified the same threat actors mounting an unsuccessful attack against a healthcare",
       "published": "2026-02-24 11:52:00",
       "timestamp": 1771933920
-    },
-    {
-      "id": "6a56bd1cf06f7d8a265ad15f6a54bc177723941f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
-      "summary": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records from its compromised systems. [...]",
-      "published": "2026-02-24 11:40:20",
-      "timestamp": 1771933220
-    },
-    {
-      "id": "5fb948efaa2906d79cf893c59836961b594a3c96",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
-      "summary": "North Korean state-backed hackers associated with the Lazarus threat group are targeting U.S. healthcare organizations in extortion attacks using the Medusa ransomware. [...]",
-      "published": "2026-02-24 11:00:00",
-      "timestamp": 1771930800
     },
     {
       "id": "b80dedeca71742ccd6882c04c3d4e170b9d21f13",
@@ -742,16 +782,6 @@
       "timestamp": 1771336800
     },
     {
-      "id": "a1ffd3198130de58c8820baba92a09e52e0b5b62",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
-      "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC. \"The threat actors cloned a legitimate Oura MCP Server \u2013 a tool that connects AI assistants to Oura Ring health data \u2013 and built a deceptive",
-      "published": "2026-02-17 12:42:00",
-      "timestamp": 1771332120
-    },
-    {
       "id": "6eb087065fe5c6c3fa81a1d7f2f11b7102927a3f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -760,16 +790,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability CVE-2020-7796 Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability CVE-2024-7694 TeamT5 ThreatSonar Anti-Ransomware Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-2441 Google Chromium CSS Use-After-Free Vulnerability The",
       "published": "2026-02-17 12:00:00",
       "timestamp": 1771329600
-    },
-    {
-      "id": "a5520c32c4e4e7b5d712a5259ae0b2c30f5b353c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "My Day Getting My Hands Dirty with an NDR System",
-      "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
-      "summary": "My objective As someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response (NDR) system. My goal was to understand how NDR is used in hunting and incident response, and how it fits into the daily workflow of a Security Operations Center (SOC). Corelight\u2019s Investigator software, part of its Open NDR Platform, is",
-      "published": "2026-02-17 11:30:00",
-      "timestamp": 1771327800
     },
     {
       "id": "0ac63e48fdef5d6a9cfe64617c3dc3c66e1929e8",
@@ -1300,26 +1320,6 @@
       "summary": "CISA released nine Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-352-01 Inductive Automation Ignition ICSA-25-352-02 Schneider Electric EcoStruxure Foxboro DCS Advisor ICSA-25-352-03 National Instruments LabView ICSA-25-352-04 Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products ICSA-25-352-05 Siemens Interniche IP-Stack ICSA-25-352-06 Advant",
       "published": "2025-12-18 12:00:00",
       "timestamp": 1766059200
-    },
-    {
-      "id": "2554242388787f0569b54d4414653d03d941bf16",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/17/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-20393 Cisco Multiple Products Improper Input Validation Vulnerability CVE-2025-40602 SonicWall SMA1000 Missing Authorization Vulnerability CVE-2025-59374 ASUS Live Update Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bindi",
-      "published": "2025-12-17 12:00:00",
-      "timestamp": 1765972800
-    },
-    {
-      "id": "677728f9532d6e235c94fc57fdab9bf3fbb73732",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the K",
-      "published": "2025-12-16 12:00:00",
-      "timestamp": 1765886400
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
