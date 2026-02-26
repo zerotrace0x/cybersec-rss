@@ -1,6 +1,76 @@
 {
-  "generated_at": 1772120431,
+  "generated_at": 1772130877,
   "items": [
+    {
+      "id": "18a69032f750fc1fd87863c4ab639f8919870880",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trend Micro warns of critical Apex One code execution flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
+      "summary": "Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. [...]",
+      "published": "2026-02-26 17:58:28",
+      "timestamp": 1772128708
+    },
+    {
+      "id": "8cf382ef2b70740bcd41b893824305d80f720bbe",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "European DYI chain ManoMano data breach impacts 38 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
+      "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. [...]",
+      "published": "2026-02-26 17:35:21",
+      "timestamp": 1772127321
+    },
+    {
+      "id": "5712764707d40b50e67f4d0cd5d15d7f67118f3f",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Threat modeling AI applications",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/",
+      "summary": "AI threat modeling helps teams identify misuse, emergent risk, and failure modes in probabilistic and agentic AI systems. The post Threat modeling AI applications appeared first on Microsoft Security Blog.",
+      "published": "2026-02-26 17:04:08",
+      "timestamp": 1772125448
+    },
+    {
+      "id": "dc40a095d014d130d1262aa6f119392ccd4ec4a4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Juniper Networks PTX flaw allows full router takeover",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
+      "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthenticated attacker to execute code remotely with root privileges. [...]",
+      "published": "2026-02-26 16:42:12",
+      "timestamp": 1772124132
+    },
+    {
+      "id": "9800023ee008da7121eb04f1962d4c7e23b9e25a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+      "summary": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club's systems earlier this month. [...]",
+      "published": "2026-02-26 16:11:30",
+      "timestamp": 1772122290
+    },
+    {
+      "id": "fbb306bbdc9b309847cbb673e9ad18588c9b91a3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
+      "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+      "summary": "A previously undocumented threat activity cluster has been attributed to an ongoing malicious campaign targeting education and healthcare sectors in the U.S. since at least December 2025. The campaign is being tracked by Cisco Talos under the moniker UAT-10027. The end goal of the attacks is to deliver a never-before-seen backdoor codenamed Dohdoor. \"Dohdoor utilizes the DNS-over-HTTPS (DoH)",
+      "published": "2026-02-26 15:17:00",
+      "timestamp": 1772119020
+    },
+    {
+      "id": "31f8dd9b7fa34e336e55401364cd2f74a1b05b4d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
+      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+      "summary": "Nothing here looks dramatic at first glance. That\u2019s the point. Many of this week\u2019s threats begin with something ordinary, like an ad, a meeting invite, or a software update. Behind the scenes, the tactics are sharper. Access happens faster. Control is established sooner. Cleanup becomes harder. Here is a quick look at the signals worth paying attention to. AI-powered command",
+      "published": "2026-02-26 14:28:00",
+      "timestamp": 1772116080
+    },
     {
       "id": "40cb3ed47e0414b9db555f359c3d77a036b1702d",
       "source": "BleepingComputer",
@@ -60,6 +130,16 @@
       "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector. The package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
       "published": "2026-02-26 10:09:00",
       "timestamp": 1772100540
+    },
+    {
+      "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
+      "link": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
+      "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn\u2019t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don\u2019t know about, assuming it\u2019s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation\u2019s remark",
+      "published": "2026-02-26 08:00:00",
+      "timestamp": 1772092800
     },
     {
       "id": "885d7444b83dd5115b8cc3b36aa1ac325d38c8cd",
@@ -252,26 +332,6 @@
       "timestamp": 1772009340
     },
     {
-      "id": "bae3eeb8034e143eb435ad09a8aeb1cce3ecfa50",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
-      "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/",
-      "summary": "The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealing and selling zero-day exploits to a Russian broker whose clients include the Russian government. [...]",
-      "published": "2026-02-25 08:21:40",
-      "timestamp": 1772007700
-    },
-    {
-      "id": "26a3265ff4ee23a826685d0b126409a882d34cf0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/",
-      "summary": "Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a new network speed test tool, and native System Monitor (Sysmon) functionality. [...]",
-      "published": "2026-02-25 07:51:51",
-      "timestamp": 1772005911
-    },
-    {
       "id": "e539e2973fa9198521c96316e20ebaee079cdc4f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,26 +350,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed vulnerability in FileZen to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-25108 (CVSS v4 score: 8.7), is a case of operating system (OS) command injection that could allow an authenticated user to execute",
       "published": "2026-02-25 05:23:00",
       "timestamp": 1771996980
-    },
-    {
-      "id": "76580de4dca29f15056da8b274c0179bc8170606",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
-      "summary": "A financially motivated threat group dubbed \"Diesel Vortex\" is stealing credentials from freight and logistics operators in the U.S. and Europe in phishing attacks using 52 domains. [...]",
-      "published": "2026-02-24 23:57:58",
-      "timestamp": 1771977478
-    },
-    {
-      "id": "81b9e48697aeaf6c32950081e813011f05410af7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Wynn Resorts confirms employee data breach after extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
-      "summary": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data leak site. [...]",
-      "published": "2026-02-24 21:51:20",
-      "timestamp": 1771969880
     },
     {
       "id": "e48f21645ef296ba17e408d5e7fdf3b33ccdd92b",
@@ -742,26 +782,6 @@
       "timestamp": 1771410720
     },
     {
-      "id": "ea6cc1feaf69f2b348a44fd951068186ee1b196b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "3 Ways to Start Your Intelligent Workflow Program",
-      "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html",
-      "summary": "Security, IT, and engineering teams today are under relentless pressure to accelerate outcomes, cut operational drag, and unlock the full potential of AI and automation. But simply investing in tools isn\u2019t enough. 88% of AI proofs-of-concept never make it to production, even though 70% of workers cite freeing time for high-value work as the primary AI automation motivation. Real impact comes",
-      "published": "2026-02-18 10:30:00",
-      "timestamp": 1771410600
-    },
-    {
-      "id": "7b58e8bddf33f9f89e8e1195146b197749d99da9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-      "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
-      "summary": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest. The version 8.9.2 update incorporates what maintainer Don Ho calls a \"double lock\" design that aims to make the update process \"robust and effectively unexploitable.\" This includes verification",
-      "published": "2026-02-18 07:40:00",
-      "timestamp": 1771400400
-    },
-    {
       "id": "addc44d282b026d414887284ce08df930edd616b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -890,16 +910,6 @@
       "summary": "Read Microsoft's new Cyber Pulse report for straightforward, practical insights and guidance on new cybersecurity risks. The post 80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier appeared first on Microsoft Security Blog.",
       "published": "2026-02-10 16:00:00",
       "timestamp": 1770739200
-    },
-    {
-      "id": "2b3b04f4dc0b5148e298dba6e7f83dbfbe013a38",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Manipulating\u00a0AI memory\u00a0for\u00a0profit: The rise of\u00a0AI\u00a0Recommendation Poisoning",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/",
-      "summary": "That helpful \u201cSummarize with AI\u201d button? It might be secretly manipulating what your AI recommends. Microsoft security researchers have discovered a growing trend of AI memory poisoning attacks used for promotional purposes, a technique we call AI Recommendation Poisoning. The post Manipulating AI memory for profit: The rise of AI Recommendation Poisoning appeared first on Microsoft Security Blog.",
-      "published": "2026-02-10 14:56:21",
-      "timestamp": 1770735381
     },
     {
       "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
@@ -1360,16 +1370,6 @@
       "summary": "Written by: Aragorn Tseng, Robert Weiner, Casey Charrier, Zander Work, Genevieve Stark, Austin Larsen Introduction On Dec. 3, 2025, a critical unauthenticated remote code execution (RCE) vulnerability in React Server Components, tracked as CVE-2025-55182 (aka \"React2Shell\"), was publicly disclosed. Shortly after disclosure, Google Threat Intelligence Group (GTIG) had begun observing widespread exploitation across many threat clusters, ranging from opportunistic cyber crime actors to suspected es",
       "published": "2025-12-12 14:00:00",
       "timestamp": 1765548000
-    },
-    {
-      "id": "6df18e7754144ebb7bbfbfa5f2157b30b4c23388",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "A look at an Android ITW DNG exploit",
-      "link": "https://projectzero.google/2025/12/android-itw-dng.html",
-      "summary": "Introduction Between July 2024 and February 2025, 6 suspicious image files were uploaded to VirusTotal. Thanks to a lead from Meta, these samples came to the attention of Google Threat Intelligence Group. Investigation of these images showed that these images were DNG files targeting the Quram library, an image parsing library specific to Samsung devices. On November 7, 2025 Unit 42 released a blogpost describing how these exploits were used and the spyware they dropped. In this blogpost, we wou",
-      "published": "2025-12-12 10:00:00",
-      "timestamp": 1765533600
     },
     {
       "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
