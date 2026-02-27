@@ -1,6 +1,36 @@
 {
-  "generated_at": 1772195352,
+  "generated_at": 1772206055,
   "items": [
+    {
+      "id": "bc374590997fe98275d238c0a8bb8537a03e3913",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Third-Party Patching and the Business Footprint We All Share",
+      "link": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
+      "summary": "Everyday tools like PDF readers, email clients, and archive utilities quietly define the real attack surface. Action1 explains how third-party software drift increases exploit risk and why consistent patching reduces exposure across endpoints. [...]",
+      "published": "2026-02-27 15:00:10",
+      "timestamp": 1772204410
+    },
+    {
+      "id": "8b6120718527781e1f87079de551de5fd6492a2c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
+      "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
+      "summary": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks. The campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
+      "published": "2026-02-27 12:43:00",
+      "timestamp": 1772196180
+    },
+    {
+      "id": "1a8eb5d62d846bbe1b50a2d8b5a93f5158674bb8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
+      "summary": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
+      "published": "2026-02-27 12:30:07",
+      "timestamp": 1772195407
+    },
     {
       "id": "afbdec0e1c477d9cd8d964a5ba7028c61904c745",
       "source": "The Hacker News",
@@ -272,16 +302,6 @@
       "timestamp": 1772031960
     },
     {
-      "id": "10e698c9ba86cce4e27bd925de847217e69c02fb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-      "summary": "OpenClaw has sparked heavy Telegram and dark web chatter, but Flare's data shows more research hype than mass exploitation. Flare explains how its telemetry found real supply-chain risk in the skills marketplace, yet limited signs of large-scale criminal operationalization. [...]",
-      "published": "2026-02-25 15:01:11",
-      "timestamp": 1772031671
-    },
-    {
       "id": "565823e10c9bce8bbbc0b6b3b2ff2ae40f2bacf2",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +320,6 @@
       "summary": "Introduction Last week, Google Threat Intelligence Group (GTIG), Mandiant, and partners took action to disrupt a global espionage campaign targeting telecommunications and government organizations in dozens of nations across four continents. The threat actor, UNC2814, is a suspected People's Republic of China (PRC)-nexus cyber espionage group that GTIG has tracked since 2017. This prolific, elusive actor has a long history of targeting international governments and global telecommunications orga",
       "published": "2026-02-25 14:00:00",
       "timestamp": 1772028000
-    },
-    {
-      "id": "4715e1540c95a876e0553d805525258d34da37a9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
-      "summary": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow unauthenticated attackers to gain remote command execution on unpatched devices. [...]",
-      "published": "2026-02-25 12:53:02",
-      "timestamp": 1772023982
     },
     {
       "id": "4174d8ced1a0ead4a0d469fcd5139b32056a8829",
@@ -762,16 +772,6 @@
       "timestamp": 1771435800
     },
     {
-      "id": "842ca098fdb8a31e559738d5cfa8d75ef129b9a7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices. The vulnerability, tracked as CVE-2026-2329, carries a CVSS score of 9.3 out of a maximum of 10.0. It has been described as a case of unauthenticated stack-based buffer overflow that could result in remote code",
-      "published": "2026-02-18 16:35:00",
-      "timestamp": 1771432500
-    },
-    {
       "id": "422cc00843bd06d3ed1ac1f01183028066a27ab9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -872,7 +872,7 @@
       "timestamp": 1770883200
     },
     {
-      "id": "a9e2ca659c2e6c8f8cdf2f497c2c7d6d48c6ef9e",
+      "id": "1c43b8501ec271309cb627af4036a9582f5371b7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "The strategic SIEM buyer\u2019s guide: Choosing an AI-ready platform for the agentic era",
