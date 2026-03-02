@@ -1,6 +1,36 @@
 {
-  "generated_at": 1772476169,
+  "generated_at": 1772486519,
   "items": [
+    {
+      "id": "12c49112cf13f85b6375bd8821fe74e9e1634774",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
+      "summary": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptocurrency wallet addresses, and proxying attacker traffic through victims' browsers. [...]",
+      "published": "2026-03-02 20:23:41",
+      "timestamp": 1772483021
+    },
+    {
+      "id": "addda61a809b8ff18d0bf0c612d1c89edd8af2e5",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "OAuth redirection abuse enables phishing and malware delivery",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/02/oauth-redirection-abuse-enables-phishing-malware-delivery/",
+      "summary": "OAuth redirection is being repurposed as a phishing delivery path. Trusted authentication flows are weaponized to move users from legitimate sign\u2011in pages to attacker\u2011controlled infrastructure. The post OAuth redirection abuse enables phishing and malware delivery appeared first on Microsoft Security Blog.",
+      "published": "2026-03-02 19:29:53",
+      "timestamp": 1772479793
+    },
+    {
+      "id": "7fcd1d90cb339a9fd6208f51fdcd149358bc9818",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
+      "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
+      "summary": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds of young women (including minors). [...]",
+      "published": "2026-03-02 18:54:34",
+      "timestamp": 1772477674
+    },
     {
       "id": "bdafebfe33df26e3310df153be50f95ec5450e78",
       "source": "BleepingComputer",
@@ -272,16 +302,6 @@
       "timestamp": 1772196180
     },
     {
-      "id": "1a8eb5d62d846bbe1b50a2d8b5a93f5158674bb8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
-      "summary": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification documents to customers worldwide. [...]",
-      "published": "2026-02-27 12:30:07",
-      "timestamp": 1772195407
-    },
-    {
       "id": "afbdec0e1c477d9cd8d964a5ba7028c61904c745",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +320,6 @@
       "summary": "Meta on Thursday said it's taking legal action to tackle scams on its platforms by filing lawsuits against what it calls deceptive advertisers based in Brazil, China, and Vietnam. As part of the effort, the advertisers' methods of payment have been suspended, related accounts have been disabled, and the website domain names used to pull off the scams have been blocked. Concurrently, the social",
       "published": "2026-02-27 07:56:00",
       "timestamp": 1772178960
-    },
-    {
-      "id": "c72e9a2e7a6d57c2cc8aca2015e55b76666e7cf6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Previously harmless Google API keys now expose Gemini AI data",
-      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "summary": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data. [...]",
-      "published": "2026-02-26 20:55:29",
-      "timestamp": 1772139329
     },
     {
       "id": "56784ef24bae57a1944a59af55c36db94ed21479",
@@ -532,7 +542,7 @@
       "timestamp": 1771959120
     },
     {
-      "id": "0bab329079f2fd75175d40333cf97abd19e7b1c1",
+      "id": "e01cc199a81459d08ddae7db45e1c92c7a5499f1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Developer-targeting campaign using malicious Next.js repositories",
@@ -792,7 +802,7 @@
       "timestamp": 1771416000
     },
     {
-      "id": "28d1c367956736605fc3ffc087735a5af499b703",
+      "id": "addc44d282b026d414887284ce08df930edd616b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Unify now or pay later: New research exposes the operational cost of a fragmented SOC",
@@ -910,16 +920,6 @@
       "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
       "published": "2026-02-10 21:49:53",
       "timestamp": 1770760193
-    },
-    {
-      "id": "8703873ccdd96e707693ae945da71b87c6c7576e",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/10/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/",
-      "summary": "Read Microsoft's new Cyber Pulse report for straightforward, practical insights and guidance on new cybersecurity risks. The post 80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier appeared first on Microsoft Security Blog.",
-      "published": "2026-02-10 16:00:00",
-      "timestamp": 1770739200
     },
     {
       "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
