@@ -1,6 +1,16 @@
 {
-  "generated_at": 1772562665,
+  "generated_at": 1772572918,
   "items": [
+    {
+      "id": "92db32361c67f3773107f988970e0922d9e5038e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
+      "summary": "Hackers are abusing the legitimate OAuth redirection mechanism to bypass phishing protections in email and browsers to take users to malicious pages. [...]",
+      "published": "2026-03-03 20:59:19",
+      "timestamp": 1772571559
+    },
     {
       "id": "9092fe2df4e260c1db1343d40a56b2a4602e7a46",
       "source": "The Hacker News",
@@ -70,6 +80,16 @@
       "summary": "Introduction Google Threat Intelligence Group (GTIG) has identified a new and powerful exploit kit targeting Apple iPhone models running iOS version 13.0 (released in September 2019) up to version 17.2.1 (released in December 2023). The exploit kit, named \u201cCoruna\u201d by its developers, contained five full iOS exploit chains and a total of 23 exploits. The core technical value of this exploit kit lies in its comprehensive collection of iOS exploits, with the most advanced ones using non-public explo",
       "published": "2026-03-03 14:00:00",
       "timestamp": 1772546400
+    },
+    {
+      "id": "90f482ecb14816838b88a9bcf0efcc4e78f255f8",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21385 Qualcomm Multiple Chipsets Memory Corruption Vulnerability CVE-2026-22719 Broadcom VMware Aria Operations Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk",
+      "published": "2026-03-03 12:00:00",
+      "timestamp": 1772539200
     },
     {
       "id": "bf447f5a40a4768a9f9e176ca6dce003d4d2fd59",
@@ -300,16 +320,6 @@
       "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry. The packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
       "published": "2026-03-02 08:44:00",
       "timestamp": 1772441040
-    },
-    {
-      "id": "28109e0308e177f1b9d84f6b6e1e7bb6304313a7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
-      "summary": "Security researchers have disclosed a high-severity vulnerability dubbed \"ClawJacked\" in the popular AI agent OpenClaw that allowed a malicious website to silently bruteforce access to a locally running instance and take control over it. [...]",
-      "published": "2026-03-01 21:44:55",
-      "timestamp": 1772401495
     },
     {
       "id": "30336fcde526879c8f392dd84b3724524b495ff4",
@@ -632,7 +642,7 @@
       "timestamp": 1771959120
     },
     {
-      "id": "e01cc199a81459d08ddae7db45e1c92c7a5499f1",
+      "id": "0bab329079f2fd75175d40333cf97abd19e7b1c1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Developer-targeting campaign using malicious Next.js repositories",
@@ -1312,16 +1322,6 @@
       "timestamp": 1766404800
     },
     {
-      "id": "b12d0be9aff8b694617647b23c6101270561805f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-14733 WatchGuard Firebox Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known ",
-      "published": "2025-12-19 12:00:00",
-      "timestamp": 1766145600
-    },
-    {
       "id": "52e3535af2e0b716da6dbca396bad03a3a4b8ac3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1332,14 +1332,14 @@
       "timestamp": 1766145600
     },
     {
-      "id": "648979583c8203a702edf1fd94f43f6d842ce7be",
+      "id": "b12d0be9aff8b694617647b23c6101270561805f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Releases Nine Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/18/cisa-releases-nine-industrial-control-systems-advisories",
-      "summary": "CISA released nine Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-352-01 Inductive Automation Ignition ICSA-25-352-02 Schneider Electric EcoStruxure Foxboro DCS Advisor ICSA-25-352-03 National Instruments LabView ICSA-25-352-04 Mitsubishi Electric Iconics Digital Solutions and Mitsubishi Electrics Products ICSA-25-352-05 Siemens Interniche IP-Stack ICSA-25-352-06 Advant",
-      "published": "2025-12-18 12:00:00",
-      "timestamp": 1766059200
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2025/12/19/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-14733 WatchGuard Firebox Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known ",
+      "published": "2025-12-19 12:00:00",
+      "timestamp": 1766145600
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
