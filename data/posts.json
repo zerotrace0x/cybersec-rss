@@ -1,6 +1,46 @@
 {
-  "generated_at": 1772703018,
+  "generated_at": 1772713869,
   "items": [
+    {
+      "id": "06bac53d602698cc6fecdfaa5ab85ec5bc0661a6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Dust Specter Targets Iraqi Officials with New SPLITDROP and GHOSTFORM Malware",
+      "link": "https://thehackernews.com/2026/03/dust-specter-targets-iraqi-officials.html",
+      "summary": "A suspected Iran-nexus threat actor has been attributed to a campaign targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs to deliver a set of never-before-seen malware. Zscaler ThreatLabz, which observed the activity in January 2026, is tracking the cluster under the name Dust Specter. The attacks, which manifest in the form of two different",
+      "published": "2026-03-05 12:01:00",
+      "timestamp": 1772712060
+    },
+    {
+      "id": "f024cfb97e643608b1c222416c6041f716959d04",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Where Multi-Factor Authentication Stops and Credential Abuse Starts",
+      "link": "https://thehackernews.com/2026/03/where-multi-factor-authentication-stops.html",
+      "summary": "Organizations typically roll out multi-factor authentication (MFA) and assume stolen passwords are no longer enough to access systems. In Windows environments, that assumption is often wrong. Attackers still compromise networks every day using valid credentials. The issue is not MFA itself, but coverage. Enforced through an identity provider (IdP) such as Microsoft Entra ID, Okta, or",
+      "published": "2026-03-05 11:00:00",
+      "timestamp": 1772708400
+    },
+    {
+      "id": "ee02ddad5e98ff3485872dad2c08139657d1a047",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
+      "summary": "\u200bCisco has flagged two Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devices. [...]",
+      "published": "2026-03-05 10:32:19",
+      "timestamp": 1772706739
+    },
+    {
+      "id": "09f80d7fb7f9f489845e5692b5e8e58c38fad05d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+      "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Russian cyber campaign that has targeted Ukrainian entities with two previously undocumented malware families named BadPaw and MeowMeow. \"The attack chain initiates with a phishing email containing a link to a ZIP archive. Once extracted, an initial HTA file displays a lure document written in Ukrainian concerning border crossing appeals",
+      "published": "2026-03-05 10:10:00",
+      "timestamp": 1772705400
+    },
     {
       "id": "1241dc0a76e760709d1405d7f641ab46867c274c",
       "source": "BleepingComputer",
@@ -230,16 +270,6 @@
       "summary": "The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
       "published": "2026-03-03 23:00:53",
       "timestamp": 1772578853
-    },
-    {
-      "id": "5dfdad0228618e9aa4ef44a2955bae0ba6986b03",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Facebook accounts unavailable in worldwide outage",
-      "link": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
-      "summary": "Social media giant Facebook is currently experiencing a massive worldwide outage, preventing users from accessing their accounts. [...]",
-      "published": "2026-03-03 22:38:55",
-      "timestamp": 1772577535
     },
     {
       "id": "3e2db80fb4e8a4763eec8edf9f0843aeb0e56fc8",
@@ -732,16 +762,6 @@
       "timestamp": 1771996980
     },
     {
-      "id": "e48f21645ef296ba17e408d5e7fdf3b33ccdd92b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN",
-      "link": "https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html",
-      "summary": "A vulnerability in GitHub Codespaces could have been exploited by bad actors to seize control of repositories by injecting malicious Copilot instructions in a GitHub issue. The artificial intelligence (AI)-driven vulnerability has been codenamed RoguePilot by Orca Security. It has since been patched by Microsoft following responsible disclosure. \"Attackers can craft hidden instructions inside a",
-      "published": "2026-02-24 18:52:00",
-      "timestamp": 1771959120
-    },
-    {
       "id": "0bab329079f2fd75175d40333cf97abd19e7b1c1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -750,16 +770,6 @@
       "summary": "A developer-targeting campaign leveraged malicious Next.js repositories to trigger a covert RCE-to-C2 chain through standard build workflows. The activity demonstrates how staged command-and-control can hide inside routine development tasks. The post Developer-targeting campaign using malicious Next.js repositories appeared first on Microsoft Security Blog.",
       "published": "2026-02-24 17:28:24",
       "timestamp": 1771954104
-    },
-    {
-      "id": "ce61596bbf3c5c660fcf08061e3b2c490d0f2b12",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
-      "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
-      "summary": "A Russia-aligned threat actor has been observed targeting a European financial institution as part of a social engineering attack to likely facilitate intelligence gathering or financial theft, signaling a possible expansion of the threat actor's targeting beyond Ukraine and into entities supporting the war-torn nation. The activity, which targeted an unnamed entity involved in regional",
-      "published": "2026-02-24 14:21:00",
-      "timestamp": 1771942860
     },
     {
       "id": "e23747d785250952a373cef5f7945ed15fcb228f",
@@ -780,16 +790,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living lis",
       "published": "2026-02-24 12:00:00",
       "timestamp": 1771934400
-    },
-    {
-      "id": "bd3f25525a2dccc64ec8997cbef9b9b36b68c556",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
-      "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
-      "summary": "Most identity programs still prioritize work the way they prioritize IT tickets: by volume, loudness, or \u201cwhat failed a control check.\u201d That approach breaks the moment your environment stops being mostly-human and mostly-onboarded. In modern enterprises, identity risk is created by a compound of factors: control posture, hygiene, business context, and intent. Any one of these can perhaps be",
-      "published": "2026-02-24 11:58:00",
-      "timestamp": 1771934280
     },
     {
       "id": "9c66027918fa5ebdee5c540ea05150e51371ef6a",
