@@ -1,6 +1,66 @@
 {
-  "generated_at": 1772799979,
+  "generated_at": 1772810691,
   "items": [
+    {
+      "id": "dca433fe0e9b6ffaf81e5004c32983d5cd5e09c2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
+      "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
+      "summary": "The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants. The activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like",
+      "published": "2026-03-06 15:11:00",
+      "timestamp": 1772809860
+    },
+    {
+      "id": "f5c6223df1aff680807c8e03b2d0241ea3efaf7c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+      "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
+      "summary": "EC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite, with four new role-based AI certifications debuting alongside Certified CISO v4, an overhauled executive cyber leadership program. [...]",
+      "published": "2026-03-06 15:00:10",
+      "timestamp": 1772809210
+    },
+    {
+      "id": "b1ab05f9c9c191b2a960b448ab9023dc31d10e8e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
+      "summary": "Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command line interface (CLI) tools. [...]",
+      "published": "2026-03-06 15:00:00",
+      "timestamp": 1772809200
+    },
+    {
+      "id": "d3742a614f6beca0bc8cc4fec119c81fd5ffa14c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
+      "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
+      "summary": "Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT. The stealthy attack chain has been codenamed VOID#GEIST by Securonix Threat Research. At a high level, the obfuscated batch script is used to deploy a second",
+      "published": "2026-03-06 14:33:00",
+      "timestamp": 1772807580
+    },
+    {
+      "id": "5e98eb087ad5ec8826edc9de832f2fbdef9fafd5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
+      "summary": "Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders. [...]",
+      "published": "2026-03-06 14:21:09",
+      "timestamp": 1772806869
+    },
+    {
+      "id": "ad6e453bbf38397b5f47d3015d6ef106d7747e5d",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Proactive Preparation and Hardening Against Destructive Attacks: 2026 Edition",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/",
+      "summary": "Written by: Matthew McWhirt, Bhavesh Dhake, Emilio Oropeza, Gautam Krishnan, Stuart Carrera, Greg Blaum, Michael Rudden Background Threat actors leverage destructive malware to destroy data, eliminate evidence of malicious activity, or manipulate systems in a way that renders them inoperable. Destructive cyberattacks can be a powerful means to achieve strategic or tactical objectives; however, the risk of reprisal is likely to limit the frequency of use to very select incidents. Destructive cybe",
+      "published": "2026-03-06 14:00:00",
+      "timestamp": 1772805600
+    },
     {
       "id": "4cf69c6c922c99768af1fd48083078d9a1d8602c",
       "source": "The Hacker News",
@@ -302,36 +362,6 @@
       "timestamp": 1772692440
     },
     {
-      "id": "514ee1862e264b4ca2e44db9e00be2a51857e3a0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Bitwarden adds support for passkey login on Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
-      "summary": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authentication. [...]",
-      "published": "2026-03-04 22:34:58",
-      "timestamp": 1772663698
-    },
-    {
-      "id": "9538abc0875cd819119005c756bad0b5a82b6cb1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
-      "link": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/",
-      "summary": "A maximum severity vulnerability in the FreeScout helpdesk platform allows hackers to achieve remote code execution without any user interaction or authentication. [...]",
-      "published": "2026-03-04 21:51:32",
-      "timestamp": 1772661092
-    },
-    {
-      "id": "27e204fea9e52ad70a6df24eb833dd043be62f51",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 10 KB5075039 update fixes broken Recovery Environment",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/",
-      "summary": "Microsoft has released the KB5075039 Windows Recovery Environment update for Windows 10 to fix a long-standing issue that prevented some users from accessing the Recovery environment. [...]",
-      "published": "2026-03-04 21:03:39",
-      "timestamp": 1772658219
-    },
-    {
       "id": "61fd73de96e5a5f99878b0531525da1bdc486e13",
       "source": "The Hacker News",
       "source_category": "General",
@@ -512,7 +542,7 @@
       "timestamp": 1772520780
     },
     {
-      "id": "30175220c61eb07195a37d1fbe79071c6e1ac29c",
+      "id": "addda61a809b8ff18d0bf0c612d1c89edd8af2e5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "OAuth redirection abuse enables phishing and malware delivery",
@@ -762,26 +792,6 @@
       "timestamp": 1772092800
     },
     {
-      "id": "885d7444b83dd5115b8cc3b36aa1ac325d38c8cd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-      "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-      "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023. The vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
-      "published": "2026-02-26 06:13:00",
-      "timestamp": 1772086380
-    },
-    {
-      "id": "0fce4f1516d5407cc7e2a67f0112e9448954cbc2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
-      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
-      "summary": "Google on Wednesday disclosed that it worked with industry partners to disrupt the infrastructure of a suspected China-nexus cyber espionage group tracked as UNC2814 that breached at least 53 organizations across 42 countries. \"This prolific, elusive actor has a long history of targeting international governments and global telecommunications organizations across Africa, Asia, and the Americas,\"",
-      "published": "2026-02-25 17:46:00",
-      "timestamp": 1772041560
-    },
-    {
       "id": "c7780efd0e6a0d77c70ba8664bac9a869e49ce82",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -862,7 +872,7 @@
       "timestamp": 1771588800
     },
     {
-      "id": "a11889b0626ca0bb97d21039c7913043c3f7a9bf",
+      "id": "0593a49f8bf128112b1e44c77f79c4561fdf957a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "New e-book:\u00a0Establishing\u00a0a proactive defense with\u00a0Microsoft Security Exposure Management",
@@ -872,7 +882,7 @@
       "timestamp": 1771520400
     },
     {
-      "id": "3b75a1ec325a885dcf61b84630f37749a5f3233d",
+      "id": "5e3b0074d1254e8b4c18f64e46d753a978388c6c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Running OpenClaw safely: identity, isolation, and runtime risk",
@@ -1440,16 +1450,6 @@
       "summary": "Written by: Stallone D'Souza, Praveeth DSouza, Bill Glynn, Kevin O'Flynn, Yash Gupta Welcome to the Frontline Bulletin Series Straight from Mandiant Threat Defense, the \"Frontline Bulletin\" series brings you the latest on the threats we are seeing in the wild right now, equipping our community to understand and respond. Introduction Mandiant Threat Defense has uncovered exploitation of an unauthenticated access vulnerability within Gladinet\u2019s Triofox file-sharing and remote access platform. This",
       "published": "2025-11-10 14:00:00",
       "timestamp": 1762783200
-    },
-    {
-      "id": "b94080fc64fa47b8af55092e7b94f253cc38c273",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "GTIG AI Threat Tracker: Advances in Threat Actor Usage of AI Tools",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/threat-actor-usage-of-ai-tools/",
-      "summary": "Executive Summary Based on recent analysis of the broader threat landscape, Google Threat Intelligence Group (GTIG) has identified a shift that occurred within the last year: adversaries are no longer leveraging artificial intelligence (AI) just for productivity gains, they are deploying novel AI-enabled malware in active operations. This marks a new operational phase of AI abuse, involving tools that dynamically alter behavior mid-execution. This report serves as an update to our January 2025 a",
-      "published": "2025-11-05 14:00:00",
-      "timestamp": 1762351200
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
