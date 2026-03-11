@@ -1,6 +1,36 @@
 {
-  "generated_at": 1773232217,
+  "generated_at": 1773243316,
   "items": [
+    {
+      "id": "849fb0e2011ed70a46aaa4d4de1362b7943dfe4b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
+      "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
+      "summary": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution. The vulnerabilities are listed below - CVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE) CVE-2026-27493 (CVSS score: 9.5) - Unauthenticated",
+      "published": "2026-03-11 14:51:00",
+      "timestamp": 1773240660
+    },
+    {
+      "id": "408c430d0ff5e9707155d3cd707a0c72c6dc9b47",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
+      "summary": "Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
+      "published": "2026-03-11 13:29:29",
+      "timestamp": 1773235769
+    },
+    {
+      "id": "f3cd24e26b16b3400453726991a24eb65c0927db",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
+      "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
+      "summary": "Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia. The effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon",
+      "published": "2026-03-11 13:15:00",
+      "timestamp": 1773234900
+    },
     {
       "id": "679448decdda4c22367ca84a8f2f7f2b55444eec",
       "source": "The Hacker News",
@@ -280,16 +310,6 @@
       "summary": "Hackers contacted employees at financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Assist and deploy a new piece of malware called A0Backdoor. [...]",
       "published": "2026-03-09 22:50:38",
       "timestamp": 1773096638
-    },
-    {
-      "id": "f1c0416d6aa022cb487cf0e7f03bf5877fb77ad1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google: Cloud attacks exploit flaws more than weak credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
-      "summary": "Hackers are increasingly exploiting newly disclosed vulnerabilities in third-party software to gain initial access to cloud environments, with the window for attacks shrinking from weeks to just days. [...]",
-      "published": "2026-03-09 21:45:34",
-      "timestamp": 1773092734
     },
     {
       "id": "2c7407afa4171e67ddae66230a2ccaac09205d41",
@@ -780,26 +800,6 @@
       "summary": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers. The activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
       "published": "2026-03-03 09:20:00",
       "timestamp": 1772529600
-    },
-    {
-      "id": "6b703673b16d2d2a0a437133cbad82a27cc664e2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
-      "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-      "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild. The vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component. \"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
-      "published": "2026-03-03 07:08:00",
-      "timestamp": 1772521680
-    },
-    {
-      "id": "f32c63be95eb5d4a25694a449c0158ea1a18b6df",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
-      "link": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-      "summary": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh. The activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
-      "published": "2026-03-03 06:53:00",
-      "timestamp": 1772520780
     },
     {
       "id": "30175220c61eb07195a37d1fbe79071c6e1ac29c",
