@@ -1,6 +1,36 @@
 {
-  "generated_at": 1773254214,
+  "generated_at": 1773263977,
   "items": [
+    {
+      "id": "e180dfb724f2a9cb39428d6f621bce6de7f7853e",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Contagious Interview: Malware delivered through fake developer job interviews",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/",
+      "summary": "The Contagious Interview campaign weaponizes job recruitment to target developers. Threat actors pose as recruiters from crypto and AI companies and deliver backdoors such as OtterCookie and FlexibleFerret through fake coding assessments. The malware then steals API tokens, cloud credentials, crypto wallets, and source code. The post Contagious Interview: Malware delivered through fake developer job interviews appeared first on Microsoft Security Blog.",
+      "published": "2026-03-11 21:00:50",
+      "timestamp": 1773262850
+    },
+    {
+      "id": "425b1fc224a31a802a74de3b21044dfa7dbd40d9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WhatsApp introduces parent-managed accounts for pre-teens",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/",
+      "summary": "WhatsApp has begun rolling out parent-managed accounts for pre-teens, allowing parents and guardians to decide who can contact them and which groups they can join. [...]",
+      "published": "2026-03-11 20:06:39",
+      "timestamp": 1773259599
+    },
+    {
+      "id": "816add3c73ea4f1cdba93b41c2ee353f94398f33",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
+      "summary": "An SQL injection vulnerability in Ally, a WordPress plugin from Elementor for web accessibility and usability with more than 400,000 installations, could be exploited to steal sensitive data without authentication. [...]",
+      "published": "2026-03-11 19:38:14",
+      "timestamp": 1773257894
+    },
     {
       "id": "5480353b8a1d90e4b2f53a7c2dd981066ae141fe",
       "source": "BleepingComputer",
@@ -272,16 +302,6 @@
       "timestamp": 1773154917
     },
     {
-      "id": "18cda7030d1c024522b550d6a56ef9eb124a3556",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
-      "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
-      "summary": "Malware is evolving to evade sandboxes by pretending to be a real human behind the keyboard. The Picus Red Report 2026 shows 80% of top attacker techniques now focus on evasion and persistence, including geometry-based cursor tests and CPU timing checks. [...]",
-      "published": "2026-03-10 14:02:12",
-      "timestamp": 1773151332
-    },
-    {
       "id": "6c78409cd057fa03f1cb67341f02ba956532f7f8",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +310,6 @@
       "summary": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments. The shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
       "published": "2026-03-10 13:20:00",
       "timestamp": 1773148800
-    },
-    {
-      "id": "3eb93783ec3b443b24eff5207a2d1617717ba9bd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
-      "summary": "CISA flagged a high-severity Ivanti Endpoint Manager (EPM) vulnerability as actively exploited in attacks and ordered U.S. federal agencies to patch systems within three weeks. [...]",
-      "published": "2026-03-10 11:36:13",
-      "timestamp": 1773142573
     },
     {
       "id": "8c9e86b47e3235694edd9af7e862835631d3358e",
@@ -900,16 +910,6 @@
       "summary": "A developer-targeting campaign leveraged malicious Next.js repositories to trigger a covert RCE-to-C2 chain through standard build workflows. The activity demonstrates how staged command-and-control can hide inside routine development tasks. The post Developer-targeting campaign using malicious Next.js repositories appeared first on Microsoft Security Blog.",
       "published": "2026-02-24 17:28:24",
       "timestamp": 1771954104
-    },
-    {
-      "id": "e23747d785250952a373cef5f7945ed15fcb228f",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Scaling security operations with Microsoft Defender autonomous defense and expert-led services",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/",
-      "summary": "AI-powered cyberattacks outpace aging SOC tools, and this new guide explains why manual defense fails and how autonomous, expert-led security transforms modern protection. The post Scaling security operations with Microsoft Defender autonomous defense and expert-led services appeared first on Microsoft Security Blog.",
-      "published": "2026-02-24 13:00:00",
-      "timestamp": 1771938000
     },
     {
       "id": "d752d1a5c47c7133c43e13d6c3ef8204fed59de7",
