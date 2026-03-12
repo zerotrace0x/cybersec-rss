@@ -1,6 +1,66 @@
 {
-  "generated_at": 1773330230,
+  "generated_at": 1773340530,
   "items": [
+    {
+      "id": "335048e3b80934d8d491ec9e4b0bc242b241aeec",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
+      "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cybercrime ecosystem. The malware, which is designed to infect Windows systems and was first discovered last month, has been codenamed VENON by Brazilian",
+      "published": "2026-03-12 17:31:00",
+      "timestamp": 1773336660
+    },
+    {
+      "id": "260e20c6e154fed01d99ebde42148d1dd114acd3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
+      "summary": "Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163. \"Although still relatively unspectacular, AI-generated malware such as Slopoly shows how easily threat actors can weaponize AI to develop new malware frameworks in a fraction of the time it used to take",
+      "published": "2026-03-12 17:02:00",
+      "timestamp": 1773334920
+    },
+    {
+      "id": "0c72c68e1b0a5f48c7a27511d18400b1ea7840db",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/",
+      "summary": "Storm-2561 uses SEO poisoning to push fake VPN downloads that install signed trojans and steal VPN credentials. Active since 2025, Storm-2561 mimics trusted brands and abuses legitimate services. This post reviews TTPs, IOCs, and mitigation guidance. The post Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft appeared first on Microsoft Security Blog.",
+      "published": "2026-03-12 17:00:00",
+      "timestamp": 1773334800
+    },
+    {
+      "id": "c9665f594060a98281c455a9b38f64d2aee957e1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
+      "summary": "Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution (RCE) vulnerabilities. [...]",
+      "published": "2026-03-12 16:59:20",
+      "timestamp": 1773334760
+    },
+    {
+      "id": "a64e057af4f960df0f74787cff70bfd6083bb895",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US disrupts SocksEscort proxy network powered by Linux malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
+      "summary": "Law enforcement agencies in the U.S. and Europe along with private partners have disrupted the SocksEscort cybercrime proxy network that used only edge devices compromised via the AVRecon malware for Linux. [...]",
+      "published": "2026-03-12 16:19:56",
+      "timestamp": 1773332396
+    },
+    {
+      "id": "faff9c324403aad9d1425dbd6252c3158682fa38",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "From transparency to action: What the latest Microsoft email security benchmark reveals",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/from-transparency-to-action-what-the-latest-microsoft-email-security-benchmark-reveals/",
+      "summary": "The latest Microsoft benchmarking data reveals how Microsoft Defender mitigates modern email threats compared to SEG and ICES vendors. The post From transparency to action: What the latest Microsoft email security benchmark reveals appeared first on Microsoft Security Blog.",
+      "published": "2026-03-12 16:00:00",
+      "timestamp": 1773331200
+    },
     {
       "id": "8856f9dbc7f9b83de9db469329b433c545236c85",
       "source": "BleepingComputer",
@@ -30,6 +90,16 @@
       "summary": "Stolen airline miles are converted into flights and hotel stays, then resold as discounted travel. Flare shows how cybercriminals and underground markets treat loyalty accounts like tradable currency. [...]",
       "published": "2026-03-12 14:05:15",
       "timestamp": 1773324315
+    },
+    {
+      "id": "f7cdebdaff68d289319056fdbcdd7e5db3a25b8a",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Detecting and analyzing prompt abuse in AI tools",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/detecting-analyzing-prompt-abuse-in-ai-tools/",
+      "summary": "Hidden instructions in content can subtly bias AI, and our scenario shows how prompt injection works, highlighting the need for oversight and a structured response playbook. The post Detecting and analyzing prompt abuse in AI tools appeared first on Microsoft Security Blog.",
+      "published": "2026-03-12 14:00:00",
+      "timestamp": 1773324000
     },
     {
       "id": "88077d4215b3fccc496e73ebc4b9e6d5bb0cbd73",
@@ -310,26 +380,6 @@
       "summary": "A new Android malware named BeatBanker can hijack devices and tricks users into installing it by posing as a Starlink app on websites masquerading as the official Google Play Store. [...]",
       "published": "2026-03-10 21:27:59",
       "timestamp": 1773178079
-    },
-    {
-      "id": "c061234ce5e80a495b032c0ac36419e28fc07fcd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/",
-      "summary": "A new technique dubbed \"Zombie ZIP\" helps conceal payloads in compressed files specially created to avoid detection from security solutions such as antivirus and endpoint detection and response (EDR) products. [...]",
-      "published": "2026-03-10 20:05:39",
-      "timestamp": 1773173139
-    },
-    {
-      "id": "8d75ead46abbadab02e0e4b28e4db46e17da9ce3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases Windows 10 KB5078885 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days and an issue that prevent some devices from shutting down. [...]",
-      "published": "2026-03-10 18:23:35",
-      "timestamp": 1773167015
     },
     {
       "id": "1c9424c39fee8d513a857428681c48d8422b68d7",
@@ -782,26 +832,6 @@
       "timestamp": 1772623800
     },
     {
-      "id": "a65f1ab5e52092ec70c9aca409fb40899cbd452f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
-      "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
-      "summary": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems. The names of the packages are listed below - nhattuanbl/lara-helper (37 Downloads) nhattuanbl/simple-queue (29 Downloads) nhattuanbl/lara-swagger (49 Downloads)",
-      "published": "2026-03-04 09:37:00",
-      "timestamp": 1772617020
-    },
-    {
-      "id": "c3687c5927e2427e4cff277adab6098078ef47ff",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
-      "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
-      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024. \"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said",
-      "published": "2026-03-04 08:14:00",
-      "timestamp": 1772612040
-    },
-    {
       "id": "3e2db80fb4e8a4763eec8edf9f0843aeb0e56fc8",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -832,16 +862,6 @@
       "timestamp": 1772539200
     },
     {
-      "id": "30175220c61eb07195a37d1fbe79071c6e1ac29c",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "OAuth redirection abuse enables phishing and malware delivery",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/02/oauth-redirection-abuse-enables-phishing-malware-delivery/",
-      "summary": "OAuth redirection is being repurposed as a phishing delivery path. Trusted authentication flows are weaponized to move users from legitimate sign\u2011in pages to attacker\u2011controlled infrastructure. The post OAuth redirection abuse enables phishing and malware delivery appeared first on Microsoft Security Blog.",
-      "published": "2026-03-02 19:29:53",
-      "timestamp": 1772479793
-    },
-    {
       "id": "4a88207c7de2fb319c2e00de66ba9cb1c6c48cc8",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -850,16 +870,6 @@
       "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines wh",
       "published": "2026-02-28 12:01:57",
       "timestamp": 1772280117
-    },
-    {
-      "id": "fc9aa6c672e576fcc9ec5c2e2eab81b7d9bc7ccc",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Threat modeling AI applications",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/26/threat-modeling-ai-applications/",
-      "summary": "AI threat modeling helps teams identify misuse, emergent risk, and failure modes in probabilistic and agentic AI systems. The post Threat modeling AI applications appeared first on Microsoft Security Blog.",
-      "published": "2026-02-26 17:04:08",
-      "timestamp": 1772125448
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
@@ -900,16 +910,6 @@
       "summary": "The purpose of this Alert is to provide resources for organizations with Cisco Software-Defined Wide-Area Networking (SD-WAN) systems, including Federal Civilian Executive Branch (FCEB) agencies, to address ongoing exploitation of multiple vulnerabilities. Notably, the Cybersecurity and Infrastructure Security Agency (CISA) has added CVE-2026-20127 and CVE-2022-20775 to its Known Exploited Vulnerabilities (KEV) Catalog on Feb. 25, 2026. As a result of the malicious cyber activity and vulnerabili",
       "published": "2026-02-25 12:00:00",
       "timestamp": 1772020800
-    },
-    {
-      "id": "0bab329079f2fd75175d40333cf97abd19e7b1c1",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Developer-targeting campaign using malicious Next.js repositories",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/",
-      "summary": "A developer-targeting campaign leveraged malicious Next.js repositories to trigger a covert RCE-to-C2 chain through standard build workflows. The activity demonstrates how staged command-and-control can hide inside routine development tasks. The post Developer-targeting campaign using malicious Next.js repositories appeared first on Microsoft Security Blog.",
-      "published": "2026-02-24 17:28:24",
-      "timestamp": 1771954104
     },
     {
       "id": "d752d1a5c47c7133c43e13d6c3ef8204fed59de7",
