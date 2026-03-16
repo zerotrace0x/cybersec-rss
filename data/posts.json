@@ -1,6 +1,56 @@
 {
-  "generated_at": 1773676348,
+  "generated_at": 1773686600,
   "items": [
+    {
+      "id": "1503acfa630871a7067c12563adb4d2ae10da950",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "summary": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
+      "published": "2026-03-16 18:00:22",
+      "timestamp": 1773684022
+    },
+    {
+      "id": "d016ade899f43097c22215613fb34feaf3da5b7d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "New Microsoft Purview innovations for Fabric to safely accelerate your AI transformation",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-microsoft-purview-innovations-for-fabric-to-safely-accelerate-your-ai-transf/4502156",
+      "summary": "As organizations adopt AI, security and governance remain core primitives for safe AI transformation and acceleration. The post New Microsoft Purview innovations for Fabric to safely accelerate your AI transformation appeared first on Microsoft Security Blog.",
+      "published": "2026-03-16 17:10:00",
+      "timestamp": 1773681000
+    },
+    {
+      "id": "20f96fc4ce2d195032c7a19619cbebda61028d2a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK\u2019s Companies House confirms security flaw exposed business data",
+      "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
+      "summary": "Companies House, a British government agency that operates the registry for all U.K. companies, says its WebFiling service is back online after it was closed on Friday to fix a security flaw that exposed companies' information since October 2025. [...]",
+      "published": "2026-03-16 17:07:25",
+      "timestamp": 1773680845
+    },
+    {
+      "id": "65965e18c3dab69f02065885d0e771fe21096863",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Exchange Online outage blocks access to mailboxes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
+      "summary": "Microsoft is working to address an ongoing Exchange Online outage that is preventing customers from accessing their mailboxes and calendars. [...]",
+      "published": "2026-03-16 16:05:02",
+      "timestamp": 1773677102
+    },
+    {
+      "id": "23120600c04d55308a072bd7f79ff81bbd118b99",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Help on the line: How a Microsoft Teams support call led to compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/16/help-on-the-line-how-a-microsoft-teams-support-call-led-to-compromise/",
+      "summary": "A DART investigation into a Microsoft Teams voice phishing attack shows how deception and trusted tools can enable identity-led intrusions and how to stop them. The post Help on the line: How a Microsoft Teams support call led to compromise appeared first on Microsoft Security Blog.",
+      "published": "2026-03-16 16:00:00",
+      "timestamp": 1773676800
+    },
     {
       "id": "3a7faeaa4926c0116bac13f941069f47c07cc2a3",
       "source": "The Hacker News",
@@ -40,6 +90,16 @@
       "summary": "\u200bMicrosoft has removed the Samsung Galaxy Connect app from the Microsoft Store because it was causing issues on specific Samsung Galaxy Book 4 and desktop models running Windows 11. [...]",
       "published": "2026-03-16 13:14:32",
       "timestamp": 1773666872
+    },
+    {
+      "id": "a147a5125a51e185cc15b9f448356c451333c80e",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-47813 Wing FTP Server Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known ",
+      "published": "2026-03-16 12:00:00",
+      "timestamp": 1773662400
     },
     {
       "id": "6caee057cd54d01c2ef68ac8a347fecfcad3148b",
@@ -252,16 +312,6 @@
       "timestamp": 1773408480
     },
     {
-      "id": "5c88ee075ac9a566440bcf24ed9003b58b388af0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fake enterprise VPN sites used to steal company credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/",
-      "summary": "A threat actor tracked as Storm-2561 is distributing fake enterprise VPN clients from Ivanti, Cisco, and Fortinet to steal VPN credentials from unsuspecting users. [...]",
-      "published": "2026-03-13 13:23:28",
-      "timestamp": 1773408208
-    },
-    {
       "id": "4d088439bc14a189f2f135f1d6e50db1f7b9cffe",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -290,26 +340,6 @@
       "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees. The nine confused deputy vulnerabilities have been collectively codenamed CrackArmor by the Qualys Threat Research Unit (TRU). The",
       "published": "2026-03-13 08:18:00",
       "timestamp": 1773389880
-    },
-    {
-      "id": "518d03c89f64cf71eb945989a0c5f3f4158b9e9f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Starbucks discloses data breach affecting hundreds of employees",
-      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
-      "summary": "Starbucks has disclosed a data breach affecting hundreds of employees after threat actors gained access to their Starbucks Partner Central accounts. [...]",
-      "published": "2026-03-13 08:16:55",
-      "timestamp": 1773389815
-    },
-    {
-      "id": "27e8624b00c43bb1e18e06380d0968e554c344af",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google fixes two new Chrome zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
-      "summary": "Google has released emergency security updates to patch two high-severity Chrome vulnerabilities exploited in zero-day attacks. [...]",
-      "published": "2026-03-13 06:56:58",
-      "timestamp": 1773385018
     },
     {
       "id": "caacd779865401f69c4483de6cf7db5c0b39b9a6",
@@ -842,26 +872,6 @@
       "timestamp": 1772697600
     },
     {
-      "id": "dc23eb4461fd21256957d7dfd5b6364c8bc13014",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/04/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/",
-      "summary": "Tycoon2FA has become a leading phishing-as-a-service (PhaaS) platforms, enabling campaigns that reach over 500,000 organizations monthly, prompting Microsoft\u2019s Digital Crimes Unit (DCU) to work with Europol and industry partners to facilitate a disruption of Tycoon2FA\u2019s infrastructure and operations. The post Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale appeared first on Microsoft Security Blog.",
-      "published": "2026-03-04 16:04:24",
-      "timestamp": 1772640264
-    },
-    {
-      "id": "a64fb9f3691036ba9c374034fb6600ba9f6c93df",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Signed malware impersonating workplace apps deploys RMM backdoors",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/03/signed-malware-impersonating-workplace-apps-deploys-rmm-backdoors/",
-      "summary": "Signed malware backed by a stolen EV certificate deployed legitimate RMM tools to gain persistent access inside enterprise environments. Organizations must harden certificate controls and monitor RMM activity to reduce exposure. The post Signed malware impersonating workplace apps deploys RMM backdoors appeared first on Microsoft Security Blog.",
-      "published": "2026-03-03 21:11:03",
-      "timestamp": 1772572263
-    },
-    {
       "id": "f118722ea9b6f9f7d29f0bd4e3d22edaa531e7ed",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1370,16 +1380,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-14847 MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established th",
       "published": "2025-12-29 12:00:00",
       "timestamp": 1767009600
-    },
-    {
-      "id": "9ff6eb41610e5fe0d002b965768ab4db8bbf3371",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases One Industrial Control Systems Advisory",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/23/cisa-releases-one-industrial-control-systems-advisory",
-      "summary": "CISA released one Industrial Control Systems (ICS) Advisory. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-177-01 Mitsubishi Electric Air Conditioning Systems (Update B) CISA encourages users and administrators to review the newly released ICS advisory for technical details and mitigations.",
-      "published": "2025-12-23 12:00:00",
-      "timestamp": 1766491200
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
