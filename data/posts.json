@@ -1,6 +1,86 @@
 {
-  "generated_at": 1773837554,
+  "generated_at": 1773849459,
   "items": [
+    {
+      "id": "bd313657c3e8514fe4cd47bc787813bc0a165a75",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
+      "summary": "Marquis, a Texas-based financial services provider, revealed this week that a ransomware gang stole the data of over 670,000 individuals in an August 2025 cyberattack that also disrupted operations at 74 banks across the United States. [...]",
+      "published": "2026-03-18 15:32:39",
+      "timestamp": 1773847959
+    },
+    {
+      "id": "7b1fc95f26f6a3bfbfb9a2bdc31fdd4d656348d9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
+      "summary": "Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]",
+      "published": "2026-03-18 14:05:15",
+      "timestamp": 1773842715
+    },
+    {
+      "id": "fe210cb3ff61d84963444c155b83e64a1884d90f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
+      "summary": "A new exploit kit for iOS devices and delivery framework dubbed \"Darksword\" has been used to steal a wide range of personal information, including data from cryptocurrency wallet app. [...]",
+      "published": "2026-03-18 14:02:08",
+      "timestamp": 1773842528
+    },
+    {
+      "id": "e301ed5156e734a8ba607d80cf96c07dec6e0ef9",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "The Proliferation of DarkSword: iOS Exploit Chain Adopted by Multiple Threat Actors",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain/",
+      "summary": "Introduction Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least November 2025, GTIG has observed multiple commercial surveillance vendors and suspected state-sponsored actors utilizing DarkSword in distinct campaigns. These threat actors have deployed the exploit chain against t",
+      "published": "2026-03-18 14:00:00",
+      "timestamp": 1773842400
+    },
+    {
+      "id": "6641877c05c0049cfb6865fad98ef37959e2c2d0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nordstrom's email system abused to send crypto scams to customers",
+      "link": "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/",
+      "summary": "Customers of upscale department store chain Nordstrom received fraudulent messages from a legitimate company email address that promoted cryptocurrency scams disguised as a St. Patrick's Day promotion. [...]",
+      "published": "2026-03-18 13:55:49",
+      "timestamp": 1773842149
+    },
+    {
+      "id": "9990b0347dfe3374eb191e862908d6bfdd65dd8a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
+      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
+      "published": "2026-03-18 12:30:00",
+      "timestamp": 1773837000
+    },
+    {
+      "id": "81e61a24e5c6c7ba937cd3edbf346c7aa49a89c7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+      "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+      "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it \u2013 because the malicious code never actually touches your repo. As teams adopt Claude Code Security for static analysis, this is the exact technical boundary where AI code scanning stops and client-side runtime execution begins. A detailed analysis of where Claude",
+      "published": "2026-03-18 11:58:00",
+      "timestamp": 1773835080
+    },
+    {
+      "id": "4ec11962925d8c086611998cec314a64d070be3c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+      "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+      "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hosts. The nine vulnerabilities, discovered by Eclypsium, span four different products from GL-iNet Comet RM-1, Angeet/Yeeso ES3 KVM, Sipeed NanoKVM, and JetKVM. The most severe of them allow",
+      "published": "2026-03-18 11:42:00",
+      "timestamp": 1773834120
+    },
     {
       "id": "9ffbfb36fb851a1f4472d16aed73f0d6e452b2c7",
       "source": "The Hacker News",
@@ -30,16 +110,6 @@
       "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content. The",
       "published": "2026-03-18 06:31:00",
       "timestamp": 1773815460
-    },
-    {
-      "id": "9990b0347dfe3374eb191e862908d6bfdd65dd8a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
-      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
-      "published": "2026-03-18 05:06:00",
-      "timestamp": 1773810360
     },
     {
       "id": "5f8a5de633b28139e8cd5d52e170efbb202b669b",
@@ -212,16 +282,6 @@
       "timestamp": 1773688640
     },
     {
-      "id": "1503acfa630871a7067c12563adb4d2ae10da950",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-      "summary": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
-      "published": "2026-03-16 18:00:22",
-      "timestamp": 1773684022
-    },
-    {
       "id": "d016ade899f43097c22215613fb34feaf3da5b7d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -230,26 +290,6 @@
       "summary": "As organizations adopt AI, security and governance remain core primitives for safe AI transformation and acceleration. The post New Microsoft Purview innovations for Fabric to safely accelerate your AI transformation appeared first on Microsoft Security Blog.",
       "published": "2026-03-16 17:10:00",
       "timestamp": 1773681000
-    },
-    {
-      "id": "20f96fc4ce2d195032c7a19619cbebda61028d2a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "UK\u2019s Companies House confirms security flaw exposed business data",
-      "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
-      "summary": "Companies House, a British government agency that operates the registry for all U.K. companies, says its WebFiling service is back online after it was closed on Friday to fix a security flaw that exposed companies' information since October 2025. [...]",
-      "published": "2026-03-16 17:07:25",
-      "timestamp": 1773680845
-    },
-    {
-      "id": "65965e18c3dab69f02065885d0e771fe21096863",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Exchange Online outage blocks access to mailboxes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
-      "summary": "Microsoft is working to address an ongoing Exchange Online outage that is preventing customers from accessing their mailboxes and calendars. [...]",
-      "published": "2026-03-16 16:05:02",
-      "timestamp": 1773677102
     },
     {
       "id": "927e677d296db5a9b5a211388a058827b8b16d7f",
@@ -270,16 +310,6 @@
       "summary": "Some weeks in security feel normal. Then you read a few tabs and get that immediate \u201cah, great, we\u2019re doing this now\u201d feeling. This week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There\u2019s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,",
       "published": "2026-03-16 14:17:00",
       "timestamp": 1773670620
-    },
-    {
-      "id": "f0e7d49a35b537be59a9fd3f98f8309b312a9853",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Shadow AI is everywhere. Here\u2019s how to find and secure it.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
-      "summary": "Shadow AI is quietly spreading across SaaS environments as employees adopt new AI tools without IT oversight. Nudge Security explains how security teams can discover AI apps, monitor usage, and govern risky AI activity. [...]",
-      "published": "2026-03-16 14:01:11",
-      "timestamp": 1773669671
     },
     {
       "id": "b364a2af69b65cc1ecf6dcde15d1b09e78066db0",
@@ -750,26 +780,6 @@
       "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long\u2011term surveillance of Ukrainian military personnel. The two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News. APT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
       "published": "2026-03-10 10:55:00",
       "timestamp": 1773140100
-    },
-    {
-      "id": "8fb36c3ca1f797eb4f3d3ff5f86684adc717c6db",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
-      "link": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
-      "summary": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector. The activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive",
-      "published": "2026-03-10 07:17:00",
-      "timestamp": 1773127020
-    },
-    {
-      "id": "19232b03f982f2a066cc59de87287d476b88bcd4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability list is as follows - CVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
-      "published": "2026-03-10 06:17:00",
-      "timestamp": 1773123420
     },
     {
       "id": "04e20f550d98925877f54e274d4e6008a932510d",
@@ -1440,16 +1450,6 @@
       "summary": "Written by: Mohamed El-Banna, Daniel Lee, Mike Stokkel, Josh Goddard Overview Last year, Mandiant published a blog post highlighting suspected Iran-nexus espionage activity targeting the aerospace, aviation, and defense industries in the Middle East. In this follow-up post, Mandiant discusses additional tactics, techniques, and procedures (TTPs) observed in incidents Mandiant has responded to. Since mid-2024, Mandiant has responded to targeted campaigns by the threat group UNC1549 against the ae",
       "published": "2025-11-17 14:00:00",
       "timestamp": 1763388000
-    },
-    {
-      "id": "bfdd8d6b68d0ab7fc444d44fd4416dd23625e9a0",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Time Travel Triage: An Introduction to Time Travel Debugging using a .NET Process Hollowing Case Study",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/time-travel-debugging-using-net-process-hollowing/",
-      "summary": "Written by: Josh Stroschein, Jae Young Kim The prevalence of obfuscation and multi-stage layering in today\u2019s malware often forces analysts into tedious and manual debugging sessions. For instance, the primary challenge of analyzing pervasive commodity stealers like AgentTesla isn\u2019t identifying the malware, but quickly cutting through the obfuscated delivery chain to get to the final payload. Unlike traditional live debugging, Time Travel Debugging (TTD) captures a deterministic, shareable record",
-      "published": "2025-11-13 14:00:00",
-      "timestamp": 1763042400
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
