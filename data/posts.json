@@ -1,6 +1,16 @@
 {
-  "generated_at": 1773859207,
+  "generated_at": 1773869006,
   "items": [
+    {
+      "id": "45dc416b8c936fbbb979825c3e8c4d8b6236c081",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
+      "published": "2026-03-18 19:57:13",
+      "timestamp": 1773863833
+    },
     {
       "id": "a126c9e80489c362dcdcfc4a7d846a50fc3420eb",
       "source": "BleepingComputer",
@@ -110,6 +120,16 @@
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
       "published": "2026-03-18 12:30:00",
       "timestamp": 1773837000
+    },
+    {
+      "id": "8290d73594c3922e8452ae893c7e6a3b9200e30d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20963 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livin",
+      "published": "2026-03-18 12:00:00",
+      "timestamp": 1773835200
     },
     {
       "id": "1c19e5f7251e1ab83832358462673593abb5c4ec",
@@ -280,16 +300,6 @@
       "summary": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera. The report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and",
       "published": "2026-03-17 11:30:00",
       "timestamp": 1773747000
-    },
-    {
-      "id": "490a972376dc133e3631f774fb6a7df270661683",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
-      "summary": "Microsoft has released an emergency update to fix a Bluetooth device visibility issue on hotpatch-enabled Windows 11 Enterprise devices. [...]",
-      "published": "2026-03-17 11:07:05",
-      "timestamp": 1773745625
     },
     {
       "id": "68aaac2074c93656a845489d7ee26e6bae98e02c",
@@ -1380,16 +1390,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0556 Microsoft Office PowerPoint Code Injection Vulnerability CVE-2025-37164 HPE OneView Code Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulner",
       "published": "2026-01-07 12:00:00",
       "timestamp": 1767787200
-    },
-    {
-      "id": "e6017fc192e3953b86a08b3e45e93b30407669d3",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Releases Two Industrial Control Systems Advisories",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/30/cisa-releases-two-industrial-control-systems-advisories",
-      "summary": "CISA released two Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-364-01: WHILL C2 Wheelchairs ICSA-25-345-03: AzeoTech DAQFactory (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
-      "published": "2025-12-30 12:00:00",
-      "timestamp": 1767096000
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
