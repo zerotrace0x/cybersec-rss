@@ -1,6 +1,56 @@
 {
-  "generated_at": 1773849459,
+  "generated_at": 1773859207,
   "items": [
+    {
+      "id": "a126c9e80489c362dcdcfc4a7d846a50fc3420eb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
+      "summary": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
+      "published": "2026-03-18 18:10:35",
+      "timestamp": 1773857435
+    },
+    {
+      "id": "0d9115e2315a69c92550a63716db370411b8e5c2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs. \"The North Korean",
+      "published": "2026-03-18 17:26:00",
+      "timestamp": 1773854760
+    },
+    {
+      "id": "da55e09c431fdf7250e89beeca5a24ace92c7750",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
+      "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
+      "summary": "The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January. [...]",
+      "published": "2026-03-18 16:53:42",
+      "timestamp": 1773852822
+    },
+    {
+      "id": "a030991d01d5ebc36aac32657a4d81416549f76b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+      "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software. The vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to",
+      "published": "2026-03-18 16:00:00",
+      "timestamp": 1773849600
+    },
+    {
+      "id": "3b44767b2e9cd96c138a065c3eb7146fce28c345",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Observability for AI Systems: Strengthening visibility for proactive risk detection",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/18/observability-ai-systems-strengthening-visibility-proactive-risk-detection/",
+      "summary": "As AI systems grow more autonomous, observability becomes essential. Learn how visibility into AI behavior helps detect risk and strengthen secure development. The post Observability for AI Systems: Strengthening visibility for proactive risk detection appeared first on Microsoft Security Blog.",
+      "published": "2026-03-18 16:00:00",
+      "timestamp": 1773849600
+    },
     {
       "id": "bd313657c3e8514fe4cd47bc787813bc0a165a75",
       "source": "BleepingComputer",
@@ -60,6 +110,16 @@
       "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
       "published": "2026-03-18 12:30:00",
       "timestamp": 1773837000
+    },
+    {
+      "id": "1c19e5f7251e1ab83832358462673593abb5c4ec",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
+      "published": "2026-03-18 12:00:00",
+      "timestamp": 1773835200
     },
     {
       "id": "81e61a24e5c6c7ba937cd3edbf346c7aa49a89c7",
@@ -232,16 +292,6 @@
       "timestamp": 1773745625
     },
     {
-      "id": "6290554c65b810ddb0dbfc619fc69ec7a95f8259",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
-      "summary": "Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in. [...]",
-      "published": "2026-03-17 10:37:19",
-      "timestamp": 1773743839
-    },
-    {
       "id": "68aaac2074c93656a845489d7ee26e6bae98e02c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -272,16 +322,6 @@
       "timestamp": 1773689820
     },
     {
-      "id": "6d358aae13a28a3dff056b53514ae4bf3e8a27bd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-      "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
-      "summary": "Last week's cyberattack on medical technology giant Stryker was limited to its internal Microsoft environment and remotely wiped tens of thousands of employee devices. [...]",
-      "published": "2026-03-16 19:17:20",
-      "timestamp": 1773688640
-    },
-    {
       "id": "d016ade899f43097c22215613fb34feaf3da5b7d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -292,7 +332,7 @@
       "timestamp": 1773681000
     },
     {
-      "id": "927e677d296db5a9b5a211388a058827b8b16d7f",
+      "id": "23120600c04d55308a072bd7f79ff81bbd118b99",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Help on the line: How a Microsoft Teams support call led to compromise",
@@ -762,26 +802,6 @@
       "timestamp": 1773148800
     },
     {
-      "id": "8c9e86b47e3235694edd9af7e862835631d3358e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
-      "link": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
-      "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately. Time-to-exploit is shrinking The larger and less controlled your attack surface is,",
-      "published": "2026-03-10 11:00:00",
-      "timestamp": 1773140400
-    },
-    {
-      "id": "c840d90bdd942f09c2f3911ce9faf593fbc79c63",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
-      "link": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
-      "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long\u2011term surveillance of Ukrainian military personnel. The two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News. APT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
-      "published": "2026-03-10 10:55:00",
-      "timestamp": 1773140100
-    },
-    {
       "id": "04e20f550d98925877f54e274d4e6008a932510d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -840,16 +860,6 @@
       "summary": "This Women\u2019s History Month, we explore ways to support the next generation of female defenders at every career stage. The post Women\u2019s History Month: Encouraging women in cybersecurity at every career stage appeared first on Microsoft Security Blog.",
       "published": "2026-03-05 17:00:00",
       "timestamp": 1772730000
-    },
-    {
-      "id": "0a0ef9e0c664e5240ba23c750d8b914504494fa5",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Malicious AI Assistant Extensions Harvest LLM Chat Histories",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/05/malicious-ai-assistant-extensions-harvest-llm-chat-histories/",
-      "summary": "Malicious AI browser extensions collected LLM chat histories and browsing data from platforms such as ChatGPT and DeepSeek. With nearly 900,000 installs and activity across more than 20,000 enterprise tenants, the campaign highlights the growing risk of data exposure through browser extensions. The post Malicious AI Assistant Extensions Harvest LLM Chat Histories appeared first on Microsoft Security Blog.",
-      "published": "2026-03-05 16:02:12",
-      "timestamp": 1772726532
     },
     {
       "id": "1045eb9580ed2686c111fb6f8795bc53c620607f",
@@ -1380,16 +1390,6 @@
       "summary": "CISA released two Industrial Control Systems (ICS) Advisories. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-364-01: WHILL C2 Wheelchairs ICSA-25-345-03: AzeoTech DAQFactory (Update A) CISA encourages users and administrators to review newly released ICS Advisories for technical details and mitigations.",
       "published": "2025-12-30 12:00:00",
       "timestamp": 1767096000
-    },
-    {
-      "id": "ea42a56477c1cddbb1990ed29f91b78dc4bac5a6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2025/12/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-14847 MongoDB and MongoDB Server Improper Handling of Length Parameter Inconsistency Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established th",
-      "published": "2025-12-29 12:00:00",
-      "timestamp": 1767009600
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
