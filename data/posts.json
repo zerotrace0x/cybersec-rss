@@ -1,6 +1,56 @@
 {
-  "generated_at": 1773923568,
+  "generated_at": 1773934807,
   "items": [
+    {
+      "id": "818089a74f2b214c29ddaca6886f97ae3991c1a2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
+      "summary": "Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite (ZCS) vulnerability in attacks targeting Ukrainian government entities. [...]",
+      "published": "2026-03-19 14:55:50",
+      "timestamp": 1773932150
+    },
+    {
+      "id": "65945ae35de671d6614bda65a0b43cca9d796761",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
+      "link": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
+      "summary": "ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn\u2019t work anymore but still do. Some of it looks simple, almost sloppy, until you see how well it lands. Other bits feel a little too practical, like they\u2019re already closer to real-world use than anyone",
+      "published": "2026-03-19 14:25:00",
+      "timestamp": 1773930300
+    },
+    {
+      "id": "93c3d02ae75b7c7bb9399ae8fd5f6ced5d812e5a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
+      "link": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
+      "summary": "Password resets are often weaker than login security, making them a prime target for privilege escalation. Specops Software explains how attackers abuse reset workflows and how to secure them. [...]",
+      "published": "2026-03-19 14:00:10",
+      "timestamp": 1773928810
+    },
+    {
+      "id": "b4b4e0ab9a22acf4367c3407dafbda1a21a584f1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
+      "summary": "Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over user accounts. [...]",
+      "published": "2026-03-19 13:00:22",
+      "timestamp": 1773925222
+    },
+    {
+      "id": "2c3484b8947e1c86db8025117e3a16ccfcdad02b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+      "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+      "summary": "Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud. Perseus is built upon the foundations of Cerberus and Phoenix, at the same time evolving into a \"more flexible and capable platform\" for compromising Android devices through dropper apps distributed",
+      "published": "2026-03-19 12:43:00",
+      "timestamp": 1773924180
+    },
     {
       "id": "b9caeacb8bfa444be3dc78b816661acc2ada3a9b",
       "source": "BleepingComputer",
@@ -282,26 +332,6 @@
       "timestamp": 1773795991
     },
     {
-      "id": "1251a8df76e9fff7e8887c9547c9351c748ce7cf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
-      "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
-      "published": "2026-03-17 21:42:54",
-      "timestamp": 1773783774
-    },
-    {
-      "id": "a71a322188b55e77992ff0339c193565a9279b8e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
-      "summary": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
-      "published": "2026-03-17 18:41:59",
-      "timestamp": 1773772919
-    },
-    {
       "id": "13f2ea7d1ebbaf0734583e4fa9ea13a09e27bce3",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,16 +350,6 @@
       "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method. The use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
       "published": "2026-03-17 14:34:00",
       "timestamp": 1773758040
-    },
-    {
-      "id": "cbd2beab621a2bf43e48dfcc4a23c320a462bc2a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
-      "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure. [...]",
-      "published": "2026-03-17 14:02:12",
-      "timestamp": 1773756132
     },
     {
       "id": "e2b93b2d58d500c69a498e34d2db70f8f8baaa2f",
@@ -792,16 +812,6 @@
       "timestamp": 1773214260
     },
     {
-      "id": "11084894f25c2657886d8c8bbbb02df717bab3c2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
-      "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
-      "summary": "Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors. The Rust packages, published to crates.io, are listed below - chrono_anchor dnp3times time_calibrator time_calibrators time-sync The crates, per Socket, impersonate timeapi.io and were published between late February and early March",
-      "published": "2026-03-11 05:12:00",
-      "timestamp": 1773205920
-    },
-    {
       "id": "ace87afadcca96da79a9e533919fa3217fd1bd3a",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -810,16 +820,6 @@
       "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
       "published": "2026-03-11 00:32:51",
       "timestamp": 1773189171
-    },
-    {
-      "id": "1c9424c39fee8d513a857428681c48d8422b68d7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
-      "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks. The activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology",
-      "published": "2026-03-10 16:21:00",
-      "timestamp": 1773159660
     },
     {
       "id": "04e20f550d98925877f54e274d4e6008a932510d",
