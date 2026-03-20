@@ -1,6 +1,26 @@
 {
-  "generated_at": 1774009752,
+  "generated_at": 1774020694,
   "items": [
+    {
+      "id": "2628a497842e335ebe14950d0fca75d0d9a2616f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in Cisco Secure Firewall Management Center (FMC) by Sunday, March 22. [...]",
+      "published": "2026-03-20 15:09:12",
+      "timestamp": 1774019352
+    },
+    {
+      "id": "c40a9afee589d1a6ee902a0c289c90a541fcf9f1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
+      "summary": "Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]",
+      "published": "2026-03-20 14:01:11",
+      "timestamp": 1774015271
+    },
     {
       "id": "a6702de34acae759b423d189390c002a1dc233d8",
       "source": "The Hacker News",
@@ -30,6 +50,16 @@
       "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]",
       "published": "2026-03-20 09:33:33",
       "timestamp": 1773999213
+    },
+    {
+      "id": "646b7e00dce79a1896ded2f8bec8bbfd10c5b3df",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
+      "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
+      "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguising malicious code as an image. There is no evidence that the shortcoming has been exploited in",
+      "published": "2026-03-20 09:30:00",
+      "timestamp": 1773999000
     },
     {
       "id": "9649fbe533f118b418134e1632b20c9056f02192",
@@ -262,16 +292,6 @@
       "timestamp": 1773915203
     },
     {
-      "id": "3da2eea47f684bbf4a41fb3a2e4f8b56b28874ed",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
-      "summary": "A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned. [...]",
-      "published": "2026-03-19 10:06:38",
-      "timestamp": 1773914798
-    },
-    {
       "id": "d7d6ff72a3ba2b974b8c553dd94b825b097534c1",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +310,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild. The vulnerabilities in question are as follows - CVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting",
       "published": "2026-03-19 06:05:00",
       "timestamp": 1773900300
-    },
-    {
-      "id": "361b945ac63bc3faa76892c4aee38b90bcf36ee5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Aura confirms data breach exposing 900,000 marketing contacts",
-      "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
-      "summary": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
-      "published": "2026-03-18 22:56:50",
-      "timestamp": 1773874610
     },
     {
       "id": "0d9115e2315a69c92550a63716db370411b8e5c2",
@@ -820,16 +830,6 @@
       "summary": "The Contagious Interview campaign weaponizes job recruitment to target developers. Threat actors pose as recruiters from crypto and AI companies and deliver backdoors such as OtterCookie and FlexibleFerret through fake coding assessments. The malware then steals API tokens, cloud credentials, crypto wallets, and source code. The post Contagious Interview: Malware delivered through fake developer job interviews appeared first on Microsoft Security Blog.",
       "published": "2026-03-11 21:00:50",
       "timestamp": 1773262850
-    },
-    {
-      "id": "9deb83611520b3417e22c26799d13a080e4b63bf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
-      "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
-      "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps. The attack, at its core, takes advantage of AI browsers' tendency to reason their actions and use it against the model itself to lower their security guardrails, Guardio",
-      "published": "2026-03-11 16:38:00",
-      "timestamp": 1773247080
     },
     {
       "id": "1470e3977676fd336a27de6a76f0f2ccb5e1da3b",
