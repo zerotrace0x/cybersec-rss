@@ -1,6 +1,46 @@
 {
-  "generated_at": 1774020694,
+  "generated_at": 1774031398,
   "items": [
+    {
+      "id": "f2b38d270e9d358ade6eaf408324fb1556564753",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
+      "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
+      "summary": "An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
+      "published": "2026-03-20 17:19:02",
+      "timestamp": 1774027142
+    },
+    {
+      "id": "15bf36fa7e5767cc3bb1c0d1d3303bcc683eaacb",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/20/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents/",
+      "summary": "Excerpt: CTI-REALM is Microsoft\u2019s open-source benchmark for evaluating AI agents on real-world detection engineering\u2014turning cyber threat intelligence (CTI) into validated detections. The post CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents appeared first on Microsoft Security Blog.",
+      "published": "2026-03-20 16:19:00",
+      "timestamp": 1774023540
+    },
+    {
+      "id": "7cd9dd29cfc869bc966859826296c291a7b3829d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Secure agentic AI end-to-end",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/20/secure-agentic-ai-end-to-end/",
+      "summary": "In this agentic era, security must be woven into, and around, every layer of the AI estate. At RSAC 2026, we are delivering on that vision with new purpose-built capabilities designed to help organizations secure agents, secure their foundations, and defend using agents and experts. The post Secure agentic AI end-to-end appeared first on Microsoft Security Blog.",
+      "published": "2026-03-20 16:00:00",
+      "timestamp": 1774022400
+    },
+    {
+      "id": "3e9d67140406febec9d7051dd217afe9ea6812bc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
+      "summary": "A critical security flaw impacting Langflow has come under active exploitation within 20 hours of public disclosure, highlighting the speed at which threat actors weaponize newly published vulnerabilities. The security defect, tracked as CVE-2026-33017 (CVSS score: 9.3), is a case of missing authentication combined with code injection that could result in remote code execution. \"The POST /api/v1",
+      "published": "2026-03-20 15:15:00",
+      "timestamp": 1774019700
+    },
     {
       "id": "2628a497842e335ebe14950d0fca75d0d9a2616f",
       "source": "BleepingComputer",
@@ -20,6 +60,16 @@
       "summary": "Geopolitical tensions are driving destructive cyberattacks designed to disrupt operations, not demand ransom. CISOs must limit lateral movement and contain breaches to reduce the impact of wiper campaigns. [...]",
       "published": "2026-03-20 14:01:11",
       "timestamp": 1774015271
+    },
+    {
+      "id": "eeb66f1cd83fb2e1402aedd2f4ebf4a6900057a3",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow Vulnerability CVE-2025-32432 Craft CMS Code Injection Vulnerability CVE-2025-43510 Apple Multiple Products Improper Locking Vulnerability CVE-2025-43520 Apple Multiple Products Classic Buffer Overflow Vulnerability CVE-2025-54068 Laravel Livewire Code Injection Vulnerability These types of vulnerabilities ar",
+      "published": "2026-03-20 12:00:00",
+      "timestamp": 1774008000
     },
     {
       "id": "a6702de34acae759b423d189390c002a1dc233d8",
@@ -280,16 +330,6 @@
       "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls. Claude Code, Anthropic's AI coding agent, is now running across engineering organizations at scale. It reads files, executes shell commands, calls external APIs,",
       "published": "2026-03-19 10:58:00",
       "timestamp": 1773917880
-    },
-    {
-      "id": "481dc43bfc3077eb379a929da5daacf464a127b6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New \u2018Perseus\u2019 Android malware checks user notes for secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/",
-      "summary": "A new Android malware called Perseus is checking user-curated notes to steal sensitive information, like passwords, recovery phrases, or financial data. [...]",
-      "published": "2026-03-19 10:13:23",
-      "timestamp": 1773915203
     },
     {
       "id": "d7d6ff72a3ba2b974b8c553dd94b825b097534c1",
@@ -812,26 +852,6 @@
       "timestamp": 1773302160
     },
     {
-      "id": "9d176388a6675abc6286d804516f27b8d977783d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched",
-      "published": "2026-03-12 05:18:00",
-      "timestamp": 1773292680
-    },
-    {
-      "id": "046402f1ec1fbd84f4d3f47aa61a41bd9c94442b",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Contagious Interview: Malware delivered through fake developer job interviews",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/11/contagious-interview-malware-delivered-through-fake-developer-job-interviews/",
-      "summary": "The Contagious Interview campaign weaponizes job recruitment to target developers. Threat actors pose as recruiters from crypto and AI companies and deliver backdoors such as OtterCookie and FlexibleFerret through fake coding assessments. The malware then steals API tokens, cloud credentials, crypto wallets, and source code. The post Contagious Interview: Malware delivered through fake developer job interviews appeared first on Microsoft Security Blog.",
-      "published": "2026-03-11 21:00:50",
-      "timestamp": 1773262850
-    },
-    {
       "id": "1470e3977676fd336a27de6a76f0f2ccb5e1da3b",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -860,16 +880,6 @@
       "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
       "published": "2026-03-11 00:32:51",
       "timestamp": 1773189171
-    },
-    {
-      "id": "04e20f550d98925877f54e274d4e6008a932510d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Secure agentic AI for your Frontier Transformation",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/09/secure-agentic-ai-for-your-frontier-transformation/",
-      "summary": "Learn how Microsoft Agent 365 and Microsoft 365 E7 can help secure your Frontier Transformation. The post Secure agentic AI for your Frontier Transformation appeared first on Microsoft Security Blog.",
-      "published": "2026-03-09 13:00:00",
-      "timestamp": 1773061200
     },
     {
       "id": "b391eea731ea5ca43fce443421c8670b275163b3",
@@ -1370,16 +1380,6 @@
       "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
       "published": "2026-01-14 17:59:00",
       "timestamp": 1768413540
-    },
-    {
-      "id": "cbb7eac9a2507fd69b4da4bf8aa4ef54fe1664cf",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/13/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20805 Microsoft Windows Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of know",
-      "published": "2026-01-13 12:00:00",
-      "timestamp": 1768305600
     },
     {
       "id": "d4a4dd6f37c5689106df248c7c31dc507e5d40c0",
