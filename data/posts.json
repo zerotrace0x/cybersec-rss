@@ -1,6 +1,36 @@
 {
-  "generated_at": 1774269359,
+  "generated_at": 1774280934,
   "items": [
+    {
+      "id": "2d0df230743cb1672c670cd6c095a3c36c71b924",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Varonis Atlas: Securing AI and the Data That Powers It",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/",
+      "summary": "AI agents can access data directly, making data security the foundation of AI security. Learn more about how Varonis Atlas helps orgs see, secure, and control AI systems and the data they can reach. [...]",
+      "published": "2026-03-23 14:02:12",
+      "timestamp": 1774274532
+    },
+    {
+      "id": "0be4695152778b858e8c7e3c204dbcb39fa9113d",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "M-Trends 2026: Data, Insights, and Strategies From the Frontlines",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2026/",
+      "summary": "Every year, the cyber threat landscape forces defenders to adapt to evolving adversary tactics, techniques, and procedures (TTPs). In 2025, Mandiant observed a clear divergence in adversary pacing that closely aligns with the trends we have been documenting for defenders over the past year. On one end of the spectrum, cyber criminal groups optimized for immediate impact and deliberate recovery denial. On the other end, sophisticated cyber espionage groups and insider threats optimized for extrem",
+      "published": "2026-03-23 14:00:00",
+      "timestamp": 1774274400
+    },
+    {
+      "id": "99c36c4f847e5fe701d3dbb929365a2a7efb9574",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+      "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories. This edition covers a mix of issues: supply chain attacks hitting CI/CD setups, long-abused IoT devices being shut down, and exploits moving quickly from disclosure to real attacks. There are also new malware tricks",
+      "published": "2026-03-23 13:14:00",
+      "timestamp": 1774271640
+    },
     {
       "id": "b7931a102d9f5caf20e0e4b918a79405481bdea2",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday. [...]",
       "published": "2026-03-23 12:17:18",
       "timestamp": 1774268238
+    },
+    {
+      "id": "4ca459d2d17202caf1809ac7729f2c8ac60a1c6c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
+      "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
+      "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerful \u2013 but it\u2019s also what makes Bedrock a target. When an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint",
+      "published": "2026-03-23 11:55:00",
+      "timestamp": 1774266900
     },
     {
       "id": "f5bd7fb298cf310c4558409ec35846a472bda421",
@@ -202,7 +242,7 @@
       "timestamp": 1774023540
     },
     {
-      "id": "f87ca0f28c52b06cf60d88abe69bfc7708648138",
+      "id": "7cd9dd29cfc869bc966859826296c291a7b3829d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Secure agentic AI end-to-end",
@@ -290,16 +330,6 @@
       "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguising malicious code as an image. There is no evidence that the shortcoming has been exploited in",
       "published": "2026-03-20 09:30:00",
       "timestamp": 1773999000
-    },
-    {
-      "id": "9649fbe533f118b418134e1632b20c9056f02192",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "International joint action disrupts world\u2019s largest DDoS botnets",
-      "link": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/",
-      "summary": "Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things (IoT) devices. [...]",
-      "published": "2026-03-20 08:05:12",
-      "timestamp": 1773993912
     },
     {
       "id": "fac47ed35c70a9217d9e269000b9e482a3838834",
@@ -632,7 +662,7 @@
       "timestamp": 1773681000
     },
     {
-      "id": "927e677d296db5a9b5a211388a058827b8b16d7f",
+      "id": "23120600c04d55308a072bd7f79ff81bbd118b99",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Help on the line: How a Microsoft Teams support call led to compromise",
@@ -802,26 +832,6 @@
       "timestamp": 1773393420
     },
     {
-      "id": "91afdfd3f6408ad5097428b5b3a76316209e1133",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
-      "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees. The nine confused deputy vulnerabilities have been collectively codenamed CrackArmor by the Qualys Threat Research Unit (TRU). The",
-      "published": "2026-03-13 08:18:00",
-      "timestamp": 1773389880
-    },
-    {
-      "id": "caacd779865401f69c4483de6cf7db5c0b39b9a6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
-      "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
-      "summary": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud. \"SocksEscort infected home and small business internet routers with malware,\" the U.S. Department of Justice (DoJ) said. \"The malware allowed SocksEscort to direct internet",
-      "published": "2026-03-13 05:26:00",
-      "timestamp": 1773379560
-    },
-    {
       "id": "0c72c68e1b0a5f48c7a27511d18400b1ea7840db",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -832,7 +842,7 @@
       "timestamp": 1773334800
     },
     {
-      "id": "6dbf91aaf45d69ac5eafc68d7d5e417bd52eaba1",
+      "id": "faff9c324403aad9d1425dbd6252c3158682fa38",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "From transparency to action: What the latest Microsoft email security benchmark reveals",
@@ -842,7 +852,7 @@
       "timestamp": 1773331200
     },
     {
-      "id": "d03dfc90ba6f9786787dde846e36f77033a23082",
+      "id": "f7cdebdaff68d289319056fdbcdd7e5db3a25b8a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Detecting and analyzing prompt abuse in AI tools",
@@ -1440,16 +1450,6 @@
       "summary": "Written by: Harsh Parashar, Tierra Duncan, Dan Perez Google Threat Intelligence Group (GTIG) is tracking a long-running and adaptive cyber espionage campaign by APT24, a People's Republic of China (PRC)-nexus threat actor. Spanning three years, APT24 has been deploying BADAUDIO, a highly obfuscated first-stage downloader used to establish persistent access to victim networks. While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently ",
       "published": "2025-11-20 14:00:00",
       "timestamp": 1763647200
-    },
-    {
-      "id": "5f632a8579ef76a227d990a8efd865bf8c65f763",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Frontline Intelligence: Analysis of UNC1549 TTPs, Custom Tools, and Malware Targeting the Aerospace and Defense Ecosystem",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/analysis-of-unc1549-ttps-targeting-aerospace-defense/",
-      "summary": "Written by: Mohamed El-Banna, Daniel Lee, Mike Stokkel, Josh Goddard Overview Last year, Mandiant published a blog post highlighting suspected Iran-nexus espionage activity targeting the aerospace, aviation, and defense industries in the Middle East. In this follow-up post, Mandiant discusses additional tactics, techniques, and procedures (TTPs) observed in incidents Mandiant has responded to. Since mid-2024, Mandiant has responded to targeted campaigns by the threat group UNC1549 against the ae",
-      "published": "2025-11-17 14:00:00",
-      "timestamp": 1763388000
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
