@@ -1,6 +1,36 @@
 {
-  "generated_at": 1774280934,
+  "generated_at": 1774290948,
   "items": [
+    {
+      "id": "542046ceea469559f392e674dc57745d8466df22",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
+      "link": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
+      "summary": "The TeamPCP hackers behind the Trivy supply-chain attack continued to target Aqua Security, pushing malicious Docker images and hijacking the company's GitHub organization to tamper with dozens of repositories. [...]",
+      "published": "2026-03-23 17:40:27",
+      "timestamp": 1774287627
+    },
+    {
+      "id": "b3288b76316937bb052c42587d2d123c326f4e92",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/23/case-study-predictive-shielding-defender-stopped-gpo-based-ransomware-before-started/",
+      "summary": "Microsoft Defender stopped a human-operated ransomware attack that abused Group Policy Objects (GPOs) to disable defenses and push encryption at scale. This case study breaks down the attacker\u2019s playbook and shows how predictive shielding hardened 700 devices in time, resulting in zero GPO-based encryptions and blocking most of the attempted impact. The post Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started appeared first on Microsoft Security Blog.",
+      "published": "2026-03-23 16:00:00",
+      "timestamp": 1774281600
+    },
+    {
+      "id": "cd47f8a1d94ff233b929a68fbbb298dc73fcde12",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
+      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+      "published": "2026-03-23 15:43:04",
+      "timestamp": 1774280584
+    },
     {
       "id": "2d0df230743cb1672c670cd6c095a3c36c71b924",
       "source": "BleepingComputer",
@@ -310,16 +340,6 @@
       "summary": "Artificial Intelligence (AI) is changing how individuals and organizations conduct many activities, including how cybercriminals carry out phishing attacks and iterate on malware. Now, cybercriminals are using AI to generate personalized phishing emails, deepfakes and malware that evade traditional detection by impersonating normal user activity and bypassing legacy security models. As a result,",
       "published": "2026-03-20 10:00:00",
       "timestamp": 1774000800
-    },
-    {
-      "id": "9ecb386ec58edf67b8aa75998e2c64d96bdd6878",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Musician admits to $10M streaming royalty fraud using AI bots",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
-      "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and YouTube Music. [...]",
-      "published": "2026-03-20 09:33:33",
-      "timestamp": 1773999213
     },
     {
       "id": "646b7e00dce79a1896ded2f8bec8bbfd10c5b3df",
@@ -852,16 +872,6 @@
       "timestamp": 1773331200
     },
     {
-      "id": "f7cdebdaff68d289319056fdbcdd7e5db3a25b8a",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Detecting and analyzing prompt abuse in AI tools",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/detecting-analyzing-prompt-abuse-in-ai-tools/",
-      "summary": "Hidden instructions in content can subtly bias AI, and our scenario shows how prompt injection works, highlighting the need for oversight and a structured response playbook. The post Detecting and analyzing prompt abuse in AI tools appeared first on Microsoft Security Blog.",
-      "published": "2026-03-12 14:00:00",
-      "timestamp": 1773324000
-    },
-    {
       "id": "1470e3977676fd336a27de6a76f0f2ccb5e1da3b",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1290,16 +1300,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-24858 Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities establish",
       "published": "2026-01-27 12:00:00",
       "timestamp": 1769515200
-    },
-    {
-      "id": "37bef9e4acc3d1e4029a8a68b47ecbca1e99fa5f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "published": "2026-01-26 16:11:38",
-      "timestamp": 1769443898
     },
     {
       "id": "8b9483ec4e6cd5ef2d297d617e4c2a8f97abac41",
