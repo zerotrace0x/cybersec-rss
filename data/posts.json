@@ -1,6 +1,56 @@
 {
-  "generated_at": 1774248884,
+  "generated_at": 1774259420,
   "items": [
+    {
+      "id": "ff1d86f9a7c16d5a876d984b048aaccb845faec2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI warns of Handala hackers using Telegram in malware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks. [...]",
+      "published": "2026-03-23 09:45:55",
+      "timestamp": 1774259155
+    },
+    {
+      "id": "6afc4f7b6b3557d302a5ad3d1ab4a28aebd42394",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
+      "summary": "CISA ordered U.S. government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit. [...]",
+      "published": "2026-03-23 08:37:28",
+      "timestamp": 1774255048
+    },
+    {
+      "id": "d57ba87039c4c096962778cd2315dd3b9ed33594",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
+      "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. The last known clean release of Trivy on Docker Hub is 0.69.3. The malicious versions 0.69.4, 0.69.5, and 0.69.6 have since been removed from the container image library. \"New image tags 0.69.5 and",
+      "published": "2026-03-23 08:31:00",
+      "timestamp": 1774254660
+    },
+    {
+      "id": "c3fd3e7438c818489b55050b97486ff71ae572c0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New KB5085516 emergency update fixes Microsoft account sign-in",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
+      "summary": "Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
+      "published": "2026-03-23 08:04:30",
+      "timestamp": 1774253070
+    },
+    {
+      "id": "16d77d4d27f79c28e2b10aca25a1f4a8dffdf7b2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It's",
+      "published": "2026-03-23 06:15:00",
+      "timestamp": 1774246500
+    },
     {
       "id": "5da36700d98524dbf3416c54c211ca91b2628dc8",
       "source": "BleepingComputer",
@@ -67,7 +117,7 @@
       "source_category": "General",
       "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
       "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on",
+      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which denotes a tamperproof smart contract on",
       "published": "2026-03-21 08:25:00",
       "timestamp": 1774081500
     },
@@ -107,7 +157,7 @@
       "source_category": "General",
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
       "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow",
+      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware capable of stealing sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions",
       "published": "2026-03-20 17:47:00",
       "timestamp": 1774028820
     },
@@ -242,16 +292,6 @@
       "timestamp": 1773992012
     },
     {
-      "id": "ba963ccee36a05ddf3565be2c8223b53ede89746",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
-      "summary": "A North Carolina man was found guilty of extorting a D.C.-based technology company while still being employed as a data analyst contractor. [...]",
-      "published": "2026-03-20 06:57:46",
-      "timestamp": 1773989866
-    },
-    {
       "id": "fac47ed35c70a9217d9e269000b9e482a3838834",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,26 +320,6 @@
       "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
       "published": "2026-03-20 00:49:19",
       "timestamp": 1773967759
-    },
-    {
-      "id": "62892aabdc648415f6fd6297f13817f39045f0a4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Navia discloses data breach impacting 2.7 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
-      "summary": "Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]",
-      "published": "2026-03-19 20:43:54",
-      "timestamp": 1773953034
-    },
-    {
-      "id": "fd48fbc0f9fdd8dc9f4ef920c4d2023783045ce2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
-      "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
-      "summary": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
-      "published": "2026-03-19 20:01:03",
-      "timestamp": 1773950463
     },
     {
       "id": "322bafca84ebdf1b9f68aa98a568c1f0e1117f15",
@@ -800,26 +820,6 @@
       "summary": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup & Replication software that, if successfully exploited, could result in remote code execution. The vulnerabilities are as follows - CVE-2026-21666 (CVSS score: 9.9) - A vulnerability that allows an authenticated domain user to perform remote code execution on the Backup Server. CVE-2026-21667 (",
       "published": "2026-03-13 04:15:00",
       "timestamp": 1773375300
-    },
-    {
-      "id": "335048e3b80934d8d491ec9e4b0bc242b241aeec",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
-      "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cybercrime ecosystem. The malware, which is designed to infect Windows systems and was first discovered last month, has been codenamed VENON by Brazilian",
-      "published": "2026-03-12 17:31:00",
-      "timestamp": 1773336660
-    },
-    {
-      "id": "260e20c6e154fed01d99ebde42148d1dd114acd3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
-      "summary": "Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163. \"Although still relatively unspectacular, AI-generated malware such as Slopoly shows how easily threat actors can weaponize AI to develop new malware frameworks in a fraction of the time it used to take",
-      "published": "2026-03-12 17:02:00",
-      "timestamp": 1773334920
     },
     {
       "id": "0c72c68e1b0a5f48c7a27511d18400b1ea7840db",
