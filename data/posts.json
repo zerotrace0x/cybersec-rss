@@ -1,6 +1,16 @@
 {
-  "generated_at": 1774400561,
+  "generated_at": 1774414018,
   "items": [
+    {
+      "id": "aa74455b2c9c1392bf0348fae67bf607c9073e2f",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/24/detecting-investigating-defending-against-trivy-supply-chain-compromise/",
+      "summary": "Threat actors abused trusted Trivy distribution channels to inject credential\u2011stealing malware into CI/CD pipelines worldwide. This analysis walks through the Trivy supply\u2011chain compromise, attacker techniques, and concrete steps security teams can take to detect and defend against similar attacks. The post Guidance for detecting, investigating, and defending against the Trivy supply chain compromise appeared first on Microsoft Security Blog.",
+      "published": "2026-03-25 00:03:03",
+      "timestamp": 1774396983
+    },
     {
       "id": "c8b9baeea55a01ec09409fe8d673ee6b6e8dd912",
       "source": "BleepingComputer",
@@ -860,16 +870,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability CVE-2026-3910 Google Chromium V8 Unspecified Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilitie",
       "published": "2026-03-13 12:00:00",
       "timestamp": 1773403200
-    },
-    {
-      "id": "4065e6c604932d779658e1e2a0d0ca5875b3d746",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/12/storm-2561-uses-seo-poisoning-to-distribute-fake-vpn-clients-for-credential-theft/",
-      "summary": "Storm-2561 uses SEO poisoning to push fake VPN downloads that install signed trojans and steal VPN credentials. Active since 2025, Storm-2561 mimics trusted brands and abuses legitimate services. This post reviews TTPs, IOCs, and mitigation guidance. The post Storm-2561 uses SEO poisoning to distribute fake VPN clients for credential theft appeared first on Microsoft Security Blog.",
-      "published": "2026-03-12 17:00:00",
-      "timestamp": 1773334800
     },
     {
       "id": "1470e3977676fd336a27de6a76f0f2ccb5e1da3b",
