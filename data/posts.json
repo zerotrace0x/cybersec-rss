@@ -1,6 +1,36 @@
 {
-  "generated_at": 1774518532,
+  "generated_at": 1774528986,
   "items": [
+    {
+      "id": "2f64eb5e3ffa09f0753c7a612fab41d2b5f070ec",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Suspected RedLine infostealer malware admin extradited to US",
+      "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
+      "summary": "An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infostealer malware operations in recent years. [...]",
+      "published": "2026-03-26 11:51:59",
+      "timestamp": 1774525919
+    },
+    {
+      "id": "0a2a13414abde0450cfd1cd997e9cbe4dc4d5118",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+      "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+      "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control. But one question usually stays unanswered: Would your defenses actually stop a real attack? That\u2019s where things get shaky. A control exists, so it\u2019s assumed to work. A detection rule is active, so it\u2019s expected to catch something. But very",
+      "published": "2026-03-26 11:07:00",
+      "timestamp": 1774523220
+    },
+    {
+      "id": "643247005374983ac1dab91fc7afa8a4f181eaf1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+      "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
+      "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky. \"When Coruna was first reported, the public evidence wasn't sufficient to link its code to Triangulation \u2014 shared",
+      "published": "2026-03-26 11:07:00",
+      "timestamp": 1774523220
+    },
     {
       "id": "01b091d8de1c4ea4e3ee4ddb46d6fd9d9bfddaed",
       "source": "The Hacker News",
@@ -290,16 +320,6 @@
       "summary": "\u200bMicrosoft has fixed a known issue causing Gmail and Yahoo email synchronization and connection problems for classic Outlook users. [...]",
       "published": "2026-03-24 15:12:13",
       "timestamp": 1774365133
-    },
-    {
-      "id": "5152b0512bcf993a50d74dabef8f2895dcce6d77",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
-      "link": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
-      "summary": "Passing MFA doesn't mean a session is safe, attackers can hijack tokens and bypass identity checks. Specops Software explains why Zero Trust must verify both user identity and device health. [...]",
-      "published": "2026-03-24 14:02:12",
-      "timestamp": 1774360932
     },
     {
       "id": "bf86208a3ad1eb77ff9f5fe0cde938db55d7236f",
@@ -820,26 +840,6 @@
       "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content. The",
       "published": "2026-03-18 06:31:00",
       "timestamp": 1773815460
-    },
-    {
-      "id": "13f2ea7d1ebbaf0734583e4fa9ea13a09e27bce3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-      "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries. In a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells",
-      "published": "2026-03-17 16:39:00",
-      "timestamp": 1773765540
-    },
-    {
-      "id": "aa1bf425c91912eec0fbfdd6a12274c0714d0888",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
-      "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
-      "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method. The use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
-      "published": "2026-03-17 14:34:00",
-      "timestamp": 1773758040
     },
     {
       "id": "97ed90d03ce21b120713d4aa3ac8abe737c02596",
