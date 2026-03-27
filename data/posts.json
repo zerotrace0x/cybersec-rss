@@ -1,6 +1,36 @@
 {
-  "generated_at": 1774625939,
+  "generated_at": 1774636749,
   "items": [
+    {
+      "id": "15ed6a3fa0b314bba6c3bb13e58998e7e991a6b6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, including the version on your iPhone. Install this critical update to protect your iPhone,\" the",
+      "published": "2026-03-27 17:22:00",
+      "timestamp": 1774632120
+    },
+    {
+      "id": "ab4e72763228020a87cdc83f9665042fb795a806",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
+      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are",
+      "published": "2026-03-27 16:53:00",
+      "timestamp": 1774630380
+    },
+    {
+      "id": "660f85d7a0b5feac44ec1a2c11ab9f5e46704b24",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake VS Code alerts on GitHub spread malware to developers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
+      "summary": "A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware. [...]",
+      "published": "2026-03-27 16:51:52",
+      "timestamp": 1774630312
+    },
     {
       "id": "47552a78d52b52a719daee3ad67c1dcaaaedff7e",
       "source": "BleepingComputer",
@@ -22,12 +52,12 @@
       "timestamp": 1774619820
     },
     {
-      "id": "51df3ea46633a0943bef4fbd9907a46bbaf13f03",
+      "id": "da326eb33a9865f33e9a7f98ac0085c64171972e",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "European Commission investigating breach after Amazon cloud hack",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
-      "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon cloud infrastructure. [...]",
+      "title": "European Commission investigating breach after Amazon cloud account hack",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
+      "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to the Commission's Amazon cloud environment. [...]",
       "published": "2026-03-27 12:22:19",
       "timestamp": 1774614139
     },
@@ -270,16 +300,6 @@
       "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload and exfiltrate stolen payment data,\" Sansec said in a report published this week. The attack,",
       "published": "2026-03-26 06:53:00",
       "timestamp": 1774507980
-    },
-    {
-      "id": "3ca3d29bca13824d680b7b2d5678398f9b5e23a4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GitHub adds AI-powered bug detection to expand security coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
-      "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more languages and frameworks. [...]",
-      "published": "2026-03-25 23:23:39",
-      "timestamp": 1774481019
     },
     {
       "id": "0623679f583387ff7d80e1d887d56244097951a1",
@@ -782,27 +802,7 @@
       "timestamp": 1773921600
     },
     {
-      "id": "19ebf3e693a7043bac541c3bafbd9fd54789ca32",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
-      "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
-      "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls. Claude Code, Anthropic's AI coding agent, is now running across engineering organizations at scale. It reads files, executes shell commands, calls external APIs,",
-      "published": "2026-03-19 10:58:00",
-      "timestamp": 1773917880
-    },
-    {
-      "id": "d7d6ff72a3ba2b974b8c553dd94b825b097534c1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
-      "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
-      "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout. According to GTIG, multiple commercial surveillance vendors and suspected state-sponsored actors have utilized the full-chain exploit kit, codenamed DarkSword",
-      "published": "2026-03-19 09:14:00",
-      "timestamp": 1773911640
-    },
-    {
-      "id": "e7df8a4dcb3384d4f52aa71415899321bbd87b17",
+      "id": "3b44767b2e9cd96c138a065c3eb7146fce28c345",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Observability for AI Systems: Strengthening visibility for proactive risk detection",
