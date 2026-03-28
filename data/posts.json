@@ -1,15 +1,15 @@
 {
-  "generated_at": 1774689900,
+  "generated_at": 1774700785,
   "items": [
     {
-      "id": "e4f4acf2b1d309b8af1a0bf6ba14884ef03abba3",
+      "id": "e3681203b20527e19efc7047294f97065082e40e",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
-      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
-      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
-      "published": "2026-03-28 07:07:00",
-      "timestamp": 1774681620
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "link": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr. The vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information. Per",
+      "published": "2026-03-28 09:11:00",
+      "timestamp": 1774689060
     },
     {
       "id": "7f2e38975d9a992608a91a0c9823ce04da6d3ea5",
@@ -18,6 +18,16 @@
       "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
       "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution. \"When a",
+      "published": "2026-03-28 07:07:00",
+      "timestamp": 1774681620
+    },
+    {
+      "id": "e4f4acf2b1d309b8af1a0bf6ba14884ef03abba3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
       "published": "2026-03-28 07:07:00",
       "timestamp": 1774681620
     },
@@ -790,16 +800,6 @@
       "summary": "Microsoft introduces Zero Trust for AI, adding a new AI pillar to its workshop, enhanced reference architecture, updated guidance, and a new assessment tool. The post New tools and guidance: Announcing Zero Trust for AI appeared first on Microsoft Security Blog.",
       "published": "2026-03-19 19:00:00",
       "timestamp": 1773946800
-    },
-    {
-      "id": "013f3e7ceaec1b4e7fb427446d201a42576b3638",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
-      "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers. EDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This",
-      "published": "2026-03-19 18:52:00",
-      "timestamp": 1773946320
     },
     {
       "id": "2ddc45b62b7d22d578ebeb71f3d5c77b7a6174b3",
