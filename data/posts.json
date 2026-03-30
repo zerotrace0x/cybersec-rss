@@ -1,6 +1,16 @@
 {
-  "generated_at": 1774896128,
+  "generated_at": 1774906243,
   "items": [
+    {
+      "id": "35d1f9bb33dc67ef5e3ab79b6ba55bfbe4c2efd4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
+      "summary": "A newly identified malicious implant named RoadK1ll is enabling threat actors to quietly move from a compromised host to other systems on the network. [...]",
+      "published": "2026-03-30 20:49:22",
+      "timestamp": 1774903762
+    },
     {
       "id": "252d1d825ac58b0ceaa75294941c948dbaf80095",
       "source": "BleepingComputer",
@@ -10,6 +20,16 @@
       "summary": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
       "published": "2026-03-30 18:28:37",
       "timestamp": 1774895317
+    },
+    {
+      "id": "32154fa2b85d35b4f5329587310419b6c8e8345e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
+      "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+      "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point. \"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaking user messages, uploaded files, and other sensitive content,\" the cybersecurity company said in",
+      "published": "2026-03-30 18:05:00",
+      "timestamp": 1774893900
     },
     {
       "id": "a4730a10e9828e9e84fccd6c6dbda098d51e0158",
@@ -80,6 +100,16 @@
       "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables\" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling",
       "published": "2026-03-30 12:18:00",
       "timestamp": 1774873080
+    },
+    {
+      "id": "822b3727bdf08b36efb1aa242751278167423946",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Comm",
+      "published": "2026-03-30 12:00:00",
+      "timestamp": 1774872000
     },
     {
       "id": "a0bb3922438622aacc624310fbceeb18b3e88090",
@@ -320,16 +350,6 @@
       "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let\u2019s admit it: we are in the middle of it. Introduction: One tech power to rule them all is a thing of the past The relative safety, peace and prosperity that much of the world has enjoyed since 1945 was not accidental. It emerged from the ashes",
       "published": "2026-03-27 11:00:00",
       "timestamp": 1774609200
-    },
-    {
-      "id": "253fcb6ce5b94ee3cea6d4f0df33d879b049b1ac",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
-      "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
-      "summary": "The Alliance for Creativity and Entertainment (ACE) announced the shutdown of AnimePlay, a major anime streaming platform with over 5 million users. [...]",
-      "published": "2026-03-27 10:40:17",
-      "timestamp": 1774608017
     },
     {
       "id": "4435b4ccf76818e95a9b9e0785c63332369dcaa8",
@@ -750,16 +770,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026. The vulnerabilities that have come under exploitation are listed below - CVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple",
       "published": "2026-03-21 08:25:00",
       "timestamp": 1774081500
-    },
-    {
-      "id": "436d09141c842a89ebaf5ec57cee636dcdaa0f59",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
-      "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware capable of stealing sensitive CI/CD secrets. The latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions",
-      "published": "2026-03-20 17:47:00",
-      "timestamp": 1774028820
     },
     {
       "id": "15bf36fa7e5767cc3bb1c0d1d3303bcc683eaacb",
@@ -1330,16 +1340,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-24858 Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities establish",
       "published": "2026-01-27 12:00:00",
       "timestamp": 1769515200
-    },
-    {
-      "id": "8b9483ec4e6cd5ef2d297d617e4c2a8f97abac41",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/26/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2018-14634 Linux Kernel Integer Overflow Vulnerability CVE-2025-52691 SmarterTools SmarterMail Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-21509 Microsoft Office Security Feature Bypass Vulnerability CVE-2026-23760 SmarterTools SmarterMail Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-24061 GNU Ine",
-      "published": "2026-01-26 12:00:00",
-      "timestamp": 1769428800
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
