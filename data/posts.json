@@ -1,6 +1,36 @@
 {
-  "generated_at": 1774865016,
+  "generated_at": 1774874741,
   "items": [
+    {
+      "id": "a0bb3922438622aacc624310fbceeb18b3e88090",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
+      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
+      "published": "2026-03-30 11:30:00",
+      "timestamp": 1774870200
+    },
+    {
+      "id": "f4f2dff0db5849d9182072eafa513f500f2a94b2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
+      "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]",
+      "published": "2026-03-30 10:59:38",
+      "timestamp": 1774868378
+    },
+    {
+      "id": "792b929f7e4d7e345d0e07063f9877f88944de08",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "summary": "Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. The CTRL toolkit, according to Censys, is custom-built using .NET and includes various executables\" to facilitate credential phishing, keylogging, Remote Desktop Protocol (RDP) hijacking, and reverse tunneling",
+      "published": "2026-03-30 09:58:00",
+      "timestamp": 1774864680
+    },
     {
       "id": "3afdce6f28db3bc4f5717ee633ee6f62fed27cad",
       "source": "BleepingComputer",
@@ -280,16 +310,6 @@
       "summary": "Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people. [...]",
       "published": "2026-03-26 20:37:25",
       "timestamp": 1774557445
-    },
-    {
-      "id": "f28ad2292930f1966bae6bd8dcd28db900511df1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents. [...]",
-      "published": "2026-03-26 19:17:43",
-      "timestamp": 1774552663
     },
     {
       "id": "1c709bd01e69403d634e449e3df1b77801d60d06",
@@ -762,26 +782,6 @@
       "timestamp": 1774000800
     },
     {
-      "id": "646b7e00dce79a1896ded2f8bec8bbfd10c5b3df",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Magento PolyShell Flaw Enables Unauthenticated Uploads, RCE and Account Takeover",
-      "link": "https://thehackernews.com/2026/03/magento-polyshell-flaw-enables.html",
-      "summary": "Sansec is warning of a critical security flaw in Magento's REST API that could allow unauthenticated attackers to upload arbitrary executables and achieve code execution and account takeover. The vulnerability has been codenamed PolyShell by Sansec owing to the fact that the attack hinges on disguising malicious code as an image. There is no evidence that the shortcoming has been exploited in",
-      "published": "2026-03-20 09:30:00",
-      "timestamp": 1773999000
-    },
-    {
-      "id": "fac47ed35c70a9217d9e269000b9e482a3838834",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
-      "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation. The effort also saw authorities from Canada and Germany targeting the operators behind these botnets, with a number of private",
-      "published": "2026-03-20 06:25:00",
-      "timestamp": 1773987900
-    },
-    {
       "id": "e66ba35e70c2d96352e6a6c50b5a51ace2ebe078",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -822,7 +822,7 @@
       "timestamp": 1773921600
     },
     {
-      "id": "e7df8a4dcb3384d4f52aa71415899321bbd87b17",
+      "id": "3b44767b2e9cd96c138a065c3eb7146fce28c345",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Observability for AI Systems: Strengthening visibility for proactive risk detection",
