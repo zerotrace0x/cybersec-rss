@@ -1,6 +1,46 @@
 {
-  "generated_at": 1774961064,
+  "generated_at": 1774972567,
   "items": [
+    {
+      "id": "a8b34746cc070603336cf8a1a965f7fdefd07a6c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How to Categorize AI Agents and Prioritize Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
+      "summary": "AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
+      "published": "2026-03-31 14:00:10",
+      "timestamp": 1774965610
+    },
+    {
+      "id": "747cc2438cd5af2cd4e2a91593064790f9bcdafc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers compromise Axios npm package to drop cross-platform malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
+      "summary": "Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]",
+      "published": "2026-03-31 13:53:43",
+      "timestamp": 1774965223
+    },
+    {
+      "id": "30741e40dfb761bc8d9031bd9ac235da77220039",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "WhatsApp malware campaign delivers VBS payloads and MSI backdoors",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/",
+      "summary": "A malware campaign uses WhatsApp messages to deliver VBS scripts that initiate a multi-stage infection chain. The attack leverages renamed Windows tools and cloud-hosted payloads to install MSI backdoors and maintain persistent access to compromised systems. The post WhatsApp malware campaign delivers VBS payloads and MSI backdoors appeared first on Microsoft Security Blog.",
+      "published": "2026-03-31 13:43:05",
+      "timestamp": 1774964585
+    },
+    {
+      "id": "4dc94d6734e065ab04e732907dcf617aee75b521",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+      "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+      "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused",
+      "published": "2026-03-31 13:09:00",
+      "timestamp": 1774962540
+    },
     {
       "id": "bdf3260e2b58d2eee808e372eda18db6ee25232f",
       "source": "BleepingComputer",
@@ -12,6 +52,16 @@
       "timestamp": 1774958655
     },
     {
+      "id": "0d830175e1278a8bf2971c2fb531b7b4b052478f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
+      "published": "2026-03-31 11:50:00",
+      "timestamp": 1774957800
+    },
+    {
       "id": "4ecf774e3003c231a9edaf3a7e0f9093092dcdf8",
       "source": "The Hacker News",
       "source_category": "General",
@@ -20,16 +70,6 @@
       "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
       "published": "2026-03-31 11:46:00",
       "timestamp": 1774957560
-    },
-    {
-      "id": "0d830175e1278a8bf2971c2fb531b7b4b052478f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
-      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
-      "published": "2026-03-31 11:30:00",
-      "timestamp": 1774956600
     },
     {
       "id": "50005cf42b12f8268c8827a079b74fd547ee4487",
@@ -250,26 +290,6 @@
       "summary": "The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]",
       "published": "2026-03-30 06:42:58",
       "timestamp": 1774852978
-    },
-    {
-      "id": "30c8d16cbda4089c3d898d1810e45ac8dc4e3111",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI confirms hack of Director Patel's personal email inbox",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-      "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
-      "published": "2026-03-29 21:09:50",
-      "timestamp": 1774818590
-    },
-    {
-      "id": "077c47d8e726cd285799ece15801ef4cbaff5387",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
-      "summary": "A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access to arbitrary files on the server. [...]",
-      "published": "2026-03-29 14:38:25",
-      "timestamp": 1774795105
     },
     {
       "id": "ecee8cad01ba18a97864a1d678934280a522fd5d",
@@ -762,16 +782,6 @@
       "timestamp": 1774246500
     },
     {
-      "id": "d73512a96ba86a3a585496b07397d2fc380de9cc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
-      "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
-      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday. \"The campaign",
-      "published": "2026-03-21 13:17:00",
-      "timestamp": 1774099020
-    },
-    {
       "id": "15bf36fa7e5767cc3bb1c0d1d3303bcc683eaacb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -820,16 +830,6 @@
       "summary": "Microsoft introduces Zero Trust for AI, adding a new AI pillar to its workshop, enhanced reference architecture, updated guidance, and a new assessment tool. The post New tools and guidance: Announcing Zero Trust for AI appeared first on Microsoft Security Blog.",
       "published": "2026-03-19 19:00:00",
       "timestamp": 1773946800
-    },
-    {
-      "id": "2ddc45b62b7d22d578ebeb71f3d5c77b7a6174b3",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/19/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/",
-      "summary": "During tax season, threat actors reliably take advantage of the urgency and familiarity of time-sensitive emails, including refund notices, payroll forms, filing reminders, and requests from tax professionals, to push malicious attachments, links, or QR codes. The post When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures appeared first on Microsoft Security Blog.",
-      "published": "2026-03-19 15:00:00",
-      "timestamp": 1773932400
     },
     {
       "id": "66209007854b04586328b75a3224a76b6249cca0",
