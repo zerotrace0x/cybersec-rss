@@ -1,6 +1,16 @@
 {
-  "generated_at": 1774933315,
+  "generated_at": 1774940325,
   "items": [
+    {
+      "id": "81e57159b4f5a7cbd4a26579b2fab1c4ee307e90",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+      "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two versions were published using the compromised npm credentials of the primary Axios",
+      "published": "2026-03-31 06:08:00",
+      "timestamp": 1774937280
+    },
     {
       "id": "9c7ad67ac1589faa52c2357cab18c9c728aa2355",
       "source": "BleepingComputer",
@@ -135,7 +145,7 @@
       "id": "f4f2dff0db5849d9182072eafa513f500f2a94b2",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
       "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]",
       "published": "2026-03-30 10:59:38",
@@ -758,16 +768,6 @@
       "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
       "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
       "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which denotes a tamperproof smart contract on",
-      "published": "2026-03-21 08:25:00",
-      "timestamp": 1774081500
-    },
-    {
-      "id": "64172d0ddb588a01404146861527bff530f9bb50",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws impacting Apple, Craft CMS, and Laravel Livewire to its Known Exploited Vulnerabilities (KEV) catalog, urging federal agencies to patch them by April 3, 2026. The vulnerabilities that have come under exploitation are listed below - CVE-2025-31277 (CVSS score: 8.8) - A vulnerability in Apple",
       "published": "2026-03-21 08:25:00",
       "timestamp": 1774081500
     },
