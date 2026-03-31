@@ -1,6 +1,46 @@
 {
-  "generated_at": 1774972567,
+  "generated_at": 1774982541,
   "items": [
+    {
+      "id": "1b0e644da320e6cb1b7a0b756db642cce902d3fd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+      "summary": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]",
+      "published": "2026-03-31 17:53:04",
+      "timestamp": 1774979584
+    },
+    {
+      "id": "386c68a736d41f453feba13c263bbea79ec31494",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The threat to critical infrastructure has changed. Has your readiness?",
+      "link": "https://www.microsoft.com/en-us/security/security-insider/threat-landscape/threat-to-critical-infrastructure-has-changed",
+      "summary": "Five facts critical infrastructure (CI) leaders need to act on in 2026, grounded in what Microsoft Threat Intelligence is observing across sectors right now. The post The threat to critical infrastructure has changed. Has your readiness? appeared first on Microsoft Security Blog.",
+      "published": "2026-03-31 17:00:00",
+      "timestamp": 1774976400
+    },
+    {
+      "id": "8d395488d8fa430c291e9d49e403185d6097e911",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+      "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+      "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos. The vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,",
+      "published": "2026-03-31 16:03:00",
+      "timestamp": 1774972980
+    },
+    {
+      "id": "fe1f85ae774264b2427788b1508a90fffb69c552",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Applying security fundamentals to AI: Practical advice for CISOs",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/31/applying-security-fundamentals-to-ai-practical-advice-for-cisos/",
+      "summary": "Read actionable advice for CISOs on securing AI, managing risk, and applying core security principles in today\u2019s AI\u2011powered environment. The post Applying security fundamentals to AI: Practical advice for CISOs appeared first on Microsoft Security Blog.",
+      "published": "2026-03-31 16:00:00",
+      "timestamp": 1774972800
+    },
     {
       "id": "a8b34746cc070603336cf8a1a965f7fdefd07a6c",
       "source": "BleepingComputer",
@@ -25,9 +65,9 @@
       "id": "30741e40dfb761bc8d9031bd9ac235da77220039",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
-      "title": "WhatsApp malware campaign delivers VBS payloads and MSI backdoors",
+      "title": "WhatsApp malware campaign delivers VBScript and MSI backdoors",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/03/31/whatsapp-malware-campaign-delivers-vbs-payloads-msi-backdoors/",
-      "summary": "A malware campaign uses WhatsApp messages to deliver VBS scripts that initiate a multi-stage infection chain. The attack leverages renamed Windows tools and cloud-hosted payloads to install MSI backdoors and maintain persistent access to compromised systems. The post WhatsApp malware campaign delivers VBS payloads and MSI backdoors appeared first on Microsoft Security Blog.",
+      "summary": "A malware campaign uses WhatsApp messages to deliver VBS scripts that initiate a multi-stage infection chain. The attack leverages renamed Windows tools and cloud-hosted payloads to install MSI backdoors and maintain persistent access to compromised systems. The post WhatsApp malware campaign delivers VBScript and MSI backdoors appeared first on Microsoft Security Blog.",
       "published": "2026-03-31 13:43:05",
       "timestamp": 1774964585
     },
@@ -280,16 +320,6 @@
       "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL",
       "published": "2026-03-30 07:00:00",
       "timestamp": 1774854000
-    },
-    {
-      "id": "a243579d1e60f2f955129aeb1e7d532d48718ed8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "European Commission confirms data breach after Europa.eu hack",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
-      "summary": "The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]",
-      "published": "2026-03-30 06:42:58",
-      "timestamp": 1774852978
     },
     {
       "id": "ecee8cad01ba18a97864a1d678934280a522fd5d",
@@ -702,7 +732,7 @@
       "timestamp": 1774289340
     },
     {
-      "id": "b3288b76316937bb052c42587d2d123c326f4e92",
+      "id": "a59279135006fae002c7b2f88a361626c1dd541f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started",
@@ -772,16 +802,6 @@
       "timestamp": 1774254660
     },
     {
-      "id": "16d77d4d27f79c28e2b10aca25a1f4a8dffdf7b2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf. The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It's",
-      "published": "2026-03-23 06:15:00",
-      "timestamp": 1774246500
-    },
-    {
       "id": "15bf36fa7e5767cc3bb1c0d1d3303bcc683eaacb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -790,16 +810,6 @@
       "summary": "Excerpt: CTI-REALM is Microsoft\u2019s open-source benchmark for evaluating AI agents on real-world detection engineering\u2014turning cyber threat intelligence (CTI) into validated detections. The post CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents appeared first on Microsoft Security Blog.",
       "published": "2026-03-20 16:19:00",
       "timestamp": 1774023540
-    },
-    {
-      "id": "7cd9dd29cfc869bc966859826296c291a7b3829d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Secure agentic AI end-to-end",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/20/secure-agentic-ai-end-to-end/",
-      "summary": "In this agentic era, security must be woven into, and around, every layer of the AI estate. At RSAC 2026, we are delivering on that vision with new purpose-built capabilities designed to help organizations secure agents, secure their foundations, and defend using agents and experts. The post Secure agentic AI end-to-end appeared first on Microsoft Security Blog.",
-      "published": "2026-03-20 16:00:00",
-      "timestamp": 1774022400
     },
     {
       "id": "eeb66f1cd83fb2e1402aedd2f4ebf4a6900057a3",
@@ -820,16 +830,6 @@
       "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
       "published": "2026-03-20 00:49:19",
       "timestamp": 1773967759
-    },
-    {
-      "id": "5d67a1279800d3e13cc659af2bcf7b2ba7b7384e",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "New tools and guidance: Announcing Zero Trust for AI",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/",
-      "summary": "Microsoft introduces Zero Trust for AI, adding a new AI pillar to its workshop, enhanced reference architecture, updated guidance, and a new assessment tool. The post New tools and guidance: Announcing Zero Trust for AI appeared first on Microsoft Security Blog.",
-      "published": "2026-03-19 19:00:00",
-      "timestamp": 1773946800
     },
     {
       "id": "66209007854b04586328b75a3224a76b6249cca0",
