@@ -1,6 +1,36 @@
 {
-  "generated_at": 1774950736,
+  "generated_at": 1774961064,
   "items": [
+    {
+      "id": "bdf3260e2b58d2eee808e372eda18db6ee25232f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
+      "summary": "\u200bMicrosoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
+      "published": "2026-03-31 12:04:15",
+      "timestamp": 1774958655
+    },
+    {
+      "id": "4ecf774e3003c231a9edaf3a7e0f9093092dcdf8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
+      "published": "2026-03-31 11:46:00",
+      "timestamp": 1774957560
+    },
+    {
+      "id": "0d830175e1278a8bf2971c2fb531b7b4b052478f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
+      "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments. This is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
+      "published": "2026-03-31 11:30:00",
+      "timestamp": 1774956600
+    },
     {
       "id": "50005cf42b12f8268c8827a079b74fd547ee4487",
       "source": "BleepingComputer",
@@ -37,7 +67,7 @@
       "source_category": "General",
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
       "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two versions were published using the compromised npm credentials of the primary Axios",
+      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two",
       "published": "2026-03-31 06:08:00",
       "timestamp": 1774937280
     },
@@ -250,16 +280,6 @@
       "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack Team, which carried out the breach, said on its website that Patel \"will now find his name among the list of successfully hacked victims.\" In a statement",
       "published": "2026-03-28 15:40:00",
       "timestamp": 1774712400
-    },
-    {
-      "id": "08dae4c930c800bf50855ce7e36ded318b4ccef5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
-      "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-      "summary": "A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. [...]",
-      "published": "2026-03-28 14:35:10",
-      "timestamp": 1774708510
     },
     {
       "id": "e3681203b20527e19efc7047294f97065082e40e",
@@ -750,26 +770,6 @@
       "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday. \"The campaign",
       "published": "2026-03-21 13:17:00",
       "timestamp": 1774099020
-    },
-    {
-      "id": "9c92b3389691308504cc75f625f9a7d2d0cd61d5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
-      "link": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
-      "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.0. \"This vulnerability is remotely exploitable without authentication,\" Oracle said in an advisory. \"If successfully",
-      "published": "2026-03-21 10:24:00",
-      "timestamp": 1774088640
-    },
-    {
-      "id": "088e8b67d30ad17212cf27706fdf0edfa1bceb2f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
-      "link": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm. The name is a reference to the fact that the malware uses an ICP canister, which denotes a tamperproof smart contract on",
-      "published": "2026-03-21 08:25:00",
-      "timestamp": 1774081500
     },
     {
       "id": "15bf36fa7e5767cc3bb1c0d1d3303bcc683eaacb",
