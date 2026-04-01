@@ -1,6 +1,56 @@
 {
-  "generated_at": 1775047600,
+  "generated_at": 1775059152,
   "items": [
+    {
+      "id": "064b360cdbbbb689520a4aa5cfc750e35fc3a828",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+      "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+      "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into",
+      "published": "2026-04-01 14:10:00",
+      "timestamp": 1775052600
+    },
+    {
+      "id": "62db47c452a91d4fe8d0cd507a0dc4b7a0ddad14",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
+      "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
+      "summary": "Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN abuse, RMM tools, and social engineering drive most incidents. [...]",
+      "published": "2026-04-01 14:05:15",
+      "timestamp": 1775052315
+    },
+    {
+      "id": "3ecbcdc0064850311d561a8d0044f045d1e74af6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn\u2019t build. It doesn\u2019t enable. Its entire function is to say \"No.\" No to ChatGPT. No to DeepSeek. No to the file-sharing tool the product team swears by. For years, this looked like security. But in 2026, \"Doctor No\" is no longer just a management headache &",
+      "published": "2026-04-01 12:46:00",
+      "timestamp": 1775047560
+    },
+    {
+      "id": "c4510b9d21a6746052cdd7572de62bcb725f5935",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
+      "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
+      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has been attributed to a Brazilian cybercrime threat actor tracked as Augmented Marauder and Water Saci. The e-crime group was first documented by Trend Micro in",
+      "published": "2026-04-01 12:36:00",
+      "timestamp": 1775046960
+    },
+    {
+      "id": "e121f7268bbecd8cb22249d3601e55d7f95ad96d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
+      "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cross-platform implementation of the WebGPU standard. \"Use-after-free in Dawn in Google Chrome prior",
+      "published": "2026-04-01 11:42:00",
+      "timestamp": 1775043720
+    },
     {
       "id": "2a2a54dfa1db6695b453bdfb2ea8bbb952a03bb8",
       "source": "BleepingComputer",
@@ -260,16 +310,6 @@
       "summary": "U.S. prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. [...]",
       "published": "2026-03-31 09:15:45",
       "timestamp": 1774948545
-    },
-    {
-      "id": "381abe2b484491a0685100a539ea81634dd1ffb5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
-      "summary": "The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago. [...]",
-      "published": "2026-03-31 07:52:15",
-      "timestamp": 1774943535
     },
     {
       "id": "81e57159b4f5a7cbd4a26579b2fab1c4ee307e90",
@@ -740,46 +780,6 @@
       "summary": "Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data. The activity is being tracked by ReversingLabs as the Ghost campaign. The list of identified packages, all published by a user named mikilanjillo, is below - react-performance-suite react-state-optimizer-core react-fast-utilsa ai-fast-auto-trader",
       "published": "2026-03-24 12:00:00",
       "timestamp": 1774353600
-    },
-    {
-      "id": "56d0e21905a0c110df4f38a7a8b3f2e470313f81",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-      "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-      "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack. The workflows, both maintained by the supply chain security company Checkmarx, are listed below - checkmarx/ast-github-action checkmarx/kics-github-action Cloud security",
-      "published": "2026-03-24 10:38:00",
-      "timestamp": 1774348680
-    },
-    {
-      "id": "1aca1a86b38216780251fe58adb7f23908f5aed5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
-      "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
-      "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. companies and other organizations. According to the U.S. Department of Justice (DoJ), Aleksei Olegovich Volkov facilitated dozens of ransomware attacks across the",
-      "published": "2026-03-24 06:49:00",
-      "timestamp": 1774334940
-    },
-    {
-      "id": "dd2d49bf4de2746d7f9e40aa89a1c329ae56e65c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
-      "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
-      "summary": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application. The vulnerabilities are listed below - CVE-2026-3055 (CVSS score: 9.3) - Insufficient input validation leading to memory overread CVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user",
-      "published": "2026-03-24 05:59:00",
-      "timestamp": 1774331940
-    },
-    {
-      "id": "302061e1ba8fe330bed2cb6daee677214fe20d5b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
-      "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign, also tracked as WaterPlum, have been attributed to a malware family tracked as StoatWaffle that's distributed via malicious Microsoft Visual Studio Code (VS Code) projects. The use of VS Code \"tasks.json\" to distribute malware is a relatively new tactic adopted by the threat actor since December 2025, with the attacks",
-      "published": "2026-03-23 18:09:00",
-      "timestamp": 1774289340
     },
     {
       "id": "a59279135006fae002c7b2f88a361626c1dd541f",
