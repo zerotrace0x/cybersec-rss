@@ -1,6 +1,56 @@
 {
-  "generated_at": 1774992346,
+  "generated_at": 1775006141,
   "items": [
+    {
+      "id": "62dfafdcf49fa11c93d8584138c8c9bf1f78d726",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Claude Code source code accidentally leaked in NPM package",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
+      "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
+      "published": "2026-04-01 00:32:25",
+      "timestamp": 1775003545
+    },
+    {
+      "id": "98df457773dec21ec23e351a1aef4c3d5ee948eb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google now allows you to change your @gmail.com address",
+      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
+      "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
+      "published": "2026-03-31 23:13:56",
+      "timestamp": 1774998836
+    },
+    {
+      "id": "3699f30204433bbc9049e768cf9c578cc6cae664",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+      "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams. [...]",
+      "published": "2026-03-31 22:42:07",
+      "timestamp": 1774996927
+    },
+    {
+      "id": "f3c40c44df8435b129bf11668173320b9e5e4947",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+      "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulnerable hosts. [...]",
+      "published": "2026-03-31 22:28:02",
+      "timestamp": 1774996082
+    },
+    {
+      "id": "dd90630ce77545147ea5eddf0cfb3f702960a07a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+      "summary": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply by opening a file. [...]",
+      "published": "2026-03-31 21:45:14",
+      "timestamp": 1774993514
+    },
     {
       "id": "32614017ec300923f98169433a97600a57ae13a5",
       "source": "The Hacker News",
@@ -60,6 +110,16 @@
       "summary": "AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
       "published": "2026-03-31 14:00:10",
       "timestamp": 1774965610
+    },
+    {
+      "id": "fcb8366f8e86db1874b9b22b427d36bf0a37f002",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "North Korea-Nexus Threat Actor Compromises Widely Used Axios NPM Package in Supply Chain Attack",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/",
+      "summary": "Written by: Austin Larsen, Dima Lenz, Adrian Hernandez, Tyler McLellan, Christopher Gardner, Ashley Zaya, Michael Rudden, Mon Liclican Introduction Google Threat Intelligence Group (GTIG) is tracking an active software supply chain attack targeting the popular Node Package Manager (NPM) package \"axios.\" Between March 31, 2026, 00:21 and 03:20 UTC, an attacker introduced a malicious dependency named \"plain-crypto-js\" into axios NPM releases versions 1.14.1 and 0.30.4. Axios is the most popular Ja",
+      "published": "2026-03-31 14:00:00",
+      "timestamp": 1774965600
     },
     {
       "id": "747cc2438cd5af2cd4e2a91593064790f9bcdafc",
@@ -222,26 +282,6 @@
       "timestamp": 1774885620
     },
     {
-      "id": "3dfe0bfd6cd3c9f7f5cab57cec1a9b4e91c6da0c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
-      "summary": "Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks. [...]",
-      "published": "2026-03-30 14:32:34",
-      "timestamp": 1774881154
-    },
-    {
-      "id": "be7b05d8b6db9f4bed33ae6401433a8f4c71d1fc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-      "summary": "AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from hype. [...]",
-      "published": "2026-03-30 14:01:11",
-      "timestamp": 1774879271
-    },
-    {
       "id": "5cb51eb48487110d61443b85f30acc8ab028bbb6",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,36 +330,6 @@
       "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
       "published": "2026-03-30 11:30:00",
       "timestamp": 1774870200
-    },
-    {
-      "id": "f4f2dff0db5849d9182072eafa513f500f2a94b2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-      "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. [...]",
-      "published": "2026-03-30 10:59:38",
-      "timestamp": 1774868378
-    },
-    {
-      "id": "3afdce6f28db3bc4f5717ee633ee6f62fed27cad",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft pulls KB5079391 Windows update over install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-      "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
-      "published": "2026-03-30 09:38:45",
-      "timestamp": 1774863525
-    },
-    {
-      "id": "afb777f0a98c667fa75bbbe0c1e833c72b7b40d1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defused. [...]",
-      "published": "2026-03-30 07:48:17",
-      "timestamp": 1774856897
     },
     {
       "id": "c54af0a8f9ddf510f5ed4ce0ff6d1ffacabbe802",
@@ -1440,16 +1450,6 @@
       "summary": "Introduction Despite extensive scrutiny and public reporting, commercial surveillance vendors continue to operate unimpeded. A prominent name continues to surface in the world of mercenary spyware, Intellexa. Known for its \u201cPredator\u201d spyware, the company was sanctioned by the US Government. New Google Threat Intelligence Group (GTIG) analysis shows that Intellexa is evading restrictions and thriving. Intellexa has adapted, evaded restrictions, and continues selling digital weapons to the highest",
       "published": "2025-12-03 14:00:00",
       "timestamp": 1764770400
-    },
-    {
-      "id": "0fbfcc7e2bfbd3aed896ce568d310a1dd5f01264",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Beyond the Watering Hole: APT24's Pivot to Multi-Vector Attacks",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/apt24-pivot-to-multi-vector-attacks/",
-      "summary": "Written by: Harsh Parashar, Tierra Duncan, Dan Perez Google Threat Intelligence Group (GTIG) is tracking a long-running and adaptive cyber espionage campaign by APT24, a People's Republic of China (PRC)-nexus threat actor. Spanning three years, APT24 has been deploying BADAUDIO, a highly obfuscated first-stage downloader used to establish persistent access to victim networks. While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently ",
-      "published": "2025-11-20 14:00:00",
-      "timestamp": 1763647200
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
