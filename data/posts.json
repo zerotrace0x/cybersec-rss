@@ -1,6 +1,16 @@
 {
-  "generated_at": 1775068886,
+  "generated_at": 1775079050,
   "items": [
+    {
+      "id": "fbc217f66d7ed5aaed25b374b13757e18c71d952",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+      "summary": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]",
+      "published": "2026-04-01 19:42:25",
+      "timestamp": 1775072545
+    },
     {
       "id": "fcd8441ebbb86522e67f4f81da539330fc1fa971",
       "source": "BleepingComputer",
@@ -60,6 +70,16 @@
       "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has been attributed to a Brazilian cybercrime threat actor tracked as Augmented Marauder and Water Saci. The e-crime group was first documented by Trend Micro in",
       "published": "2026-04-01 12:36:00",
       "timestamp": 1775046960
+    },
+    {
+      "id": "e8e0bdc3c84bf72b5e2c507327b8c4e22bfc7940",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulner",
+      "published": "2026-04-01 12:00:00",
+      "timestamp": 1775044800
     },
     {
       "id": "e121f7268bbecd8cb22249d3601e55d7f95ad96d",
@@ -290,16 +310,6 @@
       "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment. According to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused",
       "published": "2026-03-31 13:09:00",
       "timestamp": 1774962540
-    },
-    {
-      "id": "bdf3260e2b58d2eee808e372eda18db6ee25232f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "summary": "\u200bMicrosoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in. [...]",
-      "published": "2026-03-31 12:04:15",
-      "timestamp": 1774958655
     },
     {
       "id": "0d830175e1278a8bf2971c2fb531b7b4b052478f",
@@ -1340,16 +1350,6 @@
       "summary": "Introduction The Google Threat Intelligence Group (GTIG) has identified widespread, active exploitation of the critical vulnerability CVE-2025-8088 in WinRAR, a popular file archiver tool for Windows, to establish initial access and deliver diverse payloads. Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated threat actors continue to exploit this n-day across disparate operations. The consistent exploitation method, a ",
       "published": "2026-01-27 14:00:00",
       "timestamp": 1769522400
-    },
-    {
-      "id": "95c3d729d07b0a32eddf019693c4cb254703c5d3",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-24858 Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities establish",
-      "published": "2026-01-27 12:00:00",
-      "timestamp": 1769515200
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
