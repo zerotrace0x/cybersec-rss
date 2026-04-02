@@ -1,6 +1,66 @@
 {
-  "generated_at": 1775133686,
+  "generated_at": 1775144760,
   "items": [
+    {
+      "id": "ece0621c5e5d8babb81c229e1f207413f36a8b4f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+      "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
+      "published": "2026-04-02 15:21:02",
+      "timestamp": 1775143262
+    },
+    {
+      "id": "6f7381ac05ad71b76d9776578f697508b5dd31e9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities are abused to turn mail into a fraud vector. [...]",
+      "published": "2026-04-02 14:01:11",
+      "timestamp": 1775138471
+    },
+    {
+      "id": "a311f72b19fbb121722ae5ba2456974eb770d127",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "vSphere and BRICKSTORM Malware: A Defender's Guide",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vsphere-brickstorm-defender-guide/",
+      "summary": "Written by: Stuart Carrera Introduction Building on recent BRICKSTORM research from Google Threat Intelligence Group (GTIG), this post explores the evolving threats facing virtualized environments. These operations directly target the VMware vSphere ecosystem, specifically the vCenter Server Appliance (VCSA) and ESXi hypervisors. To help organizations stay ahead of these risks, we will focus on the essential hardening strategies and mitigating controls necessary to secure these critical assets. ",
+      "published": "2026-04-02 14:00:00",
+      "timestamp": 1775138400
+    },
+    {
+      "id": "845b5cb1a7e165267f4c7c089da09561277b4dd8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltration from affected environments. [...]",
+      "published": "2026-04-02 13:33:11",
+      "timestamp": 1775136791
+    },
+    {
+      "id": "66eac87b3d2352f0d6c81232c8f5fd21ecf3a662",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Medtech giant Stryker fully operational after data-wiping attack",
+      "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
+      "summary": "Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were wiped out in a cyberattack claimed by the Iranian-linked Handala hacktivist group. [...]",
+      "published": "2026-04-02 13:28:39",
+      "timestamp": 1775136519
+    },
+    {
+      "id": "120ec4a361896cb2a09a1cb9d38e1220dca35c4b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "summary": "The latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this week. Things are moving fast. The list includes researchers chaining small bugs together to create massive backdoors, old software flaws",
+      "published": "2026-04-02 12:45:00",
+      "timestamp": 1775133900
+    },
     {
       "id": "2dc1a6417cc27dff679dea52f37da5ebc116cab5",
       "source": "The Hacker News",
@@ -242,16 +302,6 @@
       "timestamp": 1775029440
     },
     {
-      "id": "036bce22bb397519a4ef6d45491c524b427fb325",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google Drive ransomware detection now on by default for paying users",
-      "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-      "summary": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users. [...]",
-      "published": "2026-04-01 06:35:34",
-      "timestamp": 1775025334
-    },
-    {
       "id": "7a1f14a9ce304c58e76adcad725c9e6d9f8b34b3",
       "source": "The Hacker News",
       "source_category": "General",
@@ -260,36 +310,6 @@
       "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shared with CNBC News. \"This was a release packaging issue caused by human error, not a security",
       "published": "2026-04-01 06:12:00",
       "timestamp": 1775023920
-    },
-    {
-      "id": "078b6d4780a4831bac8a3dfed3d3da46e0638429",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "summary": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
-      "published": "2026-04-01 05:33:43",
-      "timestamp": 1775021623
-    },
-    {
-      "id": "62dfafdcf49fa11c93d8584138c8c9bf1f78d726",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Claude Code source code accidentally leaked in NPM package",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-      "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
-      "published": "2026-04-01 00:32:25",
-      "timestamp": 1775003545
-    },
-    {
-      "id": "98df457773dec21ec23e351a1aef4c3d5ee948eb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google now allows you to change your @gmail.com address",
-      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-      "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
-      "published": "2026-03-31 23:13:56",
-      "timestamp": 1774998836
     },
     {
       "id": "32614017ec300923f98169433a97600a57ae13a5",
@@ -780,16 +800,6 @@
       "summary": "Threat actors abused trusted Trivy distribution channels to inject credential\u2011stealing malware into CI/CD pipelines worldwide. This analysis walks through the Trivy supply\u2011chain compromise, attacker techniques, and concrete steps security teams can take to detect and defend against similar attacks. The post Guidance for detecting, investigating, and defending against the Trivy supply chain compromise appeared first on Microsoft Security Blog.",
       "published": "2026-03-25 00:03:03",
       "timestamp": 1774396983
-    },
-    {
-      "id": "dd04964c3e3f877489c5cb15c976b456c3573cc2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 via Trivy CI/CD Compromise",
-      "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
-      "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor. Multiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on March",
-      "published": "2026-03-24 18:21:00",
-      "timestamp": 1774376460
     },
     {
       "id": "a8075044d72c574f9090fb0319eb4b6ded62bef8",
@@ -1440,16 +1450,6 @@
       "summary": "Written by: Aragorn Tseng, Robert Weiner, Casey Charrier, Zander Work, Genevieve Stark, Austin Larsen Introduction On Dec. 3, 2025, a critical unauthenticated remote code execution (RCE) vulnerability in React Server Components, tracked as CVE-2025-55182 (aka \"React2Shell\"), was publicly disclosed. Shortly after disclosure, Google Threat Intelligence Group (GTIG) had begun observing widespread exploitation across many threat clusters, ranging from opportunistic cyber crime actors to suspected es",
       "published": "2025-12-12 14:00:00",
       "timestamp": 1765548000
-    },
-    {
-      "id": "8285ddfee9d756d3be8faec6b31cca4b2364b2da",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Sanctioned but Still Spying: Intellexa\u2019s Prolific Zero-Day Exploits Continue",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/intellexa-zero-day-exploits-continue/",
-      "summary": "Introduction Despite extensive scrutiny and public reporting, commercial surveillance vendors continue to operate unimpeded. A prominent name continues to surface in the world of mercenary spyware, Intellexa. Known for its \u201cPredator\u201d spyware, the company was sanctioned by the US Government. New Google Threat Intelligence Group (GTIG) analysis shows that Intellexa is evading restrictions and thriving. Intellexa has adapted, evaded restrictions, and continues selling digital weapons to the highest",
-      "published": "2025-12-03 14:00:00",
-      "timestamp": 1764770400
     },
     {
       "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
