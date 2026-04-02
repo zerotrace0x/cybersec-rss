@@ -1,6 +1,26 @@
 {
-  "generated_at": 1775144760,
+  "generated_at": 1775155087,
   "items": [
+    {
+      "id": "9d3bc29ed0abcd561b1d7884e89f624f562391eb",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Threat actor abuse of AI accelerates from tool to cyberattack surface",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/02/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/",
+      "summary": "Generative AI is upgrading cyberattacks, from 450% higher phishing click\u2011through rates to industrialized MFA bypass. The post Threat actor abuse of AI accelerates from tool to cyberattack surface appeared first on Microsoft Security Blog.",
+      "published": "2026-04-02 16:00:00",
+      "timestamp": 1775145600
+    },
+    {
+      "id": "f89cb638c567e321a43e809e78ba9357135b282d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/",
+      "summary": "Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies. The post Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments appeared first on Microsoft Security Blog.",
+      "published": "2026-04-02 15:37:22",
+      "timestamp": 1775144242
+    },
     {
       "id": "ece0621c5e5d8babb81c229e1f207413f36a8b4f",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinction between attackers and legitimate users. [...]",
       "published": "2026-04-02 15:21:02",
       "timestamp": 1775143262
+    },
+    {
+      "id": "f721b9977096bdebfedfcaa4abe0629cd008c64e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+      "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+      "summary": "Cisco has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges. The vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8 out of a maximum of 10.0. \"This",
+      "published": "2026-04-02 15:21:00",
+      "timestamp": 1775143260
     },
     {
       "id": "6f7381ac05ad71b76d9776578f697508b5dd31e9",
@@ -60,6 +90,16 @@
       "summary": "The latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this week. Things are moving fast. The list includes researchers chaining small bugs together to create massive backdoors, old software flaws",
       "published": "2026-04-02 12:45:00",
       "timestamp": 1775133900
+    },
+    {
+      "id": "e73de2317b560c6d9cda7e0d7b2ee2b4542ed72e",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livi",
+      "published": "2026-04-02 12:00:00",
+      "timestamp": 1775131200
     },
     {
       "id": "2dc1a6417cc27dff679dea52f37da5ebc116cab5",
@@ -187,7 +227,7 @@
       "source_category": "General",
       "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
       "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-      "summary": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]",
+      "summary": "A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads. [...]",
       "published": "2026-04-01 18:07:21",
       "timestamp": 1775066841
     },
@@ -342,7 +382,7 @@
       "timestamp": 1774972980
     },
     {
-      "id": "b5d006a37ce5510fedd9ba779741b1755acc1cdc",
+      "id": "fe1f85ae774264b2427788b1508a90fffb69c552",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Applying security fundamentals to AI: Practical advice for CISOs",
@@ -782,16 +822,6 @@
       "timestamp": 1774438440
     },
     {
-      "id": "ee5b25794aecf2566f842cdff95dafe3d713cf2e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-      "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
-      "summary": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security. The action was designed to safeguard Americans and the underlying communications networks the country relies on, FCC Chairman Brendan Carr said in a post on X. The development means that new models of",
-      "published": "2026-03-25 07:11:00",
-      "timestamp": 1774422660
-    },
-    {
       "id": "aa74455b2c9c1392bf0348fae67bf607c9073e2f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -800,26 +830,6 @@
       "summary": "Threat actors abused trusted Trivy distribution channels to inject credential\u2011stealing malware into CI/CD pipelines worldwide. This analysis walks through the Trivy supply\u2011chain compromise, attacker techniques, and concrete steps security teams can take to detect and defend against similar attacks. The post Guidance for detecting, investigating, and defending against the Trivy supply chain compromise appeared first on Microsoft Security Blog.",
       "published": "2026-03-25 00:03:03",
       "timestamp": 1774396983
-    },
-    {
-      "id": "a8075044d72c574f9090fb0319eb4b6ded62bef8",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Governing AI agent behavior: Aligning user, developer, role, and organizational intent",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-inte/4503551",
-      "summary": "This research report explores the layers of agent intent and how to align them for secure enterprise AI adoption. The post Governing AI agent behavior: Aligning user, developer, role, and organizational intent appeared first on Microsoft Security Blog.",
-      "published": "2026-03-24 17:00:00",
-      "timestamp": 1774371600
-    },
-    {
-      "id": "a59279135006fae002c7b2f88a361626c1dd541f",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/23/case-study-predictive-shielding-defender-stopped-gpo-based-ransomware-before-started/",
-      "summary": "Microsoft Defender stopped a human-operated ransomware attack that abused Group Policy Objects (GPOs) to disable defenses and push encryption at scale. This case study breaks down the attacker\u2019s playbook and shows how predictive shielding hardened 700 devices in time, resulting in zero GPO-based encryptions and blocking most of the attempted impact. The post Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started appeared first on Microsoft Security Blog.",
-      "published": "2026-03-23 16:00:00",
-      "timestamp": 1774281600
     },
     {
       "id": "cd47f8a1d94ff233b929a68fbbb298dc73fcde12",
@@ -1232,22 +1242,22 @@
       "timestamp": 1770732000
     },
     {
-      "id": "b3bc93cbcd31a23b5536983840fe393f38f05e14",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21510 Microsoft Windows Shell Protection Mechanism Failure Vulnerability CVE-2026-21513 Microsoft MSHTML Framework Security Feature Bypass Vulnerability CVE-2026-21514 Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability CVE-2026-21519 Microsoft Windows Type Confusion Vulnerability CVE-2026-21525 Microsoft Windows NULL ",
-      "published": "2026-02-10 12:00:00",
-      "timestamp": 1770724800
-    },
-    {
       "id": "1c7fe456e7a8ad1990523d5607248e0f2a0dfcaf",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps",
       "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps",
       "summary": "The purpose of this Alert is to amplify Poland\u2019s Computer Emergency Response Team (CERT Polska\u2019s) Energy Sector Incident Report published on Jan. 30, 2026, and highlight key mitigations for Energy Sector stakeholders. In December 2025, a malicious cyber actor(s) targeted and compromised operational technology (OT) and industrial control systems (ICS) in Poland\u2019s Energy Sector\u2014specifically renewable energy plants, a combined heat and power plant, and a manufacturing sector company\u2014in a cyber inci",
+      "published": "2026-02-10 12:00:00",
+      "timestamp": 1770724800
+    },
+    {
+      "id": "b3bc93cbcd31a23b5536983840fe393f38f05e14",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21510 Microsoft Windows Shell Protection Mechanism Failure Vulnerability CVE-2026-21513 Microsoft MSHTML Framework Security Feature Bypass Vulnerability CVE-2026-21514 Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability CVE-2026-21519 Microsoft Windows Type Confusion Vulnerability CVE-2026-21525 Microsoft Windows NULL ",
       "published": "2026-02-10 12:00:00",
       "timestamp": 1770724800
     },
@@ -1340,16 +1350,6 @@
       "summary": "Introduction This week Google and partners took action to disrupt what we believe is one of the largest residential proxy networks in the world, the IPIDEA proxy network. IPIDEA\u2019s proxy infrastructure is a little-known component of the digital ecosystem leveraged by a wide array of bad actors. This disruption, led by Google Threat Intelligence Group (GTIG) in partnership with other teams, included three main actions: Took legal action to take down domains used to control devices and proxy traffi",
       "published": "2026-01-28 14:00:00",
       "timestamp": 1769608800
-    },
-    {
-      "id": "9eaf6a6612bdbfc79a9c122f6529bfeb331f7273",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Fortinet Releases Guidance to Address Ongoing Exploitation of Authentication Bypass Vulnerability CVE-2026-24858",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/01/28/fortinet-releases-guidance-address-ongoing-exploitation-authentication-bypass-vulnerability-cve-2026",
-      "summary": "Newly disclosed vulnerability Common Vulnerabilities and Exposures (CVE)-2026-24858 [Common Weakness Enumeration (CWE)-288: Authentication Bypass Using an Alternate Path or Channel] allows malicious actors with a FortiCloud account and a registered device to log in to separate devices registered to other users in FortiOS, FortiManager, FortiWeb, FortiProxy, and FortiAnalyzer, if FortiCloud single sign on (SSO) is enabled on devices.1 Users are vulnerable to CVE-2026-24858 even if they updated Fo",
-      "published": "2026-01-28 12:00:00",
-      "timestamp": 1769601600
     },
     {
       "id": "9813d81e0376cfa0c3eb8ed1c1ddb71315c6b76b",
