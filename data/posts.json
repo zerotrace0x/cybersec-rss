@@ -1,6 +1,46 @@
 {
-  "generated_at": 1775079050,
+  "generated_at": 1775091951,
   "items": [
+    {
+      "id": "4ed4395e0c49af7cc1cd1e5813c52c8e56932634",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
+      "summary": "A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities. [...]",
+      "published": "2026-04-01 23:17:09",
+      "timestamp": 1775085429
+    },
+    {
+      "id": "9674b9fcb8de13a34778addcc6777897cc37595c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+      "summary": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
+      "published": "2026-04-01 21:50:49",
+      "timestamp": 1775080249
+    },
+    {
+      "id": "4c4157dd1d034b4cf932ada17b7caade6a858cd9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+      "summary": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]",
+      "published": "2026-04-01 21:35:47",
+      "timestamp": 1775079347
+    },
+    {
+      "id": "24212700a08daea34d1fa070299cd7481035399c",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Mitigating the Axios npm supply chain compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/",
+      "summary": "On March 31, 2026, the popular HTTP client Axios experienced a supply chain attack, causing two newly published npm packages for version updates (1.14.1 and 0.30.4) to download from command and control (C2) that Microsoft Threat Intelligence has attributed to the North Korean state actor Sapphire Sleet. Although the malicious versions are no longer available for download, since Axios is one of the most widely used HTTP clients in the JavaScript ecosystem, this compromise exposed hundreds to pote",
+      "published": "2026-04-01 21:00:00",
+      "timestamp": 1775077200
+    },
     {
       "id": "fbc217f66d7ed5aaed25b374b13757e18c71d952",
       "source": "BleepingComputer",
@@ -222,16 +262,6 @@
       "timestamp": 1774981680
     },
     {
-      "id": "1b0e644da320e6cb1b7a0b756db642cce902d3fd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
-      "summary": "Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. [...]",
-      "published": "2026-03-31 17:53:04",
-      "timestamp": 1774979584
-    },
-    {
       "id": "386c68a736d41f453feba13c263bbea79ec31494",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -252,7 +282,7 @@
       "timestamp": 1774972980
     },
     {
-      "id": "fe1f85ae774264b2427788b1508a90fffb69c552",
+      "id": "b5d006a37ce5510fedd9ba779741b1755acc1cdc",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Applying security fundamentals to AI: Practical advice for CISOs",
@@ -260,16 +290,6 @@
       "summary": "Read actionable advice for CISOs on securing AI, managing risk, and applying core security principles in today\u2019s AI\u2011powered environment. The post Applying security fundamentals to AI: Practical advice for CISOs appeared first on Microsoft Security Blog.",
       "published": "2026-03-31 16:00:00",
       "timestamp": 1774972800
-    },
-    {
-      "id": "a8b34746cc070603336cf8a1a965f7fdefd07a6c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How to Categorize AI Agents and Prioritize Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
-      "summary": "AI agent risk isn't equal, it scales with access to systems and level of autonomy. Token Security explains how CISOs should categorize agents and prioritize what to secure first. [...]",
-      "published": "2026-03-31 14:00:10",
-      "timestamp": 1774965610
     },
     {
       "id": "fcb8366f8e86db1874b9b22b427d36bf0a37f002",
@@ -280,16 +300,6 @@
       "summary": "Written by: Austin Larsen, Dima Lenz, Adrian Hernandez, Tyler McLellan, Christopher Gardner, Ashley Zaya, Michael Rudden, Mon Liclican Introduction Google Threat Intelligence Group (GTIG) is tracking an active software supply chain attack targeting the popular Node Package Manager (NPM) package \"axios.\" Between March 31, 2026, 00:21 and 03:20 UTC, an attacker introduced a malicious dependency named \"plain-crypto-js\" into axios NPM releases versions 1.14.1 and 0.30.4. Axios is the most popular Ja",
       "published": "2026-03-31 14:00:00",
       "timestamp": 1774965600
-    },
-    {
-      "id": "747cc2438cd5af2cd4e2a91593064790f9bcdafc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers compromise Axios npm package to drop cross-platform malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
-      "summary": "Hackers hijacked the npm account of the Axios package, a JavaScript HTTP client with 100M+ weekly downloads, to deliver remote access trojans to Linux, Windows, and macOS systems. [...]",
-      "published": "2026-03-31 13:53:43",
-      "timestamp": 1774965223
     },
     {
       "id": "30741e40dfb761bc8d9031bd9ac235da77220039",
@@ -820,16 +830,6 @@
       "summary": "Every year, the cyber threat landscape forces defenders to adapt to evolving adversary tactics, techniques, and procedures (TTPs). In 2025, Mandiant observed a clear divergence in adversary pacing that closely aligns with the trends we have been documenting for defenders over the past year. On one end of the spectrum, cyber criminal groups optimized for immediate impact and deliberate recovery denial. On the other end, sophisticated cyber espionage groups and insider threats optimized for extrem",
       "published": "2026-03-23 14:00:00",
       "timestamp": 1774274400
-    },
-    {
-      "id": "15bf36fa7e5767cc3bb1c0d1d3303bcc683eaacb",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/20/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents/",
-      "summary": "Excerpt: CTI-REALM is Microsoft\u2019s open-source benchmark for evaluating AI agents on real-world detection engineering\u2014turning cyber threat intelligence (CTI) into validated detections. The post CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents appeared first on Microsoft Security Blog.",
-      "published": "2026-03-20 16:19:00",
-      "timestamp": 1774023540
     },
     {
       "id": "eeb66f1cd83fb2e1402aedd2f4ebf4a6900057a3",
