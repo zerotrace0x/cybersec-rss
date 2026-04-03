@@ -1,6 +1,46 @@
 {
-  "generated_at": 1775230236,
+  "generated_at": 1775240950,
   "items": [
+    {
+      "id": "76af5fe011081b2c9cd326df3ad1d95048362f35",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+      "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "summary": "Telehealth giant Hims & Hers Health is warning that it suffered a data breach after support tickets were stolen from a third-party customer service platform. [...]",
+      "published": "2026-04-03 17:41:11",
+      "timestamp": 1775238071
+    },
+    {
+      "id": "db3b355565aa23b47a001097c319e1da79203d44",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+      "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
+      "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region. The campaign has been attributed to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo Panda. \"This TA416 activity included multiple",
+      "published": "2026-04-03 17:34:00",
+      "timestamp": 1775237640
+    },
+    {
+      "id": "3bbbcca5414c6a043c3a123697a070bfb32e2a5d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+      "summary": "The Qilin ransomware group has claimed responsibility for an attack against Die Linke ('The Left'), forcing an IT systems outage at the political party, and threatening sensitive data leak. [...]",
+      "published": "2026-04-03 16:36:44",
+      "timestamp": 1775234204
+    },
+    {
+      "id": "df246d579fad380af382276456b62e0a14bced7a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
+      "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
+      "summary": "Threat actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research Team. \"Instead of exposing command execution through URL parameters or request bodies, these web shells rely on threat actor-supplied cookie values to gate execution,",
+      "published": "2026-04-03 15:32:00",
+      "timestamp": 1775230320
+    },
     {
       "id": "4fa083528c5b9cf9fd6420044d366f8e960e91f6",
       "source": "BleepingComputer",
@@ -272,16 +312,6 @@
       "timestamp": 1775121132
     },
     {
-      "id": "1d1d42c4de48b39b052f6ccb87e66fa1030c18c4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
-      "summary": "Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
-      "published": "2026-04-02 08:25:50",
-      "timestamp": 1775118350
-    },
-    {
       "id": "8c2621a640139bdc1f6e0fc6e03423e9d3fc2dc8",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +320,6 @@
       "summary": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword. \"We enabled the availability of iOS 18.7.7 for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security",
       "published": "2026-04-02 07:09:00",
       "timestamp": 1775113740
-    },
-    {
-      "id": "4ed4395e0c49af7cc1cd1e5813c52c8e56932634",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
-      "summary": "A new malware-as-a-service called CrystalRAT is being promoted on Telegram, offering remote access, data theft, keylogging, and clipboard hijacking capabilities. [...]",
-      "published": "2026-04-01 23:17:09",
-      "timestamp": 1775085429
     },
     {
       "id": "24212700a08daea34d1fa070299cd7481035399c",
@@ -780,26 +800,6 @@
       "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn\u2019t even be touching. There\u2019s a little bit of everything in this one, too. Weird delivery tricks, old problems coming back in slightly worse forms, shady infrastructure doing",
       "published": "2026-03-26 11:45:00",
       "timestamp": 1774525500
-    },
-    {
-      "id": "643247005374983ac1dab91fc7afa8a4f181eaf1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
-      "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
-      "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky. \"When Coruna was first reported, the public evidence wasn't sufficient to link its code to Triangulation \u2014 shared",
-      "published": "2026-03-26 11:07:00",
-      "timestamp": 1774523220
-    },
-    {
-      "id": "01b091d8de1c4ea4e3ee4ddb46d6fd9d9bfddaed",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
-      "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
-      "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload and exfiltrate stolen payment data,\" Sansec said in a report published this week. The attack,",
-      "published": "2026-03-26 06:53:00",
-      "timestamp": 1774507980
     },
     {
       "id": "a46a2a74a02693345f5dd322277c402dbdba3b54",
