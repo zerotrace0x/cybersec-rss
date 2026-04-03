@@ -1,6 +1,46 @@
 {
-  "generated_at": 1775199266,
+  "generated_at": 1775209272,
   "items": [
+    {
+      "id": "830ecd2c42c10f52f940b39f0222afeecdb703fd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the trojan was discovered targeting both the mobile operating systems. The malware has been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while",
+      "published": "2026-04-03 09:10:00",
+      "timestamp": 1775207400
+    },
+    {
+      "id": "84349c3123adb109048cc0d4ae88f656b367df5e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Man admits to locking thousands of Windows devices in extortion plot",
+      "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
+      "summary": "A former core infrastructure engineer has pleaded guilty to locking Windows admins out of 254 servers as part of a failed extortion plot targeting his employer, an industrial company headquartered in Somerset County, New Jersey. [...]",
+      "published": "2026-04-03 09:04:54",
+      "timestamp": 1775207094
+    },
+    {
+      "id": "c43f996db816ba91327a58f2f24bd2a44f9d3df2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
+      "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
+      "summary": "Solana-based decentralized exchange Drift has confirmed that attackers drained about $285 million from the platform during a security incident that took place on April 1, 2026. \"Earlier today, a malicious actor gained unauthorized access to Drift Protocol through a novel attack involving durable nonces, resulting in a rapid takeover of Drift\u2019s Security Council administrative powers,\" the&",
+      "published": "2026-04-03 08:35:00",
+      "timestamp": 1775205300
+    },
+    {
+      "id": "a0bf41d0aad2a764eaf6e7946c88df2bacae77be",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
+      "summary": "Starting this week, Microsoft has begun force-upgrading unmanaged devices running Windows 11 24H2 Home and Pro editions to Windows 11 25H2. [...]",
+      "published": "2026-04-03 07:55:40",
+      "timestamp": 1775202940
+    },
     {
       "id": "9d4ca3dfcf3a09a4ddc2d8633cd716a53e67eaf6",
       "source": "BleepingComputer",
@@ -250,26 +290,6 @@
       "summary": "On March 31, 2026, the popular HTTP client Axios experienced a supply chain attack, causing two newly published npm packages for version updates to download from command and control (C2) that Microsoft Threat Intelligence has attributed to the North Korean state actor Sapphire Sleet. Although the malicious versions are no longer available for download, since Axios is one of the most widely used HTTP clients in the JavaScript ecosystem, this compromise exposed hundreds to potentially millions of ",
       "published": "2026-04-01 21:00:00",
       "timestamp": 1775077200
-    },
-    {
-      "id": "fbc217f66d7ed5aaed25b374b13757e18c71d952",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-      "summary": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. [...]",
-      "published": "2026-04-01 19:42:25",
-      "timestamp": 1775072545
-    },
-    {
-      "id": "fcd8441ebbb86522e67f4f81da539330fc1fa971",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
-      "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-      "summary": "A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads. [...]",
-      "published": "2026-04-01 18:07:21",
-      "timestamp": 1775066841
     },
     {
       "id": "d66b0173b15f99cd710cf6f8c6607e8a6f5e6519",
@@ -800,26 +820,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerab",
       "published": "2026-03-25 12:00:00",
       "timestamp": 1774440000
-    },
-    {
-      "id": "ee37d67f51a8df3be5e9e5e2088cfe34ea4459d4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
-      "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html",
-      "summary": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90% of tactical operations on its own, performing reconnaissance, writing exploit code, and attempting lateral movement at machine speed. This incident is worrying, but there's a scenario that should",
-      "published": "2026-03-25 11:58:00",
-      "timestamp": 1774439880
-    },
-    {
-      "id": "d2e269fa322c6105191b94570115550868167058",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian Hacker Sentenced to 2 Years for TA551 Botnet-Driven Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/03/russian-hacker-sentenced-to-2-years-for.html",
-      "summary": "The U.S. Department of Justice (DoJ) said a Russian national has been sentenced to two years in prison for managing a botnet that was used to launch ransomware attacks against U.S. companies. Ilya Angelov, 40, of Tolyatti, Russia, was also fined $100,000. Angelov, who went by the online aliases \"milan\" and \"okart,\" is said to have co-managed a Russia-based cybercriminal group known as TA551 (aka",
-      "published": "2026-03-25 11:52:00",
-      "timestamp": 1774439520
     },
     {
       "id": "aa74455b2c9c1392bf0348fae67bf607c9073e2f",
