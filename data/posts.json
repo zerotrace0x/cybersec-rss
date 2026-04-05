@@ -1,6 +1,26 @@
 {
-  "generated_at": 1775365436,
+  "generated_at": 1775371888,
   "items": [
+    {
+      "id": "f3c66b06d21facff65eb3909d5ae9f6ec5671e6f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+      "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+      "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent implant. \"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,",
+      "published": "2026-04-05 05:07:00",
+      "timestamp": 1775365620
+    },
+    {
+      "id": "a69972813d9eabe07672adee6ffbcbf295c193c1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+      "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+      "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation. \"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
+      "published": "2026-04-05 04:32:00",
+      "timestamp": 1775363520
+    },
     {
       "id": "a083200f1ffaea483846a316a06801b7512117e9",
       "source": "BleepingComputer",
@@ -322,7 +342,7 @@
       "timestamp": 1775113740
     },
     {
-      "id": "c3dec90a860f2831350cfcc8acfaf3bfb98ed9ae",
+      "id": "24212700a08daea34d1fa070299cd7481035399c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Mitigating the Axios npm supply chain compromise",
@@ -532,7 +552,7 @@
       "timestamp": 1774893900
     },
     {
-      "id": "a4730a10e9828e9e84fccd6c6dbda098d51e0158",
+      "id": "a0c47bede31f53645fc5957671270ce6869a1fec",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
@@ -780,26 +800,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of k",
       "published": "2026-03-26 12:00:00",
       "timestamp": 1774526400
-    },
-    {
-      "id": "afe6390158fe6e543fe1dc788dd06fdd4624cf2b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
-      "link": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html",
-      "summary": "Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the 1960s, de Hory gained infamy as a premier forger, passing off counterfeit masterworks of Picasso, Matisse, and Renoir to unsuspecting collectors and renowned museums. Over the next several decades,",
-      "published": "2026-03-26 11:58:00",
-      "timestamp": 1774526280
-    },
-    {
-      "id": "c4c5bc96a17da08a95c33ac3f41f6ecad19b6242",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
-      "link": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
-      "summary": "Some weeks in security feel loud. This one feels sneaky. Less big dramatic fireworks, more of that slow creeping sense that too many people are getting way too comfortable abusing things they probably shouldn\u2019t even be touching. There\u2019s a little bit of everything in this one, too. Weird delivery tricks, old problems coming back in slightly worse forms, shady infrastructure doing",
-      "published": "2026-03-26 11:45:00",
-      "timestamp": 1774525500
     },
     {
       "id": "a46a2a74a02693345f5dd322277c402dbdba3b54",
