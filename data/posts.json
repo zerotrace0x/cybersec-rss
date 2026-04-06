@@ -1,13 +1,33 @@
 {
-  "generated_at": 1775469405,
+  "generated_at": 1775479246,
   "items": [
+    {
+      "id": "0d711b6ca987b49d06f357623fcf87019a95e960",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+      "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+      "summary": "The most active piece of enterprise infrastructure in the company is the developer workstation. That laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI agents. In March 2026, the TeamPCP threat actor proved just how valuable developer machines are. Their supply chain attack on",
+      "published": "2026-04-06 11:45:00",
+      "timestamp": 1775475900
+    },
+    {
+      "id": "8d825b9332e488d94ab744ba08ff085d785f03bc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+      "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
+      "summary": "Threat actors associated with Qilin and Warlock ransomware operations have been observed using the bring your own vulnerable driver (BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend Micro. Qilin attacks analyzed by Talos have been found to deploy a malicious DLL named \"msimg32.dll,\"",
+      "published": "2026-04-06 10:07:00",
+      "timestamp": 1775470020
+    },
     {
       "id": "c31ee8bcbfd069ebf008e76e75e43f9f82991fda",
       "source": "The Hacker News",
       "source_category": "General",
       "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
       "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identity of the main threat actors associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. The threat actor, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum. He",
+      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation. One of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum",
       "published": "2026-04-06 06:59:00",
       "timestamp": 1775458740
     },
@@ -372,7 +392,7 @@
       "timestamp": 1775113740
     },
     {
-      "id": "24212700a08daea34d1fa070299cd7481035399c",
+      "id": "c3dec90a860f2831350cfcc8acfaf3bfb98ed9ae",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Mitigating the Axios npm supply chain compromise",
@@ -782,26 +802,6 @@
       "timestamp": 1774605840
     },
     {
-      "id": "045dc4afd551390e6ae862b9f04f8bb8480ad9f4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history. Both LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of",
-      "published": "2026-03-27 08:07:00",
-      "timestamp": 1774598820
-    },
-    {
-      "id": "1c709bd01e69403d634e449e3df1b77801d60d06",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-      "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-      "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks. The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,",
-      "published": "2026-03-26 17:40:00",
-      "timestamp": 1774546800
-    },
-    {
       "id": "edd6e7e8a04991e080956ed2383b1908443f74df",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -812,7 +812,7 @@
       "timestamp": 1774526400
     },
     {
-      "id": "bcf6e246ab5467989f58d4e520c9a182fed0e316",
+      "id": "a46a2a74a02693345f5dd322277c402dbdba3b54",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Identity security is the new pressure point for modern cyberattacks",
@@ -832,7 +832,7 @@
       "timestamp": 1774440000
     },
     {
-      "id": "6a90f9287a710f5557066be622264d42b8951352",
+      "id": "aa74455b2c9c1392bf0348fae67bf607c9073e2f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Guidance for detecting, investigating, and defending against the Trivy supply chain compromise",
