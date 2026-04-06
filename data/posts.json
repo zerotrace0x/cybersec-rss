@@ -1,6 +1,36 @@
 {
-  "generated_at": 1775500710,
+  "generated_at": 1775510785,
   "items": [
+    {
+      "id": "ee7d74df2771d20e06e29147d3993670ed95ef70",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
+      "summary": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions. [...]",
+      "published": "2026-04-06 19:19:27",
+      "timestamp": 1775503167
+    },
+    {
+      "id": "15fd6957e1d1fae2c31829fb5e85019482f4d755",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
+      "summary": "Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]",
+      "published": "2026-04-06 19:19:24",
+      "timestamp": 1775503164
+    },
+    {
+      "id": "927d5a042cf3d54b6503764ea070c127dd23f726",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+      "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "summary": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East. The activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check Point. \"The campaign is primarily",
+      "published": "2026-04-06 18:37:00",
+      "timestamp": 1775500620
+    },
     {
       "id": "06877275ec2d49eb4b3eb0ccf7bd1c7ed62a0976",
       "source": "BleepingComputer",
@@ -280,26 +310,6 @@
       "summary": "Threat actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research Team. \"Instead of exposing command execution through URL parameters or request bodies, these web shells rely on threat actor-supplied cookie values to gate execution,",
       "published": "2026-04-03 15:32:00",
       "timestamp": 1775230320
-    },
-    {
-      "id": "4fa083528c5b9cf9fd6420044d366f8e960e91f6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
-      "summary": "Multi-extortion ransomware relies on stolen data to pressure victims with public leaks. Penta Security explains how its D.AMO platform keeps exfiltrated files encrypted and useless to attackers. [...]",
-      "published": "2026-04-03 14:05:15",
-      "timestamp": 1775225115
-    },
-    {
-      "id": "41cca0aa4470ca100a0a6f6c0f557a03e78c5b74",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft still working to fix Exchange Online mailbox access issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
-      "summary": "Microsoft is investigating and working to resolve Exchange Online mailbox access issues that have intermittently affected Outlook mobile and macOS users for weeks. [...]",
-      "published": "2026-04-03 11:25:20",
-      "timestamp": 1775215520
     },
     {
       "id": "dd0ce2f62ba6884868fdee8f608fde5417a46f08",
@@ -810,16 +820,6 @@
       "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are",
       "published": "2026-03-27 16:53:00",
       "timestamp": 1774630380
-    },
-    {
-      "id": "73099df8fff59755abb3b592c293aab495f863b8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched bug impacting Open VSX's pre-publish scanning pipeline to cause the tool to allow a malicious Microsoft Visual Studio Code (VS Code) extension to pass the vetting process and go live in the registry. \"The pipeline had a single boolean return value that meant both 'no scanners are configured' and 'all scanners failed to run,'\" Koi",
-      "published": "2026-03-27 13:57:00",
-      "timestamp": 1774619820
     },
     {
       "id": "45744ef2584dd57488abe54a55275bf0eb1dd0ff",
