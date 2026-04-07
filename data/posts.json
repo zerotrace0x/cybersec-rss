@@ -1,6 +1,56 @@
 {
-  "generated_at": 1775566230,
+  "generated_at": 1775577709,
   "items": [
+    {
+      "id": "a088d2ae273bd363e5fca965ace8b3771f597425",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+      "summary": "An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacking local traffic from MikroTik and TP-Link routers to steal Microsoft account credentials. [...]",
+      "published": "2026-04-07 15:51:22",
+      "timestamp": 1775577082
+    },
+    {
+      "id": "d64d13642daa54192d962793ee57e60e4ecc676b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix for CVE-2024-41110, a maximum-severity vulnerability in the same component that came to light in July 2024. \"",
+      "published": "2026-04-07 15:15:00",
+      "timestamp": 1775574900
+    },
+    {
+      "id": "083a28e1197777af5993cc463de6fdf10abf38a0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+      "link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+      "summary": "Automated pentesting tools deliver strong early results, then quickly plateau. Picus Security explains how the \"PoC cliff\" leaves major attack surfaces untested and creates a dangerous validation gap. [...]",
+      "published": "2026-04-07 14:01:11",
+      "timestamp": 1775570471
+    },
+    {
+      "id": "6a48cb60af56730a264a8a73874717798e04885a",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/",
+      "summary": "Executive summary Forest Blizzard, a threat actor linked to the Russian military, has been compromising insecure home and small-office internet equipment like routers, then modifying their settings in ways that turn them into part of the actor\u2019s malicious infrastructure. The post SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks appeared first on Microsoft Security Blog.",
+      "published": "2026-04-07 14:00:00",
+      "timestamp": 1775570400
+    },
+    {
+      "id": "15043a6cde1bb76b12b0ead6c52f7d1017f8ba8a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy botnet. \"A purpose-built Python scanner continuously sweeps major cloud IP ranges for vulnerable targets, automatically installing malicious nodes via ComfyUI-Manager if no exploitable node is already",
+      "published": "2026-04-07 12:46:00",
+      "timestamp": 1775565960
+    },
     {
       "id": "82f24491b7b87646feb8671deb0fe5ed20b78de2",
       "source": "The Hacker News",
@@ -320,26 +370,6 @@
       "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors. [...]",
       "published": "2026-04-04 20:30:42",
       "timestamp": 1775334642
-    },
-    {
-      "id": "09f66a9428d424d4e5f0483d64b5f7a5e5621ac0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Device code phishing attacks surge 37x as new kits spread online",
-      "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-      "summary": "Device code phishing attacks that abuse the OAuth 2.0 Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
-      "published": "2026-04-04 14:17:38",
-      "timestamp": 1775312258
-    },
-    {
-      "id": "aad0862c663e4c524c0dec67ac48dc89c23b2d92",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-      "summary": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. [...]",
-      "published": "2026-04-03 20:40:22",
-      "timestamp": 1775248822
     },
     {
       "id": "db3b355565aa23b47a001097c319e1da79203d44",
@@ -790,36 +820,6 @@
       "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
       "published": "2026-03-30 11:30:00",
       "timestamp": 1774870200
-    },
-    {
-      "id": "c54af0a8f9ddf510f5ed4ce0ff6d1ffacabbe802",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
-      "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
-      "summary": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The campaigns have led to the deployment of various malware families, including HIUPAN (aka USBFect, MISTCLOAK, or U2DiskWatch), PUBLOAD, EggStremeFuel (aka RawCookie), EggStremeLoader (aka Gorem RAT), MASOL",
-      "published": "2026-03-30 07:00:00",
-      "timestamp": 1774854000
-    },
-    {
-      "id": "ecee8cad01ba18a97864a1d678934280a522fd5d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Iran-Linked Hackers Breach FBI Director\u2019s Personal Email, Hit Stryker With Wiper Attack",
-      "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-      "summary": "Threat actors with ties to Iran successfully broke into the personal email account of Kash Patel, the director of the U.S. Federal Bureau of Investigation (FBI), and leaked a cache of photos and other documents to the internet. Handala Hack Team, which carried out the breach, said on its website that Patel \"will now find his name among the list of successfully hacked victims.\" In a statement",
-      "published": "2026-03-28 15:40:00",
-      "timestamp": 1774712400
-    },
-    {
-      "id": "db8914a6aaf4ecfe4437832340f62ea37cd34cf7",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "How Microsoft Defender protects high-value assets in real-world attack scenarios",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/27/microsoft-defender-protects-high-value-assets/",
-      "summary": "High-value assets including domain controllers, web servers, and identity infrastructure are frequent targets in sophisticated attacks. Microsoft Defender applies asset-aware protection using Microsoft Security Exposure Management to detect and block threats against these critical systems. This article explores real-world attack scenarios and defense techniques. The post How Microsoft Defender protects high-value assets in real-world attack scenarios appeared first on Microsoft Security Blog.",
-      "published": "2026-03-27 19:53:53",
-      "timestamp": 1774641233
     },
     {
       "id": "45744ef2584dd57488abe54a55275bf0eb1dd0ff",
