@@ -1,6 +1,16 @@
 {
-  "generated_at": 1775538077,
+  "generated_at": 1775545238,
   "items": [
+    {
+      "id": "ddec9234433890d2f5bce0598029ec83be84ed55",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
+      "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
+      "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck. The vulnerability in question is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remote code execution. \"The CustomMCP node allows users to input configuration settings for connecting",
+      "published": "2026-04-07 05:56:00",
+      "timestamp": 1775541360
+    },
     {
       "id": "7a13666853305d9638c239779459298ff044dbb8",
       "source": "BleepingComputer",
@@ -810,16 +820,6 @@
       "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date iOS software, including the version on your iPhone. Install this critical update to protect your iPhone,\" the",
       "published": "2026-03-27 17:22:00",
       "timestamp": 1774632120
-    },
-    {
-      "id": "ab4e72763228020a87cdc83f9665042fb795a806",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-      "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-      "summary": "TeamPCP, the threat actor behind the supply chain attack targeting Trivy, KICS, and litellm, has now compromised the telnyx Python package by pushing two malicious versions to steal sensitive data. The two versions, 4.87.1 and 4.87.2, published to the Python Package Index (PyPI) repository on March 27, 2026, concealed their credential harvesting capabilities within a .WAV file. Users are",
-      "published": "2026-03-27 16:53:00",
-      "timestamp": 1774630380
     },
     {
       "id": "45744ef2584dd57488abe54a55275bf0eb1dd0ff",
