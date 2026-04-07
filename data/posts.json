@@ -1,6 +1,56 @@
 {
-  "generated_at": 1775577709,
+  "generated_at": 1775587355,
   "items": [
+    {
+      "id": "0e4b8a50fadc818ed19d3e585c85d65790f0c2c7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US warns of Iranian hackers targeting critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+      "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical infrastructure organizations. [...]",
+      "published": "2026-04-07 18:02:26",
+      "timestamp": 1775584946
+    },
+    {
+      "id": "7640a15bf8cd2219eee4c4ee7be0e9cc78c83e9e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+      "published": "2026-04-07 17:02:44",
+      "timestamp": 1775581364
+    },
+    {
+      "id": "e7fd760d16677e365afef733a6fb4b32c0ca8256",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+      "summary": "Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code. [...]",
+      "published": "2026-04-07 17:02:05",
+      "timestamp": 1775581325
+    },
+    {
+      "id": "779ec27afb90aaa14410b50542e13e51fe0e1ba0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "summary": "The Russia-linked threat actor known as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May 2025. The large-scale exploitation campaign has been codenamed",
+      "published": "2026-04-07 16:48:00",
+      "timestamp": 1775580480
+    },
+    {
+      "id": "82f24491b7b87646feb8671deb0fe5ed20b78de2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+      "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems. These \"dark",
+      "published": "2026-04-07 16:29:00",
+      "timestamp": 1775579340
+    },
     {
       "id": "a088d2ae273bd363e5fca965ace8b3771f597425",
       "source": "BleepingComputer",
@@ -50,16 +100,6 @@
       "summary": "An active campaign has been observed targeting internet-exposed instances running ComfyUI, a popular stable diffusion platform, to enlist them into a cryptocurrency mining and proxy botnet. \"A purpose-built Python scanner continuously sweeps major cloud IP ranges for vulnerable targets, automatically installing malicious nodes via ComfyUI-Manager if no exploitable node is already",
       "published": "2026-04-07 12:46:00",
       "timestamp": 1775565960
-    },
-    {
-      "id": "82f24491b7b87646feb8671deb0fe5ed20b78de2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "summary": "In the rapid evolution of the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security leaders: Identity programs are maturing, yet the risk is actually increasing. According to new research from the Ponemon Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems. These \"dark",
-      "published": "2026-04-07 12:17:00",
-      "timestamp": 1775564220
     },
     {
       "id": "f71e38003cdcc9e4e55332431f387e985d1da329",
@@ -332,16 +372,6 @@
       "timestamp": 1775413500
     },
     {
-      "id": "d8cb1c52005c8b8199ff516839962109e2435c0b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit React2Shell in automated credential theft campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-      "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.js apps. [...]",
-      "published": "2026-04-05 14:17:23",
-      "timestamp": 1775398643
-    },
-    {
       "id": "f3c66b06d21facff65eb3909d5ae9f6ec5671e6f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -360,16 +390,6 @@
       "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation. \"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
       "published": "2026-04-05 04:32:00",
       "timestamp": 1775363520
-    },
-    {
-      "id": "a083200f1ffaea483846a316a06801b7512117e9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
-      "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-      "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social engineering campaign believed to have been conducted by North Korean threat actors. [...]",
-      "published": "2026-04-04 20:30:42",
-      "timestamp": 1775334642
     },
     {
       "id": "db3b355565aa23b47a001097c319e1da79203d44",
@@ -452,7 +472,7 @@
       "timestamp": 1775145600
     },
     {
-      "id": "f89cb638c567e321a43e809e78ba9357135b282d",
+      "id": "b0ef428228b5dfb4db74316071ea85fde1d17f82",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
@@ -810,16 +830,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Comm",
       "published": "2026-03-30 12:00:00",
       "timestamp": 1774872000
-    },
-    {
-      "id": "a0bb3922438622aacc624310fbceeb18b3e88090",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
-      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
-      "summary": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded. This year's findings reveal three core trends: AI has",
-      "published": "2026-03-30 11:30:00",
-      "timestamp": 1774870200
     },
     {
       "id": "45744ef2584dd57488abe54a55275bf0eb1dd0ff",
@@ -1240,16 +1250,6 @@
       "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
       "published": "2026-02-11 16:08:11",
       "timestamp": 1770826091
-    },
-    {
-      "id": "aa126d398decb033265ac93c47887d2d21725a68",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "published": "2026-02-10 21:49:53",
-      "timestamp": 1770760193
     },
     {
       "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
