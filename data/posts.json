@@ -1,6 +1,56 @@
 {
-  "generated_at": 1775664319,
+  "generated_at": 1775674726,
   "items": [
+    {
+      "id": "ea43c30998da9aa48ba3fb6d4f8b77d2bb96a8c9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
+      "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
+      "published": "2026-04-08 18:55:43",
+      "timestamp": 1775674543
+    },
+    {
+      "id": "65458f40f0feca9bf4b094209f2239c405f5edfd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
+      "summary": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]",
+      "published": "2026-04-08 18:15:27",
+      "timestamp": 1775672127
+    },
+    {
+      "id": "10efde86ea96f0b8d1555bb6436f4c06524b7489",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "summary": "Cybersecurity researchers have flagged a new variant ofmalware called Chaosthat'scapable of hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure. \"Chaos malware is increasingly targeting misconfigured cloud deployments, expanding beyond its traditional focus on routers and edge devices,\" Darktrace said in a new report.",
+      "published": "2026-04-08 17:51:00",
+      "timestamp": 1775670660
+    },
+    {
+      "id": "ad4b2cf6b79e05f85e0c74e7880961901f70d90e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
+      "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
+      "summary": "Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could be exploited to execute arbitrary commands. [...]",
+      "published": "2026-04-08 17:26:40",
+      "timestamp": 1775669200
+    },
+    {
+      "id": "97f7970f3d35b9345e100065d1722254b31ffa30",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+      "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS) attacks. Called Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range of IoT devices, such as routers and gateways, spanning multiple architectures. \"Built for",
+      "published": "2026-04-08 16:30:00",
+      "timestamp": 1775665800
+    },
     {
       "id": "88b6debeddf7ec801356ba970cd90be72cee19cd",
       "source": "BleepingComputer",
@@ -20,6 +70,16 @@
       "summary": "The Russian threat actor known as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite codenamed PRISMEX. \"PRISMEX combines advanced steganography, component object model (COM) hijacking, and legitimate cloud service abuse for command-and-control,\" Trend Micro",
       "published": "2026-04-08 13:50:00",
       "timestamp": 1775656200
+    },
+    {
+      "id": "6d7a604f4a70cb0c016859ed2a8aa0fca080b021",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
+      "published": "2026-04-08 12:00:00",
+      "timestamp": 1775649600
     },
     {
       "id": "6baebb9512176ac0e68fc68894412725fd9a0b59",
@@ -182,7 +242,7 @@
       "timestamp": 1775570471
     },
     {
-      "id": "6a48cb60af56730a264a8a73874717798e04885a",
+      "id": "a0e2e3e9a8255444a7352ae06389f7f434f32c49",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
@@ -272,16 +332,6 @@
       "timestamp": 1775503167
     },
     {
-      "id": "15fd6957e1d1fae2c31829fb5e85019482f4d755",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-      "summary": "Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]",
-      "published": "2026-04-06 19:19:24",
-      "timestamp": 1775503164
-    },
-    {
       "id": "927d5a042cf3d54b6503764ea070c127dd23f726",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,26 +340,6 @@
       "summary": "An Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid ongoing conflict in the Middle East. The activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check Point. \"The campaign is primarily",
       "published": "2026-04-06 18:37:00",
       "timestamp": 1775500620
-    },
-    {
-      "id": "06877275ec2d49eb4b3eb0ccf7bd1c7ed62a0976",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft removes Support and Recovery Assistant from Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-      "summary": "Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10. [...]",
-      "published": "2026-04-06 17:45:57",
-      "timestamp": 1775497557
-    },
-    {
-      "id": "ec14919db060631c8c60378e8aafa47725bbd0eb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
-      "summary": "Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. [...]",
-      "published": "2026-04-06 16:56:01",
-      "timestamp": 1775494561
     },
     {
       "id": "7b7e97e0f66ac0dfc72933947b5f8e7a5199d4f1",
@@ -522,7 +552,7 @@
       "timestamp": 1775145600
     },
     {
-      "id": "b0ef428228b5dfb4db74316071ea85fde1d17f82",
+      "id": "f89cb638c567e321a43e809e78ba9357135b282d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
@@ -722,7 +752,7 @@
       "timestamp": 1774981680
     },
     {
-      "id": "386c68a736d41f453feba13c263bbea79ec31494",
+      "id": "6b6d007278d9755b499b0fdd4ae15b3ca85dd2dd",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "The threat to critical infrastructure has changed. Has your readiness?",
@@ -792,27 +822,7 @@
       "timestamp": 1774957800
     },
     {
-      "id": "4ecf774e3003c231a9edaf3a7e0f9093092dcdf8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-      "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-      "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT. \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating",
-      "published": "2026-03-31 11:46:00",
-      "timestamp": 1774957560
-    },
-    {
-      "id": "81e57159b4f5a7cbd4a26579b2fab1c4ee307e90",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-      "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-      "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems. Versions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency. According to StepSecurity, the two",
-      "published": "2026-03-31 06:08:00",
-      "timestamp": 1774937280
-    },
-    {
-      "id": "a0c47bede31f53645fc5957671270ce6869a1fec",
+      "id": "a4730a10e9828e9e84fccd6c6dbda098d51e0158",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
@@ -1300,16 +1310,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-11953 React Native Community CLI OS Command Injection Vulnerability CVE-2026-24423 SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reduci",
       "published": "2026-02-05 12:00:00",
       "timestamp": 1770292800
-    },
-    {
-      "id": "67c4f50a1184a936249fa118fc275dbe6bd8dd31",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/03/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2019-19006 Sangoma FreePBX Improper Authentication Vulnerability CVE-2021-39935 GitLab Community and Enterprise Editions Server-Side Request Forgery (SSRF) Vulnerability CVE-2025-40551 SolarWinds Web Help Desk Deserialization of Untrusted Data Vulnerability CVE-2025-64328 Sangoma FreePBX OS Command Injection Vulnerability These types of vulnerabilities are f",
-      "published": "2026-02-03 12:00:00",
-      "timestamp": 1770120000
     },
     {
       "id": "a6e7049ec05d09001e489f7b33c7ae7f4fd77cdb",
