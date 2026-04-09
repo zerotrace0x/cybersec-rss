@@ -1,6 +1,36 @@
 {
-  "generated_at": 1775739191,
+  "generated_at": 1775750956,
   "items": [
+    {
+      "id": "7bbc2519a6f2d9e391f9fa91caa686d4168c085c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "When attackers already have the keys, MFA is just another door to open",
+      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
+      "summary": "Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user\u2014not the session\u2014blocking phishing relays and MFA bypass. [...]",
+      "published": "2026-04-09 14:02:12",
+      "timestamp": 1775743332
+    },
+    {
+      "id": "baf3f7b58ccc842983e6756fcc665847b3c89878",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/intent-redirection-vulnerability-third-party-sdk-android/",
+      "summary": "A severe Android intent\u2011redirection vulnerability in a widely deployed SDK exposed sensitive user data across millions of apps. Microsoft researchers detail how the flaw works, why it matters, and how developers can mitigate similar risks by updating affected SDKs. The post Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk appeared first on Microsoft Security Blog.",
+      "published": "2026-04-09 13:21:18",
+      "timestamp": 1775740878
+    },
+    {
+      "id": "ed1a038bc7f68f20ff9ee356ca0912b0678cf934",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
+      "summary": "Thursday. Another week, another batch of things that probably should've been caught sooner but weren't. This one's got some range \u2014 old vulnerabilities getting new life, a few \"why was that even possible\" moments, attackers leaning on platforms and tools you'd normally trust without thinking twice. Quiet escalations more than loud zero-days, but the kind that matter more in",
+      "published": "2026-04-09 12:57:00",
+      "timestamp": 1775739420
+    },
     {
       "id": "18d35d4baf37589fc792e41fc95cfb47696de541",
       "source": "BleepingComputer",
@@ -252,16 +282,6 @@
       "timestamp": 1775594512
     },
     {
-      "id": "58a858591c1b69509b08862712d1549ebbf0c817",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
-      "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
-      "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
-      "published": "2026-04-07 19:39:18",
-      "timestamp": 1775590758
-    },
-    {
       "id": "7640a15bf8cd2219eee4c4ee7be0e9cc78c83e9e",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -302,7 +322,7 @@
       "timestamp": 1775574900
     },
     {
-      "id": "a0e2e3e9a8255444a7352ae06389f7f434f32c49",
+      "id": "6a48cb60af56730a264a8a73874717798e04885a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
@@ -772,17 +792,7 @@
       "timestamp": 1775023920
     },
     {
-      "id": "32614017ec300923f98169433a97600a57ae13a5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-      "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-      "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year. As part of this",
-      "published": "2026-03-31 18:28:00",
-      "timestamp": 1774981680
-    },
-    {
-      "id": "6b6d007278d9755b499b0fdd4ae15b3ca85dd2dd",
+      "id": "386c68a736d41f453feba13c263bbea79ec31494",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "The threat to critical infrastructure has changed. Has your readiness?",
@@ -812,7 +822,7 @@
       "timestamp": 1774965600
     },
     {
-      "id": "a20bb01bfe2ee721e64681cfdd06898fff6b0af5",
+      "id": "30741e40dfb761bc8d9031bd9ac235da77220039",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "WhatsApp malware campaign delivers VBScript and MSI backdoors",
@@ -820,16 +830,6 @@
       "summary": "A malware campaign uses WhatsApp messages to deliver VBS scripts that initiate a multi-stage infection chain. The attack leverages renamed Windows tools and cloud-hosted payloads to install MSI backdoors and maintain persistent access to compromised systems. The post WhatsApp malware campaign delivers VBScript and MSI backdoors appeared first on Microsoft Security Blog.",
       "published": "2026-03-31 13:43:05",
       "timestamp": 1774964585
-    },
-    {
-      "id": "a4730a10e9828e9e84fccd6c6dbda098d51e0158",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/",
-      "summary": "Agentic AI introduces new security risks. Learn how the OWASP Top 10 Risks for Agentic Applications maps to real mitigations in Microsoft Copilot Studio. The post Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio appeared first on Microsoft Security Blog.",
-      "published": "2026-03-30 16:00:00",
-      "timestamp": 1774886400
     },
     {
       "id": "822b3727bdf08b36efb1aa242751278167423946",
