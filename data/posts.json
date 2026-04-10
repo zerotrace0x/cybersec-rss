@@ -1,6 +1,36 @@
 {
-  "generated_at": 1775815031,
+  "generated_at": 1775824760,
   "items": [
+    {
+      "id": "dbf2af5f686b372f60f5c8b7720d980b08354a40",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+      "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
+      "published": "2026-04-10 11:56:14",
+      "timestamp": 1775822174
+    },
+    {
+      "id": "bc909f423044a743ff5699c18e41191a779dcab8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+      "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+      "summary": "While much of the discussion on AI security centers around protecting \u2018shadow\u2019 AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network that isn't on anyone's",
+      "published": "2026-04-10 11:00:00",
+      "timestamp": 1775818800
+    },
+    {
+      "id": "b4f2600c904829666a0af21dad5c0cac852302f8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
+      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+      "summary": "Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools. [...]",
+      "published": "2026-04-10 10:44:08",
+      "timestamp": 1775817848
+    },
     {
       "id": "01cbc157ae21797a27eb2ea47d4f37cba4b6c9b2",
       "source": "The Hacker News",
@@ -10,6 +40,16 @@
       "summary": "Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of its Chrome web browser, months after it began testing the security feature in open beta. The public availability is currently limited to Windows users on Chrome 146, with macOS expansion planned in an upcoming Chrome release. \"This project represents a significant",
       "published": "2026-04-10 07:58:00",
       "timestamp": 1775807880
+    },
+    {
+      "id": "210d72e173206230553bfa4e7bcd588e0d39bd19",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+      "summary": "A critical security vulnerability in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according to findings from Sysdig. The vulnerability in question is CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo prior to and including",
+      "published": "2026-04-10 07:37:00",
+      "timestamp": 1775806620
     },
     {
       "id": "a05d422036f8abfa18baf16095418830cef2e905",
@@ -240,26 +280,6 @@
       "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple sectors. [...]",
       "published": "2026-04-08 21:46:27",
       "timestamp": 1775684787
-    },
-    {
-      "id": "ea43c30998da9aa48ba3fb6d4f8b77d2bb96a8c9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-      "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users into executing commands in Terminal. [...]",
-      "published": "2026-04-08 18:55:43",
-      "timestamp": 1775674543
-    },
-    {
-      "id": "65458f40f0feca9bf4b094209f2239c405f5edfd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "summary": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since January. [...]",
-      "published": "2026-04-08 18:15:27",
-      "timestamp": 1775672127
     },
     {
       "id": "10efde86ea96f0b8d1555bb6436f4c06524b7489",
@@ -780,26 +800,6 @@
       "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files. The activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into",
       "published": "2026-04-01 14:10:00",
       "timestamp": 1775052600
-    },
-    {
-      "id": "3ecbcdc0064850311d561a8d0044f045d1e74af6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
-      "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
-      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn\u2019t build. It doesn\u2019t enable. Its entire function is to say \"No.\" No to ChatGPT. No to DeepSeek. No to the file-sharing tool the product team swears by. For years, this looked like security. But in 2026, \"Doctor No\" is no longer just a management headache &",
-      "published": "2026-04-01 12:46:00",
-      "timestamp": 1775047560
-    },
-    {
-      "id": "c4510b9d21a6746052cdd7572de62bcb725f5935",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
-      "link": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
-      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot. The activity has been attributed to a Brazilian cybercrime threat actor tracked as Augmented Marauder and Water Saci. The e-crime group was first documented by Trend Micro in",
-      "published": "2026-04-01 12:36:00",
-      "timestamp": 1775046960
     },
     {
       "id": "e8e0bdc3c84bf72b5e2c507327b8c4e22bfc7940",
