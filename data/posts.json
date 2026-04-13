@@ -1,6 +1,26 @@
 {
-  "generated_at": 1776065447,
+  "generated_at": 1776075842,
   "items": [
+    {
+      "id": "61d05bcf64f5d1f0d80f8a38d55f1ac31ced29cf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+      "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "summary": "The North Korean hacking group tracked as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan called RokRAT. \"The threat actor used two Facebook",
+      "published": "2026-04-13 09:15:00",
+      "timestamp": 1776071700
+    },
+    {
+      "id": "3b1f0948cb2d9c41fe6aeae6164bcc86a60bdf36",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+      "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+      "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised. \"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\" OpenAI said in a post last week. \"We found no",
+      "published": "2026-04-13 06:50:00",
+      "timestamp": 1776063000
+    },
     {
       "id": "b499a4e21ae59e328a87cb9b1268a95db112f1b3",
       "source": "BleepingComputer",
@@ -770,26 +790,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livi",
       "published": "2026-04-02 12:00:00",
       "timestamp": 1775131200
-    },
-    {
-      "id": "2dc1a6417cc27dff679dea52f37da5ebc116cab5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
-      "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
-      "summary": "A financially motivated operation codenamed REF1695 has been observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November 2023. \"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,\" Elastic",
-      "published": "2026-04-02 11:42:00",
-      "timestamp": 1775130120
-    },
-    {
-      "id": "a4436b1e6617f6df4db880f97b3b8c4b4dd4f909",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The State of Trusted Open Source Report",
-      "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
-      "summary": "In December 2025, we shared the first-ever The State of Trusted Open Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and",
-      "published": "2026-04-02 11:30:00",
-      "timestamp": 1775129400
     },
     {
       "id": "24212700a08daea34d1fa070299cd7481035399c",
