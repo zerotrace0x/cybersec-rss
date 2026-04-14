@@ -1,6 +1,26 @@
 {
-  "generated_at": 1776143596,
+  "generated_at": 1776150833,
   "items": [
+    {
+      "id": "6b09c7d237d96737d07d540e6cb4d7c0858a6aa7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+      "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+      "summary": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4 out of 10.0. It relates to a case of unrestricted file upload that stems from improper validation of",
+      "published": "2026-04-14 05:50:00",
+      "timestamp": 1776145800
+    },
+    {
+      "id": "5a2025c70838fdfa42cb95ebb7e3d1ce9ffe22d2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
+      "published": "2026-04-14 05:39:00",
+      "timestamp": 1776145140
+    },
     {
       "id": "4ec89aa5aa6a49f98da0fe360cd3c061c3e8a09e",
       "source": "BleepingComputer",
@@ -342,7 +362,7 @@
       "timestamp": 1775746800
     },
     {
-      "id": "baf3f7b58ccc842983e6756fcc665847b3c89878",
+      "id": "5a444c18bb3172042a546013c008ba9de30fc185",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
@@ -512,7 +532,7 @@
       "timestamp": 1775574900
     },
     {
-      "id": "a0e2e3e9a8255444a7352ae06389f7f434f32c49",
+      "id": "6a48cb60af56730a264a8a73874717798e04885a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
@@ -742,26 +762,6 @@
       "timestamp": 1775214240
     },
     {
-      "id": "35535cf1e9320568dec7303e421dec950674b7d8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
-      "link": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
-      "summary": "The next major breach hitting your clients probably won't come from inside their walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That's the new attack surface, and most organizations are underprepared for it. Cynomi's new guide, Securing the Modern Perimeter: The Rise of Third-Party",
-      "published": "2026-04-03 11:00:00",
-      "timestamp": 1775214000
-    },
-    {
-      "id": "830ecd2c42c10f52f940b39f0222afeecdb703fd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-      "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
-      "summary": "Cybersecurity researchers have discovered a new version of the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the trojan was discovered targeting both the mobile operating systems. The malware has been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while",
-      "published": "2026-04-03 09:10:00",
-      "timestamp": 1775207400
-    },
-    {
       "id": "9d3bc29ed0abcd561b1d7884e89f624f562391eb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -772,7 +772,7 @@
       "timestamp": 1775145600
     },
     {
-      "id": "f89cb638c567e321a43e809e78ba9357135b282d",
+      "id": "b0ef428228b5dfb4db74316071ea85fde1d17f82",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
@@ -822,7 +822,7 @@
       "timestamp": 1775044800
     },
     {
-      "id": "6b6d007278d9755b499b0fdd4ae15b3ca85dd2dd",
+      "id": "386c68a736d41f453feba13c263bbea79ec31494",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "The threat to critical infrastructure has changed. Has your readiness?",
