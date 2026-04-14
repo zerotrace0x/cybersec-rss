@@ -1,6 +1,46 @@
 {
-  "generated_at": 1776171232,
+  "generated_at": 1776182305,
   "items": [
+    {
+      "id": "0a466c84e654acda0e6f3f45e0e8d8a5f6e42a9b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
+      "summary": "Microsoft has rolled out a fast-track process to help developers regain access to accounts recently suspended from its Windows Hardware Program, following widespread complaints that they were locked out without warning. [...]",
+      "published": "2026-04-14 15:53:50",
+      "timestamp": 1776182030
+    },
+    {
+      "id": "4d50e82ffb59a2e1fabbbc05c06e02d97bb5ead3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+      "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
+      "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational level. \"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying",
+      "published": "2026-04-14 14:56:00",
+      "timestamp": 1776178560
+    },
+    {
+      "id": "72f6c782472114ace7cb21813645c24225ecaeae",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+      "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+      "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into Google's Discover feed and trick users into enabling persistent browser notifications that lead to scareware and financial scams. The campaign, which has been",
+      "published": "2026-04-14 14:30:00",
+      "timestamp": 1776177000
+    },
+    {
+      "id": "a8ae4550476c5c414b4958f6198c32c3226855fc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "5 Ways Zero Trust Maximizes Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+      "summary": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
+      "published": "2026-04-14 14:02:12",
+      "timestamp": 1776175332
+    },
     {
       "id": "b9f96ff3fdbb6566342e08db2fba91d9f993cb83",
       "source": "The Hacker News",
@@ -27,7 +67,7 @@
       "source_category": "General",
       "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
       "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-      "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited. According to Socket, the extensions are published",
+      "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited. According to Socket, the extensions (complete list",
       "published": "2026-04-14 08:35:00",
       "timestamp": 1776155700
     },
@@ -47,7 +87,7 @@
       "source_category": "General",
       "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
       "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an",
       "published": "2026-04-14 05:39:00",
       "timestamp": 1776145140
     },
@@ -290,26 +330,6 @@
       "summary": "Cybersecurity researchers have flagged yet another evolution of the ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's machine. The technique has been discovered in an Open VSX extension named \"specstudio.code-wakatime-activity-tracker,\" which masquerades as WakaTime, a",
       "published": "2026-04-10 13:23:00",
       "timestamp": 1775827380
-    },
-    {
-      "id": "27b826bab8fd018cca0c4462950a75dff3a78628",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
-      "published": "2026-04-10 13:12:42",
-      "timestamp": 1775826762
-    },
-    {
-      "id": "dbf2af5f686b372f60f5c8b7720d980b08354a40",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
-      "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll pirate attacks. [...]",
-      "published": "2026-04-10 11:56:14",
-      "timestamp": 1775822174
     },
     {
       "id": "bc909f423044a743ff5699c18e41191a779dcab8",
@@ -742,26 +762,6 @@
       "timestamp": 1775413500
     },
     {
-      "id": "f3c66b06d21facff65eb3909d5ae9f6ec5671e6f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
-      "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
-      "summary": "Cybersecurity researchers have discovered 36 malicious packages in the npm registry that are disguised as Strapi CMS plugins but come with different payloads to facilitate Redis and PostgreSQL exploitation, deploy reverse shells, harvest credentials, and drop a persistent implant. \"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository,",
-      "published": "2026-04-05 05:07:00",
-      "timestamp": 1775365620
-    },
-    {
-      "id": "a69972813d9eabe07672adee6ffbcbf295c193c1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-      "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-      "summary": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score: 9.1), has been described as a pre-authentication API access bypass leading to privilege escalation. \"An improper access control vulnerability [CWE-284] in FortiClient EMS may allow an",
-      "published": "2026-04-05 04:32:00",
-      "timestamp": 1775363520
-    },
-    {
       "id": "9d3bc29ed0abcd561b1d7884e89f624f562391eb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -772,7 +772,7 @@
       "timestamp": 1775145600
     },
     {
-      "id": "b0ef428228b5dfb4db74316071ea85fde1d17f82",
+      "id": "f89cb638c567e321a43e809e78ba9357135b282d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
