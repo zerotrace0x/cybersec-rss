@@ -1,6 +1,66 @@
 {
-  "generated_at": 1776182305,
+  "generated_at": 1776192854,
   "items": [
+    {
+      "id": "75d04b32e8c2394a94338f16e01d37b0e95b36e0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft releases Windows 10 KB5082200 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...]",
+      "published": "2026-04-14 18:09:39",
+      "timestamp": 1776190179
+    },
+    {
+      "id": "bc0b8d54d76ff0aaf145e4f9e78439ec3a476c7d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "McGraw-Hill confirms data breach following extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
+      "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
+      "published": "2026-04-14 18:07:07",
+      "timestamp": 1776190027
+    },
+    {
+      "id": "349dba8220864d9cd9a9241c2607b5d026227ac1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
+      "summary": "Microsoft has released Windows 11 KB5083769 and KB5082052 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "2026-04-14 17:46:31",
+      "timestamp": 1776188791
+    },
+    {
+      "id": "f35248def7479896757065d3671026e19e439fce",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "summary": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
+      "published": "2026-04-14 17:41:13",
+      "timestamp": 1776188473
+    },
+    {
+      "id": "bfbf2bf396ff688e0ad8258e688336f3b70763f6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake Ledger Live app on Apple\u2019s App Store stole $9.5M in crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
+      "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
+      "published": "2026-04-14 16:37:01",
+      "timestamp": 1776184621
+    },
+    {
+      "id": "53d80d11f8697461235a374f744be04716ddcb1a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
+      "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+      "summary": "Two high-severity security vulnerabilities have been disclosed in Composer, a package manager for PHP, that, if successfully exploited, could result in arbitrary command execution. The vulnerabilities have been described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below - CVE-2026-40176 (CVSS",
+      "published": "2026-04-14 15:57:00",
+      "timestamp": 1776182220
+    },
     {
       "id": "0a466c84e654acda0e6f3f45e0e8d8a5f6e42a9b",
       "source": "BleepingComputer",
@@ -40,6 +100,16 @@
       "summary": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
       "published": "2026-04-14 14:02:12",
       "timestamp": 1776175332
+    },
+    {
+      "id": "90017c21e58a88408b61c4081f8ed5d40052721b",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of",
+      "published": "2026-04-14 12:00:00",
+      "timestamp": 1776168000
     },
     {
       "id": "b9f96ff3fdbb6566342e08db2fba91d9f993cb83",
@@ -242,16 +312,6 @@
       "timestamp": 1776063000
     },
     {
-      "id": "b499a4e21ae59e328a87cb9b1268a95db112f1b3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
-      "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
-      "published": "2026-04-12 14:20:31",
-      "timestamp": 1776003631
-    },
-    {
       "id": "c96acc43056b92f5838e4a9df197beb4048c1cf0",
       "source": "The Hacker News",
       "source_category": "General",
@@ -272,16 +332,6 @@
       "timestamp": 1775967900
     },
     {
-      "id": "5e7aaafee15296f0475ac6a4fead8c79a4ad5dfc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 20,000 crypto fraud victims identified in international crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
-      "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United States. [...]",
-      "published": "2026-04-11 14:20:40",
-      "timestamp": 1775917240
-    },
-    {
       "id": "d9d4f03a87d355e44e98f70bfca289bd0dff0841",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,36 +340,6 @@
       "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called Webloc. The tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after the two firms merged in July 2023",
       "published": "2026-04-11 06:02:00",
       "timestamp": 1775887320
-    },
-    {
-      "id": "194f69fe7f116784c979851c52e3a4af0bf2977a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
-      "summary": "OpenAI has rolled out a new Pro subscription that costs $100 and is in line with Claude's pricing, which also has a $100 subscription, in addition to the $200 Max monthly plan. [...]",
-      "published": "2026-04-11 02:08:16",
-      "timestamp": 1775873296
-    },
-    {
-      "id": "0027a21e33e44e3b0ad8bc9b77515ceecd8e5dbd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-      "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exposed programmable logic controllers (PLCs) manufactured by Rockwell Automation. [...]",
-      "published": "2026-04-10 15:52:45",
-      "timestamp": 1775836365
-    },
-    {
-      "id": "50624dd608893608ea799b18703db0887389d41c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-      "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-      "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited before defenders can patch them. [...]",
-      "published": "2026-04-10 14:01:11",
-      "timestamp": 1775829671
     },
     {
       "id": "6c1cb5b6e0c08f7460de81039353a22abb7621f0",
@@ -750,16 +770,6 @@
       "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
       "published": "2026-04-06 02:07:17",
       "timestamp": 1775441237
-    },
-    {
-      "id": "5516d390699b16a4f2164c7a895afdcbf2923d30",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
-      "link": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
-      "summary": "Drift has revealed that the April 1, 2026, attack that led to the theft of $285 million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of 2025. The Solana-based decentralized exchange described it as \"an attack six months in the",
-      "published": "2026-04-05 18:25:00",
-      "timestamp": 1775413500
     },
     {
       "id": "9d3bc29ed0abcd561b1d7884e89f624f562391eb",
@@ -1288,16 +1298,6 @@
       "title": "Poland Energy Sector Cyber Incident Highlights OT and ICS Security Gaps",
       "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/poland-energy-sector-cyber-incident-highlights-ot-and-ics-security-gaps",
       "summary": "The purpose of this Alert is to amplify Poland\u2019s Computer Emergency Response Team (CERT Polska\u2019s) Energy Sector Incident Report published on Jan. 30, 2026, and highlight key mitigations for Energy Sector stakeholders. In December 2025, a malicious cyber actor(s) targeted and compromised operational technology (OT) and industrial control systems (ICS) in Poland\u2019s Energy Sector\u2014specifically renewable energy plants, a combined heat and power plant, and a manufacturing sector company\u2014in a cyber inci",
-      "published": "2026-02-10 12:00:00",
-      "timestamp": 1770724800
-    },
-    {
-      "id": "b3bc93cbcd31a23b5536983840fe393f38f05e14",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21510 Microsoft Windows Shell Protection Mechanism Failure Vulnerability CVE-2026-21513 Microsoft MSHTML Framework Security Feature Bypass Vulnerability CVE-2026-21514 Microsoft Office Word Reliance on Untrusted Inputs in a Security Decision Vulnerability CVE-2026-21519 Microsoft Windows Type Confusion Vulnerability CVE-2026-21525 Microsoft Windows NULL ",
       "published": "2026-02-10 12:00:00",
       "timestamp": 1770724800
     },
