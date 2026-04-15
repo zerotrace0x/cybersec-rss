@@ -1,6 +1,46 @@
 {
-  "generated_at": 1776268587,
+  "generated_at": 1776279363,
   "items": [
+    {
+      "id": "5e934524e543e25c48d0a08d421884d85c9ee7b0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Signed software abused to deploy antivirus-killing scripts",
+      "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+      "summary": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, some in the educational, utilities, government, and healthcare sectors. [...]",
+      "published": "2026-04-15 17:59:30",
+      "timestamp": 1776275970
+    },
+    {
+      "id": "d8da15ee5ab25a98e4732297b9a485e9b0d49592",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+      "summary": "Threat actors have been observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated emails. \"By leveraging trusted infrastructure, these attackers bypass traditional security filters, turning productivity tools into delivery",
+      "published": "2026-04-15 17:09:00",
+      "timestamp": 1776272940
+    },
+    {
+      "id": "9a73696e1e7e8d861c5920d1f9e909bbc52bc8bd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+      "summary": "Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...]",
+      "published": "2026-04-15 16:20:21",
+      "timestamp": 1776270021
+    },
+    {
+      "id": "48a22dd5e6fa95bdd6ee708a213ff1f9006f4e0f",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Incident response for AI: Same fire, different fuel",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
+      "summary": "AI changes how incidents unfold and how we respond. Learn which IR practices still apply and where new telemetry, tools, and skills are needed. The post Incident response for AI: Same fire, different fuel appeared first on Microsoft Security Blog.",
+      "published": "2026-04-15 16:00:45",
+      "timestamp": 1776268845
+    },
     {
       "id": "df3a610170ef71798ab3ff630b757971f290af79",
       "source": "BleepingComputer",
@@ -222,16 +262,6 @@
       "timestamp": 1776177000
     },
     {
-      "id": "a8ae4550476c5c414b4958f6198c32c3226855fc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "5 Ways Zero Trust Maximizes Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
-      "summary": "Stolen credentials remain a top breach vector, often leading to unchecked privilege escalation. Specops explains how identity-first Zero Trust limits access, enforces device trust, and blocks lateral movement. [...]",
-      "published": "2026-04-14 14:02:12",
-      "timestamp": 1776175332
-    },
-    {
       "id": "90017c21e58a88408b61c4081f8ed5d40052721b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -290,16 +320,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an",
       "published": "2026-04-14 05:39:00",
       "timestamp": 1776145140
-    },
-    {
-      "id": "4ec89aa5aa6a49f98da0fe360cd3c061c3e8a09e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
-      "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
-      "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
-      "published": "2026-04-13 21:50:01",
-      "timestamp": 1776117001
     },
     {
       "id": "0a15b42c0e8f3fec96f2b9657e1593f9aefe771e",
@@ -742,16 +762,6 @@
       "timestamp": 1775493257
     },
     {
-      "id": "afcbaa20dcbef4485e769498617a84f271e12967",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
-      "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-      "summary": "Threat actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South Korea. The attack chain, per Fortinet FortiGuard Labs, involves obfuscated Windows shortcut (LNK) files acting as the starting point to drop a decoy PDF",
-      "published": "2026-04-06 16:24:00",
-      "timestamp": 1775492640
-    },
-    {
       "id": "da8e338bf65673755171ecf8eed3cd3ae74cac6e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -840,16 +850,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulner",
       "published": "2026-04-01 12:00:00",
       "timestamp": 1775044800
-    },
-    {
-      "id": "386c68a736d41f453feba13c263bbea79ec31494",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The threat to critical infrastructure has changed. Has your readiness?",
-      "link": "https://www.microsoft.com/en-us/security/security-insider/threat-landscape/threat-to-critical-infrastructure-has-changed",
-      "summary": "Five facts critical infrastructure (CI) leaders need to act on in 2026, grounded in what Microsoft Threat Intelligence is observing across sectors right now. The post The threat to critical infrastructure has changed. Has your readiness? appeared first on Microsoft Security Blog.",
-      "published": "2026-03-31 17:00:00",
-      "timestamp": 1774976400
     },
     {
       "id": "fcb8366f8e86db1874b9b22b427d36bf0a37f002",
