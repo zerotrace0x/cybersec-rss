@@ -1,6 +1,46 @@
 {
-  "generated_at": 1776257603,
+  "generated_at": 1776268587,
   "items": [
+    {
+      "id": "df3a610170ef71798ab3ff630b757971f290af79",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+      "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers to gain SYSTEM privileges. [...]",
+      "published": "2026-04-15 14:51:05",
+      "timestamp": 1776264665
+    },
+    {
+      "id": "1bb08edb8558cd6d34ea8388e55b64008cecdc4c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Rolling Networks: Securing the Transportation Sector",
+      "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+      "summary": "Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emerging threats in transportation. [...]",
+      "published": "2026-04-15 14:00:10",
+      "timestamp": 1776261610
+    },
+    {
+      "id": "4791a76f923a9e56490707a4105f36c7d383079a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
+      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the wild. The vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors to seize control of the Nginx service. It has been codenamed MCPwn by Pluto Security. \"",
+      "published": "2026-04-15 12:56:00",
+      "timestamp": 1776257760
+    },
+    {
+      "id": "c51905546d27bc709ec252ec6df362adeedb1b28",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
+      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
+      "summary": "A number of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday releases. Topping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse (CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database",
+      "published": "2026-04-15 12:37:00",
+      "timestamp": 1776256620
+    },
     {
       "id": "2195307241058450a0c36ecd21a04433f1320d75",
       "source": "BleepingComputer",
@@ -260,26 +300,6 @@
       "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
       "published": "2026-04-13 21:50:01",
       "timestamp": 1776117001
-    },
-    {
-      "id": "2914d96d1052204d5623bdc73a763b6290c933a0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
-      "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen data on its data leak site. [...]",
-      "published": "2026-04-13 20:08:10",
-      "timestamp": 1776110890
-    },
-    {
-      "id": "d02deba20cc666b51cc79dc3002b82d9fe34d8c8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical flaw in wolfSSL library enables forged certificate use",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
-      "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking Elliptic Curve Digital Signature Algorithm (ECDSA) signatures. [...]",
-      "published": "2026-04-13 19:56:03",
-      "timestamp": 1776110163
     },
     {
       "id": "0a15b42c0e8f3fec96f2b9657e1593f9aefe771e",
@@ -740,26 +760,6 @@
       "summary": "The financially motivated cybercriminal threat actor Storm-1175 operates high-velocity ransomware campaigns that weaponize recently disclosed vulnerabilities to obtain initial access, exfiltrate data, and deploy Medusa ransomware. The post Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations appeared first on Microsoft Security Blog.",
       "published": "2026-04-06 16:00:00",
       "timestamp": 1775491200
-    },
-    {
-      "id": "a6cd1961b0327387e70c8795851f1727ecd0f11a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
-      "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
-      "summary": "Your attack surface no longer lives on one operating system, and neither do the campaigns targeting it. In enterprise environments, attackers move across Windows endpoints, executive MacBooks, Linux infrastructure, and mobile devices, taking advantage of the fact that many SOC workflows are still fragmented by platform. For security leaders, this creates a",
-      "published": "2026-04-06 13:00:00",
-      "timestamp": 1775480400
-    },
-    {
-      "id": "4dabb9e48af9504b86b8b1476e9af90ebefbfd2d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
-      "summary": "This week had real hits. The key software got tampered with. Active bugs showed up in the tools people use every day. Some attacks didn\u2019t even need much effort because the path was already there. One weak spot now spreads wider than before. What starts small can reach a lot of systems fast. New bugs, faster use, less time to react. That\u2019s this week. Read&",
-      "published": "2026-04-06 12:46:00",
-      "timestamp": 1775479560
     },
     {
       "id": "5e193a88ce050bc7665b3057fc6cc92142a018e8",
@@ -1450,506 +1450,6 @@
       "summary": "Written by: Aragorn Tseng, Robert Weiner, Casey Charrier, Zander Work, Genevieve Stark, Austin Larsen Introduction On Dec. 3, 2025, a critical unauthenticated remote code execution (RCE) vulnerability in React Server Components, tracked as CVE-2025-55182 (aka \"React2Shell\"), was publicly disclosed. Shortly after disclosure, Google Threat Intelligence Group (GTIG) had begun observing widespread exploitation across many threat clusters, ranging from opportunistic cyber crime actors to suspected es",
       "published": "2025-12-12 14:00:00",
       "timestamp": 1765548000
-    },
-    {
-      "id": "8481e266f2382a95b1141d61bfb8ce0b741b55a4",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48192",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48192",
-      "summary": "Cross-site Scripting vulnerability in Softing smartLink SW-HT before 1.30, which allows an attacker to execute a dynamic script (JavaScript, VBScript) in the context of the application.",
-      "published": "2023-11-06 20:15:07",
-      "timestamp": 1699301707
-    },
-    {
-      "id": "0bb8e24ebb74d317530f7409f2fbfe6a9fdf493e",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48193",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48193",
-      "summary": "Weak ciphers in Softing smartLink SW-HT before 1.30 are enabled during secure communication (SSL).",
-      "published": "2023-11-06 20:15:07",
-      "timestamp": 1699301707
-    },
-    {
-      "id": "05840fdbad9bb478c4aeb92efc45c209a15cf248",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2021-4430",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4430",
-      "summary": "A vulnerability classified as problematic has been found in Ortus Solutions ColdBox Elixir 3.1.6. This affects an unknown part of the file src/defaultConfig.js of the component ENV Variable Handler. The manipulation leads to information disclosure. Upgrading to version 3.1.7 is able to address this issue. The identifier of the patch is a3aa62daea2e44c76d08d1eac63768cd928cd69e. It is recommended to upgrade the affected component. The identifier VDB-244485 was assigned to this vulnerability.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "1d8574212c48867f0191f18aef75527def3024d6",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-45373",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45373",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Jason Crouse, VeronaLabs Slimstat Analytics allows SQL Injection.This issue affects Slimstat Analytics: from n/a through 5.0.4.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "1980b88decd3b30dc23cd13a111ec36490599ea9",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-46849",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46849",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Weblizar Coming Soon Page \u00e2\u20ac\u201c Responsive Coming Soon & Maintenance Mode allows SQL Injection.This issue affects Coming Soon Page \u00e2\u20ac\u201c Responsive Coming Soon & Maintenance Mode: from n/a through 1.5.9.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "4c1cd5b7c873bb396f8a5a6e8b76ddef08250124",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-46860",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46860",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in KaizenCoders Short URL allows SQL Injection.This issue affects Short URL: from n/a through 1.6.4.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "8abfe06604a75ff1d1a6d5c136b095370ddedee8",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-47420",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-47420",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Online ADA Accessibility Suite by Online ADA allows SQL Injection.This issue affects Accessibility Suite by Online ADA: from n/a through 4.11.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "e1af634165a46c358ce8380cec193e5c72186ebe",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-47428",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-47428",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WpDevArt Booking calendar, Appointment Booking System allows SQL Injection.This issue affects Booking calendar, Appointment Booking System: from n/a through 3.2.7.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "62178c8f734ab545c4a925ce236b73f3c6975a9e",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-47430",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-47430",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Weblizar The School Management \u00e2\u20ac\u201c Education & Learning Management allows SQL Injection.This issue affects The School Management \u00e2\u20ac\u201c Education & Learning Management: from n/a through 4.1.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "73c982fbb4147a034f42446a6d75454dcd4bd54a",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-47432",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-47432",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Kemal YAZICI - PluginPress Shortcode IMDB allows SQL Injection.This issue affects Shortcode IMDB: from n/a through 6.0.8.",
-      "published": "2023-11-06 08:15:21",
-      "timestamp": 1699258521
-    },
-    {
-      "id": "4805ac7623df052e3b20e558fd0df82cfe47de0f",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2018-25093",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25093",
-      "summary": "A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been rated as critical. Affected by this issue is some unknown functionality of the component Tag Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The name of the patch is cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-244484.",
-      "published": "2023-11-06 01:15:08",
-      "timestamp": 1699233308
-    },
-    {
-      "id": "115544aed51430ba4aa5058665fac5b3d9c13d30",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2017-20187",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20187",
-      "summary": "** UNSUPPPORTED WHEN ASSIGNED ** ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Magnesium-PHP up to 0.3.0. It has been classified as problematic. Affected is the function formatEmailString of the file src/Magnesium/Message/Base.php. The manipulation of the argument email/name leads to injection. Upgrading to version 0.3.1 is able to address this issue. The patch is identified as 500d340e1f6421007413cc08a8383475221c2604. It is recommended to upgrade the affected component. VDB-24448",
-      "published": "2023-11-05 21:15:09",
-      "timestamp": 1699218909
-    },
-    {
-      "id": "e34bd6df0ac7d06618b2f84f14dddca3a621ee6c",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2018-25092",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25092",
-      "summary": "A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Command Mention Handler. The manipulation leads to improper access controls. Upgrading to version 2.10.3 is able to address this issue. The patch is named cc12e0be82a5d05d9f359ed8e56088f4f8b8eb69. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-244483.",
-      "published": "2023-11-05 21:15:09",
-      "timestamp": 1699218909
-    },
-    {
-      "id": "6992f2a6000fa9304994b6dfafb2f2de5fd552f4",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-3172",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3172",
-      "summary": "A security issue was discovered in kube-apiserver that allows an aggregated API server to redirect client traffic to any URL. This could lead to the client performing unexpected actions as well as forwarding the client's API server credentials to third parties.",
-      "published": "2023-11-03 20:15:08",
-      "timestamp": 1699042508
-    },
-    {
-      "id": "0729ee49eeb535df9a3503f401bfc8a915262654",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-43554",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43554",
-      "summary": "Ivanti Avalanche Smart Device Service Missing Authentication Local Privilege Escalation Vulnerability",
-      "published": "2023-11-03 20:15:08",
-      "timestamp": 1699042508
-    },
-    {
-      "id": "871a89ab12ffeef9ed865c856274b9142553c955",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-43555",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43555",
-      "summary": "Ivanti Avalanche Printer Device Service Missing Authentication Local Privilege Escalation Vulnerability",
-      "published": "2023-11-03 20:15:08",
-      "timestamp": 1699042508
-    },
-    {
-      "id": "feb3a235b23de84b1a6eac9dfff65470f0b5a4fb",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-44569",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44569",
-      "summary": "A locally authenticated attacker with low privileges can bypass authentication due to insecure inter-process communication.",
-      "published": "2023-11-03 20:15:08",
-      "timestamp": 1699042508
-    },
-    {
-      "id": "36851a9cd608d37f86d0f52c25cf9ec47404337b",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-46818",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46818",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Gopi Ramasamy Email posts to subscribers allows SQL Injection.This issue affects Email posts to subscribers: from n/a through 6.2.",
-      "published": "2023-11-03 16:15:30",
-      "timestamp": 1699028130
-    },
-    {
-      "id": "1d6746453623ae274929853d1bd67d3b1b7b57e1",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-45805",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-45805",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Paytm Paytm Payment Gateway paytm-payments allows SQL Injection.This issue affects Paytm Payment Gateway: from n/a through 2.7.3.",
-      "published": "2023-11-03 13:15:08",
-      "timestamp": 1699017308
-    },
-    {
-      "id": "9bfb1a7170e1eb098add0c09339305e0962b2447",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-46808",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46808",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Repute Infosystems ARMember armember-membership allows SQL Injection.This issue affects ARMember: from n/a through 3.4.11.",
-      "published": "2023-11-03 13:15:08",
-      "timestamp": 1699017308
-    },
-    {
-      "id": "84e9836f165eafe83a0198db926a9597b0ff2c5b",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-46859",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46859",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Spiffy Plugins Spiffy Calendar spiffy-calendar allows SQL Injection.This issue affects Spiffy Calendar: from n/a through 4.9.1.",
-      "published": "2023-11-03 13:15:08",
-      "timestamp": 1699017308
-    },
-    {
-      "id": "ac622aa882c517fefdfafd62ac387ed45e27688a",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-47426",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-47426",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Neshan Maps Platform Neshan Maps neshan-maps allows SQL Injection.This issue affects Neshan Maps: from n/a through 1.1.4.",
-      "published": "2023-11-03 13:15:08",
-      "timestamp": 1699017308
-    },
-    {
-      "id": "f0d883603495e827f253bd3994c819d16fe4955a",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-47445",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-47445",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Web-X Be POPIA Compliant be-popia-compliant allows SQL Injection.This issue affects Be POPIA Compliant: from n/a through 1.2.0.",
-      "published": "2023-11-03 13:15:08",
-      "timestamp": 1699017308
-    },
-    {
-      "id": "c221261d95e9fdd582cafa924896d9afe4210d7b",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-47588",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-47588",
-      "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Tips and Tricks HQ, Peter Petreski Simple Photo Gallery simple-photo-gallery allows SQL Injection.This issue affects Simple Photo Gallery: from n/a through v1.8.1.",
-      "published": "2023-11-03 12:15:08",
-      "timestamp": 1699013708
-    },
-    {
-      "id": "7655df94a39efed8a917f24254f6d862a518e7b6",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1476",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1476",
-      "summary": "A use-after-free flaw was found in the Linux kernel\u00e2\u20ac\u2122s mm/mremap memory address space accounting source code. This issue occurs due to a race condition between rmap walk and mremap, allowing a local user to crash the system or potentially escalate their privileges on the system.",
-      "published": "2023-11-03 09:15:13",
-      "timestamp": 1699002913
-    },
-    {
-      "id": "ae13585aa9329c1c38d3eb32fa5576c566e35c17",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1194",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1194",
-      "summary": "An out-of-bounds (OOB) memory read flaw was found in parse_lease_state in the KSMBD implementation of the in-kernel samba server and CIFS in the Linux kernel. When an attacker sends the CREATE command with a malformed payload to KSMBD, due to a missing check of `NameOffset` in the `parse_lease_state()` function, the `create_context` object can access invalid memory.",
-      "published": "2023-11-03 08:15:07",
-      "timestamp": 1698999307
-    },
-    {
-      "id": "12047fbdf80c978a8590564c5611dc443080ea95",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2020-28407",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28407",
-      "summary": "In swtpm before 0.4.2 and 0.5.x before 0.5.1, a local attacker may be able to overwrite arbitrary files via a symlink attack against a temporary file such as TMP2-00.permall.",
-      "published": "2023-11-03 04:15:15",
-      "timestamp": 1698984915
-    },
-    {
-      "id": "304c4fb8066db8008fc61f6cba5a4ffe72208c77",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2017-7252",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-7252",
-      "summary": "bcrypt password hashing in Botan before 2.1.0 does not correctly handle passwords with a length between 57 and 72 characters, which makes it easier for attackers to determine the cleartext password.",
-      "published": "2023-11-03 01:15:07",
-      "timestamp": 1698974107
-    },
-    {
-      "id": "638b5787bae1aa0c3e56857efe847aac3af6ae42",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-4900",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-4900",
-      "summary": "A vulnerability was found in PHP where setting the environment variable PHP_CLI_SERVER_WORKERS to a large value leads to a heap buffer overflow.",
-      "published": "2023-11-02 16:15:08",
-      "timestamp": 1698941708
-    },
-    {
-      "id": "14e99f5c4139f91c89f9098fa3100aa987f96b2b",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1192",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1192",
-      "summary": "A use-after-free flaw was found in smb2_is_status_io_timeout() in CIFS in the Linux Kernel. After CIFS transfers response data to a system call, there are still local variable points to the memory region, and if the system call frees it faster than CIFS uses it, CIFS will access a free memory region, leading to a denial of service.",
-      "published": "2023-11-01 20:15:08",
-      "timestamp": 1698869708
-    },
-    {
-      "id": "e91410d3e46bcb8af871ed36694619d7d94c5d01",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1193",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1193",
-      "summary": "A use-after-free flaw was found in setup_async_work in the KSMBD implementation of the in-kernel samba server and CIFS in the Linux kernel. This issue could allow an attacker to crash the system by accessing freed work.",
-      "published": "2023-11-01 20:15:08",
-      "timestamp": 1698869708
-    },
-    {
-      "id": "cc6d92324314fe86b7c7f7aedc2023628dccd02e",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-20031",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20031",
-      "summary": "A vulnerability in the SSL/TLS certificate handling of Snort 3 Detection Engine integration with Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to cause the Snort 3 detection engine to restart. This vulnerability is due to a logic error that occurs when an SSL/TLS certificate that is under load is accessed when it is initiating an SSL connection. Under specific, time-based constraints, an attacker could exploit this vulnerability by sending a high r",
-      "published": "2023-11-01 18:15:08",
-      "timestamp": 1698862508
-    },
-    {
-      "id": "af9de543f10bdf23dac10d8f0324eb2f884f01f8",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-20005",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20005",
-      "summary": "Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface of an affected device. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by inserting crafted input into various data fields in an aff",
-      "published": "2023-11-01 17:15:10",
-      "timestamp": 1698858910
-    },
-    {
-      "id": "b4df64748f38620a1a23dbcdfd85f9f34f1fbb19",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-20041",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20041",
-      "summary": "Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, remote attacker to conduct a stored cross-site scripting (XSS) attack against a user of the interface of an affected device. These vulnerabilities are due to insufficient validation of user-supplied input by the web-based management interface. An attacker could exploit these vulnerabilities by inserting crafted input into various data fields in an aff",
-      "published": "2023-11-01 17:15:10",
-      "timestamp": 1698858910
-    },
-    {
-      "id": "e1e7480752352732434ac807afa6abd543b0e529",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1714",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1714",
-      "summary": "Unsafe variable extraction in bitrix/modules/main/classes/general/user_options.php in Bitrix24 22.0.300 allows remote authenticated attackers to execute arbitrary code via (1) appending arbitrary content to existing PHP files or (2) PHAR deserialization.",
-      "published": "2023-11-01 10:15:09",
-      "timestamp": 1698833709
-    },
-    {
-      "id": "809d8a70f012fd35c5024f256e612e6ef04e2098",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1715",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1715",
-      "summary": "A logic error when using mb_strpos() to check for potential XSS payload in Bitrix24 22.0.300 allows attackers to bypass XSS sanitisation via placing HTML tags at the begining of the payload.",
-      "published": "2023-11-01 10:15:09",
-      "timestamp": 1698833709
-    },
-    {
-      "id": "fd0cd10376bf59847c826d590229a1cce1470400",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1716",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1716",
-      "summary": "Cross-site scripting (XSS) vulnerability in Invoice Edit Page in Bitrix24 22.0.300 allows attackers to execute arbitrary JavaScript code in the victim's browser, and possibly execute arbitrary PHP code on the server if the victim has administrator privilege.",
-      "published": "2023-11-01 10:15:09",
-      "timestamp": 1698833709
-    },
-    {
-      "id": "779d4f424fc7f0cae68ff1d5fbb569244abe915a",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1717",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1717",
-      "summary": "Prototype pollution in bitrix/templates/bitrix24/components/bitrix/menu/left_vertical/script.js in Bitrix24 22.0.300 allows remote attackers to execute arbitrary JavaScript code in the victim\u00e2\u20ac\u2122s browser, and possibly execute arbitrary PHP code on the server if the victim has administrator privilege, via polluting `__proto__[tag]` and `__proto__[text]`.",
-      "published": "2023-11-01 10:15:09",
-      "timestamp": 1698833709
-    },
-    {
-      "id": "8a6c9a800030067e170fcddcac01e9bee36cc9e6",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1718",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1718",
-      "summary": "Improper file stream access in /desktop_app/file.ajax.php?action=uploadfile in Bitrix24 22.0.300 allows unauthenticated remote attackers to cause denial-of-service via a crafted \"tmp_url\".",
-      "published": "2023-11-01 10:15:09",
-      "timestamp": 1698833709
-    },
-    {
-      "id": "7e7babe21f671a9dc1cf65131aef8101514d7684",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1719",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1719",
-      "summary": "Global variable extraction in bitrix/modules/main/tools.php in Bitrix24 22.0.300 allows unauthenticated remote attackers to (1) enumerate attachments on the server and (2) execute arbitrary JavaScript code in the victim's browser, and possibly execute arbitrary PHP code on the server if the victim has administrator privilege, via overwriting uninitialised variables.",
-      "published": "2023-11-01 10:15:09",
-      "timestamp": 1698833709
-    },
-    {
-      "id": "cdfabb4091c6ca805bb6945e14bc2a89f119a3a6",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1720",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1720",
-      "summary": "Lack of mime type response header in Bitrix24 22.0.300 allows authenticated remote attackers to execute arbitrary JavaScript code in the victim's browser, and possibly execute arbitrary PHP code on the server if the victim has administrator privilege, via uploading a crafted HTML file through /desktop_app/file.ajax.php?action=uploadfile.",
-      "published": "2023-11-01 10:15:09",
-      "timestamp": 1698833709
-    },
-    {
-      "id": "aa7a27f8739c0de00f9519b04b8176beefc22ccb",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48454",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48454",
-      "summary": "In wifi service, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service with no additional execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "b08ed77ecabababd7ed0371b02ab901274cec9f2",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48455",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48455",
-      "summary": "In wifi service, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service with no additional execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "bca101415dc5b33c20f2d5f6596b4f278387160e",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48456",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48456",
-      "summary": "In camera driver, there is a possible out of bounds write due to a incorrect bounds check. This could lead to local denial of service with System execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "c64fbc6d890c707d281437b0e9e10ab9f35a5b7a",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48457",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48457",
-      "summary": "In TeleService, there is a possible system crash due to improper input validation. This could lead to local denial of service with no additional execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "b0339fbf757825201c0fe8aefabffa8e96e6608d",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48458",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48458",
-      "summary": "In TeleService, there is a possible system crash due to improper input validation. This could lead to local denial of service with no additional execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "12a996b01a7d4842f67e666f056bdd100f5356d4",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48459",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48459",
-      "summary": "In TeleService, there is a possible system crash due to improper input validation. This could lead to local denial of service with no additional execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "3cff05b05cd9d1a140a785e533112d7ace108a79",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48460",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48460",
-      "summary": "In setting service, there is a possible undefined behavior due to incorrect error handling. This could lead to local denial of service with no additional execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "9fb5c8da4573f547fdeb50b4c98c431aec312f47",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2022-48461",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48461",
-      "summary": "In sensor driver, there is a possible out of bounds write due to a missing bounds check. This could lead to local denial of service with System execution privileges needed",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
-    },
-    {
-      "id": "b1c62512855bbc3254a95d397c4723bc12ae506b",
-      "source": "NIST NVD Recent CVEs",
-      "source_category": "Vulnerabilities",
-      "title": "CVE-2023-1713",
-      "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1713",
-      "summary": "Insecure temporary file creation in bitrix/modules/crm/lib/order/import/instagram.php in Bitrix24 22.0.300 hosted on Apache HTTP Server allows remote authenticated attackers to execute arbitrary code via uploading a crafted \".htaccess\" file.",
-      "published": "2023-11-01 10:15:08",
-      "timestamp": 1698833708
     }
   ]
 }
