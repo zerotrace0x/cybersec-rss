@@ -1,6 +1,26 @@
 {
-  "generated_at": 1776289184,
+  "generated_at": 1776302284,
   "items": [
+    {
+      "id": "e22c2869cbbbdf5f8bd02d8b7de3c329b5466ca7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+      "summary": "A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without authentication. [...]",
+      "published": "2026-04-15 22:35:09",
+      "timestamp": 1776292509
+    },
+    {
+      "id": "b55221e008fb58c1eeb2f74e99242d2ec8e04738",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
+      "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+      "summary": "A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chromium-based browsers and WhatsApp messenger. [...]",
+      "published": "2026-04-15 21:57:17",
+      "timestamp": 1776290237
+    },
     {
       "id": "cb2c176df140ffb6f0717e139dc4b193be78ec78",
       "source": "BleepingComputer",
@@ -70,6 +90,16 @@
       "summary": "Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference brings industry leaders together to tackle emerging threats in transportation. [...]",
       "published": "2026-04-15 14:00:10",
       "timestamp": 1776261610
+    },
+    {
+      "id": "36ccec0dcf001f57e828b46c14db5a4b00c3da00",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "The German Cyber Criminal \u00dcberfall: Shifts in Europe's Data Leak Landscape",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/europe-data-leak-landscape/",
+      "summary": "Written by: Jamie Collier, Robin Grunewald Germany has reclaimed its position as a primary focus for cyber extortion in Europe. While data leak site (DLS) posts rose almost 50% globally in 2025, Google Threat Intelligence (GTI) data shows that the surge is hitting German infrastructure harder and faster than its regional neighbors, marking a significant return to the high-pressure levels previously observed in the country during 2022 and 2023. Cyber Criminals Pivoting Back to Germany Germany mov",
+      "published": "2026-04-15 14:00:00",
+      "timestamp": 1776261600
     },
     {
       "id": "4791a76f923a9e56490707a4105f36c7d383079a",
@@ -210,26 +240,6 @@
       "summary": "Microsoft has released Windows 11 KB5083769 and KB5082052 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
       "published": "2026-04-14 17:46:31",
       "timestamp": 1776188791
-    },
-    {
-      "id": "f35248def7479896757065d3671026e19e439fce",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
-      "summary": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
-      "published": "2026-04-14 17:41:13",
-      "timestamp": 1776188473
-    },
-    {
-      "id": "bfbf2bf396ff688e0ad8258e688336f3b70763f6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fake Ledger Live app on Apple\u2019s App Store stole $9.5M in crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
-      "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in just a few days this month. [...]",
-      "published": "2026-04-14 16:37:01",
-      "timestamp": 1776184621
     },
     {
       "id": "53d80d11f8697461235a374f744be04716ddcb1a",
@@ -512,7 +522,7 @@
       "timestamp": 1775746800
     },
     {
-      "id": "5a444c18bb3172042a546013c008ba9de30fc185",
+      "id": "baf3f7b58ccc842983e6756fcc665847b3c89878",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
@@ -682,7 +692,7 @@
       "timestamp": 1775574900
     },
     {
-      "id": "a0e2e3e9a8255444a7352ae06389f7f434f32c49",
+      "id": "6a48cb60af56730a264a8a73874717798e04885a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
@@ -802,7 +812,7 @@
       "timestamp": 1775145600
     },
     {
-      "id": "b0ef428228b5dfb4db74316071ea85fde1d17f82",
+      "id": "f89cb638c567e321a43e809e78ba9357135b282d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
@@ -1440,16 +1450,6 @@
       "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft\u2026 But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
       "published": "2025-12-16 09:00:00",
       "timestamp": 1765875600
-    },
-    {
-      "id": "c831231ca336cd9806f75beb3e64472425ce5caf",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Multiple Threat Actors Exploit React2Shell (CVE-2025-55182)",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/threat-actors-exploit-react2shell-cve-2025-55182/",
-      "summary": "Written by: Aragorn Tseng, Robert Weiner, Casey Charrier, Zander Work, Genevieve Stark, Austin Larsen Introduction On Dec. 3, 2025, a critical unauthenticated remote code execution (RCE) vulnerability in React Server Components, tracked as CVE-2025-55182 (aka \"React2Shell\"), was publicly disclosed. Shortly after disclosure, Google Threat Intelligence Group (GTIG) had begun observing widespread exploitation across many threat clusters, ranging from opportunistic cyber crime actors to suspected es",
-      "published": "2025-12-12 14:00:00",
-      "timestamp": 1765548000
     }
   ]
 }
