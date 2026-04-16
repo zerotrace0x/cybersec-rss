@@ -1,6 +1,36 @@
 {
-  "generated_at": 1776356023,
+  "generated_at": 1776365677,
   "items": [
+    {
+      "id": "3787e29bff87b584e17a5d5f1afd7924b09b7fe1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
+      "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
+      "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December 2025. \"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections,\" Cisco Talos",
+      "published": "2026-04-16 17:52:00",
+      "timestamp": 1776361920
+    },
+    {
+      "id": "597ab2d8eb4785b4dd571a79373ecb962aaabe01",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
+      "summary": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
+      "published": "2026-04-16 16:58:06",
+      "timestamp": 1776358686
+    },
+    {
+      "id": "143f8da14c791897e542f94657915f49794ea09e",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Building your cryptographic inventory: A customer strategy for cryptographic posture management",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/",
+      "summary": "Learn how to build a comprehensive cryptographic inventory and strengthen quantum\u2011safe readiness using Microsoft Security tools, best\u2011practice lifecycle models, and partner solutions. The post Building your cryptographic inventory: A customer strategy for cryptographic posture management appeared first on Microsoft Security Blog.",
+      "published": "2026-04-16 16:00:00",
+      "timestamp": 1776355200
+    },
     {
       "id": "cdc1e55344fc837a14303dbec2a5e6fe4e0ecf6c",
       "source": "BleepingComputer",
@@ -57,7 +87,7 @@
       "source_category": "General",
       "title": "ThreatsDay Bulletin: Defender 0-Day,\u00a0SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
       "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-      "summary": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked for. Not all bad though. Some",
+      "summary": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked for. Not",
       "published": "2026-04-16 13:05:00",
       "timestamp": 1776344700
     },
@@ -270,16 +300,6 @@
       "summary": "A number of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday releases. Topping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse (CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database",
       "published": "2026-04-15 12:37:00",
       "timestamp": 1776256620
-    },
-    {
-      "id": "2195307241058450a0c36ecd21a04433f1320d75",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
-      "summary": "Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windows security update. [...]",
-      "published": "2026-04-15 11:41:35",
-      "timestamp": 1776253295
     },
     {
       "id": "7cb2e37df85ca420cde17af8ffa22c6becefba46",
@@ -762,16 +782,6 @@
       "timestamp": 1775579340
     },
     {
-      "id": "d64d13642daa54192d962793ee57e60e4ecc676b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-      "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins (AuthZ) under specific circumstances. The vulnerability, tracked as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix for CVE-2024-41110, a maximum-severity vulnerability in the same component that came to light in July 2024. \"",
-      "published": "2026-04-07 15:15:00",
-      "timestamp": 1775574900
-    },
-    {
       "id": "6a48cb60af56730a264a8a73874717798e04885a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -830,16 +840,6 @@
       "summary": "Generative AI is upgrading cyberattacks, from 450% higher phishing click\u2011through rates to industrialized MFA bypass. The post Threat actor abuse of AI accelerates from tool to cyberattack surface appeared first on Microsoft Security Blog.",
       "published": "2026-04-02 16:00:00",
       "timestamp": 1775145600
-    },
-    {
-      "id": "f89cb638c567e321a43e809e78ba9357135b282d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/02/cookie-controlled-php-webshells-tradecraft-linux-hosting-environments/",
-      "summary": "Cookie-gated PHP webshells use obfuscation, php-fpm execution, and cron-based persistence to evade detection in Linux hosting environments. This post examines how this tradecraft conceals execution behind specially crafted HTTP cookies. The post Cookie-controlled PHP webshells: A stealthy tradecraft in Linux hosting environments appeared first on Microsoft Security Blog.",
-      "published": "2026-04-02 15:37:22",
-      "timestamp": 1775144242
     },
     {
       "id": "a311f72b19fbb121722ae5ba2456974eb770d127",
