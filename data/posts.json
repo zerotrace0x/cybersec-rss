@@ -1,6 +1,36 @@
 {
-  "generated_at": 1776700822,
+  "generated_at": 1776710774,
   "items": [
+    {
+      "id": "b74b362d981e6cd52514fd31a3b927935a1b9db2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Seiko USA website defaced as hacker claims customer data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
+      "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
+      "published": "2026-04-20 18:22:31",
+      "timestamp": 1776709351
+    },
+    {
+      "id": "7cf914eedd20e5f8fb3fb7ab9c66de87d5591cad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code. SGLang is a high-performance, open-source serving",
+      "published": "2026-04-20 17:14:00",
+      "timestamp": 1776705240
+    },
+    {
+      "id": "6abeb84e0e47fa651da52de5c01e873c682703cb",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Making opportunistic\u00a0cyberattacks harder by design",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/",
+      "summary": "How Microsoft secures Dynamics 365 and Power Platform by removing credentials, reducing attack surfaces, and using platform engineering to block opportunistic threats. The post Making opportunistic cyberattacks harder by design appeared first on Microsoft Security Blog.",
+      "published": "2026-04-20 16:00:00",
+      "timestamp": 1776700800
+    },
     {
       "id": "740fec10d6f8e8c975ea1a2ef8136256990822a4",
       "source": "BleepingComputer",
@@ -50,6 +80,16 @@
       "summary": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
       "published": "2026-04-20 12:04:02",
       "timestamp": 1776686642
+    },
+    {
+      "id": "e5d7ad7a1583ffd942c3f86f4a3e24e362c7b6b3",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber th",
+      "published": "2026-04-20 12:00:00",
+      "timestamp": 1776686400
     },
     {
       "id": "bd2299f9c227f9be17609e18860a909f471a8886",
@@ -240,16 +280,6 @@
       "summary": "Domain compromise accelerates fast. Predictive shielding slowed it down. This real-world attack shows how exposure-based containment stopped credential abuse and broke the threat actor's momentum. The post Containing a domain compromise: How predictive shielding shut down lateral movement appeared first on Microsoft Security Blog.",
       "published": "2026-04-17 14:51:01",
       "timestamp": 1776437461
-    },
-    {
-      "id": "f8c71f882ee20e6461c39a2fe57a07bd747ea765",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
-      "summary": "In cybercrime markets, trust isn't assumed, it's verified. Flare reveals how underground guides teach actors to evaluate carding shops based on data quality, reputation, and survivability. [...]",
-      "published": "2026-04-17 14:01:11",
-      "timestamp": 1776434471
     },
     {
       "id": "c5d137061c50cae6ebae0500cb393007df51fabb",
@@ -782,16 +812,6 @@
       "timestamp": 1775739420
     },
     {
-      "id": "8df58a0d15721036beeed2a49894735cd078c688",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-      "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-      "summary": "As AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While similar to the phenomenon of",
-      "published": "2026-04-09 11:31:00",
-      "timestamp": 1775734260
-    },
-    {
       "id": "6d7a604f4a70cb0c016859ed2a8aa0fca080b021",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -820,16 +840,6 @@
       "summary": "Executive summary Forest Blizzard, a threat actor linked to the Russian military, has been compromising insecure home and small-office internet equipment like routers, then modifying their settings in ways that turn them into part of the actor\u2019s malicious infrastructure. The post SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks appeared first on Microsoft Security Blog.",
       "published": "2026-04-07 14:00:00",
       "timestamp": 1775570400
-    },
-    {
-      "id": "e2494cc026e4fbf88102f2b129082a517cec820b",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Inside an AI\u2011enabled device code phishing campaign",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
-      "summary": "A new wave of device code phishing shows how threat actors are scaling account compromise using AI and end\u2011to\u2011end automation. This campaign goes beyond traditional phishing by generating live authentication codes on demand, enabling higher success rates and sustained post\u2011compromise access. The post Inside an AI\u2011enabled device code phishing campaign appeared first on Microsoft Security Blog.",
-      "published": "2026-04-06 16:34:17",
-      "timestamp": 1775493257
     },
     {
       "id": "5e193a88ce050bc7665b3057fc6cc92142a018e8",
@@ -1290,16 +1300,6 @@
       "summary": "Introduction In the final quarter of 2025, Google Threat Intelligence Group (GTIG) observed threat actors increasingly integrating artificial intelligence (AI) to accelerate the attack lifecycle, achieving productivity gains in reconnaissance, social engineering, and malware development. This report serves as an update to our November 2025 findings regarding the advances in threat actor usage of AI tools. By identifying these early indicators and offensive proofs of concept, GTIG aims to arm def",
       "published": "2026-02-12 14:00:00",
       "timestamp": 1770904800
-    },
-    {
-      "id": "801494d20f03c1c50581aa44bfb3c79aa35b3063",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/12/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-43468 Microsoft Configuration Manager SQL Injection Vulnerability CVE-2025-15556 Notepad++ Download of Code Without Integrity Check Vulnerability CVE-2025-40536 SolarWinds Web Help Desk Security Control Bypass Vulnerability CVE-2026-20700 Apple Multiple Buffer Overflow Vulnerability These types of vulnerabilities are frequent attack vectors for maliciou",
-      "published": "2026-02-12 12:00:00",
-      "timestamp": 1770897600
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
