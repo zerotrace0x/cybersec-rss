@@ -1,6 +1,66 @@
 {
-  "generated_at": 1776766079,
+  "generated_at": 1776776027,
   "items": [
+    {
+      "id": "23891a12dc2a44090dc1fb20ab8405e067441809",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "summary": "\u200bCISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
+      "published": "2026-04-21 12:30:50",
+      "timestamp": 1776774650
+    },
+    {
+      "id": "1916460257cc656b25861ec5b57f56d3105366e7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials. Identity-based attacks remain a dominant initial access vector in breaches today. Attackers obtain valid credentials through credential stuffing",
+      "published": "2026-04-21 11:30:00",
+      "timestamp": 1776771000
+    },
+    {
+      "id": "ea476630b6abdcb5b55c294783136df185be0f8f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+      "published": "2026-04-21 11:17:51",
+      "timestamp": 1776770271
+    },
+    {
+      "id": "f61814f27ef332081729f560fd0879570bc4248a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Luk\u00e1\u0161 \u0160tefanko said in a",
+      "published": "2026-04-21 10:40:00",
+      "timestamp": 1776768000
+    },
+    {
+      "id": "a5e4ca875ea60f5246504a895977610177456031",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution. The flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sanitization in Antigravity's native file-searching tool, find_by_name, to bypass the program's Strict",
+      "published": "2026-04-21 10:22:00",
+      "timestamp": 1776766920
+    },
+    {
+      "id": "bc8aba60dffd764b380af3902e4a3349eff75f0d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+      "published": "2026-04-21 10:12:21",
+      "timestamp": 1776766341
+    },
     {
       "id": "8c8bce618db5f081d9b8a14885bc8c3e0ab9c68f",
       "source": "BleepingComputer",
@@ -220,36 +280,6 @@
       "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
       "published": "2026-04-19 17:32:45",
       "timestamp": 1776619965
-    },
-    {
-      "id": "46c639a312b689ed98aab0f881c1be00194c8800",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Apple account change alerts abused to send phishing emails",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-      "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, increasing legitimacy and potentially allowing them to bypass spam filters. [...]",
-      "published": "2026-04-19 16:03:01",
-      "timestamp": 1776614581
-    },
-    {
-      "id": "0e6bf013228c68a860dbfe9f087d74184f91e8da",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NIST to stop rating non-priority flaws due to volume increase",
-      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-      "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload from rising submission volumes. [...]",
-      "published": "2026-04-19 14:17:43",
-      "timestamp": 1776608263
-    },
-    {
-      "id": "b2a861332fe8788283a4a35ea57644880bb3be80",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-      "published": "2026-04-18 15:09:44",
-      "timestamp": 1776524984
     },
     {
       "id": "ece0c19e1a3819a6f5e3aa7e311ebf6027c10615",
@@ -762,16 +792,6 @@
       "timestamp": 1775806620
     },
     {
-      "id": "a05d422036f8abfa18baf16095418830cef2e905",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
-      "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
-      "summary": "Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a backdoor. The incident impacts Smart Slider 3 Pro version 3.5.1.35 for WordPress, per WordPress security company Patchstack. Smart Slider 3 is a popular WordPress slider plugin with more than 800,000 active installations across its free and Pro",
-      "published": "2026-04-10 06:28:00",
-      "timestamp": 1775802480
-    },
-    {
       "id": "2c8e2e350fd450cda0db2b86c85a06f2fd448f75",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -780,26 +800,6 @@
       "summary": "In the SOC of the future, autonomous defense moves at machine speed, agents add context and coordination, and humans focus on judgment, risk, and outcomes. The post The agentic SOC\u2014Rethinking SecOps for the next decade appeared first on Microsoft Security Blog.",
       "published": "2026-04-09 19:00:00",
       "timestamp": 1775761200
-    },
-    {
-      "id": "94c939b590fecc3fc89fca803e21218bfc4978cd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-      "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-      "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit (SDK) called EngageLab SDK that could have put millions of cryptocurrency wallet users at risk. \"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private data,\" the Microsoft Defender",
-      "published": "2026-04-09 17:26:00",
-      "timestamp": 1775755560
-    },
-    {
-      "id": "aa4001c4acc77bc8ab259caf27d7b165a8fba62f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-      "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-      "summary": "A previously undocumented threat cluster dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook. \"LucidRook is a sophisticated stager that embeds a Lua interpreter and Rust-compiled libraries within a dynamic-link library (DLL) to download and",
-      "published": "2026-04-09 16:23:00",
-      "timestamp": 1775751780
     },
     {
       "id": "544fdf5bdd34fab7249511c79e6eef777a4e235c",
@@ -812,7 +812,7 @@
       "timestamp": 1775746800
     },
     {
-      "id": "5a444c18bb3172042a546013c008ba9de30fc185",
+      "id": "baf3f7b58ccc842983e6756fcc665847b3c89878",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Intent redirection vulnerability in third-party SDK exposed millions of Android wallets to potential risk",
