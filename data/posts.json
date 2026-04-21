@@ -1,6 +1,76 @@
 {
-  "generated_at": 1776776027,
+  "generated_at": 1776787267,
   "items": [
+    {
+      "id": "b2b9d78ba2708401a3f2e8d7f32107e93e83ad4a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and Silex Serial-to-IP Converters",
+      "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
+      "summary": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them. The vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed",
+      "published": "2026-04-21 15:46:00",
+      "timestamp": 1776786360
+    },
+    {
+      "id": "855faebafbd4f2403f218d4f321b5971a0ed3aa6",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
+      "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
+      "published": "2026-04-21 14:53:59",
+      "timestamp": 1776783239
+    },
+    {
+      "id": "babafe73ed07e077024ccdd630f0dd5f823bea05",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+      "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+      "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023. Angelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ransomware starting in April 2023 to assist the e-crime gang in extracting higher amounts as ransoms. \"Working as a negotiator on behalf of five different",
+      "published": "2026-04-21 14:31:00",
+      "timestamp": 1776781860
+    },
+    {
+      "id": "3529fec40c00a50b7a767253e443128237ba29e2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
+      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
+      "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
+      "published": "2026-04-21 14:02:12",
+      "timestamp": 1776780132
+    },
+    {
+      "id": "7b75de9ade8c2a8a0c8468e78a43d6769d2309dc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
+      "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
+      "published": "2026-04-21 13:49:10",
+      "timestamp": 1776779350
+    },
+    {
+      "id": "26282bdc867eb7b14a06d16918741f17b0b08e4c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage. The root cause of slow MTTR is almost never \"not enough analysts.\" It is almost always the same structural problem: threat intelligence that exists",
+      "published": "2026-04-21 13:00:00",
+      "timestamp": 1776776400
+    },
+    {
+      "id": "f61814f27ef332081729f560fd0879570bc4248a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Luk\u00e1\u0161 \u0160tefanko said in a",
+      "published": "2026-04-21 12:45:00",
+      "timestamp": 1776775500
+    },
     {
       "id": "23891a12dc2a44090dc1fb20ab8405e067441809",
       "source": "BleepingComputer",
@@ -30,16 +100,6 @@
       "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
       "published": "2026-04-21 11:17:51",
       "timestamp": 1776770271
-    },
-    {
-      "id": "f61814f27ef332081729f560fd0879570bc4248a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Luk\u00e1\u0161 \u0160tefanko said in a",
-      "published": "2026-04-21 10:40:00",
-      "timestamp": 1776768000
     },
     {
       "id": "a5e4ca875ea60f5246504a895977610177456031",
@@ -242,16 +302,6 @@
       "timestamp": 1776678020
     },
     {
-      "id": "a6c7b95b1060a14df9d47a148ca29bf52af213c7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases emergency updates to fix Windows Server issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
-      "summary": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
-      "published": "2026-04-20 08:30:56",
-      "timestamp": 1776673856
-    },
-    {
       "id": "c96f39110448cd2a5f5a1b69a7cc74cb90a5033e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +320,6 @@
       "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company. \"The attacker used that access to take over the employee's Vercel Google Workspace account,",
       "published": "2026-04-20 03:35:00",
       "timestamp": 1776656100
-    },
-    {
-      "id": "d19f9f875887f458e757d725bee2a7651587ccbf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
-      "published": "2026-04-19 17:32:45",
-      "timestamp": 1776619965
     },
     {
       "id": "ece0c19e1a3819a6f5e3aa7e311ebf6027c10615",
@@ -762,36 +802,6 @@
       "timestamp": 1775827380
     },
     {
-      "id": "bc909f423044a743ff5699c18e41191a779dcab8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
-      "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
-      "summary": "While much of the discussion on AI security centers around protecting \u2018shadow\u2019 AI and GenAI consumption, there's a wide-open window nobody's guarding: AI browser extensions. A new report from LayerX exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network that isn't on anyone's",
-      "published": "2026-04-10 11:00:00",
-      "timestamp": 1775818800
-    },
-    {
-      "id": "01cbc157ae21797a27eb2ea47d4f37cba4b6c9b2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
-      "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
-      "summary": "Google has made Device Bound Session Credentials (DBSC) generally available to all Windows users of its Chrome web browser, months after it began testing the security feature in open beta. The public availability is currently limited to Windows users on Chrome 146, with macOS expansion planned in an upcoming Chrome release. \"This project represents a significant",
-      "published": "2026-04-10 07:58:00",
-      "timestamp": 1775807880
-    },
-    {
-      "id": "210d72e173206230553bfa4e7bcd588e0d39bd19",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
-      "summary": "A critical security vulnerability in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according to findings from Sysdig. The vulnerability in question is CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo prior to and including",
-      "published": "2026-04-10 07:37:00",
-      "timestamp": 1775806620
-    },
-    {
       "id": "2c8e2e350fd450cda0db2b86c85a06f2fd448f75",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1240,16 +1250,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25108 Soliton Systems K.K. FileZen OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living lis",
       "published": "2026-02-24 12:00:00",
       "timestamp": 1771934400
-    },
-    {
-      "id": "9c66027918fa5ebdee5c540ea05150e51371ef6a",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
-      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentic",
-      "published": "2026-02-20 20:00:30",
-      "timestamp": 1771617630
     },
     {
       "id": "bb3fde66fee8a6ad455a39abddcd0d9e0e25a756",
