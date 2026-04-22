@@ -1,6 +1,26 @@
 {
-  "generated_at": 1776884046,
+  "generated_at": 1776893992,
   "items": [
+    {
+      "id": "9b22bfcf9e39bbca2c1043b52de99e45ba8b363a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apple fixes iOS bug that retained deleted notification data",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
+      "published": "2026-04-22 20:58:58",
+      "timestamp": 1776891538
+    },
+    {
+      "id": "91669237aab2ebfe3297483b993100379d5642d0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
+      "published": "2026-04-22 20:04:46",
+      "timestamp": 1776888286
+    },
     {
       "id": "d2d565ee7d1d7f5c6d8b7882fb79b184f249e913",
       "source": "BleepingComputer",
@@ -90,6 +110,16 @@
       "summary": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
       "published": "2026-04-22 12:24:38",
       "timestamp": 1776860678
+    },
+    {
+      "id": "22838eeec9baa4ad94de6a78eca8e9bb47c22bfb",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
+      "published": "2026-04-22 12:00:00",
+      "timestamp": 1776859200
     },
     {
       "id": "0796ac78ef655a1d54231f4fd6e1b24e9b36f337",
@@ -292,16 +322,6 @@
       "timestamp": 1776775500
     },
     {
-      "id": "23891a12dc2a44090dc1fb20ab8405e067441809",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-      "summary": "\u200bCISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
-      "published": "2026-04-21 12:30:50",
-      "timestamp": 1776774650
-    },
-    {
       "id": "1916460257cc656b25861ec5b57f56d3105366e7",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +330,6 @@
       "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials. Identity-based attacks remain a dominant initial access vector in breaches today. Attackers obtain valid credentials through credential stuffing",
       "published": "2026-04-21 11:30:00",
       "timestamp": 1776771000
-    },
-    {
-      "id": "ea476630b6abdcb5b55c294783136df185be0f8f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
-      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
-      "published": "2026-04-21 11:17:51",
-      "timestamp": 1776770271
     },
     {
       "id": "a5e4ca875ea60f5246504a895977610177456031",
@@ -472,7 +482,7 @@
       "timestamp": 1776492060
     },
     {
-      "id": "d64867f8bd3d644d130a42579d4ccdc28b850c66",
+      "id": "08f4b2ee9967e5d5524f6c9f0ca4b91ed261e598",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Containing a domain compromise: How predictive shielding shut down lateral movement",
@@ -552,7 +562,7 @@
       "timestamp": 1776355200
     },
     {
-      "id": "9bb52596544ea4a26819b03195a1545fdc61673b",
+      "id": "d987119a401093a503588169c75675f1e95feece",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Dissecting Sapphire Sleet\u2019s macOS intrusion from lure to compromise",
@@ -632,7 +642,7 @@
       "timestamp": 1776272940
     },
     {
-      "id": "b71a3cdfb34abb0ec71be41ed8a9e9274f9c4c5f",
+      "id": "48a22dd5e6fa95bdd6ee708a213ff1f9006f4e0f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Incident response for AI: Same fire, different fuel",
@@ -1280,16 +1290,6 @@
       "summary": "Written by: Peter Ukhanov, Daniel Sislo, Nick Harbour, John Scarbrough, Fernando Tomlinson, Jr., Rich Reece Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified the zero-day exploitation of a high-risk vulnerability in Dell RecoverPoint for Virtual Machines, tracked as CVE-2026-22769, with a CVSSv3.1 score of 10.0. Analysis of incident response engagements revealed that UNC6201, a suspected PRC-nexus threat cluster, has exploited this flaw since at least mid-2024 to ",
       "published": "2026-02-17 14:00:00",
       "timestamp": 1771336800
-    },
-    {
-      "id": "6eb087065fe5c6c3fa81a1d7f2f11b7102927a3f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/02/17/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-0015 Microsoft Windows Video ActiveX Control Remote Code Execution Vulnerability CVE-2020-7796 Synacor Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery Vulnerability CVE-2024-7694 TeamT5 ThreatSonar Anti-Ransomware Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-2441 Google Chromium CSS Use-After-Free Vulnerability The",
-      "published": "2026-02-17 12:00:00",
-      "timestamp": 1771329600
     },
     {
       "id": "4eecf935276592e0f02c13205d631a60912f727d",
