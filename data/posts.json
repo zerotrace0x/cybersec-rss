@@ -1,6 +1,46 @@
 {
-  "generated_at": 1776862428,
+  "generated_at": 1776873559,
   "items": [
+    {
+      "id": "f6f14fb50da1ab16ef7594235eec2bba67781799",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the legitimate Microsoft Graph API and Outlook mailboxes as a covert command-and-control (C2) channel, allowing it to bypass traditional perimeter network defenses,\" the Symantec and Carbon Black Threat Hunter",
+      "published": "2026-04-22 15:28:00",
+      "timestamp": 1776871680
+    },
+    {
+      "id": "2fddcc272ba9f1f49e2b607041b706da1e095c68",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
+      "summary": "The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
+      "published": "2026-04-22 15:06:34",
+      "timestamp": 1776870394
+    },
+    {
+      "id": "4cf75777ca1f57b333cc0ee7dc6585562391e9bc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
+      "summary": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
+      "published": "2026-04-22 14:01:11",
+      "timestamp": 1776866471
+    },
+    {
+      "id": "63914cf79d0ab8a95b36e7db9c13540eaf449bf2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
+      "published": "2026-04-22 12:57:42",
+      "timestamp": 1776862662
+    },
     {
       "id": "09d5a6b750ee420c2716c891a32d88bf7d7a3f1f",
       "source": "BleepingComputer",
@@ -262,16 +302,6 @@
       "timestamp": 1776766341
     },
     {
-      "id": "8c8bce618db5f081d9b8a14885bc8c3e0ab9c68f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NGate Android malware uses HandyPay NFC app to steal card data",
-      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
-      "summary": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
-      "published": "2026-04-21 09:00:00",
-      "timestamp": 1776762000
-    },
-    {
       "id": "84961caff965ff3fd5b3927957648f88644be841",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,26 +310,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
       "published": "2026-04-21 06:23:00",
       "timestamp": 1776752580
-    },
-    {
-      "id": "732eaedb6f6d9a0bd58f3410bcd01cfdced0ae6f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
-      "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
-      "published": "2026-04-20 22:23:52",
-      "timestamp": 1776723832
-    },
-    {
-      "id": "51dfa2be1b777a5581013100fa908c809fb6910a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
-      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-      "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
-      "published": "2026-04-20 21:52:54",
-      "timestamp": 1776721974
     },
     {
       "id": "7cf914eedd20e5f8fb3fb7ab9c66de87d5591cad",
@@ -800,16 +810,6 @@
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-2020-9715 Adobe Acrobat Use-After-Free Vulnerability CVE-2023-21529 Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability CVE-2023-36424 Microsoft Windows Out-of-Bounds Read Vulnerability CVE-2025-60710 Microsoft Windows Link Following Vulnerabil",
       "published": "2026-04-13 12:00:00",
       "timestamp": 1776081600
-    },
-    {
-      "id": "cea7b033f8620ab1210da0028a64100e056a6e3c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
-      "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
-      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo Alto Networks' Wendi Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends",
-      "published": "2026-04-13 11:41:00",
-      "timestamp": 1776080460
     },
     {
       "id": "2c8e2e350fd450cda0db2b86c85a06f2fd448f75",
