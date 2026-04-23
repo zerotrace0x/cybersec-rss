@@ -1,6 +1,36 @@
 {
-  "generated_at": 1776928705,
+  "generated_at": 1776939074,
   "items": [
+    {
+      "id": "e77086dc5f02f9aae740c8449ff36a23752f7803",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors in its arsenal,\" Slovakian cybersecurity company ESET said in a report shared with The Hacker",
+      "published": "2026-04-23 09:04:00",
+      "timestamp": 1776935040
+    },
+    {
+      "id": "95fe662e57916eed4d8d6ac54059eae15777e919",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+      "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems. The company said it made the discovery after expanding its investigation to include an extra set of compromise indicators, alongside a review of requests to the Vercel network and environment",
+      "published": "2026-04-23 08:40:00",
+      "timestamp": 1776933600
+    },
+    {
+      "id": "e0742add910dcdeabfe7ef0772fe787c043d4fb6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction. \"Notifications marked for deletion could be unexpectedly retained on the device,\"",
+      "published": "2026-04-23 08:06:00",
+      "timestamp": 1776931560
+    },
     {
       "id": "9b22bfcf9e39bbca2c1043b52de99e45ba8b363a",
       "source": "BleepingComputer",
@@ -482,7 +512,7 @@
       "timestamp": 1776492060
     },
     {
-      "id": "d64867f8bd3d644d130a42579d4ccdc28b850c66",
+      "id": "08f4b2ee9967e5d5524f6c9f0ca4b91ed261e598",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Containing a domain compromise: How predictive shielding shut down lateral movement",
@@ -562,7 +592,7 @@
       "timestamp": 1776355200
     },
     {
-      "id": "9bb52596544ea4a26819b03195a1545fdc61673b",
+      "id": "d987119a401093a503588169c75675f1e95feece",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Dissecting Sapphire Sleet\u2019s macOS intrusion from lure to compromise",
@@ -642,7 +672,7 @@
       "timestamp": 1776272940
     },
     {
-      "id": "b71a3cdfb34abb0ec71be41ed8a9e9274f9c4c5f",
+      "id": "48a22dd5e6fa95bdd6ee708a213ff1f9006f4e0f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Incident response for AI: Same fire, different fuel",
@@ -790,36 +820,6 @@
       "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited. According to Socket, the extensions (complete list",
       "published": "2026-04-14 08:35:00",
       "timestamp": 1776155700
-    },
-    {
-      "id": "6b09c7d237d96737d07d540e6cb4d7c0858a6aa7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
-      "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
-      "summary": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4 out of 10.0. It relates to a case of unrestricted file upload that stems from improper validation of",
-      "published": "2026-04-14 05:50:00",
-      "timestamp": 1776145800
-    },
-    {
-      "id": "5a2025c70838fdfa42cb95ebb7e3d1ce9ffe22d2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added half a dozen security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2026-21643 (CVSS score: 9.1) - An SQL injection vulnerability in Fortinet FortiClient EMS that could allow an",
-      "published": "2026-04-14 05:39:00",
-      "timestamp": 1776145140
-    },
-    {
-      "id": "0a15b42c0e8f3fec96f2b9657e1593f9aefe771e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
-      "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
-      "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well as track mouse inputs, log keystrokes, take screenshots, and collect system metadata. \"One of the",
-      "published": "2026-04-13 17:15:00",
-      "timestamp": 1776100500
     },
     {
       "id": "597aa500c756d7f2b80a522e7e3d9a22bb847f61",
