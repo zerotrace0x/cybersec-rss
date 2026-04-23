@@ -1,6 +1,56 @@
 {
-  "generated_at": 1776939074,
+  "generated_at": 1776948829,
   "items": [
+    {
+      "id": "d0ea610ab23b8b92e53851e4cac2a3d4f28a8a37",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+      "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
+      "published": "2026-04-23 12:28:39",
+      "timestamp": 1776947319
+    },
+    {
+      "id": "08ece2597ccdc8c06503e0e2c05b8504c2be6663",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+      "summary": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
+      "published": "2026-04-23 12:06:18",
+      "timestamp": 1776945978
+    },
+    {
+      "id": "85015f48ad2714400de597e6dc0828e9a2a52d26",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
+      "published": "2026-04-23 12:03:00",
+      "timestamp": 1776945780
+    },
+    {
+      "id": "6353f762831629eee27f47560bfdbc0c6ed226e9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can. Mythos Preview, the model that led to Project Glasswing, found",
+      "published": "2026-04-23 11:30:00",
+      "timestamp": 1776943800
+    },
+    {
+      "id": "598b94e7544148f0797380c0948ce80a80324d86",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
+      "published": "2026-04-23 11:05:57",
+      "timestamp": 1776942357
+    },
     {
       "id": "e77086dc5f02f9aae740c8449ff36a23752f7803",
       "source": "The Hacker News",
@@ -25,7 +75,7 @@
       "id": "e0742add910dcdeabfe7ef0772fe787c043d4fb6",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
       "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
       "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction. \"Notifications marked for deletion could be unexpectedly retained on the device,\"",
       "published": "2026-04-23 08:06:00",
@@ -252,16 +302,6 @@
       "timestamp": 1776807964
     },
     {
-      "id": "4609a217dcd306f105a229744587bf4c368e6031",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
-      "summary": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
-      "published": "2026-04-21 18:38:40",
-      "timestamp": 1776796720
-    },
-    {
       "id": "1c31ed3355bcb4955ce0a2f29c702645fd858f53",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,26 +350,6 @@
       "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023. Angelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ransomware starting in April 2023 to assist the e-crime gang in extracting higher amounts as ransoms. \"Working as a negotiator on behalf of five different",
       "published": "2026-04-21 14:31:00",
       "timestamp": 1776781860
-    },
-    {
-      "id": "3529fec40c00a50b7a767253e443128237ba29e2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
-      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
-      "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
-      "published": "2026-04-21 14:02:12",
-      "timestamp": 1776780132
-    },
-    {
-      "id": "7b75de9ade8c2a8a0c8468e78a43d6769d2309dc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
-      "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
-      "published": "2026-04-21 13:49:10",
-      "timestamp": 1776779350
     },
     {
       "id": "26282bdc867eb7b14a06d16918741f17b0b08e4c",
@@ -800,26 +820,6 @@
       "summary": "A nascent Android remote access trojan called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on Meta. \"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real",
       "published": "2026-04-14 10:20:00",
       "timestamp": 1776162000
-    },
-    {
-      "id": "9488022f0a427ae7899e9ff18d79730fcfef930f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
-      "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
-      "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly 400%. The surge in AI-assisted development is creating a \"velocity gap\" where the density of high-impact vulnerabilities is scaling faster than",
-      "published": "2026-04-14 10:00:00",
-      "timestamp": 1776160800
-    },
-    {
-      "id": "57a7a09095f609e78670c31b7c5953682d74199c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
-      "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-      "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited. According to Socket, the extensions (complete list",
-      "published": "2026-04-14 08:35:00",
-      "timestamp": 1776155700
     },
     {
       "id": "597aa500c756d7f2b80a522e7e3d9a22bb847f61",
