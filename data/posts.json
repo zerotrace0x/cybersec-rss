@@ -1,6 +1,36 @@
 {
-  "generated_at": 1776970247,
+  "generated_at": 1776980090,
   "items": [
+    {
+      "id": "8233af64d48eff3a1766a9999982ae6737b5de40",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "published": "2026-04-23 21:33:45",
+      "timestamp": 1776980025
+    },
+    {
+      "id": "a31807d19febe4bbed398f5107fb6e7dbb292af5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+      "published": "2026-04-23 19:21:01",
+      "timestamp": 1776972061
+    },
+    {
+      "id": "49fa7a416aaadd4315cec53d0bfbf2824c1fa3da",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+      "published": "2026-04-23 18:59:39",
+      "timestamp": 1776970779
+    },
     {
       "id": "846ad3a39148188ba50fcbb0b43dbb4217058210",
       "source": "The Hacker News",
@@ -262,26 +292,6 @@
       "timestamp": 1776866471
     },
     {
-      "id": "63914cf79d0ab8a95b36e7db9c13540eaf449bf2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-      "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
-      "published": "2026-04-22 12:57:42",
-      "timestamp": 1776862662
-    },
-    {
-      "id": "09d5a6b750ee420c2716c891a32d88bf7d7a3f1f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-      "summary": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
-      "published": "2026-04-22 12:24:38",
-      "timestamp": 1776860678
-    },
-    {
       "id": "22838eeec9baa4ad94de6a78eca8e9bb47c22bfb",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -310,16 +320,6 @@
       "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worrying part sat inside the private messages. Some of those conversations held plaintext third-party credentials, including OpenAI API keys shared between agents,",
       "published": "2026-04-22 10:41:36",
       "timestamp": 1776854496
-    },
-    {
-      "id": "375fb6b43d5b659b4348e361c49b63bf5ab4f220",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft traces Universal Print issues to Graph API code change",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-      "summary": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
-      "published": "2026-04-22 10:15:09",
-      "timestamp": 1776852909
     },
     {
       "id": "29fd530738e95ef99ee8f2dff36bf1a601513986",
@@ -662,7 +662,7 @@
       "timestamp": 1776355200
     },
     {
-      "id": "d987119a401093a503588169c75675f1e95feece",
+      "id": "9bb52596544ea4a26819b03195a1545fdc61673b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Dissecting Sapphire Sleet\u2019s macOS intrusion from lure to compromise",
