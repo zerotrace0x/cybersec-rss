@@ -1,6 +1,16 @@
 {
-  "generated_at": 1777326159,
+  "generated_at": 1777339690,
   "items": [
+    {
+      "id": "1cefa08721dbdb41c0f6a2ac678038a1cf160b78",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
+      "published": "2026-04-27 23:11:01",
+      "timestamp": 1777331461
+    },
     {
       "id": "e82156485ed02dd2690c4b82bf9e98f70fbdfee5",
       "source": "BleepingComputer",
@@ -220,16 +230,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is below - CVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in",
       "published": "2026-04-25 05:08:00",
       "timestamp": 1777093680
-    },
-    {
-      "id": "15d4fc92a23ec0a3473c22af9a32d4c5eda53423",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ADT confirms data breach after ShinyHunters leak threat",
-      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "published": "2026-04-24 22:53:14",
-      "timestamp": 1777071194
     },
     {
       "id": "e9dc300f127bccc690c87befa53e3185d4c14d43",
@@ -632,22 +632,22 @@
       "timestamp": 1776692460
     },
     {
-      "id": "578816f54d898c51c753acb18ae72a7b0779bdd2",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-s",
-      "published": "2026-04-20 12:00:00",
-      "timestamp": 1776686400
-    },
-    {
       "id": "e5d7ad7a1583ffd942c3f86f4a3e24e362c7b6b3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber th",
+      "published": "2026-04-20 12:00:00",
+      "timestamp": 1776686400
+    },
+    {
+      "id": "578816f54d898c51c753acb18ae72a7b0779bdd2",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-s",
       "published": "2026-04-20 12:00:00",
       "timestamp": 1776686400
     },
@@ -1062,6 +1062,16 @@
       "timestamp": 1773842400
     },
     {
+      "id": "98e7ea78a28ee851da6fec2b8bddd4a1ca4a8770",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization",
+      "summary": "CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker Corporation, which affected their Microsoft environment.1 To defend against similar malicious cyber activity, CISA urges organizations to harden endpoint management system configurations using the recommendations and resources provided in this alert. CISA is conducting enhanced coordination with federal pa",
+      "published": "2026-03-18 12:00:00",
+      "timestamp": 1773835200
+    },
+    {
       "id": "8290d73594c3922e8452ae893c7e6a3b9200e30d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1078,16 +1088,6 @@
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
-      "published": "2026-03-18 12:00:00",
-      "timestamp": 1773835200
-    },
-    {
-      "id": "98e7ea78a28ee851da6fec2b8bddd4a1ca4a8770",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization",
-      "summary": "CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker Corporation, which affected their Microsoft environment.1 To defend against similar malicious cyber activity, CISA urges organizations to harden endpoint management system configurations using the recommendations and resources provided in this alert. CISA is conducting enhanced coordination with federal pa",
       "published": "2026-03-18 12:00:00",
       "timestamp": 1773835200
     },
