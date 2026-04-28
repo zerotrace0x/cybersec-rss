@@ -1,6 +1,26 @@
 {
-  "generated_at": 1777355279,
+  "generated_at": 1777363190,
   "items": [
+    {
+      "id": "80b9a0e771aa6e7856ed5bdc192c09d3fe5688e1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent's identity lifecycle operations in a",
+      "published": "2026-04-28 06:37:00",
+      "timestamp": 1777358220
+    },
+    {
+      "id": "247203e82d4f2d39f66deca5e8367656b1d5f8f1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this",
+      "published": "2026-04-28 05:50:00",
+      "timestamp": 1777355400
+    },
     {
       "id": "1cefa08721dbdb41c0f6a2ac678038a1cf160b78",
       "source": "BleepingComputer",
@@ -750,26 +770,6 @@
       "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems. The activity involves the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun, and UnDefend, all of which were released as zero-days by a researcher known as Chaotic Eclipse (",
       "published": "2026-04-17 13:21:00",
       "timestamp": 1776432060
-    },
-    {
-      "id": "af670d68137a1da141320ddaaf1dd8a27294cba8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-      "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-      "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025. The new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
-      "published": "2026-04-17 10:47:00",
-      "timestamp": 1776422820
-    },
-    {
-      "id": "ed12b3c05e06f2d18e704eb64a85e135d5e4b5a6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-      "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions. \"CVEs that do not meet those criteria will still be listed in the NVD but will not",
-      "published": "2026-04-17 07:14:00",
-      "timestamp": 1776410040
     },
     {
       "id": "143f8da14c791897e542f94657915f49794ea09e",
