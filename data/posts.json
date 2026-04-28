@@ -1,6 +1,26 @@
 {
-  "generated_at": 1777403639,
+  "generated_at": 1777412867,
   "items": [
+    {
+      "id": "86039879a2ab9090282bbcba231fe7902694b4f8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+      "published": "2026-04-28 21:25:57",
+      "timestamp": 1777411557
+    },
+    {
+      "id": "a47e7339835a54f0f6bb98922e9272434bf87694",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]",
+      "published": "2026-04-28 21:07:23",
+      "timestamp": 1777410443
+    },
     {
       "id": "97577ae2db8bbf77f6426e759a7ba15c61b9ecf6",
       "source": "BleepingComputer",
@@ -240,26 +260,6 @@
       "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
       "published": "2026-04-27 15:17:37",
       "timestamp": 1777303057
-    },
-    {
-      "id": "64393a0b74aca8f2eef061335f8861647cc2bded",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-      "published": "2026-04-27 14:43:11",
-      "timestamp": 1777300991
-    },
-    {
-      "id": "7bdb9ae798ffce41ef710a7bf3de549235c7f4cf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
-      "published": "2026-04-27 14:25:35",
-      "timestamp": 1777299935
     },
     {
       "id": "415208740d4001851540013349efa32d31d54172",
@@ -722,7 +722,7 @@
       "timestamp": 1776705240
     },
     {
-      "id": "6abeb84e0e47fa651da52de5c01e873c682703cb",
+      "id": "6621c23585555004ca66f263903cf97280a37a37",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Making opportunistic\u00a0cyberattacks harder by design",
