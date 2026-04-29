@@ -1,6 +1,36 @@
 {
-  "generated_at": 1777459465,
+  "generated_at": 1777468498,
   "items": [
+    {
+      "id": "d2556599e159f52790336b318674d559c7a6ce98",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+      "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+      "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
+      "published": "2026-04-29 13:05:14",
+      "timestamp": 1777467914
+    },
+    {
+      "id": "6117911855983ee4105c3c2f94c7859eba083c6b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
+      "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+      "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
+      "published": "2026-04-29 12:41:17",
+      "timestamp": 1777466477
+    },
+    {
+      "id": "c43fa3216668f296d4f96198f04ddedd9a202019",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\" Crickets. The room goes quiet because an honest answer requires context \u2013 which is something that patch counts and CVSS scores were never designed to provide. Exposure",
+      "published": "2026-04-29 11:30:00",
+      "timestamp": 1777462200
+    },
     {
       "id": "96182e164d28f76876dbfbfe6c9acff86f443531",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
       "published": "2026-04-29 10:29:31",
       "timestamp": 1777458571
+    },
+    {
+      "id": "c314db4ebe50845be3e9fd0548c49810643c0d51",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
+      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions - 11.110.0.97 11.118.0.63 11.126.0.54 11.132.0.29",
+      "published": "2026-04-29 09:37:00",
+      "timestamp": 1777455420
     },
     {
       "id": "74b50c2bb2028c1227eaca9c17ef18eaadc63631",
@@ -260,26 +300,6 @@
       "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
       "published": "2026-04-27 21:41:01",
       "timestamp": 1777326061
-    },
-    {
-      "id": "e562efaae3698aadc5de73c22a24b0c0921d655d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Canada arrests three for operating \u201cSMS blaster\u201d device in Toronto",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-      "summary": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
-      "published": "2026-04-27 20:00:31",
-      "timestamp": 1777320031
-    },
-    {
-      "id": "2c2f3b89e8a7438b33c0ba2037982a64e915855b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
-      "summary": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
-      "published": "2026-04-27 19:56:03",
-      "timestamp": 1777319763
     },
     {
       "id": "415208740d4001851540013349efa32d31d54172",
@@ -720,26 +740,6 @@
       "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution. The flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sanitization in Antigravity's native file-searching tool, find_by_name, to bypass the program's Strict",
       "published": "2026-04-21 10:22:00",
       "timestamp": 1776766920
-    },
-    {
-      "id": "84961caff965ff3fd5b3927957648f88644be841",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
-      "published": "2026-04-21 06:23:00",
-      "timestamp": 1776752580
-    },
-    {
-      "id": "7cf914eedd20e5f8fb3fb7ab9c66de87d5591cad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code. SGLang is a high-performance, open-source serving",
-      "published": "2026-04-20 17:14:00",
-      "timestamp": 1776705240
     },
     {
       "id": "6621c23585555004ca66f263903cf97280a37a37",
