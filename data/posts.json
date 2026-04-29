@@ -1,6 +1,36 @@
 {
-  "generated_at": 1777479705,
+  "generated_at": 1777489412,
   "items": [
+    {
+      "id": "8a33fdacbb9e133f989af09fee93f8dcc7f24818",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+      "summary": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
+      "published": "2026-04-29 18:32:15",
+      "timestamp": 1777487535
+    },
+    {
+      "id": "e189d9502a2fc6dfa9e32caf078655e08d403a83",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign \u2013 calling itself the mini Shai-Hulud \u2013 has affected the following packages associated with SAP's JavaScript and cloud application",
+      "published": "2026-04-29 16:26:00",
+      "timestamp": 1777479960
+    },
+    {
+      "id": "4a4477d617f01126da56315c32f8742311da1640",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "8 best practices for CISOs conducting risk reviews",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
+      "summary": "Embracing strong proactive security is something we can all do to mitigate our increased exposure to security threats. The post 8 best practices for CISOs conducting risk reviews appeared first on Microsoft Security Blog.",
+      "published": "2026-04-29 16:00:00",
+      "timestamp": 1777478400
+    },
     {
       "id": "327f23db84c378dccbb3a1a9718955554b79371a",
       "source": "BleepingComputer",
@@ -280,16 +310,6 @@
       "summary": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
       "published": "2026-04-28 09:51:26",
       "timestamp": 1777369886
-    },
-    {
-      "id": "1af9b5e1047a35f54608bcb885f6ea98c3a650b3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
-      "summary": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the default Mail app. [...]",
-      "published": "2026-04-28 08:37:12",
-      "timestamp": 1777365432
     },
     {
       "id": "a4e431d6499438b60f40d7aa094fc9ad21bfe6e7",
@@ -732,16 +752,6 @@
       "timestamp": 1776776400
     },
     {
-      "id": "f61814f27ef332081729f560fd0879570bc4248a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Luk\u00e1\u0161 \u0160tefanko said in a",
-      "published": "2026-04-21 12:45:00",
-      "timestamp": 1776775500
-    },
-    {
       "id": "6abeb84e0e47fa651da52de5c01e873c682703cb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -782,7 +792,7 @@
       "timestamp": 1776516945
     },
     {
-      "id": "08f4b2ee9967e5d5524f6c9f0ca4b91ed261e598",
+      "id": "d64867f8bd3d644d130a42579d4ccdc28b850c66",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Containing a domain compromise: How predictive shielding shut down lateral movement",
@@ -882,16 +892,6 @@
       "timestamp": 1776081600
     },
     {
-      "id": "2c8e2e350fd450cda0db2b86c85a06f2fd448f75",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The agentic SOC\u2014Rethinking SecOps for the next decade",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/09/the-agentic-soc-rethinking-secops-for-the-next-decade/",
-      "summary": "In the SOC of the future, autonomous defense moves at machine speed, agents add context and coordination, and humans focus on judgment, risk, and outcomes. The post The agentic SOC\u2014Rethinking SecOps for the next decade appeared first on Microsoft Security Blog.",
-      "published": "2026-04-09 19:00:00",
-      "timestamp": 1775761200
-    },
-    {
       "id": "6d7a604f4a70cb0c016859ed2a8aa0fca080b021",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -967,7 +967,7 @@
       "source_category": "Threat Intel",
       "title": "North Korea-Nexus Threat Actor Compromises Widely Used Axios NPM Package in Supply Chain Attack",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/",
-      "summary": "Written by: Austin Larsen, Dima Lenz, Adrian Hernandez, Tyler McLellan, Christopher Gardner, Ashley Zaya, Michael Rudden, Mon Liclican Introduction Google Threat Intelligence Group (GTIG) is tracking an active software supply chain attack targeting the popular Node Package Manager (NPM) package \"axios.\" Between March 31, 2026, 00:21 and 03:20 UTC, an attacker introduced a malicious dependency named \"plain-crypto-js\" into axios NPM releases versions 1.14.1 and 0.30.4. Axios is the most popular Ja",
+      "summary": "Written by: Austin Larsen, Dima Lenz, Adrian Hernandez, Tyler McLellan, Christopher Gardner, Ashley Zaya, Michael Rudden, Mon Liclican, Muhammad Umair Introduction Google Threat Intelligence Group (GTIG) is tracking an active software supply chain attack targeting the popular Node Package Manager (NPM) package \"axios.\" Between March 31, 2026, 00:21 and 03:20 UTC, an attacker introduced a malicious dependency named \"plain-crypto-js\" into axios NPM releases versions 1.14.1 and 0.30.4. Axios is the",
       "published": "2026-03-31 14:00:00",
       "timestamp": 1774965600
     },
