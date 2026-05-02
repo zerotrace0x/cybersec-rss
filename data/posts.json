@@ -1,6 +1,16 @@
 {
-  "generated_at": 1777685016,
+  "generated_at": 1777699611,
   "items": [
+    {
+      "id": "d15d5e335b36043edb926bed8d66ebc2464175eb",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
+      "summary": "A high-severity Linux vulnerability, \u201cCopy Fail\u201d (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk. The post CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments appeared first on Microsoft Security Blog.",
+      "published": "2026-05-02 03:06:08",
+      "timestamp": 1777691168
+    },
     {
       "id": "baab78eef831c1e9a052eeb1c8a4853c6cae34f2",
       "source": "BleepingComputer",
@@ -850,16 +860,6 @@
       "summary": "Threat actors are abusing external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access. Once inside, attackers can abuse legitimate tools and standard admin protocols to move laterally and exfiltrate data while appearing as routine IT support\u2014activity Microsoft Defender helps detect across Teams, endpoint, and identity telemetry. The post Cross\u2011tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook appeared fir",
       "published": "2026-04-18 12:55:45",
       "timestamp": 1776516945
-    },
-    {
-      "id": "d64867f8bd3d644d130a42579d4ccdc28b850c66",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Containing a domain compromise: How predictive shielding shut down lateral movement",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
-      "summary": "Domain compromise accelerates fast. Predictive shielding slowed it down. This real-world attack shows how exposure-based containment stopped credential abuse and broke the threat actor's momentum. The post Containing a domain compromise: How predictive shielding shut down lateral movement appeared first on Microsoft Security Blog.",
-      "published": "2026-04-17 14:51:01",
-      "timestamp": 1776437461
     },
     {
       "id": "91b74b1c6781c494ad3465b2279571718f59509b",
