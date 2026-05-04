@@ -1,6 +1,36 @@
 {
-  "generated_at": 1777900568,
+  "generated_at": 1777911856,
   "items": [
+    {
+      "id": "5b1674ebb08fc6b8d68d11e84ca77fa7d77265b3",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Breaking the code: Multi-stage \u2018code of conduct\u2019 phishing campaign leads to AiTM token compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
+      "summary": "Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains. The post Breaking the code: Multi-stage \u2018code of conduct\u2019 phishing campaign leads to AiTM token compromise appeared first on Microsoft Security Blog.",
+      "published": "2026-05-04 15:00:00",
+      "timestamp": 1777906800
+    },
+    {
+      "id": "f189a59c59db93a2ea836194d1a733cf374f9eb1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+      "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. The game has shifted from breach to occupation. They\u2019re living inside SaaS sessions, pushing code with trusted commits, and scaling",
+      "published": "2026-05-04 14:23:00",
+      "timestamp": 1777904580
+    },
+    {
+      "id": "8bf4626b342bbdcc0e67fb8633ef67ba07af4ade",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
+      "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+      "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
+      "published": "2026-05-04 13:42:51",
+      "timestamp": 1777902171
+    },
     {
       "id": "86749c02a3c0a3eb4d832e54d1814103bb08a3ff",
       "source": "BleepingComputer",
@@ -252,16 +282,6 @@
       "timestamp": 1777644120
     },
     {
-      "id": "586d71f075e3fd3c9fbfcf8f52894c1ba901e4da",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-      "published": "2026-05-01 12:46:48",
-      "timestamp": 1777639608
-    },
-    {
       "id": "1abd1f3a8914c7bccedce2b9edf8766dcd6388ba",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -322,7 +342,7 @@
       "timestamp": 1777564800
     },
     {
-      "id": "55535f60c5488d817f81a30d70d443dd2926ec02",
+      "id": "fb95173503fd03e2f73b3bedace6f2989c7b49ac",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Email threat landscape: Q1 2026 trends and insights",
@@ -762,16 +782,6 @@
       "timestamp": 1776952800
     },
     {
-      "id": "c24a19e14d4f6d2270b4f624efbc9b3a7b111410",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-      "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket. \"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the",
-      "published": "2026-04-23 13:42:00",
-      "timestamp": 1776951720
-    },
-    {
       "id": "45c40277e0e580d20ff62eb397a2c8b83a1b322b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -850,16 +860,6 @@
       "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-s",
       "published": "2026-04-20 12:00:00",
       "timestamp": 1776686400
-    },
-    {
-      "id": "48933692bc62f7a168c2c843dd365f5960e26eba",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Cross\u2011tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
-      "summary": "Threat actors are abusing external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access. Once inside, attackers can abuse legitimate tools and standard admin protocols to move laterally and exfiltrate data while appearing as routine IT support\u2014activity Microsoft Defender helps detect across Teams, endpoint, and identity telemetry. The post Cross\u2011tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook appeared fir",
-      "published": "2026-04-18 12:55:45",
-      "timestamp": 1776516945
     },
     {
       "id": "91b74b1c6781c494ad3465b2279571718f59509b",
