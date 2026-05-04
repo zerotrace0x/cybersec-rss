@@ -1,6 +1,46 @@
 {
-  "generated_at": 1777911856,
+  "generated_at": 1777921715,
   "items": [
+    {
+      "id": "d7eea3ec44896c50f3b88a0472d1a6e592a2ebfc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+      "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
+      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
+      "published": "2026-05-04 18:06:00",
+      "timestamp": 1777917960
+    },
+    {
+      "id": "c5fbd6c0039a965b4a63fc86878aa7b0d80a23f4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Backdoored PyTorch Lightning package drops credential stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+      "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
+      "published": "2026-05-04 17:15:27",
+      "timestamp": 1777914927
+    },
+    {
+      "id": "2ee56e6dcf7fad7cf9ed2a78aa26898a36818069",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+      "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts. The",
+      "published": "2026-05-04 16:34:00",
+      "timestamp": 1777912440
+    },
+    {
+      "id": "1c362f3bb033d41c85c6bfef7f77164f7bb0d923",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trellix discloses data breach after source code repository hack",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+      "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
+      "published": "2026-05-04 16:25:07",
+      "timestamp": 1777911907
+    },
     {
       "id": "5b1674ebb08fc6b8d68d11e84ca77fa7d77265b3",
       "source": "Microsoft Security Blog",
@@ -232,16 +272,6 @@
       "timestamp": 1777657926
     },
     {
-      "id": "f1081ca016b4d009927348ec2cc41dc63b51e998",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Story retracted",
-      "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-      "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
-      "published": "2026-05-01 16:26:28",
-      "timestamp": 1777652788
-    },
-    {
       "id": "82e76a9518b3dd28da0020a14ab05aaef765e658",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -260,16 +290,6 @@
       "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions. The clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and",
       "published": "2026-05-01 14:26:00",
       "timestamp": 1777645560
-    },
-    {
-      "id": "60e21e161b2bc1118171b6fc391ea71cd50b446b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-      "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
-      "published": "2026-05-01 14:02:12",
-      "timestamp": 1777644132
     },
     {
       "id": "f5d4c0e1defc5064bb35588e1faf5734ea71fedf",
@@ -750,26 +770,6 @@
       "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access. Zscaler ThreatLabz, which discovered the campaign last month, has attributed it with high confidence to Tropic Trooper (aka",
       "published": "2026-04-24 09:29:00",
       "timestamp": 1777022940
-    },
-    {
-      "id": "bed0a4bc996f9e9b963b57c18dcfa40c59e5827e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access",
-      "published": "2026-04-24 07:24:00",
-      "timestamp": 1777015440
-    },
-    {
-      "id": "846ad3a39148188ba50fcbb0b43dbb4217058210",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
-      "published": "2026-04-23 18:16:00",
-      "timestamp": 1776968160
     },
     {
       "id": "9a5a8c68be411c05ec274faefe78a64006d56d52",
