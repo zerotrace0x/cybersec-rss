@@ -1,6 +1,36 @@
 {
-  "generated_at": 1777997913,
+  "generated_at": 1778007645,
   "items": [
+    {
+      "id": "aef59c5a38ae9d5f38276dc4cd88baa53e2271d4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
+      "published": "2026-05-05 17:34:09",
+      "timestamp": 1778002449
+    },
+    {
+      "id": "3963eee0fba4002d3bc8f361a421ddeee2c23260",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been described as a case of \"double free and possible RCE\" in the HTTP/2 protocol handling. This issue",
+      "published": "2026-05-05 16:19:00",
+      "timestamp": 1777997940
+    },
+    {
+      "id": "29c9af77f406736c35950503a7fd90b7a20b0273",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging to DAEMON Tools developers,\" Kaspersky researchers Igor Kuznetsov, Georgy Kucherin, Leonid",
+      "published": "2026-05-05 16:07:00",
+      "timestamp": 1777997220
+    },
     {
       "id": "a906ef9bcde412c5c92b96673cf66629be5373da",
       "source": "BleepingComputer",
@@ -22,11 +52,11 @@
       "timestamp": 1777990740
     },
     {
-      "id": "f1203a32afea0cbc34e8251f711b553888310dcd",
+      "id": "72b0882d1703e5208a5e3214e961972ecbcce762",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
       "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
       "published": "2026-05-05 14:00:10",
       "timestamp": 1777989610
@@ -157,7 +187,7 @@
       "source_category": "General",
       "title": "Amazon SES increasingly abused in phishing to evade detection",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
       "published": "2026-05-04 20:03:28",
       "timestamp": 1777925008
     },
@@ -270,16 +300,6 @@
       "summary": "The China-based cybercrime group known as Silver Fox (aka Monarch, SwimSnake, The Great Thief of Valley, UTG-Q-1000, and Void Arachne) has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar",
       "published": "2026-05-04 11:57:00",
       "timestamp": 1777895820
-    },
-    {
-      "id": "05f165f380315fc72af44dbbdd6429be2297e5f0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA says \u2018Copy Fail\u2019 flaw now exploited to root Linux systems",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
-      "published": "2026-05-04 11:28:15",
-      "timestamp": 1777894095
     },
     {
       "id": "f8147540f605b3e7a23472c56d2858ad2b90560c",
@@ -740,26 +760,6 @@
       "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's according to a report published by Positive Technologies, which found the threat actors to be leveraging an exploit chain comprising three vulnerabilities to execute commands remotely on susceptible",
       "published": "2026-04-27 11:54:00",
       "timestamp": 1777290840
-    },
-    {
-      "id": "5b6834adb743df1d749664cf49583f04a82745eb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-      "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-      "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm. The cluster of 73 extensions has been identified as cloned versions of their legitimate counterparts. Of these, six have been confirmed to be malicious, with the remaining acting as seemingly",
-      "published": "2026-04-27 11:23:00",
-      "timestamp": 1777288980
-    },
-    {
-      "id": "68e9ed5155d0c30f0924bc4a125b94f9a115b8cc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-      "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
-      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers. According to a new report published by Infoblox, the operation is believed to",
-      "published": "2026-04-27 06:33:00",
-      "timestamp": 1777271580
     },
     {
       "id": "8dece9623eb4ad77e5a7f3feab011f765da8d289",
