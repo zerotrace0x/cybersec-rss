@@ -1,6 +1,66 @@
 {
-  "generated_at": 1777967398,
+  "generated_at": 1777976788,
   "items": [
+    {
+      "id": "a36a38972dffbcfef5f6d7b4083b977cdb239f2e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
+      "published": "2026-05-05 10:13:17",
+      "timestamp": 1777975997
+    },
+    {
+      "id": "34fed1b5ef14058a395cce168025078640c51dc3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
+      "published": "2026-05-05 10:03:52",
+      "timestamp": 1777975432
+    },
+    {
+      "id": "7135d67db9b6699d2199faf13bf6e6991095836d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the",
+      "published": "2026-05-05 09:07:00",
+      "timestamp": 1777972020
+    },
+    {
+      "id": "74cd996526f9716d7ea4bdb36f1bd41d9d3ac3c5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
+      "published": "2026-05-05 09:04:13",
+      "timestamp": 1777971853
+    },
+    {
+      "id": "efd96027e8f77cfa274152799f41a98d2039b0c4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+      "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the \"/papi/esearch/data/devops/",
+      "published": "2026-05-05 07:37:00",
+      "timestamp": 1777966620
+    },
+    {
+      "id": "1676ef9dfcbae54e86c639e9d91a04473d8d61a2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+      "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,",
+      "published": "2026-05-05 06:35:00",
+      "timestamp": 1777962900
+    },
     {
       "id": "c8b414b07fcba100cbe1967c59ac7a38476f32ae",
       "source": "BleepingComputer",
@@ -212,26 +272,6 @@
       "timestamp": 1777789560
     },
     {
-      "id": "c9792145cd753a37c390b818ace2636924bd9b2b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-      "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
-      "published": "2026-05-02 21:54:00",
-      "timestamp": 1777758840
-    },
-    {
-      "id": "cfb978a76f5c71c5fed7e838446c862ace3867a9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-      "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
-      "published": "2026-05-02 14:32:25",
-      "timestamp": 1777732345
-    },
-    {
       "id": "300ea498b5c289098bc2775af0d6581cedb8b4ec",
       "source": "The Hacker News",
       "source_category": "General",
@@ -242,7 +282,7 @@
       "timestamp": 1777704060
     },
     {
-      "id": "d15d5e335b36043edb926bed8d66ebc2464175eb",
+      "id": "37886f70395d42ec4c6d868b8a10a68af2bf13ce",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
@@ -250,16 +290,6 @@
       "summary": "A high-severity Linux vulnerability, \u201cCopy Fail\u201d (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk. The post CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments appeared first on Microsoft Security Blog.",
       "published": "2026-05-02 03:06:08",
       "timestamp": 1777691168
-    },
-    {
-      "id": "baab78eef831c1e9a052eeb1c8a4853c6cae34f2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
-      "published": "2026-05-02 00:18:05",
-      "timestamp": 1777681085
     },
     {
       "id": "89b7fb15c8241702104b41d061197388b684dbca",
@@ -742,36 +772,6 @@
       "timestamp": 1777032000
     },
     {
-      "id": "d5d34d45cd5770dd22db3b51f97eeade2fb4f0d5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
-      "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
-      "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation As discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly. The issue is not simply that agents are new actors. It is that agents are delegated actors. They do not emerge with independent authority. They are triggered, invoked, provisioned, or",
-      "published": "2026-04-24 11:49:00",
-      "timestamp": 1777031340
-    },
-    {
-      "id": "73f86d0577f1d7ed8957eeeacb3433f196feebaa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-      "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
-      "summary": "Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025. \"Once launched, these apps redirect users to browser pages designed to look similar to the App Store and distribute trojanized versions of legitimate wallets,\" Kaspersky",
-      "published": "2026-04-24 11:48:00",
-      "timestamp": 1777031280
-    },
-    {
-      "id": "0f83a757813535b66b6842ee4dc2564263c06e3c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
-      "link": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
-      "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access. Zscaler ThreatLabz, which discovered the campaign last month, has attributed it with high confidence to Tropic Trooper (aka",
-      "published": "2026-04-24 09:29:00",
-      "timestamp": 1777022940
-    },
-    {
       "id": "9a5a8c68be411c05ec274faefe78a64006d56d52",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1248,8 +1248,8 @@
       "title": "On the Effectiveness of Mutational Grammar Fuzzing",
       "link": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
       "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the ",
-      "published": "2026-03-05 08:00:00",
-      "timestamp": 1772697600
+      "published": "2026-03-04 23:00:00",
+      "timestamp": 1772665200
     },
     {
       "id": "f118722ea9b6f9f7d29f0bd4e3d22edaa531e7ed",
@@ -1278,8 +1278,8 @@
       "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
       "link": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
       "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn\u2019t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don\u2019t know about, assuming it\u2019s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation\u2019s remark",
-      "published": "2026-02-26 08:00:00",
-      "timestamp": 1772092800
+      "published": "2026-02-25 23:00:00",
+      "timestamp": 1772060400
     },
     {
       "id": "c7780efd0e6a0d77c70ba8664bac9a869e49ce82",
@@ -1318,8 +1318,8 @@
       "title": "Bypassing Administrator Protection by Abusing UI Access",
       "link": "https://projectzero.google/2026/02/windows-administrator-protection.html",
       "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn\u2019t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
-      "published": "2026-02-12 08:00:00",
-      "timestamp": 1770883200
+      "published": "2026-02-11 23:00:00",
+      "timestamp": 1770850800
     },
     {
       "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
@@ -1368,8 +1368,8 @@
       "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
       "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
       "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
-      "published": "2026-01-30 08:00:00",
-      "timestamp": 1769760000
+      "published": "2026-01-29 23:00:00",
+      "timestamp": 1769727600
     },
     {
       "id": "a57bc58f60552618466db5cdcd6e1e835e6acbb6",
@@ -1398,8 +1398,8 @@
       "title": "Bypassing Windows Administrator Protection",
       "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
-      "published": "2026-01-26 08:00:00",
-      "timestamp": 1769414400
+      "published": "2026-01-25 23:00:00",
+      "timestamp": 1769382000
     },
     {
       "id": "49220fa9cd9cad5f8031e0d3ed185b153c0a6c15",
@@ -1408,8 +1408,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
       "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
-      "published": "2026-01-14 18:01:00",
-      "timestamp": 1768413660
+      "published": "2026-01-14 09:01:00",
+      "timestamp": 1768381260
     },
     {
       "id": "35d01a4a81f61e3097583fe69ef74c1451a9932f",
@@ -1418,8 +1418,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
       "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
-      "published": "2026-01-14 18:00:00",
-      "timestamp": 1768413600
+      "published": "2026-01-14 09:00:00",
+      "timestamp": 1768381200
     },
     {
       "id": "dbb460bbb0c787324b208477ec5d48ba09fd48d6",
@@ -1428,8 +1428,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
       "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
-      "published": "2026-01-14 17:59:00",
-      "timestamp": 1768413540
+      "published": "2026-01-14 08:59:00",
+      "timestamp": 1768381140
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
