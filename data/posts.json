@@ -1,6 +1,46 @@
 {
-  "generated_at": 1778046378,
+  "generated_at": 1778064760,
   "items": [
+    {
+      "id": "0ddcaadb3e847c41cf0359e43c472354b4a330ef",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+      "summary": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
+      "published": "2026-05-06 09:18:16",
+      "timestamp": 1778059096
+    },
+    {
+      "id": "da62f78f029fe2189620ecca15f22fb53033533c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
+      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said. The initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
+      "published": "2026-05-06 09:13:00",
+      "timestamp": 1778058780
+    },
+    {
+      "id": "9ddd5fbc1f86f9878325d44ba0b549cf142da5cf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
+      "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
+      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. \"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
+      "published": "2026-05-06 08:34:00",
+      "timestamp": 1778056440
+    },
+    {
+      "id": "c2a41a7c486dd12bad695e166ea4d09cea13fe18",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
+      "published": "2026-05-06 06:14:00",
+      "timestamp": 1778048040
+    },
     {
       "id": "4661823d371bfa2a51133e31fd5f57338fb36b8d",
       "source": "BleepingComputer",
@@ -252,17 +292,7 @@
       "timestamp": 1777912440
     },
     {
-      "id": "1c362f3bb033d41c85c6bfef7f77164f7bb0d923",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Trellix discloses data breach after source code repository hack",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-      "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
-      "published": "2026-05-04 16:25:07",
-      "timestamp": 1777911907
-    },
-    {
-      "id": "5b1674ebb08fc6b8d68d11e84ca77fa7d77265b3",
+      "id": "155e67e4451a60493470272905ff78646db8e602",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Breaking the code: Multi-stage \u2018code of conduct\u2019 phishing campaign leads to AiTM token compromise",
@@ -452,7 +482,7 @@
       "timestamp": 1777564800
     },
     {
-      "id": "55535f60c5488d817f81a30d70d443dd2926ec02",
+      "id": "fb95173503fd03e2f73b3bedace6f2989c7b49ac",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Email threat landscape: Q1 2026 trends and insights",
@@ -732,36 +762,6 @@
       "timestamp": 1777299540
     },
     {
-      "id": "d38533cc018a352f5f19e9a0fa459381f0ed2337",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks still are. Most of it feels like stuff we should have fixed years ago. Bad extensions. Stolen creds. Remote tools are getting abused. Malware hides in places people trust. Same",
-      "published": "2026-04-27 13:30:00",
-      "timestamp": 1777296600
-    },
-    {
-      "id": "78c9f3f05e29a1126f06985cb63e725e278050be",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
-      "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
-      "summary": "Anthropic\u2019s Claude Mythos Preview has dominated security discussions since its April 7 announcement. Early reporting describes a powerful cybersecurity-focused AI system capable of identifying vulnerabilities at scale and raising serious questions about how quickly organizations can validate, prioritize, and remediate what it finds. The debate that followed has mostly focused on the right",
-      "published": "2026-04-27 11:58:00",
-      "timestamp": 1777291080
-    },
-    {
-      "id": "b7a747d612f439c0a49274bb479b59da6818f7dc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-      "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
-      "summary": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's according to a report published by Positive Technologies, which found the threat actors to be leveraging an exploit chain comprising three vulnerabilities to execute commands remotely on susceptible",
-      "published": "2026-04-27 11:54:00",
-      "timestamp": 1777290840
-    },
-    {
       "id": "8dece9623eb4ad77e5a7f3feab011f765da8d289",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -792,7 +792,7 @@
       "timestamp": 1776945600
     },
     {
-      "id": "530fe93c94340558e7a1ed5731e8ecee35bc146e",
+      "id": "c3460ac44402e5a1c534edc8a8d266a64c3de673",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "AI-powered defense for an AI-accelerated threat landscape",
@@ -832,7 +832,7 @@
       "timestamp": 1776783239
     },
     {
-      "id": "6abeb84e0e47fa651da52de5c01e873c682703cb",
+      "id": "6621c23585555004ca66f263903cf97280a37a37",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Making opportunistic\u00a0cyberattacks harder by design",
