@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778084483,
+  "generated_at": 1778094950,
   "items": [
+    {
+      "id": "28bbd7b46c47be6f5132078959ad7881a60e70a2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "published": "2026-05-06 18:38:38",
+      "timestamp": 1778092718
+    },
+    {
+      "id": "dea59c3e6c4d0ee24097706edd3cc67debb3d50d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+      "published": "2026-05-06 18:06:21",
+      "timestamp": 1778090781
+    },
+    {
+      "id": "b2dcb1221e4fc8bd81c47141ae1b624ba1e89468",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DAEMON Tools devs confirm breach, release malware-free version",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
+      "published": "2026-05-06 16:43:30",
+      "timestamp": 1778085810
+    },
     {
       "id": "906b6ff28ddf60a9a2679fc1a4c0d436dfb87016",
       "source": "Microsoft Security Blog",
@@ -70,6 +100,16 @@
       "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace \u2014 big hacks, broken systems, and new threats. But behind every headline, there\u2019s a quieter, better story. It\u2019s the story of leaders making tough calls under pressure, teams building smarter defenses, and security products that keep hunting threats 24/7 \u2014 even when it\u2019s hard. Most of the time, this work is",
       "published": "2026-05-06 12:03:00",
       "timestamp": 1778068980
+    },
+    {
+      "id": "4d95530762fa582e45df899405ef657476d915fd",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
+      "published": "2026-05-06 12:00:00",
+      "timestamp": 1778068800
     },
     {
       "id": "7d45ebd8cb21a3956bbe55c5afae51dfc8fb0e58",
@@ -262,26 +302,6 @@
       "timestamp": 1777977000
     },
     {
-      "id": "a36a38972dffbcfef5f6d7b4083b977cdb239f2e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
-      "published": "2026-05-05 10:13:17",
-      "timestamp": 1777975997
-    },
-    {
-      "id": "34fed1b5ef14058a395cce168025078640c51dc3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "published": "2026-05-05 10:03:52",
-      "timestamp": 1777975432
-    },
-    {
       "id": "7135d67db9b6699d2199faf13bf6e6991095836d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +310,6 @@
       "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the",
       "published": "2026-05-05 09:07:00",
       "timestamp": 1777972020
-    },
-    {
-      "id": "74cd996526f9716d7ea4bdb36f1bd41d9d3ac3c5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
-      "published": "2026-05-05 09:04:13",
-      "timestamp": 1777971853
     },
     {
       "id": "efd96027e8f77cfa274152799f41a98d2039b0c4",
@@ -1260,16 +1270,6 @@
       "summary": "Introduction Google Threat Intelligence Group (GTIG) has identified a new and powerful exploit kit targeting Apple iPhone models running iOS version 13.0 (released in September 2019) up to version 17.2.1 (released in December 2023). The exploit kit, named \u201cCoruna\u201d by its developers, contained five full iOS exploit chains and a total of 23 exploits. The core technical value of this exploit kit lies in its comprehensive collection of iOS exploits, with the most advanced ones using non-public explo",
       "published": "2026-03-03 14:00:00",
       "timestamp": 1772546400
-    },
-    {
-      "id": "90f482ecb14816838b88a9bcf0efcc4e78f255f8",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21385 Qualcomm Multiple Chipsets Memory Corruption Vulnerability CVE-2026-22719 Broadcom VMware Aria Operations Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk",
-      "published": "2026-03-03 12:00:00",
-      "timestamp": 1772539200
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
