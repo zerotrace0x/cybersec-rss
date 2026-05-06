@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778073770,
+  "generated_at": 1778084483,
   "items": [
+    {
+      "id": "906b6ff28ddf60a9a2679fc1a4c0d436dfb87016",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bMicrosoft named an overall leader in\u00a0KuppingerCole Analyst\u2019s 2026 Emerging AI Security Operations Center (SOC) report\u00a0\u200b\u200b",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/",
+      "summary": "Microsoft is excited to be named an Overall Leader, and the Market Leader in the Kuppinger Cole Analyst\u2019s 2026 Emerging AI Security Operations Center (SOC) report, as we see automation and AI as core components of the future of cybersecurity. The post \u200b\u200bMicrosoft named an overall leader in KuppingerCole Analyst\u2019s 2026 Emerging AI Security Operations Center (SOC) report \u200b\u200b appeared first on Microsoft Security Blog.",
+      "published": "2026-05-06 16:00:00",
+      "timestamp": 1778083200
+    },
+    {
+      "id": "2d69d21da670fd16eb48c780943eb3e7150bda9d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "ClickFix campaign uses fake macOS utilities lures to deliver infostealers",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/06/clickfix-campaign-uses-fake-macos-utilities-lures-deliver-infostealers/",
+      "summary": "Threat actors are targeting macOS users with fake utility fixes that trick them into running malicious Terminal commands. This campaign evades traditional defenses by stealing credentials, wallets, and sensitive data. The post ClickFix campaign uses fake macOS utilities lures to deliver infostealers appeared first on Microsoft Security Blog.",
+      "published": "2026-05-06 15:20:32",
+      "timestamp": 1778080832
+    },
+    {
+      "id": "3f7381cfcac321f354eed31dc66efeffaf441df5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+      "published": "2026-05-06 14:04:14",
+      "timestamp": 1778076254
+    },
     {
       "id": "b4698c13cd598d6a2cb714eef0cf2a5122c63c10",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]",
       "published": "2026-05-06 13:02:52",
       "timestamp": 1778072572
+    },
+    {
+      "id": "9de94ffd1b340fa048151c89e849abb4bbb5edd6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
+      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The attack, observed by Rapid7 in early 2026, has been found to leverage social engineering techniques via Microsoft Teams to initiate the infection sequence. Although the incident",
+      "published": "2026-05-06 13:00:00",
+      "timestamp": 1778072400
     },
     {
       "id": "bb2bdf77ea9f55695d6e46bf48ffd15714400ed7",
@@ -280,16 +320,6 @@
       "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,",
       "published": "2026-05-05 06:35:00",
       "timestamp": 1777962900
-    },
-    {
-      "id": "c8b414b07fcba100cbe1967c59ac7a38476f32ae",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Weaver E-cology critical bug exploited in attacks since March",
-      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
-      "published": "2026-05-04 22:12:57",
-      "timestamp": 1777932777
     },
     {
       "id": "d7eea3ec44896c50f3b88a0472d1a6e592a2ebfc",
@@ -752,16 +782,6 @@
       "timestamp": 1777363020
     },
     {
-      "id": "80b9a0e771aa6e7856ed5bdc192c09d3fe5688e1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent's identity lifecycle operations in a",
-      "published": "2026-04-28 06:37:00",
-      "timestamp": 1777358220
-    },
-    {
       "id": "8dece9623eb4ad77e5a7f3feab011f765da8d289",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -812,16 +832,6 @@
       "timestamp": 1776859200
     },
     {
-      "id": "c4d7556e2b8e27d8305d17e37cff63c55aab22ab",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Detection strategies across cloud and identities against infiltrating IT workers",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
-      "summary": "The shift to remote and hybrid work since the pandemic expanded global hiring and accelerated digital onboarding, increasing reliance on online identity verification and remote access. The post Detection strategies across cloud and identities against infiltrating IT workers appeared first on Microsoft Security Blog.",
-      "published": "2026-04-21 16:03:09",
-      "timestamp": 1776787389
-    },
-    {
       "id": "855faebafbd4f2403f218d4f321b5971a0ed3aa6",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -830,16 +840,6 @@
       "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
       "published": "2026-04-21 14:53:59",
       "timestamp": 1776783239
-    },
-    {
-      "id": "6abeb84e0e47fa651da52de5c01e873c682703cb",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Making opportunistic\u00a0cyberattacks harder by design",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/20/making-opportunistic-cyberattacks-harder-by-design/",
-      "summary": "How Microsoft secures Dynamics 365 and Power Platform by removing credentials, reducing attack surfaces, and using platform engineering to block opportunistic threats. The post Making opportunistic cyberattacks harder by design appeared first on Microsoft Security Blog.",
-      "published": "2026-04-20 16:00:00",
-      "timestamp": 1776700800
     },
     {
       "id": "e5d7ad7a1583ffd942c3f86f4a3e24e362c7b6b3",
