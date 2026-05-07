@@ -1,6 +1,56 @@
 {
-  "generated_at": 1778171394,
+  "generated_at": 1778181661,
   "items": [
+    {
+      "id": "8ab45b2b54e07644c93744c6b2173398766e5533",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+      "published": "2026-05-07 18:35:50",
+      "timestamp": 1778178950
+    },
+    {
+      "id": "11b0c3a3d561a13909f9e2f0c9568ee8544c218f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
+      "published": "2026-05-07 18:00:59",
+      "timestamp": 1778176859
+    },
+    {
+      "id": "9c46551cae960d126e2fb9959b7df364ed34e557",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+      "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1. It allows \"a remotely authenticated user with administrative access to achieve remote code",
+      "published": "2026-05-07 17:55:00",
+      "timestamp": 1778176500
+    },
+    {
+      "id": "8cffd0ed41b44a869e42897b941b1bd3dff1378b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+      "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
+      "published": "2026-05-07 17:45:00",
+      "timestamp": 1778175900
+    },
+    {
+      "id": "d9d558af27bf44743373554d6f3f1a52c4994bb6",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "World Passkey Day: Advancing passwordless authentication",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/",
+      "summary": "This World Passkey Day, read how Microsoft is advancing passkey adoption to replace passwords, cut phishing risk, and deliver simpler, more secure sign-ins. The post World Passkey Day: Advancing passwordless authentication appeared first on Microsoft Security Blog.",
+      "published": "2026-05-07 16:00:00",
+      "timestamp": 1778169600
+    },
     {
       "id": "2b427646b75778f52d2f97e7f6e0798cb21b0292",
       "source": "BleepingComputer",
@@ -70,6 +120,16 @@
       "summary": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
       "published": "2026-05-07 12:00:08",
       "timestamp": 1778155208
+    },
+    {
+      "id": "78047460d94c47979c50fce1abbab6270c75ba86",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
+      "published": "2026-05-07 12:00:00",
+      "timestamp": 1778155200
     },
     {
       "id": "a4482c28dbb317e90a45afe086972e294f83de77",
@@ -232,16 +292,6 @@
       "timestamp": 1778072400
     },
     {
-      "id": "bb2bdf77ea9f55695d6e46bf48ffd15714400ed7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
-      "summary": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
-      "published": "2026-05-06 12:56:32",
-      "timestamp": 1778072192
-    },
-    {
       "id": "81161c3c99ebe5cebf5f20009d6d00d38e76d104",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +320,6 @@
       "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that \u201centerprise adoption of AI agents is accelerating, outpacing maturity of governance policy controls.\u201d Enterprise leaders can request access to the Gartner Market Guide for",
       "published": "2026-05-06 10:57:00",
       "timestamp": 1778065020
-    },
-    {
-      "id": "0ddcaadb3e847c41cf0359e43c472354b4a330ef",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-      "summary": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
-      "published": "2026-05-06 09:18:16",
-      "timestamp": 1778059096
     },
     {
       "id": "da62f78f029fe2189620ecca15f22fb53033533c",
@@ -752,27 +792,7 @@
       "timestamp": 1777455420
     },
     {
-      "id": "74b50c2bb2028c1227eaca9c17ef18eaadc63631",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in ConnectWise ScreenConnect",
-      "published": "2026-04-29 08:46:00",
-      "timestamp": 1777452360
-    },
-    {
-      "id": "bcd5e0a144823f429ef480d0a1100a29f04751ab",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge. The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying",
-      "published": "2026-04-29 05:34:00",
-      "timestamp": 1777440840
-    },
-    {
-      "id": "981024539595f2457ce128187f10ad2fd94a3fd0",
+      "id": "c6b271e47bef59cc0e5ba038eeaeddcb69529c67",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Simplifying AWS defense with Microsoft Sentinel UEBA",
@@ -820,16 +840,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vul",
       "published": "2026-04-23 12:00:00",
       "timestamp": 1776945600
-    },
-    {
-      "id": "530fe93c94340558e7a1ed5731e8ecee35bc146e",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "AI-powered defense for an AI-accelerated threat landscape",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/22/ai-powered-defense-for-an-ai-accelerated-threat-landscape/",
-      "summary": "Read how Microsoft is partnering with Anthropic and broader industry to use leading models, paired with our platforms and expertise, to turn AI-driven discovery into protection at scale. The post AI-powered defense for an AI-accelerated threat landscape appeared first on Microsoft Security Blog.",
-      "published": "2026-04-22 17:00:00",
-      "timestamp": 1776877200
     },
     {
       "id": "22838eeec9baa4ad94de6a78eca8e9bb47c22bfb",
@@ -1240,16 +1250,6 @@
       "summary": "Written by: Casey Charrier, James Sadowski, Zander Work, Clement Lecigne, Beno\u00eet Sevens, Fred Plan Executive Summary Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities exploited in-the-wild in 2025. Although that volume of zero-days is lower than the record high observed in 2023 (100), it is higher than 2024\u2019s count (78) and remained within the 60\u2013100 range established over the previous four years, indicating a trend toward stabilization at these levels. In 2025, we cont",
       "published": "2026-03-05 14:00:00",
       "timestamp": 1772719200
-    },
-    {
-      "id": "7f73b190e2f991af425a1bff65665bf48c673c45",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/05/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2017-7921 Hikvision Multiple Products Improper Authentication Vulnerability CVE-2021-22681 Rockwell Multiple Products Insufficient Protected Credentials Vulnerability CVE-2021-30952 Apple Multiple Products Integer Overflow or Wraparound Vulnerability CVE-2023-41974 Apple iOS and iPadOS Use-After-Free Vulnerability CVE-2023-43000 Apple Multiple products Use-A",
-      "published": "2026-03-05 12:00:00",
-      "timestamp": 1772712000
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
