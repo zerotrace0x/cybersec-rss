@@ -1,6 +1,16 @@
 {
-  "generated_at": 1778117348,
+  "generated_at": 1778133005,
   "items": [
+    {
+      "id": "87c34b9408eae7bf105bb99e59a696f21ef16437",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
+      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host",
+      "published": "2026-05-07 04:15:00",
+      "timestamp": 1778127300
+    },
     {
       "id": "487d7a25be8e5ff053017db4f952f9bf85e17f67",
       "source": "BleepingComputer",
@@ -780,16 +790,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution. The vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the",
       "published": "2026-04-28 11:18:00",
       "timestamp": 1777375080
-    },
-    {
-      "id": "87b7041201f1d78dbeea056475171d263172b349",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-      "summary": "When patching isn\u2019t fast enough, NDR helps contain the next era of threats. If you\u2019ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast. Anthropic\u2019s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks",
-      "published": "2026-04-28 10:30:00",
-      "timestamp": 1777372200
     },
     {
       "id": "8dece9623eb4ad77e5a7f3feab011f765da8d289",
