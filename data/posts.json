@@ -1,6 +1,56 @@
 {
-  "generated_at": 1778160145,
+  "generated_at": 1778171394,
   "items": [
+    {
+      "id": "2b427646b75778f52d2f97e7f6e0798cb21b0292",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "published": "2026-05-07 15:20:51",
+      "timestamp": 1778167251
+    },
+    {
+      "id": "abce832c7c06846d9b88cf65b23067da43daa548",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
+      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+      "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
+      "published": "2026-05-07 14:01:11",
+      "timestamp": 1778162471
+    },
+    {
+      "id": "9259643bf424e2906dd605a2ce8984e131ab771b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it\u2019s the people. Every major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
+      "published": "2026-05-07 13:50:00",
+      "timestamp": 1778161800
+    },
+    {
+      "id": "f3c166c19643f9724d1d8f4930567c0883670247",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Americans sentenced for running 'laptop farms' for North Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
+      "summary": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
+      "published": "2026-05-07 13:45:48",
+      "timestamp": 1778161548
+    },
+    {
+      "id": "6f6e1661aa1f85f0c8ad8aec216b083a40e6fd79",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
+      "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
+      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker",
+      "published": "2026-05-07 13:34:00",
+      "timestamp": 1778160840
+    },
     {
       "id": "383528e43e6162851f0cd595f6866387973cde46",
       "source": "BleepingComputer",
@@ -260,36 +310,6 @@
       "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
       "published": "2026-05-06 06:14:00",
       "timestamp": 1778048040
-    },
-    {
-      "id": "4661823d371bfa2a51133e31fd5f57338fb36b8d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New stealthy Quasar Linux malware targets software developers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-      "summary": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
-      "published": "2026-05-05 22:01:39",
-      "timestamp": 1778018499
-    },
-    {
-      "id": "aaebfca4e4648f425b4a7f6b2b3645dcc683e3de",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
-      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
-      "published": "2026-05-05 21:20:23",
-      "timestamp": 1778016023
-    },
-    {
-      "id": "751f1ef8300d90fdd3fe2a909f156a9a622123d6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-      "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
-      "published": "2026-05-05 19:21:18",
-      "timestamp": 1778008878
     },
     {
       "id": "3963eee0fba4002d3bc8f361a421ddeee2c23260",
@@ -750,26 +770,6 @@
       "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge. The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying",
       "published": "2026-04-29 05:34:00",
       "timestamp": 1777440840
-    },
-    {
-      "id": "a38ef0b45f7f97f56f7567a09219521d4be745b0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-      "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command. The flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve",
-      "published": "2026-04-28 18:19:00",
-      "timestamp": 1777400340
-    },
-    {
-      "id": "9eb2a6a2874afe0c8b39d039c1087105f81e91e9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-      "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-      "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot). \"The malware disguises itself as a Minecraft hack called 'Slinky,'\" Brazil-based cybersecurity company ZenoX said in a technical report. \"It uses the official game icon to induce voluntary execution,",
-      "published": "2026-04-28 17:39:00",
-      "timestamp": 1777397940
     },
     {
       "id": "981024539595f2457ce128187f10ad2fd94a3fd0",
