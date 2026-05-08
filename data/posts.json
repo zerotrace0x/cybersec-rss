@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778190178,
+  "generated_at": 1778204737,
   "items": [
+    {
+      "id": "49969fa17b1921befd9a6d809bf9ae9cbe31721b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
+      "published": "2026-05-07 22:36:54",
+      "timestamp": 1778193414
+    },
+    {
+      "id": "8e4245544bca7729205b20aad064447b352d4483",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
+      "published": "2026-05-07 22:06:52",
+      "timestamp": 1778191612
+    },
+    {
+      "id": "74109a611eac9aa197ba7c644b493a161c706eaf",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "When prompts become shells: RCE vulnerabilities in AI agent frameworks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/prompts-become-shells-rce-vulnerabilities-ai-agent-frameworks/",
+      "summary": "New research exposes how prompt injection in AI agent frameworks can lead to remote code execution. Learn how these vulnerabilities work, what\u2019s impacted, and how to secure your agents. The post When prompts become shells: RCE vulnerabilities in AI agent frameworks appeared first on Microsoft Security Blog.",
+      "published": "2026-05-07 20:22:39",
+      "timestamp": 1778185359
+    },
     {
       "id": "8ab45b2b54e07644c93744c6b2173398766e5533",
       "source": "BleepingComputer",
@@ -260,26 +290,6 @@
       "summary": "Threat actors are targeting macOS users with fake utility fixes that trick them into running malicious Terminal commands. This campaign evades traditional defenses by stealing credentials, wallets, and sensitive data. The post ClickFix campaign uses fake macOS utilities lures to deliver infostealers appeared first on Microsoft Security Blog.",
       "published": "2026-05-06 15:20:32",
       "timestamp": 1778080832
-    },
-    {
-      "id": "3f7381cfcac321f354eed31dc66efeffaf441df5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why ransomware attacks succeed even when backups exist",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
-      "published": "2026-05-06 14:04:14",
-      "timestamp": 1778076254
-    },
-    {
-      "id": "b4698c13cd598d6a2cb714eef0cf2a5122c63c10",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]",
-      "published": "2026-05-06 13:02:52",
-      "timestamp": 1778072572
     },
     {
       "id": "9de94ffd1b340fa048151c89e849abb4bbb5edd6",
@@ -790,16 +800,6 @@
       "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in",
       "published": "2026-04-29 09:37:00",
       "timestamp": 1777455420
-    },
-    {
-      "id": "c6b271e47bef59cc0e5ba038eeaeddcb69529c67",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Simplifying AWS defense with Microsoft Sentinel UEBA",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/28/simplifying-aws-defense-microsoft-sentinel-ueba/",
-      "summary": "Learn how Microsoft Sentinel UEBA helps defenders distinguish benign AWS activity from attacker behavior by enriching raw CloudTrail logs with clear, binary behavioral signals derived from baseline user, peer, and device behavior patterns. The post Simplifying AWS defense with Microsoft Sentinel UEBA appeared first on Microsoft Security Blog.",
-      "published": "2026-04-28 13:00:00",
-      "timestamp": 1777381200
     },
     {
       "id": "52c37d36111dd45d7dc77b62e6eccf844c0e1211",
