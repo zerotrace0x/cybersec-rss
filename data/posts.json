@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778224286,
+  "generated_at": 1778235222,
   "items": [
+    {
+      "id": "164c5c2b02a31e24fba81008f68026b51c3bcabb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Former govt contractor convicted for wiping dozens of federal databases",
+      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+      "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
+      "published": "2026-05-08 08:45:04",
+      "timestamp": 1778229904
+    },
+    {
+      "id": "232ce245bd22557e58be1cf8b3a3fdd5292906cb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+      "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+      "published": "2026-05-08 07:45:24",
+      "timestamp": 1778226324
+    },
+    {
+      "id": "1f3c3f9c681d04d24087f5b05acff68b26231ba0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
+      "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers",
+      "published": "2026-05-08 05:12:00",
+      "timestamp": 1778217120
+    },
     {
       "id": "df87fb073af8812a24f9525c81913984918dcb2d",
       "source": "Krebs on Security",
@@ -260,26 +290,6 @@
       "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
       "published": "2026-05-06 18:38:38",
       "timestamp": 1778092718
-    },
-    {
-      "id": "dea59c3e6c4d0ee24097706edd3cc67debb3d50d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
-      "published": "2026-05-06 18:06:21",
-      "timestamp": 1778090781
-    },
-    {
-      "id": "b2dcb1221e4fc8bd81c47141ae1b624ba1e89468",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DAEMON Tools devs confirm breach, release malware-free version",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
-      "published": "2026-05-06 16:43:30",
-      "timestamp": 1778085810
     },
     {
       "id": "906b6ff28ddf60a9a2679fc1a4c0d436dfb87016",
@@ -800,16 +810,6 @@
       "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\" Crickets. The room goes quiet because an honest answer requires context \u2013 which is something that patch counts and CVSS scores were never designed to provide. Exposure",
       "published": "2026-04-29 11:30:00",
       "timestamp": 1777462200
-    },
-    {
-      "id": "c314db4ebe50845be3e9fd0548c49810643c0d51",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
-      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in",
-      "published": "2026-04-29 09:37:00",
-      "timestamp": 1777455420
     },
     {
       "id": "52c37d36111dd45d7dc77b62e6eccf844c0e1211",
