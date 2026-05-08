@@ -1,6 +1,46 @@
 {
-  "generated_at": 1778235222,
+  "generated_at": 1778245336,
   "items": [
+    {
+      "id": "69a1377568a987c4e9c49fbbd5afe0ec978d0ba3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "published": "2026-05-08 12:16:32",
+      "timestamp": 1778242592
+    },
+    {
+      "id": "f90a106d1dad506564b4f6b8ed43731d9129eb9b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. \"QLNX targets developers and DevOps credentials across the software supply chain,\"",
+      "published": "2026-05-08 11:00:00",
+      "timestamp": 1778238000
+    },
+    {
+      "id": "827d5c4d188d9be53178ba226b18783a07f46910",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Zara data breach exposed personal information of 197,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
+      "published": "2026-05-08 10:42:22",
+      "timestamp": 1778236942
+    },
+    {
+      "id": "582b708bb1c9a8ac5c17fed7e2bf65ef1afb7010",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+      "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
+      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments. The dataset behind these findings includes 10 million monitored",
+      "published": "2026-05-08 10:30:00",
+      "timestamp": 1778236200
+    },
     {
       "id": "164c5c2b02a31e24fba81008f68026b51c3bcabb",
       "source": "BleepingComputer",
@@ -10,6 +50,16 @@
       "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
       "published": "2026-05-08 08:45:04",
       "timestamp": 1778229904
+    },
+    {
+      "id": "2574c639fbde81ca551924ad6c18d10da5493592",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
+      "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\" The backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit that enables persistent SSH access by means of a magic password and specific TCP port combination.",
+      "published": "2026-05-08 08:41:00",
+      "timestamp": 1778229660
     },
     {
       "id": "232ce245bd22557e58be1cf8b3a3fdd5292906cb",
@@ -262,16 +312,6 @@
       "timestamp": 1778127300
     },
     {
-      "id": "487d7a25be8e5ff053017db4f952f9bf85e17f67",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
-      "published": "2026-05-06 21:36:06",
-      "timestamp": 1778103366
-    },
-    {
       "id": "5b0adadcfe20243cdbdf2e534245edea64239a59",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +320,6 @@
       "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
       "published": "2026-05-06 20:21:00",
       "timestamp": 1778098860
-    },
-    {
-      "id": "28bbd7b46c47be6f5132078959ad7881a60e70a2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
-      "published": "2026-05-06 18:38:38",
-      "timestamp": 1778092718
     },
     {
       "id": "906b6ff28ddf60a9a2679fc1a4c0d436dfb87016",
@@ -780,36 +810,6 @@
       "summary": "Embracing strong proactive security is something we can all do to mitigate our increased exposure to security threats. The post 8 best practices for CISOs conducting risk reviews appeared first on Microsoft Security Blog.",
       "published": "2026-04-29 16:00:00",
       "timestamp": 1777478400
-    },
-    {
-      "id": "e048e194f455896e0d48a5a8a791b73923cca36a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
-      "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
-      "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM). The package in question is \"@validate-sdk/v2,\" which is listed on npm as a utility software development kit (SDK) for hashing, validation, encoding/decoding, and secure random generation. However, its real",
-      "published": "2026-04-29 14:43:00",
-      "timestamp": 1777473780
-    },
-    {
-      "id": "f1bd8a33475ab76746490aab24ca18c6d524958f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails anymore. We\u2019re talking about autonomous agents mapping Active Directory and seizing Domain Admin credentials in minutes. The problem? Most defensive workflows",
-      "published": "2026-04-29 12:02:00",
-      "timestamp": 1777464120
-    },
-    {
-      "id": "c43fa3216668f296d4f96198f04ddedd9a202019",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\" Crickets. The room goes quiet because an honest answer requires context \u2013 which is something that patch counts and CVSS scores were never designed to provide. Exposure",
-      "published": "2026-04-29 11:30:00",
-      "timestamp": 1777462200
     },
     {
       "id": "52c37d36111dd45d7dc77b62e6eccf844c0e1211",
