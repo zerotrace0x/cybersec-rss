@@ -1,6 +1,16 @@
 {
-  "generated_at": 1778407419,
+  "generated_at": 1778417140,
   "items": [
+    {
+      "id": "92a14c863ef030233ca40ebf1f8a35c14ba37f2c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
+      "published": "2026-05-10 12:41:00",
+      "timestamp": 1778416860
+    },
     {
       "id": "080f959f9f1464bba5e010ec786eada0ab63375f",
       "source": "BleepingComputer",
@@ -810,16 +820,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41940 WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities",
       "published": "2026-04-30 12:00:00",
       "timestamp": 1777550400
-    },
-    {
-      "id": "29fc8206bbf73b19612c812f6c6f4ea5195d9aae",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "summary": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating Search Engine Order (SEO)",
-      "published": "2026-04-30 11:30:00",
-      "timestamp": 1777548600
     },
     {
       "id": "52c37d36111dd45d7dc77b62e6eccf844c0e1211",
