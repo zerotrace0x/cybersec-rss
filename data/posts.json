@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778584112,
+  "generated_at": 1778592608,
   "items": [
+    {
+      "id": "58717af624a2d31e1f8e7400157981fe713ffff5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+      "summary": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently",
+      "published": "2026-05-12 11:58:00",
+      "timestamp": 1778587080
+    },
+    {
+      "id": "e027378415bc28e83176d3cb61b38e6851e4ee2c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "published": "2026-05-12 11:46:00",
+      "timestamp": 1778586360
+    },
+    {
+      "id": "dc5c14b42344baffbcb9d6ace509bf635c11eef1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+      "published": "2026-05-12 11:29:36",
+      "timestamp": 1778585376
+    },
     {
       "id": "3d328f592aac9e050f0aab820ac739d5fea66aaa",
       "source": "BleepingComputer",
@@ -12,6 +42,16 @@
       "timestamp": 1778583895
     },
     {
+      "id": "ae5f88662a289feff7c53be7057db457d84fb672",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions \u2014 most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point. The more urgent",
+      "published": "2026-05-12 10:30:00",
+      "timestamp": 1778581800
+    },
+    {
       "id": "ee92f6e651824793d53b0d9c20a39a053d177d35",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -20,16 +60,6 @@
       "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
       "published": "2026-05-12 09:23:56",
       "timestamp": 1778577836
-    },
-    {
-      "id": "e027378415bc28e83176d3cb61b38e6851e4ee2c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
-      "published": "2026-05-12 08:50:00",
-      "timestamp": 1778575800
     },
     {
       "id": "ac69e724df1bcc217b0960e37f33819eb1fb25ef",
@@ -290,16 +320,6 @@
       "summary": "Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation at",
       "published": "2026-05-08 17:12:46",
       "timestamp": 1778260366
-    },
-    {
-      "id": "6732dddc2cac4dc961259cb675290faab4ab45db",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-      "published": "2026-05-08 16:18:31",
-      "timestamp": 1778257111
     },
     {
       "id": "81e38c3bb4035f3c936d810738cb266f5ee56b1c",
@@ -740,26 +760,6 @@
       "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel. The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the",
       "published": "2026-05-04 09:27:00",
       "timestamp": 1777886820
-    },
-    {
-      "id": "00dfa2fb457d3f1b6ac3913b5e8f3d7cd6aacda5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-      "link": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
-      "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses. The crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal",
-      "published": "2026-05-04 05:59:00",
-      "timestamp": 1777874340
-    },
-    {
-      "id": "07cc7c82c95caf6daba905a3f640e078ad58fe1b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
-      "published": "2026-05-03 06:26:00",
-      "timestamp": 1777789560
     },
     {
       "id": "d15d5e335b36043edb926bed8d66ebc2464175eb",
