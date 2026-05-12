@@ -1,6 +1,76 @@
 {
-  "generated_at": 1778605230,
+  "generated_at": 1778613860,
   "items": [
+    {
+      "id": "9f55e359c3b7846289ccddd5c4da2b4489651b5e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
+      "published": "2026-05-12 18:58:34",
+      "timestamp": 1778612314
+    },
+    {
+      "id": "66a9f08fdb9f622ec6791479d7c3c9f246f1c54a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+      "published": "2026-05-12 18:23:09",
+      "timestamp": 1778610189
+    },
+    {
+      "id": "f3fb349b9504cc32c35983645f1288bb3a05e2ef",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "2026-05-12 18:09:12",
+      "timestamp": 1778609352
+    },
+    {
+      "id": "657d182c7343ca650028e5dd7fbb045fc5b1e1ff",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
+      "published": "2026-05-12 18:08:06",
+      "timestamp": 1778609286
+    },
+    {
+      "id": "1730398d6038c7a1ee5dae6f6cfbeca56bf8aa5f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "\u0160koda warns of customer data breach after online shop hack",
+      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "summary": "\u0160koda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+      "published": "2026-05-12 17:07:01",
+      "timestamp": 1778605621
+    },
+    {
+      "id": "df00e8091d7a0334737a2c415a965bca80ef136f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
+      "published": "2026-05-12 17:00:00",
+      "timestamp": 1778605200
+    },
+    {
+      "id": "ca631a177cb58c7cde7f1bb932b52e03e24ce1a6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
+      "published": "2026-05-12 16:44:00",
+      "timestamp": 1778604240
+    },
     {
       "id": "427d499c178a9e5a2d68452434707510a56e9d05",
       "source": "Microsoft Security Blog",
@@ -242,16 +312,6 @@
       "timestamp": 1778502960
     },
     {
-      "id": "6d4d63212eb97e5c913947074dbd3efbfa4866b2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
-      "published": "2026-05-11 12:30:00",
-      "timestamp": 1778502600
-    },
-    {
       "id": "27c4b40e83ee2038bce85cb785da6a12ca7479b5",
       "source": "The Hacker News",
       "source_category": "General",
@@ -260,16 +320,6 @@
       "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its",
       "published": "2026-05-11 11:30:00",
       "timestamp": 1778499000
-    },
-    {
-      "id": "514499dc0bc429f1c61f145d15edf08e3a1d7f40",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
-      "published": "2026-05-11 09:03:02",
-      "timestamp": 1778490182
     },
     {
       "id": "52a4a1619318e0077909ad5d1921f6a797447719",
@@ -282,26 +332,6 @@
       "timestamp": 1778483100
     },
     {
-      "id": "ff8a0b37d5574b4e49253a89f8149d0d6c97ea35",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
-      "published": "2026-05-10 17:52:15",
-      "timestamp": 1778435535
-    },
-    {
-      "id": "c312020cfe85a77fee7f45499db5084369738ee0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
-      "published": "2026-05-10 14:16:47",
-      "timestamp": 1778422607
-    },
-    {
       "id": "92a14c863ef030233ca40ebf1f8a35c14ba37f2c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,26 +340,6 @@
       "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
       "published": "2026-05-10 12:41:00",
       "timestamp": 1778416860
-    },
-    {
-      "id": "080f959f9f1464bba5e010ec786eada0ab63375f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
-      "published": "2026-05-09 19:27:58",
-      "timestamp": 1778354878
-    },
-    {
-      "id": "51177ee6e6ae664dcec3e449fa51c70f092a6e73",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
-      "published": "2026-05-09 14:26:03",
-      "timestamp": 1778336763
     },
     {
       "id": "84821eb75396d0f71f7701b02c65f41786f91cfb",
@@ -770,16 +780,6 @@
       "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. The game has shifted from breach to occupation. They\u2019re living inside SaaS sessions, pushing code with trusted commits, and scaling",
       "published": "2026-05-04 14:23:00",
       "timestamp": 1777904580
-    },
-    {
-      "id": "599fdc1714980e75cfe91f19ddf64f02ceef0a39",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "2026: The Year of AI-Assisted Attacks",
-      "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
-      "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan\u2019s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, Japan's largest internet cafe chain. When asked, the young man shared his motivation for the hack: he wanted to buy Pok\u00e9mon cards. In a sense, this is a fairly conventional story.",
-      "published": "2026-05-04 11:58:00",
-      "timestamp": 1777895880
     },
     {
       "id": "d15d5e335b36043edb926bed8d66ebc2464175eb",
