@@ -1,6 +1,46 @@
 {
-  "generated_at": 1778592608,
+  "generated_at": 1778605230,
   "items": [
+    {
+      "id": "427d499c178a9e5a2d68452434707510a56e9d05",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Defending consumer web properties against modern DDoS attacks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/",
+      "summary": "Read how to protect consumer websites and defend against modern DDoS attacks with layered security, resilient architecture, and graceful service degradation. The post Defending consumer web properties against modern DDoS attacks appeared first on Microsoft Security Blog.",
+      "published": "2026-05-12 16:00:00",
+      "timestamp": 1778601600
+    },
+    {
+      "id": "395af1b83e477b902fe870bc4dba06b47dd1bc19",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
+      "summary": "Microsoft Incident Response investigated an attack operated through legitimate and trusted administrative mechanisms to blend seamlessly into routine operations and remain undetected demonstrating that intrusions have increasingly avoided using noisy exploits, obvious malware, or custom tooling, instead leveraging systems that organizations already trust within their environments. The post Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise appeared ",
+      "published": "2026-05-12 15:00:00",
+      "timestamp": 1778598000
+    },
+    {
+      "id": "1854e6feca7e891c44236b9e99dd968c517a41ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+      "published": "2026-05-12 14:47:00",
+      "timestamp": 1778597220
+    },
+    {
+      "id": "64c0a8670a50c08f2645248844f793ded30fe3de",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria. \"TrickMo relies on a runtime-loaded APK (dex.module),",
+      "published": "2026-05-12 12:50:00",
+      "timestamp": 1778590200
+    },
     {
       "id": "58717af624a2d31e1f8e7400157981fe713ffff5",
       "source": "The Hacker News",
@@ -17,7 +57,7 @@
       "source_category": "General",
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
       "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
       "published": "2026-05-12 11:46:00",
       "timestamp": 1778586360
     },
@@ -742,26 +782,6 @@
       "timestamp": 1777895880
     },
     {
-      "id": "0991effd756ff341444b985bc50690e122c7b208",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
-      "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
-      "summary": "The China-based cybercrime group known as Silver Fox (aka Monarch, SwimSnake, The Great Thief of Valley, UTG-Q-1000, and Void Arachne) has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar",
-      "published": "2026-05-04 11:57:00",
-      "timestamp": 1777895820
-    },
-    {
-      "id": "f8147540f605b3e7a23472c56d2858ad2b90560c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
-      "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
-      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel. The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the",
-      "published": "2026-05-04 09:27:00",
-      "timestamp": 1777886820
-    },
-    {
       "id": "d15d5e335b36043edb926bed8d66ebc2464175eb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -790,26 +810,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
       "published": "2026-05-01 12:00:00",
       "timestamp": 1777636800
-    },
-    {
-      "id": "d47641ef4f84fab9acb861de06348fac090242dd",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "What\u2019s new, updated, or recently released in Microsoft Security",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
-      "summary": "Stay ahead of emerging threats with Microsoft\u2019s newest security innovations and updates, delivered through the In the Loop series. The post What\u2019s new, updated, or recently released in Microsoft Security appeared first on Microsoft Security Blog.",
-      "published": "2026-04-30 16:00:00",
-      "timestamp": 1777564800
-    },
-    {
-      "id": "fb95173503fd03e2f73b3bedace6f2989c7b49ac",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Email threat landscape: Q1 2026 trends and insights",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/",
-      "summary": "In early 2026, email threats increased with a rise in credential phishing, QR code phishing, and CAPTCHA-gated campaigns, highlighted by Microsoft\u2019s disruption of the Tycoon2FA phishing platform which led to a 15% volume decrease and shifts in threat actor tactics. The post Email threat landscape: Q1 2026 trends and insights appeared first on Microsoft Security Blog.",
-      "published": "2026-04-30 15:00:00",
-      "timestamp": 1777561200
     },
     {
       "id": "59d7e8f233d65ea3fd1001e904cc681b15664fe3",
@@ -1268,8 +1268,8 @@
       "title": "On the Effectiveness of Mutational Grammar Fuzzing",
       "link": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
       "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the ",
-      "published": "2026-03-04 23:00:00",
-      "timestamp": 1772665200
+      "published": "2026-03-05 08:00:00",
+      "timestamp": 1772697600
     },
     {
       "id": "f118722ea9b6f9f7d29f0bd4e3d22edaa531e7ed",
@@ -1288,8 +1288,8 @@
       "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
       "link": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
       "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn\u2019t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don\u2019t know about, assuming it\u2019s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation\u2019s remark",
-      "published": "2026-02-25 23:00:00",
-      "timestamp": 1772060400
+      "published": "2026-02-26 08:00:00",
+      "timestamp": 1772092800
     },
     {
       "id": "c7780efd0e6a0d77c70ba8664bac9a869e49ce82",
@@ -1328,8 +1328,8 @@
       "title": "Bypassing Administrator Protection by Abusing UI Access",
       "link": "https://projectzero.google/2026/02/windows-administrator-protection.html",
       "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn\u2019t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
-      "published": "2026-02-11 23:00:00",
-      "timestamp": 1770850800
+      "published": "2026-02-12 08:00:00",
+      "timestamp": 1770883200
     },
     {
       "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
@@ -1378,8 +1378,8 @@
       "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
       "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
       "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
-      "published": "2026-01-29 23:00:00",
-      "timestamp": 1769727600
+      "published": "2026-01-30 08:00:00",
+      "timestamp": 1769760000
     },
     {
       "id": "a57bc58f60552618466db5cdcd6e1e835e6acbb6",
@@ -1398,8 +1398,8 @@
       "title": "Bypassing Windows Administrator Protection",
       "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
-      "published": "2026-01-25 23:00:00",
-      "timestamp": 1769382000
+      "published": "2026-01-26 08:00:00",
+      "timestamp": 1769414400
     },
     {
       "id": "49220fa9cd9cad5f8031e0d3ed185b153c0a6c15",
@@ -1408,8 +1408,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
       "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
-      "published": "2026-01-14 09:01:00",
-      "timestamp": 1768381260
+      "published": "2026-01-14 18:01:00",
+      "timestamp": 1768413660
     },
     {
       "id": "35d01a4a81f61e3097583fe69ef74c1451a9932f",
@@ -1418,8 +1418,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
       "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
-      "published": "2026-01-14 09:00:00",
-      "timestamp": 1768381200
+      "published": "2026-01-14 18:00:00",
+      "timestamp": 1768413600
     },
     {
       "id": "dbb460bbb0c787324b208477ec5d48ba09fd48d6",
@@ -1428,8 +1428,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
       "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
-      "published": "2026-01-14 08:59:00",
-      "timestamp": 1768381140
+      "published": "2026-01-14 17:59:00",
+      "timestamp": 1768413540
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
