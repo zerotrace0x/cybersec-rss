@@ -1,5 +1,5 @@
 {
-  "generated_at": 1778691905,
+  "generated_at": 1778700419,
   "items": [
     {
       "id": "b051831efeda570d10d1c7c15c008ed14137408b",
@@ -130,6 +130,16 @@
       "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
       "published": "2026-05-13 08:08:54",
       "timestamp": 1778659734
+    },
+    {
+      "id": "d6ae2d319c56a4f3d94069531502c29944606582",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "published": "2026-05-13 07:00:00",
+      "timestamp": 1778655600
     },
     {
       "id": "264b5b02abb3af6ff6e6e4ca044bcd8c68a7ed7f",
@@ -1440,16 +1450,6 @@
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was \u2026 not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
       "published": "2025-12-16 10:00:00",
       "timestamp": 1765879200
-    },
-    {
-      "id": "1ec0dab54fbc65bcbbb02486e8ef543d629ce073",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Thinking Outside The Box [dusted off draft from 2017]",
-      "link": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
-      "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft\u2026 But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
-      "published": "2025-12-16 09:00:00",
-      "timestamp": 1765875600
     }
   ]
 }
