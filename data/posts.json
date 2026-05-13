@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778623148,
+  "generated_at": 1778636991,
   "items": [
+    {
+      "id": "8570a2dc43b32bf2c28f1cab0d0281cfe49c5b15",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+      "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
+      "published": "2026-05-12 23:09:55",
+      "timestamp": 1778627395
+    },
+    {
+      "id": "2b150db074a34e6db490dbd84024bce83cc5c4fd",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Accelerating detection engineering using AI-assisted synthetic attack logs generation",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
+      "summary": "What if you could generate realistic attack telemetry on demand? Explore research methods that translate attacker behaviors (TTPs) into synthetic logs that can trigger detections at scale and without sensitive data. The post Accelerating detection engineering using AI-assisted synthetic attack logs generation appeared first on Microsoft Security Blog.",
+      "published": "2026-05-12 22:53:09",
+      "timestamp": 1778626389
+    },
+    {
+      "id": "43056fa12cc4b45ec8f03100a1aed637531d7abe",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Defense at AI speed: Microsoft\u2019s new multi-model agentic security system tops leading industry benchmark",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
+      "summary": "Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH). The post Defense at AI speed: Microsoft\u2019s new multi-model agentic security system tops leading industry benchmark appeared first on Microsoft Security Blog.",
+      "published": "2026-05-12 22:00:00",
+      "timestamp": 1778623200
+    },
     {
       "id": "8d310f5cc84936c734662f17fa5163c7dd3cc426",
       "source": "Krebs on Security",
@@ -260,16 +290,6 @@
       "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
       "published": "2026-05-11 22:03:06",
       "timestamp": 1778536986
-    },
-    {
-      "id": "436a7c2ffe997d3668ad1da15c56348b0637abee",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New GhostLock tool abuses Windows API to block file access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
-      "published": "2026-05-11 22:02:00",
-      "timestamp": 1778536920
     },
     {
       "id": "3d978ccf5b4b056af93ec8152020d71c17394352",
@@ -790,26 +810,6 @@
       "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. The game has shifted from breach to occupation. They\u2019re living inside SaaS sessions, pushing code with trusted commits, and scaling",
       "published": "2026-05-04 14:23:00",
       "timestamp": 1777904580
-    },
-    {
-      "id": "d15d5e335b36043edb926bed8d66ebc2464175eb",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
-      "summary": "A high-severity Linux vulnerability, \u201cCopy Fail\u201d (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk. The post CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments appeared first on Microsoft Security Blog.",
-      "published": "2026-05-02 03:06:08",
-      "timestamp": 1777691168
-    },
-    {
-      "id": "82e76a9518b3dd28da0020a14ab05aaef765e658",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
-      "summary": "\u200bToday we\u2019re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code. The post Microsoft Agent 365, now generally available, expands capabilities and integrations appeared first on Microsoft Security Blog.",
-      "published": "2026-05-01 15:00:00",
-      "timestamp": 1777647600
     },
     {
       "id": "1abd1f3a8914c7bccedce2b9edf8766dcd6388ba",
