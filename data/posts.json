@@ -1,6 +1,26 @@
 {
-  "generated_at": 1778652859,
+  "generated_at": 1778671336,
   "items": [
+    {
+      "id": "d03864f1442fec1eab9fd27cdbe2be89c0f4898c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+      "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
+      "published": "2026-05-13 08:08:54",
+      "timestamp": 1778659734
+    },
+    {
+      "id": "264b5b02abb3af6ff6e6e4ca044bcd8c68a7ed7f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said. The feature, it",
+      "published": "2026-05-13 06:55:42",
+      "timestamp": 1778655342
+    },
     {
       "id": "8570a2dc43b32bf2c28f1cab0d0281cfe49c5b15",
       "source": "BleepingComputer",
@@ -167,7 +187,7 @@
       "source_category": "General",
       "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
       "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
       "published": "2026-05-12 14:47:00",
       "timestamp": 1778597220
     },
@@ -782,16 +802,6 @@
       "timestamp": 1777917960
     },
     {
-      "id": "2ee56e6dcf7fad7cf9ed2a78aa26898a36818069",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-      "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts. The",
-      "published": "2026-05-04 16:34:00",
-      "timestamp": 1777912440
-    },
-    {
       "id": "155e67e4451a60493470272905ff78646db8e602",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -800,16 +810,6 @@
       "summary": "Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains. The post Breaking the code: Multi-stage \u2018code of conduct\u2019 phishing campaign leads to AiTM token compromise appeared first on Microsoft Security Blog.",
       "published": "2026-05-04 15:00:00",
       "timestamp": 1777906800
-    },
-    {
-      "id": "f189a59c59db93a2ea836194d1a733cf374f9eb1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. The game has shifted from breach to occupation. They\u2019re living inside SaaS sessions, pushing code with trusted commits, and scaling",
-      "published": "2026-05-04 14:23:00",
-      "timestamp": 1777904580
     },
     {
       "id": "1abd1f3a8914c7bccedce2b9edf8766dcd6388ba",
