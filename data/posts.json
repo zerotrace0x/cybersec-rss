@@ -1,6 +1,66 @@
 {
-  "generated_at": 1778777657,
+  "generated_at": 1778786664,
   "items": [
+    {
+      "id": "1de16f20f33875220f5f77d6ec1a9d5cbae9410d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
+      "published": "2026-05-14 19:07:24",
+      "timestamp": 1778785644
+    },
+    {
+      "id": "88b66fcf98cad060d28fdcf46b79d2e2e84f833a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
+      "published": "2026-05-14 18:53:50",
+      "timestamp": 1778784830
+    },
+    {
+      "id": "32608c8251e0e13bb8b5d1396d511cb122899ef7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. \"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
+      "published": "2026-05-14 17:45:20",
+      "timestamp": 1778780720
+    },
+    {
+      "id": "742c21430e29d73ae2d84f2b13361c02c6a2bd44",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious - node-ipc@9.1.6 node-ipc@9.2.3 node-ipc@12.0.1 \"Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1",
+      "published": "2026-05-14 17:22:43",
+      "timestamp": 1778779363
+    },
+    {
+      "id": "05c87e37b5ec801198b04be52db30b1949c99562",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+      "summary": "Everything is still on fire. This week feels dumb in the worst way \u2014 bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels like crap we should have fixed years ago. The mess keeps getting louder: users get tricked, boxes get popped, tools meant for normal work",
+      "published": "2026-05-14 16:07:46",
+      "timestamp": 1778774866
+    },
+    {
+      "id": "e7fc6a3bf18494824a3d39233f333a272ce0fdb7",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Defense in depth for autonomous AI agents",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/",
+      "summary": "As AI agents gain autonomy, defense in depth must evolve, with application-layer design, identity, and human oversight at the center. The post Defense in depth for autonomous AI agents appeared first on Microsoft Security Blog.",
+      "published": "2026-05-14 16:00:00",
+      "timestamp": 1778774400
+    },
     {
       "id": "33ba19b489362522cfaeb7cde1eaf31e739905c3",
       "source": "BleepingComputer",
@@ -60,6 +120,16 @@
       "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
       "published": "2026-05-14 12:12:40",
       "timestamp": 1778760760
+    },
+    {
+      "id": "1655ac6b4ca82005a3d859189308f5ea4c642067",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20182 Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Note: Please adhere to CISA\u2019s guidelines to assess exposure and mitigate risks associated with Cisco SD-WAN devices as outlined in Emergency Direc",
+      "published": "2026-05-14 12:00:00",
+      "timestamp": 1778760000
     },
     {
       "id": "c2b4d356b5583b32485eb54aede146da1de071e4",
@@ -230,26 +300,6 @@
       "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
       "published": "2026-05-13 13:00:00",
       "timestamp": 1778677200
-    },
-    {
-      "id": "b982270e699227d6e2a6436db897f7b9a86e2e2e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
-      "published": "2026-05-13 12:49:54",
-      "timestamp": 1778676594
-    },
-    {
-      "id": "b5f632aae1a567a2d312b0aca3610e4c9f22027a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
-      "published": "2026-05-13 12:30:38",
-      "timestamp": 1778675438
     },
     {
       "id": "a6f44b75be0caa518609e7cdaa0a422c42db1bdd",
@@ -752,16 +802,6 @@
       "timestamp": 1778098860
     },
     {
-      "id": "906b6ff28ddf60a9a2679fc1a4c0d436dfb87016",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200bMicrosoft named an overall leader in\u00a0KuppingerCole Analyst\u2019s 2026 Emerging AI Security Operations Center (SOC) report\u00a0\u200b\u200b",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/06/microsoft-named-an-overall-leader-in-kuppingercole-analysts-2026-emerging-ai-security-operations-center-soc-report/",
-      "summary": "Microsoft is excited to be named an Overall Leader, and the Market Leader in the Kuppinger Cole Analyst\u2019s 2026 Emerging AI Security Operations Center (SOC) report, as we see automation and AI as core components of the future of cybersecurity. The post \u200b\u200bMicrosoft named an overall leader in KuppingerCole Analyst\u2019s 2026 Emerging AI Security Operations Center (SOC) report \u200b\u200b appeared first on Microsoft Security Blog.",
-      "published": "2026-05-06 16:00:00",
-      "timestamp": 1778083200
-    },
-    {
       "id": "9de94ffd1b340fa048151c89e849abb4bbb5edd6",
       "source": "The Hacker News",
       "source_category": "General",
@@ -790,36 +830,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "2026-05-06 12:00:00",
       "timestamp": 1778068800
-    },
-    {
-      "id": "7d45ebd8cb21a3956bbe55c5afae51dfc8fb0e58",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-      "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that \u201centerprise adoption of AI agents is accelerating, outpacing maturity of governance policy controls.\u201d Enterprise leaders can request access to the Gartner Market Guide for",
-      "published": "2026-05-06 10:57:00",
-      "timestamp": 1778065020
-    },
-    {
-      "id": "da62f78f029fe2189620ecca15f22fb53033533c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
-      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said. The initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
-      "published": "2026-05-06 09:13:00",
-      "timestamp": 1778058780
-    },
-    {
-      "id": "9ddd5fbc1f86f9878325d44ba0b549cf142da5cf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
-      "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
-      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. \"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
-      "published": "2026-05-06 08:34:00",
-      "timestamp": 1778056440
     },
     {
       "id": "1abd1f3a8914c7bccedce2b9edf8766dcd6388ba",
@@ -1240,16 +1250,6 @@
       "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
       "published": "2026-03-11 16:20:13",
       "timestamp": 1773246013
-    },
-    {
-      "id": "8413d4b357168228f295bf72328cbc76685215bd",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68613 n8n Improper Control of Dynamically-Managed Code Resources Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a l",
-      "published": "2026-03-11 12:00:00",
-      "timestamp": 1773230400
     },
     {
       "id": "ad6e453bbf38397b5f47d3015d6ef106d7747e5d",
