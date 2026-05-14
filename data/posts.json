@@ -1,6 +1,66 @@
 {
-  "generated_at": 1778739161,
+  "generated_at": 1778756770,
   "items": [
+    {
+      "id": "3b3f43a9d5afafad710ddb197c4e9059c7bf5cc2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
+      "published": "2026-05-14 10:03:39",
+      "timestamp": 1778753019
+    },
+    {
+      "id": "10c657b6883f76a194927893d6c57fdb491f87f7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
+      "published": "2026-05-14 09:25:50",
+      "timestamp": 1778750750
+    },
+    {
+      "id": "3fd6f30acb609588c0523abf9443ddd4cac510a9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
+      "published": "2026-05-14 08:55:46",
+      "timestamp": 1778748946
+    },
+    {
+      "id": "89dc0129f56da03dca420f6a4358f90f1ba86911",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
+      "published": "2026-05-14 07:34:19",
+      "timestamp": 1778744059
+    },
+    {
+      "id": "cad753b5cde69b3288514b0d2fcfe97df0c53d44",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+      "published": "2026-05-14 07:06:15",
+      "timestamp": 1778742375
+    },
+    {
+      "id": "1b31cbb0f7a59042bc38021ca3af410252b9d7d6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+      "published": "2026-05-14 06:00:09",
+      "timestamp": 1778738409
+    },
     {
       "id": "074e6d2a4234ea5a75dc5be287810e81e8f074a9",
       "source": "BleepingComputer",
@@ -230,36 +290,6 @@
       "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc \u00a3963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
       "published": "2026-05-12 20:17:19",
       "timestamp": 1778617039
-    },
-    {
-      "id": "0773a78f53c17d719fb6d0a5d647eb49a98b836b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
-      "published": "2026-05-12 19:46:04",
-      "timestamp": 1778615164
-    },
-    {
-      "id": "d2bfab7c7358dbec27e5fc38b793e5275c3e7e8e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
-      "published": "2026-05-12 19:40:31",
-      "timestamp": 1778614831
-    },
-    {
-      "id": "9f55e359c3b7846289ccddd5c4da2b4489651b5e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
-      "published": "2026-05-12 18:58:34",
-      "timestamp": 1778612314
     },
     {
       "id": "ca631a177cb58c7cde7f1bb932b52e03e24ce1a6",
@@ -780,36 +810,6 @@
       "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging to DAEMON Tools developers,\" Kaspersky researchers Igor Kuznetsov, Georgy Kucherin, Leonid",
       "published": "2026-05-05 16:07:00",
       "timestamp": 1777997220
-    },
-    {
-      "id": "db2b337f1d8b777d6907d2fc58ac13f25fcce55b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity is being tracked by Cisco Talos under the moniker UAT-8302, with post-exploitation involving the deployment of custom-made malware families that have been put",
-      "published": "2026-05-05 14:19:00",
-      "timestamp": 1777990740
-    },
-    {
-      "id": "8998866394a17b0e5962cd8ff3a0351354d7e0ee",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
-      "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
-      "summary": "Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don't see it. Your MFA doesn't stop it. And when an attacker gets hold of one, they don't need a password. OAuth",
-      "published": "2026-05-05 11:58:00",
-      "timestamp": 1777982280
-    },
-    {
-      "id": "cb744cecd159bf90e0e8048eb7c61d50f2086d47",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-      "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary code execution. \"MetInfo CMS versions 7.9, 8.0, and 8.1 contain an unauthenticated PHP code",
-      "published": "2026-05-05 11:56:00",
-      "timestamp": 1777982160
     },
     {
       "id": "5b1674ebb08fc6b8d68d11e84ca77fa7d77265b3",
