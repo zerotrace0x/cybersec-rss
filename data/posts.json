@@ -1,6 +1,46 @@
 {
-  "generated_at": 1778851280,
+  "generated_at": 1778862617,
   "items": [
+    {
+      "id": "9ab5cc7f82017dedcef45d855df133fb6a4f76de",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+      "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
+      "published": "2026-05-15 15:56:56",
+      "timestamp": 1778860616
+    },
+    {
+      "id": "ab5d9d598842ab7f47791c0ab948ffea52be2f11",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+      "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
+      "published": "2026-05-15 14:49:39",
+      "timestamp": 1778856579
+    },
+    {
+      "id": "c391de8ed5c3f361d6ae7f6542df325e121a2383",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
+      "published": "2026-05-15 14:02:12",
+      "timestamp": 1778853732
+    },
+    {
+      "id": "35ade7a13fc11cee9ffb566b548a3b483b8e9d75",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
+      "published": "2026-05-15 13:35:04",
+      "timestamp": 1778852104
+    },
     {
       "id": "b6a4c5bd15856e15adebab5399382215b51835b2",
       "source": "BleepingComputer",
@@ -272,16 +312,6 @@
       "timestamp": 1778748946
     },
     {
-      "id": "89dc0129f56da03dca420f6a4358f90f1ba86911",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
-      "published": "2026-05-14 07:34:19",
-      "timestamp": 1778744059
-    },
-    {
       "id": "cad753b5cde69b3288514b0d2fcfe97df0c53d44",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,26 +330,6 @@
       "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
       "published": "2026-05-14 06:00:09",
       "timestamp": 1778738409
-    },
-    {
-      "id": "074e6d2a4234ea5a75dc5be287810e81e8f074a9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-      "published": "2026-05-13 22:23:31",
-      "timestamp": 1778711011
-    },
-    {
-      "id": "8c0ad7bbd625f5a513d6ca15c27ae609b31e290a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
-      "published": "2026-05-13 21:59:33",
-      "timestamp": 1778709573
     },
     {
       "id": "6c9f605916bbca8fcf67fb0bf31a80e9d1177a79",
@@ -810,16 +820,6 @@
       "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do. That distinction matters far more than many organizations realize. In the first hours of a security incident",
       "published": "2026-05-07 10:54:00",
       "timestamp": 1778151240
-    },
-    {
-      "id": "bbe3efd9d3ffe1dabb60df067b3f3cd1a6a31ea0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called ZiChatBot on Windows and Linux systems. \"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky",
-      "published": "2026-05-07 09:20:00",
-      "timestamp": 1778145600
     },
     {
       "id": "4d95530762fa582e45df899405ef657476d915fd",
