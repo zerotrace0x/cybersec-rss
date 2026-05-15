@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778862617,
+  "generated_at": 1778872244,
   "items": [
+    {
+      "id": "54107e24478a3825b529998fdf8bb96d1c63dd92",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+      "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "summary": "\u200bDuring the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
+      "published": "2026-05-15 17:47:25",
+      "timestamp": 1778867245
+    },
+    {
+      "id": "e7a2a426b83468cce5f64b768e21f655853b7a31",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+      "published": "2026-05-15 17:10:42",
+      "timestamp": 1778865042
+    },
+    {
+      "id": "d63ee16c22e903150733d8a9793f710fd2a03a98",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
+      "published": "2026-05-15 17:10:25",
+      "timestamp": 1778865025
+    },
     {
       "id": "9ab5cc7f82017dedcef45d855df133fb6a4f76de",
       "source": "BleepingComputer",
@@ -32,6 +62,16 @@
       "timestamp": 1778853732
     },
     {
+      "id": "7c19c58263f34188d052641e81bda636e5499fe4",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Welcome to BlackFile: Inside a Vishing Extortion Operation",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/",
+      "summary": "Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo Introduction Google Threat Intelligence Group (GTIG) has continued to track an expansive extortion campaign by UNC6671, a threat actor operating under the \"BlackFile\" brand, that targets organizations via sophisticated voice phishing (vishing) and single sign-on (SSO) compromise. By leveraging adversary-in-the-middle (AiTM) techniques to bypass traditional perimeter defenses and multi-factor authentication (MFA), UNC6671 gains",
+      "published": "2026-05-15 14:00:00",
+      "timestamp": 1778853600
+    },
+    {
       "id": "35ade7a13fc11cee9ffb566b548a3b483b8e9d75",
       "source": "The Hacker News",
       "source_category": "General",
@@ -50,6 +90,16 @@
       "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
       "published": "2026-05-15 12:29:48",
       "timestamp": 1778848188
+    },
+    {
+      "id": "9f5def5a01d8b1ea1e3bf791b9354422ff842afc",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list o",
+      "published": "2026-05-15 12:00:00",
+      "timestamp": 1778846400
     },
     {
       "id": "170bedb0582d820889e3629b89be73c34ecbe4ec",
@@ -282,16 +332,6 @@
       "timestamp": 1778758200
     },
     {
-      "id": "3b3f43a9d5afafad710ddb197c4e9059c7bf5cc2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
-      "published": "2026-05-14 10:03:39",
-      "timestamp": 1778753019
-    },
-    {
       "id": "10c657b6883f76a194927893d6c57fdb491f87f7",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +340,6 @@
       "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
       "published": "2026-05-14 09:25:50",
       "timestamp": 1778750750
-    },
-    {
-      "id": "3fd6f30acb609588c0523abf9443ddd4cac510a9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US charges suspected Dream Market admin arrested in Germany",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
-      "published": "2026-05-14 08:55:46",
-      "timestamp": 1778748946
     },
     {
       "id": "cad753b5cde69b3288514b0d2fcfe97df0c53d44",
@@ -812,16 +842,6 @@
       "timestamp": 1778153580
     },
     {
-      "id": "c312aaa13ef30fb2dc1068b4da00f701f61b988e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-      "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-      "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do. That distinction matters far more than many organizations realize. In the first hours of a security incident",
-      "published": "2026-05-07 10:54:00",
-      "timestamp": 1778151240
-    },
-    {
       "id": "4d95530762fa582e45df899405ef657476d915fd",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1232,16 +1252,6 @@
       "timestamp": 1773662400
     },
     {
-      "id": "4d088439bc14a189f2f135f1d6e50db1f7b9cffe",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3909 Google Skia Out-of-Bounds Write Vulnerability CVE-2026-3910 Google Chromium V8 Unspecified Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilitie",
-      "published": "2026-03-13 12:00:00",
-      "timestamp": 1773403200
-    },
-    {
       "id": "1470e3977676fd336a27de6a76f0f2ccb5e1da3b",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1390,16 +1400,6 @@
       "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
       "published": "2026-01-30 08:00:00",
       "timestamp": 1769760000
-    },
-    {
-      "id": "a57bc58f60552618466db5cdcd6e1e835e6acbb6",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "No Place Like Home Network: Disrupting the World's Largest Residential Proxy Network",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network/",
-      "summary": "Introduction This week Google and partners took action to disrupt what we believe is one of the largest residential proxy networks in the world, the IPIDEA proxy network. IPIDEA\u2019s proxy infrastructure is a little-known component of the digital ecosystem leveraged by a wide array of bad actors. This disruption, led by Google Threat Intelligence Group (GTIG) in partnership with other teams, included three main actions: Took legal action to take down domains used to control devices and proxy traffi",
-      "published": "2026-01-28 14:00:00",
-      "timestamp": 1769608800
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
