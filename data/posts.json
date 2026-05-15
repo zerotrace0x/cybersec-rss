@@ -1,6 +1,36 @@
 {
-  "generated_at": 1778843356,
+  "generated_at": 1778851280,
   "items": [
+    {
+      "id": "b6a4c5bd15856e15adebab5399382215b51835b2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft to automatically roll back faulty Windows drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
+      "published": "2026-05-15 12:29:48",
+      "timestamp": 1778848188
+    },
+    {
+      "id": "170bedb0582d820889e3629b89be73c34ecbe4ec",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware \u2014 It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild \u2014 the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
+      "published": "2026-05-15 11:00:00",
+      "timestamp": 1778842800
+    },
+    {
+      "id": "920c789a54694923860defeb8006b02ed634c09c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
+      "published": "2026-05-15 10:54:44",
+      "timestamp": 1778842484
+    },
     {
       "id": "becb8ea672b9d73ee4d7abacb5ab518d25ff3708",
       "source": "BleepingComputer",
@@ -197,7 +227,7 @@
       "source_category": "General",
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke",
       "published": "2026-05-14 11:40:14",
       "timestamp": 1778758814
     },
@@ -290,16 +320,6 @@
       "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
       "published": "2026-05-13 21:59:33",
       "timestamp": 1778709573
-    },
-    {
-      "id": "4e6a7de58d4380be5a2d8d00d4bf1a0ee6e3559b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
-      "published": "2026-05-13 20:23:50",
-      "timestamp": 1778703830
     },
     {
       "id": "6c9f605916bbca8fcf67fb0bf31a80e9d1177a79",
@@ -800,26 +820,6 @@
       "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called ZiChatBot on Windows and Linux systems. \"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky",
       "published": "2026-05-07 09:20:00",
       "timestamp": 1778145600
-    },
-    {
-      "id": "87c34b9408eae7bf105bb99e59a696f21ef16437",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host",
-      "published": "2026-05-07 04:15:00",
-      "timestamp": 1778127300
-    },
-    {
-      "id": "5b0adadcfe20243cdbdf2e534245edea64239a59",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-      "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
-      "published": "2026-05-06 20:21:00",
-      "timestamp": 1778098860
     },
     {
       "id": "4d95530762fa582e45df899405ef657476d915fd",
