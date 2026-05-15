@@ -1,6 +1,26 @@
 {
-  "generated_at": 1778826053,
+  "generated_at": 1778843356,
   "items": [
+    {
+      "id": "becb8ea672b9d73ee4d7abacb5ab518d25ff3708",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
+      "published": "2026-05-15 09:40:42",
+      "timestamp": 1778838042
+    },
+    {
+      "id": "b24faf4a8f23f99b84df84cd8a33eaf914fbd1bf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue. \"",
+      "published": "2026-05-15 06:19:04",
+      "timestamp": 1778825944
+    },
     {
       "id": "9d3007414e22d084efe012aae54033744c079e58",
       "source": "The Hacker News",
@@ -280,16 +300,6 @@
       "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
       "published": "2026-05-13 20:23:50",
       "timestamp": 1778703830
-    },
-    {
-      "id": "b051831efeda570d10d1c7c15c008ed14137408b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
-      "published": "2026-05-13 16:37:49",
-      "timestamp": 1778690269
     },
     {
       "id": "6c9f605916bbca8fcf67fb0bf31a80e9d1177a79",
@@ -810,16 +820,6 @@
       "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
       "published": "2026-05-06 20:21:00",
       "timestamp": 1778098860
-    },
-    {
-      "id": "9de94ffd1b340fa048151c89e849abb4bbb5edd6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The attack, observed by Rapid7 in early 2026, has been found to leverage social engineering techniques via Microsoft Teams to initiate the infection sequence. Although the incident",
-      "published": "2026-05-06 13:00:00",
-      "timestamp": 1778072400
     },
     {
       "id": "4d95530762fa582e45df899405ef657476d915fd",
