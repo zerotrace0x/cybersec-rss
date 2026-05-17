@@ -1,6 +1,26 @@
 {
-  "generated_at": 1779022035,
+  "generated_at": 1779032838,
   "items": [
+    {
+      "id": "87b7289cbb25ea23ede0d6b7ff83aca1a2985cd2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "published": "2026-05-17 14:43:10",
+      "timestamp": 1779028990
+    },
+    {
+      "id": "8549f1cea5b9e9e304f4aaaab07c059b0b8dd6f2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
+      "published": "2026-05-17 11:57:53",
+      "timestamp": 1779019073
+    },
     {
       "id": "b204c7895cab628d6b6f0fee00bb85c25e2a366b",
       "source": "The Hacker News",
@@ -240,16 +260,6 @@
       "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
       "published": "2026-05-14 19:07:24",
       "timestamp": 1778785644
-    },
-    {
-      "id": "88b66fcf98cad060d28fdcf46b79d2e2e84f833a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
-      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
-      "published": "2026-05-14 18:53:50",
-      "timestamp": 1778784830
     },
     {
       "id": "32608c8251e0e13bb8b5d1396d511cb122899ef7",
@@ -810,16 +820,6 @@
       "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1. It allows \"a remotely authenticated user with administrative access to achieve remote code",
       "published": "2026-05-07 17:55:00",
       "timestamp": 1778176500
-    },
-    {
-      "id": "8cffd0ed41b44a869e42897b941b1bd3dff1378b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
-      "published": "2026-05-07 17:45:00",
-      "timestamp": 1778175900
     },
     {
       "id": "d9d558af27bf44743373554d6f3f1a52c4994bb6",
