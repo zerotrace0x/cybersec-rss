@@ -1,6 +1,86 @@
 {
-  "generated_at": 1779086468,
+  "generated_at": 1779106655,
   "items": [
+    {
+      "id": "4e729f81d8cec02dce101a85cc6f07786d29d643",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is",
+      "published": "2026-05-18 11:23:41",
+      "timestamp": 1779103421
+    },
+    {
+      "id": "e33b51a9fce7de16220211bbedfe60154ca00cef",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+      "summary": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel. [...]",
+      "published": "2026-05-18 11:14:28",
+      "timestamp": 1779102868
+    },
+    {
+      "id": "c35bc36be8b3d5d2c758a76a1956d0786fe3d77e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks. \"External control of a file name",
+      "published": "2026-05-18 10:54:05",
+      "timestamp": 1779101645
+    },
+    {
+      "id": "eaa4c667fd7d29a04085e03dc3244edf393d89e5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
+      "published": "2026-05-18 08:57:34",
+      "timestamp": 1779094654
+    },
+    {
+      "id": "4f9015b2f53de1ccffb170e61efa692b5d1a107b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axois-utils (963 Downloads) color-style-utils (934 Downloads) \"One of the packages (chalk-tempalte)",
+      "published": "2026-05-18 08:57:26",
+      "timestamp": 1779094646
+    },
+    {
+      "id": "b7b3d46b4490f24f4b20c3c5019231e3c7e2c97c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "summary": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+      "published": "2026-05-18 08:33:14",
+      "timestamp": 1779093194
+    },
+    {
+      "id": "7bd09d4119e9c4e51e0d7ca0a4c081541b57297f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "published": "2026-05-18 07:18:33",
+      "timestamp": 1779088713
+    },
+    {
+      "id": "8f60ce79629f1937ddd3074604ccd970efc91795",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. \"Fast16's hook engine is selectively interested in",
+      "published": "2026-05-18 06:46:37",
+      "timestamp": 1779086797
+    },
     {
       "id": "96620a1933a9928dcfa3b8b5f3cd0d73ec19d6e3",
       "source": "BleepingComputer",
@@ -212,16 +292,6 @@
       "timestamp": 1778842484
     },
     {
-      "id": "becb8ea672b9d73ee4d7abacb5ab518d25ff3708",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
-      "published": "2026-05-15 09:40:42",
-      "timestamp": 1778838042
-    },
-    {
       "id": "b24faf4a8f23f99b84df84cd8a33eaf914fbd1bf",
       "source": "The Hacker News",
       "source_category": "General",
@@ -240,26 +310,6 @@
       "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026. The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
       "published": "2026-05-15 05:28:03",
       "timestamp": 1778822883
-    },
-    {
-      "id": "3acadba2a331961b35fe67f56e6337f456ba9269",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
-      "published": "2026-05-14 22:50:36",
-      "timestamp": 1778799036
-    },
-    {
-      "id": "98d6ea4bc3906ced2e590754671848658bc58efb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
-      "published": "2026-05-14 21:07:17",
-      "timestamp": 1778792837
     },
     {
       "id": "32608c8251e0e13bb8b5d1396d511cb122899ef7",
@@ -302,7 +352,7 @@
       "timestamp": 1778774400
     },
     {
-      "id": "2608d72f509726f751486dc43b5b2dd88ce5b1d4",
+      "id": "d3c8be931d99c4a7d05fd5c93e155b23c78ab3b9",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Kazuar: Anatomy of a nation-state botnet",
@@ -522,7 +572,7 @@
       "timestamp": 1778601600
     },
     {
-      "id": "395af1b83e477b902fe870bc4dba06b47dd1bc19",
+      "id": "d45e251630146263d829cebd35d1bafc157fb6f2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
@@ -712,7 +762,7 @@
       "timestamp": 1778263920
     },
     {
-      "id": "07cf6dd139ce2d82d397f5f505fa804599ccf0db",
+      "id": "b8d215359ad358fa2db53cac7454a7c1dec21cd2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
@@ -752,46 +802,6 @@
       "timestamp": 1778241600
     },
     {
-      "id": "f90a106d1dad506564b4f6b8ed43731d9129eb9b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. \"QLNX targets developers and DevOps credentials across the software supply chain,\"",
-      "published": "2026-05-08 11:00:00",
-      "timestamp": 1778238000
-    },
-    {
-      "id": "582b708bb1c9a8ac5c17fed7e2bf65ef1afb7010",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments. The dataset behind these findings includes 10 million monitored",
-      "published": "2026-05-08 10:30:00",
-      "timestamp": 1778236200
-    },
-    {
-      "id": "2574c639fbde81ca551924ad6c18d10da5493592",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-      "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\" The backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit that enables persistent SSH access by means of a magic password and specific TCP port combination.",
-      "published": "2026-05-08 08:41:00",
-      "timestamp": 1778229660
-    },
-    {
-      "id": "1f3c3f9c681d04d24087f5b05acff68b26231ba0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-      "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers",
-      "published": "2026-05-08 05:12:00",
-      "timestamp": 1778217120
-    },
-    {
       "id": "df87fb073af8812a24f9525c81913984918dcb2d",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -810,16 +820,6 @@
       "summary": "New research exposes how prompt injection in AI agent frameworks can lead to remote code execution. Learn how these vulnerabilities work, what\u2019s impacted, and how to secure your agents. The post When prompts become shells: RCE vulnerabilities in AI agent frameworks appeared first on Microsoft Security Blog.",
       "published": "2026-05-07 20:22:39",
       "timestamp": 1778185359
-    },
-    {
-      "id": "9c46551cae960d126e2fb9959b7df364ed34e557",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1. It allows \"a remotely authenticated user with administrative access to achieve remote code",
-      "published": "2026-05-07 17:55:00",
-      "timestamp": 1778176500
     },
     {
       "id": "d9d558af27bf44743373554d6f3f1a52c4994bb6",
