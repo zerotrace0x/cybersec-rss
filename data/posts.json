@@ -1,6 +1,46 @@
 {
-  "generated_at": 1779191504,
+  "generated_at": 1779200805,
   "items": [
+    {
+      "id": "5ae646b05e5e6029b0b30a3178d1cdffd2c6dd21",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+      "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
+      "published": "2026-05-19 14:16:41",
+      "timestamp": 1779200201
+    },
+    {
+      "id": "f960c38b88a36b1ed0e41181de29e3f6150b772a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+      "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
+      "published": "2026-05-19 14:00:10",
+      "timestamp": 1779199210
+    },
+    {
+      "id": "7a3b5dd172cbea94927da4ab028eff656d50d56a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Webinar: The hidden bottlenecks in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
+      "summary": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce response delays and improve operational coordination. [...]",
+      "published": "2026-05-19 12:14:22",
+      "timestamp": 1779192862
+    },
+    {
+      "id": "704fe92a8d3d91afbdd550129216418fe7dc93f5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+      "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+      "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries. The targets of the platform received a message asking them to enter a short code at microsoft.com/devicelogin and complete their normal MFA challenge, then walked away believing they had verified a",
+      "published": "2026-05-19 11:30:00",
+      "timestamp": 1779190200
+    },
     {
       "id": "acbbc8b86962f09712de241ffdac27fdf5237418",
       "source": "BleepingComputer",
@@ -10,6 +50,16 @@
       "summary": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
       "published": "2026-05-19 11:22:15",
       "timestamp": 1779189735
+    },
+    {
+      "id": "60767964293826366c4447655280f19943a97a28",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+      "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+      "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC. \"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hours or days,\" the maintainers of the PHP-based content management system (CMS) said. \"Not all configurations are",
+      "published": "2026-05-19 10:44:45",
+      "timestamp": 1779187485
     },
     {
       "id": "e136bc81526e5b99cee9a9e8aaa6585123378102",
@@ -292,16 +342,6 @@
       "timestamp": 1779002013
     },
     {
-      "id": "db9fa5a57c2d7c85f4a763da7a86ee35fb065168",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
-      "published": "2026-05-16 20:55:44",
-      "timestamp": 1778964944
-    },
-    {
       "id": "2e5213e569ff61daf89419a7b391f751bfb3aec9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,26 +350,6 @@
       "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
       "published": "2026-05-16 15:20:48",
       "timestamp": 1778944848
-    },
-    {
-      "id": "14a95aaa0f7a62aed093359f2f17b6c1f71250fd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
-      "published": "2026-05-16 14:15:37",
-      "timestamp": 1778940937
-    },
-    {
-      "id": "3799bc250b354a7011ebf23ec6435829ddf64202",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
-      "published": "2026-05-15 19:30:33",
-      "timestamp": 1778873433
     },
     {
       "id": "d63ee16c22e903150733d8a9793f710fd2a03a98",
@@ -782,16 +802,6 @@
       "timestamp": 1778522040
     },
     {
-      "id": "db78b1021b824c5c26d41ba55de384fd3e97ff48",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation. The activity is said to be the work of cybercrime threat actors who appear to",
-      "published": "2026-05-11 15:45:00",
-      "timestamp": 1778514300
-    },
-    {
       "id": "ab3c4e032df2c1821cf25cdef568c473825a927c",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -800,16 +810,6 @@
       "summary": "Executive Summary Since our February 2026 report on AI-related threat activity, Google Threat Intelligence Group (GTIG) has continued to track a maturing transition from nascent AI-enabled operations to the industrial-scale application of generative models within adversarial workflows. This report, based on insights derived from Mandiant incident response engagements, Gemini, and GTIG\u2019s proactive research, highlights the dual nature of the current threat environment where AI serves as both a sop",
       "published": "2026-05-11 14:00:00",
       "timestamp": 1778508000
-    },
-    {
-      "id": "0fee7ebd729e3a082541292459a176f2c0f31095",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-      "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago \u2014 the same old holes, same lazy access paths, same \u201chow the hell is this still open\u201d feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay",
-      "published": "2026-05-11 12:36:00",
-      "timestamp": 1778502960
     },
     {
       "id": "07cf6dd139ce2d82d397f5f505fa804599ccf0db",
