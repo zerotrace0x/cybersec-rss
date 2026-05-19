@@ -1,6 +1,26 @@
 {
-  "generated_at": 1779155788,
+  "generated_at": 1779172573,
   "items": [
+    {
+      "id": "f755942b7efe9affd792c309f791e902e414f843",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GitHub Actions Supply Chain Attack Redirects Tags to Steal CI/CD Credentials",
+      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action's normal commit history,",
+      "published": "2026-05-19 05:28:06",
+      "timestamp": 1779168486
+    },
+    {
+      "id": "2ab82d8692bb88a3f8df34772d0a14e5ad2a0f16",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. \"The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly",
+      "published": "2026-05-19 04:54:17",
+      "timestamp": 1779166457
+    },
     {
       "id": "e77592d94082c95faa58384e5e401623dbaa85a6",
       "source": "Microsoft Security Blog",
@@ -790,26 +810,6 @@
       "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description",
       "published": "2026-05-11 07:05:00",
       "timestamp": 1778483100
-    },
-    {
-      "id": "92a14c863ef030233ca40ebf1f8a35c14ba37f2c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
-      "published": "2026-05-10 12:41:00",
-      "timestamp": 1778416860
-    },
-    {
-      "id": "84821eb75396d0f71f7701b02c65f41786f91cfb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now",
-      "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
-      "published": "2026-05-09 07:16:00",
-      "timestamp": 1778310960
     },
     {
       "id": "07cf6dd139ce2d82d397f5f505fa804599ccf0db",
