@@ -1,11 +1,41 @@
 {
-  "generated_at": 1779172573,
+  "generated_at": 1779191504,
   "items": [
+    {
+      "id": "acbbc8b86962f09712de241ffdac27fdf5237418",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft confirms patching issues in restricted Windows networks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+      "summary": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
+      "published": "2026-05-19 11:22:15",
+      "timestamp": 1779189735
+    },
+    {
+      "id": "e136bc81526e5b99cee9a9e8aaa6585123378102",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+      "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+      "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance. \"These vulnerabilities could have been exploited to read all mail traffic or as an entry vector into the internal network,\"",
+      "published": "2026-05-19 09:23:15",
+      "timestamp": 1779182595
+    },
+    {
+      "id": "ec622bf9f4587ff447bba1746e4a2992b1114b77",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
+      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open",
+      "published": "2026-05-19 07:49:23",
+      "timestamp": 1779176963
+    },
     {
       "id": "f755942b7efe9affd792c309f791e902e414f843",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "GitHub Actions Supply Chain Attack Redirects Tags to Steal CI/CD Credentials",
+      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
       "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
       "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action's normal commit history,",
       "published": "2026-05-19 05:28:06",
@@ -300,16 +330,6 @@
       "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
       "published": "2026-05-15 19:30:33",
       "timestamp": 1778873433
-    },
-    {
-      "id": "54107e24478a3825b529998fdf8bb96d1c63dd92",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-      "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "summary": "\u200bDuring the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
-      "published": "2026-05-15 17:47:25",
-      "timestamp": 1778867245
     },
     {
       "id": "d63ee16c22e903150733d8a9793f710fd2a03a98",
@@ -790,26 +810,6 @@
       "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should\u2019ve died years ago \u2014 the same old holes, same lazy access paths, same \u201chow the hell is this still open\u201d feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay",
       "published": "2026-05-11 12:36:00",
       "timestamp": 1778502960
-    },
-    {
-      "id": "27c4b40e83ee2038bce85cb785da6a12ca7479b5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room",
-      "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-      "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its",
-      "published": "2026-05-11 11:30:00",
-      "timestamp": 1778499000
-    },
-    {
-      "id": "52a4a1619318e0077909ad5d1921f6a797447719",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-      "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description",
-      "published": "2026-05-11 07:05:00",
-      "timestamp": 1778483100
     },
     {
       "id": "07cf6dd139ce2d82d397f5f505fa804599ccf0db",
