@@ -1,6 +1,66 @@
 {
-  "generated_at": 1779200805,
+  "generated_at": 1779211918,
   "items": [
+    {
+      "id": "fbe1c5eb7ad81d0d5bc0ea0eb565eef4cac37701",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
+      "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud. \"Users",
+      "published": "2026-05-19 16:38:12",
+      "timestamp": 1779208692
+    },
+    {
+      "id": "da94d021b8f6e4c36673608642f37737c85f0fde",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
+      "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
+      "published": "2026-05-19 16:22:30",
+      "timestamp": 1779207750
+    },
+    {
+      "id": "0dada1e328612a0cfff55c7afc97b0a2c3795d3e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
+      "summary": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
+      "published": "2026-05-19 16:10:47",
+      "timestamp": 1779207047
+    },
+    {
+      "id": "977950f6539442a62f5da0ac9fc093158d880ef7",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Exposing Fox Tempest: A malware-signing service operation",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/",
+      "summary": "Fox Tempest is a financially motivated threat actor operating a malware\u2011signing\u2011as\u2011a\u2011service (MSaaS) used by other cybercriminals, including Vanilla Tempest and Storm groups, to more effectively distribute malicious code, including ransomware. The post Exposing Fox Tempest: A malware-signing service operation appeared first on Microsoft Security Blog.",
+      "published": "2026-05-19 15:07:01",
+      "timestamp": 1779203221
+    },
+    {
+      "id": "56f3cdf65730d3f507ccdf9c77e1aa7d5c6d9d96",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+      "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+      "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE). Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 2026, only to be informed by the maintainers that it was a duplicate of a vulnerability that had",
+      "published": "2026-05-19 14:56:26",
+      "timestamp": 1779202586
+    },
+    {
+      "id": "ae4344f1963a5adc0b47f8c9e9cbc5b0ee33e8ce",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
+      "published": "2026-05-19 14:30:22",
+      "timestamp": 1779201022
+    },
     {
       "id": "5ae646b05e5e6029b0b30a3178d1cdffd2c6dd21",
       "source": "BleepingComputer",
@@ -290,36 +350,6 @@
       "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. \"Fast16's hook engine is selectively interested in",
       "published": "2026-05-18 06:46:37",
       "timestamp": 1779086797
-    },
-    {
-      "id": "96620a1933a9928dcfa3b8b5f3cd0d73ec19d6e3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-      "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
-      "published": "2026-05-18 05:33:20",
-      "timestamp": 1779082400
-    },
-    {
-      "id": "9993fcc371186decf8372ab47d5f4c86d2d64542",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
-      "published": "2026-05-17 22:30:08",
-      "timestamp": 1779057008
-    },
-    {
-      "id": "87b7289cbb25ea23ede0d6b7ff83aca1a2985cd2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
-      "published": "2026-05-17 14:43:10",
-      "timestamp": 1779028990
     },
     {
       "id": "8549f1cea5b9e9e304f4aaaab07c059b0b8dd6f2",
@@ -782,26 +812,6 @@
       "timestamp": 1778563080
     },
     {
-      "id": "3d978ccf5b4b056af93ec8152020d71c17394352",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend. As of writing, Checkmarx has released",
-      "published": "2026-05-11 18:30:00",
-      "timestamp": 1778524200
-    },
-    {
-      "id": "ddc54e4bb57b83f8ae010aa410b5a65f742d6af9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
-      "published": "2026-05-11 17:54:00",
-      "timestamp": 1778522040
-    },
-    {
       "id": "ab3c4e032df2c1821cf25cdef568c473825a927c",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -810,16 +820,6 @@
       "summary": "Executive Summary Since our February 2026 report on AI-related threat activity, Google Threat Intelligence Group (GTIG) has continued to track a maturing transition from nascent AI-enabled operations to the industrial-scale application of generative models within adversarial workflows. This report, based on insights derived from Mandiant incident response engagements, Gemini, and GTIG\u2019s proactive research, highlights the dual nature of the current threat environment where AI serves as both a sop",
       "published": "2026-05-11 14:00:00",
       "timestamp": 1778508000
-    },
-    {
-      "id": "07cf6dd139ce2d82d397f5f505fa804599ccf0db",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
-      "summary": "Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation at",
-      "published": "2026-05-08 17:12:46",
-      "timestamp": 1778260366
     },
     {
       "id": "b7bb968bc0b8270417d54f1e061a3ba56ebab3e6",
