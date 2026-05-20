@@ -1,6 +1,56 @@
 {
-  "generated_at": 1779287212,
+  "generated_at": 1779299294,
   "items": [
+    {
+      "id": "da9bb6ca154805ea5c226142db3b8a744b523e51",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+      "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
+      "published": "2026-05-20 17:06:54",
+      "timestamp": 1779296814
+    },
+    {
+      "id": "1f606cef45a1337efdcac60d1e5d42d9de6e078e",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Securing the gaming culture of cultures",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/",
+      "summary": "Read about the unique challenges and rewards of securing gaming platforms and how to better protect gaming communities. The post Securing the gaming culture of cultures appeared first on Microsoft Security Blog.",
+      "published": "2026-05-20 16:00:00",
+      "timestamp": 1779292800
+    },
+    {
+      "id": "ca208d5fd89ee153ff409b49f7a5343ab1262806",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Grafana breach caused by missed token rotation after TanStack attack",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+      "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+      "published": "2026-05-20 15:46:37",
+      "timestamp": 1779291997
+    },
+    {
+      "id": "b171f59cafd10a5e51553e1b2264792182d5c36a",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/",
+      "summary": "The AI systems shipping inside enterprises today are fundamentally different from the ones we were building even two years ago, because they have moved well past answering questions and into accessing your email, retrieving records from your CRM, writing and executing code, and taking actions on your behalf across dozens of connected systems. The post Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow appeared first on Microsoft Security Blog.",
+      "published": "2026-05-20 15:00:00",
+      "timestamp": 1779289200
+    },
+    {
+      "id": "f93fecdc8cbb309fca1c0fe7c1b93af2341ebe5c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world. The tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
+      "published": "2026-05-20 14:36:44",
+      "timestamp": 1779287804
+    },
     {
       "id": "b54e2fcd603ec1ac5e37f84d9b3f2b9eaf6b10d1",
       "source": "BleepingComputer",
@@ -230,16 +280,6 @@
       "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
       "published": "2026-05-19 14:30:22",
       "timestamp": 1779201022
-    },
-    {
-      "id": "5ae646b05e5e6029b0b30a3178d1cdffd2c6dd21",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-      "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
-      "published": "2026-05-19 14:16:41",
-      "timestamp": 1779200201
     },
     {
       "id": "704fe92a8d3d91afbdd550129216418fe7dc93f5",
@@ -770,46 +810,6 @@
       "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a",
       "published": "2026-05-12 16:44:00",
       "timestamp": 1778604240
-    },
-    {
-      "id": "427d499c178a9e5a2d68452434707510a56e9d05",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Defending consumer web properties against modern DDoS attacks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/",
-      "summary": "Read how to protect consumer websites and defend against modern DDoS attacks with layered security, resilient architecture, and graceful service degradation. The post Defending consumer web properties against modern DDoS attacks appeared first on Microsoft Security Blog.",
-      "published": "2026-05-12 16:00:00",
-      "timestamp": 1778601600
-    },
-    {
-      "id": "d45e251630146263d829cebd35d1bafc157fb6f2",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
-      "summary": "Microsoft Incident Response investigated an attack operated through legitimate and trusted administrative mechanisms to blend seamlessly into routine operations and remain undetected demonstrating that intrusions have increasingly avoided using noisy exploits, obvious malware, or custom tooling, instead leveraging systems that organizations already trust within their environments. The post Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise appeared ",
-      "published": "2026-05-12 15:00:00",
-      "timestamp": 1778598000
-    },
-    {
-      "id": "1854e6feca7e891c44236b9e99dd968c517a41ad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
-      "published": "2026-05-12 14:47:00",
-      "timestamp": 1778597220
-    },
-    {
-      "id": "64c0a8670a50c08f2645248844f793ded30fe3de",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria. \"TrickMo relies on a runtime-loaded APK (dex.module),",
-      "published": "2026-05-12 12:50:00",
-      "timestamp": 1778590200
     },
     {
       "id": "ab3c4e032df2c1821cf25cdef568c473825a927c",
