@@ -1,6 +1,16 @@
 {
-  "generated_at": 1779299294,
+  "generated_at": 1779307094,
   "items": [
+    {
+      "id": "fe9cfeb79e2fc4f0a9751911a4de1b0967d0dc9b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/",
+      "summary": "Compromised @antv npm packages deploy the Mini Shai-Hulud payload to steal CI/CD secrets from Linux-based automation environments. The malware executes during npm install and targets credentials across GitHub, AWS, Kubernetes, Vault, npm, and 1Password platforms. The post Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft appeared first on Microsoft Security Blog.",
+      "published": "2026-05-20 17:48:44",
+      "timestamp": 1779299324
+    },
     {
       "id": "da9bb6ca154805ea5c226142db3b8a744b523e51",
       "source": "The Hacker News",
@@ -80,6 +90,16 @@
       "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&C) communications. Webworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies",
       "published": "2026-05-20 12:51:43",
       "timestamp": 1779281503
+    },
+    {
+      "id": "42f1bdc9b0342147e3c692e0408a253495302d87",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability CVE-2010-0249 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2010-0806 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2026-4109",
+      "published": "2026-05-20 12:00:00",
+      "timestamp": 1779278400
     },
     {
       "id": "4c3cb606cbc9563d3930344f6e8da691312fbcf3",
@@ -782,16 +802,6 @@
       "timestamp": 1778626389
     },
     {
-      "id": "e98a8218113d2e00d1e6d4cec0f61cc712c6a167",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Defense at AI speed: Microsoft\u2019s new multi-model agentic security system tops leading industry benchmark",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
-      "summary": "Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH). The post Defense at AI speed: Microsoft\u2019s new multi-model agentic security system tops leading industry benchmark appeared first on Microsoft Security Blog.",
-      "published": "2026-05-12 22:00:00",
-      "timestamp": 1778623200
-    },
-    {
       "id": "8d310f5cc84936c734662f17fa5163c7dd3cc426",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1250,16 +1260,6 @@
       "summary": "Written by: Bavi Sadayappan, Zach Riddle, Ioana Teaca, Kimberly Goody, Genevieve Stark Introduction Since 2018, when many financially motivated threat actors began shifting their monetization strategy to post-compromise ransomware deployments, ransomware has become one of the most pervasive threats to organizations across almost every industry vertical and region. In recent years ransomware operations have evolved, creating a robust ecosystem that has lowered the barrier to entry via the commodi",
       "published": "2026-03-16 14:00:00",
       "timestamp": 1773669600
-    },
-    {
-      "id": "a147a5125a51e185cc15b9f448356c451333c80e",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-47813 Wing FTP Server Information Disclosure Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known ",
-      "published": "2026-03-16 12:00:00",
-      "timestamp": 1773662400
     },
     {
       "id": "ad6e453bbf38397b5f47d3015d6ef106d7747e5d",
