@@ -1,6 +1,66 @@
 {
-  "generated_at": 1779345548,
+  "generated_at": 1779364718,
   "items": [
+    {
+      "id": "e3075747ec8b3682302bc9e3554c29f9363bae57",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Flipper One project needs community help to build open Linux platform",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
+      "published": "2026-05-21 11:00:00",
+      "timestamp": 1779361200
+    },
+    {
+      "id": "46df8dc9043fc4efc1eac465225f3a7b36eacfca",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+      "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges. \"Improper link resolution before file access ('link following') in Microsoft Defender",
+      "published": "2026-05-21 10:55:57",
+      "timestamp": 1779360957
+    },
+    {
+      "id": "78c5a03608717edff66e31ebd1b69d146ee7cba1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "When Identity is the Attack Path",
+      "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud",
+      "published": "2026-05-21 10:30:00",
+      "timestamp": 1779359400
+    },
+    {
+      "id": "044286274f5b06eec0afef8e8b9f5148158a39cf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+      "published": "2026-05-21 07:49:48",
+      "timestamp": 1779349788
+    },
+    {
+      "id": "cd6a3ddf67c4dcd0990525cdb47b5b8e7f6fe17e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
+      "published": "2026-05-21 07:35:53",
+      "timestamp": 1779348953
+    },
+    {
+      "id": "53ad594a39e297cf28c1d64de379e0cb5f948897",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+      "published": "2026-05-21 06:54:01",
+      "timestamp": 1779346441
+    },
     {
       "id": "be051bad18f5901ab6570f1beb8893c4c16194e4",
       "source": "The Hacker News",
@@ -262,26 +322,6 @@
       "timestamp": 1779223065
     },
     {
-      "id": "3eac1d788567412080a763de0f3e24729b8eb306",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
-      "published": "2026-05-19 19:45:39",
-      "timestamp": 1779219939
-    },
-    {
-      "id": "40fa2597cd57f0efb75938824c05f5b0504d4270",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
-      "published": "2026-05-19 19:35:32",
-      "timestamp": 1779219332
-    },
-    {
       "id": "fbe1c5eb7ad81d0d5bc0ea0eb565eef4cac37701",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +330,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud. \"Users",
       "published": "2026-05-19 16:38:12",
       "timestamp": 1779208692
-    },
-    {
-      "id": "da94d021b8f6e4c36673608642f37737c85f0fde",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
-      "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
-      "published": "2026-05-19 16:22:30",
-      "timestamp": 1779207750
     },
     {
       "id": "977950f6539442a62f5da0ac9fc093158d880ef7",
@@ -760,36 +790,6 @@
       "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data\u2014and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real danger? While",
       "published": "2026-05-13 11:52:43",
       "timestamp": 1778673163
-    },
-    {
-      "id": "9939723685c2f926987e64adb61c3d87764eefd6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
-      "published": "2026-05-13 11:30:00",
-      "timestamp": 1778671800
-    },
-    {
-      "id": "8d30e052c6960c5d508d86ec2a65bc4818aa6ed4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
-      "published": "2026-05-13 10:36:10",
-      "timestamp": 1778668570
-    },
-    {
-      "id": "d03864f1442fec1eab9fd27cdbe2be89c0f4898c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-      "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
-      "published": "2026-05-13 08:08:54",
-      "timestamp": 1778659734
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
