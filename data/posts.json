@@ -1,6 +1,26 @@
 {
-  "generated_at": 1779328513,
+  "generated_at": 1779345548,
   "items": [
+    {
+      "id": "be051bad18f5901ab6570f1beb8893c4c16194e4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. The development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
+      "published": "2026-05-21 04:27:01",
+      "timestamp": 1779337621
+    },
+    {
+      "id": "9b5f1f3c1effc3f6d72d99dc66d3fd9c3f264b8b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
+      "published": "2026-05-21 03:44:11",
+      "timestamp": 1779335051
+    },
     {
       "id": "f0fe6876d9e6b6462b347086a7b431f93bbbc6dd",
       "source": "BleepingComputer",
@@ -782,16 +802,6 @@
       "timestamp": 1778655600
     },
     {
-      "id": "264b5b02abb3af6ff6e6e4ca044bcd8c68a7ed7f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said. The feature, it",
-      "published": "2026-05-13 06:55:42",
-      "timestamp": 1778655342
-    },
-    {
       "id": "2b150db074a34e6db490dbd84024bce83cc5c4fd",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -810,16 +820,6 @@
       "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
       "published": "2026-05-12 21:46:45",
       "timestamp": 1778622405
-    },
-    {
-      "id": "ca631a177cb58c7cde7f1bb932b52e03e24ce1a6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a",
-      "published": "2026-05-12 16:44:00",
-      "timestamp": 1778604240
     },
     {
       "id": "ab3c4e032df2c1821cf25cdef568c473825a927c",
