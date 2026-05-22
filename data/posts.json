@@ -1,6 +1,46 @@
 {
-  "generated_at": 1779469211,
+  "generated_at": 1779477534,
   "items": [
+    {
+      "id": "e11b84b0551610d0d7bad358785230151efa1507",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. The disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the investigation since December",
+      "published": "2026-05-22 17:35:02",
+      "timestamp": 1779471302
+    },
+    {
+      "id": "3a2e60a64d35a413ccb5649eddba853a8315e82a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
+      "published": "2026-05-22 17:24:52",
+      "timestamp": 1779470692
+    },
+    {
+      "id": "d3792bff796613d516d2b46465cc5173df3f878b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
+      "summary": "Microsoft has been recognized as a Leader in The Forrester Wave\u2122: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories. The post Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms appeared first on Microsoft Security Blog.",
+      "published": "2026-05-22 17:00:00",
+      "timestamp": 1779469200
+    },
+    {
+      "id": "be9c092da9b31bd85ea89eefba1f86a46b121be2",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
+      "summary": "A multi-stage attack on Linux devices began with an exposed F5 BIG-IP edge appliance and pivoted to an internal Confluence server for credential theft and identity compromise. Learn how the threat actor attempted Kerberos relay and lateral movement, and how Microsoft Defender detected, blocked, and unraveled the attack. The post From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence appeared first on Microsoft Security Blog.",
+      "published": "2026-05-22 16:53:39",
+      "timestamp": 1779468819
+    },
     {
       "id": "3a02bdeb9c41e2b373941004326953696f3f900e",
       "source": "Krebs on Security",
@@ -10,6 +50,16 @@
       "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
       "published": "2026-05-22 16:34:24",
       "timestamp": 1779467664
+    },
+    {
+      "id": "29193b301671c120b495c947973b994021180b8d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government",
+      "published": "2026-05-22 16:20:32",
+      "timestamp": 1779466832
     },
     {
       "id": "408102fd28598d44f336b456fdd59179dae79396",
@@ -70,6 +120,16 @@
       "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
       "published": "2026-05-22 12:00:42",
       "timestamp": 1779451242
+    },
+    {
+      "id": "72c81e00d4992982ae561867fc61eabcab7e61e2",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnera",
+      "published": "2026-05-22 12:00:00",
+      "timestamp": 1779451200
     },
     {
       "id": "1217117e7c7a27416d211abcc2080f60b096f889",
@@ -290,16 +350,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
       "published": "2026-05-21 07:35:53",
       "timestamp": 1779348953
-    },
-    {
-      "id": "53ad594a39e297cf28c1d64de379e0cb5f948897",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
-      "published": "2026-05-21 06:54:01",
-      "timestamp": 1779346441
     },
     {
       "id": "be051bad18f5901ab6570f1beb8893c4c16194e4",
@@ -782,36 +832,6 @@
       "timestamp": 1778774866
     },
     {
-      "id": "29b039082337965bb5d1a088c910487a47138448",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Defense in depth for autonomous AI agents",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/defense-in-depth-autonomous-ai-agents/",
-      "summary": "As AI agents gain autonomy, defense in depth must evolve, with application-layer design, identity, and human oversight at the center. The post Defense in depth for autonomous AI agents appeared first on Microsoft Security Blog.",
-      "published": "2026-05-14 16:00:00",
-      "timestamp": 1778774400
-    },
-    {
-      "id": "2608d72f509726f751486dc43b5b2dd88ce5b1d4",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Kazuar: Anatomy of a nation-state botnet",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
-      "summary": "Kazuar, a sophisticated malware family attributed to the Russian state actor Secret Blizzard, has been under constant development for years and continues to evolve in support of espionage-focused operations. Over time, Kazuar has expanded from a relatively traditional backdoor into a highly modular peer-to-peer (P2P) botnet ecosystem designed to enable persistent, covert access to target environments. The post Kazuar: Anatomy of a nation-state botnet appeared first on Microsoft Security Blog.",
-      "published": "2026-05-14 15:00:00",
-      "timestamp": 1778770800
-    },
-    {
-      "id": "6910d393b6314c8edbe068ea8a2c19918f4b2d5d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC\u20110057",
-      "published": "2026-05-14 14:00:37",
-      "timestamp": 1778767237
-    },
-    {
       "id": "1655ac6b4ca82005a3d859189308f5ea4c642067",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -820,16 +840,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20182 Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Note: Please adhere to CISA\u2019s guidelines to assess exposure and mitigate risks associated with Cisco SD-WAN devices as outlined in Emergency Direc",
       "published": "2026-05-14 12:00:00",
       "timestamp": 1778760000
-    },
-    {
-      "id": "c2b4d356b5583b32485eb54aede146da1de071e4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke",
-      "published": "2026-05-14 11:40:14",
-      "timestamp": 1778758814
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
@@ -992,22 +1002,22 @@
       "timestamp": 1776783239
     },
     {
-      "id": "e5d7ad7a1583ffd942c3f86f4a3e24e362c7b6b3",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber th",
-      "published": "2026-04-20 12:00:00",
-      "timestamp": 1776686400
-    },
-    {
       "id": "578816f54d898c51c753acb18ae72a7b0779bdd2",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-s",
+      "published": "2026-04-20 12:00:00",
+      "timestamp": 1776686400
+    },
+    {
+      "id": "e5d7ad7a1583ffd942c3f86f4a3e24e362c7b6b3",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber th",
       "published": "2026-04-20 12:00:00",
       "timestamp": 1776686400
     },
@@ -1238,16 +1248,6 @@
       "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
       "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization",
       "summary": "CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker Corporation, which affected their Microsoft environment.1 To defend against similar malicious cyber activity, CISA urges organizations to harden endpoint management system configurations using the recommendations and resources provided in this alert. CISA is conducting enhanced coordination with federal pa",
-      "published": "2026-03-18 12:00:00",
-      "timestamp": 1773835200
-    },
-    {
-      "id": "1c19e5f7251e1ab83832358462673593abb5c4ec",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-66376 Synacor Zimbra Collaboration Suite (ZCS) Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
       "published": "2026-03-18 12:00:00",
       "timestamp": 1773835200
     },
