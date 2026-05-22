@@ -1,6 +1,36 @@
 {
-  "generated_at": 1779431757,
+  "generated_at": 1779449764,
   "items": [
+    {
+      "id": "f9f4c6a3a8e244a2f3a94e9adb987c141db94e0c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
+      "published": "2026-05-22 09:01:20",
+      "timestamp": 1779440480
+    },
+    {
+      "id": "dca5312751cbaf1b56fb7463d02ad5e6cb38cb0b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU. \"Kimwolf",
+      "published": "2026-05-22 08:50:18",
+      "timestamp": 1779439818
+    },
+    {
+      "id": "ad556a4ca8aaac8cb78a86c5ed65ef1911dd6e28",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
+      "published": "2026-05-22 05:47:33",
+      "timestamp": 1779428853
+    },
     {
       "id": "c2f91f416e2a81877f14d350b515cf9b64d8f061",
       "source": "The Hacker News",
@@ -340,16 +370,6 @@
       "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
       "published": "2026-05-20 11:38:43",
       "timestamp": 1779277123
-    },
-    {
-      "id": "bb9bce04a171352b730e2ad94def787b89605561",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
-      "published": "2026-05-20 10:52:31",
-      "timestamp": 1779274351
     },
     {
       "id": "7f2657a43d727dcee0d267717174ca7aecb00a12",
@@ -800,26 +820,6 @@
       "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
       "published": "2026-05-14 09:25:50",
       "timestamp": 1778750750
-    },
-    {
-      "id": "cad753b5cde69b3288514b0d2fcfe97df0c53d44",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
-      "published": "2026-05-14 07:06:15",
-      "timestamp": 1778742375
-    },
-    {
-      "id": "1b31cbb0f7a59042bc38021ca3af410252b9d7d6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
-      "published": "2026-05-14 06:00:09",
-      "timestamp": 1778738409
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
