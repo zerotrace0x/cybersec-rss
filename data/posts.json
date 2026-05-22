@@ -1,6 +1,16 @@
 {
-  "generated_at": 1779415018,
+  "generated_at": 1779431757,
   "items": [
+    {
+      "id": "c2f91f416e2a81877f14d350b515cf9b64d8f061",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints. \"An attacker could exploit this vulnerability if they are able to send",
+      "published": "2026-05-22 05:36:18",
+      "timestamp": 1779428178
+    },
     {
       "id": "4ddc41b5c4d57bc8a171400b485265395c937e84",
       "source": "Krebs on Security",
@@ -810,16 +820,6 @@
       "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
       "published": "2026-05-14 06:00:09",
       "timestamp": 1778738409
-    },
-    {
-      "id": "6c9f605916bbca8fcf67fb0bf31a80e9d1177a79",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview. MDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
-      "published": "2026-05-13 13:46:02",
-      "timestamp": 1778679962
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
