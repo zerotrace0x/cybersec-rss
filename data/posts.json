@@ -1,6 +1,36 @@
 {
-  "generated_at": 1779458867,
+  "generated_at": 1779469211,
   "items": [
+    {
+      "id": "3a02bdeb9c41e2b373941004326953696f3f900e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+      "published": "2026-05-22 16:34:24",
+      "timestamp": 1779467664
+    },
+    {
+      "id": "408102fd28598d44f336b456fdd59179dae79396",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft Security success stories: How St. Luke\u2019s and ManpowerGroup are securing AI foundations",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
+      "summary": "How Frontier firms secure AI at scale: read how Microsoft customers embed governance, identity, and cloud security to make protection an enabler of AI growth. The post Microsoft Security success stories: How St. Luke\u2019s and ManpowerGroup are securing AI foundations appeared first on Microsoft Security Blog.",
+      "published": "2026-05-22 16:00:00",
+      "timestamp": 1779465600
+    },
+    {
+      "id": "83896aed1ce35743e7c85ef3a60581584ff9fd6c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Former US execs plead guilty to aiding tech support scammers",
+      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+      "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+      "published": "2026-05-22 15:32:18",
+      "timestamp": 1779463938
+    },
     {
       "id": "57a763eab4f26f5158a660be5433c639d990eae7",
       "source": "BleepingComputer",
@@ -290,16 +320,6 @@
       "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
       "published": "2026-05-21 03:44:11",
       "timestamp": 1779335051
-    },
-    {
-      "id": "f0fe6876d9e6b6462b347086a7b431f93bbbc6dd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
-      "published": "2026-05-20 21:36:24",
-      "timestamp": 1779312984
     },
     {
       "id": "fe9cfeb79e2fc4f0a9751911a4de1b0967d0dc9b",
@@ -762,7 +782,7 @@
       "timestamp": 1778774866
     },
     {
-      "id": "e7fc6a3bf18494824a3d39233f333a272ce0fdb7",
+      "id": "29b039082337965bb5d1a088c910487a47138448",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Defense in depth for autonomous AI agents",
@@ -780,16 +800,6 @@
       "summary": "Kazuar, a sophisticated malware family attributed to the Russian state actor Secret Blizzard, has been under constant development for years and continues to evolve in support of espionage-focused operations. Over time, Kazuar has expanded from a relatively traditional backdoor into a highly modular peer-to-peer (P2P) botnet ecosystem designed to enable persistent, covert access to target environments. The post Kazuar: Anatomy of a nation-state botnet appeared first on Microsoft Security Blog.",
       "published": "2026-05-14 15:00:00",
       "timestamp": 1778770800
-    },
-    {
-      "id": "672281f63dc7724b33471176148e7013bcbc0fda",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
-      "summary": "Exposed UIs, weak authentication, and risky defaults could turn cloud-native AI apps on Kubernetes into potential targets by threat actors. Learn how exploitable misconfigurations lead to RCE and data leaks. The post When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps appeared first on Microsoft Security Blog.",
-      "published": "2026-05-14 14:20:55",
-      "timestamp": 1778768455
     },
     {
       "id": "6910d393b6314c8edbe068ea8a2c19918f4b2d5d",
@@ -1180,16 +1190,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerab",
       "published": "2026-03-25 12:00:00",
       "timestamp": 1774440000
-    },
-    {
-      "id": "cd47f8a1d94ff233b929a68fbbb298dc73fcde12",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
-      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
-      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
-      "published": "2026-03-23 15:43:04",
-      "timestamp": 1774280584
     },
     {
       "id": "0be4695152778b858e8c7e3c204dbcb39fa9113d",
