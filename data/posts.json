@@ -1,6 +1,26 @@
 {
-  "generated_at": 1779551532,
+  "generated_at": 1779562174,
   "items": [
+    {
+      "id": "ef99417525add1bd00b1c2928ce00a0c7a9862c2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+      "published": "2026-05-23 16:35:10",
+      "timestamp": 1779554110
+    },
+    {
+      "id": "6831ec3ddd184992dc31e348e26c2c42156603ea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
+      "published": "2026-05-23 16:07:51",
+      "timestamp": 1779552471
+    },
     {
       "id": "96d0d597a246489ddb1587603cbb09d01e5fdd76",
       "source": "BleepingComputer",
@@ -17,7 +37,7 @@
       "source_category": "General",
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
       "published": "2026-05-23 11:55:35",
       "timestamp": 1779537335
     },
@@ -810,26 +830,6 @@
       "summary": "In Your Biggest Security Risk Isn't Malware \u2014 It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild \u2014 the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
       "published": "2026-05-15 11:00:00",
       "timestamp": 1778842800
-    },
-    {
-      "id": "920c789a54694923860defeb8006b02ed634c09c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
-      "published": "2026-05-15 10:54:44",
-      "timestamp": 1778842484
-    },
-    {
-      "id": "b24faf4a8f23f99b84df84cd8a33eaf914fbd1bf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue. \"",
-      "published": "2026-05-15 06:19:04",
-      "timestamp": 1778825944
     },
     {
       "id": "1655ac6b4ca82005a3d859189308f5ea4c642067",
