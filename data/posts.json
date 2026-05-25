@@ -1,5 +1,5 @@
 {
-  "generated_at": 1779692277,
+  "generated_at": 1779711300,
   "items": [
     {
       "id": "a705a932489530398505f3a52ab55cff3cfccc6c",
@@ -20,6 +20,36 @@
       "summary": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learning Management System (LMS) developed by Digital Knowledge commonly used in Japan. Mandiant identified a critical vulnerability that allowed unauthenticated Remote Code Execution (RCE). An unknown threat actor leveraged this access to inject malicious code into the LMS platform, ",
       "published": "2026-05-25 14:00:00",
       "timestamp": 1779717600
+    },
+    {
+      "id": "0a65b121ce8a450c16822012859a7830e84d5385",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+      "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost's Content API that could allow an unauthenticated attacker to read arbitrary data from the",
+      "published": "2026-05-25 12:02:46",
+      "timestamp": 1779710566
+    },
+    {
+      "id": "00836956064c718bbf4923ca6a8244d75fbd7195",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Alert Firehose Finally Meets Its Match",
+      "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
+      "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch threats earlier, triage faster, and chase fewer false positives. The old complaint lingers in part because reputations are sticky, and because NDR has evolved",
+      "published": "2026-05-25 11:30:00",
+      "timestamp": 1779708600
+    },
+    {
+      "id": "6ecfa2dfb1a4d75394432f6546826412283e0f98",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader. \"DPAPILoader decrypts and",
+      "published": "2026-05-25 09:32:54",
+      "timestamp": 1779701574
     },
     {
       "id": "032d0ed1fef1c625ff13939165d8b551f4d4f57c",
@@ -647,7 +677,7 @@
       "source_category": "General",
       "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
       "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open",
+      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. \"Within",
       "published": "2026-05-19 07:49:23",
       "timestamp": 1779176963
     },
@@ -802,26 +832,6 @@
       "timestamp": 1779002013
     },
     {
-      "id": "2e5213e569ff61daf89419a7b391f751bfb3aec9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
-      "published": "2026-05-16 15:20:48",
-      "timestamp": 1778944848
-    },
-    {
-      "id": "d63ee16c22e903150733d8a9793f710fd2a03a98",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
-      "published": "2026-05-15 17:10:25",
-      "timestamp": 1778865025
-    },
-    {
       "id": "7c19c58263f34188d052641e81bda636e5499fe4",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -830,16 +840,6 @@
       "summary": "Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo Introduction Google Threat Intelligence Group (GTIG) has continued to track an expansive extortion campaign by UNC6671, a threat actor operating under the \"BlackFile\" brand, that targets organizations via sophisticated voice phishing (vishing) and single sign-on (SSO) compromise. By leveraging adversary-in-the-middle (AiTM) techniques to bypass traditional perimeter defenses and multi-factor authentication (MFA), UNC6671 gains",
       "published": "2026-05-15 14:00:00",
       "timestamp": 1778853600
-    },
-    {
-      "id": "35ade7a13fc11cee9ffb566b548a3b483b8e9d75",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-      "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
-      "published": "2026-05-15 13:35:04",
-      "timestamp": 1778852104
     },
     {
       "id": "9f5def5a01d8b1ea1e3bf791b9354422ff842afc",
