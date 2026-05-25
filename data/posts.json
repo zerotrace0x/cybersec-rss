@@ -1,6 +1,36 @@
 {
-  "generated_at": 1779674428,
+  "generated_at": 1779692277,
   "items": [
+    {
+      "id": "a705a932489530398505f3a52ab55cff3cfccc6c",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "2 PhaaS 2 Furious: The Evolution of Chinese-language Phishing Services",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/",
+      "summary": "Written by: Jamie Collier While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group (GTIG) analyzed a dozen current PhaaS offerings in the Chinese underground, all of them mature services and many likely tied intricately to the broader criminal ecosystem in that region. These services not only lower the barrier to entry for Chinese cyb",
+      "published": "2026-05-25 14:00:00",
+      "timestamp": 1779717600
+    },
+    {
+      "id": "a2c0b82ec383f00a597a4ed1d00c6d68c9322cd0",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/",
+      "summary": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learning Management System (LMS) developed by Digital Knowledge commonly used in Japan. Mandiant identified a critical vulnerability that allowed unauthenticated Remote Code Execution (RCE). An unknown threat actor leveraged this access to inject malicious code into the LMS platform, ",
+      "published": "2026-05-25 14:00:00",
+      "timestamp": 1779717600
+    },
+    {
+      "id": "032d0ed1fef1c625ff13939165d8b551f4d4f57c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of",
+      "published": "2026-05-25 05:59:13",
+      "timestamp": 1779688753
+    },
     {
       "id": "55158da7a40193475b392fbd1469716d295407d6",
       "source": "BleepingComputer",
@@ -667,7 +697,7 @@
       "source_category": "General",
       "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
       "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, aiming to investigate and neutralize malicious infrastructure, arrest perpetrators behind these",
+      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region, aiming to investigate and neutralize malicious infrastructure, arrest perpetrators behind these activities, and prevent future losses. It",
       "published": "2026-05-18 17:21:18",
       "timestamp": 1779124878
     },
@@ -820,16 +850,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list o",
       "published": "2026-05-15 12:00:00",
       "timestamp": 1778846400
-    },
-    {
-      "id": "170bedb0582d820889e3629b89be73c34ecbe4ec",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "summary": "In Your Biggest Security Risk Isn't Malware \u2014 It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild \u2014 the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
-      "published": "2026-05-15 11:00:00",
-      "timestamp": 1778842800
     },
     {
       "id": "1655ac6b4ca82005a3d859189308f5ea4c642067",
@@ -1370,26 +1390,6 @@
       "summary": "Written by: Ross Inman, Adrian Hernandez Introduction North Korean threat actors continue to evolve their tradecraft to target the cryptocurrency and decentralized finance (DeFi) verticals. Mandiant recently investigated an intrusion targeting a FinTech entity within this sector, attributed to UNC1069, a financially motivated threat actor active since at least 2018. This investigation revealed a tailored intrusion resulting in the deployment of seven unique malware families, including a new set ",
       "published": "2026-02-09 14:00:00",
       "timestamp": 1770645600
-    },
-    {
-      "id": "a6e7049ec05d09001e489f7b33c7ae7f4fd77cdb",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Vishing for Access: Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/expansion-shinyhunters-saas-data-theft/",
-      "summary": "Introduction Mandiant has identified an expansion in threat activity that uses tactics, techniques, and procedures (TTPs) consistent with prior ShinyHunters-branded extortion operations. These operations primarily leverage sophisticated voice phishing (vishing) and victim-branded credential harvesting sites to gain initial access to corporate environments by obtaining single sign-on (SSO) credentials and multi-factor authentication (MFA) codes. Once inside, the threat actors target cloud-based s",
-      "published": "2026-01-30 14:00:00",
-      "timestamp": 1769781600
-    },
-    {
-      "id": "2d1fcf12180a6decee48b5a11c65dbd9675a58b8",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Guidance from the Frontlines: Proactive Defense Against ShinyHunters-Branded Data Theft Targeting SaaS",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defense-against-shinyhunters-cybercrime-saas/",
-      "summary": "Introduction Mandiant is tracking a significant expansion and escalation in the operations of threat clusters associated with ShinyHunters-branded extortion. As detailed in our companion report, 'Vishing for Access: Tracking the Expansion of ShinyHunters-Branded SaaS Data Theft', these campaigns leverage evolved voice phishing (vishing) and victim-branded credential harvesting to successfully compromise single sign-on (SSO) credentials and enroll unauthorized devices into victim multi-factor aut",
-      "published": "2026-01-30 14:00:00",
-      "timestamp": 1769781600
     },
     {
       "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
