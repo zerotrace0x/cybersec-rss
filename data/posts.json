@@ -1,6 +1,16 @@
 {
-  "generated_at": 1779817744,
+  "generated_at": 1779824996,
   "items": [
+    {
+      "id": "16cf5d3c163cacba412cc959f7dd83b1cc22d03f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "published": "2026-05-26 19:46:01",
+      "timestamp": 1779824761
+    },
     {
       "id": "b68996c2b5639fac00a699d1939c09f78ca06816",
       "source": "The Hacker News",
@@ -40,6 +50,16 @@
       "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce manual coordination and improve incident response times. [...]",
       "published": "2026-05-26 12:16:24",
       "timestamp": 1779797784
+    },
+    {
+      "id": "7840ff7a7b83a71cc2c8d5e1d3851fcc83ae5033",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
+      "published": "2026-05-26 12:00:00",
+      "timestamp": 1779796800
     },
     {
       "id": "0df69eb8e87a0822bf6388bbba5a8b184336c737",
@@ -410,16 +430,6 @@
       "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
       "published": "2026-05-22 13:39:19",
       "timestamp": 1779457159
-    },
-    {
-      "id": "e799cb74e8aa2c7b3b13aa56db142ef1609f6a42",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-      "summary": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
-      "published": "2026-05-22 13:14:40",
-      "timestamp": 1779455680
     },
     {
       "id": "72c81e00d4992982ae561867fc61eabcab7e61e2",
@@ -1032,22 +1042,22 @@
       "timestamp": 1776783239
     },
     {
-      "id": "578816f54d898c51c753acb18ae72a7b0779bdd2",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-s",
-      "published": "2026-04-20 12:00:00",
-      "timestamp": 1776686400
-    },
-    {
       "id": "e5d7ad7a1583ffd942c3f86f4a3e24e362c7b6b3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "\u200b\u200bSupply Chain Compromise Impacts Axios Node Package Manager\u200b",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber th",
+      "published": "2026-04-20 12:00:00",
+      "timestamp": 1776686400
+    },
+    {
+      "id": "578816f54d898c51c753acb18ae72a7b0779bdd2",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-s",
       "published": "2026-04-20 12:00:00",
       "timestamp": 1776686400
     },
@@ -1260,16 +1270,6 @@
       "summary": "Introduction Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least November 2025, GTIG has observed multiple commercial surveillance vendors and suspected state-sponsored actors utilizing DarkSword in distinct campaigns. These threat actors have deployed the exploit chain against t",
       "published": "2026-03-18 14:00:00",
       "timestamp": 1773842400
-    },
-    {
-      "id": "98e7ea78a28ee851da6fec2b8bddd4a1ca4a8770",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Endpoint Management System Hardening After Cyberattack Against US Organization",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/18/cisa-urges-endpoint-management-system-hardening-after-cyberattack-against-us-organization",
-      "summary": "CISA is aware of malicious cyber activity targeting endpoint management systems of U.S. organizations based on the March 11, 2026 cyberattack against U.S.-based medical technology firm Stryker Corporation, which affected their Microsoft environment.1 To defend against similar malicious cyber activity, CISA urges organizations to harden endpoint management system configurations using the recommendations and resources provided in this alert. CISA is conducting enhanced coordination with federal pa",
-      "published": "2026-03-18 12:00:00",
-      "timestamp": 1773835200
     },
     {
       "id": "b364a2af69b65cc1ecf6dcde15d1b09e78066db0",
