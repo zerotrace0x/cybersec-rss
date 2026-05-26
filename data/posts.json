@@ -1,6 +1,16 @@
 {
-  "generated_at": 1779760340,
+  "generated_at": 1779777288,
   "items": [
+    {
+      "id": "ad6020f49e4a9d302f7f18cd1328ec60662f8ef6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
+      "published": "2026-05-26 05:19:38",
+      "timestamp": 1779772778
+    },
     {
       "id": "3738933c88f761debe7b7312944c9b1c07413f94",
       "source": "BleepingComputer",
@@ -830,16 +840,6 @@
       "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. \"Fast16's hook engine is selectively interested in",
       "published": "2026-05-18 06:46:37",
       "timestamp": 1779086797
-    },
-    {
-      "id": "8549f1cea5b9e9e304f4aaaab07c059b0b8dd6f2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
-      "published": "2026-05-17 11:57:53",
-      "timestamp": 1779019073
     },
     {
       "id": "7c19c58263f34188d052641e81bda636e5499fe4",
