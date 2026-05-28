@@ -1,6 +1,96 @@
 {
-  "generated_at": 1779970594,
+  "generated_at": 1779990823,
   "items": [
+    {
+      "id": "2638d4347e91693b585bed2569bf9c659970576d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+      "published": "2026-05-28 17:25:43",
+      "timestamp": 1779989143
+    },
+    {
+      "id": "412b6e7ba8ab0ab40aae2a884dc9c22e4f4b18d2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
+      "published": "2026-05-28 15:26:04",
+      "timestamp": 1779981964
+    },
+    {
+      "id": "0dd4af364982bc507248a579cc60b872ce7af7d4",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/",
+      "summary": "Microsoft Threat Intelligence presents a comprehensive analysis of The Gentlemen, a Go-based ransomware deployed by affiliates of Storm-2697 that combines per-file ephemeral key encryption with an aggressive self-propagation module to deploy itself across an entire network using series of simultaneous lateral movement techniques per target. The post The Gentlemen ransomware: Dissecting a self-propagating Go encryptor appeared first on Microsoft Security Blog.",
+      "published": "2026-05-28 15:00:00",
+      "timestamp": 1779980400
+    },
+    {
+      "id": "4b87645e4e216f336d70949d7f09877d409a2b6f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+      "published": "2026-05-28 14:25:43",
+      "timestamp": 1779978343
+    },
+    {
+      "id": "054b0b709bdb786aecc20fc91eda23a5242dac2d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+      "published": "2026-05-28 14:01:11",
+      "timestamp": 1779976871
+    },
+    {
+      "id": "c6e81ddea683ecc4488ef7e3726acb67dc042612",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
+      "published": "2026-05-28 13:53:52",
+      "timestamp": 1779976432
+    },
+    {
+      "id": "1087b12ffd4e4240a9c25ff30d159513dfcb80c0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
+      "published": "2026-05-28 13:33:16",
+      "timestamp": 1779975196
+    },
+    {
+      "id": "e54b2479b396722f5a952cfb1593cf8afd93613b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
+      "published": "2026-05-28 12:43:29",
+      "timestamp": 1779972209
+    },
+    {
+      "id": "3f2d58b60cc1779577d810aed9df54e228677209",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Webinar: Why network incidents take too long to resolve",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+      "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
+      "published": "2026-05-28 12:20:28",
+      "timestamp": 1779970828
+    },
     {
       "id": "8ffcdb848a69e70d5e627aa282f2ad176b5e0538",
       "source": "The Hacker News",
@@ -212,16 +302,6 @@
       "timestamp": 1779826051
     },
     {
-      "id": "16cf5d3c163cacba412cc959f7dd83b1cc22d03f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "published": "2026-05-26 19:46:01",
-      "timestamp": 1779824761
-    },
-    {
       "id": "b68996c2b5639fac00a699d1939c09f78ca06816",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,36 +310,6 @@
       "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.",
       "published": "2026-05-26 15:48:41",
       "timestamp": 1779810521
-    },
-    {
-      "id": "e551109dd8eecb9f485dea185bed27e3fd7dab15",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
-      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-      "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
-      "published": "2026-05-26 14:01:11",
-      "timestamp": 1779804071
-    },
-    {
-      "id": "ecf3c9620d5a66235954d12b05e30f9d7df61aa2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "published": "2026-05-26 12:19:43",
-      "timestamp": 1779797983
-    },
-    {
-      "id": "9854f1cafd9052171b06aa682fb7a80026863887",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar: Too many tools are slowing network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce manual coordination and improve incident response times. [...]",
-      "published": "2026-05-26 12:16:24",
-      "timestamp": 1779797784
     },
     {
       "id": "7840ff7a7b83a71cc2c8d5e1d3851fcc83ae5033",
@@ -310,16 +360,6 @@
       "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
       "published": "2026-05-26 09:13:02",
       "timestamp": 1779786782
-    },
-    {
-      "id": "23bc68dceb2570450d2efc3dcea8f2a41d084bdd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
-      "published": "2026-05-26 08:46:45",
-      "timestamp": 1779785205
     },
     {
       "id": "5090b7e9d8b5ba1483ba579f2096803ca14582fc",
@@ -802,36 +842,6 @@
       "timestamp": 1779273000
     },
     {
-      "id": "ade8e96d3e5c19c62eaa69156cf8792006fa619c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-      "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass. \"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
-      "published": "2026-05-20 08:28:26",
-      "timestamp": 1779265706
-    },
-    {
-      "id": "030ed3fe3d11d7a70d881b2da8628d433954882d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
-      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories. \"After the initial assessment, we found that in addition to source",
-      "published": "2026-05-20 05:12:06",
-      "timestamp": 1779253926
-    },
-    {
-      "id": "fbe1c5eb7ad81d0d5bc0ea0eb565eef4cac37701",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-      "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud. \"Users",
-      "published": "2026-05-19 16:38:12",
-      "timestamp": 1779208692
-    },
-    {
       "id": "977950f6539442a62f5da0ac9fc093158d880ef7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -840,16 +850,6 @@
       "summary": "Fox Tempest is a financially motivated threat actor operating a malware\u2011signing\u2011as\u2011a\u2011service (MSaaS) used by other cybercriminals, including Vanilla Tempest and Storm groups, to more effectively distribute malicious code, including ransomware. The post Exposing Fox Tempest: A malware-signing service operation appeared first on Microsoft Security Blog.",
       "published": "2026-05-19 15:07:01",
       "timestamp": 1779203221
-    },
-    {
-      "id": "e77592d94082c95faa58384e5e401623dbaa85a6",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "How Storm-2949 turned a compromised identity into a cloud-wide breach",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/",
-      "summary": "Storm-2949 turned stolen credentials into a cloud-wide breach, moving from identity compromise to large-scale data theft without using malware. This incident shows how threat actors can exploit trusted systems to operate undetected. The post How Storm-2949 turned a compromised identity into a cloud-wide breach appeared first on Microsoft Security Blog.",
-      "published": "2026-05-18 22:42:50",
-      "timestamp": 1779144170
     },
     {
       "id": "e7a111ac88c1caab60ed06a99329b457305c6477",
