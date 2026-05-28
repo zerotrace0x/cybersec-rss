@@ -1,6 +1,16 @@
 {
-  "generated_at": 1779990823,
+  "generated_at": 1779998375,
   "items": [
+    {
+      "id": "49cee5fae7757ffc1a9e443d73b846a9b0d48648",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
+      "published": "2026-05-28 19:08:10",
+      "timestamp": 1779995290
+    },
     {
       "id": "2638d4347e91693b585bed2569bf9c659970576d",
       "source": "BleepingComputer",
@@ -10,6 +20,16 @@
       "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
       "published": "2026-05-28 17:25:43",
       "timestamp": 1779989143
+    },
+    {
+      "id": "0a0de5b3d370e9c6c03108f11c350a1e536e6554",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier. \"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
+      "published": "2026-05-28 17:24:44",
+      "timestamp": 1779989084
     },
     {
       "id": "412b6e7ba8ab0ab40aae2a884dc9c22e4f4b18d2",
@@ -90,6 +110,16 @@
       "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
       "published": "2026-05-28 12:20:28",
       "timestamp": 1779970828
+    },
+    {
+      "id": "ae375005f1b60733f75114c99abeb21394b7da95",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
+      "summary": "CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub compromise via a malicious Nx Console Visual Studio Code (VS Code) extension and the \u201cMegalodon\u201d supply chain intrusion campaign, demonstrate how cyber threat actors are abusing tools and processes that support enterprise, cloud, and DevOps environments\u2014specific",
+      "published": "2026-05-28 12:00:00",
+      "timestamp": 1779969600
     },
     {
       "id": "8ffcdb848a69e70d5e627aa282f2ad176b5e0538",
@@ -292,16 +322,6 @@
       "timestamp": 1779831334
     },
     {
-      "id": "18db734e6371790b7aa5da10e02d42ee94a76e8d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
-      "published": "2026-05-26 20:07:31",
-      "timestamp": 1779826051
-    },
-    {
       "id": "b68996c2b5639fac00a699d1939c09f78ca06816",
       "source": "The Hacker News",
       "source_category": "General",
@@ -392,22 +412,22 @@
       "timestamp": 1779718407
     },
     {
-      "id": "a705a932489530398505f3a52ab55cff3cfccc6c",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "2 PhaaS 2 Furious: The Evolution of Chinese-language Phishing Services",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/",
-      "summary": "While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group (GTIG) analyzed a dozen current PhaaS offerings in the Chinese underground, all of them mature services and many likely tied intricately to the broader criminal ecosystem in that region. These services not only lower the barrier to entry for Chinese cyber criminals, but reveal b",
-      "published": "2026-05-25 14:00:00",
-      "timestamp": 1779717600
-    },
-    {
       "id": "a2c0b82ec383f00a597a4ed1d00c6d68c9322cd0",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
       "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability",
       "link": "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/",
       "summary": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learning Management System (LMS) developed by Digital Knowledge commonly used in Japan. Mandiant identified a critical vulnerability that allowed unauthenticated Remote Code Execution (RCE). An unknown threat actor leveraged this access to inject malicious code into the LMS platform, ",
+      "published": "2026-05-25 14:00:00",
+      "timestamp": 1779717600
+    },
+    {
+      "id": "a705a932489530398505f3a52ab55cff3cfccc6c",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "2 PhaaS 2 Furious: The Evolution of Chinese-Language Phishing Services",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/",
+      "summary": "While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group (GTIG) analyzed a dozen current PhaaS offerings in the Chinese underground, all of them mature services and many likely tied intricately to the broader criminal ecosystem in that region. These services not only lower the barrier to entry for Chinese cyber criminals, but reveal b",
       "published": "2026-05-25 14:00:00",
       "timestamp": 1779717600
     },
@@ -832,16 +852,6 @@
       "timestamp": 1779277123
     },
     {
-      "id": "7f2657a43d727dcee0d267717174ca7aecb00a12",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
-      "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
-      "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires. Download the CISO Expert Guide to Typosquatting in the AI Era \u2192 TL;DR Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts.",
-      "published": "2026-05-20 10:30:00",
-      "timestamp": 1779273000
-    },
-    {
       "id": "977950f6539442a62f5da0ac9fc093158d880ef7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1250,16 +1260,6 @@
       "summary": "Every year, the cyber threat landscape forces defenders to adapt to evolving adversary tactics, techniques, and procedures (TTPs). In 2025, Mandiant observed a clear divergence in adversary pacing that closely aligns with the trends we have been documenting for defenders over the past year. On one end of the spectrum, cyber criminal groups optimized for immediate impact and deliberate recovery denial. On the other end, sophisticated cyber espionage groups and insider threats optimized for extrem",
       "published": "2026-03-23 14:00:00",
       "timestamp": 1774274400
-    },
-    {
-      "id": "eeb66f1cd83fb2e1402aedd2f4ebf4a6900057a3",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Five Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/20/cisa-adds-five-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-31277 Apple Multiple Products Buffer Overflow Vulnerability CVE-2025-32432 Craft CMS Code Injection Vulnerability CVE-2025-43510 Apple Multiple Products Improper Locking Vulnerability CVE-2025-43520 Apple Multiple Products Classic Buffer Overflow Vulnerability CVE-2025-54068 Laravel Livewire Code Injection Vulnerability These types of vulnerabilities ar",
-      "published": "2026-03-20 12:00:00",
-      "timestamp": 1774008000
     },
     {
       "id": "e301ed5156e734a8ba607d80cf96c07dec6e0ef9",
