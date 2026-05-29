@@ -1,6 +1,56 @@
 {
-  "generated_at": 1780068255,
+  "generated_at": 1780084955,
   "items": [
+    {
+      "id": "c108ba521bf686dce8ad7d8cb2642f734d9811af",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+      "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+      "published": "2026-05-29 18:21:36",
+      "timestamp": 1780078896
+    },
+    {
+      "id": "343dafdb1824fd778c7180a14deb02f5faafa532",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "California AG sues 23andMe over 2023 breach exposing health data",
+      "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+      "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+      "published": "2026-05-29 18:08:47",
+      "timestamp": 1780078127
+    },
+    {
+      "id": "8885443004335db84a88166f1d7c6eda6a49cb5e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhish by Permiso Security. \"The chatgpt.com response renderer trusts Markdown links and Markdown",
+      "published": "2026-05-29 18:07:12",
+      "timestamp": 1780078032
+    },
+    {
+      "id": "1dec72ab1683e17bc898c189a5c50047db3b8800",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/",
+      "summary": "Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection. The post Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection appeared first on Microsoft Security Blog.",
+      "published": "2026-05-29 16:00:00",
+      "timestamp": 1780070400
+    },
+    {
+      "id": "6199eb89381e08fbaa73d9cc1c44b95cd0bae806",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. \"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
+      "published": "2026-05-29 14:39:56",
+      "timestamp": 1780065596
+    },
     {
       "id": "e05c143325e06be520cd9d36753d32c6e8b43bc7",
       "source": "BleepingComputer",
@@ -30,6 +80,16 @@
       "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
       "published": "2026-05-29 12:08:08",
       "timestamp": 1780056488
+    },
+    {
+      "id": "b800f297e0fb6a53b5b0cfcd1e7493e722c1bff5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list ",
+      "published": "2026-05-29 12:00:00",
+      "timestamp": 1780056000
     },
     {
       "id": "daeb66eb28e4ad5f848bf9c776c1fabefa83e922",
@@ -230,26 +290,6 @@
       "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
       "published": "2026-05-28 13:33:16",
       "timestamp": 1779975196
-    },
-    {
-      "id": "e54b2479b396722f5a952cfb1593cf8afd93613b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
-      "published": "2026-05-28 12:43:29",
-      "timestamp": 1779972209
-    },
-    {
-      "id": "3f2d58b60cc1779577d810aed9df54e228677209",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar: Why network incidents take too long to resolve",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-      "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
-      "published": "2026-05-28 12:20:28",
-      "timestamp": 1779970828
     },
     {
       "id": "ae375005f1b60733f75114c99abeb21394b7da95",
@@ -802,16 +842,6 @@
       "timestamp": 1779337621
     },
     {
-      "id": "9b5f1f3c1effc3f6d72d99dc66d3fd9c3f264b8b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
-      "published": "2026-05-21 03:44:11",
-      "timestamp": 1779335051
-    },
-    {
       "id": "fe9cfeb79e2fc4f0a9751911a4de1b0967d0dc9b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -822,16 +852,6 @@
       "timestamp": 1779299324
     },
     {
-      "id": "da9bb6ca154805ea5c226142db3b8a744b523e51",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-      "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
-      "published": "2026-05-20 17:06:54",
-      "timestamp": 1779296814
-    },
-    {
       "id": "1f606cef45a1337efdcac60d1e5d42d9de6e078e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -840,16 +860,6 @@
       "summary": "Read about the unique challenges and rewards of securing gaming platforms and how to better protect gaming communities. The post Securing the gaming culture of cultures appeared first on Microsoft Security Blog.",
       "published": "2026-05-20 16:00:00",
       "timestamp": 1779292800
-    },
-    {
-      "id": "b171f59cafd10a5e51553e1b2264792182d5c36a",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/",
-      "summary": "The AI systems shipping inside enterprises today are fundamentally different from the ones we were building even two years ago, because they have moved well past answering questions and into accessing your email, retrieving records from your CRM, writing and executing code, and taking actions on your behalf across dozens of connected systems. The post Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow appeared first on Microsoft Security Blog.",
-      "published": "2026-05-20 15:00:00",
-      "timestamp": 1779289200
     },
     {
       "id": "42f1bdc9b0342147e3c692e0408a253495302d87",
@@ -1240,16 +1250,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of k",
       "published": "2026-03-26 12:00:00",
       "timestamp": 1774526400
-    },
-    {
-      "id": "24d47288c4a851b5355c8cd28d5d100267d54472",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33017 Langflow Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerab",
-      "published": "2026-03-25 12:00:00",
-      "timestamp": 1774440000
     },
     {
       "id": "0be4695152778b858e8c7e3c204dbcb39fa9113d",
