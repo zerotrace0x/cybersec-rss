@@ -1,6 +1,56 @@
 {
-  "generated_at": 1780036962,
+  "generated_at": 1780055962,
   "items": [
+    {
+      "id": "ec80f2871da6b3c5952db7320a05d412754fb31a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+      "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
+      "published": "2026-05-29 11:07:07",
+      "timestamp": 1780052827
+    },
+    {
+      "id": "a465ebea2b90ddf85864561523950e89b3f9a570",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop. The artifact moved from a prompt to a product. The risk surface moved with it. In The Shadow Builders report (get it here), a",
+      "published": "2026-05-29 10:30:00",
+      "timestamp": 1780050600
+    },
+    {
+      "id": "4783b1d6e901b8378318d5747c0e92651531c58e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US charges Google security engineer with Polymarket insider trading",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+      "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
+      "published": "2026-05-29 10:11:44",
+      "timestamp": 1780049504
+    },
+    {
+      "id": "bb0cd52b2b6ac25fa58850538143de629b8f3fa8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates. According to Socket, versions 2.0.0 through 2.0.4 of \"Sicoob.Sdk\" contain functionality to exfiltrate sensitive information, including PFX certificates that are used to",
+      "published": "2026-05-29 09:11:25",
+      "timestamp": 1780045885
+    },
+    {
+      "id": "cd5a2be39473dde2851e6e4f9af1a9ea98eddbad",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
+      "published": "2026-05-29 08:29:40",
+      "timestamp": 1780043380
+    },
     {
       "id": "1e8f06c749c289d696d4423760f2a21cb5f2879e",
       "source": "The Hacker News",
@@ -242,16 +292,6 @@
       "timestamp": 1779896669
     },
     {
-      "id": "287bc337a43563097404fdc1bf6b98886a398968",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Can you enforce strong Active Directory password rules without frustrating users?",
-      "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
-      "summary": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
-      "published": "2026-05-27 14:00:10",
-      "timestamp": 1779890410
-    },
-    {
       "id": "63ee4b289d6205372bcc548f97f1d3113bb65278",
       "source": "The Hacker News",
       "source_category": "General",
@@ -262,16 +302,6 @@
       "timestamp": 1779888528
     },
     {
-      "id": "bf414058bf3c9521c8464bb106723084dc590dc9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
-      "published": "2026-05-27 13:28:42",
-      "timestamp": 1779888522
-    },
-    {
       "id": "ec93ce8b5fe538c4b6b912623b21fbdacfd5de8f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -280,16 +310,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8398 Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321 TanStack Unspecified Vulnerability CVE-2026-48027 Nx Console Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-",
       "published": "2026-05-27 12:00:00",
       "timestamp": 1779883200
-    },
-    {
-      "id": "834c2ba5c4f6a1690fda73e04d20fbc95ad7725c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
-      "published": "2026-05-27 11:51:12",
-      "timestamp": 1779882672
     },
     {
       "id": "39ee67904e42f591086223fa6eea302ce5e021dc",
@@ -832,16 +852,6 @@
       "timestamp": 1779287804
     },
     {
-      "id": "29597326dc811574a55a095cb8ade16684fc34af",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-      "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
-      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&C) communications. Webworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies",
-      "published": "2026-05-20 12:51:43",
-      "timestamp": 1779281503
-    },
-    {
       "id": "42f1bdc9b0342147e3c692e0408a253495302d87",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -850,16 +860,6 @@
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability CVE-2010-0249 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2010-0806 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2026-4109",
       "published": "2026-05-20 12:00:00",
       "timestamp": 1779278400
-    },
-    {
-      "id": "4c3cb606cbc9563d3930344f6e8da691312fbcf3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Agent AI is Coming. Are You Ready?",
-      "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
-      "summary": "New Industry Data Just Released Suggests Not. On May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of identity) now overshadows the visible elements 57% vs. 43%. And it couldn't have occurred at a worse time, with enterprises embracing Agent AI with both arms (and unfortunately, as",
-      "published": "2026-05-20 11:58:00",
-      "timestamp": 1779278280
     },
     {
       "id": "e7a111ac88c1caab60ed06a99329b457305c6477",
