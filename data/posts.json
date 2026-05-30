@@ -1,6 +1,16 @@
 {
-  "generated_at": 1780105770,
+  "generated_at": 1780121516,
   "items": [
+    {
+      "id": "1dcee58b609fa4962d8bf49ef36f5472ba085196",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/",
+      "summary": "A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed tradecraft, and detection opportunities to help organizations identify and disrupt related activity. The post Malicious npm packages abuse dependency confusion to profile developer environments appeared first on Microsoft Security Blog.",
+      "published": "2026-05-30 00:06:20",
+      "timestamp": 1780099580
+    },
     {
       "id": "c108ba521bf686dce8ad7d8cb2642f734d9811af",
       "source": "BleepingComputer",
@@ -652,7 +662,7 @@
       "timestamp": 1779469200
     },
     {
-      "id": "be9c092da9b31bd85ea89eefba1f86a46b121be2",
+      "id": "8269bbc1d2bbe2de2003c06a25bdea158ca2d274",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
@@ -762,7 +772,7 @@
       "timestamp": 1779400225
     },
     {
-      "id": "9a354714a6e632d252cc54fbbfdeaf0a8cfc4cc3",
+      "id": "b98963249aee40aa8c12d827a7ff57e4df15adb7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "What\u2019s new in Microsoft Security: May 2026",
@@ -850,16 +860,6 @@
       "summary": "Compromised @antv npm packages deploy the Mini Shai-Hulud payload to steal CI/CD secrets from Linux-based automation environments. The malware executes during npm install and targets credentials across GitHub, AWS, Kubernetes, Vault, npm, and 1Password platforms. The post Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft appeared first on Microsoft Security Blog.",
       "published": "2026-05-20 17:48:44",
       "timestamp": 1779299324
-    },
-    {
-      "id": "1f606cef45a1337efdcac60d1e5d42d9de6e078e",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Securing the gaming culture of cultures",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/",
-      "summary": "Read about the unique challenges and rewards of securing gaming platforms and how to better protect gaming communities. The post Securing the gaming culture of cultures appeared first on Microsoft Security Blog.",
-      "published": "2026-05-20 16:00:00",
-      "timestamp": 1779292800
     },
     {
       "id": "42f1bdc9b0342147e3c692e0408a253495302d87",
