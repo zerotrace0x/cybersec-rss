@@ -1,13 +1,53 @@
 {
-  "generated_at": 1780324963,
+  "generated_at": 1780343302,
   "items": [
+    {
+      "id": "f9677746a7fd4527993eb7744062aa733e890744",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+      "published": "2026-06-01 18:17:13",
+      "timestamp": 1780337833
+    },
+    {
+      "id": "df2f2687e4db3ce3e2317b4ab17d30fee7224707",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+      "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
+      "published": "2026-06-01 17:40:28",
+      "timestamp": 1780335628
+    },
+    {
+      "id": "8da2b4df80315a8f334fd6b85a4e02a386bbebe3",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+      "published": "2026-06-01 17:32:50",
+      "timestamp": 1780335170
+    },
+    {
+      "id": "35e6810ae5aa533dd81388381e6c80d867d9ae12",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WordPress malware campaign hides payloads in Steam profiles",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
+      "published": "2026-06-01 17:04:16",
+      "timestamp": 1780333456
+    },
     {
       "id": "0fbb046fbfdc74b764d56018ffb48a75cd95ef37",
       "source": "BleepingComputer",
       "source_category": "General",
       "title": "Microsoft investigates Office Apps, Teams file access issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and free Office for the web cloud-based productivity suite from opening files. [...]",
+      "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
       "published": "2026-06-01 14:36:46",
       "timestamp": 1780324606
     },
@@ -50,6 +90,16 @@
       "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]",
       "published": "2026-06-01 12:01:09",
       "timestamp": 1780315269
+    },
+    {
+      "id": "46b25ae357a174928ff4df9cc0142decff8a03fe",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Com",
+      "published": "2026-06-01 12:00:00",
+      "timestamp": 1780315200
     },
     {
       "id": "17475a923fbdce90faf2dec13f745564216918aa",
@@ -242,16 +292,6 @@
       "timestamp": 1780064796
     },
     {
-      "id": "7bc01fd05450cd7eb44db30e0a1decee8b1c4562",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google Chrome adds session cookie theft protection for all users",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-      "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
-      "published": "2026-05-29 12:08:08",
-      "timestamp": 1780056488
-    },
-    {
       "id": "b800f297e0fb6a53b5b0cfcd1e7493e722c1bff5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -270,16 +310,6 @@
       "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
       "published": "2026-05-29 11:31:59",
       "timestamp": 1780054319
-    },
-    {
-      "id": "ec80f2871da6b3c5952db7320a05d412754fb31a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
-      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-      "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
-      "published": "2026-05-29 11:07:07",
-      "timestamp": 1780052827
     },
     {
       "id": "a465ebea2b90ddf85864561523950e89b3f9a570",
@@ -812,16 +842,6 @@
       "timestamp": 1779439818
     },
     {
-      "id": "ad556a4ca8aaac8cb78a86c5ed65ef1911dd6e28",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
-      "published": "2026-05-22 05:47:33",
-      "timestamp": 1779428853
-    },
-    {
       "id": "4ddc41b5c4d57bc8a171400b485265395c937e84",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1162,16 +1182,6 @@
       "timestamp": 1775649600
     },
     {
-      "id": "7640a15bf8cd2219eee4c4ee7be0e9cc78c83e9e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
-      "published": "2026-04-07 17:02:44",
-      "timestamp": 1775581364
-    },
-    {
       "id": "5e193a88ce050bc7665b3057fc6cc92142a018e8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1240,16 +1250,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common ",
       "published": "2026-03-27 12:00:00",
       "timestamp": 1774612800
-    },
-    {
-      "id": "edd6e7e8a04991e080956ed2383b1908443f74df",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33634 Aqua Security Trivy Embedded Malicious Code Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of k",
-      "published": "2026-03-26 12:00:00",
-      "timestamp": 1774526400
     },
     {
       "id": "0be4695152778b858e8c7e3c204dbcb39fa9113d",
