@@ -1,6 +1,76 @@
 {
-  "generated_at": 1780424865,
+  "generated_at": 1780440748,
   "items": [
+    {
+      "id": "83d8ba0ab80a797dd842b2d979ad0a9ee0f1483f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+      "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
+      "published": "2026-06-02 22:44:50",
+      "timestamp": 1780440290
+    },
+    {
+      "id": "15897b705eb7219c52a60d0794fc3b7a15c2e5d1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+      "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
+      "published": "2026-06-02 22:12:57",
+      "timestamp": 1780438377
+    },
+    {
+      "id": "f19019e97ba6277f5e3f4b6fec1e9471ac4ad5d0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+      "published": "2026-06-02 21:54:49",
+      "timestamp": 1780437289
+    },
+    {
+      "id": "f7523a6a88f580b0bc9699644aa35089b1205d48",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+      "published": "2026-06-02 20:01:20",
+      "timestamp": 1780430480
+    },
+    {
+      "id": "c803ad51168d7eed26d3e329f8c00361b615aff8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without requiring any user interaction. The",
+      "published": "2026-06-02 18:46:00",
+      "timestamp": 1780425960
+    },
+    {
+      "id": "c2b696804de25ac0a93ad668a158313bd69c3956",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
+      "published": "2026-06-02 18:21:49",
+      "timestamp": 1780424509
+    },
+    {
+      "id": "06e567e47c63b2727c9a37df67141e4f739a53d9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was",
+      "published": "2026-06-02 18:14:42",
+      "timestamp": 1780424082
+    },
     {
       "id": "8cb1c75f9faf20ab6415643bf4175aaa1a5471b2",
       "source": "Microsoft Security Blog",
@@ -50,6 +120,16 @@
       "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
       "published": "2026-06-02 12:40:33",
       "timestamp": 1780404033
+    },
+    {
+      "id": "85385a568c39991bdc5933b1e07be7102a67c7b0",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vul",
+      "published": "2026-06-02 12:00:00",
+      "timestamp": 1780401600
     },
     {
       "id": "a2e4766d65ab297a5823119a5052cfb96492f122",
@@ -182,16 +262,6 @@
       "timestamp": 1780324606
     },
     {
-      "id": "24d19b7769e974b28905e618e7950f00e1b0b957",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
-      "published": "2026-06-01 14:00:10",
-      "timestamp": 1780322410
-    },
-    {
       "id": "7f4b17afe6c928ee4666d6380a725a8e2e9379ce",
       "source": "The Hacker News",
       "source_category": "General",
@@ -200,26 +270,6 @@
       "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought 'curl | sh' had a personality. The vibe is simple: old",
       "published": "2026-06-01 13:59:54",
       "timestamp": 1780322394
-    },
-    {
-      "id": "57fcccb32ff2fff642a1003fba3f938a3c5e5b20",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
-      "published": "2026-06-01 12:30:27",
-      "timestamp": 1780317027
-    },
-    {
-      "id": "e1b240e24f3a9ad0dc6512ca69270a31baf224e9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar tomorrow: From alert to resolution in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-      "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]",
-      "published": "2026-06-01 12:01:09",
-      "timestamp": 1780315269
     },
     {
       "id": "46b25ae357a174928ff4df9cc0142decff8a03fe",
@@ -240,16 +290,6 @@
       "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phishing emails containing ZIP attachments",
       "published": "2026-06-01 11:54:24",
       "timestamp": 1780314864
-    },
-    {
-      "id": "9ca013c780b3a2b506446dd79f62bd05cf35e584",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "summary": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
-      "published": "2026-06-01 11:40:16",
-      "timestamp": 1780314016
     },
     {
       "id": "fe9208a3b873b791a47794d1ea86f5297fd943a9",
@@ -772,36 +812,6 @@
       "timestamp": 1779529873
     },
     {
-      "id": "1cfa931defa472dd5125e92f47302802934fe0b6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-      "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an attacker or a compromised account) may",
-      "published": "2026-05-23 07:35:13",
-      "timestamp": 1779521713
-    },
-    {
-      "id": "5cc3d0c8184cd7a7a327c884e151321f444c7c77",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core. \"Drupal Core",
-      "published": "2026-05-23 07:23:48",
-      "timestamp": 1779521028
-    },
-    {
-      "id": "e11b84b0551610d0d7bad358785230151efa1507",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-      "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
-      "published": "2026-05-22 17:35:02",
-      "timestamp": 1779471302
-    },
-    {
       "id": "d3792bff796613d516d2b46465cc5173df3f878b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -938,8 +948,8 @@
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "published": "2026-05-13 00:00:00",
-      "timestamp": 1778630400
+      "published": "2026-05-13 07:00:00",
+      "timestamp": 1778655600
     },
     {
       "id": "8d310f5cc84936c734662f17fa5163c7dd3cc426",
@@ -1242,16 +1252,6 @@
       "timestamp": 1774872000
     },
     {
-      "id": "45744ef2584dd57488abe54a55275bf0eb1dd0ff",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common ",
-      "published": "2026-03-27 12:00:00",
-      "timestamp": 1774612800
-    },
-    {
       "id": "0be4695152778b858e8c7e3c204dbcb39fa9113d",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1308,8 +1308,8 @@
       "title": "On the Effectiveness of Mutational Grammar Fuzzing",
       "link": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
       "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the ",
-      "published": "2026-03-05 00:00:00",
-      "timestamp": 1772668800
+      "published": "2026-03-05 08:00:00",
+      "timestamp": 1772697600
     },
     {
       "id": "f118722ea9b6f9f7d29f0bd4e3d22edaa531e7ed",
@@ -1328,8 +1328,8 @@
       "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
       "link": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
       "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn\u2019t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don\u2019t know about, assuming it\u2019s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation\u2019s remark",
-      "published": "2026-02-26 00:00:00",
-      "timestamp": 1772064000
+      "published": "2026-02-26 08:00:00",
+      "timestamp": 1772092800
     },
     {
       "id": "c7780efd0e6a0d77c70ba8664bac9a869e49ce82",
@@ -1368,8 +1368,8 @@
       "title": "Bypassing Administrator Protection by Abusing UI Access",
       "link": "https://projectzero.google/2026/02/windows-administrator-protection.html",
       "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn\u2019t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
-      "published": "2026-02-12 00:00:00",
-      "timestamp": 1770854400
+      "published": "2026-02-12 08:00:00",
+      "timestamp": 1770883200
     },
     {
       "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
@@ -1398,8 +1398,8 @@
       "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
       "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
       "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
-      "published": "2026-01-30 00:00:00",
-      "timestamp": 1769731200
+      "published": "2026-01-30 08:00:00",
+      "timestamp": 1769760000
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
@@ -1408,8 +1408,8 @@
       "title": "Bypassing Windows Administrator Protection",
       "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
-      "published": "2026-01-26 00:00:00",
-      "timestamp": 1769385600
+      "published": "2026-01-26 08:00:00",
+      "timestamp": 1769414400
     },
     {
       "id": "49220fa9cd9cad5f8031e0d3ed185b153c0a6c15",
@@ -1418,8 +1418,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
       "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
-      "published": "2026-01-14 10:01:00",
-      "timestamp": 1768384860
+      "published": "2026-01-14 18:01:00",
+      "timestamp": 1768413660
     },
     {
       "id": "35d01a4a81f61e3097583fe69ef74c1451a9932f",
@@ -1428,8 +1428,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
       "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
-      "published": "2026-01-14 10:00:00",
-      "timestamp": 1768384800
+      "published": "2026-01-14 18:00:00",
+      "timestamp": 1768413600
     },
     {
       "id": "dbb460bbb0c787324b208477ec5d48ba09fd48d6",
@@ -1438,8 +1438,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
       "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
-      "published": "2026-01-14 09:59:00",
-      "timestamp": 1768384740
+      "published": "2026-01-14 17:59:00",
+      "timestamp": 1768413540
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
