@@ -1,6 +1,46 @@
 {
-  "generated_at": 1780384407,
+  "generated_at": 1780403480,
   "items": [
+    {
+      "id": "a2e4766d65ab297a5823119a5052cfb96492f122",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
+      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days. The industry's",
+      "published": "2026-06-02 11:58:00",
+      "timestamp": 1780401480
+    },
+    {
+      "id": "9cbcfac931fbbf328d449cb801454a47cce87bd9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+      "published": "2026-06-02 11:10:15",
+      "timestamp": 1780398615
+    },
+    {
+      "id": "b669f3ed5ec111732e81b49e697a22799acd7488",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment. But owning EDR",
+      "published": "2026-06-02 10:30:00",
+      "timestamp": 1780396200
+    },
+    {
+      "id": "e4f83c1a4abf8b833035490299e631a4a11fe98f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+      "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,\"",
+      "published": "2026-06-02 09:05:40",
+      "timestamp": 1780391140
+    },
     {
       "id": "e06a24fed89b4e0adf6e6f44d77716483a7a24d2",
       "source": "The Hacker News",
@@ -260,16 +300,6 @@
       "summary": "A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed tradecraft, and detection opportunities to help organizations identify and disrupt related activity. The post Malicious npm packages abuse dependency confusion to profile developer environments appeared first on Microsoft Security Blog.",
       "published": "2026-05-30 00:06:20",
       "timestamp": 1780099580
-    },
-    {
-      "id": "c108ba521bf686dce8ad7d8cb2642f734d9811af",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
-      "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
-      "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
-      "published": "2026-05-29 18:21:36",
-      "timestamp": 1780078896
     },
     {
       "id": "8885443004335db84a88166f1d7c6eda6a49cb5e",
@@ -772,7 +802,7 @@
       "timestamp": 1779469200
     },
     {
-      "id": "be9c092da9b31bd85ea89eefba1f86a46b121be2",
+      "id": "8269bbc1d2bbe2de2003c06a25bdea158ca2d274",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
@@ -790,16 +820,6 @@
       "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
       "published": "2026-05-22 16:34:24",
       "timestamp": 1779467664
-    },
-    {
-      "id": "29193b301671c120b495c947973b994021180b8d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
-      "published": "2026-05-22 16:20:32",
-      "timestamp": 1779466832
     },
     {
       "id": "408102fd28598d44f336b456fdd59179dae79396",
@@ -820,26 +840,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnera",
       "published": "2026-05-22 12:00:00",
       "timestamp": 1779451200
-    },
-    {
-      "id": "1217117e7c7a27416d211abcc2080f60b096f889",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
-      "published": "2026-05-22 11:55:24",
-      "timestamp": 1779450924
-    },
-    {
-      "id": "49a657dd91f507363e16becc865684661bc9644d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-      "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The",
-      "published": "2026-05-22 11:38:12",
-      "timestamp": 1779449892
     },
     {
       "id": "4ddc41b5c4d57bc8a171400b485265395c937e84",
@@ -872,7 +872,7 @@
       "timestamp": 1779364800
     },
     {
-      "id": "a089901e73253db2e8b92288947a57cd68e4eeba",
+      "id": "fe9cfeb79e2fc4f0a9751911a4de1b0967d0dc9b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft",
