@@ -1,6 +1,76 @@
 {
-  "generated_at": 1780471665,
+  "generated_at": 1780491763,
   "items": [
+    {
+      "id": "542c09ea88e30ee8e16ad99c40d432034a0be4f9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+      "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous systems. The result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and beyond the reach of",
+      "published": "2026-06-03 11:58:00",
+      "timestamp": 1780487880
+    },
+    {
+      "id": "cdb62c139e629cc66a6305e79970cf46b213a40d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "summary": "Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
+      "published": "2026-06-03 11:35:47",
+      "timestamp": 1780486547
+    },
+    {
+      "id": "5b1502bdfcd692d817b072bf61fead4ed0d50df7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does. That is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
+      "published": "2026-06-03 11:28:59",
+      "timestamp": 1780486139
+    },
+    {
+      "id": "a67da9d8d820348aaa9e74be1a88ad4384591af0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress. CVE-2026-33829 refers to a spoofing vulnerability that could expose",
+      "published": "2026-06-03 10:18:52",
+      "timestamp": 1780481932
+    },
+    {
+      "id": "f3e7ee498c44f3362ee1190e4b9c6a8669986849",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "summary": "European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
+      "published": "2026-06-03 10:12:24",
+      "timestamp": 1780481544
+    },
+    {
+      "id": "623d4c5ebdb43d841df3cc4462dc20ee0cf0579b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "summary": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
+      "published": "2026-06-03 09:02:11",
+      "timestamp": 1780477331
+    },
+    {
+      "id": "a7f3f53453bc8818b14f67f72736937fb289ce60",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Calif. \"The vulnerable behavior exists in each server's default HTTP/2 configuration,\" the company said, adding it was discovered by OpenAI Codex by chaining",
+      "published": "2026-06-03 08:33:35",
+      "timestamp": 1780475615
+    },
     {
       "id": "b48dffbaf2becaec9f4cfc572f85a2d64dcc2779",
       "source": "BleepingComputer",
@@ -230,36 +300,6 @@
       "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
       "published": "2026-06-01 22:14:19",
       "timestamp": 1780352059
-    },
-    {
-      "id": "a32ab80b7baceb91763530aa3a01742d84aaf507",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
-      "published": "2026-06-01 21:38:29",
-      "timestamp": 1780349909
-    },
-    {
-      "id": "e702a9bb6d0d75788c628e911b238ae2e2f08570",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Spain arrests doxer leaking sensitive data of govt employees",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
-      "published": "2026-06-01 21:28:41",
-      "timestamp": 1780349321
-    },
-    {
-      "id": "f9677746a7fd4527993eb7744062aa733e890744",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
-      "published": "2026-06-01 18:17:13",
-      "timestamp": 1780337833
     },
     {
       "id": "df2f2687e4db3ce3e2317b4ab17d30fee7224707",
@@ -780,46 +820,6 @@
       "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader. \"DPAPILoader decrypts and",
       "published": "2026-05-25 09:32:54",
       "timestamp": 1779701574
-    },
-    {
-      "id": "032d0ed1fef1c625ff13939165d8b551f4d4f57c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of",
-      "published": "2026-05-25 05:59:13",
-      "timestamp": 1779688753
-    },
-    {
-      "id": "ef99417525add1bd00b1c2928ce00a0c7a9862c2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
-      "published": "2026-05-23 16:35:10",
-      "timestamp": 1779554110
-    },
-    {
-      "id": "6831ec3ddd184992dc31e348e26c2c42156603ea",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
-      "published": "2026-05-23 16:07:51",
-      "timestamp": 1779552471
-    },
-    {
-      "id": "d1b49670b41b49a021d9243a93243c1af3ca03f0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-      "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
-      "published": "2026-05-23 11:55:35",
-      "timestamp": 1779537335
     },
     {
       "id": "d3792bff796613d516d2b46465cc5173df3f878b",
