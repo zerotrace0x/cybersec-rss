@@ -1,6 +1,66 @@
 {
-  "generated_at": 1780511858,
+  "generated_at": 1780527340,
   "items": [
+    {
+      "id": "f6929e032bd20bd1ff15ae40a6f31b0ea3d8fd83",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+      "published": "2026-06-03 21:45:27",
+      "timestamp": 1780523127
+    },
+    {
+      "id": "cec97e46017827da2cc744cf59a2ca5d5a6332e2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
+      "published": "2026-06-03 20:31:22",
+      "timestamp": 1780518682
+    },
+    {
+      "id": "229815d40c5eb7f12ea00bb154d731f4660bd193",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]",
+      "published": "2026-06-03 20:21:56",
+      "timestamp": 1780518116
+    },
+    {
+      "id": "f840b9acc887aecdbbfa8eef35c58a7957cb52e8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the phone into a Zoom call, or quietly poison its long-term memory. No malicious app on the phone is required. The assistant just had to treat a hostile",
+      "published": "2026-06-03 19:11:15",
+      "timestamp": 1780513875
+    },
+    {
+      "id": "2ad66f9040313abdd96e8791611d05caedcc93ca",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+      "published": "2026-06-03 19:08:19",
+      "timestamp": 1780513699
+    },
+    {
+      "id": "8b231335b42f968f8487af68c5513ee8bf70e04f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a legitimate Google-owned domain that many security tools are less likely to treat as",
+      "published": "2026-06-03 16:29:16",
+      "timestamp": 1780504156
+    },
     {
       "id": "3a0d5f6d000fba75d1828e4ed4296bc5847cdfcd",
       "source": "BleepingComputer",
@@ -12,6 +72,26 @@
       "timestamp": 1780500976
     },
     {
+      "id": "5b1502bdfcd692d817b072bf61fead4ed0d50df7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does. That is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
+      "published": "2026-06-03 14:56:46",
+      "timestamp": 1780498606
+    },
+    {
+      "id": "9972428bc04b122dc858e20b95e9707ecefd9bce",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the same phone could ask for the signed-in user's token and get it, then read email, open files, browse the calendar, and send messages as that user. No password, no login screen, no permission prompt.",
+      "published": "2026-06-03 14:56:35",
+      "timestamp": 1780498595
+    },
+    {
       "id": "0c0f28bff4130ffb432a5f7eaaa7266ee46ee888",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -20,6 +100,16 @@
       "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
       "published": "2026-06-03 14:02:12",
       "timestamp": 1780495332
+    },
+    {
+      "id": "7a29dcf1f8e2af7131dd857922476c66707d2595",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
+      "published": "2026-06-03 13:47:09",
+      "timestamp": 1780494429
     },
     {
       "id": "fa84572b85727aed1cfa1d7acd648b6202913889",
@@ -60,16 +150,6 @@
       "summary": "Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
       "published": "2026-06-03 11:35:47",
       "timestamp": 1780486547
-    },
-    {
-      "id": "5b1502bdfcd692d817b072bf61fead4ed0d50df7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
-      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does. That is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
-      "published": "2026-06-03 11:28:59",
-      "timestamp": 1780486139
     },
     {
       "id": "a67da9d8d820348aaa9e74be1a88ad4384591af0",
@@ -230,46 +310,6 @@
       "summary": "Discover how Microsoft enables fast, secure AI development with MDASH and new security capabilities. The post Microsoft Build 2026: Securing code, agents, and models across the development lifecycle appeared first on Microsoft Security Blog.",
       "published": "2026-06-02 17:15:18",
       "timestamp": 1780420518
-    },
-    {
-      "id": "5a0592339e8d8226167cc05a1cc12249a2512954",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Exchange Online outage causes email delays, failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-      "summary": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
-      "published": "2026-06-02 17:02:40",
-      "timestamp": 1780419760
-    },
-    {
-      "id": "c763b74b3482a52ca9a29a576f2a14263d84c06a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Instagram users locked out after Meta AI abused to steal accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-      "summary": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
-      "published": "2026-06-02 15:47:33",
-      "timestamp": 1780415253
-    },
-    {
-      "id": "2c1a4aa7aea3e6c0d5004ebf952e7c0155c0205b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why the browser is now the front line for AI security",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "summary": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
-      "published": "2026-06-02 14:30:40",
-      "timestamp": 1780410640
-    },
-    {
-      "id": "a637b61d79a913c66691b09edb2581a317fed65e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
-      "published": "2026-06-02 12:40:33",
-      "timestamp": 1780404033
     },
     {
       "id": "85385a568c39991bdc5933b1e07be7102a67c7b0",
@@ -512,7 +552,7 @@
       "timestamp": 1780034261
     },
     {
-      "id": "3d8c96f01c7b76d6e4e28374f55581bfd3591549",
+      "id": "7b9b07c00592cae176e0ac90367166c642c6574c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
@@ -762,26 +802,6 @@
       "timestamp": 1779779585
     },
     {
-      "id": "ad6020f49e4a9d302f7f18cd1328ec60662f8ef6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
-      "published": "2026-05-26 05:19:38",
-      "timestamp": 1779772778
-    },
-    {
-      "id": "2691feacfa30e6b4e8358562af9820f0c776bd4c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "summary": "Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times. Phishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually",
-      "published": "2026-05-25 14:13:27",
-      "timestamp": 1779718407
-    },
-    {
       "id": "a2c0b82ec383f00a597a4ed1d00c6d68c9322cd0",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -810,26 +830,6 @@
       "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
       "published": "2026-05-25 13:21:49",
       "timestamp": 1779715309
-    },
-    {
-      "id": "0a65b121ce8a450c16822012859a7830e84d5385",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost's Content API that could allow an unauthenticated attacker to read arbitrary data from the",
-      "published": "2026-05-25 12:02:46",
-      "timestamp": 1779710566
-    },
-    {
-      "id": "00836956064c718bbf4923ca6a8244d75fbd7195",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Alert Firehose Finally Meets Its Match",
-      "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-      "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch threats earlier, triage faster, and chase fewer false positives. The old complaint lingers in part because reputations are sticky, and because NDR has evolved",
-      "published": "2026-05-25 11:30:00",
-      "timestamp": 1779708600
     },
     {
       "id": "d3792bff796613d516d2b46465cc5173df3f878b",
@@ -862,7 +862,7 @@
       "timestamp": 1779467664
     },
     {
-      "id": "408102fd28598d44f336b456fdd59179dae79396",
+      "id": "884fef0ac6b0264232c52b680c51c61e4eab237d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft Security success stories: How St. Luke\u2019s and ManpowerGroup are securing AI foundations",
