@@ -1,6 +1,46 @@
 {
-  "generated_at": 1780491763,
+  "generated_at": 1780511858,
   "items": [
+    {
+      "id": "3a0d5f6d000fba75d1828e4ed4296bc5847cdfcd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+      "published": "2026-06-03 15:36:16",
+      "timestamp": 1780500976
+    },
+    {
+      "id": "0c0f28bff4130ffb432a5f7eaaa7266ee46ee888",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
+      "published": "2026-06-03 14:02:12",
+      "timestamp": 1780495332
+    },
+    {
+      "id": "fa84572b85727aed1cfa1d7acd648b6202913889",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
+      "published": "2026-06-03 12:58:22",
+      "timestamp": 1780491502
+    },
+    {
+      "id": "d6ad5e7a821dd4ad12c67800f42d04d5138e9011",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog",
+      "published": "2026-06-03 12:00:00",
+      "timestamp": 1780488000
+    },
     {
       "id": "542c09ea88e30ee8e16ad99c40d432034a0be4f9",
       "source": "The Hacker News",
@@ -252,16 +292,6 @@
       "timestamp": 1780401480
     },
     {
-      "id": "9cbcfac931fbbf328d449cb801454a47cce87bd9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
-      "published": "2026-06-02 11:10:15",
-      "timestamp": 1780398615
-    },
-    {
       "id": "b669f3ed5ec111732e81b49e697a22799acd7488",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +320,6 @@
       "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)",
       "published": "2026-06-02 03:55:25",
       "timestamp": 1780372525
-    },
-    {
-      "id": "d98ef51abe980dd21772663f4909590e1bd9a438",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-      "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
-      "published": "2026-06-01 22:14:19",
-      "timestamp": 1780352059
     },
     {
       "id": "df2f2687e4db3ce3e2317b4ab17d30fee7224707",
@@ -812,16 +832,6 @@
       "timestamp": 1779708600
     },
     {
-      "id": "6ecfa2dfb1a4d75394432f6546826412283e0f98",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader. \"DPAPILoader decrypts and",
-      "published": "2026-05-25 09:32:54",
-      "timestamp": 1779701574
-    },
-    {
       "id": "d3792bff796613d516d2b46465cc5173df3f878b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1240,16 +1250,6 @@
       "summary": "Written by: Austin Larsen, Dima Lenz, Adrian Hernandez, Tyler McLellan, Christopher Gardner, Ashley Zaya, Michael Rudden, Mon Liclican, Muhammad Umair Introduction Google Threat Intelligence Group (GTIG) is tracking an active software supply chain attack targeting the popular Node Package Manager (NPM) package \"axios.\" Between March 31, 2026, 00:21 and 03:20 UTC, an attacker introduced a malicious dependency named \"plain-crypto-js\" into axios NPM releases versions 1.14.1 and 0.30.4. Axios is the",
       "published": "2026-03-31 14:00:00",
       "timestamp": 1774965600
-    },
-    {
-      "id": "822b3727bdf08b36efb1aa242751278167423946",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Comm",
-      "published": "2026-03-30 12:00:00",
-      "timestamp": 1774872000
     },
     {
       "id": "0be4695152778b858e8c7e3c204dbcb39fa9113d",
