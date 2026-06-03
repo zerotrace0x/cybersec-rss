@@ -1,6 +1,36 @@
 {
-  "generated_at": 1780453706,
+  "generated_at": 1780471665,
   "items": [
+    {
+      "id": "b48dffbaf2becaec9f4cfc572f85a2d64dcc2779",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
+      "published": "2026-06-03 06:50:30",
+      "timestamp": 1780469430
+    },
+    {
+      "id": "5e3c23ced73872b2c3794c4f80bba9f9f68889da",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820",
+      "published": "2026-06-03 06:16:54",
+      "timestamp": 1780467414
+    },
+    {
+      "id": "891675e282cb009ac20439ad75b5104935cb85e0",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
+      "summary": "A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization. The post Preinstall to persistence: Inside the Red Hat npm Miasma credential-st",
+      "published": "2026-06-03 04:45:06",
+      "timestamp": 1780461906
+    },
     {
       "id": "38a3cefd425f22efa112532731aed4483c2f5a48",
       "source": "BleepingComputer",
@@ -32,11 +62,11 @@
       "timestamp": 1780438377
     },
     {
-      "id": "f19019e97ba6277f5e3f4b6fec1e9471ac4ad5d0",
+      "id": "635ba9a6f0cbf3317c53ae482787095fb734aaf1",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
       "published": "2026-06-02 21:54:49",
       "timestamp": 1780437289
@@ -250,16 +280,6 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
       "published": "2026-06-01 17:32:50",
       "timestamp": 1780335170
-    },
-    {
-      "id": "35e6810ae5aa533dd81388381e6c80d867d9ae12",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-      "published": "2026-06-01 17:04:16",
-      "timestamp": 1780333456
     },
     {
       "id": "7f4b17afe6c928ee4666d6380a725a8e2e9379ce",
@@ -802,16 +822,6 @@
       "timestamp": 1779537335
     },
     {
-      "id": "6c83e2817cc4a33fa0f29c225d08974d2704a78b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of the newly published tags",
-      "published": "2026-05-23 09:51:13",
-      "timestamp": 1779529873
-    },
-    {
       "id": "d3792bff796613d516d2b46465cc5173df3f878b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -870,16 +880,6 @@
       "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal h",
       "published": "2026-05-21 21:50:25",
       "timestamp": 1779400225
-    },
-    {
-      "id": "9a354714a6e632d252cc54fbbfdeaf0a8cfc4cc3",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "What\u2019s new in Microsoft Security: May 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/21/whats-new-in-microsoft-security-may-2026/",
-      "summary": "Microsoft Security\u2019s latest updates extend visibility, control, and protection across expanding ecosystems as organizations accelerate AI adoption. The post What\u2019s new in Microsoft Security: May 2026 appeared first on Microsoft Security Blog.",
-      "published": "2026-05-21 16:00:00",
-      "timestamp": 1779379200
     },
     {
       "id": "411367f129678497a305e1e536130db42510e9d9",
