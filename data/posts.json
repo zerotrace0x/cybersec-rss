@@ -1,6 +1,56 @@
 {
-  "generated_at": 1780573293,
+  "generated_at": 1780583150,
   "items": [
+    {
+      "id": "5afacf0c539747ff4ee26e53ac21b0b6a6a585d9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "summary": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]",
+      "published": "2026-06-04 14:01:11",
+      "timestamp": 1780581671
+    },
+    {
+      "id": "2e88fcfebe8b4679be015fe3dfea1dc71413fe35",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "summary": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
+      "published": "2026-06-04 13:41:42",
+      "timestamp": 1780580502
+    },
+    {
+      "id": "165537ad52b61c9946a98d7b778be9c1729c9f19",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+      "summary": "French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union. [...]",
+      "published": "2026-06-04 12:29:12",
+      "timestamp": 1780576152
+    },
+    {
+      "id": "9f8669c23b3520310933604166712f4786901dce",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
+      "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
+      "published": "2026-06-04 12:22:25",
+      "timestamp": 1780575745
+    },
+    {
+      "id": "aa1ccaf2724d1037802aaf5cd7be5986cfa7bd4e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
+      "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
+      "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto Networks Unit 42, the campaign is said to be the next stage of a previously reported activity cluster dubbed JSCoreRunner (aka FileRipple) in late August 2025. The cybercrime group behind the two attack chains is",
+      "published": "2026-06-04 11:19:53",
+      "timestamp": 1780571993
+    },
     {
       "id": "6bcf09e9791104b2012e44adefc3bf93d1153f81",
       "source": "BleepingComputer",
@@ -30,16 +80,6 @@
       "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity. Symantec and Carbon Black's Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:",
       "published": "2026-06-04 09:33:57",
       "timestamp": 1780565637
-    },
-    {
-      "id": "76d9de85d37bc4da224a7b74232f50d2ff92b875",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
-      "published": "2026-06-04 07:19:33",
-      "timestamp": 1780557573
     },
     {
       "id": "d3dd3b52773e7829e1a7a489877496fa7e53d4cb",
@@ -102,6 +142,36 @@
       "timestamp": 1780513699
     },
     {
+      "id": "fa84572b85727aed1cfa1d7acd648b6202913889",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
+      "published": "2026-06-03 17:58:00",
+      "timestamp": 1780509480
+    },
+    {
+      "id": "7a29dcf1f8e2af7131dd857922476c66707d2595",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
+      "published": "2026-06-03 16:40:00",
+      "timestamp": 1780504800
+    },
+    {
+      "id": "76d9de85d37bc4da224a7b74232f50d2ff92b875",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
+      "published": "2026-06-03 16:30:00",
+      "timestamp": 1780504200
+    },
+    {
       "id": "8b231335b42f968f8487af68c5513ee8bf70e04f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -150,26 +220,6 @@
       "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
       "published": "2026-06-03 14:02:12",
       "timestamp": 1780495332
-    },
-    {
-      "id": "7a29dcf1f8e2af7131dd857922476c66707d2595",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
-      "published": "2026-06-03 13:47:09",
-      "timestamp": 1780494429
-    },
-    {
-      "id": "fa84572b85727aed1cfa1d7acd648b6202913889",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
-      "published": "2026-06-03 12:58:22",
-      "timestamp": 1780491502
     },
     {
       "id": "d6ad5e7a821dd4ad12c67800f42d04d5138e9011",
@@ -280,36 +330,6 @@
       "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
       "published": "2026-06-02 22:52:40",
       "timestamp": 1780440760
-    },
-    {
-      "id": "83d8ba0ab80a797dd842b2d979ad0a9ee0f1483f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
-      "published": "2026-06-02 22:44:50",
-      "timestamp": 1780440290
-    },
-    {
-      "id": "15897b705eb7219c52a60d0794fc3b7a15c2e5d1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "published": "2026-06-02 22:12:57",
-      "timestamp": 1780438377
-    },
-    {
-      "id": "635ba9a6f0cbf3317c53ae482787095fb734aaf1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
-      "published": "2026-06-02 21:54:49",
-      "timestamp": 1780437289
     },
     {
       "id": "c803ad51168d7eed26d3e329f8c00361b615aff8",
@@ -772,16 +792,6 @@
       "timestamp": 1779831334
     },
     {
-      "id": "b68996c2b5639fac00a699d1939c09f78ca06816",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.",
-      "published": "2026-05-26 15:48:41",
-      "timestamp": 1779810521
-    },
-    {
       "id": "7840ff7a7b83a71cc2c8d5e1d3851fcc83ae5033",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -790,16 +800,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "2026-05-26 12:00:00",
       "timestamp": 1779796800
-    },
-    {
-      "id": "0df69eb8e87a0822bf6388bbba5a8b184336c737",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop. According to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and",
-      "published": "2026-05-26 11:58:00",
-      "timestamp": 1779796680
     },
     {
       "id": "a2c0b82ec383f00a597a4ed1d00c6d68c9322cd0",
