@@ -1,6 +1,56 @@
 {
-  "generated_at": 1780583150,
+  "generated_at": 1780594582,
   "items": [
+    {
+      "id": "946e8c8bed0c21b8687b089d9a8e72c1e2f1e0e6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway. The flaw is a server-side request forgery.",
+      "published": "2026-06-04 16:55:51",
+      "timestamp": 1780592151
+    },
+    {
+      "id": "44ac31242cf45dd50d8fbfbe39a8bd67cf30b968",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
+      "published": "2026-06-04 16:38:49",
+      "timestamp": 1780591129
+    },
+    {
+      "id": "fbe49597be354eae5b9d5e2e40f01241b13cc396",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
+      "published": "2026-06-04 15:25:37",
+      "timestamp": 1780586737
+    },
+    {
+      "id": "55201421d6f4dfa092dd50341fa7ee258f936995",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it. RyotaK of GMO",
+      "published": "2026-06-04 15:15:26",
+      "timestamp": 1780586126
+    },
+    {
+      "id": "d21e7513c43a3666a30d5daa69189e36651d13d3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+      "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was",
+      "published": "2026-06-04 15:10:00",
+      "timestamp": 1780585800
+    },
     {
       "id": "5afacf0c539747ff4ee26e53ac21b0b6a6a585d9",
       "source": "BleepingComputer",
@@ -10,6 +60,16 @@
       "summary": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]",
       "published": "2026-06-04 14:01:11",
       "timestamp": 1780581671
+    },
+    {
+      "id": "9cf0c8cb356a697348100c56dd0d64ebaaa1e62b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
+      "summary": "It got stupid again. The internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff is normal. Forums go down and come back worse. Cheap hackers get better toys. AI starts breaking real systems. Great. Read the whole thing before it ruins your week anyway. Unauthenticated",
+      "published": "2026-06-04 14:00:49",
+      "timestamp": 1780581649
     },
     {
       "id": "2e88fcfebe8b4679be015fe3dfea1dc71413fe35",
@@ -35,7 +95,7 @@
       "id": "9f8669c23b3520310933604166712f4786901dce",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
       "published": "2026-06-04 12:22:25",
@@ -292,16 +352,6 @@
       "timestamp": 1780475615
     },
     {
-      "id": "b48dffbaf2becaec9f4cfc572f85a2d64dcc2779",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
-      "published": "2026-06-03 06:50:30",
-      "timestamp": 1780469430
-    },
-    {
       "id": "5e3c23ced73872b2c3794c4f80bba9f9f68889da",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,16 +370,6 @@
       "summary": "A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization. The post Preinstall to persistence: Inside the Red Hat npm Miasma credential-st",
       "published": "2026-06-03 04:45:06",
       "timestamp": 1780461906
-    },
-    {
-      "id": "38a3cefd425f22efa112532731aed4483c2f5a48",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-      "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
-      "published": "2026-06-02 22:52:40",
-      "timestamp": 1780440760
     },
     {
       "id": "c803ad51168d7eed26d3e329f8c00361b615aff8",
@@ -612,7 +652,7 @@
       "timestamp": 1780034261
     },
     {
-      "id": "7b9b07c00592cae176e0ac90367166c642c6574c",
+      "id": "3d8c96f01c7b76d6e4e28374f55581bfd3591549",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
@@ -742,46 +782,6 @@
       "timestamp": 1779883200
     },
     {
-      "id": "39ee67904e42f591086223fa6eea302ce5e021dc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions. \"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a",
-      "published": "2026-05-27 11:48:37",
-      "timestamp": 1779882517
-    },
-    {
-      "id": "47e0c407d751f868000ad73dd55a414ee7eeb424",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-      "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity, hide inside legitimate processes, and quietly accumulate risk long before anyone labels them an \"incident.\" That changes the role of the SOC entirely. The",
-      "published": "2026-05-27 11:45:00",
-      "timestamp": 1779882300
-    },
-    {
-      "id": "ac5c74f7430989ffaea1f1398151ae4df959df38",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-      "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all versions of Gitea prior to 1.26.2",
-      "published": "2026-05-27 10:06:32",
-      "timestamp": 1779876392
-    },
-    {
-      "id": "65e714088b7c7d24ae5b56b8e29ce9473bc9b47c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft",
-      "published": "2026-05-27 07:45:52",
-      "timestamp": 1779867952
-    },
-    {
       "id": "b036a3a974a08a889ee7b7f79bf17fc03195c3e9",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -842,7 +842,7 @@
       "timestamp": 1779469200
     },
     {
-      "id": "be9c092da9b31bd85ea89eefba1f86a46b121be2",
+      "id": "8269bbc1d2bbe2de2003c06a25bdea158ca2d274",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
