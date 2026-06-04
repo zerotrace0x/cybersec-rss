@@ -1,6 +1,46 @@
 {
-  "generated_at": 1780557089,
+  "generated_at": 1780573293,
   "items": [
+    {
+      "id": "6bcf09e9791104b2012e44adefc3bf93d1153f81",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "summary": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
+      "published": "2026-06-04 11:09:50",
+      "timestamp": 1780571390
+    },
+    {
+      "id": "893feb379ddc81bd43f496aac1323361229b3453",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+      "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework. \"The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing",
+      "published": "2026-06-04 09:51:28",
+      "timestamp": 1780566688
+    },
+    {
+      "id": "28262d4f0be0c6db7703bac99be38fe74cde0328",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+      "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
+      "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity. Symantec and Carbon Black's Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:",
+      "published": "2026-06-04 09:33:57",
+      "timestamp": 1780565637
+    },
+    {
+      "id": "76d9de85d37bc4da224a7b74232f50d2ff92b875",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
+      "published": "2026-06-04 07:19:33",
+      "timestamp": 1780557573
+    },
     {
       "id": "d3dd3b52773e7829e1a7a489877496fa7e53d4cb",
       "source": "The Hacker News",
@@ -270,16 +310,6 @@
       "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
       "published": "2026-06-02 21:54:49",
       "timestamp": 1780437289
-    },
-    {
-      "id": "f7523a6a88f580b0bc9699644aa35089b1205d48",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
-      "published": "2026-06-02 20:01:20",
-      "timestamp": 1780430480
     },
     {
       "id": "c803ad51168d7eed26d3e329f8c00361b615aff8",
@@ -562,7 +592,7 @@
       "timestamp": 1780034261
     },
     {
-      "id": "3d8c96f01c7b76d6e4e28374f55581bfd3591549",
+      "id": "7b9b07c00592cae176e0ac90367166c642c6574c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
@@ -772,36 +802,6 @@
       "timestamp": 1779796680
     },
     {
-      "id": "c343c09cb96c7b3644e33c88bd32e3ea10e01c40",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met. The vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity. \"Deserialization of untrusted data in Microsoft Office SharePoint allows",
-      "published": "2026-05-26 11:49:53",
-      "timestamp": 1779796193
-    },
-    {
-      "id": "1fcbde5a982a2be082904fb23c838213ecc7ec79",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal the second factor: they just need the user to hand it over. If your workforce authenticates with",
-      "published": "2026-05-26 10:30:00",
-      "timestamp": 1779791400
-    },
-    {
-      "id": "111d85eaac782a8f3bc57d33b53be84ea3dbdb19",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
-      "published": "2026-05-26 09:13:02",
-      "timestamp": 1779786782
-    },
-    {
       "id": "a2c0b82ec383f00a597a4ed1d00c6d68c9322cd0",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -842,7 +842,7 @@
       "timestamp": 1779469200
     },
     {
-      "id": "8269bbc1d2bbe2de2003c06a25bdea158ca2d274",
+      "id": "be9c092da9b31bd85ea89eefba1f86a46b121be2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
