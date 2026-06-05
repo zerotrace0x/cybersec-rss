@@ -1,6 +1,56 @@
 {
-  "generated_at": 1780679143,
+  "generated_at": 1780687554,
   "items": [
+    {
+      "id": "e0a155c2209f4c509a6a22815ce0c0a3975bf57c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+      "published": "2026-06-05 19:15:30",
+      "timestamp": 1780686930
+    },
+    {
+      "id": "3b5dd526bb31ee17320f91ef45562747568b6dbf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese APT deploys new malware to keep access to hacked networks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
+      "published": "2026-06-05 18:09:47",
+      "timestamp": 1780682987
+    },
+    {
+      "id": "0777cd905d428d1e438cd25dc73ec02fb628587f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
+      "published": "2026-06-05 18:05:30",
+      "timestamp": 1780682730
+    },
+    {
+      "id": "315e8a7af1410d1f3f79eff612227d45106a6d3c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
+      "summary": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
+      "published": "2026-06-05 17:50:58",
+      "timestamp": 1780681858
+    },
+    {
+      "id": "9de6b49bf9dea6c84be5a320b92de53673a47f2f",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
+      "summary": "Microsoft Threat Intelligence identified a prompt injection pathway in Claude Code GitHub Action that allowed access to workflow secrets under specific conditions. This research examines the attack chain, responsible disclosure process, Anthropic's mitigation, and guidance for securing AI-powered CI/CD workflows. The post Securing CI/CD in an agentic world: Claude Code Github action case appeared first on Microsoft Security Blog.",
+      "published": "2026-06-05 16:46:47",
+      "timestamp": 1780678007
+    },
     {
       "id": "914f7edc3752e9edbcbb43633a40bdd175717c6a",
       "source": "The Hacker News",
@@ -50,6 +100,16 @@
       "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework. ReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China. \"OP-512 was highly",
       "published": "2026-06-05 12:33:38",
       "timestamp": 1780662818
+    },
+    {
+      "id": "9484369c9ec509b7c91560db68e1251595afb46a",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
+      "published": "2026-06-05 12:00:00",
+      "timestamp": 1780660800
     },
     {
       "id": "3785e44aef25599885491ae07274d944b7cc5a02",
@@ -262,16 +322,6 @@
       "timestamp": 1780571993
     },
     {
-      "id": "6bcf09e9791104b2012e44adefc3bf93d1153f81",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "summary": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
-      "published": "2026-06-04 11:09:50",
-      "timestamp": 1780571390
-    },
-    {
       "id": "893feb379ddc81bd43f496aac1323361229b3453",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,26 +350,6 @@
       "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational",
       "published": "2026-06-04 06:06:25",
       "timestamp": 1780553185
-    },
-    {
-      "id": "f6929e032bd20bd1ff15ae40a6f31b0ea3d8fd83",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
-      "published": "2026-06-03 21:45:27",
-      "timestamp": 1780523127
-    },
-    {
-      "id": "cec97e46017827da2cc744cf59a2ca5d5a6332e2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
-      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
-      "published": "2026-06-03 20:31:22",
-      "timestamp": 1780518682
     },
     {
       "id": "f840b9acc887aecdbbfa8eef35c58a7957cb52e8",
@@ -772,16 +802,6 @@
       "timestamp": 1779980400
     },
     {
-      "id": "c6e81ddea683ecc4488ef7e3726acb67dc042612",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
-      "published": "2026-05-28 13:53:52",
-      "timestamp": 1779976432
-    },
-    {
       "id": "ae375005f1b60733f75114c99abeb21394b7da95",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -860,16 +880,6 @@
       "summary": "Microsoft has been recognized as a Leader in The Forrester Wave\u2122: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories. The post Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms appeared first on Microsoft Security Blog.",
       "published": "2026-05-22 17:00:00",
       "timestamp": 1779469200
-    },
-    {
-      "id": "be9c092da9b31bd85ea89eefba1f86a46b121be2",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/from-edge-appliance-to-enterprise-compromise-multi-stage-linux-intrusion-via-f5-and-confluence/",
-      "summary": "A multi-stage attack on Linux devices began with an exposed F5 BIG-IP edge appliance and pivoted to an internal Confluence server for credential theft and identity compromise. Learn how the threat actor attempted Kerberos relay and lateral movement, and how Microsoft Defender detected, blocked, and unraveled the attack. The post From edge appliance to enterprise compromise: Multi-stage Linux intrusion via F5 and Confluence appeared first on Microsoft Security Blog.",
-      "published": "2026-05-22 16:53:39",
-      "timestamp": 1779468819
     },
     {
       "id": "3a02bdeb9c41e2b373941004326953696f3f900e",
@@ -1240,16 +1250,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livi",
       "published": "2026-04-02 12:00:00",
       "timestamp": 1775131200
-    },
-    {
-      "id": "e8e0bdc3c84bf72b5e2c507327b8c4e22bfc7940",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulner",
-      "published": "2026-04-01 12:00:00",
-      "timestamp": 1775044800
     },
     {
       "id": "fcb8366f8e86db1874b9b22b427d36bf0a37f002",
