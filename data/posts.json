@@ -1,6 +1,46 @@
 {
-  "generated_at": 1780726657,
+  "generated_at": 1780742850,
   "items": [
+    {
+      "id": "f044cf4d834ce3ba7e8818d51bf015b08fab51cf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+      "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+      "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry. The company, the successor to Luminati, operates what it calls the largest residential proxy network in the world,",
+      "published": "2026-06-06 08:29:05",
+      "timestamp": 1780734545
+    },
+    {
+      "id": "c2212ca31d173807dd559b40fe55fba0101f1140",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash",
+      "published": "2026-06-06 08:14:31",
+      "timestamp": 1780733671
+    },
+    {
+      "id": "20a7104dd01200402bfc74dafdb7ff034af90490",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release. Only the FFmpeg bugs were found by AI.",
+      "published": "2026-06-06 07:28:30",
+      "timestamp": 1780730910
+    },
+    {
+      "id": "2d7ba8d484dfe6fd945e9be79e3e9dc6ffe4c6bc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories. \"Access to this",
+      "published": "2026-06-06 06:58:04",
+      "timestamp": 1780729084
+    },
     {
       "id": "a65938b9593700ba58c79e6cd2ed4ee677c54d7f",
       "source": "The Hacker News",
@@ -375,7 +415,7 @@
       "id": "fa84572b85727aed1cfa1d7acd648b6202913889",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "title": "Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens",
       "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
       "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
       "published": "2026-06-03 17:58:00",
@@ -742,36 +782,6 @@
       "timestamp": 1780054319
     },
     {
-      "id": "a465ebea2b90ddf85864561523950e89b3f9a570",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-      "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop. The artifact moved from a prompt to a product. The risk surface moved with it. In The Shadow Builders report (get it here), a",
-      "published": "2026-05-29 10:30:00",
-      "timestamp": 1780050600
-    },
-    {
-      "id": "bb0cd52b2b6ac25fa58850538143de629b8f3fa8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
-      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
-      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates. According to Socket, versions 2.0.0 through 2.0.4 of \"Sicoob.Sdk\" contain functionality to exfiltrate sensitive information, including PFX certificates that are used to",
-      "published": "2026-05-29 09:11:25",
-      "timestamp": 1780045885
-    },
-    {
-      "id": "1e8f06c749c289d696d4423760f2a21cb5f2879e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
-      "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
-      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026. \"Kimsuky employed a range of tailored social engineering tactics, such as spoofing security software installation pages and crafting a fake Webex meeting page that leveraged",
-      "published": "2026-05-29 05:57:41",
-      "timestamp": 1780034261
-    },
-    {
       "id": "3d8c96f01c7b76d6e4e28374f55581bfd3591549",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -782,17 +792,7 @@
       "timestamp": 1780023892
     },
     {
-      "id": "0a0de5b3d370e9c6c03108f11c350a1e536e6554",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier. \"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
-      "published": "2026-05-28 17:24:44",
-      "timestamp": 1779989084
-    },
-    {
-      "id": "0dd4af364982bc507248a579cc60b872ce7af7d4",
+      "id": "900ad35f9fd2afaa7e021010fcd83b5d86facbdc",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
@@ -822,7 +822,7 @@
       "timestamp": 1779883200
     },
     {
-      "id": "90acc49cc0e709eec738350c737b9c442b5d6238",
+      "id": "b036a3a974a08a889ee7b7f79bf17fc03195c3e9",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
