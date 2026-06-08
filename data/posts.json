@@ -1,6 +1,36 @@
 {
-  "generated_at": 1780903093,
+  "generated_at": 1780923237,
   "items": [
+    {
+      "id": "226c07b9ddc9c36f4da78d7d2e1b990a220f274e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Oxford University discloses data breach after careers platform hack",
+      "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
+      "summary": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
+      "published": "2026-06-08 11:14:41",
+      "timestamp": 1780917281
+    },
+    {
+      "id": "1dc734ac8816aa2a35898c2b0718df5869f61706",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+      "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
+      "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems. The activity has been attributed by Volexity to a threat cluster it tracks as VerdantBamboo, which it said overlaps with hacking groups known as Clay Typhoon (Microsoft),",
+      "published": "2026-06-08 10:27:32",
+      "timestamp": 1780914452
+    },
+    {
+      "id": "d60812f782859381624577fb70b1f8fc3a4f478b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+      "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026. The activity has been attributed by Google Mandiant and Google Threat Intelligence Group (GTIG) to a threat actor dubbed UNC3753, which is also known as",
+      "published": "2026-06-08 07:39:28",
+      "timestamp": 1780904368
+    },
     {
       "id": "47e912855bf2a32cffebf598a264799768227f3d",
       "source": "The Hacker News",
@@ -17,7 +47,7 @@
       "source_category": "General",
       "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
       "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "summary": "Meta has revealed that over 20,000 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
       "published": "2026-06-08 06:00:27",
       "timestamp": 1780898427
     },
@@ -310,16 +340,6 @@
       "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
       "published": "2026-06-04 21:27:25",
       "timestamp": 1780608445
-    },
-    {
-      "id": "67593e89e4d037e8a19a69a95ffd9e081103048a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-      "published": "2026-06-04 20:47:16",
-      "timestamp": 1780606036
     },
     {
       "id": "a801f1cef71c7fbb1e1a6608be40f4bb4880b2f6",
@@ -732,16 +752,6 @@
       "timestamp": 1780230132
     },
     {
-      "id": "4bb30ca4bb7bf8800daece8a53cbcea60f3674d4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections. \"Authentication bypass vulnerabilities in the",
-      "published": "2026-05-30 06:41:26",
-      "timestamp": 1780123286
-    },
-    {
       "id": "1dcee58b609fa4962d8bf49ef36f5472ba085196",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -752,17 +762,7 @@
       "timestamp": 1780099580
     },
     {
-      "id": "8885443004335db84a88166f1d7c6eda6a49cb5e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhish by Permiso Security. \"The chatgpt.com response renderer trusts Markdown links and Markdown",
-      "published": "2026-05-29 18:07:12",
-      "timestamp": 1780078032
-    },
-    {
-      "id": "156e53ca5d4fea4875962060fbdff2a01148e98d",
+      "id": "1dec72ab1683e17bc898c189a5c50047db3b8800",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection",
@@ -782,7 +782,7 @@
       "timestamp": 1780056000
     },
     {
-      "id": "3d8c96f01c7b76d6e4e28374f55581bfd3591549",
+      "id": "7b9b07c00592cae176e0ac90367166c642c6574c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
@@ -822,7 +822,7 @@
       "timestamp": 1779883200
     },
     {
-      "id": "90acc49cc0e709eec738350c737b9c442b5d6238",
+      "id": "b036a3a974a08a889ee7b7f79bf17fc03195c3e9",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
@@ -872,7 +872,7 @@
       "timestamp": 1779715309
     },
     {
-      "id": "e220fcb6c4837a7f1984255c97ae1d92813ece1d",
+      "id": "d3792bff796613d516d2b46465cc5173df3f878b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms",
