@@ -1,6 +1,96 @@
 {
-  "generated_at": 1780923237,
+  "generated_at": 1780940453,
   "items": [
+    {
+      "id": "d1316eca8aa54602275ff9e12d7ed33e6cd0cfd8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Gogs patches critical zero-day enabling remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+      "published": "2026-06-08 16:18:40",
+      "timestamp": 1780935520
+    },
+    {
+      "id": "beb6f883ca3f51eccd8e573c3e89a7816354da18",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
+      "summary": "As threat actors operationalize AI to accelerate attacks, they are also leveraging the wider global interest around AI itself as a social engineering lure. The post AI brands as bait: How threat actors are using the AI hype in social engineering appeared first on Microsoft Security Blog.",
+      "published": "2026-06-08 16:00:00",
+      "timestamp": 1780934400
+    },
+    {
+      "id": "a32d63b8d78325b854ccf78a4824f5f370bba167",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
+      "published": "2026-06-08 15:51:19",
+      "timestamp": 1780933879
+    },
+    {
+      "id": "32d20b07dc0610bd73d305bf2374b5b844e8132c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+      "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
+      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user",
+      "published": "2026-06-08 14:17:39",
+      "timestamp": 1780928259
+    },
+    {
+      "id": "28c334afb8ee7331169609f91f137314c64c09c6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Reducing security operations complexity with Wazuh Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+      "summary": "Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments. This article explores how Wazuh Cloud helps simplify SIEM/XDR operations through managed infrastructure, automated scaling, and AI-driven security analysis. [...]",
+      "published": "2026-06-08 14:01:11",
+      "timestamp": 1780927271
+    },
+    {
+      "id": "77c4b30974689c70166b132360282b23bb820a42",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+      "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
+      "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance. As the queue grows, a credential theft attempt or malware delivery can easily",
+      "published": "2026-06-08 13:19:13",
+      "timestamp": 1780924753
+    },
+    {
+      "id": "57625ff8f99480fee38fbedaf5734581a2d927ee",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
+      "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in inboxes for months, reading mail and",
+      "published": "2026-06-08 13:18:57",
+      "timestamp": 1780924737
+    },
+    {
+      "id": "a183f9168deb61018a3302f553ebce0aef3f9646",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
+      "summary": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
+      "published": "2026-06-08 13:05:16",
+      "timestamp": 1780923916
+    },
+    {
+      "id": "ee5226705db45b23a664fd2ebc2412562e5afa37",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Hardest Fork",
+      "link": "https://thehackernews.com/2026/06/the-hardest-fork.html",
+      "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is wrong, and that's RCE.\" They're novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It's real creativity,",
+      "published": "2026-06-08 11:53:00",
+      "timestamp": 1780919580
+    },
     {
       "id": "226c07b9ddc9c36f4da78d7d2e1b990a220f274e",
       "source": "BleepingComputer",
@@ -232,16 +322,6 @@
       "timestamp": 1780671015
     },
     {
-      "id": "1cb99dfc223887ad6a4e69ca025bf0cdf6c607fe",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
-      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-      "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
-      "published": "2026-06-05 14:00:10",
-      "timestamp": 1780668010
-    },
-    {
       "id": "46aa054d74c6f20487da2cb7e188de4ef0c50dbf",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -302,16 +382,6 @@
       "timestamp": 1780642901
     },
     {
-      "id": "a88318750ba2ba1933e61551fe029ca98fe39424",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-      "published": "2026-06-05 06:24:20",
-      "timestamp": 1780640660
-    },
-    {
       "id": "f440635d879acda6009ef5cc78766a66b785f540",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,26 +390,6 @@
       "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
       "published": "2026-06-05 05:34:19",
       "timestamp": 1780637659
-    },
-    {
-      "id": "7ce0495e7634e1c56acf3f6c50e3df8311d313da",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
-      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "summary": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
-      "published": "2026-06-04 21:37:10",
-      "timestamp": 1780609030
-    },
-    {
-      "id": "b9dfe4aad281b02dd6093afcf091194782e466d7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hola Browser for Windows compromised to deliver cryptominer",
-      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
-      "published": "2026-06-04 21:27:25",
-      "timestamp": 1780608445
     },
     {
       "id": "a801f1cef71c7fbb1e1a6608be40f4bb4880b2f6",
@@ -712,46 +762,6 @@
       "timestamp": 1780314864
     },
     {
-      "id": "fe9208a3b873b791a47794d1ea86f5297fd943a9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor. A Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
-      "published": "2026-06-01 11:30:00",
-      "timestamp": 1780313400
-    },
-    {
-      "id": "b71024421d700728bec4f8f05f72b7257fb92c9f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository. What",
-      "published": "2026-06-01 09:31:15",
-      "timestamp": 1780306275
-    },
-    {
-      "id": "bacc4dfd898e4916ac03db9d85e567a978b652cb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites. WP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is",
-      "published": "2026-06-01 08:45:29",
-      "timestamp": 1780303529
-    },
-    {
-      "id": "bcfaf9ef73897de17cf8f125dc3e197391b09d47",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
-      "published": "2026-05-31 12:22:12",
-      "timestamp": 1780230132
-    },
-    {
       "id": "1dcee58b609fa4962d8bf49ef36f5472ba085196",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -870,16 +880,6 @@
       "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
       "published": "2026-05-25 13:21:49",
       "timestamp": 1779715309
-    },
-    {
-      "id": "d3792bff796613d516d2b46465cc5173df3f878b",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/",
-      "summary": "Microsoft has been recognized as a Leader in The Forrester Wave\u2122: Workforce Identity Security Platforms, Q2 2026, receiving the highest scores in both the current offering and strategy categories. The post Microsoft recognized as a Leader in The Forrester Wave\u2122 for Workforce Identity Security Platforms appeared first on Microsoft Security Blog.",
-      "published": "2026-05-22 17:00:00",
-      "timestamp": 1779469200
     },
     {
       "id": "3a02bdeb9c41e2b373941004326953696f3f900e",
