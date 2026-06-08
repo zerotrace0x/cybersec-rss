@@ -1,6 +1,56 @@
 {
-  "generated_at": 1780948555,
+  "generated_at": 1780957031,
   "items": [
+    {
+      "id": "de5294900137cf22653d541c65ce9defedae5b67",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+      "published": "2026-06-08 22:11:58",
+      "timestamp": 1780956718
+    },
+    {
+      "id": "6abc925b0fcc3db28ebb2a73c26038df935ce9c8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+      "published": "2026-06-08 21:55:46",
+      "timestamp": 1780955746
+    },
+    {
+      "id": "e96bc4ff2b9bb462132f9f57c241a0530c21d6db",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Apple feature automatically changes your compromised passwords",
+      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+      "summary": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
+      "published": "2026-06-08 21:03:40",
+      "timestamp": 1780952620
+    },
+    {
+      "id": "d4b738daa350a03d90d3f882fe79cf497bfaa2f2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+      "published": "2026-06-08 20:41:35",
+      "timestamp": 1780951295
+    },
+    {
+      "id": "a4d82bb68e3dacd95a0d31b571fe2b69c4e09378",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5, 2026. Exodus Intelligence released its full technical walkthrough on June 8, and it is not even",
+      "published": "2026-06-08 20:17:39",
+      "timestamp": 1780949859
+    },
     {
       "id": "c479099296fde2feea13fb9e847aa3750e5474e9",
       "source": "BleepingComputer",
@@ -100,6 +150,16 @@
       "summary": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
       "published": "2026-06-08 13:05:16",
       "timestamp": 1780923916
+    },
+    {
+      "id": "fef886ba504745c8ffc66066771dafbd30e0947a",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Kno",
+      "published": "2026-06-08 12:00:00",
+      "timestamp": 1780920000
     },
     {
       "id": "ee5226705db45b23a664fd2ebc2412562e5afa37",
@@ -262,36 +322,6 @@
       "timestamp": 1780719568
     },
     {
-      "id": "a125881480b1dd679564e31743bd31503cc53599",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
-      "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
-      "summary": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
-      "published": "2026-06-05 21:54:42",
-      "timestamp": 1780696482
-    },
-    {
-      "id": "e0a155c2209f4c509a6a22815ce0c0a3975bf57c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-      "summary": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-      "published": "2026-06-05 19:15:30",
-      "timestamp": 1780686930
-    },
-    {
-      "id": "3b5dd526bb31ee17320f91ef45562747568b6dbf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Chinese APT deploys new malware to keep access to hacked networks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-      "summary": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
-      "published": "2026-06-05 18:09:47",
-      "timestamp": 1780682987
-    },
-    {
       "id": "0777cd905d428d1e438cd25dc73ec02fb628587f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +330,6 @@
       "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
       "published": "2026-06-05 18:05:30",
       "timestamp": 1780682730
-    },
-    {
-      "id": "315e8a7af1410d1f3f79eff612227d45106a6d3c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
-      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-      "summary": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
-      "published": "2026-06-05 17:50:58",
-      "timestamp": 1780681858
     },
     {
       "id": "9de6b49bf9dea6c84be5a320b92de53673a47f2f",
@@ -740,16 +760,6 @@
       "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
       "published": "2026-06-01 17:32:50",
       "timestamp": 1780335170
-    },
-    {
-      "id": "7f4b17afe6c928ee4666d6380a725a8e2e9379ce",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought 'curl | sh' had a personality. The vibe is simple: old",
-      "published": "2026-06-01 13:59:54",
-      "timestamp": 1780322394
     },
     {
       "id": "46b25ae357a174928ff4df9cc0142decff8a03fe",
@@ -1240,16 +1250,6 @@
       "summary": "Written by: Stuart Carrera Introduction Building on recent BRICKSTORM research from Google Threat Intelligence Group (GTIG), this post explores the evolving threats facing virtualized environments. These operations directly target the VMware vSphere ecosystem, specifically the vCenter Server Appliance (VCSA) and ESXi hypervisors. To help organizations stay ahead of these risks, we will focus on the essential hardening strategies and mitigating controls necessary to secure these critical assets. ",
       "published": "2026-04-02 14:00:00",
       "timestamp": 1775138400
-    },
-    {
-      "id": "e73de2317b560c6d9cda7e0d7b2ee2b4542ed72e",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a livi",
-      "published": "2026-04-02 12:00:00",
-      "timestamp": 1775131200
     },
     {
       "id": "fcb8366f8e86db1874b9b22b427d36bf0a37f002",
