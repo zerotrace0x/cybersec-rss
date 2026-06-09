@@ -1,6 +1,16 @@
 {
-  "generated_at": 1780969742,
+  "generated_at": 1780987028,
   "items": [
+    {
+      "id": "cfc43acb9edd47b7bf22f91b1a3fdd137628f6d2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the",
+      "published": "2026-06-09 06:26:14",
+      "timestamp": 1780986374
+    },
     {
       "id": "de5294900137cf22653d541c65ce9defedae5b67",
       "source": "BleepingComputer",
@@ -740,16 +750,6 @@
       "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)",
       "published": "2026-06-02 03:55:25",
       "timestamp": 1780372525
-    },
-    {
-      "id": "df2f2687e4db3ce3e2317b4ab17d30fee7224707",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
-      "published": "2026-06-01 17:40:28",
-      "timestamp": 1780335628
     },
     {
       "id": "8da2b4df80315a8f334fd6b85a4e02a386bbebe3",
