@@ -1,6 +1,36 @@
 {
-  "generated_at": 1781005818,
+  "generated_at": 1781014393,
   "items": [
+    {
+      "id": "8c738a94700612405f79ff2ac39709f80e5be10b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+      "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
+      "published": "2026-06-09 12:26:10",
+      "timestamp": 1781007970
+    },
+    {
+      "id": "56d8ee8dab80c120aee19eb9ec8236dddc04f34a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+      "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service. The preprint, posted to arXiv on",
+      "published": "2026-06-09 11:59:03",
+      "timestamp": 1781006343
+    },
+    {
+      "id": "22050eb9715435fa26f0ee8de22789d490b80157",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+      "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103",
+      "published": "2026-06-09 11:58:49",
+      "timestamp": 1781006329
+    },
     {
       "id": "6ed5494d7523bae1d8e6b4a138391e59642f3034",
       "source": "The Hacker News",
@@ -702,26 +732,6 @@
       "timestamp": 1780425960
     },
     {
-      "id": "c2b696804de25ac0a93ad668a158313bd69c3956",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
-      "published": "2026-06-02 18:21:49",
-      "timestamp": 1780424509
-    },
-    {
-      "id": "06e567e47c63b2727c9a37df67141e4f739a53d9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was",
-      "published": "2026-06-02 18:14:42",
-      "timestamp": 1780424082
-    },
-    {
       "id": "8cb1c75f9faf20ab6415643bf4175aaa1a5471b2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -740,16 +750,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vul",
       "published": "2026-06-02 12:00:00",
       "timestamp": 1780401600
-    },
-    {
-      "id": "a2e4766d65ab297a5823119a5052cfb96492f122",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
-      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days. The industry's",
-      "published": "2026-06-02 11:58:00",
-      "timestamp": 1780401480
     },
     {
       "id": "8da2b4df80315a8f334fd6b85a4e02a386bbebe3",
