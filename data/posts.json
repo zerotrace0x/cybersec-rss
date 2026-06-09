@@ -1,6 +1,36 @@
 {
-  "generated_at": 1781034689,
+  "generated_at": 1781043371,
   "items": [
+    {
+      "id": "efe019266097422537e51165f210cc5edcb52805",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
+      "published": "2026-06-09 22:07:28",
+      "timestamp": 1781042848
+    },
+    {
+      "id": "3363df59a48c1e705b4567b7fbde96e9cbdf19c8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ServiceNow discloses security incident exposing customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
+      "summary": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
+      "published": "2026-06-09 21:34:09",
+      "timestamp": 1781040849
+    },
+    {
+      "id": "3ebb62906e1af3792d39b058a7b97802bfc7e8a0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
+      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
+      "summary": "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
+      "published": "2026-06-09 21:20:20",
+      "timestamp": 1781040020
+    },
     {
       "id": "3c0b088729efbe25e32d130824739e760bc863bc",
       "source": "BleepingComputer",
@@ -252,16 +282,6 @@
       "timestamp": 1780952620
     },
     {
-      "id": "d4b738daa350a03d90d3f882fe79cf497bfaa2f2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
-      "published": "2026-06-08 20:41:35",
-      "timestamp": 1780951295
-    },
-    {
       "id": "a4d82bb68e3dacd95a0d31b571fe2b69c4e09378",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +290,6 @@
       "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5, 2026. Exodus Intelligence released its full technical walkthrough on June 8, and it is not even",
       "published": "2026-06-08 20:17:39",
       "timestamp": 1780949859
-    },
-    {
-      "id": "c479099296fde2feea13fb9e847aa3750e5474e9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-      "published": "2026-06-08 18:40:53",
-      "timestamp": 1780944053
     },
     {
       "id": "185790d5037b1aacaf544daa44c923d2725f2a7f",
@@ -1200,16 +1210,6 @@
       "summary": "Written by: Jamie Collier, Robin Grunewald Germany has reclaimed its position as a primary focus for cyber extortion in Europe. While data leak site (DLS) posts rose almost 50% globally in 2025, Google Threat Intelligence (GTI) data shows that the surge is hitting German infrastructure harder and faster than its regional neighbors, marking a significant return to the high-pressure levels previously observed in the country during 2022 and 2023. Cyber Criminals Pivoting Back to Germany Germany mov",
       "published": "2026-04-15 14:00:00",
       "timestamp": 1776261600
-    },
-    {
-      "id": "837e7370af43ededaeaf1c76ba2022fd6943d526",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Patch Tuesday, April 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.",
-      "published": "2026-04-14 21:47:59",
-      "timestamp": 1776203279
     },
     {
       "id": "90017c21e58a88408b61c4081f8ed5d40052721b",
