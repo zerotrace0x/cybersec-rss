@@ -1,13 +1,53 @@
 {
-  "generated_at": 1781056802,
+  "generated_at": 1781074453,
   "items": [
+    {
+      "id": "93adfdcde62ba18924c55d381e927da732511cf0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+      "summary": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
+      "published": "2026-06-10 06:26:28",
+      "timestamp": 1781072788
+    },
+    {
+      "id": "4d65d463038acfaa0b550d1d18a2164c9b8475c7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
+      "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
+      "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it's a hit or miss,\" the researcher, who published the exploit under a new GitHub account, \"MSNightmare\" said. \"I have managed to get a 100% success rate on",
+      "published": "2026-06-10 05:22:01",
+      "timestamp": 1781068921
+    },
+    {
+      "id": "e68718475c02ef82d1b3a9ce10fc8b42ee743f50",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
+      "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
+      "summary": "Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks. \"In affected environments, a single malicious protobuf schema, descriptor, or crafted payload could be enough to trigger",
+      "published": "2026-06-10 05:08:35",
+      "timestamp": 1781068115
+    },
+    {
+      "id": "3baaad78285161f814194e14951f41a97bd28c0a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
+      "summary": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
+      "published": "2026-06-10 02:03:31",
+      "timestamp": 1781057011
+    },
     {
       "id": "6db3eaf7c021e7dca84e9a7e75264c44dd2c1589",
       "source": "BleepingComputer",
       "source_category": "General",
       "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-      "summary": "[...]",
+      "summary": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
       "published": "2026-06-09 23:11:18",
       "timestamp": 1781046678
     },
@@ -260,26 +300,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the",
       "published": "2026-06-09 06:26:14",
       "timestamp": 1780986374
-    },
-    {
-      "id": "de5294900137cf22653d541c65ce9defedae5b67",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
-      "published": "2026-06-08 22:11:58",
-      "timestamp": 1780956718
-    },
-    {
-      "id": "6abc925b0fcc3db28ebb2a73c26038df935ce9c8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
-      "published": "2026-06-08 21:55:46",
-      "timestamp": 1780955746
     },
     {
       "id": "a4d82bb68e3dacd95a0d31b571fe2b69c4e09378",
@@ -730,26 +750,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog",
       "published": "2026-06-03 12:00:00",
       "timestamp": 1780488000
-    },
-    {
-      "id": "542c09ea88e30ee8e16ad99c40d432034a0be4f9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
-      "summary": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous systems. The result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and beyond the reach of",
-      "published": "2026-06-03 11:58:00",
-      "timestamp": 1780487880
-    },
-    {
-      "id": "a67da9d8d820348aaa9e74be1a88ad4384591af0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
-      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress. CVE-2026-33829 refers to a spoofing vulnerability that could expose",
-      "published": "2026-06-03 10:18:52",
-      "timestamp": 1780481932
     },
     {
       "id": "891675e282cb009ac20439ad75b5104935cb85e0",
