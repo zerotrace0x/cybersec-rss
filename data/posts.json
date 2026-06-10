@@ -1,6 +1,96 @@
 {
-  "generated_at": 1781093450,
+  "generated_at": 1781113625,
   "items": [
+    {
+      "id": "c6ea3bcbfc83e3725cbcb0989694d306c4a09973",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map exposed services at scale,\" Lumen's",
+      "published": "2026-06-10 16:08:42",
+      "timestamp": 1781107722
+    },
+    {
+      "id": "9d71b92c32d63debfcd26c963e4ea0c4b58dda7d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Turn specs into evals for any agent with ASSERT",
+      "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
+      "summary": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents. The post Turn specs into evals for any agent with ASSERT appeared first on Microsoft Security Blog.",
+      "published": "2026-06-10 16:00:00",
+      "timestamp": 1781107200
+    },
+    {
+      "id": "496f377e9990af8228d2e99862bb4c106c9de5c8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+      "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1). \"An",
+      "published": "2026-06-10 15:10:59",
+      "timestamp": 1781104259
+    },
+    {
+      "id": "1894a2f5da6a3d1ba1ca281f64b577ab521c37b8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+      "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations. \"The 'POST /",
+      "published": "2026-06-10 15:00:59",
+      "timestamp": 1781103659
+    },
+    {
+      "id": "8f2b39d00f8cfe83816054b9e8fc94afa23bf3fb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+      "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+      "published": "2026-06-10 15:00:00",
+      "timestamp": 1781103600
+    },
+    {
+      "id": "802be3dd50fdfae5b1bdf0582a9cd824dcaeb35f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The list of vulnerabilities is as follows - CVE-2026-20245 (CVSS score: 7.8) - An improper encoding or escaping of output vulnerability in Cisco Catalyst SD-WAN Manager that could allow an",
+      "published": "2026-06-10 14:44:29",
+      "timestamp": 1781102669
+    },
+    {
+      "id": "b67cd866a603f401848d93b616ed438836b1f5ca",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The 5 Best Practices for Secure Identity Verification",
+      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+      "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
+      "published": "2026-06-10 14:05:15",
+      "timestamp": 1781100315
+    },
+    {
+      "id": "57e3eb9abecd1eb7dcfecdd45d8bd94451f82d7d",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "2026-06-10 14:03:44",
+      "timestamp": 1781100224
+    },
+    {
+      "id": "bc3c0fb8eed95731d932b091962b5102ae8283ea",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+      "published": "2026-06-10 13:44:19",
+      "timestamp": 1781099059
+    },
     {
       "id": "21f01ac657522ccc47ddd27141e4535153db4816",
       "source": "BleepingComputer",
@@ -77,7 +167,7 @@
       "source_category": "General",
       "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
       "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
-      "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it's a hit or miss,\" the researcher, who published the exploit under a new GitHub account, \"MSNightmare\" said. \"I have managed to get a 100% success rate on",
+      "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it's a hit or miss,\" the researcher, who published the exploit under a new GitHub account \"MSNightmare\" said. \"I have managed to get a 100% success rate on",
       "published": "2026-06-10 05:22:01",
       "timestamp": 1781068921
     },
@@ -162,12 +252,12 @@
       "timestamp": 1781030100
     },
     {
-      "id": "a35a276f0f603c93afc5f8f7dafed3158dc9b033",
+      "id": "3e5f883521be21e70dd111dc6bd99f1ba5c35e35",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
+      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks. [...]",
       "published": "2026-06-09 17:57:59",
       "timestamp": 1781027879
     },
@@ -232,26 +322,6 @@
       "timestamp": 1781021798
     },
     {
-      "id": "6abb9e5518cb3b3d0989664146414c904ff1deaa",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
-      "summary": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
-      "published": "2026-06-09 15:42:40",
-      "timestamp": 1781019760
-    },
-    {
-      "id": "ec3b646852c06d4ed993b8ffe6f653878c889397",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
-      "summary": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
-      "published": "2026-06-09 14:27:56",
-      "timestamp": 1781015276
-    },
-    {
       "id": "8c738a94700612405f79ff2ac39709f80e5be10b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +370,6 @@
       "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort. But the same challenges persist. Outages still last hours, causing significant financial losses, operational disruption, and reputational impact. Threat response and mean time to",
       "published": "2026-06-09 11:30:00",
       "timestamp": 1781004600
-    },
-    {
-      "id": "89a89f646d1225590bbc84e855fbf58470ccb8d2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "French govt messaging service breached in account hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-      "summary": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
-      "published": "2026-06-09 10:53:00",
-      "timestamp": 1781002380
     },
     {
       "id": "2d99b25129a7696e28439b3dee1f8ada1d72bab0",
@@ -702,46 +762,6 @@
       "timestamp": 1780565637
     },
     {
-      "id": "d3dd3b52773e7829e1a7a489877496fa7e53d4cb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-      "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational",
-      "published": "2026-06-04 06:06:25",
-      "timestamp": 1780553185
-    },
-    {
-      "id": "f840b9acc887aecdbbfa8eef35c58a7957cb52e8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
-      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
-      "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the phone into a Zoom call, or quietly poison its long-term memory. No malicious app on the phone is required. The assistant just had to treat a hostile",
-      "published": "2026-06-03 19:11:15",
-      "timestamp": 1780513875
-    },
-    {
-      "id": "fa84572b85727aed1cfa1d7acd648b6202913889",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Fixes One-Click GitHub Dev Attack That Let Attackers Steal OAuth Tokens",
-      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
-      "published": "2026-06-03 17:58:00",
-      "timestamp": 1780509480
-    },
-    {
-      "id": "7a29dcf1f8e2af7131dd857922476c66707d2595",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
-      "published": "2026-06-03 16:40:00",
-      "timestamp": 1780504800
-    },
-    {
       "id": "d6ad5e7a821dd4ad12c67800f42d04d5138e9011",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -840,16 +860,6 @@
       "summary": "The Mini Shai-Hulud campaign used malicious npm packages to target cloud and CI/CD credentials across developer environments. This report details the attack chain, detection opportunities, and mitigation guidance to help organizations identify and disrupt related activity. The post Typosquatted npm packages used to steal cloud and CI/CD secrets appeared first on Microsoft Security Blog.",
       "published": "2026-05-29 03:04:52",
       "timestamp": 1780023892
-    },
-    {
-      "id": "0dd4af364982bc507248a579cc60b872ce7af7d4",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/",
-      "summary": "Microsoft Threat Intelligence presents a comprehensive analysis of The Gentlemen, a Go-based ransomware deployed by affiliates of Storm-2697 that combines per-file ephemeral key encryption with an aggressive self-propagation module to deploy itself across an entire network using series of simultaneous lateral movement techniques per target. The post The Gentlemen ransomware: Dissecting a self-propagating Go encryptor appeared first on Microsoft Security Blog.",
-      "published": "2026-05-28 15:00:00",
-      "timestamp": 1779980400
     },
     {
       "id": "ae375005f1b60733f75114c99abeb21394b7da95",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
       "published": "2026-04-22 12:00:00",
       "timestamp": 1776859200
-    },
-    {
-      "id": "855faebafbd4f2403f218d4f321b5971a0ed3aa6",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
-      "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
-      "published": "2026-04-21 14:53:59",
-      "timestamp": 1776783239
     },
     {
       "id": "578816f54d898c51c753acb18ae72a7b0779bdd2",
