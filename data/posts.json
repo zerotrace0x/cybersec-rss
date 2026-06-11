@@ -1,6 +1,36 @@
 {
-  "generated_at": 1781200719,
+  "generated_at": 1781208890,
   "items": [
+    {
+      "id": "245bd8239d037a55c344ffa7c8129f13b51426fa",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
+      "published": "2026-06-11 19:39:53",
+      "timestamp": 1781206793
+    },
+    {
+      "id": "a54b9f6315cacd0bd5799c9d5bfa1552dc3c6518",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on",
+      "published": "2026-06-11 17:46:32",
+      "timestamp": 1781199992
+    },
+    {
+      "id": "aea8faab91e0f02a879bb1339f450f0dacaccb78",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
+      "published": "2026-06-11 17:43:52",
+      "timestamp": 1781199832
+    },
     {
       "id": "48e6174856b6dbf3ac6cffda84238c94ffc66a98",
       "source": "The Hacker News",
@@ -30,6 +60,16 @@
       "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
       "published": "2026-06-11 14:00:10",
       "timestamp": 1781186410
+    },
+    {
+      "id": "73148309d9329da342ebffe6bddd2d0e2a3f8d7f",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
+      "summary": "Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified an active compromise and extortion campaign attributed to UNC6240 (ShinyHunters) targeting Oracle PeopleSoft application infrastructure. The activity was observed between May 27, 2026, and June 9, 2026 and is consistent with the exploitation of CVE-2026-35273, a critical remote code execution vulnerability (CVSS 9.8) in the Environment Management component. The exploitation of this vulnerability directly aligns wit",
+      "published": "2026-06-11 14:00:00",
+      "timestamp": 1781186400
     },
     {
       "id": "757f39f8af2b0834471ba50ed79d3ace61789e77",
@@ -70,6 +110,16 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
       "published": "2026-06-11 12:46:44",
       "timestamp": 1781182004
+    },
+    {
+      "id": "5fe5634fe2bcaadac1ac983ead56a3624fdfe1d3",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
+      "published": "2026-06-11 12:00:00",
+      "timestamp": 1781179200
     },
     {
       "id": "8c2c4e0dc127a301f531ca13a0295ba9d0586f3e",
@@ -205,9 +255,9 @@
       "id": "1894a2f5da6a3d1ba1ca281f64b577ab521c37b8",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "title": "Langflow Vulnerability CVE-2026-5027 Exploited for Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
-      "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations. \"The 'POST /",
+      "summary": "A high-severity security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations. \"The 'POST /api/v2/",
       "published": "2026-06-10 15:00:59",
       "timestamp": 1781103659
     },
@@ -260,16 +310,6 @@
       "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
       "published": "2026-06-10 13:44:19",
       "timestamp": 1781099059
-    },
-    {
-      "id": "21f01ac657522ccc47ddd27141e4535153db4816",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "summary": "Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
-      "published": "2026-06-10 11:33:32",
-      "timestamp": 1781091212
     },
     {
       "id": "95a7b3fad58d42945bbec03b0a0e45cce40e1ebe",
@@ -742,26 +782,6 @@
       "timestamp": 1780600482
     },
     {
-      "id": "946e8c8bed0c21b8687b089d9a8e72c1e2f1e0e6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
-      "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
-      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway. The flaw is a server-side request forgery.",
-      "published": "2026-06-04 16:55:51",
-      "timestamp": 1780592151
-    },
-    {
-      "id": "55201421d6f4dfa092dd50341fa7ee258f936995",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-      "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
-      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it. RyotaK of GMO",
-      "published": "2026-06-04 15:15:26",
-      "timestamp": 1780586126
-    },
-    {
       "id": "d6ad5e7a821dd4ad12c67800f42d04d5138e9011",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1232,16 +1252,6 @@
       "timestamp": 1776081600
     },
     {
-      "id": "6d7a604f4a70cb0c016859ed2a8aa0fca080b021",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
-      "published": "2026-04-08 12:00:00",
-      "timestamp": 1775649600
-    },
-    {
       "id": "a311f72b19fbb121722ae5ba2456974eb770d127",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -1380,16 +1390,6 @@
       "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn\u2019t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
       "published": "2026-02-12 08:00:00",
       "timestamp": 1770883200
-    },
-    {
-      "id": "79c1141abea3c254a79ce1366aea54f15d49b1bd",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Beyond the Battlefield: Threats to the Defense Industrial Base",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/threats-to-defense-industrial-base/",
-      "summary": "Introduction In modern warfare, the front lines are no longer confined to the battlefield; they extend directly into the servers and supply chains of the industry that safeguards the nation. Today, the defense sector faces a relentless barrage of cyber operations conducted by state-sponsored actors and criminal groups alike. In recent years, Google Threat Intelligence Group (GTIG) has observed several distinct areas of focus in adversarial targeting of the defense industrial base (DIB). While no",
-      "published": "2026-02-10 14:00:00",
-      "timestamp": 1770732000
     },
     {
       "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
