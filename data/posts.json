@@ -1,6 +1,66 @@
 {
-  "generated_at": 1781285335,
+  "generated_at": 1781293659,
   "items": [
+    {
+      "id": "3ec477d484373245c7b8e6c0f0b5907644b866d8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "published": "2026-06-12 19:33:32",
+      "timestamp": 1781292812
+    },
+    {
+      "id": "fbf454902b82700b32f181896d17ae3ecc5772c6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "link": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
+      "published": "2026-06-12 19:24:50",
+      "timestamp": 1781292290
+    },
+    {
+      "id": "3aff8488d01217acebdc1130124ce65969df5bc9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
+      "published": "2026-06-12 18:59:32",
+      "timestamp": 1781290772
+    },
+    {
+      "id": "26eeb3ce010ce873f585d9ea37426a2de05b5a4b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "published": "2026-06-12 18:19:34",
+      "timestamp": 1781288374
+    },
+    {
+      "id": "8028c43c660a67495aaaf531cbdf42c8c3fd2b58",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
+      "published": "2026-06-12 18:17:55",
+      "timestamp": 1781288275
+    },
+    {
+      "id": "76d09a4de443bab98a9caca9c07efcc2c73476be",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "published": "2026-06-12 17:54:28",
+      "timestamp": 1781286868
+    },
     {
       "id": "3e7e1485947fc52232ad47429a65efd997f693d9",
       "source": "BleepingComputer",
@@ -30,6 +90,16 @@
       "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
       "published": "2026-06-12 12:04:33",
       "timestamp": 1781265873
+    },
+    {
+      "id": "cbc7c3be36b92b43bf2cfa21df5a3550fc6d2d75",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability ma",
+      "published": "2026-06-12 12:00:00",
+      "timestamp": 1781265600
     },
     {
       "id": "5a8f844b0ca21bedd323d30629a241a0d54018e8",
@@ -242,16 +312,6 @@
       "timestamp": 1781182361
     },
     {
-      "id": "92c95931e6ae61934be14c4f85f1592e0b3baae9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
-      "published": "2026-06-11 12:46:44",
-      "timestamp": 1781182004
-    },
-    {
       "id": "5fe5634fe2bcaadac1ac983ead56a3624fdfe1d3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -280,26 +340,6 @@
       "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack",
       "published": "2026-06-11 09:45:58",
       "timestamp": 1781171158
-    },
-    {
-      "id": "e963dc8753f13667a3f4f81af815d5381e2f1faf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
-      "published": "2026-06-11 08:44:22",
-      "timestamp": 1781167462
-    },
-    {
-      "id": "24c306d47fafa58a3da6a3ffb258d22fca1984b2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "published": "2026-06-11 07:27:53",
-      "timestamp": 1781162873
     },
     {
       "id": "6a3e86942f505219c9d674476887e5e27e3bf8e1",
@@ -710,36 +750,6 @@
       "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release. Only the FFmpeg bugs were found by AI.",
       "published": "2026-06-06 07:28:30",
       "timestamp": 1780730910
-    },
-    {
-      "id": "2d7ba8d484dfe6fd945e9be79e3e9dc6ffe4c6bc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has prompted GitHub to disable access to those repositories. \"",
-      "published": "2026-06-06 06:58:04",
-      "timestamp": 1780729084
-    },
-    {
-      "id": "a65938b9593700ba58c79e6cd2ed4ee677c54d7f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited \u2013 No Patch Available",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
-      "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation. The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types - On-Prem Deployment Cisco SD-WAN Cloud-Pro Cisco SD-WAN Cloud (Cisco Managed) Cisco SD-WAN for Government (FedRAMP) \"A",
-      "published": "2026-06-06 04:19:28",
-      "timestamp": 1780719568
-    },
-    {
-      "id": "0777cd905d428d1e438cd25dc73ec02fb628587f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
-      "published": "2026-06-05 18:05:30",
-      "timestamp": 1780682730
     },
     {
       "id": "9de6b49bf9dea6c84be5a320b92de53673a47f2f",
@@ -1240,16 +1250,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of",
       "published": "2026-04-14 12:00:00",
       "timestamp": 1776168000
-    },
-    {
-      "id": "597aa500c756d7f2b80a522e7e3d9a22bb847f61",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-2020-9715 Adobe Acrobat Use-After-Free Vulnerability CVE-2023-21529 Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability CVE-2023-36424 Microsoft Windows Out-of-Bounds Read Vulnerability CVE-2025-60710 Microsoft Windows Link Following Vulnerabil",
-      "published": "2026-04-13 12:00:00",
-      "timestamp": 1776081600
     },
     {
       "id": "a311f72b19fbb121722ae5ba2456974eb770d127",
