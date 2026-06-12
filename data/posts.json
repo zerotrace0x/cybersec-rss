@@ -1,6 +1,36 @@
 {
-  "generated_at": 1781266136,
+  "generated_at": 1781285335,
   "items": [
+    {
+      "id": "3e7e1485947fc52232ad47429a65efd997f693d9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "published": "2026-06-12 17:03:55",
+      "timestamp": 1781283835
+    },
+    {
+      "id": "33d5aede6e6e2c751f165104f43d621d8cd41cee",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
+      "published": "2026-06-12 14:01:11",
+      "timestamp": 1781272871
+    },
+    {
+      "id": "f4eda026653d5c2bf21ad6a1ffdf8ca2822f14ae",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
+      "published": "2026-06-12 12:04:33",
+      "timestamp": 1781265873
+    },
     {
       "id": "5a8f844b0ca21bedd323d30629a241a0d54018e8",
       "source": "BleepingComputer",
@@ -280,26 +310,6 @@
       "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code using npm lifecycle hooks. \"Npm install\" is used to download and install all the necessary",
       "published": "2026-06-11 06:23:03",
       "timestamp": 1781158983
-    },
-    {
-      "id": "6869dd065feb0d9b1e11ba04d6cfbcfa24d851fc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-      "published": "2026-06-11 06:20:22",
-      "timestamp": 1781158822
-    },
-    {
-      "id": "c0174c616ef19c8555634f7a5bc66e09d5c2b4ed",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-      "summary": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
-      "published": "2026-06-10 21:23:44",
-      "timestamp": 1781126624
     },
     {
       "id": "c6ea3bcbfc83e3725cbcb0989694d306c4a09973",
@@ -740,16 +750,6 @@
       "summary": "Microsoft Threat Intelligence identified a prompt injection pathway in Claude Code GitHub Action that allowed access to workflow secrets under specific conditions. This research examines the attack chain, responsible disclosure process, Anthropic's mitigation, and guidance for securing AI-powered CI/CD workflows. The post Securing CI/CD in an agentic world: Claude Code Github action case appeared first on Microsoft Security Blog.",
       "published": "2026-06-05 16:46:47",
       "timestamp": 1780678007
-    },
-    {
-      "id": "914f7edc3752e9edbcbb43633a40bdd175717c6a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source: govlens[.]net, which",
-      "published": "2026-06-05 14:53:40",
-      "timestamp": 1780671220
     },
     {
       "id": "46aa054d74c6f20487da2cb7e188de4ef0c50dbf",
