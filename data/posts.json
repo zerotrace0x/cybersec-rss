@@ -1,6 +1,26 @@
 {
-  "generated_at": 1781356636,
+  "generated_at": 1781366822,
   "items": [
+    {
+      "id": "4bf633d4abf6636e1fbfa6c0a808e6d1536f7b33",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+      "published": "2026-06-13 14:06:42",
+      "timestamp": 1781359602
+    },
+    {
+      "id": "79b07cfa54b742dae4db9813e78225a40469d2c6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
+      "published": "2026-06-13 13:23:03",
+      "timestamp": 1781356983
+    },
     {
       "id": "5903c20914fa9a0377048590c828b3a13ac6e8a1",
       "source": "BleepingComputer",
@@ -280,16 +300,6 @@
       "summary": "Law enforcement has dismantled the \u201cAudiA6\u201d cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
       "published": "2026-06-11 15:55:41",
       "timestamp": 1781193341
-    },
-    {
-      "id": "5879a74ee1b753fd2845e449953b9f3f4704abde",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-      "published": "2026-06-11 14:00:10",
-      "timestamp": 1781186410
     },
     {
       "id": "73148309d9329da342ebffe6bddd2d0e2a3f8d7f",
@@ -742,16 +752,6 @@
       "timestamp": 1780734545
     },
     {
-      "id": "c2212ca31d173807dd559b40fe55fba0101f1140",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash",
-      "published": "2026-06-06 08:14:31",
-      "timestamp": 1780733671
-    },
-    {
       "id": "9de6b49bf9dea6c84be5a320b92de53673a47f2f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -852,7 +852,7 @@
       "timestamp": 1780315200
     },
     {
-      "id": "5586f9535dae1a79e3fea6f3e4d33ce4c7645603",
+      "id": "1dcee58b609fa4962d8bf49ef36f5472ba085196",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
@@ -882,7 +882,7 @@
       "timestamp": 1780056000
     },
     {
-      "id": "7b9b07c00592cae176e0ac90367166c642c6574c",
+      "id": "3d8c96f01c7b76d6e4e28374f55581bfd3591549",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
