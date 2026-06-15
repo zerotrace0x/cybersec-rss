@@ -1,6 +1,46 @@
 {
-  "generated_at": 1781549888,
+  "generated_at": 1781563945,
   "items": [
+    {
+      "id": "0f2fc17b7ab21427409c8782b15393bceaf0b9e1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "summary": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]",
+      "published": "2026-06-15 21:56:55",
+      "timestamp": 1781560615
+    },
+    {
+      "id": "fb300d199c56fdf318c2395def3418e6aff94ffa",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+      "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
+      "published": "2026-06-15 20:06:52",
+      "timestamp": 1781554012
+    },
+    {
+      "id": "656c3954abe3358bd2c210c5f53ba78d534dd1c6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
+      "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
+      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message",
+      "published": "2026-06-15 19:44:06",
+      "timestamp": 1781552646
+    },
+    {
+      "id": "bbe84a5fb5424e6645e7b4a95094353bc825fcdf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
+      "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
+      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes",
+      "published": "2026-06-15 19:32:52",
+      "timestamp": 1781551972
+    },
     {
       "id": "a35c6f8e6ecfbab8348d399afa2f6e73fda6fd26",
       "source": "BleepingComputer",
@@ -142,6 +182,16 @@
       "timestamp": 1781525540
     },
     {
+      "id": "6cfad09547ab0ff8db2c573b0e5e3a2fd4af0e71",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed cPanel Plugin UNIX Symbolic Link (Symlink) Following Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Pr",
+      "published": "2026-06-15 12:00:00",
+      "timestamp": 1781524800
+    },
+    {
       "id": "f6c5d2fd73a3c6fee4009caca14c41648fcb9c2e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -252,16 +302,6 @@
       "timestamp": 1781329370
     },
     {
-      "id": "3ec477d484373245c7b8e6c0f0b5907644b866d8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Maine disables data breach notification portal after fake disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
-      "published": "2026-06-12 19:33:32",
-      "timestamp": 1781292812
-    },
-    {
       "id": "5df2a178923cc3b3821ec4d4c1ecf4674394c9d0",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +320,6 @@
       "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
       "published": "2026-06-12 18:59:32",
       "timestamp": 1781290772
-    },
-    {
-      "id": "26eeb3ce010ce873f585d9ea37426a2de05b5a4b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
-      "published": "2026-06-12 18:19:34",
-      "timestamp": 1781288374
     },
     {
       "id": "8028c43c660a67495aaaf531cbdf42c8c3fd2b58",
@@ -732,16 +762,6 @@
       "timestamp": 1780949859
     },
     {
-      "id": "185790d5037b1aacaf544daa44c923d2725f2a7f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
-      "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
-      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users. \"They tried to trick people into clicking on malicious links to drive them to external websites",
-      "published": "2026-06-08 17:08:44",
-      "timestamp": 1780938524
-    },
-    {
       "id": "beb6f883ca3f51eccd8e573c3e89a7816354da18",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -750,16 +770,6 @@
       "summary": "As threat actors operationalize AI to accelerate attacks, they are also leveraging the wider global interest around AI itself as a social engineering lure. The post AI brands as bait: How threat actors are using the AI hype in social engineering appeared first on Microsoft Security Blog.",
       "published": "2026-06-08 16:00:00",
       "timestamp": 1780934400
-    },
-    {
-      "id": "32d20b07dc0610bd73d305bf2374b5b844e8132c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-      "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user",
-      "published": "2026-06-08 14:17:39",
-      "timestamp": 1780928259
     },
     {
       "id": "fef886ba504745c8ffc66066771dafbd30e0947a",
@@ -1250,16 +1260,6 @@
       "summary": "Written by: Jamie Collier, Robin Grunewald Germany has reclaimed its position as a primary focus for cyber extortion in Europe. While data leak site (DLS) posts rose almost 50% globally in 2025, Google Threat Intelligence (GTI) data shows that the surge is hitting German infrastructure harder and faster than its regional neighbors, marking a significant return to the high-pressure levels previously observed in the country during 2022 and 2023. Cyber Criminals Pivoting Back to Germany Germany mov",
       "published": "2026-04-15 14:00:00",
       "timestamp": 1776261600
-    },
-    {
-      "id": "90017c21e58a88408b61c4081f8ed5d40052721b",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of",
-      "published": "2026-04-14 12:00:00",
-      "timestamp": 1776168000
     },
     {
       "id": "a311f72b19fbb121722ae5ba2456974eb770d127",
