@@ -1,6 +1,76 @@
 {
-  "generated_at": 1781535090,
+  "generated_at": 1781549888,
   "items": [
+    {
+      "id": "a35c6f8e6ecfbab8348d399afa2f6e73fda6fd26",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
+      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
+      "published": "2026-06-15 17:37:07",
+      "timestamp": 1781545027
+    },
+    {
+      "id": "31674d943d284e325ff3efd168d1cd865d7d1dae",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+      "published": "2026-06-15 17:12:42",
+      "timestamp": 1781543562
+    },
+    {
+      "id": "4aefd5ab552c3156e45831602924e9684a92a43d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface. A server takeover exposes every provider key it holds, the secrets that",
+      "published": "2026-06-15 16:39:01",
+      "timestamp": 1781541541
+    },
+    {
+      "id": "eba230e1930474dc0ced7b860a1d3377c7e9cf07",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Council of Europe investigates ShinyHunters data breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
+      "published": "2026-06-15 16:37:11",
+      "timestamp": 1781541431
+    },
+    {
+      "id": "27da1620a2c78aed6142dee3adcbb1db4b8bbd7d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft Defender email security benchmarking: Key insights from one year of data",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
+      "summary": "See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors. The post Microsoft Defender email security benchmarking: Key insights from one year of data appeared first on Microsoft Security Blog.",
+      "published": "2026-06-15 16:00:00",
+      "timestamp": 1781539200
+    },
+    {
+      "id": "c337eefebd2fde61d47759c9640deb0e3d5d975b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
+      "published": "2026-06-15 15:30:23",
+      "timestamp": 1781537423
+    },
+    {
+      "id": "afc4901a937256a641117b86b2eb2696d704aed2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
+      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
+      "published": "2026-06-15 15:09:05",
+      "timestamp": 1781536145
+    },
     {
       "id": "a1a4fdd0b2d8861fb9fe2eef89e73bdf052b8aa2",
       "source": "BleepingComputer",
@@ -18,6 +88,16 @@
       "title": "Chinese hackers breach REDCap servers, steal medical research",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
       "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
+      "published": "2026-06-15 14:00:00",
+      "timestamp": 1781532000
+    },
+    {
+      "id": "9d9ac92d8afeb2a4f4d10a2d35921b3032690696",
+      "source": "Mandiant Blog",
+      "source_category": "Threat Intel",
+      "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
+      "summary": "Written by: Patrick Whitsell, John McGuiness Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, targeting institutions in the North American academic, medical, and military research community. While remaining undetected for over a year, the threat actor compromised externally facing web applications, deployed bespoke malware, pivoted to sensitive internal systems, and abused enterprise admi",
       "published": "2026-06-15 14:00:00",
       "timestamp": 1781532000
     },
@@ -222,36 +302,6 @@
       "timestamp": 1781288275
     },
     {
-      "id": "76d09a4de443bab98a9caca9c07efcc2c73476be",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
-      "published": "2026-06-12 17:54:28",
-      "timestamp": 1781286868
-    },
-    {
-      "id": "3e7e1485947fc52232ad47429a65efd997f693d9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "published": "2026-06-12 17:03:55",
-      "timestamp": 1781283835
-    },
-    {
-      "id": "33d5aede6e6e2c751f165104f43d621d8cd41cee",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
-      "published": "2026-06-12 14:01:11",
-      "timestamp": 1781272871
-    },
-    {
       "id": "f4eda026653d5c2bf21ad6a1ffdf8ca2822f14ae",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +320,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability ma",
       "published": "2026-06-12 12:00:00",
       "timestamp": 1781265600
-    },
-    {
-      "id": "5a8f844b0ca21bedd323d30629a241a0d54018e8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
-      "published": "2026-06-12 11:44:58",
-      "timestamp": 1781264698
     },
     {
       "id": "f789e5ed0f470638dd000330a82d06cb489eaef8",
@@ -722,26 +762,6 @@
       "timestamp": 1780928259
     },
     {
-      "id": "77c4b30974689c70166b132360282b23bb820a42",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-      "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
-      "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance. As the queue grows, a credential theft attempt or malware delivery can easily",
-      "published": "2026-06-08 13:19:13",
-      "timestamp": 1780924753
-    },
-    {
-      "id": "57625ff8f99480fee38fbedaf5734581a2d927ee",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-      "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in inboxes for months, reading mail and",
-      "published": "2026-06-08 13:18:57",
-      "timestamp": 1780924737
-    },
-    {
       "id": "fef886ba504745c8ffc66066771dafbd30e0947a",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -880,16 +900,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list ",
       "published": "2026-05-29 12:00:00",
       "timestamp": 1780056000
-    },
-    {
-      "id": "3d8c96f01c7b76d6e4e28374f55581bfd3591549",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
-      "summary": "The Mini Shai-Hulud campaign used malicious npm packages to target cloud and CI/CD credentials across developer environments. This report details the attack chain, detection opportunities, and mitigation guidance to help organizations identify and disrupt related activity. The post Typosquatted npm packages used to steal cloud and CI/CD secrets appeared first on Microsoft Security Blog.",
-      "published": "2026-05-29 03:04:52",
-      "timestamp": 1780023892
     },
     {
       "id": "ae375005f1b60733f75114c99abeb21394b7da95",
@@ -1370,16 +1380,6 @@
       "summary": "Written by: Peter Ukhanov, Daniel Sislo, Nick Harbour, John Scarbrough, Fernando Tomlinson, Jr., Rich Reece Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified the zero-day exploitation of a high-risk vulnerability in Dell RecoverPoint for Virtual Machines, tracked as CVE-2026-22769, with a CVSSv3.1 score of 10.0. Analysis of incident response engagements revealed that UNC6201, a suspected PRC-nexus threat cluster, has exploited this flaw since at least mid-2024 to ",
       "published": "2026-02-17 14:00:00",
       "timestamp": 1771336800
-    },
-    {
-      "id": "4eecf935276592e0f02c13205d631a60912f727d",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use/",
-      "summary": "Introduction In the final quarter of 2025, Google Threat Intelligence Group (GTIG) observed threat actors increasingly integrating artificial intelligence (AI) to accelerate the attack lifecycle, achieving productivity gains in reconnaissance, social engineering, and malware development. This report serves as an update to our November 2025 findings regarding the advances in threat actor usage of AI tools. By identifying these early indicators and offensive proofs of concept, GTIG aims to arm def",
-      "published": "2026-02-12 14:00:00",
-      "timestamp": 1770904800
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
