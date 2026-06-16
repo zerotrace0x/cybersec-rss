@@ -1,6 +1,76 @@
 {
-  "generated_at": 1781598961,
+  "generated_at": 1781615997,
   "items": [
+    {
+      "id": "102162834dbbc32a957202d8286b7ce4f4f2304f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
+      "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
+      "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this abundance of information, many organizations continue to face a fundamental challenge: sifting through the noise to understand who is behind an IP and",
+      "published": "2026-06-16 11:30:00",
+      "timestamp": 1781609400
+    },
+    {
+      "id": "339770552274cdf546d2151fac53ed1a8afcd9ef",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
+      "published": "2026-06-16 10:47:59",
+      "timestamp": 1781606879
+    },
+    {
+      "id": "5610cef92c4a94e60e71b7ffdd203e8407100a34",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
+      "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours. CVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could",
+      "published": "2026-06-16 10:30:41",
+      "timestamp": 1781605841
+    },
+    {
+      "id": "4a204437e665b69f7605f24d2fbd74669437c701",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+      "summary": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
+      "published": "2026-06-16 10:18:48",
+      "timestamp": 1781605128
+    },
+    {
+      "id": "a73650e11f83f8ebc74c4ff2a914b3db4bd059e0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
+      "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
+      "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,\" ESET said in a report shared with The Hacker News. \"Both come with a hard-coded C&C [command-and-control] configuration and support communication over TCP, UDP,",
+      "published": "2026-06-16 09:44:34",
+      "timestamp": 1781603074
+    },
+    {
+      "id": "ddcf69d9af9a94e0d6f3ed076df87d43bd3ff2ef",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+      "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
+      "published": "2026-06-16 09:19:51",
+      "timestamp": 1781601591
+    },
+    {
+      "id": "27a0471f3549423fef690b4d6ebe24b3cfa827f3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
+      "published": "2026-06-16 09:00:00",
+      "timestamp": 1781600400
+    },
     {
       "id": "7fe2f7198a2fbebb57a679c51dbc1cac033f1ac0",
       "source": "The Hacker News",
@@ -212,16 +282,6 @@
       "timestamp": 1781527135
     },
     {
-      "id": "9edd0da72643ce600687e5e4a7a088f2222dba2d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response times. [...]",
-      "published": "2026-06-15 12:12:20",
-      "timestamp": 1781525540
-    },
-    {
       "id": "6cfad09547ab0ff8db2c573b0e5e3a2fd4af0e71",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -280,36 +340,6 @@
       "summary": "Palo Alto Networks has revealed that it has observed \"active exploitation\" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals. The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad",
       "published": "2026-06-15 06:17:32",
       "timestamp": 1781504252
-    },
-    {
-      "id": "015147e53e8336ffb7a7375b7422027d65e40689",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "summary": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]",
-      "published": "2026-06-14 14:36:23",
-      "timestamp": 1781447783
-    },
-    {
-      "id": "8954ebb689480cf5fde549c7d6e781a001d64012",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ex-school district employee jailed for hacks on former employer",
-      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
-      "summary": "A former IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
-      "published": "2026-06-13 20:53:13",
-      "timestamp": 1781383993
-    },
-    {
-      "id": "4bf633d4abf6636e1fbfa6c0a808e6d1536f7b33",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-      "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
-      "published": "2026-06-13 14:06:42",
-      "timestamp": 1781359602
     },
     {
       "id": "79b07cfa54b742dae4db9813e78225a40469d2c6",
@@ -730,36 +760,6 @@
       "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service. The preprint, posted to arXiv on",
       "published": "2026-06-09 11:59:03",
       "timestamp": 1781006343
-    },
-    {
-      "id": "22050eb9715435fa26f0ee8de22789d490b80157",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
-      "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103",
-      "published": "2026-06-09 11:58:49",
-      "timestamp": 1781006329
-    },
-    {
-      "id": "6ed5494d7523bae1d8e6b4a138391e59642f3034",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
-      "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
-      "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort. But the same challenges persist. Outages still last hours, causing significant financial losses, operational disruption, and reputational impact. Threat response and mean time to",
-      "published": "2026-06-09 11:30:00",
-      "timestamp": 1781004600
-    },
-    {
-      "id": "2d99b25129a7696e28439b3dee1f8ada1d72bab0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
-      "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
-      "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt. You open the page, leave the tab sitting there, and it watches the drive for contention in the background. Researchers at Graz University of Technology built it and",
-      "published": "2026-06-09 09:50:41",
-      "timestamp": 1780998641
     },
     {
       "id": "beb6f883ca3f51eccd8e573c3e89a7816354da18",
