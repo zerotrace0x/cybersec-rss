@@ -1,6 +1,36 @@
 {
-  "generated_at": 1781635794,
+  "generated_at": 1781649922,
   "items": [
+    {
+      "id": "5351c106b57a99def49cef6818d52717a79acbbc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "summary": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
+      "published": "2026-06-16 21:54:50",
+      "timestamp": 1781646890
+    },
+    {
+      "id": "d060c659e250a8c8d2afe9499cb56527e277e9a4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+      "published": "2026-06-16 20:04:11",
+      "timestamp": 1781640251
+    },
+    {
+      "id": "fd69749b482ff302b3dd511d85f209ef8221578a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild.",
+      "published": "2026-06-16 19:05:41",
+      "timestamp": 1781636741
+    },
     {
       "id": "8699cc7ee29076fcacbd6952e465a74ce77aa85e",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
       "published": "2026-06-16 18:27:55",
       "timestamp": 1781634475
+    },
+    {
+      "id": "67a1e26acf8d50bede216dfad97fa8d3524de08a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations. \"Earlier BabaDeda activity was known for",
+      "published": "2026-06-16 17:41:28",
+      "timestamp": 1781631688
     },
     {
       "id": "8b1a7cb7cdd48a9164b6f1b0d61ba51c249d6a8e",
@@ -50,6 +90,16 @@
       "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
       "published": "2026-06-16 13:10:17",
       "timestamp": 1781615417
+    },
+    {
+      "id": "ea1a0ef627d7ea2275798ec67672329075953722",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for",
+      "published": "2026-06-16 12:00:00",
+      "timestamp": 1781611200
     },
     {
       "id": "102162834dbbc32a957202d8286b7ce4f4f2304f",
@@ -232,16 +282,6 @@
       "timestamp": 1781541541
     },
     {
-      "id": "eba230e1930474dc0ced7b860a1d3377c7e9cf07",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Council of Europe investigates ShinyHunters data breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
-      "published": "2026-06-15 16:37:11",
-      "timestamp": 1781541431
-    },
-    {
       "id": "27da1620a2c78aed6142dee3adcbb1db4b8bbd7d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -252,16 +292,6 @@
       "timestamp": 1781539200
     },
     {
-      "id": "c337eefebd2fde61d47759c9640deb0e3d5d975b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
-      "published": "2026-06-15 15:30:23",
-      "timestamp": 1781537423
-    },
-    {
       "id": "afc4901a937256a641117b86b2eb2696d704aed2",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +300,6 @@
       "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
       "published": "2026-06-15 15:09:05",
       "timestamp": 1781536145
-    },
-    {
-      "id": "9d9ac92d8afeb2a4f4d10a2d35921b3032690696",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Public and Private Medical Community Targeted by China-Nexus Threat Actor Pursuing Artificial Intelligence, Cyber, Medical, and National Defense Research",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/prc-targets-us-medical-research/",
-      "summary": "Written by: Patrick Whitsell, John McGuiness Google Threat Intelligence Group (GTIG) has identified a sophisticated campaign attributed to UNC6508, a People's Republic of China (PRC)-nexus threat actor, targeting institutions in the North American academic, medical, and military research community. While remaining undetected for over a year, the threat actor compromised externally facing web applications, deployed bespoke malware, pivoted to sensitive internal systems, and abused enterprise admi",
-      "published": "2026-06-15 14:00:00",
-      "timestamp": 1781532000
     },
     {
       "id": "fb180efb25c7807d1ecbbbda4b609cc69edc53be",
@@ -502,16 +522,6 @@
       "timestamp": 1781196647
     },
     {
-      "id": "73148309d9329da342ebffe6bddd2d0e2a3f8d7f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/shinyhunters-targets-education-sector-oracle-exploit/",
-      "summary": "Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified an active compromise and extortion campaign attributed to UNC6240 (ShinyHunters) targeting Oracle PeopleSoft application infrastructure. The activity was observed between May 27, 2026, and June 9, 2026 and is consistent with the exploitation of CVE-2026-35273, a critical remote code execution vulnerability (CVSS 9.8) in the Environment Management component. The exploitation of this vulnerability directly aligns wit",
-      "published": "2026-06-11 14:00:00",
-      "timestamp": 1781186400
-    },
-    {
       "id": "757f39f8af2b0834471ba50ed79d3ace61789e77",
       "source": "The Hacker News",
       "source_category": "General",
@@ -732,26 +742,6 @@
       "timestamp": 1781023187
     },
     {
-      "id": "c26ee8967aeb1ff82af072def837972097b870e7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-      "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code. \"Our priority is to protect customers and the broader ecosystem,\" a Microsoft spokesperson told The Hacker News via email. \"We temporarily removed some",
-      "published": "2026-06-09 16:34:52",
-      "timestamp": 1781022892
-    },
-    {
-      "id": "8c738a94700612405f79ff2ac39709f80e5be10b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
-      "published": "2026-06-09 12:26:10",
-      "timestamp": 1781007970
-    },
-    {
       "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -790,16 +780,6 @@
       "summary": "Microsoft Threat Intelligence identified a prompt injection pathway in Claude Code GitHub Action that allowed access to workflow secrets under specific conditions. This research examines the attack chain, responsible disclosure process, Anthropic's mitigation, and guidance for securing AI-powered CI/CD workflows. The post Securing CI/CD in an agentic world: Claude Code Github action case appeared first on Microsoft Security Blog.",
       "published": "2026-06-05 16:46:47",
       "timestamp": 1780678007
-    },
-    {
-      "id": "46aa054d74c6f20487da2cb7e188de4ef0c50dbf",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Seeking Counsel: Ongoing Targeted Campaign Against US Law Firms",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/targeted-campaign-us-law-firms/",
-      "summary": "Written by: Chad Reams, Tufail Ahmed, Keith Knapp, Ashley Frazer, Tyler McLellan Introduction From January through May 2026, Mandiant identified a financially motivated data theft extortion campaign executed by the threat cluster UNC3753 (also tracked as \"Luna Moth,\" \u201cChatty Spider,\u201d and \"Silent Ransom Group\") targeting dozens of organizations across professional, legal, and financial services in the United States. UNC3753 leverages voice phishing (vishing) and social engineering deception techn",
-      "published": "2026-06-05 14:00:00",
-      "timestamp": 1780668000
     },
     {
       "id": "9484369c9ec509b7c91560db68e1251595afb46a",
@@ -942,26 +922,6 @@
       "timestamp": 1779796800
     },
     {
-      "id": "a2c0b82ec383f00a597a4ed1d00c6d68c9322cd0",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Exploitation of KnowledgeDeliver via ViewState Deserialization Vulnerability",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/knowledgedeliver-viewstate-deserialization-vulnerability/",
-      "summary": "Written by: Takahiro Sugiyama, Peter Revelant, Mathew Potaczek Introduction In late 2025, Mandiant responded to a security incident involving a compromised web server running KnowledgeDeliver. KnowledgeDeliver is a Learning Management System (LMS) developed by Digital Knowledge commonly used in Japan. Mandiant identified a critical vulnerability that allowed unauthenticated Remote Code Execution (RCE). An unknown threat actor leveraged this access to inject malicious code into the LMS platform, ",
-      "published": "2026-05-25 14:00:00",
-      "timestamp": 1779717600
-    },
-    {
-      "id": "a705a932489530398505f3a52ab55cff3cfccc6c",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "2 PhaaS 2 Furious: The Evolution of Chinese-Language Phishing Services",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/chinese-language-phishing-services/",
-      "summary": "While Russian-speaking threat actors have historically dominated the phishing-as-a-service (PhaaS) landscape, a rival ecosystem is rapidly growing within the Chinese-language underground. Google Threat Intelligence Group (GTIG) analyzed a dozen current PhaaS offerings in the Chinese underground, all of them mature services and many likely tied intricately to the broader criminal ecosystem in that region. These services not only lower the barrier to entry for Chinese cyber criminals, but reveal b",
-      "published": "2026-05-25 14:00:00",
-      "timestamp": 1779717600
-    },
-    {
       "id": "0f0ee811059df5fe104201ef679dba7a1dbd741e",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1032,16 +992,6 @@
       "timestamp": 1779137301
     },
     {
-      "id": "7c19c58263f34188d052641e81bda636e5499fe4",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Welcome to BlackFile: Inside a Vishing Extortion Operation",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/",
-      "summary": "Written by: Austin Larsen, Tyler McLellan, Genevieve Stark, Dan Ebreo Introduction Google Threat Intelligence Group (GTIG) has continued to track an expansive extortion campaign by UNC6671, a threat actor operating under the \"BlackFile\" brand, that targets organizations via sophisticated voice phishing (vishing) and single sign-on (SSO) compromise. By leveraging adversary-in-the-middle (AiTM) techniques to bypass traditional perimeter defenses and multi-factor authentication (MFA), UNC6671 gains",
-      "published": "2026-05-15 14:00:00",
-      "timestamp": 1778853600
-    },
-    {
       "id": "9f5def5a01d8b1ea1e3bf791b9354422ff842afc",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1080,16 +1030,6 @@
       "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
       "published": "2026-05-12 21:46:45",
       "timestamp": 1778622405
-    },
-    {
-      "id": "ab3c4e032df2c1821cf25cdef568c473825a927c",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "GTIG AI Threat Tracker: Adversaries Leverage AI for Vulnerability Exploitation, Augmented Operations, and Initial Access",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access/",
-      "summary": "Executive Summary Since our February 2026 report on AI-related threat activity, Google Threat Intelligence Group (GTIG) has continued to track a maturing transition from nascent AI-enabled operations to the industrial-scale application of generative models within adversarial workflows. This report, based on insights derived from Mandiant incident response engagements, Gemini, and GTIG\u2019s proactive research, highlights the dual nature of the current threat environment where AI serves as both a sop",
-      "published": "2026-05-11 14:00:00",
-      "timestamp": 1778508000
     },
     {
       "id": "b7bb968bc0b8270417d54f1e061a3ba56ebab3e6",
@@ -1182,16 +1122,6 @@
       "timestamp": 1777032000
     },
     {
-      "id": "9a5a8c68be411c05ec274faefe78a64006d56d52",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Snow Flurries: How UNC6692 Employed Social Engineering to Deploy a Custom Malware Suite",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6692-social-engineering-custom-malware/",
-      "summary": "Written by: JP Glab, Tufail Ahmed, Josh Kelley, Muhammad Umair Introduction Google Threat Intelligence Group (GTIG) identified a multistage intrusion campaign by a newly tracked threat group, UNC6692, that leveraged persistent social engineering, a custom modular malware suite, and deft pivoting inside the victim\u2019s environment to achieve deep network penetration. As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim ",
-      "published": "2026-04-23 14:00:00",
-      "timestamp": 1776952800
-    },
-    {
       "id": "45c40277e0e580d20ff62eb397a2c8b83a1b322b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1232,106 +1162,6 @@
       "timestamp": 1776686400
     },
     {
-      "id": "91b74b1c6781c494ad3465b2279571718f59509b",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Defending Your Enterprise When AI Models Can Find Vulnerabilities Faster Than Ever",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/defending-enterprise-ai-vulnerabilities/",
-      "summary": "Introduction Advances in AI model-powered exploitation have demonstrated that general-purpose AI models can excel at vulnerability discovery, even without being purpose-built for the task. Eventually, capabilities such as these will be integrated directly into the development cycle, and code will be more difficult to exploit than ever; however, this transition creates a critical window of risk. As we harden existing software with AI, threat actors will use it to discover and exploit novel vulner",
-      "published": "2026-04-16 14:00:00",
-      "timestamp": 1776348000
-    },
-    {
-      "id": "d485631d6cf745151e4956c1d983c4be3919a282",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of kno",
-      "published": "2026-04-16 12:00:00",
-      "timestamp": 1776340800
-    },
-    {
-      "id": "36ccec0dcf001f57e828b46c14db5a4b00c3da00",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "The German Cyber Criminal \u00dcberfall: Shifts in Europe's Data Leak Landscape",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/europe-data-leak-landscape/",
-      "summary": "Written by: Jamie Collier, Robin Grunewald Germany has reclaimed its position as a primary focus for cyber extortion in Europe. While data leak site (DLS) posts rose almost 50% globally in 2025, Google Threat Intelligence (GTI) data shows that the surge is hitting German infrastructure harder and faster than its regional neighbors, marking a significant return to the high-pressure levels previously observed in the country during 2022 and 2023. Cyber Criminals Pivoting Back to Germany Germany mov",
-      "published": "2026-04-15 14:00:00",
-      "timestamp": 1776261600
-    },
-    {
-      "id": "a311f72b19fbb121722ae5ba2456974eb770d127",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "vSphere and BRICKSTORM Malware: A Defender's Guide",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/vsphere-brickstorm-defender-guide/",
-      "summary": "Written by: Stuart Carrera Introduction Building on recent BRICKSTORM research from Google Threat Intelligence Group (GTIG), this post explores the evolving threats facing virtualized environments. These operations directly target the VMware vSphere ecosystem, specifically the vCenter Server Appliance (VCSA) and ESXi hypervisors. To help organizations stay ahead of these risks, we will focus on the essential hardening strategies and mitigating controls necessary to secure these critical assets. ",
-      "published": "2026-04-02 14:00:00",
-      "timestamp": 1775138400
-    },
-    {
-      "id": "fcb8366f8e86db1874b9b22b427d36bf0a37f002",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "North Korea-Nexus Threat Actor Compromises Widely Used Axios NPM Package in Supply Chain Attack",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/north-korea-threat-actor-targets-axios-npm-package/",
-      "summary": "Written by: Austin Larsen, Dima Lenz, Adrian Hernandez, Tyler McLellan, Christopher Gardner, Ashley Zaya, Michael Rudden, Mon Liclican, Muhammad Umair Introduction Google Threat Intelligence Group (GTIG) is tracking an active software supply chain attack targeting the popular Node Package Manager (NPM) package \"axios.\" Between March 31, 2026, 00:21 and 03:20 UTC, an attacker introduced a malicious dependency named \"plain-crypto-js\" into axios NPM releases versions 1.14.1 and 0.30.4. Axios is the",
-      "published": "2026-03-31 14:00:00",
-      "timestamp": 1774965600
-    },
-    {
-      "id": "0be4695152778b858e8c7e3c204dbcb39fa9113d",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "M-Trends 2026: Data, Insights, and Strategies From the Frontlines",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2026/",
-      "summary": "Every year, the cyber threat landscape forces defenders to adapt to evolving adversary tactics, techniques, and procedures (TTPs). In 2025, Mandiant observed a clear divergence in adversary pacing that closely aligns with the trends we have been documenting for defenders over the past year. On one end of the spectrum, cyber criminal groups optimized for immediate impact and deliberate recovery denial. On the other end, sophisticated cyber espionage groups and insider threats optimized for extrem",
-      "published": "2026-03-23 14:00:00",
-      "timestamp": 1774274400
-    },
-    {
-      "id": "e301ed5156e734a8ba607d80cf96c07dec6e0ef9",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "The Proliferation of DarkSword: iOS Exploit Chain Adopted by Multiple Threat Actors",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain/",
-      "summary": "Introduction Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least November 2025, GTIG has observed multiple commercial surveillance vendors and suspected state-sponsored actors utilizing DarkSword in distinct campaigns. These threat actors have deployed the exploit chain against t",
-      "published": "2026-03-18 14:00:00",
-      "timestamp": 1773842400
-    },
-    {
-      "id": "b364a2af69b65cc1ecf6dcde15d1b09e78066db0",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Ransomware Under Pressure: Tactics, Techniques, and Procedures in a Shifting Threat Landscape",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-ttps-shifting-threat-landscape/",
-      "summary": "Written by: Bavi Sadayappan, Zach Riddle, Ioana Teaca, Kimberly Goody, Genevieve Stark Introduction Since 2018, when many financially motivated threat actors began shifting their monetization strategy to post-compromise ransomware deployments, ransomware has become one of the most pervasive threats to organizations across almost every industry vertical and region. In recent years ransomware operations have evolved, creating a robust ecosystem that has lowered the barrier to entry via the commodi",
-      "published": "2026-03-16 14:00:00",
-      "timestamp": 1773669600
-    },
-    {
-      "id": "ad6e453bbf38397b5f47d3015d6ef106d7747e5d",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Proactive Preparation and Hardening Against Destructive Attacks: 2026 Edition",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/preparation-hardening-destructive-attacks/",
-      "summary": "Written by: Matthew McWhirt, Bhavesh Dhake, Emilio Oropeza, Gautam Krishnan, Stuart Carrera, Greg Blaum, Michael Rudden UPDATE (March 13): Added guidance around abuse or misuse of endpoint / MDM platforms. Background Threat actors leverage destructive malware to destroy data, eliminate evidence of malicious activity, or manipulate systems in a way that renders them inoperable. Destructive cyberattacks can be a powerful means to achieve strategic or tactical objectives; however, the risk of repri",
-      "published": "2026-03-06 14:00:00",
-      "timestamp": 1772805600
-    },
-    {
-      "id": "1045eb9580ed2686c111fb6f8795bc53c620607f",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Look What You Made Us Patch: 2025 Zero-Days in Review",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/2025-zero-day-review/",
-      "summary": "Written by: Casey Charrier, James Sadowski, Zander Work, Clement Lecigne, Beno\u00eet Sevens, Fred Plan Executive Summary Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities exploited in-the-wild in 2025. Although that volume of zero-days is lower than the record high observed in 2023 (100), it is higher than 2024\u2019s count (78) and remained within the 60\u2013100 range established over the previous four years, indicating a trend toward stabilization at these levels. In 2025, we cont",
-      "published": "2026-03-05 14:00:00",
-      "timestamp": 1772719200
-    },
-    {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1342,16 +1172,6 @@
       "timestamp": 1772697600
     },
     {
-      "id": "f118722ea9b6f9f7d29f0bd4e3d22edaa531e7ed",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit/",
-      "summary": "Introduction Google Threat Intelligence Group (GTIG) has identified a new and powerful exploit kit targeting Apple iPhone models running iOS version 13.0 (released in September 2019) up to version 17.2.1 (released in December 2023). The exploit kit, named \u201cCoruna\u201d by its developers, contained five full iOS exploit chains and a total of 23 exploits. The core technical value of this exploit kit lies in its comprehensive collection of iOS exploits, with the most advanced ones using non-public explo",
-      "published": "2026-03-03 14:00:00",
-      "timestamp": 1772546400
-    },
-    {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1360,26 +1180,6 @@
       "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn\u2019t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don\u2019t know about, assuming it\u2019s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation\u2019s remark",
       "published": "2026-02-26 08:00:00",
       "timestamp": 1772092800
-    },
-    {
-      "id": "c7780efd0e6a0d77c70ba8664bac9a869e49ce82",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "Exposing the Undercurrent: Disrupting the GRIDTIDE Global Cyber Espionage Campaign",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-gridtide-global-espionage-campaign/",
-      "summary": "Introduction Last week, Google Threat Intelligence Group (GTIG), Mandiant, and partners took action to disrupt a global espionage campaign targeting telecommunications and government organizations in dozens of nations across four continents. The threat actor, UNC2814, is a suspected People's Republic of China (PRC)-nexus cyber espionage group that GTIG has tracked since 2017. This prolific, elusive actor has a long history of targeting international governments and global telecommunications orga",
-      "published": "2026-02-25 14:00:00",
-      "timestamp": 1772028000
-    },
-    {
-      "id": "b76a3f91ad628cb07d74d7e7abde7cb93c35a5f7",
-      "source": "Mandiant Blog",
-      "source_category": "Threat Intel",
-      "title": "From BRICKSTORM to GRIMBOLT: UNC6201 Exploiting a Dell RecoverPoint for Virtual Machines Zero-Day",
-      "link": "https://cloud.google.com/blog/topics/threat-intelligence/unc6201-exploiting-dell-recoverpoint-zero-day/",
-      "summary": "Written by: Peter Ukhanov, Daniel Sislo, Nick Harbour, John Scarbrough, Fernando Tomlinson, Jr., Rich Reece Introduction Mandiant and Google Threat Intelligence Group (GTIG) have identified the zero-day exploitation of a high-risk vulnerability in Dell RecoverPoint for Virtual Machines, tracked as CVE-2026-22769, with a CVSSv3.1 score of 10.0. Analysis of incident response engagements revealed that UNC6201, a suspected PRC-nexus threat cluster, has exploited this flaw since at least mid-2024 to ",
-      "published": "2026-02-17 14:00:00",
-      "timestamp": 1771336800
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
