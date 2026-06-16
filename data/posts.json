@@ -1,6 +1,56 @@
 {
-  "generated_at": 1781615997,
+  "generated_at": 1781635794,
   "items": [
+    {
+      "id": "8699cc7ee29076fcacbd6952e465a74ce77aa85e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "summary": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
+      "published": "2026-06-16 18:27:55",
+      "timestamp": 1781634475
+    },
+    {
+      "id": "8b1a7cb7cdd48a9164b6f1b0d61ba51c249d6a8e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "summary": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]",
+      "published": "2026-06-16 14:38:49",
+      "timestamp": 1781620729
+    },
+    {
+      "id": "e00e5d27354de620c0d094ae30e6d0e4c41c4b43",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
+      "published": "2026-06-16 14:17:27",
+      "timestamp": 1781619447
+    },
+    {
+      "id": "475bbc591cb92018aa3502bc0a5a84f49ca84f5d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+      "published": "2026-06-16 13:42:19",
+      "timestamp": 1781617339
+    },
+    {
+      "id": "b121d02f625c1038dc0f9d112f1260dfb99604c9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+      "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
+      "published": "2026-06-16 13:10:17",
+      "timestamp": 1781615417
+    },
     {
       "id": "102162834dbbc32a957202d8286b7ce4f4f2304f",
       "source": "The Hacker News",
@@ -222,26 +272,6 @@
       "timestamp": 1781536145
     },
     {
-      "id": "a1a4fdd0b2d8861fb9fe2eef89e73bdf052b8aa2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "summary": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
-      "published": "2026-06-15 14:01:11",
-      "timestamp": 1781532071
-    },
-    {
-      "id": "a67424b82431dc9d306d01f93a6f71858b1114ee",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Chinese hackers breach REDCap servers, steal medical research",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-      "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
-      "published": "2026-06-15 14:00:00",
-      "timestamp": 1781532000
-    },
-    {
       "id": "9d9ac92d8afeb2a4f4d10a2d35921b3032690696",
       "source": "Mandiant Blog",
       "source_category": "Threat Intel",
@@ -260,26 +290,6 @@
       "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
       "published": "2026-06-15 13:49:29",
       "timestamp": 1781531369
-    },
-    {
-      "id": "71bb3f944195040b6cea2e64d5657bfcb034e5bd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "summary": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted URL. [...]",
-      "published": "2026-06-15 13:00:00",
-      "timestamp": 1781528400
-    },
-    {
-      "id": "99f40bcee3116c6cb548d1ad0843676079ab58b5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "summary": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student information system in March. [...]",
-      "published": "2026-06-15 12:38:55",
-      "timestamp": 1781527135
     },
     {
       "id": "6cfad09547ab0ff8db2c573b0e5e3a2fd4af0e71",
@@ -752,17 +762,7 @@
       "timestamp": 1781006400
     },
     {
-      "id": "56d8ee8dab80c120aee19eb9ec8236dddc04f34a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-      "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
-      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service. The preprint, posted to arXiv on",
-      "published": "2026-06-09 11:59:03",
-      "timestamp": 1781006343
-    },
-    {
-      "id": "beb6f883ca3f51eccd8e573c3e89a7816354da18",
+      "id": "0e5db717e5b2f3a5ccf5eaea91caab26da5ea4fa",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
@@ -832,7 +832,7 @@
       "timestamp": 1780488000
     },
     {
-      "id": "891675e282cb009ac20439ad75b5104935cb85e0",
+      "id": "ad0d65c8e4b0a33781e13fd13531246133a1e229",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
@@ -882,7 +882,7 @@
       "timestamp": 1780315200
     },
     {
-      "id": "1dcee58b609fa4962d8bf49ef36f5472ba085196",
+      "id": "5586f9535dae1a79e3fea6f3e4d33ce4c7645603",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
