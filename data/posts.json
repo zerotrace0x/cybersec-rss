@@ -1,6 +1,66 @@
 {
-  "generated_at": 1781700137,
+  "generated_at": 1781718023,
   "items": [
+    {
+      "id": "96a1504be434bc7996b409dc3b1e63c62754ee2b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "AI is accelerating cyberattacks\u2014here\u2019s how to stay ahead",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
+      "summary": "See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster. The post AI is accelerating cyberattacks\u2014here\u2019s how to stay ahead appeared first on Microsoft Security Blog.",
+      "published": "2026-06-17 17:00:00",
+      "timestamp": 1781715600
+    },
+    {
+      "id": "4a061b8f5e3514c6477a5c47e1b4fb2eaab57232",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
+      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next",
+      "published": "2026-06-17 16:00:56",
+      "timestamp": 1781712056
+    },
+    {
+      "id": "53e095dd0dd1a769dc520b03a0ce381af403bcf5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+      "published": "2026-06-17 15:12:57",
+      "timestamp": 1781709177
+    },
+    {
+      "id": "b9af48c68755baf904da20cc1dad08993a643b8b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
+      "published": "2026-06-17 14:00:10",
+      "timestamp": 1781704810
+    },
+    {
+      "id": "8de8cd2b2838cb7d84e95f5868760249f8898429",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
+      "published": "2026-06-17 13:51:58",
+      "timestamp": 1781704318
+    },
+    {
+      "id": "b65dc6472b01826443507c91eeadf8acaa9f53f4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "summary": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]",
+      "published": "2026-06-17 13:12:45",
+      "timestamp": 1781701965
+    },
     {
       "id": "5c370d8bae50a82205a48b1062b7f863907065f2",
       "source": "The Hacker News",
@@ -42,16 +102,6 @@
       "timestamp": 1781690964
     },
     {
-      "id": "8de8cd2b2838cb7d84e95f5868760249f8898429",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
-      "published": "2026-06-17 09:38:46",
-      "timestamp": 1781689126
-    },
-    {
       "id": "bd21b0867a92bc524a5b040effb7c79b98a2f117",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -67,7 +117,7 @@
       "source_category": "General",
       "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero) mass-published more",
+      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from Endor Labs, JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero)",
       "published": "2026-06-17 07:38:24",
       "timestamp": 1781681904
     },
@@ -242,26 +292,6 @@
       "timestamp": 1781603074
     },
     {
-      "id": "ddcf69d9af9a94e0d6f3ed076df87d43bd3ff2ef",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-      "published": "2026-06-16 09:19:51",
-      "timestamp": 1781601591
-    },
-    {
-      "id": "27a0471f3549423fef690b4d6ebe24b3cfa827f3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
-      "published": "2026-06-16 09:00:00",
-      "timestamp": 1781600400
-    },
-    {
       "id": "7fe2f7198a2fbebb57a679c51dbc1cac033f1ac0",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +300,6 @@
       "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
       "published": "2026-06-16 08:14:55",
       "timestamp": 1781597695
-    },
-    {
-      "id": "b6b93a3ec11fcce697d191e43b56a5b9e31ece3a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "published": "2026-06-16 06:31:59",
-      "timestamp": 1781591519
     },
     {
       "id": "a8625a172d12b3b09b1e13217ea4a72c44e7f06f",
@@ -712,16 +732,6 @@
       "timestamp": 1781084293
     },
     {
-      "id": "58760674b0fc95eb81488e0c8e2494f8969dd8df",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
-      "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
-      "summary": "On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers. Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber",
-      "published": "2026-06-10 07:37:59",
-      "timestamp": 1781077079
-    },
-    {
       "id": "efe019266097422537e51165f210cc5edcb52805",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -752,7 +762,7 @@
       "timestamp": 1781006400
     },
     {
-      "id": "0e5db717e5b2f3a5ccf5eaea91caab26da5ea4fa",
+      "id": "beb6f883ca3f51eccd8e573c3e89a7816354da18",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
@@ -812,7 +822,7 @@
       "timestamp": 1780488000
     },
     {
-      "id": "ad0d65c8e4b0a33781e13fd13531246133a1e229",
+      "id": "891675e282cb009ac20439ad75b5104935cb85e0",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
@@ -870,16 +880,6 @@
       "summary": "A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed tradecraft, and detection opportunities to help organizations identify and disrupt related activity. The post Malicious npm packages abuse dependency confusion to profile developer environments appeared first on Microsoft Security Blog.",
       "published": "2026-05-30 00:06:20",
       "timestamp": 1780099580
-    },
-    {
-      "id": "1dec72ab1683e17bc898c189a5c50047db3b8800",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/microsoft-is-named-a-leader-in-the-2026-gartner-magic-quadrant-for-endpoint-protection/",
-      "summary": "Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection. The post Microsoft is named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Endpoint Protection appeared first on Microsoft Security Blog.",
-      "published": "2026-05-29 16:00:00",
-      "timestamp": 1780070400
     },
     {
       "id": "b800f297e0fb6a53b5b0cfcd1e7493e722c1bff5",
