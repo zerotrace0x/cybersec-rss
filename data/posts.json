@@ -1,6 +1,36 @@
 {
-  "generated_at": 1781662409,
+  "generated_at": 1781684258,
   "items": [
+    {
+      "id": "0f2a27ce83b92eaccf80695a7402824ddad92424",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero) mass-published more",
+      "published": "2026-06-17 07:38:24",
+      "timestamp": 1781681904
+    },
+    {
+      "id": "19030f025e2a29139e4af550936afd112976c3a7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
+      "published": "2026-06-17 07:07:56",
+      "timestamp": 1781680076
+    },
+    {
+      "id": "92df883650b39d9f027882e9a7427825c3df5d78",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary",
+      "published": "2026-06-17 05:50:46",
+      "timestamp": 1781675446
+    },
     {
       "id": "5351c106b57a99def49cef6818d52717a79acbbc",
       "source": "BleepingComputer",
@@ -260,16 +290,6 @@
       "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
       "published": "2026-06-15 17:37:07",
       "timestamp": 1781545027
-    },
-    {
-      "id": "31674d943d284e325ff3efd168d1cd865d7d1dae",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "published": "2026-06-15 17:12:42",
-      "timestamp": 1781543562
     },
     {
       "id": "4aefd5ab552c3156e45831602924e9684a92a43d",
@@ -722,26 +742,6 @@
       "timestamp": 1781026506
     },
     {
-      "id": "e85c7003ed1065fddd3a325a9ae9fe2fb0dd505e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
-      "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
-      "summary": "Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads. \"Businesses often share information about people's activity on their sites with us to make ads more relevant,\" Meta said in a statement. \"We already use this data - like games you play",
-      "published": "2026-06-09 17:03:58",
-      "timestamp": 1781024638
-    },
-    {
-      "id": "d147c6886904e02ac447ce16a9a8b8e857437232",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
-      "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-      "summary": "Veeam has released security patches to address a critical flaw in its Backup & Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0. \"A vulnerability allowing remote code execution (RCE) on the Backup Server by an authenticated domain user,\" Veeam said in a Tuesday advisory. It",
-      "published": "2026-06-09 16:39:47",
-      "timestamp": 1781023187
-    },
-    {
       "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -812,7 +812,7 @@
       "timestamp": 1780488000
     },
     {
-      "id": "891675e282cb009ac20439ad75b5104935cb85e0",
+      "id": "ad0d65c8e4b0a33781e13fd13531246133a1e229",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
@@ -862,7 +862,7 @@
       "timestamp": 1780315200
     },
     {
-      "id": "1dcee58b609fa4962d8bf49ef36f5472ba085196",
+      "id": "5586f9535dae1a79e3fea6f3e4d33ce4c7645603",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
