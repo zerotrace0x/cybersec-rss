@@ -1,6 +1,26 @@
 {
-  "generated_at": 1781813028,
+  "generated_at": 1781822895,
   "items": [
+    {
+      "id": "2babf7893c0920f9fab8ab3865fa0862c1fd8edb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
+      "published": "2026-06-18 22:31:52",
+      "timestamp": 1781821912
+    },
+    {
+      "id": "3e3b996ef2a0e72cd338db402fdeda51859d42ce",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
+      "summary": "New Forrester Total Economic Impact\u2122 study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI. The post New Forrester study shows customers who unified with Microsoft Security benefited from 124% ROI appeared first on Microsoft Security Blog.",
+      "published": "2026-06-18 19:36:08",
+      "timestamp": 1781811368
+    },
     {
       "id": "7243d0f4613fac60fe81bf4d6d4bcd61606fa014",
       "source": "BleepingComputer",
@@ -172,6 +192,16 @@
       "timestamp": 1781785129
     },
     {
+      "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
+      "summary": "CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private network (VPN) gateways. To defend against this malicious cyber activity, CISA urges impacted Fortinet customers with FortiGate",
+      "published": "2026-06-18 12:00:00",
+      "timestamp": 1781784000
+    },
+    {
       "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -330,16 +360,6 @@
       "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
       "published": "2026-06-17 13:51:58",
       "timestamp": 1781704318
-    },
-    {
-      "id": "b65dc6472b01826443507c91eeadf8acaa9f53f4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-      "summary": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]",
-      "published": "2026-06-17 13:12:45",
-      "timestamp": 1781701965
     },
     {
       "id": "ba7c415a6d1e0bb2dd9956db1f8d47c7bd01c541",
@@ -842,16 +862,6 @@
       "timestamp": 1780920000
     },
     {
-      "id": "9de6b49bf9dea6c84be5a320b92de53673a47f2f",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Securing CI/CD in an agentic world: Claude Code Github action case",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/05/securing-ci-cd-in-agentic-world-claude-code-github-action-case/",
-      "summary": "Microsoft Threat Intelligence identified a prompt injection pathway in Claude Code GitHub Action that allowed access to workflow secrets under specific conditions. This research examines the attack chain, responsible disclosure process, Anthropic's mitigation, and guidance for securing AI-powered CI/CD workflows. The post Securing CI/CD in an agentic world: Claude Code Github action case appeared first on Microsoft Security Blog.",
-      "published": "2026-06-05 16:46:47",
-      "timestamp": 1780678007
-    },
-    {
       "id": "9484369c9ec509b7c91560db68e1251595afb46a",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
       "published": "2026-04-22 12:00:00",
       "timestamp": 1776859200
-    },
-    {
-      "id": "578816f54d898c51c753acb18ae72a7b0779bdd2",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-s",
-      "published": "2026-04-20 12:00:00",
-      "timestamp": 1776686400
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
