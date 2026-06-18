@@ -1,6 +1,26 @@
 {
-  "generated_at": 1781735238,
+  "generated_at": 1781748699,
   "items": [
+    {
+      "id": "74f6cc510a046841843fa41badbb89c8fe0800f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
+      "summary": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
+      "published": "2026-06-18 01:30:08",
+      "timestamp": 1781746208
+    },
+    {
+      "id": "4ffb72fb9838ea0d93600c6838e52a4d97ecc7ba",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
+      "summary": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability. The post Crypto Clipper uses Tor and worm-like propagation for persistence and control appeared first on Microsoft Security Blog.",
+      "published": "2026-06-17 23:11:43",
+      "timestamp": 1781737903
+    },
     {
       "id": "c4f9900a1bba6acdb4770f1abfa31851ff75d2da",
       "source": "BleepingComputer",
@@ -300,16 +320,6 @@
       "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this abundance of information, many organizations continue to face a fundamental challenge: sifting through the noise to understand who is behind an IP and",
       "published": "2026-06-16 11:30:00",
       "timestamp": 1781609400
-    },
-    {
-      "id": "339770552274cdf546d2151fac53ed1a8afcd9ef",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
-      "published": "2026-06-16 10:47:59",
-      "timestamp": 1781606879
     },
     {
       "id": "5610cef92c4a94e60e71b7ffdd203e8407100a34",
@@ -840,16 +850,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog",
       "published": "2026-06-03 12:00:00",
       "timestamp": 1780488000
-    },
-    {
-      "id": "891675e282cb009ac20439ad75b5104935cb85e0",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
-      "summary": "A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization. The post Preinstall to persistence: Inside the Red Hat npm Miasma credential-st",
-      "published": "2026-06-03 04:45:06",
-      "timestamp": 1780461906
     },
     {
       "id": "85385a568c39991bdc5933b1e07be7102a67c7b0",
