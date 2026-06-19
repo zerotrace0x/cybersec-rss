@@ -1,6 +1,26 @@
 {
-  "generated_at": 1781888892,
+  "generated_at": 1781896824,
   "items": [
+    {
+      "id": "d176bf36115cbe44dba015f92268bfdac09ace96",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
+      "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
+      "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use. This is not a remote attack. It requires",
+      "published": "2026-06-19 18:37:41",
+      "timestamp": 1781894261
+    },
+    {
+      "id": "328122e8c6bd2574c05de3bdd179b0b24da5677d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller. \"They also incorporate third-party or",
+      "published": "2026-06-19 18:33:07",
+      "timestamp": 1781893987
+    },
     {
       "id": "7c4eea682136d9e868e84407bb998f1db43a4dd5",
       "source": "BleepingComputer",
@@ -772,26 +792,6 @@
       "timestamp": 1781262000
     },
     {
-      "id": "ecc01c4ee89aa9524e09e36835674970c8552e52",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications. \"An SQL injection in LangGraph's function could",
-      "published": "2026-06-12 09:50:36",
-      "timestamp": 1781257836
-    },
-    {
-      "id": "76189231128bf4f7871f912143059a05fee8f9e4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
-      "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
-      "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle East and North Africa (MENA) region making 201 arrests. Included among them was Guedz, the primary",
-      "published": "2026-06-12 08:52:55",
-      "timestamp": 1781254375
-    },
-    {
       "id": "5fe5634fe2bcaadac1ac983ead56a3624fdfe1d3",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -832,7 +832,7 @@
       "timestamp": 1781042848
     },
     {
-      "id": "81da75e75da2604f716e897310e1f39f45b57369",
+      "id": "89c633f185d803dd99101985cb9f2d603aa88083",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Reconstructing AI activity in investigations",
