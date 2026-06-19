@@ -1,6 +1,16 @@
 {
-  "generated_at": 1781822895,
+  "generated_at": 1781836723,
   "items": [
+    {
+      "id": "09de14d4f879ebcf7ad7c34dd76caf5167657077",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "AutoJack: How a single page can RCE the host running your AI agent",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
+      "summary": "AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in localhost, missing authentication, and unsafe parameter handling, attackers can trigger arbitrary process execution through AutoGen Studio\u2019s MCP WebSocket. The research highlights a broader pattern - when agents can browse untrusted content and access local services, traditional boundaries like localhost are no longer ",
+      "published": "2026-06-19 00:17:54",
+      "timestamp": 1781828274
+    },
     {
       "id": "2babf7893c0920f9fab8ab3865fa0862c1fd8edb",
       "source": "BleepingComputer",
@@ -312,7 +322,7 @@
       "timestamp": 1781717788
     },
     {
-      "id": "96a1504be434bc7996b409dc3b1e63c62754ee2b",
+      "id": "654efa3cfa13d460c04a6f7399f25fec01aa2042",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "AI is accelerating cyberattacks\u2014here\u2019s how to stay ahead",
@@ -792,7 +802,7 @@
       "timestamp": 1781179200
     },
     {
-      "id": "9d71b92c32d63debfcd26c963e4ea0c4b58dda7d",
+      "id": "7a69bb38785694e2f678e72876fb7eb28b607f06",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Turn specs into evals for any agent with ASSERT",
@@ -840,16 +850,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability CVE-2026-20245 Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber a",
       "published": "2026-06-09 12:00:00",
       "timestamp": 1781006400
-    },
-    {
-      "id": "beb6f883ca3f51eccd8e573c3e89a7816354da18",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
-      "summary": "As threat actors operationalize AI to accelerate attacks, they are also leveraging the wider global interest around AI itself as a social engineering lure. The post AI brands as bait: How threat actors are using the AI hype in social engineering appeared first on Microsoft Security Blog.",
-      "published": "2026-06-08 16:00:00",
-      "timestamp": 1780934400
     },
     {
       "id": "fef886ba504745c8ffc66066771dafbd30e0947a",
