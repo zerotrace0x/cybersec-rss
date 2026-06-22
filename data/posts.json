@@ -1,6 +1,46 @@
 {
-  "generated_at": 1782153508,
+  "generated_at": 1782167312,
   "items": [
+    {
+      "id": "8b9c571d3b4047a70c028384e8e205c9453fa5e2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+      "published": "2026-06-22 21:52:18",
+      "timestamp": 1782165138
+    },
+    {
+      "id": "ce7e4d7e77a5ce2b8d4a050d75c6cb6af3410369",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+      "published": "2026-06-22 21:05:01",
+      "timestamp": 1782162301
+    },
+    {
+      "id": "f4d920adc8c6546ab3c98b6c4724995048a3c089",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "published": "2026-06-22 20:01:02",
+      "timestamp": 1782158462
+    },
+    {
+      "id": "0ee00211fb15cfc06f640da4599ff3cfcdd84cb9",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Guarding AI memory",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
+      "summary": "What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses. The post Guarding AI memory appeared first on Microsoft Security Blog.",
+      "published": "2026-06-22 19:07:28",
+      "timestamp": 1782155248
+    },
     {
       "id": "0d7b85145621aac0410cc8f0af3bcb73bffb7b51",
       "source": "The Hacker News",
@@ -302,16 +342,6 @@
       "timestamp": 1781868754
     },
     {
-      "id": "1b6278e1ae466f4f0c886b4208468507dfae264f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-      "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
-      "published": "2026-06-19 10:39:58",
-      "timestamp": 1781865598
-    },
-    {
       "id": "77480043298f7c8cc39cc5337f954342343ebade",
       "source": "The Hacker News",
       "source_category": "General",
@@ -330,26 +360,6 @@
       "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week. \"Salesforce took",
       "published": "2026-06-19 09:03:57",
       "timestamp": 1781859837
-    },
-    {
-      "id": "d370d0491677a473a1e473b0da71aa3dfcad5946",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NY man charged after harassing college student with AI-generated nudes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-      "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
-      "published": "2026-06-19 08:44:08",
-      "timestamp": 1781858648
-    },
-    {
-      "id": "f1a85bfc7ebd89e678664ce162fe70da2c8f9f0a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
-      "published": "2026-06-19 06:47:55",
-      "timestamp": 1781851675
     },
     {
       "id": "a98f1fd90ab6c92757c51b9454fc4f8afd50c9b9",
@@ -810,16 +820,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
       "published": "2026-06-11 12:00:00",
       "timestamp": 1781179200
-    },
-    {
-      "id": "9d71b92c32d63debfcd26c963e4ea0c4b58dda7d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Turn specs into evals for any agent with ASSERT",
-      "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
-      "summary": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents. The post Turn specs into evals for any agent with ASSERT appeared first on Microsoft Security Blog.",
-      "published": "2026-06-10 16:00:00",
-      "timestamp": 1781107200
     },
     {
       "id": "57e3eb9abecd1eb7dcfecdd45d8bd94451f82d7d",
