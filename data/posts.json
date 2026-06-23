@@ -1,13 +1,33 @@
 {
-  "generated_at": 1782196561,
+  "generated_at": 1782215372,
   "items": [
+    {
+      "id": "771c8f11d3019bebde8ef9b0602ba033d18b997e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser (615 downloads) All the packages were published over the past month by an npm user named",
+      "published": "2026-06-23 08:54:32",
+      "timestamp": 1782204872
+    },
+    {
+      "id": "12aceb6b7c6acd20fbd1bf90da33630419ea7cac",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,",
+      "published": "2026-06-23 05:38:40",
+      "timestamp": 1782193120
+    },
     {
       "id": "ef29f67084f6c344ce7b3087b41be32a3769be50",
       "source": "The Hacker News",
       "source_category": "General",
       "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
       "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative, the artificial intelligence (AI) company announced last month. Calling GPT\u20115.5\u2011Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to identify",
+      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT\u20115.5\u2011Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT\u20115.5\u2011Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to",
       "published": "2026-06-23 03:56:58",
       "timestamp": 1782187018
     },
@@ -772,26 +792,6 @@
       "timestamp": 1781539200
     },
     {
-      "id": "afc4901a937256a641117b86b2eb2696d704aed2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
-      "published": "2026-06-15 15:09:05",
-      "timestamp": 1781536145
-    },
-    {
-      "id": "fb180efb25c7807d1ecbbbda4b609cc69edc53be",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
-      "published": "2026-06-15 13:49:29",
-      "timestamp": 1781531369
-    },
-    {
       "id": "6cfad09547ab0ff8db2c573b0e5e3a2fd4af0e71",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1048,8 +1048,8 @@
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "published": "2026-05-13 07:00:00",
-      "timestamp": 1778655600
+      "published": "2026-05-12 22:00:00",
+      "timestamp": 1778623200
     },
     {
       "id": "8d310f5cc84936c734662f17fa5163c7dd3cc426",
@@ -1168,8 +1168,8 @@
       "title": "On the Effectiveness of Mutational Grammar Fuzzing",
       "link": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
       "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the ",
-      "published": "2026-03-05 08:00:00",
-      "timestamp": 1772697600
+      "published": "2026-03-04 23:00:00",
+      "timestamp": 1772665200
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
@@ -1178,8 +1178,8 @@
       "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
       "link": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
       "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn\u2019t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don\u2019t know about, assuming it\u2019s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation\u2019s remark",
-      "published": "2026-02-26 08:00:00",
-      "timestamp": 1772092800
+      "published": "2026-02-25 23:00:00",
+      "timestamp": 1772060400
     },
     {
       "id": "908c06ada309f4314ba7d5520a2af500bd628e15",
@@ -1188,8 +1188,8 @@
       "title": "Bypassing Administrator Protection by Abusing UI Access",
       "link": "https://projectzero.google/2026/02/windows-administrator-protection.html",
       "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn\u2019t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
-      "published": "2026-02-12 08:00:00",
-      "timestamp": 1770883200
+      "published": "2026-02-11 23:00:00",
+      "timestamp": 1770850800
     },
     {
       "id": "104ff3b72d89d292c1312cf14baebb5fc8086040",
@@ -1198,8 +1198,8 @@
       "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
       "link": "https://projectzero.google/2026/01/sound-barrier-2.html",
       "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
-      "published": "2026-01-30 08:00:00",
-      "timestamp": 1769760000
+      "published": "2026-01-29 23:00:00",
+      "timestamp": 1769727600
     },
     {
       "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
@@ -1208,8 +1208,8 @@
       "title": "Bypassing Windows Administrator Protection",
       "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
-      "published": "2026-01-26 08:00:00",
-      "timestamp": 1769414400
+      "published": "2026-01-25 23:00:00",
+      "timestamp": 1769382000
     },
     {
       "id": "49220fa9cd9cad5f8031e0d3ed185b153c0a6c15",
@@ -1218,8 +1218,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
       "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
-      "published": "2026-01-14 18:01:00",
-      "timestamp": 1768413660
+      "published": "2026-01-14 09:01:00",
+      "timestamp": 1768381260
     },
     {
       "id": "35d01a4a81f61e3097583fe69ef74c1451a9932f",
@@ -1228,8 +1228,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
       "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
-      "published": "2026-01-14 18:00:00",
-      "timestamp": 1768413600
+      "published": "2026-01-14 09:00:00",
+      "timestamp": 1768381200
     },
     {
       "id": "dbb460bbb0c787324b208477ec5d48ba09fd48d6",
@@ -1238,8 +1238,8 @@
       "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
       "link": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
       "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
-      "published": "2026-01-14 17:59:00",
-      "timestamp": 1768413540
+      "published": "2026-01-14 08:59:00",
+      "timestamp": 1768381140
     },
     {
       "id": "e825e64e2a52c50008e988fa974c5d2bcd626e91",
