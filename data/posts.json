@@ -1,6 +1,16 @@
 {
-  "generated_at": 1782234518,
+  "generated_at": 1782243929,
   "items": [
+    {
+      "id": "8f9e25098aa1c6abeb2a95ddcbed12b7c091edec",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
+      "published": "2026-06-23 18:30:16",
+      "timestamp": 1782239416
+    },
     {
       "id": "d53ce4d2ffa2b18736a030858da5f6e8d9a86b1f",
       "source": "Krebs on Security",
@@ -80,6 +90,16 @@
       "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]",
       "published": "2026-06-23 12:12:20",
       "timestamp": 1782216740
+    },
+    {
+      "id": "97dc524c68fdd6d494c903e22e3c2732df0b50f5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/23/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-67038 Lantronix EDS5000 Code Injection Vulnerability CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose s",
+      "published": "2026-06-23 12:00:00",
+      "timestamp": 1782216000
     },
     {
       "id": "77faac5e2abffbf4ee72d607153f2a914ed74984",
@@ -350,16 +370,6 @@
       "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens",
       "published": "2026-06-20 09:56:04",
       "timestamp": 1781949364
-    },
-    {
-      "id": "f03a179929726675225317413ba4a6eee4f73bce",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
-      "published": "2026-06-19 22:31:04",
-      "timestamp": 1781908264
     },
     {
       "id": "d176bf36115cbe44dba015f92268bfdac09ace96",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vul",
       "published": "2026-04-23 12:00:00",
       "timestamp": 1776945600
-    },
-    {
-      "id": "22838eeec9baa4ad94de6a78eca8e9bb47c22bfb",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as ",
-      "published": "2026-04-22 12:00:00",
-      "timestamp": 1776859200
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
