@@ -1,6 +1,26 @@
 {
-  "generated_at": 1782320241,
+  "generated_at": 1782328928,
   "items": [
+    {
+      "id": "590a23bb3161e39df20a9d4c8fdcdbec0baf7433",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026. The vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution",
+      "published": "2026-06-24 17:19:18",
+      "timestamp": 1782321558
+    },
+    {
+      "id": "1bc878a90baaa15e8a5aea2b17ca03d0e48c64eb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+      "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+      "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC. \"The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure,\" Europol said in",
+      "published": "2026-06-24 15:59:50",
+      "timestamp": 1782316790
+    },
     {
       "id": "1bcba1e1366267dbc2aedd6112d7a07bd3ca9a8e",
       "source": "BleepingComputer",
@@ -780,26 +800,6 @@
       "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild.",
       "published": "2026-06-16 19:05:41",
       "timestamp": 1781636741
-    },
-    {
-      "id": "67a1e26acf8d50bede216dfad97fa8d3524de08a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-      "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations. \"Earlier BabaDeda activity was known for",
-      "published": "2026-06-16 17:41:28",
-      "timestamp": 1781631688
-    },
-    {
-      "id": "b121d02f625c1038dc0f9d112f1260dfb99604c9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
-      "published": "2026-06-16 13:10:17",
-      "timestamp": 1781615417
     },
     {
       "id": "ea1a0ef627d7ea2275798ec67672329075953722",
