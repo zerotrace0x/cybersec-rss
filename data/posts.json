@@ -1,6 +1,36 @@
 {
-  "generated_at": 1782309512,
+  "generated_at": 1782320241,
   "items": [
+    {
+      "id": "1bcba1e1366267dbc2aedd6112d7a07bd3ca9a8e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
+      "published": "2026-06-24 14:35:15",
+      "timestamp": 1782311715
+    },
+    {
+      "id": "b59c47c033dbf072c5174d64472c3c79c7d0f6ef",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+      "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
+      "published": "2026-06-24 14:35:11",
+      "timestamp": 1782311711
+    },
+    {
+      "id": "f979253f581fb4ffb3252fa2e472d7f22c8d36e3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
+      "summary": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
+      "published": "2026-06-24 14:02:12",
+      "timestamp": 1782309732
+    },
     {
       "id": "6529b7e474dececfb40ec7d6c8e28ee0a4e9e804",
       "source": "The Hacker News",
@@ -10,6 +40,16 @@
       "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and",
       "published": "2026-06-24 12:48:11",
       "timestamp": 1782305291
+    },
+    {
+      "id": "ff334818c7be43cdf8bbb45392cbb29d0b99fcf3",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/",
+      "summary": "On June 24, 2026, Microsoft\u2019s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey. The post StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them appeared first on Microsoft Security Blog.",
+      "published": "2026-06-24 12:30:00",
+      "timestamp": 1782304200
     },
     {
       "id": "020b0ba6578d775e22e0daa80d46c4c7e99920db",
@@ -262,26 +302,6 @@
       "timestamp": 1782165138
     },
     {
-      "id": "ce7e4d7e77a5ce2b8d4a050d75c6cb6af3410369",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
-      "published": "2026-06-22 21:05:01",
-      "timestamp": 1782162301
-    },
-    {
-      "id": "f4d920adc8c6546ab3c98b6c4724995048a3c089",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-      "published": "2026-06-22 20:01:02",
-      "timestamp": 1782158462
-    },
-    {
       "id": "0ee00211fb15cfc06f640da4599ff3cfcdd84cb9",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -300,16 +320,6 @@
       "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels,\" Wordfence said in an analysis",
       "published": "2026-06-22 18:00:48",
       "timestamp": 1782151248
-    },
-    {
-      "id": "512712a79c81048c08080f52ac3c2489c0aa6047",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-      "published": "2026-06-22 17:41:31",
-      "timestamp": 1782150091
     },
     {
       "id": "bb78fc7778a5e5c4dc1a9f1aa72e09f95e3cf9cd",
@@ -652,7 +662,7 @@
       "timestamp": 1781737903
     },
     {
-      "id": "163e330b9af6db8d23d757d4bc8cf3a8eccde46e",
+      "id": "4c31bcd7e21c555eb15a1d99950229ce49b21d4e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Beyond the benchmark: Advancing security at AI speed",
@@ -662,7 +672,7 @@
       "timestamp": 1781724600
     },
     {
-      "id": "e6df185a7d5d0c83a50f06a2b6afea46bec67d6c",
+      "id": "ba89ce6dd32e6e83a2bc7d13c8458b9d9bdc2aed",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "\u200b\u200bForrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave\u2122 report",
@@ -800,16 +810,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for",
       "published": "2026-06-16 12:00:00",
       "timestamp": 1781611200
-    },
-    {
-      "id": "27da1620a2c78aed6142dee3adcbb1db4b8bbd7d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft Defender email security benchmarking: Key insights from one year of data",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
-      "summary": "See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors. The post Microsoft Defender email security benchmarking: Key insights from one year of data appeared first on Microsoft Security Blog.",
-      "published": "2026-06-15 16:00:00",
-      "timestamp": 1781539200
     },
     {
       "id": "6cfad09547ab0ff8db2c573b0e5e3a2fd4af0e71",
