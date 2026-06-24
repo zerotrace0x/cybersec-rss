@@ -1,6 +1,36 @@
 {
-  "generated_at": 1782282770,
+  "generated_at": 1782300935,
   "items": [
+    {
+      "id": "8322786829b73bc681913162f333bcf4bcad9ede",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+      "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
+      "published": "2026-06-24 10:41:51",
+      "timestamp": 1782297711
+    },
+    {
+      "id": "4ebb7e9410a104cba6fc5d2bc779041f5a19effa",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group. \"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of",
+      "published": "2026-06-24 08:55:12",
+      "timestamp": 1782291312
+    },
+    {
+      "id": "72ac69a1c3baab81174bed9dc6d60e048971c397",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+      "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote",
+      "published": "2026-06-24 06:50:38",
+      "timestamp": 1782283838
+    },
     {
       "id": "a1f1a027b4f74009181f3210edad4aff0e7e2aba",
       "source": "BleepingComputer",
@@ -260,16 +290,6 @@
       "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
       "published": "2026-06-22 17:41:31",
       "timestamp": 1782150091
-    },
-    {
-      "id": "6079742c0b89bf577cf6b6f7b0eebfd3bd74198e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
-      "published": "2026-06-22 17:28:57",
-      "timestamp": 1782149337
     },
     {
       "id": "bb78fc7778a5e5c4dc1a9f1aa72e09f95e3cf9cd",
@@ -780,26 +800,6 @@
       "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours. CVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could",
       "published": "2026-06-16 10:30:41",
       "timestamp": 1781605841
-    },
-    {
-      "id": "a73650e11f83f8ebc74c4ff2a914b3db4bd059e0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
-      "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
-      "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,\" ESET said in a report shared with The Hacker News. \"Both come with a hard-coded C&C [command-and-control] configuration and support communication over TCP, UDP,",
-      "published": "2026-06-16 09:44:34",
-      "timestamp": 1781603074
-    },
-    {
-      "id": "7fe2f7198a2fbebb57a679c51dbc1cac033f1ac0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver a new malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
-      "published": "2026-06-16 08:14:55",
-      "timestamp": 1781597695
     },
     {
       "id": "27da1620a2c78aed6142dee3adcbb1db4b8bbd7d",
