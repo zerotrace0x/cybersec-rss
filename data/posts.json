@@ -1,6 +1,46 @@
 {
-  "generated_at": 1782455972,
+  "generated_at": 1782473755,
   "items": [
+    {
+      "id": "a2560aa76ca79f403bf9611b94522b42d29a77fb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
+      "published": "2026-06-26 11:05:45",
+      "timestamp": 1782471945
+    },
+    {
+      "id": "9e3048900861dc67c54b36b067d708edba3a8da2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has not attributed the activity to a known threat actor, and the operators' end goal is still unclear. The lure plays to how hotels work.",
+      "published": "2026-06-26 09:27:12",
+      "timestamp": 1782466032
+    },
+    {
+      "id": "453d357ed5239a66782e5804547e8ccba235fe57",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+      "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+      "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus. The finding, published June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian",
+      "published": "2026-06-26 08:49:35",
+      "timestamp": 1782463775
+    },
+    {
+      "id": "77fea09c432522f8d93feb86b3101b187747d1e8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+      "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy. Describing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (",
+      "published": "2026-06-26 07:15:46",
+      "timestamp": 1782458146
+    },
     {
       "id": "a6a44019f06263ba2cdae274de352013e27a46bb",
       "source": "BleepingComputer",
@@ -732,16 +772,6 @@
       "timestamp": 1781791119
     },
     {
-      "id": "4f692d59cfd160f7509be268dde0673c190c3891",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon Black, the backdoor was deployed against a major U.S. services firm. The name of the company was",
-      "published": "2026-06-18 13:30:07",
-      "timestamp": 1781789407
-    },
-    {
       "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -780,36 +810,6 @@
       "summary": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability. The post Crypto Clipper uses Tor and worm-like propagation for persistence and control appeared first on Microsoft Security Blog.",
       "published": "2026-06-17 23:11:43",
       "timestamp": 1781737903
-    },
-    {
-      "id": "27a9489562343c280f7041c643c39d2fa399b6e4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a",
-      "published": "2026-06-17 18:14:24",
-      "timestamp": 1781720064
-    },
-    {
-      "id": "56006abfa0403ef7c31d4c2b8c8a3dae1bc30502",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-      "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw. \"Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender",
-      "published": "2026-06-17 17:36:28",
-      "timestamp": 1781717788
-    },
-    {
-      "id": "4a061b8f5e3514c6477a5c47e1b4fb2eaab57232",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next",
-      "published": "2026-06-17 16:00:56",
-      "timestamp": 1781712056
     },
     {
       "id": "ea1a0ef627d7ea2275798ec67672329075953722",
