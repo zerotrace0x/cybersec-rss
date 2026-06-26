@@ -1,6 +1,26 @@
 {
-  "generated_at": 1782482027,
+  "generated_at": 1782492801,
   "items": [
+    {
+      "id": "86e55934ace68d045724b3e10fe4ead626c4fa63",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks",
+      "published": "2026-06-26 16:21:25",
+      "timestamp": 1782490885
+    },
+    {
+      "id": "d691f42771b07d892b02ecfb19660887a0db6f8b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
+      "published": "2026-06-26 14:01:11",
+      "timestamp": 1782482471
+    },
     {
       "id": "321ca5184ef3777ef7e747dedf5e685b42400cd4",
       "source": "The Hacker News",
@@ -8,8 +28,18 @@
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as",
-      "published": "2026-06-26 13:00:41",
-      "timestamp": 1782478841
+      "published": "2026-06-26 13:57:55",
+      "timestamp": 1782482275
+    },
+    {
+      "id": "bf9bd454b1e70210d97bfee683c7001a7f5e6d72",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers. Wiz",
+      "published": "2026-06-26 13:53:00",
+      "timestamp": 1782481980
     },
     {
       "id": "9a2f2411d880cbcfd1fb02d7357082f0deb1dfde",
@@ -340,16 +370,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
       "published": "2026-06-24 14:35:15",
       "timestamp": 1782311715
-    },
-    {
-      "id": "b59c47c033dbf072c5174d64472c3c79c7d0f6ef",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-      "summary": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
-      "published": "2026-06-24 14:35:11",
-      "timestamp": 1782311711
     },
     {
       "id": "6529b7e474dececfb40ec7d6c8e28ee0a4e9e804",
@@ -750,26 +770,6 @@
       "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
       "published": "2026-06-18 17:37:58",
       "timestamp": 1781804278
-    },
-    {
-      "id": "592a11b506247ff17b318ae1a2ab5898cdfd08a7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
-      "summary": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed below - CVE-2026-42530 (CVSS v4 score: 9.2) - A use-after-free vulnerability in the ngx_http_v3_module that could be triggered by a remote unauthenticated attacker when NGINX Open Source is",
-      "published": "2026-06-18 17:32:14",
-      "timestamp": 1781803934
-    },
-    {
-      "id": "3192b68697f8eaad4940d6e0d2fea1860849bfea",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
-      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
-      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (",
-      "published": "2026-06-18 15:33:49",
-      "timestamp": 1781796829
     },
     {
       "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
