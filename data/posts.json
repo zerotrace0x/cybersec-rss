@@ -1,6 +1,26 @@
 {
-  "generated_at": 1782753908,
+  "generated_at": 1782761342,
   "items": [
+    {
+      "id": "8e4f113d15544dfd659b57fa9749b993e23250e8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft says Google removed it from the store after responsible disclosure. The extension was called \"",
+      "published": "2026-06-29 18:40:09",
+      "timestamp": 1782758409
+    },
+    {
+      "id": "987a02c8ee5e149c0d2a7531f5798fe7c84bc06a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WhatsApp rolls out usernames to help users hide their phone number",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
+      "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
+      "published": "2026-06-29 17:48:28",
+      "timestamp": 1782755308
+    },
     {
       "id": "28fab8ec1d9d56bbb65d3500fa7f0125d9e74f59",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
       "published": "2026-06-29 17:11:15",
       "timestamp": 1782753075
+    },
+    {
+      "id": "d3159a7ee4977a6337e80a479d26684964d37f1f",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Chromium extension uses AI\u2011related branding to redirect browser search",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
+      "summary": "A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure. The post Chromium extension uses AI\u2011related branding to redirect browser search appeared first on Microsoft Security Blog.",
+      "published": "2026-06-29 16:27:46",
+      "timestamp": 1782750466
     },
     {
       "id": "9ac568f0a33e08fed7ea3e69384b521f78fd5b02",
@@ -372,16 +402,6 @@
       "timestamp": 1782458146
     },
     {
-      "id": "a6a44019f06263ba2cdae274de352013e27a46bb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-      "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
-      "published": "2026-06-25 22:53:32",
-      "timestamp": 1782428012
-    },
-    {
       "id": "6559673c58698ea1bb7e332338ff91399ee8cb22",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -732,16 +752,6 @@
       "timestamp": 1782129480
     },
     {
-      "id": "54485c16a0f7896b494899b1e701bc6856a636e2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "summary": "It\u2019s Monday again. This week\u2019s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more",
-      "published": "2026-06-22 10:55:10",
-      "timestamp": 1782125710
-    },
-    {
       "id": "09de14d4f879ebcf7ad7c34dd76caf5167657077",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -800,16 +810,6 @@
       "summary": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence. The post From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet appeared first on Microsoft Security Blog.",
       "published": "2026-06-18 03:43:04",
       "timestamp": 1781754184
-    },
-    {
-      "id": "4ffb72fb9838ea0d93600c6838e52a4d97ecc7ba",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
-      "summary": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability. The post Crypto Clipper uses Tor and worm-like propagation for persistence and control appeared first on Microsoft Security Blog.",
-      "published": "2026-06-17 23:11:43",
-      "timestamp": 1781737903
     },
     {
       "id": "ea1a0ef627d7ea2275798ec67672329075953722",
