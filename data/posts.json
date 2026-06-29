@@ -1,6 +1,26 @@
 {
-  "generated_at": 1782761342,
+  "generated_at": 1782770471,
   "items": [
+    {
+      "id": "5e3019258c3f2f81963fd9b4a15409543edf33d2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
+      "published": "2026-06-29 20:40:44",
+      "timestamp": 1782765644
+    },
+    {
+      "id": "2d3d55bafc353e4038b3fa075197374175b3e563",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+      "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+      "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
+      "published": "2026-06-29 20:30:28",
+      "timestamp": 1782765028
+    },
     {
       "id": "8e4f113d15544dfd659b57fa9749b993e23250e8",
       "source": "The Hacker News",
@@ -120,6 +140,16 @@
       "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
       "published": "2026-06-29 12:14:22",
       "timestamp": 1782735262
+    },
+    {
+      "id": "3bbe534b7acf19487abeb4ac237679fae9bf6967",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48558 SimpleHelp Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive ",
+      "published": "2026-06-29 12:00:00",
+      "timestamp": 1782734400
     },
     {
       "id": "ec35870eba3123dc897a115bf85caa1ef4586442",
@@ -282,16 +312,6 @@
       "timestamp": 1782497052
     },
     {
-      "id": "51d14a08439785eeb85e81df6f6c774574a6ccc7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
-      "published": "2026-06-26 17:49:07",
-      "timestamp": 1782496147
-    },
-    {
       "id": "86e55934ace68d045724b3e10fe4ead626c4fa63",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +320,6 @@
       "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks",
       "published": "2026-06-26 16:21:25",
       "timestamp": 1782490885
-    },
-    {
-      "id": "d691f42771b07d892b02ecfb19660887a0db6f8b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-      "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
-      "published": "2026-06-26 14:01:11",
-      "timestamp": 1782482471
     },
     {
       "id": "321ca5184ef3777ef7e747dedf5e685b42400cd4",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability CVE-2026-32202 Microsoft Windows Protection Mechanism Failure Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Know",
       "published": "2026-04-28 12:00:00",
       "timestamp": 1777377600
-    },
-    {
-      "id": "8dece9623eb4ad77e5a7f3feab011f765da8d289",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-7399 Samsung MagicINFO 9 Server Path Traversal Vulnerability CVE-2024-57726 SimpleHelp Missing Authorization Vulnerability CVE-2024-57728 SimpleHelp Path Traversal Vulnerability CVE-2025-29635 D-Link DIR-823X Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks t",
-      "published": "2026-04-24 12:00:00",
-      "timestamp": 1777032000
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
