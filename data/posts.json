@@ -1,6 +1,56 @@
 {
-  "generated_at": 1782827310,
+  "generated_at": 1782838721,
   "items": [
+    {
+      "id": "857efe1319ebc1a5c439c2aeefc549bb5740c2a3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+      "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
+      "published": "2026-06-30 15:46:19",
+      "timestamp": 1782834379
+    },
+    {
+      "id": "ed6ad7db9fa05b0a19154426dd168c68f6dcb826",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campaign is delivered through unsigned installers \u2013 observed in both .NET and Golang variants \u2013 that",
+      "published": "2026-06-30 15:40:18",
+      "timestamp": 1782834018
+    },
+    {
+      "id": "18e5fc33907e7e3650d6dfb84c69339f4c4f40b8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+      "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, \"Continue,\" was built to",
+      "published": "2026-06-30 14:26:15",
+      "timestamp": 1782829575
+    },
+    {
+      "id": "5f73a74d3658db6dc85e7ad36b181db008b3413a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+      "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
+      "published": "2026-06-30 14:00:10",
+      "timestamp": 1782828010
+    },
+    {
+      "id": "19e59de5b0a61303f47e4709b0f6033f6b6ed88c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+      "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+      "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all. Whoever grabs it can send model requests on the developer's account,",
+      "published": "2026-06-30 13:49:34",
+      "timestamp": 1782827374
+    },
     {
       "id": "a33d271bc8b89f0d753d0ce9d59f0e09133e0c9c",
       "source": "The Hacker News",
@@ -32,11 +82,11 @@
       "timestamp": 1782817938
     },
     {
-      "id": "303d787784bbc73d7f987f89f752927727f6a9bd",
+      "id": "d8698aafdf26eab4a79d9f550c81695016cda76c",
       "source": "BleepingComputer",
       "source_category": "General",
       "title": "Microsoft adds smarter bot protection to Teams meetings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
       "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
       "published": "2026-06-30 10:52:26",
       "timestamp": 1782816746
@@ -252,16 +302,6 @@
       "timestamp": 1782740777
     },
     {
-      "id": "f9c0569d05df2f24fe71d9a982567db9ce62aa77",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
-      "published": "2026-06-29 12:14:22",
-      "timestamp": 1782735262
-    },
-    {
       "id": "3bbe534b7acf19487abeb4ac237679fae9bf6967",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -300,16 +340,6 @@
       "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these",
       "published": "2026-06-29 11:40:24",
       "timestamp": 1782733224
-    },
-    {
-      "id": "abcc8cb21d4cdca39aab105b2a038ec150d802a6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-      "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-      "published": "2026-06-29 11:21:03",
-      "timestamp": 1782732063
     },
     {
       "id": "16f5c29b9b9b718f5ab45152d477021d90c3acaa",
@@ -710,36 +740,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-67038 Lantronix EDS5000 Code Injection Vulnerability CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose s",
       "published": "2026-06-23 12:00:00",
       "timestamp": 1782216000
-    },
-    {
-      "id": "77faac5e2abffbf4ee72d607153f2a914ed74984",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance between the warrior and the wound grew wider, and yet one thing never moved: a human chose the target",
-      "published": "2026-06-23 11:30:00",
-      "timestamp": 1782214200
-    },
-    {
-      "id": "771c8f11d3019bebde8ef9b0602ba033d18b997e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser (615 downloads) All the packages were published over the past month by an npm user named",
-      "published": "2026-06-23 08:54:32",
-      "timestamp": 1782204872
-    },
-    {
-      "id": "12aceb6b7c6acd20fbd1bf90da33630419ea7cac",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,",
-      "published": "2026-06-23 05:38:40",
-      "timestamp": 1782193120
     },
     {
       "id": "0ee00211fb15cfc06f640da4599ff3cfcdd84cb9",
