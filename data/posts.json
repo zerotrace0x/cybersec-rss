@@ -1,6 +1,56 @@
 {
-  "generated_at": 1782838721,
+  "generated_at": 1782847624,
   "items": [
+    {
+      "id": "f03c143013b2e7c96a8cf4488db695da374f0e95",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire. The work comes from Microsoft Incident Response and its",
+      "published": "2026-06-30 17:46:07",
+      "timestamp": 1782841567
+    },
+    {
+      "id": "4208f9ce26eef2e445f245604843adfd09c4ed04",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's XLab have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing. The end goal is a",
+      "published": "2026-06-30 17:45:25",
+      "timestamp": 1782841525
+    },
+    {
+      "id": "1db67b22fc8029a39b2d2a6ee0af2148441e7a53",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bWhat\u2019s new in Microsoft Security: June 2026",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
+      "summary": "This month\u2019s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation. The post \u200b\u200bWhat\u2019s new in Microsoft Security: June 2026 appeared first on Microsoft Security Blog.",
+      "published": "2026-06-30 16:00:00",
+      "timestamp": 1782835200
+    },
+    {
+      "id": "abc8512f8a1d613011c8a483a2bf39528c3dc5a2",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Securing AI agents: When AI tools move from reading to acting",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/securing-ai-agents-ai-tools-move-from-reading-acting/",
+      "summary": "MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it. The post Securing AI agents: When AI tools move from reading to acting appeared first on Microsoft Security Blog.",
+      "published": "2026-06-30 15:57:11",
+      "timestamp": 1782835031
+    },
+    {
+      "id": "63f6a36bc07ef86e1a29b14417f1461e47cd014b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)",
+      "published": "2026-06-30 15:47:20",
+      "timestamp": 1782834440
+    },
     {
       "id": "857efe1319ebc1a5c439c2aeefc549bb5740c2a3",
       "source": "BleepingComputer",
@@ -537,7 +587,7 @@
       "source_category": "General",
       "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
       "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-      "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store. The extension description states that it allows users to prevent web",
+      "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube, has more than 10 million installs and carries a Featured badge on the Chrome Web Store. The extension (ID: cmedhionkhpnakcndndgjdbohmhepckk) description states that it allows users to prevent web",
       "published": "2026-06-25 14:12:52",
       "timestamp": 1782396772
     },
@@ -702,36 +752,6 @@
       "timestamp": 1782231169
     },
     {
-      "id": "d55a1b717cfdbfb54955dc13a5d0f515d2933d3c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
-      "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else. The point was to show",
-      "published": "2026-06-23 15:16:43",
-      "timestamp": 1782227803
-    },
-    {
-      "id": "77798399a6ae262971733c52b35b47f59758f82d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-      "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track. The deadlines matter because of a threat that does not",
-      "published": "2026-06-23 15:16:40",
-      "timestamp": 1782227800
-    },
-    {
-      "id": "d82fdccc7ea868f6d871f9249b77ef635f5babc9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
-      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
-      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges. Effective June 18, 2026, the latest version of \"actions/checkout,\" the official GitHub action for checking out a repository into the",
-      "published": "2026-06-23 14:22:03",
-      "timestamp": 1782224523
-    },
-    {
       "id": "97dc524c68fdd6d494c903e22e3c2732df0b50f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -772,16 +792,6 @@
       "timestamp": 1781828274
     },
     {
-      "id": "3e3b996ef2a0e72cd338db402fdeda51859d42ce",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "New Forrester Total Economic Impact\u2122 study projects a 124% ROI from unifying with Microsoft Security",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/new-forrester-study-shows-customers-who-unified-with-microsoft-security-benefited-from-124-roi/",
-      "summary": "New Forrester Total Economic Impact\u2122 study shows Microsoft Security consolidation delivers ROI, lowers risk, and prepares organizations to secure AI. The post New Forrester Total Economic Impact\u2122 study projects a 124% ROI from unifying with Microsoft Security appeared first on Microsoft Security Blog.",
-      "published": "2026-06-18 19:36:08",
-      "timestamp": 1781811368
-    },
-    {
       "id": "e7d976d467cbd7268c040f8d0803adb3c47d7e76",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -810,16 +820,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
       "published": "2026-06-18 12:00:00",
       "timestamp": 1781784000
-    },
-    {
-      "id": "ecdaf00f4a2833e4ecc4a11a51fb981340952599",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/postinstall-payload-inside-mastra-npm-supply-chain-compromise/",
-      "summary": "A poisoned npm package infected 140+ projects with a hidden payload. This report highlights how to detect, hunt, and defend against supply chain attacks using Microsoft Defender and actionable threat intelligence. The post From package to postinstall payload: Inside the Mastra npm supply chain compromise by Sapphire Sleet appeared first on Microsoft Security Blog.",
-      "published": "2026-06-18 03:43:04",
-      "timestamp": 1781754184
     },
     {
       "id": "ea1a0ef627d7ea2275798ec67672329075953722",
