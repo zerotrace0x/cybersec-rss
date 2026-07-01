@@ -1,6 +1,56 @@
 {
-  "generated_at": 1782933951,
+  "generated_at": 1782943800,
   "items": [
+    {
+      "id": "11f7de21bbd876840dae56435f77ccf7b223eca8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
+      "published": "2026-07-01 21:37:24",
+      "timestamp": 1782941844
+    },
+    {
+      "id": "9af8f7fec11ca14b4830590b5b9e91fee233de8d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kubota says hackers had month-long access to network systems",
+      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
+      "published": "2026-07-01 21:09:06",
+      "timestamp": 1782940146
+    },
+    {
+      "id": "e723b1facd5dcbb9c01406387d4385b03f2c15f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+      "published": "2026-07-01 20:08:13",
+      "timestamp": 1782936493
+    },
+    {
+      "id": "25f51460b5a0e59fe4ff1b25642c342649cc63b8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in",
+      "published": "2026-07-01 19:40:06",
+      "timestamp": 1782934806
+    },
+    {
+      "id": "25999b53e0bbb3ed4c47acb1d2537fd4539cf231",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+      "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1. Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody. Finnish police",
+      "published": "2026-07-01 19:28:07",
+      "timestamp": 1782934087
+    },
     {
       "id": "fbc15048e30cf4a64a8e8b12901acb90a3307163",
       "source": "The Hacker News",
@@ -130,6 +180,16 @@
       "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
       "published": "2026-07-01 12:30:01",
       "timestamp": 1782909001
+    },
+    {
+      "id": "386fb113afde605081131b3f6f0a77835c8acb72",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45659 Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
+      "published": "2026-07-01 12:00:00",
+      "timestamp": 1782907200
     },
     {
       "id": "b5776980669fbf2957ff521f2fe73b5d71773021",
@@ -272,16 +332,6 @@
       "timestamp": 1782854406
     },
     {
-      "id": "0482cd86ce96110f929c46ab6877b5d51c1d2100",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-      "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
-      "published": "2026-06-30 21:02:55",
-      "timestamp": 1782853375
-    },
-    {
       "id": "c55cc0c693c4127f6e47bd52ae815d67095ef823",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -342,16 +392,6 @@
       "timestamp": 1782834440
     },
     {
-      "id": "857efe1319ebc1a5c439c2aeefc549bb5740c2a3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-      "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
-      "published": "2026-06-30 15:46:19",
-      "timestamp": 1782834379
-    },
-    {
       "id": "ed6ad7db9fa05b0a19154426dd168c68f6dcb826",
       "source": "The Hacker News",
       "source_category": "General",
@@ -370,16 +410,6 @@
       "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, \"Continue,\" was built to",
       "published": "2026-06-30 14:26:15",
       "timestamp": 1782829575
-    },
-    {
-      "id": "5f73a74d3658db6dc85e7ad36b181db008b3413a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-      "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
-      "published": "2026-06-30 14:00:10",
-      "timestamp": 1782828010
     },
     {
       "id": "19e59de5b0a61303f47e4709b0f6033f6b6ed88c",
@@ -690,26 +720,6 @@
       "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
       "published": "2026-06-26 11:05:45",
       "timestamp": 1782471945
-    },
-    {
-      "id": "9e3048900861dc67c54b36b067d708edba3a8da2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
-      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has not attributed the activity to a known threat actor, and the operators' end goal is still unclear. The lure plays to how hotels work.",
-      "published": "2026-06-26 09:27:12",
-      "timestamp": 1782466032
-    },
-    {
-      "id": "453d357ed5239a66782e5804547e8ccba235fe57",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
-      "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
-      "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus. The finding, published June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian",
-      "published": "2026-06-26 08:49:35",
-      "timestamp": 1782463775
     },
     {
       "id": "6559673c58698ea1bb7e332338ff91399ee8cb22",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41940 WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities",
       "published": "2026-04-30 12:00:00",
       "timestamp": 1777550400
-    },
-    {
-      "id": "52c37d36111dd45d7dc77b62e6eccf844c0e1211",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability CVE-2026-32202 Microsoft Windows Protection Mechanism Failure Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Know",
-      "published": "2026-04-28 12:00:00",
-      "timestamp": 1777377600
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
