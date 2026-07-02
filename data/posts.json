@@ -1,6 +1,46 @@
 {
-  "generated_at": 1782998584,
+  "generated_at": 1783009829,
   "items": [
+    {
+      "id": "f9329c020203bfd8a3e851bfa92317e24e93fe7a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "summary": "This week\u2019s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs",
+      "published": "2026-07-02 15:24:18",
+      "timestamp": 1783005858
+    },
+    {
+      "id": "29291115a3440efe97236fbb9685520f9281fbd2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google loses final appeal to overturn \u20ac4.1 billion EU fine",
+      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+      "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a \u20ac4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
+      "published": "2026-07-02 15:18:51",
+      "timestamp": 1783005531
+    },
+    {
+      "id": "e651d1b9f712314ed0cdd088625dd2d52b43ed9d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+      "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+      "published": "2026-07-02 14:00:10",
+      "timestamp": 1783000810
+    },
+    {
+      "id": "3b632941ab73698c94c408bd65f66f7f49b628ed",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
+      "published": "2026-07-02 13:04:13",
+      "timestamp": 1782997453
+    },
     {
       "id": "945f01b25bf9303aa7f0d46f4fcb9fa3c9e1fc2a",
       "source": "BleepingComputer",
@@ -282,16 +322,6 @@
       "timestamp": 1782910759
     },
     {
-      "id": "be0cfb2c22c96d39556122dd7bcbdccda5474b3f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-      "published": "2026-07-01 12:30:01",
-      "timestamp": 1782909001
-    },
-    {
       "id": "386fb113afde605081131b3f6f0a77835c8acb72",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -310,16 +340,6 @@
       "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions. Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals",
       "published": "2026-07-01 11:30:00",
       "timestamp": 1782905400
-    },
-    {
-      "id": "025fe3a4559c93454977dc6addc36b6ed00774da",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-      "published": "2026-07-01 10:52:26",
-      "timestamp": 1782903146
     },
     {
       "id": "e8eac6fbc5774b4ff3b57e4406971cfdff04556a",
@@ -700,26 +720,6 @@
       "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign has targeted a diplomatic organization in Indonesia, government organizations in Taiwan,",
       "published": "2026-06-26 18:17:46",
       "timestamp": 1782497866
-    },
-    {
-      "id": "86e55934ace68d045724b3e10fe4ead626c4fa63",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks",
-      "published": "2026-06-26 16:21:25",
-      "timestamp": 1782490885
-    },
-    {
-      "id": "321ca5184ef3777ef7e747dedf5e685b42400cd4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as",
-      "published": "2026-06-26 13:57:55",
-      "timestamp": 1782482275
     },
     {
       "id": "6559673c58698ea1bb7e332338ff91399ee8cb22",
