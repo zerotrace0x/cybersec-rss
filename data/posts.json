@@ -1,6 +1,36 @@
 {
-  "generated_at": 1782991434,
+  "generated_at": 1782998584,
   "items": [
+    {
+      "id": "945f01b25bf9303aa7f0d46f4fcb9fa3c9e1fc2a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+      "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
+      "published": "2026-07-02 12:15:47",
+      "timestamp": 1782994547
+    },
+    {
+      "id": "fa035543cf95fc7388552c40013b2306aaed1e49",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+      "published": "2026-07-02 11:35:25",
+      "timestamp": 1782992125
+    },
+    {
+      "id": "60242adf650a267a43b07ef97a4a0a430f3d2865",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+      "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it",
+      "published": "2026-07-02 11:30:00",
+      "timestamp": 1782991800
+    },
     {
       "id": "5421ed9d60f84b767f98b7e854a3f5b399f5a7d7",
       "source": "BleepingComputer",
@@ -300,26 +330,6 @@
       "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
       "published": "2026-07-01 10:41:36",
       "timestamp": 1782902496
-    },
-    {
-      "id": "c8c6e66f81355d23f493bb42c36eabdedbb63ce0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
-      "published": "2026-07-01 09:43:27",
-      "timestamp": 1782899007
-    },
-    {
-      "id": "b8a67bf390f4181fd506dd47432b9dfc3a13f680",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
-      "published": "2026-07-01 07:34:52",
-      "timestamp": 1782891292
     },
     {
       "id": "abbdfe97246f017e929e975c5ef6dd769af9c583",
@@ -710,16 +720,6 @@
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as",
       "published": "2026-06-26 13:57:55",
       "timestamp": 1782482275
-    },
-    {
-      "id": "bf9bd454b1e70210d97bfee683c7001a7f5e6d72",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers. Wiz",
-      "published": "2026-06-26 13:53:00",
-      "timestamp": 1782481980
     },
     {
       "id": "6559673c58698ea1bb7e332338ff91399ee8cb22",
