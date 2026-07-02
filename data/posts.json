@@ -1,6 +1,76 @@
 {
-  "generated_at": 1782973626,
+  "generated_at": 1782991434,
   "items": [
+    {
+      "id": "5421ed9d60f84b767f98b7e854a3f5b399f5a7d7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+      "published": "2026-07-02 10:52:43",
+      "timestamp": 1782989563
+    },
+    {
+      "id": "c4d9cf338b1b8729e57db338823c5d24f8c551e1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
+      "published": "2026-07-02 10:46:58",
+      "timestamp": 1782989218
+    },
+    {
+      "id": "ce9f7c52e11469810166ae49c7b4c90f1791b891",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database. Ransomware has always",
+      "published": "2026-07-02 09:13:13",
+      "timestamp": 1782983593
+    },
+    {
+      "id": "52c497d2645c9b1add2f6ee514e744df14a3762f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
+      "published": "2026-07-02 08:58:25",
+      "timestamp": 1782982705
+    },
+    {
+      "id": "863a644e385e4b81426e11e644f4ced4fb3d800b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment",
+      "published": "2026-07-02 08:00:49",
+      "timestamp": 1782979249
+    },
+    {
+      "id": "0f8a40e3a2b449d7d06cae7e1ead9466957f6325",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine. YesWeHack and",
+      "published": "2026-07-02 07:24:23",
+      "timestamp": 1782977063
+    },
+    {
+      "id": "f9452030ddbda4d1ee266b7437a6b052b63850f0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue",
+      "published": "2026-07-02 05:46:45",
+      "timestamp": 1782971205
+    },
     {
       "id": "b50f10044c0d1073f0a503f2cbeb29ac3d59323f",
       "source": "BleepingComputer",
@@ -175,7 +245,7 @@
       "id": "440bc2af285c12a25b0c8a382e8ff318c3b7e80f",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
       "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices. \"This is the first documented case where a frontier AI model",
       "published": "2026-07-01 12:59:19",
@@ -300,36 +370,6 @@
       "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities are listed below - CVE-2026-8451 (CVSS score: 8.8) - An insufficient input validation",
       "published": "2026-07-01 03:54:22",
       "timestamp": 1782878062
-    },
-    {
-      "id": "73aca79aa1fe3232b3a7cd09f450d1c45b246274",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "summary": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
-      "published": "2026-07-01 00:35:14",
-      "timestamp": 1782866114
-    },
-    {
-      "id": "505c53a4740fd147656d0e2875cff3104efb192a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "summary": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]",
-      "published": "2026-06-30 23:13:07",
-      "timestamp": 1782861187
-    },
-    {
-      "id": "bde29c38c514bcd67a6288def33e967fb5d8db2f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
-      "published": "2026-06-30 21:50:24",
-      "timestamp": 1782856224
     },
     {
       "id": "c55cc0c693c4127f6e47bd52ae815d67095ef823",
@@ -680,46 +720,6 @@
       "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers. Wiz",
       "published": "2026-06-26 13:53:00",
       "timestamp": 1782481980
-    },
-    {
-      "id": "9a2f2411d880cbcfd1fb02d7357082f0deb1dfde",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is",
-      "published": "2026-06-26 12:31:56",
-      "timestamp": 1782477116
-    },
-    {
-      "id": "7bd92feb8fb08b25f642c043231623983a8b4b56",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. Tracked as CVE-2026-43503 (CVSS 8.8), it lets a local user corrupt file-backed memory through a cloned network packet and gain root. The patch landed in",
-      "published": "2026-06-26 11:51:35",
-      "timestamp": 1782474695
-    },
-    {
-      "id": "4be78e0558a6555cffd986458530abb38a3d8a09",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are deploying and what their governance programs actually cover is widening fast. This guide breaks",
-      "published": "2026-06-26 11:30:00",
-      "timestamp": 1782473400
-    },
-    {
-      "id": "a2560aa76ca79f403bf9611b94522b42d29a77fb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
-      "published": "2026-06-26 11:05:45",
-      "timestamp": 1782471945
     },
     {
       "id": "6559673c58698ea1bb7e332338ff91399ee8cb22",
