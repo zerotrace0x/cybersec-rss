@@ -1,6 +1,26 @@
 {
-  "generated_at": 1783095415,
+  "generated_at": 1783104985,
   "items": [
+    {
+      "id": "5df291631f7bfe5ccb4f095b9b369a4fc4f438c0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
+      "published": "2026-07-03 17:50:04",
+      "timestamp": 1783101004
+    },
+    {
+      "id": "b01c57f0548ebb92ecffbae2b6fb8802e0fea210",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+      "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and",
+      "published": "2026-07-03 16:07:15",
+      "timestamp": 1783094835
+    },
     {
       "id": "09959fb194fe7c70398f30b9642b575bad1fbe57",
       "source": "BleepingComputer",
@@ -310,16 +330,6 @@
       "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.",
       "published": "2026-07-01 17:53:06",
       "timestamp": 1782928386
-    },
-    {
-      "id": "84b4e7bbe2356b68082870dddfd4483d21d6f4d3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
-      "published": "2026-07-01 17:32:22",
-      "timestamp": 1782927142
     },
     {
       "id": "b6b95e70ce2ded75daba169b75295933a55b43aa",
@@ -730,16 +740,6 @@
       "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.",
       "published": "2026-06-29 08:32:31",
       "timestamp": 1782721951
-    },
-    {
-      "id": "f2f7039c6f627fb58e9af044c5d90051dd9a71d5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2. libssh2 is a client-side SSH library, not a server.",
-      "published": "2026-06-29 07:06:34",
-      "timestamp": 1782716794
     },
     {
       "id": "6559673c58698ea1bb7e332338ff91399ee8cb22",
