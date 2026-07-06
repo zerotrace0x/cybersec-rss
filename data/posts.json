@@ -1,6 +1,26 @@
 {
-  "generated_at": 1783359298,
+  "generated_at": 1783365994,
   "items": [
+    {
+      "id": "8da94df8d2cf696a694f01902c1143c1b7e7a174",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+      "summary": "\u200bVietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
+      "published": "2026-07-06 18:25:06",
+      "timestamp": 1783362306
+    },
+    {
+      "id": "05dc81a74226dced836407dca5918dc97449121b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit",
+      "published": "2026-07-06 17:37:01",
+      "timestamp": 1783359421
+    },
     {
       "id": "5b597c71c4d008bd704ff8f15a43a19dc9bafe12",
       "source": "The Hacker News",
@@ -402,16 +422,6 @@
       "timestamp": 1782983593
     },
     {
-      "id": "52c497d2645c9b1add2f6ee514e744df14a3762f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Alleged Scattered Spider hacker extradited to the United States",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-      "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
-      "published": "2026-07-02 08:58:25",
-      "timestamp": 1782982705
-    },
-    {
       "id": "863a644e385e4b81426e11e644f4ced4fb3d800b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -720,16 +730,6 @@
       "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages. Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering",
       "published": "2026-06-30 11:30:00",
       "timestamp": 1782819000
-    },
-    {
-      "id": "c8e8debc254ebd5a3b30f0c06af96cd5543072b2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-      "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated",
-      "published": "2026-06-30 11:18:47",
-      "timestamp": 1782818327
     },
     {
       "id": "d3159a7ee4977a6337e80a479d26684964d37f1f",
