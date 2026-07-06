@@ -1,6 +1,56 @@
 {
-  "generated_at": 1783341136,
+  "generated_at": 1783359298,
   "items": [
+    {
+      "id": "5b597c71c4d008bd704ff8f15a43a19dc9bafe12",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header from any source IP address, effectively allowing an unauthenticated internet client to get elevated",
+      "published": "2026-07-06 16:28:59",
+      "timestamp": 1783355339
+    },
+    {
+      "id": "b5eb09bdc22e3a9e2fe2202ac1fde0e61785a3dc",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "5 insights from Frost & Sullivan\u2019s 2025 Frost Radar\u2122 for Cloud Security Posture Management",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
+      "summary": "Read five key learnings from the Frost & Sullivan 2025 Frost Radar\u2122 for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management. The post 5 insights from Frost & Sullivan\u2019s 2025 Frost Radar\u2122 for Cloud Security Posture Management appeared first on Microsoft Security Blog.",
+      "published": "2026-07-06 16:00:00",
+      "timestamp": 1783353600
+    },
+    {
+      "id": "7db59ca31c07efa5022e636a7f6dd1485b6c0a8d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+      "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it also removes many of the moments where security decisions have traditionally taken place. [...]",
+      "published": "2026-07-06 14:00:10",
+      "timestamp": 1783346410
+    },
+    {
+      "id": "a737c8a8afd9b4620f49066eec6c901be9504c65",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence company KEVIntel. [...]",
+      "published": "2026-07-06 13:18:37",
+      "timestamp": 1783343917
+    },
+    {
+      "id": "60eebab6260a2ca7741b2cd998863585f902de7f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+      "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructions. Same soft spot throughout: trust",
+      "published": "2026-07-06 13:01:14",
+      "timestamp": 1783342874
+    },
     {
       "id": "8a488f320e238b47a83e907337ade46e574ebf2f",
       "source": "The Hacker News",
@@ -392,26 +442,6 @@
       "timestamp": 1782971205
     },
     {
-      "id": "b50f10044c0d1073f0a503f2cbeb29ac3d59323f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-      "published": "2026-07-02 04:25:42",
-      "timestamp": 1782966342
-    },
-    {
-      "id": "11f7de21bbd876840dae56435f77ccf7b223eca8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-      "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
-      "published": "2026-07-01 21:37:24",
-      "timestamp": 1782941844
-    },
-    {
       "id": "25f51460b5a0e59fe4ff1b25642c342649cc63b8",
       "source": "The Hacker News",
       "source_category": "General",
@@ -702,26 +732,6 @@
       "timestamp": 1782818327
     },
     {
-      "id": "b0990bd1558227daf9fd32aca032ab0828dc519e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt. The same research found Quick Share flaws that",
-      "published": "2026-06-30 09:27:58",
-      "timestamp": 1782811678
-    },
-    {
-      "id": "9b9b5e735e73d48d05d09a250e3581940c7c2756",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-      "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker. The targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension. An",
-      "published": "2026-06-30 08:37:19",
-      "timestamp": 1782808639
-    },
-    {
       "id": "d3159a7ee4977a6337e80a479d26684964d37f1f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -780,16 +790,6 @@
       "summary": "Learn how CNAPP platforms are helping organizations prioritize exploitable risks, reduce exposure, and operationalize security across the application lifecycle. The post CNAPP evolution: How Microsoft aligns with leading cloud risk management platforms appeared first on Microsoft Security Blog.",
       "published": "2026-06-24 18:00:00",
       "timestamp": 1782324000
-    },
-    {
-      "id": "ff334818c7be43cdf8bbb45392cbb29d0b99fcf3",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/24/stealc-and-amadey-breaking-down-infostealers-and-the-cybercrime-services-that-deliver-them/",
-      "summary": "On June 24, 2026, Microsoft\u2019s Digital Crimes Unit (DCU) facilitated the takedown, suspension, and blocking of domains that formed the backbone of the StealC and Amadey infrastructure. This blog is a technical breakdown of StealC and Amadey. The post StealC and Amadey: Breaking down infostealers and the cybercrime services that deliver them appeared first on Microsoft Security Blog.",
-      "published": "2026-06-24 12:30:00",
-      "timestamp": 1782304200
     },
     {
       "id": "d53ce4d2ffa2b18736a030858da5f6e8d9a86b1f",
