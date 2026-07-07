@@ -1,6 +1,16 @@
 {
-  "generated_at": 1783388731,
+  "generated_at": 1783405963,
   "items": [
+    {
+      "id": "a1401c5146c74e17b9f18e10ab69b918e85a1763",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices. The vulnerabilities are listed below - CVE-2026-40138 (CVSS score: 9.2) - A pre-authentication vulnerability exists in the",
+      "published": "2026-07-07 05:16:51",
+      "timestamp": 1783401411
+    },
     {
       "id": "489db6617eba0cd978f9eb053ffa1fd33df3d238",
       "source": "BleepingComputer",
@@ -720,16 +730,6 @@
       "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, \"Continue,\" was built to",
       "published": "2026-06-30 14:26:15",
       "timestamp": 1782829575
-    },
-    {
-      "id": "19e59de5b0a61303f47e4709b0f6033f6b6ed88c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-      "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all. Whoever grabs it can send model requests on the developer's account,",
-      "published": "2026-06-30 13:49:34",
-      "timestamp": 1782827374
     },
     {
       "id": "d3159a7ee4977a6337e80a479d26684964d37f1f",
