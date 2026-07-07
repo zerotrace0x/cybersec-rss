@@ -1,6 +1,56 @@
 {
-  "generated_at": 1783405963,
+  "generated_at": 1783424082,
   "items": [
+    {
+      "id": "ce245b7879039377055ba08f9733b4891d1c8dff",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+      "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
+      "published": "2026-07-07 09:41:19",
+      "timestamp": 1783417279
+    },
+    {
+      "id": "76f7ff17889af0ee31a135d491d7e4fe766b1679",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS score: 9.3), to siphon credentials,",
+      "published": "2026-07-07 09:10:51",
+      "timestamp": 1783415451
+    },
+    {
+      "id": "8590d9aa01d7d753bcd5f3ad9b7db60c6a29e7af",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "BeyondTrust warns of critical flaws in remote access software",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+      "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
+      "published": "2026-07-07 08:12:10",
+      "timestamp": 1783411930
+    },
+    {
+      "id": "903559d72c9e20538f5744fee3bacabacdf72db7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
+      "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
+      "published": "2026-07-07 07:37:38",
+      "timestamp": 1783409858
+    },
+    {
+      "id": "8eede7f7363d84fed3dc7a41cb108db05ccf4358",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday. \"An attacker can exploit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process",
+      "published": "2026-07-07 06:40:47",
+      "timestamp": 1783406447
+    },
     {
       "id": "a1401c5146c74e17b9f18e10ab69b918e85a1763",
       "source": "The Hacker News",
@@ -382,16 +432,6 @@
       "timestamp": 1783005531
     },
     {
-      "id": "e651d1b9f712314ed0cdd088625dd2d52b43ed9d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-      "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
-      "published": "2026-07-02 14:00:10",
-      "timestamp": 1783000810
-    },
-    {
       "id": "3b632941ab73698c94c408bd65f66f7f49b628ed",
       "source": "The Hacker News",
       "source_category": "General",
@@ -400,26 +440,6 @@
       "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
       "published": "2026-07-02 13:04:13",
       "timestamp": 1782997453
-    },
-    {
-      "id": "945f01b25bf9303aa7f0d46f4fcb9fa3c9e1fc2a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
-      "published": "2026-07-02 12:15:47",
-      "timestamp": 1782994547
-    },
-    {
-      "id": "fa035543cf95fc7388552c40013b2306aaed1e49",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
-      "published": "2026-07-02 11:35:25",
-      "timestamp": 1782992125
     },
     {
       "id": "60242adf650a267a43b07ef97a4a0a430f3d2865",
@@ -710,26 +730,6 @@
       "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)",
       "published": "2026-06-30 15:47:20",
       "timestamp": 1782834440
-    },
-    {
-      "id": "ed6ad7db9fa05b0a19154426dd168c68f6dcb826",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campaign is delivered through unsigned installers \u2013 observed in both .NET and Golang variants \u2013 that",
-      "published": "2026-06-30 15:40:18",
-      "timestamp": 1782834018
-    },
-    {
-      "id": "18e5fc33907e7e3650d6dfb84c69339f4c4f40b8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, \"Continue,\" was built to",
-      "published": "2026-06-30 14:26:15",
-      "timestamp": 1782829575
     },
     {
       "id": "d3159a7ee4977a6337e80a479d26684964d37f1f",
