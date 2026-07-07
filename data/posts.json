@@ -1,6 +1,46 @@
 {
-  "generated_at": 1783443752,
+  "generated_at": 1783452486,
   "items": [
+    {
+      "id": "18e3fab65aa4f1d348864aa13c8a09f5c053fcb3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
+      "published": "2026-07-07 18:52:19",
+      "timestamp": 1783450339
+    },
+    {
+      "id": "c9a501d7eec55e019d9dd103e25fe0e3b0d2481f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
+      "published": "2026-07-07 17:27:22",
+      "timestamp": 1783445242
+    },
+    {
+      "id": "13f5f020652039124ac1377629940480639d1daf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts. Zimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool",
+      "published": "2026-07-07 17:10:15",
+      "timestamp": 1783444215
+    },
+    {
+      "id": "1e8caa1952ecbff3aa2af464041a5b5adfc7016b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password. Security firm Varonis found it",
+      "published": "2026-07-07 16:37:33",
+      "timestamp": 1783442253
+    },
     {
       "id": "b80cd39994b226824ef9f2ee6cf9dca0e7efb153",
       "source": "BleepingComputer",
@@ -80,6 +120,16 @@
       "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
       "published": "2026-07-07 12:06:09",
       "timestamp": 1783425969
+    },
+    {
+      "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
+      "published": "2026-07-07 12:00:00",
+      "timestamp": 1783425600
     },
     {
       "id": "d19ff167c0cf8c9f41d4b730be1df4b8aef58c2b",
@@ -322,16 +372,6 @@
       "timestamp": 1783260892
     },
     {
-      "id": "131e2a2a099d9bd83660306e2c7559ef5b74df54",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
-      "published": "2026-07-04 14:16:38",
-      "timestamp": 1783174598
-    },
-    {
       "id": "e3c373bcb9c48b360789832a0e8e3e1adcaf0780",
       "source": "The Hacker News",
       "source_category": "General",
@@ -380,16 +420,6 @@
       "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
       "published": "2026-07-03 18:55:24",
       "timestamp": 1783104924
-    },
-    {
-      "id": "5df291631f7bfe5ccb4f095b9b369a4fc4f438c0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
-      "published": "2026-07-03 17:50:04",
-      "timestamp": 1783101004
     },
     {
       "id": "b01c57f0548ebb92ecffbae2b6fb8802e0fea210",
@@ -680,26 +710,6 @@
       "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks' Unit 42 calls the trick phantom squatting, and its new research shows it is already happening in the wild. The reason it matters is",
       "published": "2026-07-01 07:20:51",
       "timestamp": 1782890451
-    },
-    {
-      "id": "d96c6f2cb420b7403d7ba4c1f90ed01159efc2d9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier. Fable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork. Export controls restrict who can",
-      "published": "2026-07-01 06:46:17",
-      "timestamp": 1782888377
-    },
-    {
-      "id": "603e6b12b5c068f54c246aed2f1852c5238c14bd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167). \"Between June 12 and June 26, the threat",
-      "published": "2026-07-01 05:46:03",
-      "timestamp": 1782884763
     },
     {
       "id": "c55cc0c693c4127f6e47bd52ae815d67095ef823",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a liv",
       "published": "2026-05-01 12:00:00",
       "timestamp": 1777636800
-    },
-    {
-      "id": "506bc221ece9abf587cadc24a87fda1cc855cd6d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41940 WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities",
-      "published": "2026-04-30 12:00:00",
-      "timestamp": 1777550400
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
