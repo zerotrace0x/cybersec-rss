@@ -1,6 +1,46 @@
 {
-  "generated_at": 1783432754,
+  "generated_at": 1783443752,
   "items": [
+    {
+      "id": "b80cd39994b226824ef9f2ee6cf9dca0e7efb153",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
+      "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
+      "published": "2026-07-07 15:21:21",
+      "timestamp": 1783437681
+    },
+    {
+      "id": "8194458b74535f0a18e4d045b1b2410127ab20ae",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. \"The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,",
+      "published": "2026-07-07 15:14:14",
+      "timestamp": 1783437254
+    },
+    {
+      "id": "b9c0cf65545dcf093aa5861a8200cd6b32c0c52f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones",
+      "published": "2026-07-07 14:04:50",
+      "timestamp": 1783433090
+    },
+    {
+      "id": "1ea1e1a690efadc3dd5cf0f778937815df633d8d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
+      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
+      "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
+      "published": "2026-07-07 14:01:11",
+      "timestamp": 1783432871
+    },
     {
       "id": "f028ca4e002ba772698e58ebcf8e48ee9f70c771",
       "source": "The Hacker News",
@@ -362,16 +402,6 @@
       "timestamp": 1783094835
     },
     {
-      "id": "09959fb194fe7c70398f30b9642b575bad1fbe57",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
-      "published": "2026-07-03 14:12:22",
-      "timestamp": 1783087942
-    },
-    {
       "id": "4173ce00e3aa89c6765805d8c135df959c6d9087",
       "source": "The Hacker News",
       "source_category": "General",
@@ -400,16 +430,6 @@
       "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
       "published": "2026-07-03 08:03:37",
       "timestamp": 1783065817
-    },
-    {
-      "id": "ebee4a5fd54abfa9141f00ef4a2079ce8e11b532",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
-      "published": "2026-07-03 01:37:09",
-      "timestamp": 1783042629
     },
     {
       "id": "125c29997340ddff1568847bc7d818558b78ca41",
@@ -680,26 +700,6 @@
       "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167). \"Between June 12 and June 26, the threat",
       "published": "2026-07-01 05:46:03",
       "timestamp": 1782884763
-    },
-    {
-      "id": "aec1b08db1355b5da633ba20853fe41f56ff78e6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same research also turned up a new delivery method built to slip past Windows' script scanning.",
-      "published": "2026-07-01 05:32:12",
-      "timestamp": 1782883932
-    },
-    {
-      "id": "cecd6aba7d4aeef350bde72f2a62417d96f6fd84",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities are listed below - CVE-2026-8451 (CVSS score: 8.8) - An insufficient input validation",
-      "published": "2026-07-01 03:54:22",
-      "timestamp": 1782878062
     },
     {
       "id": "c55cc0c693c4127f6e47bd52ae815d67095ef823",
