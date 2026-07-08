@@ -1,6 +1,56 @@
 {
-  "generated_at": 1783516889,
+  "generated_at": 1783527787,
   "items": [
+    {
+      "id": "3b7fc54c1604eed391ff949e65439e72b943a92b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's",
+      "published": "2026-07-08 15:07:24",
+      "timestamp": 1783523244
+    },
+    {
+      "id": "f395f9837d37ec67c3375be44e337e941a189809",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of vulnerabilities is as follows - CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker",
+      "published": "2026-07-08 14:38:05",
+      "timestamp": 1783521485
+    },
+    {
+      "id": "a690ecd7866fa5a437dff8874af463d6e10f0521",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
+      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
+      "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]",
+      "published": "2026-07-08 14:01:11",
+      "timestamp": 1783519271
+    },
+    {
+      "id": "990243e59e9bfa292335ba6e514e68d4c8e5c1f7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+      "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This \u201cghost phishing\u201d technique keeps the malicious page hidden until it decrypts and comes to life inside the victim\u2019s browser. For security leaders, the risk is clear: traditional URL checks may miss the attack while Microsoft 365 access, sensitive data, and response time",
+      "published": "2026-07-08 13:00:00",
+      "timestamp": 1783515600
+    },
+    {
+      "id": "95748e228192f62d1a11a7eccbe45f146419ce98",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification pages that deceive them into running a malicious command that installs a PowerShell toolkit dubbed",
+      "published": "2026-07-08 12:52:15",
+      "timestamp": 1783515135
+    },
     {
       "id": "82151c81932b41fe071859043a31120ff05df405",
       "source": "Krebs on Security",
@@ -310,16 +360,6 @@
       "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
       "published": "2026-07-07 08:12:10",
       "timestamp": 1783411930
-    },
-    {
-      "id": "903559d72c9e20538f5744fee3bacabacdf72db7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-      "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
-      "published": "2026-07-07 07:37:38",
-      "timestamp": 1783409858
     },
     {
       "id": "8eede7f7363d84fed3dc7a41cb108db05ccf4358",
@@ -672,26 +712,6 @@
       "timestamp": 1782934087
     },
     {
-      "id": "fbc15048e30cf4a64a8e8b12901acb90a3307163",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.",
-      "published": "2026-07-01 17:53:06",
-      "timestamp": 1782928386
-    },
-    {
-      "id": "b6b95e70ce2ded75daba169b75295933a55b43aa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on",
-      "published": "2026-07-01 17:18:50",
-      "timestamp": 1782926330
-    },
-    {
       "id": "be3fbfa7ed6e226ebeb5ec7f222023ce04931d9a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -700,26 +720,6 @@
       "summary": "Frost & Sullivan names Microsoft a leader as cloud and application security converge into unified, runtime risk reduction. The post Microsoft named a leader in the Frost Radar for cloud and application runtime security appeared first on Microsoft Security Blog.",
       "published": "2026-07-01 16:00:00",
       "timestamp": 1782921600
-    },
-    {
-      "id": "f48e7967ad83ddba40408ade95b8afc2942531ce",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image. The goal is the usual one: steal banking logins and take",
-      "published": "2026-07-01 15:26:55",
-      "timestamp": 1782919615
-    },
-    {
-      "id": "d941518bbfa0764baa23c267b61d0d241321940c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass,\" Adobe said in an alert released Tuesday. The vulnerabilities are listed",
-      "published": "2026-07-01 15:25:46",
-      "timestamp": 1782919546
     },
     {
       "id": "386fb113afde605081131b3f6f0a77835c8acb72",
