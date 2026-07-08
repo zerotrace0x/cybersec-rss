@@ -1,6 +1,66 @@
 {
-  "generated_at": 1783507933,
+  "generated_at": 1783516889,
   "items": [
+    {
+      "id": "82151c81932b41fe071859043a31120ff05df405",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08 12:31:39",
+      "timestamp": 1783513899
+    },
+    {
+      "id": "ad961534ef107193b281b7117eadfdd1cc58cd4c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
+      "published": "2026-07-08 12:00:00",
+      "timestamp": 1783512000
+    },
+    {
+      "id": "95f7064a9cdb74e1aaa9860716a26d697505b72d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Verified.\" Everything a reviewer would check matches. The commit's hash does not. That matters",
+      "published": "2026-07-08 11:51:24",
+      "timestamp": 1783511484
+    },
+    {
+      "id": "b3b6358876ba2078e4256bbed3f8f944b12517c0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
+      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers gave up, but because the front door finally got harder to kick in. Passkeys are now mainstream.",
+      "published": "2026-07-08 11:30:00",
+      "timestamp": 1783510200
+    },
+    {
+      "id": "d0d8e13498a71728d6f0e190c7375f229f342cf3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]",
+      "published": "2026-07-08 11:24:16",
+      "timestamp": 1783509856
+    },
+    {
+      "id": "91ff67ac217f1a1e880b8e7786e823fc73ab4edc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new study of GitHub Copilot by researchers Abhishek Kumar and Carsten Maple. The models they tested through Copilot, Claude from Anthropic, and Gemini from Google, refused",
+      "published": "2026-07-08 11:21:07",
+      "timestamp": 1783509667
+    },
     {
       "id": "6f453ab48b4ca677d4121ddf1ef55f5b6c2f6a38",
       "source": "BleepingComputer",
@@ -280,26 +340,6 @@
       "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices. The vulnerabilities are listed below - CVE-2026-40138 (CVSS score: 9.2) - A pre-authentication vulnerability exists in the",
       "published": "2026-07-07 05:16:51",
       "timestamp": 1783401411
-    },
-    {
-      "id": "489db6617eba0cd978f9eb053ffa1fd33df3d238",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Phishing poses as big-brand job interview to steal Google accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
-      "summary": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
-      "published": "2026-07-06 20:27:37",
-      "timestamp": 1783369657
-    },
-    {
-      "id": "08b16fbcd47a178fcccd32a43a74e9de7e9995a7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
-      "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
-      "published": "2026-07-06 20:23:45",
-      "timestamp": 1783369425
     },
     {
       "id": "37e89657601af77c2f3fd6afe4c1eda5e59abdab",
@@ -682,36 +722,6 @@
       "timestamp": 1782919546
     },
     {
-      "id": "e2ed36531451b05c46caa874f9458b7e00fdc5b6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-      "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs found the pair and named them DuneSlide. They are tracked as CVE-2026-50548 and CVE-2026-50549, both rated 9.8 out of 10 (or 9.3",
-      "published": "2026-07-01 14:42:54",
-      "timestamp": 1782916974
-    },
-    {
-      "id": "6e995ca2d065e373b2ebdcad777f2554ff98a2b5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve",
-      "published": "2026-07-01 13:56:18",
-      "timestamp": 1782914178
-    },
-    {
-      "id": "440bc2af285c12a25b0c8a382e8ff318c3b7e80f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
-      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices. \"This is the first documented case where a frontier AI model",
-      "published": "2026-07-01 12:59:19",
-      "timestamp": 1782910759
-    },
-    {
       "id": "386fb113afde605081131b3f6f0a77835c8acb72",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1090,16 +1100,6 @@
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability CVE-2010-0249 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2010-0806 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2026-4109",
       "published": "2026-05-20 12:00:00",
       "timestamp": 1779278400
-    },
-    {
-      "id": "e7a111ac88c1caab60ed06a99329b457305c6477",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
-      "published": "2026-05-18 20:48:21",
-      "timestamp": 1779137301
     },
     {
       "id": "9f5def5a01d8b1ea1e3bf791b9354422ff842afc",
