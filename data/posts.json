@@ -1,6 +1,66 @@
 {
-  "generated_at": 1783606941,
+  "generated_at": 1783616955,
   "items": [
+    {
+      "id": "965d33a7cfbf75b828916526016e2b446e54a0fa",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+      "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
+      "published": "2026-07-09 17:08:29",
+      "timestamp": 1783616909
+    },
+    {
+      "id": "e1b35101ff6107de00ff73676f52f1ccb8ba2053",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
+      "published": "2026-07-09 17:00:00",
+      "timestamp": 1783616400
+    },
+    {
+      "id": "1315629fbc78389f23d547d6a19ac108b570b4e7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in - allowScripts defaults to off, meaning",
+      "published": "2026-07-09 16:49:02",
+      "timestamp": 1783615742
+    },
+    {
+      "id": "a718276c69e9c9a2f356d7f78f7282d9c67e4c99",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives. The full ThreatsDay list is below. Global",
+      "published": "2026-07-09 15:09:28",
+      "timestamp": 1783609768
+    },
+    {
+      "id": "b0a830c96f01ba3726bc706f7d846aeea7d9be9d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
+      "summary": "GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats. The post GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware appeared first on Microsoft Security Blog.",
+      "published": "2026-07-09 15:00:00",
+      "timestamp": 1783609200
+    },
+    {
+      "id": "8698370937731817a080ddcddc505f1922de3e39",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
+      "published": "2026-07-09 14:39:51",
+      "timestamp": 1783607991
+    },
     {
       "id": "9961a244058d07c51da7f15c9d8f0f87b731497d",
       "source": "BleepingComputer",
@@ -302,16 +362,6 @@
       "timestamp": 1783509667
     },
     {
-      "id": "6f453ab48b4ca677d4121ddf1ef55f5b6c2f6a38",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-      "published": "2026-07-08 09:58:11",
-      "timestamp": 1783504691
-    },
-    {
       "id": "b1920be42460fc34c698c6d6ef84568d5f984a7d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,26 +370,6 @@
       "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025.",
       "published": "2026-07-08 09:04:33",
       "timestamp": 1783501473
-    },
-    {
-      "id": "228c63fe1007375fce43018fa92474539516189f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-      "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
-      "published": "2026-07-08 08:15:20",
-      "timestamp": 1783498520
-    },
-    {
-      "id": "e7071bba60666d865e908dd8d2fac57e4479087d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
-      "published": "2026-07-08 07:16:55",
-      "timestamp": 1783495015
     },
     {
       "id": "36b2b83ddad83325cd6c1188b59f365ed669ba37",
@@ -692,26 +722,6 @@
       "timestamp": 1783020453
     },
     {
-      "id": "78b75c22d81f9b281365211bb3637924378189e1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions. Google identifies NetNut, also tracked as Popa, as a network spread across home",
-      "published": "2026-07-02 18:54:06",
-      "timestamp": 1783018446
-    },
-    {
-      "id": "141d497810fa72312505684b264b75053787f772",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
-      "published": "2026-07-02 18:30:33",
-      "timestamp": 1783017033
-    },
-    {
       "id": "80a800cf70417cc50b2e7f9ba8215acae239ec75",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -800,16 +810,6 @@
       "summary": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection. The post Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access appeared first on Microsoft Security Blog.",
       "published": "2026-06-25 22:30:29",
       "timestamp": 1782426629
-    },
-    {
-      "id": "cb825fe21a51aca2cfb7ef76b8171f357374479e",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft a Leader in The Forrester Wave\u2122 for Endpoint Management Platforms",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/microsoft-a-leader-in-the-forrester-wave-for-endpoint-management-platforms/",
-      "summary": "Microsoft named a Leader in the Forrester Wave\u2122: Endpoint Management Platforms, Q2 2026, with the highest scores in the current offering and strategy categories. The post Microsoft a Leader in The Forrester Wave\u2122 for Endpoint Management Platforms appeared first on Microsoft Security Blog.",
-      "published": "2026-06-25 16:00:00",
-      "timestamp": 1782403200
     },
     {
       "id": "0e6dab6e5581db3fa07c1f2eae7877dc6784c591",
