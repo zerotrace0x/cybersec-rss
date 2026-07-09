@@ -1,6 +1,46 @@
 {
-  "generated_at": 1783560400,
+  "generated_at": 1783578616,
   "items": [
+    {
+      "id": "3c3305e90f3051b47e26b66fe3fbaf46beefe496",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
+      "published": "2026-07-09 05:42:49",
+      "timestamp": 1783575769
+    },
+    {
+      "id": "6bac3b64694e9794c3a04d2ee6b27d0bc45af202",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Claude Code and OpenAI's Codex when either is running in an autonomous mode that approves its own",
+      "published": "2026-07-09 05:15:02",
+      "timestamp": 1783574102
+    },
+    {
+      "id": "d17176a68a2b6e92aad8ae596eed9a30be9b1ed4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "summary": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.",
+      "published": "2026-07-09 04:27:18",
+      "timestamp": 1783571238
+    },
+    {
+      "id": "4bcd72a5f85d489c5ee3958d40eafb8c508d228e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the",
+      "published": "2026-07-09 04:01:49",
+      "timestamp": 1783569709
+    },
     {
       "id": "97fed223aab07b77ef7edbd66c98946398373ec1",
       "source": "BleepingComputer",
@@ -310,16 +350,6 @@
       "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones",
       "published": "2026-07-07 14:04:50",
       "timestamp": 1783433090
-    },
-    {
-      "id": "1ea1e1a690efadc3dd5cf0f778937815df633d8d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
-      "published": "2026-07-07 14:01:11",
-      "timestamp": 1783432871
     },
     {
       "id": "f028ca4e002ba772698e58ebcf8e48ee9f70c771",
@@ -690,36 +720,6 @@
       "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment",
       "published": "2026-07-02 08:00:49",
       "timestamp": 1782979249
-    },
-    {
-      "id": "0f8a40e3a2b449d7d06cae7e1ead9466957f6325",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine. YesWeHack and",
-      "published": "2026-07-02 07:24:23",
-      "timestamp": 1782977063
-    },
-    {
-      "id": "f9452030ddbda4d1ee266b7437a6b052b63850f0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue",
-      "published": "2026-07-02 05:46:45",
-      "timestamp": 1782971205
-    },
-    {
-      "id": "25f51460b5a0e59fe4ff1b25642c342649cc63b8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in",
-      "published": "2026-07-01 19:40:06",
-      "timestamp": 1782934806
     },
     {
       "id": "be3fbfa7ed6e226ebeb5ec7f222023ce04931d9a",
