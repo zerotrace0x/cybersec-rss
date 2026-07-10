@@ -1,13 +1,83 @@
 {
-  "generated_at": 1783683554,
+  "generated_at": 1783691321,
   "items": [
+    {
+      "id": "35598a3977dc8bfeebf197458642fd5b717da718",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it belies their true organizational",
+      "published": "2026-07-10 13:15:23",
+      "timestamp": 1783689323
+    },
+    {
+      "id": "307dcb20e4e13d006aa909e278026d32cc72176b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher S\u00e9bastien F\u00e9ry disclosed the flaw on July 8 and nicknamed it XRING. He says it needs no login and no malformed packets: about 260 bytes of ordinary QPACK traffic takes the server",
+      "published": "2026-07-10 11:47:43",
+      "timestamp": 1783684063
+    },
+    {
+      "id": "f9d2acc70e8d1d31bc4496b0d119358cb4d43445",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Zimbra urges customers to patch critical web client XSS flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "summary": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
+      "published": "2026-07-10 11:47:38",
+      "timestamp": 1783684058
+    },
+    {
+      "id": "b234645eb6dd5d499584b21ba0dbd33d9b8e1e19",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and exposure data into a single view, and every downstream security program inherits whatever the inventory gets wrong. Lumen Technologies, a",
+      "published": "2026-07-10 11:39:40",
+      "timestamp": 1783683580
+    },
+    {
+      "id": "02869d52527f67c595b63a9607bdb0bbd13f447d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were actually broken into, but the exposed files showed researchers how a mass site-hacking operation runs from the inside. The operation, now tracked as",
+      "published": "2026-07-10 11:30:02",
+      "timestamp": 1783683002
+    },
+    {
+      "id": "deb7c8571c7641f8ec2044551e83a640ff4502ac",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure. The apps flagged with at least one problem have been installed more than 2.4 billion times. The problems are basic, not sophisticated. 29 apps let user traffic leak outside",
+      "published": "2026-07-10 10:56:23",
+      "timestamp": 1783680983
+    },
+    {
+      "id": "11ca364f9fb6fd5e1323dff7f0d88eaeaabe8881",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+      "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+      "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of targeting the passkey enrollment process. The",
+      "published": "2026-07-10 10:30:20",
+      "timestamp": 1783679420
+    },
     {
       "id": "9b9044165d52631a510492f3e01884f016e54657",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls. Coinspect has confirmed one coordinated sweep on May",
+      "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls. The firm has confirmed one coordinated sweep on May 27",
       "published": "2026-07-10 09:00:05",
       "timestamp": 1783674005
     },
@@ -310,16 +380,6 @@
       "summary": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed. The post Protecting Microsoft at AI speed: How SFI proactively hardens our cloud appeared first on Microsoft Security Blog.",
       "published": "2026-07-08 17:00:00",
       "timestamp": 1783530000
-    },
-    {
-      "id": "c2719cea8345a3606c09035b72a9214ed0a8647e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
-      "published": "2026-07-08 16:47:25",
-      "timestamp": 1783529245
     },
     {
       "id": "3b7fc54c1604eed391ff949e65439e72b943a92b",
@@ -650,66 +710,6 @@
       "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that",
       "published": "2026-07-06 07:27:50",
       "timestamp": 1783322870
-    },
-    {
-      "id": "90f205cc186eadbe6ec7505c09b625d630535c5b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tested more than 90% of the time, and the same team built a runtime checker that catches most of the",
-      "published": "2026-07-06 06:33:56",
-      "timestamp": 1783319636
-    },
-    {
-      "id": "e3c373bcb9c48b360789832a0e8e3e1adcaf0780",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no sign that it ever locked a single",
-      "published": "2026-07-04 12:47:53",
-      "timestamp": 1783169273
-    },
-    {
-      "id": "d59dadcd9434893a85d0d803df1da87babd5eb59",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-      "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider. \"The campaign remains active, and new malicious packages are likely to continue appearing as threat actors compromise maintainer accounts,",
-      "published": "2026-07-04 11:17:24",
-      "timestamp": 1783163844
-    },
-    {
-      "id": "102c0946367fde48fe203c73b80d374f60e536d0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-      "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on",
-      "published": "2026-07-03 20:19:31",
-      "timestamp": 1783109971
-    },
-    {
-      "id": "20b240bc4f1201fc825df6e8440a3ce05f9b540c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-      "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-      "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug. The AI caught one flaw and missed",
-      "published": "2026-07-03 19:40:01",
-      "timestamp": 1783107601
-    },
-    {
-      "id": "a4812ecc2572270ac34e8110af9c8dcf6165cbe6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
-      "published": "2026-07-03 18:55:24",
-      "timestamp": 1783104924
     },
     {
       "id": "125c29997340ddff1568847bc7d818558b78ca41",
