@@ -1,6 +1,16 @@
 {
-  "generated_at": 1783702129,
+  "generated_at": 1783710664,
   "items": [
+    {
+      "id": "f09219dc3a71db4206588898a9705e4fea83e98e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+      "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
+      "published": "2026-07-10 17:46:10",
+      "timestamp": 1783705570
+    },
     {
       "id": "d71f881e58274cbbe6f21e8e1b3132b940a280cc",
       "source": "BleepingComputer",
@@ -12,14 +22,54 @@
       "timestamp": 1783701421
     },
     {
+      "id": "223d3921fe4ace42cc82c961024428cd940da21e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says it took \"out of an abundance of caution\" while it works with internal and external security",
+      "published": "2026-07-10 16:30:00",
+      "timestamp": 1783701000
+    },
+    {
+      "id": "830d47ca5e88aec659dbc66abf06462c9aec3fdf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was",
+      "published": "2026-07-10 16:29:00",
+      "timestamp": 1783700940
+    },
+    {
       "id": "ee62c509bb1b0aa83752e1a86b08a12ed7e0c0cd",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Progress urges ShareFile customers to shut down servers over \"credible\" threat",
+      "title": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat",
       "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
       "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
       "published": "2026-07-10 16:26:10",
       "timestamp": 1783700770
+    },
+    {
+      "id": "8fa6acfa635901d1c1769b766f3d876e8300e18b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Securing our future: July 2026 progress report on Microsoft\u2019s Secure Future Initiative",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
+      "summary": "Microsoft\u2019s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity. The post Securing our future: July 2026 progress report on Microsoft\u2019s Secure Future Initiative appeared first on Microsoft Security Blog.",
+      "published": "2026-07-10 16:00:00",
+      "timestamp": 1783699200
+    },
+    {
+      "id": "75dcef9967220d62301a9ab7379a0f46bc4396ce",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
+      "published": "2026-07-10 15:57:14",
+      "timestamp": 1783699034
     },
     {
       "id": "e771841c915a9b5a1ba67a293f120329b58c736f",
@@ -80,6 +130,16 @@
       "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it belies their true organizational",
       "published": "2026-07-10 13:15:23",
       "timestamp": 1783689323
+    },
+    {
+      "id": "f02c71b93c2354eecf3eb034b665fd8d9025d8a1",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48939 iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-56291 Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prio",
+      "published": "2026-07-10 12:00:00",
+      "timestamp": 1783684800
     },
     {
       "id": "307dcb20e4e13d006aa909e278026d32cc72176b",
@@ -320,16 +380,6 @@
       "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly spotted in the wild on May 21, 2026. It's assessed to be a rebrand of the Beast ransomware,",
       "published": "2026-07-09 10:43:09",
       "timestamp": 1783593789
-    },
-    {
-      "id": "5d261439ffb7c468347ffd7159a7ac595e581614",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
-      "published": "2026-07-09 09:47:28",
-      "timestamp": 1783590448
     },
     {
       "id": "0fb4d931114ff374d7034bc109dcc80c5a63b197",
@@ -682,36 +732,6 @@
       "timestamp": 1783342874
     },
     {
-      "id": "8a488f320e238b47a83e907337ade46e574ebf2f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation. Whether a platform will materially change outcomes for",
-      "published": "2026-07-06 11:30:02",
-      "timestamp": 1783337402
-    },
-    {
-      "id": "284bd4561af203d0bebebd288af4042e339c9b5d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.",
-      "published": "2026-07-06 10:58:16",
-      "timestamp": 1783335496
-    },
-    {
-      "id": "47ed6d6564b06e0336805b6072ffea86befcd019",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode. But TrojPix works only once malware is already on the target machine, so it",
-      "published": "2026-07-06 08:50:54",
-      "timestamp": 1783327854
-    },
-    {
       "id": "125c29997340ddff1568847bc7d818558b78ca41",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -800,16 +820,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48558 SimpleHelp Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive ",
       "published": "2026-06-29 12:00:00",
       "timestamp": 1782734400
-    },
-    {
-      "id": "6559673c58698ea1bb7e332338ff91399ee8cb22",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
-      "summary": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection. The post Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access appeared first on Microsoft Security Blog.",
-      "published": "2026-06-25 22:30:29",
-      "timestamp": 1782426629
     },
     {
       "id": "0e6dab6e5581db3fa07c1f2eae7877dc6784c591",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
       "published": "2026-05-07 12:00:00",
       "timestamp": 1778155200
-    },
-    {
-      "id": "4d95530762fa582e45df899405ef657476d915fd",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
-      "published": "2026-05-06 12:00:00",
-      "timestamp": 1778068800
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
