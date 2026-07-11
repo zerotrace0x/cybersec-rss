@@ -1,6 +1,26 @@
 {
-  "generated_at": 1783795184,
+  "generated_at": 1783805790,
   "items": [
+    {
+      "id": "b4d89f60c4d8ddee2630c1284679c8b0313b339c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, one build each for Windows, macOS, and Linux. Socket flagged the release six minutes after it was published. If you or one of your",
+      "published": "2026-07-11 17:59:26",
+      "timestamp": 1783792766
+    },
+    {
+      "id": "e498c1786e00f0a10c8f746eab29f3900f0ea6f6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
+      "published": "2026-07-11 17:49:31",
+      "timestamp": 1783792171
+    },
     {
       "id": "4b0d28eede6d83556ed00ceb7b956801d6679417",
       "source": "BleepingComputer",
@@ -700,26 +720,6 @@
       "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations. The activity, which has primarily singled out IT providers and government sectors, has been attributed to a threat cluster tracked by Check Point Research",
       "published": "2026-07-06 18:34:26",
       "timestamp": 1783362866
-    },
-    {
-      "id": "05dc81a74226dced836407dca5918dc97449121b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
-      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
-      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit",
-      "published": "2026-07-06 17:37:01",
-      "timestamp": 1783359421
-    },
-    {
-      "id": "5b597c71c4d008bd704ff8f15a43a19dc9bafe12",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
-      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header from any source IP address, effectively allowing an unauthenticated internet client to get elevated",
-      "published": "2026-07-06 16:28:59",
-      "timestamp": 1783355339
     },
     {
       "id": "b5eb09bdc22e3a9e2fe2202ac1fde0e61785a3dc",
