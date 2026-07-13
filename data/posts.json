@@ -1,6 +1,46 @@
 {
-  "generated_at": 1783962191,
+  "generated_at": 1783969614,
   "items": [
+    {
+      "id": "719c25b84f967f30c0e6980722dce0994c9bc0bb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New CrashStealer malware poses as Apple crash reporting tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
+      "published": "2026-07-13 19:04:02",
+      "timestamp": 1783969442
+    },
+    {
+      "id": "b179bc7c8fe5f9b75670e568b10eed3dcdd74759",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in native C++, according to Jamf Threat Labs. \"It validates the victim's login password locally before",
+      "published": "2026-07-13 17:36:12",
+      "timestamp": 1783964172
+    },
+    {
+      "id": "06581c352b3a475158b266deb9da2c1583d2656a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+      "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version. The collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain. The",
+      "published": "2026-07-13 17:17:24",
+      "timestamp": 1783963044
+    },
+    {
+      "id": "15db8c89c1e9d3cea1d3632503007757ea739a9a",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/",
+      "summary": "Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare. The post Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID appeared first on Microsoft Security Blog.",
+      "published": "2026-07-13 17:00:00",
+      "timestamp": 1783962000
+    },
     {
       "id": "17848ea69cf76feff2d63c8a2ac85a853542f8e9",
       "source": "BleepingComputer",
@@ -80,6 +120,16 @@
       "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts. Distributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing",
       "published": "2026-07-13 13:03:33",
       "timestamp": 1783947813
+    },
+    {
+      "id": "7ddef9b64495a4b4823799c74f0bd00fea4be779",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/13/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4128 Cisco IOS Cross-Site Request Forgery Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
+      "published": "2026-07-13 12:00:00",
+      "timestamp": 1783944000
     },
     {
       "id": "b9e22b54c88cceaac8c678530d6d158845ddc6ca",
@@ -280,16 +330,6 @@
       "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was",
       "published": "2026-07-10 16:29:00",
       "timestamp": 1783700940
-    },
-    {
-      "id": "ee62c509bb1b0aa83752e1a86b08a12ed7e0c0cd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
-      "published": "2026-07-10 16:26:10",
-      "timestamp": 1783700770
     },
     {
       "id": "8fa6acfa635901d1c1769b766f3d876e8300e18b",
@@ -692,26 +732,6 @@
       "timestamp": 1783442253
     },
     {
-      "id": "8194458b74535f0a18e4d045b1b2410127ab20ae",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. \"The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,",
-      "published": "2026-07-07 15:14:14",
-      "timestamp": 1783437254
-    },
-    {
-      "id": "b9c0cf65545dcf093aa5861a8200cd6b32c0c52f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones",
-      "published": "2026-07-07 14:04:50",
-      "timestamp": 1783433090
-    },
-    {
       "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -810,16 +830,6 @@
       "summary": "MCP tool poisoning turns trusted AI agents into a control plane for data loss. Learn how threat actors manipulate tool descriptions to trigger unauthorized actions, and how to detect, contain, and prevent it. The post Securing AI agents: When AI tools move from reading to acting appeared first on Microsoft Security Blog.",
       "published": "2026-06-30 15:57:11",
       "timestamp": 1782835031
-    },
-    {
-      "id": "29173feab6419673cca31e5fdf6f0ea293fe5e65",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Chromium extension uses AI\u2011related branding to redirect browser search",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
-      "summary": "A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure. The post Chromium extension uses AI\u2011related branding to redirect browser search appeared first on Microsoft Security Blog.",
-      "published": "2026-06-29 16:27:46",
-      "timestamp": 1782750466
     },
     {
       "id": "3bbe534b7acf19487abeb4ac237679fae9bf6967",
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42208 BerriAI LiteLLM SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vu",
       "published": "2026-05-08 12:00:00",
       "timestamp": 1778241600
-    },
-    {
-      "id": "78047460d94c47979c50fce1abbab6270c75ba86",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
-      "published": "2026-05-07 12:00:00",
-      "timestamp": 1778155200
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
