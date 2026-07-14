@@ -1,11 +1,51 @@
 {
-  "generated_at": 1784014866,
+  "generated_at": 1784024825,
   "items": [
+    {
+      "id": "501aceaa4510e73f864cfe027cd494499b933d98",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+      "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
+      "published": "2026-07-14 09:40:13",
+      "timestamp": 1784022013
+    },
+    {
+      "id": "3f0e834abed492322ca1dae382bf99b4eb41b613",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+      "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not",
+      "published": "2026-07-14 09:02:48",
+      "timestamp": 1784019768
+    },
+    {
+      "id": "232b62fb3c77607b362bc7b678d4e2f928b468e0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support",
+      "link": "https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html",
+      "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against Americans. The VPN, named First VPN Service (1VPNS), has been accused of offering its tools to ransomware groups, along with its 45-year-old Ukrainian",
+      "published": "2026-07-14 08:02:33",
+      "timestamp": 1784016153
+    },
+    {
+      "id": "d7bab58cb3497c5a7266a8eee872eba6de504915",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet",
+      "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
+      "summary": "A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from JFrog. The packages did not go after the developers who might install them. The operators used the registry as free hosting for a booby-trapped proxy site and let the students who came to dodge",
+      "published": "2026-07-14 07:08:36",
+      "timestamp": 1784012916
+    },
     {
       "id": "f6ec38302122d990f7649b371774b1dfa7fbd2a8",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths",
+      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
       "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
       "summary": "Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the organization had already extended, usually through the OAuth connections that tie Salesforce to the apps and third-party vendors around it. In",
       "published": "2026-07-14 06:19:24",
@@ -320,16 +360,6 @@
       "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. \"The",
       "published": "2026-07-11 06:45:55",
       "timestamp": 1783752355
-    },
-    {
-      "id": "7a8f6a2477d625cdeb44495de9a49fcfefe26c98",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
-      "published": "2026-07-10 21:59:02",
-      "timestamp": 1783720742
     },
     {
       "id": "223d3921fe4ace42cc82c961024428cd940da21e",
@@ -710,36 +740,6 @@
       "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025.",
       "published": "2026-07-08 09:04:33",
       "timestamp": 1783501473
-    },
-    {
-      "id": "36b2b83ddad83325cd6c1188b59f365ed669ba37",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-      "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network",
-      "published": "2026-07-08 06:16:44",
-      "timestamp": 1783491404
-    },
-    {
-      "id": "3d22677e56e33eb5482efaed5affbd652558d770",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-48282 (CVSS score: 10.0) - A path traversal vulnerability in Adobe ColdFusion that could lead to arbitrary code execution in the context of the",
-      "published": "2026-07-08 05:33:12",
-      "timestamp": 1783488792
-    },
-    {
-      "id": "13f5f020652039124ac1377629940480639d1daf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts. Zimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool",
-      "published": "2026-07-07 17:10:15",
-      "timestamp": 1783444215
     },
     {
       "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
