@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784024825,
+  "generated_at": 1784033922,
   "items": [
+    {
+      "id": "3454d051292c941424536634166eaa76342a84c5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
+      "published": "2026-07-14 12:49:56",
+      "timestamp": 1784033396
+    },
+    {
+      "id": "41a4294dd411a67516cb72b9966b809f2609b182",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
+      "published": "2026-07-14 12:49:00",
+      "timestamp": 1784033340
+    },
+    {
+      "id": "be31f3b7c1cceb6d417f330965f34a8a0a3bd31a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
+      "published": "2026-07-14 11:42:21",
+      "timestamp": 1784029341
+    },
+    {
+      "id": "ef5ab083306a39ec8ac6452df6a9e5a3d57ae5ac",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft starts testing cleaner Windows Search without ads",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
+      "summary": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
+      "published": "2026-07-14 10:47:23",
+      "timestamp": 1784026043
+    },
     {
       "id": "501aceaa4510e73f864cfe027cd494499b933d98",
       "source": "BleepingComputer",
@@ -15,7 +55,7 @@
       "id": "3f0e834abed492322ca1dae382bf99b4eb41b613",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
       "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
       "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not",
       "published": "2026-07-14 09:02:48",
@@ -140,16 +180,6 @@
       "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too",
       "published": "2026-07-13 15:05:57",
       "timestamp": 1783955157
-    },
-    {
-      "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "2026-07-13 15:03:28",
-      "timestamp": 1783955008
     },
     {
       "id": "a7f8c4181c4d130aa50212dcae4918669a36d5e9",
@@ -292,26 +322,6 @@
       "timestamp": 1783903484
     },
     {
-      "id": "f9a8f1b267ec4bcc940127b264836f6072fdd3d1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-      "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
-      "published": "2026-07-12 19:39:12",
-      "timestamp": 1783885152
-    },
-    {
-      "id": "5c52e1847b7c3f9cf7b525f82a935d047e365249",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-      "published": "2026-07-12 14:27:32",
-      "timestamp": 1783866452
-    },
-    {
       "id": "b4d89f60c4d8ddee2630c1284679c8b0313b339c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -330,26 +340,6 @@
       "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
       "published": "2026-07-11 17:49:31",
       "timestamp": 1783792171
-    },
-    {
-      "id": "4b0d28eede6d83556ed00ceb7b956801d6679417",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
-      "published": "2026-07-11 14:18:23",
-      "timestamp": 1783779503
-    },
-    {
-      "id": "75cbdce77cceafea8204d3f015d48cfa433e7888",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into the code as a list of numbers. [...]",
-      "published": "2026-07-11 09:03:57",
-      "timestamp": 1783760637
     },
     {
       "id": "9ee9978bb0329c43063449d8ab3c77d7d696fe16",
@@ -692,16 +682,6 @@
       "timestamp": 1783515135
     },
     {
-      "id": "82151c81932b41fe071859043a31120ff05df405",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-      "published": "2026-07-08 12:31:39",
-      "timestamp": 1783513899
-    },
-    {
       "id": "95f7064a9cdb74e1aaa9860716a26d697505b72d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -770,16 +750,6 @@
       "summary": "Read five key learnings from the Frost & Sullivan 2025 Frost Radar\u2122 for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management. The post 5 insights from Frost & Sullivan\u2019s 2025 Frost Radar\u2122 for Cloud Security Posture Management appeared first on Microsoft Security Blog.",
       "published": "2026-07-06 16:00:00",
       "timestamp": 1783353600
-    },
-    {
-      "id": "125c29997340ddff1568847bc7d818558b78ca41",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
-      "published": "2026-07-02 19:27:33",
-      "timestamp": 1783020453
     },
     {
       "id": "80a800cf70417cc50b2e7f9ba8215acae239ec75",
@@ -852,16 +822,6 @@
       "timestamp": 1782388800
     },
     {
-      "id": "d53ce4d2ffa2b18736a030858da5f6e8d9a86b1f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-      "published": "2026-06-23 16:12:49",
-      "timestamp": 1782231169
-    },
-    {
       "id": "97dc524c68fdd6d494c903e22e3c2732df0b50f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -870,16 +830,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-67038 Lantronix EDS5000 Code Injection Vulnerability CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose s",
       "published": "2026-06-23 12:00:00",
       "timestamp": 1782216000
-    },
-    {
-      "id": "e7d976d467cbd7268c040f8d0803adb3c47d7e76",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
-      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-      "published": "2026-06-18 17:37:58",
-      "timestamp": 1781804278
     },
     {
       "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
@@ -942,26 +892,6 @@
       "timestamp": 1781179200
     },
     {
-      "id": "57e3eb9abecd1eb7dcfecdd45d8bd94451f82d7d",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
-      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "published": "2026-06-10 14:03:44",
-      "timestamp": 1781100224
-    },
-    {
-      "id": "efe019266097422537e51165f210cc5edcb52805",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
-      "published": "2026-06-09 22:07:28",
-      "timestamp": 1781042848
-    },
-    {
       "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1012,16 +942,6 @@
       "timestamp": 1780401600
     },
     {
-      "id": "8da2b4df80315a8f334fd6b85a4e02a386bbebe3",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
-      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
-      "published": "2026-06-01 17:32:50",
-      "timestamp": 1780335170
-    },
-    {
       "id": "46b25ae357a174928ff4df9cc0142decff8a03fe",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1070,26 +990,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "2026-05-26 12:00:00",
       "timestamp": 1779796800
-    },
-    {
-      "id": "0f0ee811059df5fe104201ef679dba7a1dbd741e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
-      "published": "2026-05-25 13:21:49",
-      "timestamp": 1779715309
-    },
-    {
-      "id": "3a02bdeb9c41e2b373941004326953696f3f900e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
-      "published": "2026-05-22 16:34:24",
-      "timestamp": 1779467664
     },
     {
       "id": "72c81e00d4992982ae561867fc61eabcab7e61e2",
