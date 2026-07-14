@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784033922,
+  "generated_at": 1784045151,
   "items": [
+    {
+      "id": "6d86d1c68dcd89c8ee50e0778059ce699c1a544c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+      "published": "2026-07-14 15:31:52",
+      "timestamp": 1784043112
+    },
+    {
+      "id": "e1523cc71244145c33461bc994641ed956c3bcd2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launching the exploit itself. [...]",
+      "published": "2026-07-14 14:00:10",
+      "timestamp": 1784037610
+    },
+    {
+      "id": "ef9d2916ff791e451d7fb1bc0336b26de38879a9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
+      "published": "2026-07-14 13:48:07",
+      "timestamp": 1784036887
+    },
     {
       "id": "3454d051292c941424536634166eaa76342a84c5",
       "source": "BleepingComputer",
@@ -22,6 +52,26 @@
       "timestamp": 1784033340
     },
     {
+      "id": "11f10dbfa12caaee6475a1b2524c516448a51cc9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
+      "published": "2026-07-14 12:46:18",
+      "timestamp": 1784033178
+    },
+    {
+      "id": "3bc4e03c72a2dcc633e63087b91050bd581ff9ff",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+      "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or",
+      "published": "2026-07-14 11:55:00",
+      "timestamp": 1784030100
+    },
+    {
       "id": "be31f3b7c1cceb6d417f330965f34a8a0a3bd31a",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -30,6 +80,26 @@
       "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
       "published": "2026-07-14 11:42:21",
       "timestamp": 1784029341
+    },
+    {
+      "id": "8a85f2ae8f50add30b8d4e171e4121ceee804583",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data. That fragmentation matters because attackers do not move through environments one",
+      "published": "2026-07-14 11:30:00",
+      "timestamp": 1784028600
+    },
+    {
+      "id": "5a183529f82e288a7757aedb9dfc02183e0595a5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert defenders. And bad actors have begun",
+      "published": "2026-07-14 11:21:35",
+      "timestamp": 1784028095
     },
     {
       "id": "ef5ab083306a39ec8ac6452df6a9e5a3d57ae5ac",
@@ -182,6 +252,16 @@
       "timestamp": 1783955157
     },
     {
+      "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13 15:03:28",
+      "timestamp": 1783955008
+    },
+    {
       "id": "a7f8c4181c4d130aa50212dcae4918669a36d5e9",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -282,16 +362,6 @@
       "timestamp": 1783940553
     },
     {
-      "id": "b8b7049a5d48d1738bf91f28b1343c79bd237ef4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US and allies warn of Russian critical infrastructure attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-      "summary": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
-      "published": "2026-07-13 09:32:23",
-      "timestamp": 1783935143
-    },
-    {
       "id": "7af2c9c8bdfa2ecc9c7787fdb8044b290c467d5b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +380,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both rated 10.0 on the CVSS scoring system, are below - CVE-2026-48939 - A vulnerability in the",
       "published": "2026-07-13 05:36:02",
       "timestamp": 1783920962
-    },
-    {
-      "id": "8de593eec2adc9df947f55fb675f41505ec02cfd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
-      "published": "2026-07-13 00:44:44",
-      "timestamp": 1783903484
     },
     {
       "id": "b4d89f60c4d8ddee2630c1284679c8b0313b339c",
@@ -672,54 +732,14 @@
       "timestamp": 1783515600
     },
     {
-      "id": "95748e228192f62d1a11a7eccbe45f146419ce98",
-      "source": "The Hacker News",
+      "id": "82151c81932b41fe071859043a31120ff05df405",
+      "source": "Krebs on Security",
       "source_category": "General",
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification pages that deceive them into running a malicious command that installs a PowerShell toolkit dubbed",
-      "published": "2026-07-08 12:52:15",
-      "timestamp": 1783515135
-    },
-    {
-      "id": "95f7064a9cdb74e1aaa9860716a26d697505b72d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Verified.\" Everything a reviewer would check matches. The commit's hash does not. That matters",
-      "published": "2026-07-08 11:51:24",
-      "timestamp": 1783511484
-    },
-    {
-      "id": "b3b6358876ba2078e4256bbed3f8f944b12517c0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers gave up, but because the front door finally got harder to kick in. Passkeys are now mainstream.",
-      "published": "2026-07-08 11:30:00",
-      "timestamp": 1783510200
-    },
-    {
-      "id": "91ff67ac217f1a1e880b8e7786e823fc73ab4edc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new study of GitHub Copilot by researchers Abhishek Kumar and Carsten Maple. The models they tested through Copilot, Claude from Anthropic, and Gemini from Google, refused",
-      "published": "2026-07-08 11:21:07",
-      "timestamp": 1783509667
-    },
-    {
-      "id": "b1920be42460fc34c698c6d6ef84568d5f984a7d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-      "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025.",
-      "published": "2026-07-08 09:04:33",
-      "timestamp": 1783501473
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08 12:31:39",
+      "timestamp": 1783513899
     },
     {
       "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
@@ -750,6 +770,16 @@
       "summary": "Read five key learnings from the Frost & Sullivan 2025 Frost Radar\u2122 for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management. The post 5 insights from Frost & Sullivan\u2019s 2025 Frost Radar\u2122 for Cloud Security Posture Management appeared first on Microsoft Security Blog.",
       "published": "2026-07-06 16:00:00",
       "timestamp": 1783353600
+    },
+    {
+      "id": "125c29997340ddff1568847bc7d818558b78ca41",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02 19:27:33",
+      "timestamp": 1783020453
     },
     {
       "id": "80a800cf70417cc50b2e7f9ba8215acae239ec75",
@@ -822,6 +852,16 @@
       "timestamp": 1782388800
     },
     {
+      "id": "d53ce4d2ffa2b18736a030858da5f6e8d9a86b1f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23 16:12:49",
+      "timestamp": 1782231169
+    },
+    {
       "id": "97dc524c68fdd6d494c903e22e3c2732df0b50f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -830,6 +870,16 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-67038 Lantronix EDS5000 Code Injection Vulnerability CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose s",
       "published": "2026-06-23 12:00:00",
       "timestamp": 1782216000
+    },
+    {
+      "id": "e7d976d467cbd7268c040f8d0803adb3c47d7e76",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
+      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+      "published": "2026-06-18 17:37:58",
+      "timestamp": 1781804278
     },
     {
       "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
@@ -892,6 +942,26 @@
       "timestamp": 1781179200
     },
     {
+      "id": "57e3eb9abecd1eb7dcfecdd45d8bd94451f82d7d",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "2026-06-10 14:03:44",
+      "timestamp": 1781100224
+    },
+    {
+      "id": "efe019266097422537e51165f210cc5edcb52805",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
+      "published": "2026-06-09 22:07:28",
+      "timestamp": 1781042848
+    },
+    {
       "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -942,6 +1012,16 @@
       "timestamp": 1780401600
     },
     {
+      "id": "8da2b4df80315a8f334fd6b85a4e02a386bbebe3",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+      "published": "2026-06-01 17:32:50",
+      "timestamp": 1780335170
+    },
+    {
       "id": "46b25ae357a174928ff4df9cc0142decff8a03fe",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -990,6 +1070,26 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
       "published": "2026-05-26 12:00:00",
       "timestamp": 1779796800
+    },
+    {
+      "id": "0f0ee811059df5fe104201ef679dba7a1dbd741e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
+      "published": "2026-05-25 13:21:49",
+      "timestamp": 1779715309
+    },
+    {
+      "id": "3a02bdeb9c41e2b373941004326953696f3f900e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+      "published": "2026-05-22 16:34:24",
+      "timestamp": 1779467664
     },
     {
       "id": "72c81e00d4992982ae561867fc61eabcab7e61e2",
