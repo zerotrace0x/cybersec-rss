@@ -1,6 +1,56 @@
 {
-  "generated_at": 1784055358,
+  "generated_at": 1784065385,
   "items": [
+    {
+      "id": "ca77ae216ee8e2f69958ac41992e2974765cce95",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
+      "published": "2026-07-14 21:23:24",
+      "timestamp": 1784064204
+    },
+    {
+      "id": "0bcee9a22426d75363ee43bc6ec136242aa395dd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200. Those two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
+      "published": "2026-07-14 20:25:47",
+      "timestamp": 1784060747
+    },
+    {
+      "id": "00e288d90d476d37d9c84408040b2dfb215eda03",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spanish Police take down \u20ac140 million cyber fraud ring, arrest four",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
+      "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made \u20ac140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
+      "published": "2026-07-14 20:23:09",
+      "timestamp": 1784060589
+    },
+    {
+      "id": "be7c17917410f9cd1525e071cb6163600654e342",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14 19:22:42",
+      "timestamp": 1784056962
+    },
+    {
+      "id": "365f523c46e27bd17713ca2832ddb898cdd9480c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+      "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
+      "published": "2026-07-14 19:15:17",
+      "timestamp": 1784056517
+    },
     {
       "id": "3b6bd56cb6698fc2270f95a4c9a50410eaf10887",
       "source": "BleepingComputer",
@@ -10,6 +60,16 @@
       "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
       "published": "2026-07-14 18:49:28",
       "timestamp": 1784054968
+    },
+    {
+      "id": "53a20246030a2ff557d52bcec98c4389b98285ec",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+      "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
+      "published": "2026-07-14 18:17:57",
+      "timestamp": 1784053077
     },
     {
       "id": "3256ff07e238cc1e69209b3d1a8e38e9deaca4e7",
@@ -30,6 +90,16 @@
       "summary": "Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
       "published": "2026-07-14 17:41:16",
       "timestamp": 1784050876
+    },
+    {
+      "id": "8233eaf4133ab6a4a1cff74bfcb3e6dab069ea69",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+      "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the",
+      "published": "2026-07-14 17:27:23",
+      "timestamp": 1784050043
     },
     {
       "id": "3cd685fc85d289ca2f642b6c30347c682d32ebf4",
@@ -110,6 +180,26 @@
       "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
       "published": "2026-07-14 12:46:18",
       "timestamp": 1784033178
+    },
+    {
+      "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges SharePoint Hardening After New Exploitations",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
+      "summary": "CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, and CVE-2026-56164, enabling cyber threat actors to gain unauthorized access to on-premises SharePoint Server instances. These vulnerabilities affect all supported on-premises SharePoint Server versions (Subscription Edition, 2019, and 2016) and involve establishing remote code execution (RCE) and post-exploitation activities, such as stealing Internet Information Services (IIS) machine keys and performing de",
+      "published": "2026-07-14 12:00:00",
+      "timestamp": 1784030400
+    },
+    {
+      "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
+      "published": "2026-07-14 12:00:00",
+      "timestamp": 1784030400
     },
     {
       "id": "3bc4e03c72a2dcc633e63087b91050bd581ff9ff",
@@ -232,26 +322,6 @@
       "timestamp": 1783973939
     },
     {
-      "id": "17a71cf99f5530379ee2c32d7627e30790d433e1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-      "published": "2026-07-13 19:44:19",
-      "timestamp": 1783971859
-    },
-    {
-      "id": "719c25b84f967f30c0e6980722dce0994c9bc0bb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
-      "published": "2026-07-13 19:04:02",
-      "timestamp": 1783969442
-    },
-    {
       "id": "b179bc7c8fe5f9b75670e568b10eed3dcdd74759",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +350,6 @@
       "summary": "Microsoft Entra ID makes passkeys the default sign-in experience and introduces a new model for SMS and voice authentication. Read about how to prepare. The post Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID appeared first on Microsoft Security Blog.",
       "published": "2026-07-13 17:00:00",
       "timestamp": 1783962000
-    },
-    {
-      "id": "17848ea69cf76feff2d63c8a2ac85a853542f8e9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-      "published": "2026-07-13 15:20:16",
-      "timestamp": 1783956016
     },
     {
       "id": "f6fcf1836f542429af0383c0b03037a424cc1264",
@@ -692,16 +752,6 @@
       "timestamp": 1783569709
     },
     {
-      "id": "864ac1525711f3dc2672b874d163e135fd475a58",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack. Decrypting browser credentials, listing what sits in Windows' credential store,",
-      "published": "2026-07-08 17:02:12",
-      "timestamp": 1783530132
-    },
-    {
       "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -710,26 +760,6 @@
       "summary": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed. The post Protecting Microsoft at AI speed: How SFI proactively hardens our cloud appeared first on Microsoft Security Blog.",
       "published": "2026-07-08 17:00:00",
       "timestamp": 1783530000
-    },
-    {
-      "id": "3b7fc54c1604eed391ff949e65439e72b943a92b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's",
-      "published": "2026-07-08 15:07:24",
-      "timestamp": 1783523244
-    },
-    {
-      "id": "f395f9837d37ec67c3375be44e337e941a189809",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of vulnerabilities is as follows - CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker",
-      "published": "2026-07-08 14:38:05",
-      "timestamp": 1783521485
     },
     {
       "id": "82151c81932b41fe071859043a31120ff05df405",
@@ -1082,16 +1112,6 @@
       "timestamp": 1779715309
     },
     {
-      "id": "3a02bdeb9c41e2b373941004326953696f3f900e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
-      "published": "2026-05-22 16:34:24",
-      "timestamp": 1779467664
-    },
-    {
       "id": "72c81e00d4992982ae561867fc61eabcab7e61e2",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1132,16 +1152,6 @@
       "timestamp": 1778846400
     },
     {
-      "id": "1655ac6b4ca82005a3d859189308f5ea4c642067",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20182 Cisco Catalyst SD-WAN Controller Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Note: Please adhere to CISA\u2019s guidelines to assess exposure and mitigate risks associated with Cisco SD-WAN devices as outlined in Emergency Direc",
-      "published": "2026-05-14 12:00:00",
-      "timestamp": 1778760000
-    },
-    {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1150,16 +1160,6 @@
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
       "published": "2026-05-13 07:00:00",
       "timestamp": 1778655600
-    },
-    {
-      "id": "b7bb968bc0b8270417d54f1e061a3ba56ebab3e6",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42208 BerriAI LiteLLM SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vu",
-      "published": "2026-05-08 12:00:00",
-      "timestamp": 1778241600
     },
     {
       "id": "fc248186104a9d7a3f82e94be5e239f91c508ade",
