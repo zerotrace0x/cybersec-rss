@@ -1,15 +1,55 @@
 {
-  "generated_at": 1784131853,
+  "generated_at": 1784141362,
   "items": [
+    {
+      "id": "95920ff3eb672e277ddec2e40f02db60450d08f2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results. \"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed",
+      "published": "2026-07-15 18:43:08",
+      "timestamp": 1784140988
+    },
+    {
+      "id": "8a624aa733f73832e1031de69e92692893ccd3fa",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "published": "2026-07-15 18:33:48",
+      "timestamp": 1784140428
+    },
+    {
+      "id": "fc883f32391210872a4a665a5fd1f8bf01087a87",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Turning threat intelligence into decisive action with Defender Experts",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
+      "summary": "Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools. The post Turning threat intelligence into decisive action with Defender Experts appeared first on Microsoft Security Blog.",
+      "published": "2026-07-15 16:00:35",
+      "timestamp": 1784131235
+    },
     {
       "id": "2aba3be4c589b70a163fb4cdaf4f42ae30b26bcd",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "\u200b    \u200bAsyncAPI npm packages infected with credential-stealing malware",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
       "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
       "published": "2026-07-15 15:37:27",
       "timestamp": 1784129847
+    },
+    {
+      "id": "34b607c2200135ec98ab10be556ba39df71229c2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and",
+      "published": "2026-07-15 15:30:30",
+      "timestamp": 1784129430
     },
     {
       "id": "43125e58ec3c93f086772e7399d8ec85c958cbc8",
@@ -30,6 +70,16 @@
       "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation component \"We are aware that exploit code for this is public, however we are not aware of",
       "published": "2026-07-15 13:18:53",
       "timestamp": 1784121533
+    },
+    {
+      "id": "5152f84ff22fe6fdbe8b85852fba2782d6962aab",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-4346 KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability CVE-2026-46817 Oracle E-Business Suite Improper Privilege Management Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bindin",
+      "published": "2026-07-15 12:00:00",
+      "timestamp": 1784116800
     },
     {
       "id": "82a7f98431f3850ae71d384b991c21f91f2cd2f0",
@@ -272,16 +322,6 @@
       "timestamp": 1784036887
     },
     {
-      "id": "3454d051292c941424536634166eaa76342a84c5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
-      "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
-      "published": "2026-07-14 12:49:56",
-      "timestamp": 1784033396
-    },
-    {
       "id": "11f10dbfa12caaee6475a1b2524c516448a51cc9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -292,22 +332,22 @@
       "timestamp": 1784033178
     },
     {
-      "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges SharePoint Hardening After New Exploitations",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
-      "summary": "CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, and CVE-2026-56164, enabling cyber threat actors to gain unauthorized access to on-premises SharePoint Server instances. These vulnerabilities affect all supported on-premises SharePoint Server versions (Subscription Edition, 2019, and 2016) and involve establishing remote code execution (RCE) and post-exploitation activities, such as stealing Internet Information Services (IIS) machine keys and performing de",
-      "published": "2026-07-14 12:00:00",
-      "timestamp": 1784030400
-    },
-    {
       "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
+      "published": "2026-07-14 12:00:00",
+      "timestamp": 1784030400
+    },
+    {
+      "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges SharePoint Hardening After New Exploitations",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
+      "summary": "CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, and CVE-2026-56164, enabling cyber threat actors to gain unauthorized access to on-premises SharePoint Server instances. These vulnerabilities affect all supported on-premises SharePoint Server versions (Subscription Edition, 2019, and 2016) and involve establishing remote code execution (RCE) and post-exploitation activities, such as stealing Internet Information Services (IIS) machine keys and performing de",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
@@ -722,16 +762,6 @@
       "timestamp": 1783615742
     },
     {
-      "id": "a718276c69e9c9a2f356d7f78f7282d9c67e4c99",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives. The full ThreatsDay list is below. Global",
-      "published": "2026-07-09 15:09:28",
-      "timestamp": 1783609768
-    },
-    {
       "id": "b0a830c96f01ba3726bc706f7d846aeea7d9be9d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -740,16 +770,6 @@
       "summary": "GigaWiper, also tracked as BLUERABBIT, is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats. The post GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware appeared first on Microsoft Security Blog.",
       "published": "2026-07-09 15:00:00",
       "timestamp": 1783609200
-    },
-    {
-      "id": "b5b347df79dba832ecc80e7250036acf760989d3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-      "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert. That is the gap, and it is not your fault. The tools and runbooks most teams run on were built for attackers who work at human speed. AI-driven",
-      "published": "2026-07-09 12:26:58",
-      "timestamp": 1783600018
     },
     {
       "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
@@ -812,7 +832,7 @@
       "timestamp": 1783020453
     },
     {
-      "id": "80a800cf70417cc50b2e7f9ba8215acae239ec75",
+      "id": "18ef4c49194acda3b8ba0ffd770ad8f544c387ce",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Improving security posture across the Microsoft partner ecosystem",
@@ -850,16 +870,6 @@
       "summary": "We\u2019re accelerating quantum-safe readiness\u2014and sharing what organizations can do now to transition earlier and with confidence. The post Accelerating the quantum-safe timeline appeared first on Microsoft Security Blog.",
       "published": "2026-06-30 19:00:00",
       "timestamp": 1782846000
-    },
-    {
-      "id": "1db67b22fc8029a39b2d2a6ee0af2148441e7a53",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200bWhat\u2019s new in Microsoft Security: June 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
-      "summary": "This month\u2019s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation. The post \u200b\u200bWhat\u2019s new in Microsoft Security: June 2026 appeared first on Microsoft Security Blog.",
-      "published": "2026-06-30 16:00:00",
-      "timestamp": 1782835200
     },
     {
       "id": "3bbe534b7acf19487abeb4ac237679fae9bf6967",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability CVE-2010-0249 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2010-0806 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2026-4109",
       "published": "2026-05-20 12:00:00",
       "timestamp": 1779278400
-    },
-    {
-      "id": "9f5def5a01d8b1ea1e3bf791b9354422ff842afc",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list o",
-      "published": "2026-05-15 12:00:00",
-      "timestamp": 1778846400
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
