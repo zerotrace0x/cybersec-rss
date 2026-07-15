@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784120524,
+  "generated_at": 1784131853,
   "items": [
+    {
+      "id": "2aba3be4c589b70a163fb4cdaf4f42ae30b26bcd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "\u200b    \u200bAsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "published": "2026-07-15 15:37:27",
+      "timestamp": 1784129847
+    },
+    {
+      "id": "43125e58ec3c93f086772e7399d8ec85c958cbc8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]",
+      "published": "2026-07-15 14:01:11",
+      "timestamp": 1784124071
+    },
+    {
+      "id": "41da3a67fa767f77adae4aa98d7ba29a45697378",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation component \"We are aware that exploit code for this is public, however we are not aware of",
+      "published": "2026-07-15 13:18:53",
+      "timestamp": 1784121533
+    },
     {
       "id": "82a7f98431f3850ae71d384b991c21f91f2cd2f0",
       "source": "The Hacker News",
@@ -147,7 +177,7 @@
       "source_category": "General",
       "title": "Microsoft releases Windows 10 KB5099539 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
+      "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
       "published": "2026-07-14 18:49:28",
       "timestamp": 1784054968
     },
@@ -252,16 +282,6 @@
       "timestamp": 1784033396
     },
     {
-      "id": "41a4294dd411a67516cb72b9966b809f2609b182",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
-      "published": "2026-07-14 12:49:00",
-      "timestamp": 1784033340
-    },
-    {
       "id": "11f10dbfa12caaee6475a1b2524c516448a51cc9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +320,6 @@
       "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or",
       "published": "2026-07-14 11:55:00",
       "timestamp": 1784030100
-    },
-    {
-      "id": "be31f3b7c1cceb6d417f330965f34a8a0a3bd31a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
-      "published": "2026-07-14 11:42:21",
-      "timestamp": 1784029341
     },
     {
       "id": "8a85f2ae8f50add30b8d4e171e4121ceee804583",
@@ -740,16 +750,6 @@
       "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert. That is the gap, and it is not your fault. The tools and runbooks most teams run on were built for attackers who work at human speed. AI-driven",
       "published": "2026-07-09 12:26:58",
       "timestamp": 1783600018
-    },
-    {
-      "id": "7bbd22f2e68e715b67b8b95c6312d79962db1b5f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Summer of Clearinghouses",
-      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-      "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it \u2014 built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,",
-      "published": "2026-07-09 11:00:00",
-      "timestamp": 1783594800
     },
     {
       "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
