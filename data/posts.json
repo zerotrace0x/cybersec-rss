@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784188187,
+  "generated_at": 1784198789,
   "items": [
+    {
+      "id": "535003ab88c20367be3aa055b8fe9b6b7abd13d1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
+      "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
+      "published": "2026-07-16 10:19:34",
+      "timestamp": 1784197174
+    },
+    {
+      "id": "b6f9de1b7cca6cd2f961a4db249ff3e00abc8b5d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
+      "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
+      "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
+      "published": "2026-07-16 10:00:00",
+      "timestamp": 1784196000
+    },
+    {
+      "id": "9199d7c6176b7a17f7f89c17cf276a6fc0094328",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+      "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT\u2011Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"We use GPT\u2011Red to adversarially train",
+      "published": "2026-07-16 08:42:31",
+      "timestamp": 1784191351
+    },
+    {
+      "id": "e59744db48169e6c07043db63ba382563841685b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows. \"Improper Input Validation in Zoom Desktop Client for Windows, Zoom VDI Client for",
+      "published": "2026-07-16 07:22:44",
+      "timestamp": 1784186564
+    },
     {
       "id": "fcdcb2c68cb5b37c8cc5c1506fcdc0bc008f71c5",
       "source": "Microsoft Security Blog",
@@ -282,16 +322,6 @@
       "timestamp": 1784052096
     },
     {
-      "id": "a6c48a67e48d0b11672635dd36fa43be1e6676d2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5101650\u00a0& KB5099414\u00a0cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
-      "published": "2026-07-14 17:41:16",
-      "timestamp": 1784050876
-    },
-    {
       "id": "8233eaf4133ab6a4a1cff74bfcb3e6dab069ea69",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +340,6 @@
       "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
       "published": "2026-07-14 16:52:37",
       "timestamp": 1784047957
-    },
-    {
-      "id": "4664494c2188fc8ac10f3b82ba6d28028e1c6add",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
-      "published": "2026-07-14 16:08:47",
-      "timestamp": 1784045327
     },
     {
       "id": "ef9d2916ff791e451d7fb1bc0336b26de38879a9",
@@ -750,26 +770,6 @@
       "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API. \"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging GitHub 'ghost' accounts that are often years old, or compromised OAuth tokens and personal",
       "published": "2026-07-09 18:38:49",
       "timestamp": 1783622329
-    },
-    {
-      "id": "bf17e49cec56103e18685d5f7f99881fbf1a7f56",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "link": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from. Each is a different way to break a machine: wipe the whole disk, overwrite the Windows drive, or run fake \"ransomware\" that scrambles files with a key it never saves",
-      "published": "2026-07-09 18:08:07",
-      "timestamp": 1783620487
-    },
-    {
-      "id": "1315629fbc78389f23d547d6a19ac108b570b4e7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-      "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in - allowScripts defaults to off, meaning",
-      "published": "2026-07-09 16:49:02",
-      "timestamp": 1783615742
     },
     {
       "id": "b0a830c96f01ba3726bc706f7d846aeea7d9be9d",
