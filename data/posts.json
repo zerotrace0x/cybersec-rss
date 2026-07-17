@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784314059,
+  "generated_at": 1784324302,
   "items": [
+    {
+      "id": "cd7eed6ffa7ccb70a7a00333da3a0de448c20377",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]",
+      "published": "2026-07-17 20:45:52",
+      "timestamp": 1784321152
+    },
+    {
+      "id": "a208e33b6a4724b3e10b3ab3eb8fa32fc2d7094d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the",
+      "published": "2026-07-17 20:20:53",
+      "timestamp": 1784319653
+    },
+    {
+      "id": "fd15245bce4b79d971a29e8adff354fd37a992f0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
+      "published": "2026-07-17 18:54:51",
+      "timestamp": 1784314491
+    },
     {
       "id": "0ba829a7c02989ea454ca4b5c8358bb280775b85",
       "source": "BleepingComputer",
@@ -320,16 +350,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25089 Fortinet FortiSandbox OS Command Injection Vulnerability CVE-2026-39808 Fortinet FortiSandbox OS Command Injection Vulnerability CVE-2026-58644 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterpr",
       "published": "2026-07-16 12:00:00",
       "timestamp": 1784203200
-    },
-    {
-      "id": "38ea8d96b9a79fc2da214bf47d0c303d595c0bf7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
-      "published": "2026-07-16 11:59:24",
-      "timestamp": 1784203164
     },
     {
       "id": "07defe959094d71efd20e22a9844ac34ef13f5a4",
@@ -770,26 +790,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2008-4128 Cisco IOS Cross-Site Request Forgery Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
       "published": "2026-07-13 12:00:00",
       "timestamp": 1783944000
-    },
-    {
-      "id": "b9e22b54c88cceaac8c678530d6d158845ddc6ca",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it happened: the time, your location, what you were doing, even how you were using your phone. Some versions in the filing would listen all day; others would",
-      "published": "2026-07-13 11:54:46",
-      "timestamp": 1783943686
-    },
-    {
-      "id": "c638289f212f6f852e6beee053b136383a94f69b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were seeing real value in specific investigations. But as we mapped out the broader architecture, something kept nagging at me. The design they were building",
-      "published": "2026-07-13 11:37:05",
-      "timestamp": 1783942625
     },
     {
       "id": "8fa6acfa635901d1c1769b766f3d876e8300e18b",
