@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784304297,
+  "generated_at": 1784314059,
   "items": [
+    {
+      "id": "0ba829a7c02989ea454ca4b5c8358bb280775b85",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "published": "2026-07-17 17:56:21",
+      "timestamp": 1784310981
+    },
+    {
+      "id": "211f1a75230fa5e105be7157503ec8ef1bc66bd2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
+      "published": "2026-07-17 17:12:23",
+      "timestamp": 1784308343
+    },
+    {
+      "id": "044c1f0deec381d8d60e30674f1f3cfa93527d58",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
+      "published": "2026-07-17 16:39:16",
+      "timestamp": 1784306356
+    },
+    {
+      "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
+      "summary": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception. The post Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks appeared first on Microsoft Security Blog.",
+      "published": "2026-07-17 16:00:00",
+      "timestamp": 1784304000
+    },
     {
       "id": "26a1fc5aa8d9fc8461ee976d2ff6339fcf5be75e",
       "source": "BleepingComputer",
@@ -320,16 +360,6 @@
       "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Broadcom-owned Symantec in March 2022, with evidence indicating its use in targeted attacks aimed",
       "published": "2026-07-16 11:17:23",
       "timestamp": 1784200643
-    },
-    {
-      "id": "a938c984c3c3f603e61f5946e37c88ed49c79fdc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "published": "2026-07-16 10:56:03",
-      "timestamp": 1784199363
     },
     {
       "id": "182caa640b89ba5fe21e10c6316d15b20e8e8087",
@@ -762,26 +792,6 @@
       "timestamp": 1783942625
     },
     {
-      "id": "055fc83b4a101eeb716fd0cd84624edf814dc28a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting out a number of files, and finally creating AD_Report.html to measure the success of the",
-      "published": "2026-07-13 11:02:33",
-      "timestamp": 1783940553
-    },
-    {
-      "id": "7af2c9c8bdfa2ecc9c7787fdb8044b290c467d5b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
-      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bash_history. From that one lapse, French security firm Lexfo lifted the operator's entire toolkit and pivoted through it to two more",
-      "published": "2026-07-13 07:30:00",
-      "timestamp": 1783927800
-    },
-    {
       "id": "8fa6acfa635901d1c1769b766f3d876e8300e18b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -850,16 +860,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
       "published": "2026-07-07 12:00:00",
       "timestamp": 1783425600
-    },
-    {
-      "id": "2c7949fed490ee9990be6e72cb5f78c688b7d55c",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "5 insights from Frost & Sullivan\u2019s 2025 Frost Radar\u2122 for Cloud Security Posture Management",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/06/5-insights-from-frost-sullivans-2025-frost-radar-for-cloud-security-posture-management/",
-      "summary": "Read five key learnings from the Frost & Sullivan 2025 Frost Radar\u2122 for CSPM to learn how CSPM is evolving from point-in-time compliance to continuous risk management. The post 5 insights from Frost & Sullivan\u2019s 2025 Frost Radar\u2122 for Cloud Security Posture Management appeared first on Microsoft Security Blog.",
-      "published": "2026-07-06 16:00:00",
-      "timestamp": 1783353600
     },
     {
       "id": "125c29997340ddff1568847bc7d818558b78ca41",
