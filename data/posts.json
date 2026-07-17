@@ -1,6 +1,26 @@
 {
-  "generated_at": 1784266196,
+  "generated_at": 1784274449,
   "items": [
+    {
+      "id": "341d23c97860482c5fac02e9dfb175484338fcaf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
+      "published": "2026-07-17 07:03:33",
+      "timestamp": 1784271813
+    },
+    {
+      "id": "01c5239069d98b116ccf37a48f68e77d5dc9e89d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026. The vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
+      "published": "2026-07-17 06:42:23",
+      "timestamp": 1784270543
+    },
     {
       "id": "dee2054510f5735132f5816c8f8acd93ddb52849",
       "source": "Microsoft Security Blog",
@@ -257,7 +277,7 @@
       "source_category": "General",
       "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
       "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows. \"Improper Input Validation in Zoom Desktop Client for Windows, Zoom VDI Client for",
+      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Workplace for Windows before version 7.0.0 and Zoom Workplace VDI Client for Windows before version 7.0.10, 6.6.15, and 6.5.18 in their respective branches. \"Improper Input",
       "published": "2026-07-16 07:22:44",
       "timestamp": 1784186564
     },
@@ -320,16 +340,6 @@
       "summary": "Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools. The post Turning threat intelligence into decisive action with Defender Experts appeared first on Microsoft Security Blog.",
       "published": "2026-07-15 16:00:35",
       "timestamp": 1784131235
-    },
-    {
-      "id": "2aba3be4c589b70a163fb4cdaf4f42ae30b26bcd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AsyncAPI npm packages infected with credential-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
-      "published": "2026-07-15 15:37:27",
-      "timestamp": 1784129847
     },
     {
       "id": "34b607c2200135ec98ab10be556ba39df71229c2",
@@ -780,16 +790,6 @@
       "summary": "Microsoft\u2019s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity. The post Securing our future: July 2026 progress report on Microsoft\u2019s Secure Future Initiative appeared first on Microsoft Security Blog.",
       "published": "2026-07-10 16:00:00",
       "timestamp": 1783699200
-    },
-    {
-      "id": "75dcef9967220d62301a9ab7379a0f46bc4396ce",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
-      "published": "2026-07-10 15:57:14",
-      "timestamp": 1783699034
     },
     {
       "id": "f02c71b93c2354eecf3eb034b665fd8d9025d8a1",
