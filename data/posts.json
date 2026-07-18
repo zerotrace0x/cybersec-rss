@@ -1,11 +1,21 @@
 {
-  "generated_at": 1784324302,
+  "generated_at": 1784337125,
   "items": [
+    {
+      "id": "64cd579f60416575b5023facaba9069b23450670",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system. Adam Kues at Assetnote, Searchlight Cyber's attack surface management arm, found the flaw and reported",
+      "published": "2026-07-17 21:20:10",
+      "timestamp": 1784323210
+    },
     {
       "id": "cd7eed6ffa7ccb70a7a00333da3a0de448c20377",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+      "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
       "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]",
       "published": "2026-07-17 20:45:52",
@@ -770,16 +780,6 @@
       "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with. The",
       "published": "2026-07-13 13:49:48",
       "timestamp": 1783950588
-    },
-    {
-      "id": "7c10fd825d6f0de65d1bfdacd72f78f5d0b7a848",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts. Distributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing",
-      "published": "2026-07-13 13:03:33",
-      "timestamp": 1783947813
     },
     {
       "id": "7ddef9b64495a4b4823799c74f0bd00fea4be779",
