@@ -1,6 +1,16 @@
 {
-  "generated_at": 1784486619,
+  "generated_at": 1784497092,
   "items": [
+    {
+      "id": "c9bd159b01a51b265001fdb251855d170fdf0c1d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade. Triggering it can crash or restart the worker, causing a denial of",
+      "published": "2026-07-19 20:42:49",
+      "timestamp": 1784493769
+    },
     {
       "id": "b2e3cadb81d806e247ad736e372e890a3efcc8f7",
       "source": "BleepingComputer",
@@ -752,16 +762,6 @@
       "timestamp": 1783964172
     },
     {
-      "id": "06581c352b3a475158b266deb9da2c1583d2656a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-      "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version. The collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain. The",
-      "published": "2026-07-13 17:17:24",
-      "timestamp": 1783963044
-    },
-    {
       "id": "15db8c89c1e9d3cea1d3632503007757ea739a9a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -822,7 +822,7 @@
       "timestamp": 1783609200
     },
     {
-      "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
+      "id": "c0e04f870600107618969396d3bda6c5581b4195",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Protecting Microsoft\u00a0at AI speed:\u00a0How SFI\u00a0proactively hardens\u00a0our cloud",
