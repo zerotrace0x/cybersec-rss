@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784465023,
+  "generated_at": 1784475763,
   "items": [
+    {
+      "id": "b2e3cadb81d806e247ad736e372e890a3efcc8f7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "published": "2026-07-19 14:23:46",
+      "timestamp": 1784471026
+    },
+    {
+      "id": "2ba883c902f3c607d051e4dae9bfd6659f0b9405",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's",
+      "published": "2026-07-19 13:30:55",
+      "timestamp": 1784467855
+    },
+    {
+      "id": "bebf1ec82965ef4964ab44ae60f8fa1ea6128e63",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
+      "published": "2026-07-19 13:18:56",
+      "timestamp": 1784467136
+    },
     {
       "id": "b20debbeba3b470957c2fa5cb321646b82592b41",
       "source": "BleepingComputer",
@@ -147,7 +177,7 @@
       "source_category": "General",
       "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
       "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OtterCookie: a browser credential and crypto wallet stealer, a file stealer, a",
       "published": "2026-07-17 13:48:56",
       "timestamp": 1784296136
     },
@@ -280,16 +310,6 @@
       "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
       "published": "2026-07-16 21:09:41",
       "timestamp": 1784236181
-    },
-    {
-      "id": "52068340a6f46c4ed7c4713e522f2428e3eb747b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
-      "published": "2026-07-16 19:26:07",
-      "timestamp": 1784229967
     },
     {
       "id": "b14906ad08d1df6dfba3e54d9fd2bed8163dc0e5",
@@ -752,16 +772,6 @@
       "timestamp": 1783962000
     },
     {
-      "id": "f6fcf1836f542429af0383c0b03037a424cc1264",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too",
-      "published": "2026-07-13 15:05:57",
-      "timestamp": 1783955157
-    },
-    {
       "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -770,16 +780,6 @@
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
       "published": "2026-07-13 15:03:28",
       "timestamp": 1783955008
-    },
-    {
-      "id": "e961adc67257b3d7f2d57f86d41754eb0973a7a0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-      "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with. The",
-      "published": "2026-07-13 13:49:48",
-      "timestamp": 1783950588
     },
     {
       "id": "7ddef9b64495a4b4823799c74f0bd00fea4be779",
