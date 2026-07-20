@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784575165,
+  "generated_at": 1784584393,
   "items": [
+    {
+      "id": "73bba964db42544cc2b99c1342a6181ef8121cca",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+      "published": "2026-07-20 21:14:42",
+      "timestamp": 1784582082
+    },
+    {
+      "id": "e4eb2845a448e9dc52b357f296844607063cbcfd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "published": "2026-07-20 21:08:02",
+      "timestamp": 1784581682
+    },
+    {
+      "id": "47aa300d75a165d44cbd3218021e2e3cfc0816d0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit. \"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
+      "published": "2026-07-20 18:23:03",
+      "timestamp": 1784571783
+    },
     {
       "id": "a4b948b7a791edbf9573544d32d289d2d02f0399",
       "source": "BleepingComputer",
@@ -310,26 +340,6 @@
       "summary": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception. The post Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks appeared first on Microsoft Security Blog.",
       "published": "2026-07-17 16:00:00",
       "timestamp": 1784304000
-    },
-    {
-      "id": "26a1fc5aa8d9fc8461ee976d2ff6339fcf5be75e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-      "published": "2026-07-17 14:55:28",
-      "timestamp": 1784300128
-    },
-    {
-      "id": "7b613f42d775ee5b9a72ae1b271bd0358025a2fe",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
-      "published": "2026-07-17 14:00:10",
-      "timestamp": 1784296810
     },
     {
       "id": "dafcda3cd6797db01f465bb9c9b58c7a4fcbcc79",
@@ -720,16 +730,6 @@
       "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
       "published": "2026-07-14 16:52:37",
       "timestamp": 1784047957
-    },
-    {
-      "id": "ef9d2916ff791e451d7fb1bc0336b26de38879a9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
-      "published": "2026-07-14 13:48:07",
-      "timestamp": 1784036887
     },
     {
       "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
