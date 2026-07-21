@@ -1,6 +1,56 @@
 {
-  "generated_at": 1784639293,
+  "generated_at": 1784650275,
   "items": [
+    {
+      "id": "92012d2a607e8f4677c895814798c5ea93460a3f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE",
+      "published": "2026-07-21 14:57:51",
+      "timestamp": 1784645871
+    },
+    {
+      "id": "470e118500f7db5ca907be01a08cdf74e329122d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway",
+      "published": "2026-07-21 14:04:57",
+      "timestamp": 1784642697
+    },
+    {
+      "id": "d813ecdc3bd642dd6a67e8178d425d4607e3f8ae",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+      "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
+      "published": "2026-07-21 14:00:10",
+      "timestamp": 1784642410
+    },
+    {
+      "id": "99e51a9a5379d8d7dff5ab1b77f1504bad3ba289",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled. Also patched",
+      "published": "2026-07-21 13:18:31",
+      "timestamp": 1784639911
+    },
+    {
+      "id": "eeb31b3356ccf0ecf3c068db2603bceb26e09547",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/21/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-27137 DD-WRT Stack-Based Buffer Overflow Vulnerability CVE-2026-0770 Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability CVE-2026-63030 WordPress Core Interpretation Conflict Vulnerability CVE-2026-60137 WordPress Core SQL Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber a",
+      "published": "2026-07-21 12:00:00",
+      "timestamp": 1784635200
+    },
     {
       "id": "38109591b168ad91c40f39af6783724b59892546",
       "source": "The Hacker News",
@@ -262,16 +312,6 @@
       "timestamp": 1784541977
     },
     {
-      "id": "abac52e7b34d08b9ed295cfb2eb808dc62291e5d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-      "published": "2026-07-20 09:29:20",
-      "timestamp": 1784539760
-    },
-    {
       "id": "252bd5ace24bbd071c8a59d4a97de675a6dcc38f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -472,7 +512,7 @@
       "timestamp": 1784270543
     },
     {
-      "id": "a52268b9f5ae9ff30e497e7e138187f90ffe3c83",
+      "id": "dee2054510f5735132f5816c8f8acd93ddb52849",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
@@ -692,36 +732,6 @@
       "timestamp": 1784116201
     },
     {
-      "id": "1497172746c4d017a391c1009e60785abd3746a3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments. \"The PoC requires",
-      "published": "2026-07-15 11:07:07",
-      "timestamp": 1784113627
-    },
-    {
-      "id": "28dc3e96474f1d48dda657c1ff4928f8d82082d5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-      "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, regulator, or attacker finds it first. The Reality of the Approval Gap It's a pattern every",
-      "published": "2026-07-15 11:06:57",
-      "timestamp": 1784113617
-    },
-    {
-      "id": "5581d261967a08479a38d43548ff872e869ae9e6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and your cloud tokens. Cursor keeps re-running it for as long as the project stays open. No prompt",
-      "published": "2026-07-15 10:55:22",
-      "timestamp": 1784112922
-    },
-    {
       "id": "be7c17917410f9cd1525e071cb6163600654e342",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -732,22 +742,22 @@
       "timestamp": 1784056962
     },
     {
-      "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges SharePoint Hardening After New Exploitations",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
-      "summary": "Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its Known Exploited Vulnerabilities (KEV) Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644, enabling cyber threat actors to gain unauthorized access to on-premises SharePoint Server instances. These vulnerabilities affect all supported on-premises SharePoint Server versions (Subscription Edition, 2019, a",
-      "published": "2026-07-14 12:00:00",
-      "timestamp": 1784030400
-    },
-    {
       "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
+      "published": "2026-07-14 12:00:00",
+      "timestamp": 1784030400
+    },
+    {
+      "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges SharePoint Hardening After New Exploitations",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
+      "summary": "Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its Known Exploited Vulnerabilities (KEV) Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644, enabling cyber threat actors to gain unauthorized access to on-premises SharePoint Server instances. These vulnerabilities affect all supported on-premises SharePoint Server versions (Subscription Edition, 2019, a",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
@@ -822,7 +832,7 @@
       "timestamp": 1783609200
     },
     {
-      "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
+      "id": "c0e04f870600107618969396d3bda6c5581b4195",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Protecting Microsoft\u00a0at AI speed:\u00a0How SFI\u00a0proactively hardens\u00a0our cloud",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnera",
       "published": "2026-05-22 12:00:00",
       "timestamp": 1779451200
-    },
-    {
-      "id": "411367f129678497a305e1e536130db42510e9d9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability CVE-2026-34926 Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Know",
-      "published": "2026-05-21 12:00:00",
-      "timestamp": 1779364800
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
