@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784650275,
+  "generated_at": 1784660350,
   "items": [
+    {
+      "id": "49857f7423968343f6e61c1466cd520a3a093ece",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
+      "published": "2026-07-21 18:50:54",
+      "timestamp": 1784659854
+    },
+    {
+      "id": "9adcd6aee7448fa18135064dba3f1eff6912c414",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+      "published": "2026-07-21 16:41:50",
+      "timestamp": 1784652110
+    },
+    {
+      "id": "3cfdf9c7b3d8efeedf4e331de5437437fb2daced",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been",
+      "published": "2026-07-21 16:06:12",
+      "timestamp": 1784649972
+    },
+    {
+      "id": "a1b4a8383e5486d779ea459b4cc637698679a7a1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot",
+      "published": "2026-07-21 15:09:28",
+      "timestamp": 1784646568
+    },
     {
       "id": "92012d2a607e8f4677c895814798c5ea93460a3f",
       "source": "The Hacker News",
@@ -292,26 +332,6 @@
       "timestamp": 1784547000
     },
     {
-      "id": "951cfd801b8ed5dd4abf6257e5445ed0a74fbd13",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft confirms Windows Server Update Services sync delays",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
-      "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
-      "published": "2026-07-20 10:47:28",
-      "timestamp": 1784544448
-    },
-    {
-      "id": "9e1a140bd3666e05a99d61fdbb184500d3c77028",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-      "published": "2026-07-20 10:06:17",
-      "timestamp": 1784541977
-    },
-    {
       "id": "252bd5ace24bbd071c8a59d4a97de675a6dcc38f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -512,7 +532,7 @@
       "timestamp": 1784270543
     },
     {
-      "id": "dee2054510f5735132f5816c8f8acd93ddb52849",
+      "id": "a52268b9f5ae9ff30e497e7e138187f90ffe3c83",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
@@ -702,16 +722,6 @@
       "timestamp": 1784129430
     },
     {
-      "id": "41da3a67fa767f77adae4aa98d7ba29a45697378",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
-      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation component \"We are aware that exploit code for this is public, however we are not aware of",
-      "published": "2026-07-15 13:18:53",
-      "timestamp": 1784121533
-    },
-    {
       "id": "5152f84ff22fe6fdbe8b85852fba2782d6962aab",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -720,16 +730,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-4346 KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability CVE-2026-46817 Oracle E-Business Suite Improper Privilege Management Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bindin",
       "published": "2026-07-15 12:00:00",
       "timestamp": 1784116800
-    },
-    {
-      "id": "82a7f98431f3850ae71d384b991c21f91f2cd2f0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
-      "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
-      "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into",
-      "published": "2026-07-15 11:50:01",
-      "timestamp": 1784116201
     },
     {
       "id": "be7c17917410f9cd1525e071cb6163600654e342",
@@ -832,7 +832,7 @@
       "timestamp": 1783609200
     },
     {
-      "id": "c0e04f870600107618969396d3bda6c5581b4195",
+      "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Protecting Microsoft\u00a0at AI speed:\u00a0How SFI\u00a0proactively hardens\u00a0our cloud",
