@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784620904,
+  "generated_at": 1784631230,
   "items": [
+    {
+      "id": "954fc8f041c7b2a4af36b9f176d322bdc6ad8752",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
+      "published": "2026-07-21 10:12:24",
+      "timestamp": 1784628744
+    },
+    {
+      "id": "aa7c73b531c5852b41dd6b4ebc00c4448b539417",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
+      "published": "2026-07-21 09:05:50",
+      "timestamp": 1784624750
+    },
+    {
+      "id": "9164b882207651ba61b0d0bb14bd9a703259b238",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell. \"By the early hours of Saturday morning (UTC), successful exploitation was already well",
+      "published": "2026-07-21 08:59:30",
+      "timestamp": 1784624370
+    },
+    {
+      "id": "92cdabcb00be86cb92e8f2ec56a9fc4628c643d2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "published": "2026-07-21 08:06:26",
+      "timestamp": 1784621186
+    },
     {
       "id": "05acd8608ef871f0ea990e709a80e98a38a73bf6",
       "source": "The Hacker News",
@@ -270,36 +310,6 @@
       "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
       "published": "2026-07-19 13:18:56",
       "timestamp": 1784467136
-    },
-    {
-      "id": "b20debbeba3b470957c2fa5cb321646b82592b41",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
-      "published": "2026-07-18 19:32:02",
-      "timestamp": 1784403122
-    },
-    {
-      "id": "6dd607126f98de40e5e94cc12130520fc9068390",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
-      "published": "2026-07-18 17:22:47",
-      "timestamp": 1784395367
-    },
-    {
-      "id": "42c9b0b23be533d8433e163835747dc014fbe43b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-      "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
-      "published": "2026-07-18 14:17:19",
-      "timestamp": 1784384239
     },
     {
       "id": "64cd579f60416575b5023facaba9069b23450670",
@@ -720,16 +730,6 @@
       "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
       "published": "2026-07-14 19:22:42",
       "timestamp": 1784056962
-    },
-    {
-      "id": "53a20246030a2ff557d52bcec98c4389b98285ec",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-      "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
-      "published": "2026-07-14 18:17:57",
-      "timestamp": 1784053077
     },
     {
       "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
