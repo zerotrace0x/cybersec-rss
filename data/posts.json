@@ -1,6 +1,26 @@
 {
-  "generated_at": 1784612284,
+  "generated_at": 1784620904,
   "items": [
+    {
+      "id": "05acd8608ef871f0ea990e709a80e98a38a73bf6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem. The entry",
+      "published": "2026-07-21 07:34:32",
+      "timestamp": 1784619272
+    },
+    {
+      "id": "069e72a0e158ec5e8a4ac87a241f5705a10f14e3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code. Patches for the flaw were",
+      "published": "2026-07-21 06:29:26",
+      "timestamp": 1784615366
+    },
     {
       "id": "0468b3f6edd8197763620bdd693fa1a80afb7668",
       "source": "BleepingComputer",
@@ -710,26 +730,6 @@
       "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
       "published": "2026-07-14 18:17:57",
       "timestamp": 1784053077
-    },
-    {
-      "id": "8233eaf4133ab6a4a1cff74bfcb3e6dab069ea69",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the",
-      "published": "2026-07-14 17:27:23",
-      "timestamp": 1784050043
-    },
-    {
-      "id": "3cd685fc85d289ca2f642b6c30347c682d32ebf4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
-      "published": "2026-07-14 16:52:37",
-      "timestamp": 1784047957
     },
     {
       "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
