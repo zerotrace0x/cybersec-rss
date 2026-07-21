@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784631230,
+  "generated_at": 1784639293,
   "items": [
+    {
+      "id": "38109591b168ad91c40f39af6783724b59892546",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six other attacks, against five open-source mobile agent frameworks: AppAgent, AppAgentX,",
+      "published": "2026-07-21 11:58:00",
+      "timestamp": 1784635080
+    },
+    {
+      "id": "265c68c775d70a2d4c993e6712a2a083c323756f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always been a race: the vendor patches, the clock starts, and defenders try to deploy",
+      "published": "2026-07-21 11:42:23",
+      "timestamp": 1784634143
+    },
+    {
+      "id": "485998f82d7a5c2bd95e5eb7e86944e486fd8b21",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
+      "published": "2026-07-21 11:24:50",
+      "timestamp": 1784633090
+    },
+    {
+      "id": "c3ea56c31f1400b7458d9ab1807f74ab54a60778",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
+      "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
+      "published": "2026-07-21 11:07:07",
+      "timestamp": 1784632027
+    },
     {
       "id": "954fc8f041c7b2a4af36b9f176d322bdc6ad8752",
       "source": "BleepingComputer",
@@ -282,16 +322,6 @@
       "timestamp": 1784493769
     },
     {
-      "id": "b2e3cadb81d806e247ad736e372e890a3efcc8f7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
-      "published": "2026-07-19 14:23:46",
-      "timestamp": 1784471026
-    },
-    {
       "id": "2ba883c902f3c607d051e4dae9bfd6659f0b9405",
       "source": "The Hacker News",
       "source_category": "General",
@@ -442,7 +472,7 @@
       "timestamp": 1784270543
     },
     {
-      "id": "dee2054510f5735132f5816c8f8acd93ddb52849",
+      "id": "a52268b9f5ae9ff30e497e7e138187f90ffe3c83",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
@@ -692,36 +722,6 @@
       "timestamp": 1784112922
     },
     {
-      "id": "392e73b90ebe907a0275e809f20bc8b913bf9ea9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0.7.1 @asyncapi/generator@3.3.1 @asyncapi/specs(v6.11.2, v6.11.2-alpha.1) \"The",
-      "published": "2026-07-15 09:16:13",
-      "timestamp": 1784106973
-    },
-    {
-      "id": "1ae8fcf4b8292658f5a1af29d9f575918b65e676",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-      "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed below - CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to",
-      "published": "2026-07-15 05:30:21",
-      "timestamp": 1784093421
-    },
-    {
-      "id": "0bcee9a22426d75363ee43bc6ec136242aa395dd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200. Those two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
-      "published": "2026-07-14 20:25:47",
-      "timestamp": 1784060747
-    },
-    {
       "id": "be7c17917410f9cd1525e071cb6163600654e342",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -822,7 +822,7 @@
       "timestamp": 1783609200
     },
     {
-      "id": "c0e04f870600107618969396d3bda6c5581b4195",
+      "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Protecting Microsoft\u00a0at AI speed:\u00a0How SFI\u00a0proactively hardens\u00a0our cloud",
