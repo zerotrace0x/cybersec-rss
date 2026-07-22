@@ -1,6 +1,56 @@
 {
-  "generated_at": 1784726041,
+  "generated_at": 1784736650,
   "items": [
+    {
+      "id": "40fc62cdfd60eccc3a31c97aadf49ddf1eb114e9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How enterprise GenAI can amplify ransomware risk \u2014 and how to contain it",
+      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
+      "published": "2026-07-22 15:30:00",
+      "timestamp": 1784734200
+    },
+    {
+      "id": "2cce1c31e4768da6d28126196cbafcd83a0887e0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+      "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
+      "published": "2026-07-22 14:15:00",
+      "timestamp": 1784729700
+    },
+    {
+      "id": "40cb971eb4d1719a16170101f2cd0aad4e0c3523",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
+      "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
+      "published": "2026-07-22 13:22:20",
+      "timestamp": 1784726540
+    },
+    {
+      "id": "ec00acbb00ac8202d7ded78c37975758a9b40c18",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's \"get_log_file\" endpoint (\"/api/w/{workspace}/jobs_u/get_log_file/{filename}\"). \"The filename parameter is concatenated into",
+      "published": "2026-07-22 12:36:36",
+      "timestamp": 1784723796
+    },
+    {
+      "id": "f2941a5e2405d94860877f3de34f4e2241b79aa8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned. According to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55",
+      "published": "2026-07-22 11:58:00",
+      "timestamp": 1784721480
+    },
     {
       "id": "961d3be4063cb27716f268d9655c070a207cc33e",
       "source": "BleepingComputer",
@@ -10,6 +60,16 @@
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
       "published": "2026-07-22 11:43:28",
       "timestamp": 1784720608
+    },
+    {
+      "id": "7f97cedcc0d288eb599c3b1c7f26d08b5038a080",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+      "published": "2026-07-22 11:30:02",
+      "timestamp": 1784719802
     },
     {
       "id": "13dc37889928360ac0c6d7895c21451aa0efea0a",
@@ -90,16 +150,6 @@
       "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
       "published": "2026-07-22 04:57:52",
       "timestamp": 1784696272
-    },
-    {
-      "id": "7f97cedcc0d288eb599c3b1c7f26d08b5038a080",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
-      "published": "2026-07-22 04:18:33",
-      "timestamp": 1784693913
     },
     {
       "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
@@ -282,26 +332,6 @@
       "timestamp": 1784632027
     },
     {
-      "id": "954fc8f041c7b2a4af36b9f176d322bdc6ad8752",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-      "published": "2026-07-21 10:12:24",
-      "timestamp": 1784628744
-    },
-    {
-      "id": "aa7c73b531c5852b41dd6b4ebc00c4448b539417",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
-      "published": "2026-07-21 09:05:50",
-      "timestamp": 1784624750
-    },
-    {
       "id": "9164b882207651ba61b0d0bb14bd9a703259b238",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +340,6 @@
       "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell. \"By the early hours of Saturday morning (UTC), successful exploitation was already well",
       "published": "2026-07-21 08:59:30",
       "timestamp": 1784624370
-    },
-    {
-      "id": "92cdabcb00be86cb92e8f2ec56a9fc4628c643d2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "published": "2026-07-21 08:06:26",
-      "timestamp": 1784621186
     },
     {
       "id": "05acd8608ef871f0ea990e709a80e98a38a73bf6",
@@ -692,26 +712,6 @@
       "timestamp": 1784203080
     },
     {
-      "id": "dc66d6328e616ce4cd440ddf92bd6c235432f279",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the agent's task. Each one just corrupts the facts it trusts and lets it carry on with the job you",
-      "published": "2026-07-16 11:32:28",
-      "timestamp": 1784201548
-    },
-    {
-      "id": "9ea0e6f99cf0a3ff46b6b8183ea525b0c72f2467",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Broadcom-owned Symantec in March 2022, with evidence indicating its use in targeted attacks aimed",
-      "published": "2026-07-16 11:17:23",
-      "timestamp": 1784200643
-    },
-    {
       "id": "fcdcb2c68cb5b37c8cc5c1506fcdc0bc008f71c5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -832,7 +832,7 @@
       "timestamp": 1783684800
     },
     {
-      "id": "1161cb19ad9772f0b1987a1c543bb3d95434743d",
+      "id": "b0a830c96f01ba3726bc706f7d846aeea7d9be9d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
@@ -842,7 +842,7 @@
       "timestamp": 1783609200
     },
     {
-      "id": "5cf31334d7ec341c1f10557b4f883558d89c8007",
+      "id": "c0e04f870600107618969396d3bda6c5581b4195",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Protecting Microsoft\u00a0at AI speed:\u00a0How SFI\u00a0proactively hardens\u00a0our cloud",
