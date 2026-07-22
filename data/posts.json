@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784698618,
+  "generated_at": 1784707348,
   "items": [
+    {
+      "id": "39aeb91606a0ace6ec2715c88012bfae3fbf222c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "published": "2026-07-22 06:40:29",
+      "timestamp": 1784702429
+    },
+    {
+      "id": "97c4944d603ec65dea76b5fc23ccf869dcbac1fb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it. In a joint announcement on Monday, the Frankfurt public prosecutor's cybercrime unit (ZIT) and Germany's Federal Criminal Police Office (BKA)",
+      "published": "2026-07-22 06:38:45",
+      "timestamp": 1784702325
+    },
+    {
+      "id": "ba45ce1d68a50a7603f51d9cd360de09d7deee84",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the",
+      "published": "2026-07-22 06:00:06",
+      "timestamp": 1784700006
+    },
     {
       "id": "151c2e08b182929096f8e1a2374647d8a74cda1e",
       "source": "BleepingComputer",
@@ -10,6 +40,26 @@
       "summary": "OpenAI says its AI models, including GPT\u20115.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
       "published": "2026-07-22 05:19:20",
       "timestamp": 1784697560
+    },
+    {
+      "id": "cd365a0892cc390ca6b7d1b6c1bc85f54f21560c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
+      "published": "2026-07-22 04:57:52",
+      "timestamp": 1784696272
+    },
+    {
+      "id": "7f97cedcc0d288eb599c3b1c7f26d08b5038a080",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+      "published": "2026-07-22 04:18:33",
+      "timestamp": 1784693913
     },
     {
       "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
@@ -280,16 +330,6 @@
       "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
       "published": "2026-07-20 22:22:56",
       "timestamp": 1784586176
-    },
-    {
-      "id": "73bba964db42544cc2b99c1342a6181ef8121cca",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
-      "published": "2026-07-20 21:14:42",
-      "timestamp": 1784582082
     },
     {
       "id": "47aa300d75a165d44cbd3218021e2e3cfc0816d0",
@@ -672,36 +712,6 @@
       "timestamp": 1784196600
     },
     {
-      "id": "0c066b84ac155f38e016a7199e2cf5da29dba844",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext. A researcher publishing under the handle tokay0 put the method online on Monday, having tested it only against vacuums he",
-      "published": "2026-07-16 09:23:19",
-      "timestamp": 1784193799
-    },
-    {
-      "id": "9199d7c6176b7a17f7f89c17cf276a6fc0094328",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT\u2011Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"We use GPT\u2011Red to adversarially train",
-      "published": "2026-07-16 08:42:31",
-      "timestamp": 1784191351
-    },
-    {
-      "id": "e59744db48169e6c07043db63ba382563841685b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Workplace for Windows before version 7.0.0 and Zoom Workplace VDI Client for Windows before version 7.0.10, 6.6.15, and 6.5.18 in their respective branches. \"Improper Input",
-      "published": "2026-07-16 07:22:44",
-      "timestamp": 1784186564
-    },
-    {
       "id": "fcdcb2c68cb5b37c8cc5c1506fcdc0bc008f71c5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -710,16 +720,6 @@
       "summary": "Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses. The post Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery appeared first on Microsoft Security Blog.",
       "published": "2026-07-16 01:36:21",
       "timestamp": 1784165781
-    },
-    {
-      "id": "95920ff3eb672e277ddec2e40f02db60450d08f2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results. \"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed",
-      "published": "2026-07-15 18:43:08",
-      "timestamp": 1784140988
     },
     {
       "id": "fc883f32391210872a4a665a5fd1f8bf01087a87",
