@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784736650,
+  "generated_at": 1784746316,
   "items": [
+    {
+      "id": "71e5beb57e64cdd1bdceb0cf0202739cbc6595fc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as",
+      "published": "2026-07-22 18:07:16",
+      "timestamp": 1784743636
+    },
+    {
+      "id": "b3046a5a7f805c2fd50f906f277617f6b7c6fb16",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+      "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
+      "published": "2026-07-22 16:59:17",
+      "timestamp": 1784739557
+    },
+    {
+      "id": "d4130f13306f588517cb277dcf0410c1dbaddf9b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
+      "summary": "Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions. The post Real world incident response: Microsoft and AXA XL strengthen cyber resilience appeared first on Microsoft Security Blog.",
+      "published": "2026-07-22 16:00:00",
+      "timestamp": 1784736000
+    },
     {
       "id": "40fc62cdfd60eccc3a31c97aadf49ddf1eb114e9",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
       "published": "2026-07-22 15:30:00",
       "timestamp": 1784734200
+    },
+    {
+      "id": "359ebed277a16b5eac54a19d75d9df8ddb65b04e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data. The shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability",
+      "published": "2026-07-22 15:01:21",
+      "timestamp": 1784732481
     },
     {
       "id": "2cce1c31e4768da6d28126196cbafcd83a0887e0",
@@ -320,16 +360,6 @@
       "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
       "published": "2026-07-21 11:24:50",
       "timestamp": 1784633090
-    },
-    {
-      "id": "c3ea56c31f1400b7458d9ab1807f74ab54a60778",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-      "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
-      "published": "2026-07-21 11:07:07",
-      "timestamp": 1784632027
     },
     {
       "id": "9164b882207651ba61b0d0bb14bd9a703259b238",
@@ -682,16 +712,6 @@
       "timestamp": 1784206213
     },
     {
-      "id": "087044090128de1814da218b725fd913f56ed0d4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when the victim cancels, installs two LaunchAgents and quietly exits. At the next login, Finder, the Dock, Spotlight, Terminal, Activity Monitor, and",
-      "published": "2026-07-16 12:33:42",
-      "timestamp": 1784205222
-    },
-    {
       "id": "3c80d184160329020c0cd99fbd7909fe1697da11",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -700,16 +720,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25089 Fortinet FortiSandbox OS Command Injection Vulnerability CVE-2026-39808 Fortinet FortiSandbox OS Command Injection Vulnerability CVE-2026-58644 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterpr",
       "published": "2026-07-16 12:00:00",
       "timestamp": 1784203200
-    },
-    {
-      "id": "07defe959094d71efd20e22a9844ac34ef13f5a4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
-      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solutions. The investigation revealed previously undocumented backdoor behavior, hidden infrastructure relationships, and multiple attack arms behind a campaign",
-      "published": "2026-07-16 11:58:00",
-      "timestamp": 1784203080
     },
     {
       "id": "fcdcb2c68cb5b37c8cc5c1506fcdc0bc008f71c5",
@@ -832,7 +842,7 @@
       "timestamp": 1783684800
     },
     {
-      "id": "b0a830c96f01ba3726bc706f7d846aeea7d9be9d",
+      "id": "1161cb19ad9772f0b1987a1c543bb3d95434743d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
@@ -840,16 +850,6 @@
       "summary": "GigaWiper, also tracked as BLUERABBIT, is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats. The post GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware appeared first on Microsoft Security Blog.",
       "published": "2026-07-09 15:00:00",
       "timestamp": 1783609200
-    },
-    {
-      "id": "c0e04f870600107618969396d3bda6c5581b4195",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Protecting Microsoft\u00a0at AI speed:\u00a0How SFI\u00a0proactively hardens\u00a0our cloud",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
-      "summary": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed. The post Protecting Microsoft at AI speed: How SFI proactively hardens our cloud appeared first on Microsoft Security Blog.",
-      "published": "2026-07-08 17:00:00",
-      "timestamp": 1783530000
     },
     {
       "id": "82151c81932b41fe071859043a31120ff05df405",
