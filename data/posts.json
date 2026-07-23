@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784793900,
+  "generated_at": 1784804095,
   "items": [
+    {
+      "id": "3e305f7eefcbe5e8ddfe8f70cc65f6d00fa03d4a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
+      "published": "2026-07-23 10:00:00",
+      "timestamp": 1784800800
+    },
+    {
+      "id": "079e15c6ea5fd785f7b739291934948510869de5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
+      "published": "2026-07-23 09:20:10",
+      "timestamp": 1784798410
+    },
+    {
+      "id": "73d47bc1ffecadc364ccae675234b84cc71a67cf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "summary": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
+      "published": "2026-07-23 08:13:07",
+      "timestamp": 1784794387
+    },
+    {
+      "id": "a0822097627d6f870544ad3ccab4a51d96d075a1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation. The company demonstrated the race",
+      "published": "2026-07-23 08:04:35",
+      "timestamp": 1784793875
+    },
     {
       "id": "d8e0d07abc002dec83ccb0b79d85ac2f4960274c",
       "source": "The Hacker News",
@@ -260,36 +300,6 @@
       "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
       "published": "2026-07-21 23:07:33",
       "timestamp": 1784675253
-    },
-    {
-      "id": "b1f13d1c41efcaf377d589cfdf3bd3c07ceb1267",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
-      "published": "2026-07-21 22:34:17",
-      "timestamp": 1784673257
-    },
-    {
-      "id": "ffe71e00b0fce5bd608f527a99f2a9198a60ca7e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
-      "published": "2026-07-21 20:06:55",
-      "timestamp": 1784664415
-    },
-    {
-      "id": "49857f7423968343f6e61c1466cd520a3a093ece",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
-      "published": "2026-07-21 18:50:54",
-      "timestamp": 1784659854
     },
     {
       "id": "c82b8bc856ff079feece80de69d212970e48f04c",
@@ -710,16 +720,6 @@
       "summary": "As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure. The post Least privilege for AI agents: Identity, access, and tool binding appeared first on Microsoft Security Blog.",
       "published": "2026-07-16 16:00:00",
       "timestamp": 1784217600
-    },
-    {
-      "id": "54fb91986636da632050691e4ab882daf0cd48d7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "summary": "A lot of this week\u2019s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here\u2019s the mess.",
-      "published": "2026-07-16 15:41:15",
-      "timestamp": 1784216475
     },
     {
       "id": "3c80d184160329020c0cd99fbd7909fe1697da11",
