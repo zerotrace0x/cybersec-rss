@@ -1,15 +1,55 @@
 {
-  "generated_at": 1784823392,
+  "generated_at": 1784832869,
   "items": [
+    {
+      "id": "2d364349c8b4cae6b52368e369505bc1c99cdb3b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it. The NSA, CISA and partner agencies published",
+      "published": "2026-07-23 18:36:08",
+      "timestamp": 1784831768
+    },
+    {
+      "id": "18d55c281180a13df61a4b5b1a2b4d7bcfc6b690",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
+      "published": "2026-07-23 16:49:27",
+      "timestamp": 1784825367
+    },
+    {
+      "id": "687f17b2cf49b13b4aba7c1958f9db5427f927b9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+      "published": "2026-07-23 16:32:35",
+      "timestamp": 1784824355
+    },
     {
       "id": "b07575c85b52554ab461456f2b3e7741f0bcb7bf",
       "source": "BleepingComputer",
       "source_category": "General",
       "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "summary": "Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]",
+      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
       "published": "2026-07-23 15:34:43",
       "timestamp": 1784820883
+    },
+    {
+      "id": "57909bf5ddabe73541ecbf4005e736a1921819b7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week. Subscribe, and we\u2019ll alert you when each new ThreatsDay Bulletin is out. The danger was",
+      "published": "2026-07-23 15:02:07",
+      "timestamp": 1784818927
     },
     {
       "id": "caf3f85407053c2e3a90814b309541460150a73f",
@@ -292,16 +332,6 @@
       "timestamp": 1784721480
     },
     {
-      "id": "961d3be4063cb27716f268d9655c070a207cc33e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-      "published": "2026-07-22 11:43:28",
-      "timestamp": 1784720608
-    },
-    {
       "id": "7f97cedcc0d288eb599c3b1c7f26d08b5038a080",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,16 +350,6 @@
       "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Global Threat Report estimates around 79% of attacks are malware-free, as threat actors rely on",
       "published": "2026-07-22 11:25:35",
       "timestamp": 1784719535
-    },
-    {
-      "id": "81dacc68ca9819fa98fc20a402266fb212bc418d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Stop renting storage space \u2014 this lifetime 2TB plan is yours for $59",
-      "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-      "summary": "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump's Lifetime Plan skips that model entirely, offering 2TB of cloud storage for a single payment of $59 (MSRP $467). [...]",
-      "published": "2026-07-22 11:09:16",
-      "timestamp": 1784718556
     },
     {
       "id": "97c4944d603ec65dea76b5fc23ccf869dcbac1fb",
@@ -690,26 +710,6 @@
       "summary": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception. The post Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks appeared first on Microsoft Security Blog.",
       "published": "2026-07-17 16:00:00",
       "timestamp": 1784304000
-    },
-    {
-      "id": "dafcda3cd6797db01f465bb9c9b58c7a4fcbcc79",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OtterCookie: a browser credential and crypto wallet stealer, a file stealer, a",
-      "published": "2026-07-17 13:48:56",
-      "timestamp": 1784296136
-    },
-    {
-      "id": "7e326b7226a94dc25cd2f8215e4235b6886ded9c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing. Google has to ship it in the next major release, Android 18, and by 1 August 2027 at",
-      "published": "2026-07-17 11:44:41",
-      "timestamp": 1784288681
     },
     {
       "id": "dee2054510f5735132f5816c8f8acd93ddb52849",
