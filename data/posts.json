@@ -1,6 +1,16 @@
 {
-  "generated_at": 1784785297,
+  "generated_at": 1784793900,
   "items": [
+    {
+      "id": "d8e0d07abc002dec83ccb0b79d85ac2f4960274c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an",
+      "published": "2026-07-23 06:34:36",
+      "timestamp": 1784788476
+    },
     {
       "id": "acea6012da5e82f97c81576b747fe7686f3451f1",
       "source": "BleepingComputer",
@@ -710,16 +720,6 @@
       "summary": "A lot of this week\u2019s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here\u2019s the mess.",
       "published": "2026-07-16 15:41:15",
       "timestamp": 1784216475
-    },
-    {
-      "id": "56290a53802ee5aa9bc7d9b400f11889fc326c3d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss. A valid token from issuer A carrying a sub that belongs to someone under issuer B logged you in as them. Their password never",
-      "published": "2026-07-16 13:33:25",
-      "timestamp": 1784208805
     },
     {
       "id": "3c80d184160329020c0cd99fbd7909fe1697da11",
