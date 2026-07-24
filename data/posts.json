@@ -1,6 +1,56 @@
 {
-  "generated_at": 1784890288,
+  "generated_at": 1784898631,
   "items": [
+    {
+      "id": "bdf1a90edf7e65d7097eae265927c0843445346f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
+      "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
+      "published": "2026-07-24 12:56:53",
+      "timestamp": 1784897813
+    },
+    {
+      "id": "4aea8501f9eead95c41d6c53e6b01f4aa6f6ea4b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,",
+      "published": "2026-07-24 11:53:55",
+      "timestamp": 1784894035
+    },
+    {
+      "id": "0afbb3bda1770d35c73552ff743a60b55ab0e00a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and",
+      "published": "2026-07-24 11:45:17",
+      "timestamp": 1784893517
+    },
+    {
+      "id": "1e5dd10f51e73a7976c8086fd3a7d4038b3e6144",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of",
+      "published": "2026-07-24 11:30:00",
+      "timestamp": 1784892600
+    },
+    {
+      "id": "7add3f4ae0260f5c6d42a29ef84fb2bdc65af4f4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+      "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
+      "published": "2026-07-24 11:17:19",
+      "timestamp": 1784891839
+    },
     {
       "id": "d3c8910f7da7504059d0b9d7a95ccb562b0847ac",
       "source": "The Hacker News",
@@ -290,26 +340,6 @@
       "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an",
       "published": "2026-07-23 06:34:36",
       "timestamp": 1784788476
-    },
-    {
-      "id": "acea6012da5e82f97c81576b747fe7686f3451f1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
-      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
-      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
-      "published": "2026-07-22 21:43:39",
-      "timestamp": 1784756619
-    },
-    {
-      "id": "2eb97bb66e7c89000928213c01e95fbe90c4eaac",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
-      "published": "2026-07-22 20:06:54",
-      "timestamp": 1784750814
     },
     {
       "id": "6087c37ef3bff6bb799a071641bc8407274a2632",
@@ -670,36 +700,6 @@
       "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo (versions 1.1.3, 1.1.4) -",
       "published": "2026-07-20 05:15:39",
       "timestamp": 1784524539
-    },
-    {
-      "id": "c9bd159b01a51b265001fdb251855d170fdf0c1d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade. Triggering it can crash or restart the worker, causing a denial of",
-      "published": "2026-07-19 20:42:49",
-      "timestamp": 1784493769
-    },
-    {
-      "id": "2ba883c902f3c607d051e4dae9bfd6659f0b9405",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's",
-      "published": "2026-07-19 13:30:55",
-      "timestamp": 1784467855
-    },
-    {
-      "id": "bebf1ec82965ef4964ab44ae60f8fa1ea6128e63",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
-      "published": "2026-07-19 13:18:56",
-      "timestamp": 1784467136
     },
     {
       "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
