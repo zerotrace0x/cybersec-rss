@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784880105,
+  "generated_at": 1784890288,
   "items": [
+    {
+      "id": "d3c8910f7da7504059d0b9d7a95ccb562b0847ac",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's network on its own, checking hosts for ways to gain root access, hunting through file systems, and",
+      "published": "2026-07-24 10:15:29",
+      "timestamp": 1784888129
+    },
+    {
+      "id": "80041bef16c5974481484e90e608a740bc1f6cf1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential",
+      "published": "2026-07-24 10:09:24",
+      "timestamp": 1784887764
+    },
+    {
+      "id": "e6ab620afd0b8b8b157fd123918a93ec0c7267d4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2. The simplest one takes a settings change. A",
+      "published": "2026-07-24 07:41:06",
+      "timestamp": 1784878866
+    },
     {
       "id": "e7ad9aca7e6c3703a0d10aca6a96b575810afc75",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
       "published": "2026-07-24 07:36:39",
       "timestamp": 1784878599
+    },
+    {
+      "id": "66ec07a5e729c82e707f7137fce88a03721fae7e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution. Redis 6.2.23, 7.2.15, and 7.4.10",
+      "published": "2026-07-24 06:58:27",
+      "timestamp": 1784876307
     },
     {
       "id": "82744a490d35fcd123a27bd6000cea4277dd4c5e",
@@ -660,46 +700,6 @@
       "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
       "published": "2026-07-19 13:18:56",
       "timestamp": 1784467136
-    },
-    {
-      "id": "64cd579f60416575b5023facaba9069b23450670",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until",
-      "published": "2026-07-17 21:20:10",
-      "timestamp": 1784323210
-    },
-    {
-      "id": "a208e33b6a4724b3e10b3ab3eb8fa32fc2d7094d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
-      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the",
-      "published": "2026-07-17 20:20:53",
-      "timestamp": 1784319653
-    },
-    {
-      "id": "fd15245bce4b79d971a29e8adff354fd37a992f0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
-      "published": "2026-07-17 18:54:51",
-      "timestamp": 1784314491
-    },
-    {
-      "id": "211f1a75230fa5e105be7157503ec8ef1bc66bd2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
-      "published": "2026-07-17 17:12:23",
-      "timestamp": 1784308343
     },
     {
       "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
