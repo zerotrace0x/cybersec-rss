@@ -1,6 +1,66 @@
 {
-  "generated_at": 1784898631,
+  "generated_at": 1784920008,
   "items": [
+    {
+      "id": "3880fa77ba5b7781c0850c4abc3a583a0dc6a79c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+      "published": "2026-07-24 17:50:37",
+      "timestamp": 1784915437
+    },
+    {
+      "id": "2a82b8f5abd507da07262a1e65c74a0a294ee6e4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
+      "published": "2026-07-24 15:41:44",
+      "timestamp": 1784907704
+    },
+    {
+      "id": "f963a0939e9c4520b636f4302c0f6a7abb0ebe84",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet",
+      "published": "2026-07-24 15:12:35",
+      "timestamp": 1784905955
+    },
+    {
+      "id": "b94f05aa0508ae23b30f78eaa3738715b9aa1189",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
+      "published": "2026-07-24 14:15:21",
+      "timestamp": 1784902521
+    },
+    {
+      "id": "b0194b7d42b519094eec4c1ad8585f3352578107",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chick-fil-A data breach affects more than 13,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
+      "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
+      "published": "2026-07-24 14:04:29",
+      "timestamp": 1784901869
+    },
+    {
+      "id": "49c9f5b2aaa2f790eab2e30f4a4f26f22fb864f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
+      "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malicious code enters the pipeline. [...]",
+      "published": "2026-07-24 14:01:11",
+      "timestamp": 1784901671
+    },
     {
       "id": "bdf1a90edf7e65d7097eae265927c0843445346f",
       "source": "BleepingComputer",
@@ -262,16 +322,6 @@
       "timestamp": 1784807100
     },
     {
-      "id": "012bc5bfa8ab0a0d18e91baa96bfb4b6ebbf4ffd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
-      "published": "2026-07-23 11:40:16",
-      "timestamp": 1784806816
-    },
-    {
       "id": "e24f9c3606c450b8958ebb5beee23313452cedae",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,36 +340,6 @@
       "summary": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video. The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log in to an account, including an email address or a phone number. The idea is to use a video selfie as a way to regain access if a user ever gets locked out or doesn't have access",
       "published": "2026-07-23 10:00:00",
       "timestamp": 1784800800
-    },
-    {
-      "id": "3e305f7eefcbe5e8ddfe8f70cc65f6d00fa03d4a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
-      "published": "2026-07-23 10:00:00",
-      "timestamp": 1784800800
-    },
-    {
-      "id": "079e15c6ea5fd785f7b739291934948510869de5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
-      "summary": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
-      "published": "2026-07-23 09:20:10",
-      "timestamp": 1784798410
-    },
-    {
-      "id": "73d47bc1ffecadc364ccae675234b84cc71a67cf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "summary": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
-      "published": "2026-07-23 08:13:07",
-      "timestamp": 1784794387
     },
     {
       "id": "a0822097627d6f870544ad3ccab4a51d96d075a1",
@@ -680,26 +700,6 @@
       "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
       "published": "2026-07-20 09:07:11",
       "timestamp": 1784538431
-    },
-    {
-      "id": "71e1c93655b034f2520f0e59f95a2b0c0c9745e5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
-      "published": "2026-07-20 05:27:26",
-      "timestamp": 1784525246
-    },
-    {
-      "id": "073bb520414da4d0e4192efd0eaaed229df1a6ce",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo (versions 1.1.3, 1.1.4) -",
-      "published": "2026-07-20 05:15:39",
-      "timestamp": 1784524539
     },
     {
       "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
