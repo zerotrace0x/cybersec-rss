@@ -1,6 +1,36 @@
 {
-  "generated_at": 1784983990,
+  "generated_at": 1784994785,
   "items": [
+    {
+      "id": "c481c3d80e5068316aa88938da6d9deefda37ade",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+      "published": "2026-07-25 15:21:09",
+      "timestamp": 1784992869
+    },
+    {
+      "id": "44da2ad9a04b83859e27b6b06304a548874bfff3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "published": "2026-07-25 14:16:26",
+      "timestamp": 1784988986
+    },
+    {
+      "id": "dc821097a5628ed0567fd0ddd940e8febc300307",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
+      "published": "2026-07-25 12:52:43",
+      "timestamp": 1784983963
+    },
     {
       "id": "65ee7caecbae54d6593309366a9cffa6acd7cd9e",
       "source": "The Hacker News",
@@ -280,26 +310,6 @@
       "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it. The NSA, CISA and partner agencies published",
       "published": "2026-07-23 18:36:08",
       "timestamp": 1784831768
-    },
-    {
-      "id": "18d55c281180a13df61a4b5b1a2b4d7bcfc6b690",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
-      "published": "2026-07-23 16:49:27",
-      "timestamp": 1784825367
-    },
-    {
-      "id": "687f17b2cf49b13b4aba7c1958f9db5427f927b9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "published": "2026-07-23 16:32:35",
-      "timestamp": 1784824355
     },
     {
       "id": "57909bf5ddabe73541ecbf4005e736a1921819b7",
@@ -690,16 +700,6 @@
       "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks",
       "published": "2026-07-20 14:33:43",
       "timestamp": 1784558023
-    },
-    {
-      "id": "f03acdacddc8949e8863ca467bff385febd93af5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch. Here is the full",
-      "published": "2026-07-20 13:32:26",
-      "timestamp": 1784554346
     },
     {
       "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
