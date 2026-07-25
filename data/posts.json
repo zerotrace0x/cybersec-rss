@@ -1,6 +1,46 @@
 {
-  "generated_at": 1784974696,
+  "generated_at": 1784983990,
   "items": [
+    {
+      "id": "65ee7caecbae54d6593309366a9cffa6acd7cd9e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap",
+      "published": "2026-07-25 10:14:26",
+      "timestamp": 1784974466
+    },
+    {
+      "id": "793d3086d8f537a2b6f2a1e74443f1c63f6d4b3e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
+      "published": "2026-07-25 10:14:21",
+      "timestamp": 1784974461
+    },
+    {
+      "id": "c40225475d6cfe44faa8c0d7f9bf724b8455af2a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
+      "published": "2026-07-25 10:14:03",
+      "timestamp": 1784974443
+    },
+    {
+      "id": "a380186ca63b43740a55eb278d1e11ad0c19b715",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis. \"The portal combined build generation, finance,",
+      "published": "2026-07-25 09:53:41",
+      "timestamp": 1784973221
+    },
     {
       "id": "ce3f607226cde757b59385f80006b9e9a737accd",
       "source": "BleepingComputer",
@@ -10,16 +50,6 @@
       "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
       "published": "2026-07-25 09:31:09",
       "timestamp": 1784971869
-    },
-    {
-      "id": "65ee7caecbae54d6593309366a9cffa6acd7cd9e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction",
-      "published": "2026-07-25 08:34:15",
-      "timestamp": 1784968455
     },
     {
       "id": "cd22a802b316159190abb108d7cde6712ff7d59d",
@@ -670,36 +700,6 @@
       "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch. Here is the full",
       "published": "2026-07-20 13:32:26",
       "timestamp": 1784554346
-    },
-    {
-      "id": "b446fd6e1071f5f721f22c7289ee7078e011e3bd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops. That is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence",
-      "published": "2026-07-20 12:13:39",
-      "timestamp": 1784549619
-    },
-    {
-      "id": "19b049f0a43dbdd632e2b3f89410fb11e68c4ab0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
-      "published": "2026-07-20 11:30:00",
-      "timestamp": 1784547000
-    },
-    {
-      "id": "252bd5ace24bbd071c8a59d4a97de675a6dcc38f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. The overflow lets an attacker \"execute code in the context of the current process,\" per the",
-      "published": "2026-07-20 09:10:56",
-      "timestamp": 1784538656
     },
     {
       "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
