@@ -1,6 +1,26 @@
 {
-  "generated_at": 1784965634,
+  "generated_at": 1784974696,
   "items": [
+    {
+      "id": "ce3f607226cde757b59385f80006b9e9a737accd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI confirms ChatGPT is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+      "published": "2026-07-25 09:31:09",
+      "timestamp": 1784971869
+    },
+    {
+      "id": "65ee7caecbae54d6593309366a9cffa6acd7cd9e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction",
+      "published": "2026-07-25 08:34:15",
+      "timestamp": 1784968455
+    },
     {
       "id": "cd22a802b316159190abb108d7cde6712ff7d59d",
       "source": "BleepingComputer",
@@ -250,16 +270,6 @@
       "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
       "published": "2026-07-23 16:32:35",
       "timestamp": 1784824355
-    },
-    {
-      "id": "b07575c85b52554ab461456f2b3e7741f0bcb7bf",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
-      "published": "2026-07-23 15:34:43",
-      "timestamp": 1784820883
     },
     {
       "id": "57909bf5ddabe73541ecbf4005e736a1921819b7",
@@ -690,16 +700,6 @@
       "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. The overflow lets an attacker \"execute code in the context of the current process,\" per the",
       "published": "2026-07-20 09:10:56",
       "timestamp": 1784538656
-    },
-    {
-      "id": "135502f0c8b6f9c9c5fb308c44e1ff18c57b91c3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
-      "published": "2026-07-20 09:07:11",
-      "timestamp": 1784538431
     },
     {
       "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
