@@ -1,6 +1,76 @@
 {
-  "generated_at": 1785154010,
+  "generated_at": 1785171066,
   "items": [
+    {
+      "id": "52740e7404e706c0194036b6032c491b7acf827f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
+      "published": "2026-07-27 15:39:51",
+      "timestamp": 1785166791
+    },
+    {
+      "id": "fe84458db387e0b9fb36307a0774cf3a89182540",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
+      "published": "2026-07-27 15:12:27",
+      "timestamp": 1785165147
+    },
+    {
+      "id": "82f329f8fff5c6945c73ee5b0a40877d44948287",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version",
+      "published": "2026-07-27 14:40:00",
+      "timestamp": 1785163200
+    },
+    {
+      "id": "d9f5a5afa888d6acce52c06f9f41d2108c246047",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That is the mood. Here is the full recap. \u26a1 Threat of the Week OpenAI Says Its AI Agent Went Rogue",
+      "published": "2026-07-27 14:10:54",
+      "timestamp": 1785161454
+    },
+    {
+      "id": "d517794222e689e8f6ddca2c2068e9b1d725e7f2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+      "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
+      "published": "2026-07-27 14:01:11",
+      "timestamp": 1785160871
+    },
+    {
+      "id": "4fe529267b2103a9a054ad75f6b2fb59bc641a84",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected ranges are <2.31.5 and >=2.32.0,<2.32.1. n8n fixed the flaw in versions 2.31.5 and",
+      "published": "2026-07-27 13:05:15",
+      "timestamp": 1785157515
+    },
+    {
+      "id": "a31a6e6be1c4f59247e1b612b42fdf367c5200e3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+      "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming that Microsoft Teams had to be updated before the shared document could be opened,\" ZeroBEC said in",
+      "published": "2026-07-27 12:37:49",
+      "timestamp": 1785155869
+    },
     {
       "id": "6ed75353de47d109c8c7956a7192a9f5db1eb452",
       "source": "The Hacker News",
@@ -262,16 +332,6 @@
       "timestamp": 1784892600
     },
     {
-      "id": "7add3f4ae0260f5c6d42a29ef84fb2bdc65af4f4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
-      "published": "2026-07-24 11:17:19",
-      "timestamp": 1784891839
-    },
-    {
       "id": "d3c8910f7da7504059d0b9d7a95ccb562b0847ac",
       "source": "The Hacker News",
       "source_category": "General",
@@ -302,16 +362,6 @@
       "timestamp": 1784878866
     },
     {
-      "id": "e7ad9aca7e6c3703a0d10aca6a96b575810afc75",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
-      "published": "2026-07-24 07:36:39",
-      "timestamp": 1784878599
-    },
-    {
       "id": "66ec07a5e729c82e707f7137fce88a03721fae7e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -330,16 +380,6 @@
       "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to",
       "published": "2026-07-24 06:50:57",
       "timestamp": 1784875857
-    },
-    {
-      "id": "2940d492ed7c81820df8cee8d12f782282239d81",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Dolphin X malware uses AI to rank high-value targets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-      "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
-      "published": "2026-07-23 21:20:34",
-      "timestamp": 1784841634
     },
     {
       "id": "2d364349c8b4cae6b52368e369505bc1c99cdb3b",
@@ -660,46 +700,6 @@
       "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six other attacks, against five open-source mobile agent frameworks: AppAgent, AppAgentX,",
       "published": "2026-07-21 11:58:00",
       "timestamp": 1784635080
-    },
-    {
-      "id": "265c68c775d70a2d4c993e6712a2a083c323756f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always been a race: the vendor patches, the clock starts, and defenders try to deploy",
-      "published": "2026-07-21 11:42:23",
-      "timestamp": 1784634143
-    },
-    {
-      "id": "485998f82d7a5c2bd95e5eb7e86944e486fd8b21",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
-      "published": "2026-07-21 11:24:50",
-      "timestamp": 1784633090
-    },
-    {
-      "id": "9164b882207651ba61b0d0bb14bd9a703259b238",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell. \"By the early hours of Saturday morning (UTC), successful exploitation was already well",
-      "published": "2026-07-21 08:59:30",
-      "timestamp": 1784624370
-    },
-    {
-      "id": "05acd8608ef871f0ea990e709a80e98a38a73bf6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem. The entry",
-      "published": "2026-07-21 07:34:32",
-      "timestamp": 1784619272
     },
     {
       "id": "1fc39cd553e63cc7a8ecf138cd08cecd2a36c030",
