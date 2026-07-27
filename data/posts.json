@@ -1,6 +1,36 @@
 {
-  "generated_at": 1785179114,
+  "generated_at": 1785189255,
   "items": [
+    {
+      "id": "60dcb6dcf027e8cc6f0a6bc7481380d76da4a124",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+      "published": "2026-07-27 21:08:15",
+      "timestamp": 1785186495
+    },
+    {
+      "id": "10e867e98f87aedc374d8ebcf6340c6ddcfdea34",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+      "published": "2026-07-27 21:00:25",
+      "timestamp": 1785186025
+    },
+    {
+      "id": "1a750d6a08af436984e39a182b5887dd257d787c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux",
+      "published": "2026-07-27 18:10:05",
+      "timestamp": 1785175805
+    },
     {
       "id": "330e36c602b8d1f312d75fa5c7f8f570c5592e30",
       "source": "BleepingComputer",
@@ -27,7 +57,7 @@
       "source_category": "Blue Team",
       "title": "Rethinking security for the age of AI",
       "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
-      "summary": "Why security needs a new Cyber Stack \u2014 Introducing Project Perception The physics of cybersecurity are changing. Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what must be secured continues to grow. The post Rethinking security for the age of AI appeared first on Microsoft Security Blog.",
+      "summary": "The physics of cybersecurity are changing. Introducing security's new cyber stack: Project Perception. The post Rethinking security for the age of AI appeared first on Microsoft Security Blog.",
       "published": "2026-07-27 16:40:00",
       "timestamp": 1785170400
     },
@@ -110,6 +140,16 @@
       "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming that Microsoft Teams had to be updated before the shared document could be opened,\" ZeroBEC said in",
       "published": "2026-07-27 12:37:49",
       "timestamp": 1785155869
+    },
+    {
+      "id": "61e0464971337f85523820158fb0c51f53ee2490",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68686 Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability CVE-2026-16812 Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (",
+      "published": "2026-07-27 12:00:00",
+      "timestamp": 1785153600
     },
     {
       "id": "6ed75353de47d109c8c7956a7192a9f5db1eb452",
@@ -310,26 +350,6 @@
       "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
       "published": "2026-07-24 14:15:21",
       "timestamp": 1784902521
-    },
-    {
-      "id": "b0194b7d42b519094eec4c1ad8585f3352578107",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-      "published": "2026-07-24 14:04:29",
-      "timestamp": 1784901869
-    },
-    {
-      "id": "49c9f5b2aaa2f790eab2e30f4a4f26f22fb864f0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malicious code enters the pipeline. [...]",
-      "published": "2026-07-24 14:01:11",
-      "timestamp": 1784901671
     },
     {
       "id": "4aea8501f9eead95c41d6c53e6b01f4aa6f6ea4b",
@@ -702,16 +722,6 @@
       "timestamp": 1784642697
     },
     {
-      "id": "99e51a9a5379d8d7dff5ab1b77f1504bad3ba289",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled. Also patched",
-      "published": "2026-07-21 13:18:31",
-      "timestamp": 1784639911
-    },
-    {
       "id": "eeb31b3356ccf0ecf3c068db2603bceb26e09547",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -962,22 +972,22 @@
       "timestamp": 1781804278
     },
     {
-      "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
-      "summary": "Update June 22, 2026:CISA has updated this Alert to incorporate the link to Fortinet\u2019s recent guidance on this activity. CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private netwo",
-      "published": "2026-06-18 12:00:00",
-      "timestamp": 1781784000
-    },
-    {
       "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
+      "published": "2026-06-18 12:00:00",
+      "timestamp": 1781784000
+    },
+    {
+      "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
+      "summary": "Update June 22, 2026:CISA has updated this Alert to incorporate the link to Fortinet\u2019s recent guidance on this activity. CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private netwo",
       "published": "2026-06-18 12:00:00",
       "timestamp": 1781784000
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8398 Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321 TanStack Unspecified Vulnerability CVE-2026-48027 Nx Console Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-",
       "published": "2026-05-27 12:00:00",
       "timestamp": 1779883200
-    },
-    {
-      "id": "7840ff7a7b83a71cc2c8d5e1d3851fcc83ae5033",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of ",
-      "published": "2026-05-26 12:00:00",
-      "timestamp": 1779796800
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
