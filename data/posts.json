@@ -1,11 +1,41 @@
 {
-  "generated_at": 1785226121,
+  "generated_at": 1785236778,
   "items": [
+    {
+      "id": "ef514b70e04b3a74c07c280c6b76ce2f03efab7a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
+      "published": "2026-07-28 09:10:03",
+      "timestamp": 1785229803
+    },
+    {
+      "id": "d310e82b14e9d2642c8ebe10b9b840ffbde39dfe",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions. It has been addressed in versions 2025.11.7 and 2026.1.3. TeamCity Cloud instances have already",
+      "published": "2026-07-28 08:11:22",
+      "timestamp": 1785226282
+    },
+    {
+      "id": "48ceec76a2868d14dae7f9306883f82434a99cac",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificial intelligence (AI) helped him find the bug and speed up exploit development. This is local",
+      "published": "2026-07-28 08:04:44",
+      "timestamp": 1785225884
+    },
     {
       "id": "85a39726ae6c05be593c8677bf28fd2b1efccc14",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
       "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
       "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current best MDASH combination of GPT-5.4, GPT-5.4 mini, and GPT-5.3 Codex. Access is limited to approved",
       "published": "2026-07-28 06:07:22",
@@ -340,16 +370,6 @@
       "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
       "published": "2026-07-24 19:55:01",
       "timestamp": 1784922901
-    },
-    {
-      "id": "27ea67dee96469f26f2dfdfdd04f76c4aaed7d97",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
-      "published": "2026-07-24 19:09:09",
-      "timestamp": 1784920149
     },
     {
       "id": "f963a0939e9c4520b636f4302c0f6a7abb0ebe84",
@@ -700,26 +720,6 @@
       "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts. Hide My Email",
       "published": "2026-07-21 18:46:32",
       "timestamp": 1784659592
-    },
-    {
-      "id": "3cfdf9c7b3d8efeedf4e331de5437437fb2daced",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue and says it is",
-      "published": "2026-07-21 16:06:12",
-      "timestamp": 1784649972
-    },
-    {
-      "id": "a1b4a8383e5486d779ea459b4cc637698679a7a1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot",
-      "published": "2026-07-21 15:09:28",
-      "timestamp": 1784646568
     },
     {
       "id": "eeb31b3356ccf0ecf3c068db2603bceb26e09547",
