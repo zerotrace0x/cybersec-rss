@@ -1,6 +1,26 @@
 {
-  "generated_at": 1785255962,
+  "generated_at": 1785265248,
   "items": [
+    {
+      "id": "0f5eb39e1638d32615945bf197d616f4550374d7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "published": "2026-07-28 18:41:04",
+      "timestamp": 1785264064
+    },
+    {
+      "id": "cffa37f6a38f8a3fbe1d5b8afece279aeddb4c51",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "published": "2026-07-28 18:08:50",
+      "timestamp": 1785262130
+    },
     {
       "id": "ac3292c8f683c281e16c6bbdc0fff3d0b5984e98",
       "source": "The Hacker News",
@@ -350,26 +370,6 @@
       "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
       "published": "2026-07-25 18:48:44",
       "timestamp": 1785005324
-    },
-    {
-      "id": "c481c3d80e5068316aa88938da6d9deefda37ade",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "published": "2026-07-25 15:21:09",
-      "timestamp": 1784992869
-    },
-    {
-      "id": "44da2ad9a04b83859e27b6b06304a548874bfff3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "published": "2026-07-25 14:16:26",
-      "timestamp": 1784988986
     },
     {
       "id": "dc821097a5628ed0567fd0ddd940e8febc300307",
@@ -752,7 +752,7 @@
       "timestamp": 1784243522
     },
     {
-      "id": "d0c2c0eab750d9353237c5644c96fe352cd3958c",
+      "id": "a20b4bfd0ed5384b7ccd5048d44219395f5f8d3e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Least privilege for AI agents: Identity, access, and tool binding",
@@ -772,7 +772,7 @@
       "timestamp": 1784203200
     },
     {
-      "id": "fcdcb2c68cb5b37c8cc5c1506fcdc0bc008f71c5",
+      "id": "22f3322f6a1d997b696d48e259a2c033de7d10d8",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
@@ -782,7 +782,7 @@
       "timestamp": 1784165781
     },
     {
-      "id": "17840724cc870c7147577f9d63afbd9b0582b3ec",
+      "id": "fc883f32391210872a4a665a5fd1f8bf01087a87",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Turning threat intelligence into decisive action with Defender Experts",
@@ -827,7 +827,7 @@
       "source_category": "Blue Team",
       "title": "CISA Urges SharePoint Hardening After New Exploitations",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
-      "summary": "Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its Known Exploited Vulnerabilities (KEV) Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644, enabling cyber threat actors to gain unauthorized access to on-premises SharePoint Server instances. These vulnerabilities affect all supported on-premises SharePoint Server versions (Subscription Edition, 2019, a",
+      "summary": "Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the Known Exploited Vulnerabilities (KEV) Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644, and CVE-2026-50522 enabling cyber threat actors to gain unauthorized access to on-premi",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
