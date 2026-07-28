@@ -1,6 +1,56 @@
 {
-  "generated_at": 1785245014,
+  "generated_at": 1785255962,
   "items": [
+    {
+      "id": "ac3292c8f683c281e16c6bbdc0fff3d0b5984e98",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force. Tengu supports 25 distributed denial-of-service (",
+      "published": "2026-07-28 15:01:33",
+      "timestamp": 1785250893
+    },
+    {
+      "id": "390a726041e5d86a71f1ce238e492de59f219a32",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
+      "published": "2026-07-28 14:41:36",
+      "timestamp": 1785249696
+    },
+    {
+      "id": "92f3f1cdc4047e406ee19661d8146217cbfa764a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+      "published": "2026-07-28 14:00:10",
+      "timestamp": 1785247210
+    },
+    {
+      "id": "5e262b54bd7906d53e42026ae3d4cae17582e540",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
+      "published": "2026-07-28 13:33:47",
+      "timestamp": 1785245627
+    },
+    {
+      "id": "784ef7e3b94cac474af4b6d1e7ff36c71bbaa96d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the DHCPv6 server overwrite a stack buffer in odhcpd through a crafted DHCPv6",
+      "published": "2026-07-28 12:56:14",
+      "timestamp": 1785243374
+    },
     {
       "id": "d0d2b303daef8d6d69bd8e057588d22d40542121",
       "source": "BleepingComputer",
@@ -372,16 +422,6 @@
       "timestamp": 1784973221
     },
     {
-      "id": "ce3f607226cde757b59385f80006b9e9a737accd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-      "published": "2026-07-25 09:31:09",
-      "timestamp": 1784971869
-    },
-    {
       "id": "f963a0939e9c4520b636f4302c0f6a7abb0ebe84",
       "source": "The Hacker News",
       "source_category": "General",
@@ -670,46 +710,6 @@
       "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
       "published": "2026-07-22 11:30:02",
       "timestamp": 1784719802
-    },
-    {
-      "id": "13dc37889928360ac0c6d7895c21451aa0efea0a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Global Threat Report estimates around 79% of attacks are malware-free, as threat actors rely on",
-      "published": "2026-07-22 11:25:35",
-      "timestamp": 1784719535
-    },
-    {
-      "id": "97c4944d603ec65dea76b5fc23ccf869dcbac1fb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it. In a joint announcement on Monday, the Frankfurt public prosecutor's cybercrime unit (ZIT) and Germany's Federal Criminal Police Office (BKA)",
-      "published": "2026-07-22 06:38:45",
-      "timestamp": 1784702325
-    },
-    {
-      "id": "ba45ce1d68a50a7603f51d9cd360de09d7deee84",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the",
-      "published": "2026-07-22 06:00:06",
-      "timestamp": 1784700006
-    },
-    {
-      "id": "cd365a0892cc390ca6b7d1b6c1bc85f54f21560c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
-      "published": "2026-07-22 04:57:52",
-      "timestamp": 1784696272
     },
     {
       "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
