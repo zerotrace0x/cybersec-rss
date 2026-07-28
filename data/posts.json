@@ -1,6 +1,36 @@
 {
-  "generated_at": 1785265248,
+  "generated_at": 1785275550,
   "items": [
+    {
+      "id": "741b54020de0e5fa130377d11af99308442d22be",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "published": "2026-07-28 21:17:39",
+      "timestamp": 1785273459
+    },
+    {
+      "id": "a857431ff785766517b542139c767db68b900cbb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "published": "2026-07-28 20:37:06",
+      "timestamp": 1785271026
+    },
+    {
+      "id": "4251a2fc0a6fb034921fc103fa0cfbbf3013c510",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
+      "published": "2026-07-28 18:59:07",
+      "timestamp": 1785265147
+    },
     {
       "id": "0f5eb39e1638d32615945bf197d616f4550374d7",
       "source": "BleepingComputer",
@@ -342,26 +372,6 @@
       "timestamp": 1785139283
     },
     {
-      "id": "8e51ab9979a019997f55997852ccc6723e01b280",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "published": "2026-07-26 14:13:39",
-      "timestamp": 1785075219
-    },
-    {
-      "id": "ed0381e0dbbd555585a5b83dec8e08050d1e861d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "published": "2026-07-25 22:37:47",
-      "timestamp": 1785019067
-    },
-    {
       "id": "08abf4d6d2530a698918a1fc677df6e32f2cbdde",
       "source": "The Hacker News",
       "source_category": "General",
@@ -700,16 +710,6 @@
       "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned. According to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55",
       "published": "2026-07-22 11:58:00",
       "timestamp": 1784721480
-    },
-    {
-      "id": "7f97cedcc0d288eb599c3b1c7f26d08b5038a080",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
-      "published": "2026-07-22 11:30:02",
-      "timestamp": 1784719802
     },
     {
       "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
