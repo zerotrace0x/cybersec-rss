@@ -1,6 +1,26 @@
 {
-  "generated_at": 1785350826,
+  "generated_at": 1785361393,
   "items": [
+    {
+      "id": "a7dcafb601114f4a0a7c4efe4e22cd884c0f7128",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. [...]",
+      "published": "2026-07-29 21:39:29",
+      "timestamp": 1785361169
+    },
+    {
+      "id": "d370f2a632fe5c638856202f8215777a3db3da38",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+      "published": "2026-07-29 21:35:40",
+      "timestamp": 1785360940
+    },
     {
       "id": "094a2c7752ae4f6d80d1a7e0f241bb9c4ab846d8",
       "source": "The Hacker News",
@@ -120,6 +140,16 @@
       "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change? The honest answer is",
       "published": "2026-07-29 12:15:00",
       "timestamp": 1785327300
+    },
+    {
+      "id": "12e2f00c314d8e06fb1cc142c242fa62a499147d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20316 Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requiremen",
+      "published": "2026-07-29 12:00:00",
+      "timestamp": 1785326400
     },
     {
       "id": "23c802bc87b85ea081bca6de0c80ae27051c4531",
@@ -380,26 +410,6 @@
       "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrary code execution. \"VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue",
       "published": "2026-07-28 04:43:53",
       "timestamp": 1785213833
-    },
-    {
-      "id": "8313119557e64eebb50d2853060068910e3a5c1b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-      "published": "2026-07-27 23:49:44",
-      "timestamp": 1785196184
-    },
-    {
-      "id": "200c19f395547402a34a11c967433148c596e57f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-      "published": "2026-07-27 22:49:44",
-      "timestamp": 1785192584
     },
     {
       "id": "1a750d6a08af436984e39a182b5887dd257d787c",
@@ -822,22 +832,22 @@
       "timestamp": 1784056962
     },
     {
-      "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
-      "published": "2026-07-14 12:00:00",
-      "timestamp": 1784030400
-    },
-    {
       "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges SharePoint Hardening After New Exploitations",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
       "summary": "Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the Known Exploited Vulnerabilities (KEV) Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644, and CVE-2026-50522 enabling cyber threat actors to gain unauthorized access to on-premi",
+      "published": "2026-07-14 12:00:00",
+      "timestamp": 1784030400
+    },
+    {
+      "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
@@ -972,22 +982,22 @@
       "timestamp": 1781804278
     },
     {
-      "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
-      "published": "2026-06-18 12:00:00",
-      "timestamp": 1781784000
-    },
-    {
       "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
       "summary": "Update June 22, 2026:CISA has updated this Alert to incorporate the link to Fortinet\u2019s recent guidance on this activity. CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private netwo",
+      "published": "2026-06-18 12:00:00",
+      "timestamp": 1781784000
+    },
+    {
+      "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
       "published": "2026-06-18 12:00:00",
       "timestamp": 1781784000
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub compromise via a malicious Nx Console Visual Studio Code (VS Code) extension and the \u201cMegalodon\u201d supply chain intrusion campaign, demonstrate how cyber threat actors are abusing tools and processes that support enterprise, cloud, and DevOps environments\u2014specific",
       "published": "2026-05-28 12:00:00",
       "timestamp": 1779969600
-    },
-    {
-      "id": "ec93ce8b5fe538c4b6b912623b21fbdacfd5de8f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8398 Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321 TanStack Unspecified Vulnerability CVE-2026-48027 Nx Console Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-",
-      "published": "2026-05-27 12:00:00",
-      "timestamp": 1779883200
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
