@@ -1,6 +1,26 @@
 {
-  "generated_at": 1785341581,
+  "generated_at": 1785350826,
   "items": [
+    {
+      "id": "094a2c7752ae4f6d80d1a7e0f241bb9c4ab846d8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
+      "published": "2026-07-29 18:10:00",
+      "timestamp": 1785348600
+    },
+    {
+      "id": "5850365ad54df8c64fb0db7532055cd83ecb2e71",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+      "published": "2026-07-29 17:54:05",
+      "timestamp": 1785347645
+    },
     {
       "id": "6aff242480e11e64e8a4b3bdf72991b211261306",
       "source": "BleepingComputer",
@@ -10,6 +30,16 @@
       "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
       "published": "2026-07-29 16:04:59",
       "timestamp": 1785341099
+    },
+    {
+      "id": "fbc2f5eb4d7c1d571da81c53fdea11779313a9ea",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bBetter security starts with better questions",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
+      "summary": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems. The post \u200b\u200bBetter security starts with better questions appeared first on Microsoft Security Blog.",
+      "published": "2026-07-29 16:00:00",
+      "timestamp": 1785340800
     },
     {
       "id": "8936eb812aee110507ae314e04c2773798f80f58",
@@ -35,7 +65,7 @@
       "id": "50485dd6f6c8cb2aa8373a15053e5855cce7516c",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
       "published": "2026-07-29 14:55:57",
@@ -372,16 +402,6 @@
       "timestamp": 1785192584
     },
     {
-      "id": "60dcb6dcf027e8cc6f0a6bc7481380d76da4a124",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
-      "published": "2026-07-27 21:08:15",
-      "timestamp": 1785186495
-    },
-    {
       "id": "1a750d6a08af436984e39a182b5887dd257d787c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -672,16 +692,6 @@
       "timestamp": 1784831768
     },
     {
-      "id": "57909bf5ddabe73541ecbf4005e736a1921819b7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week. Subscribe, and we\u2019ll alert you when each new ThreatsDay Bulletin is out. The danger was",
-      "published": "2026-07-23 15:02:07",
-      "timestamp": 1784818927
-    },
-    {
       "id": "caf3f85407053c2e3a90814b309541460150a73f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -830,16 +840,6 @@
       "summary": "Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the Known Exploited Vulnerabilities (KEV) Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644, and CVE-2026-50522 enabling cyber threat actors to gain unauthorized access to on-premi",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
-    },
-    {
-      "id": "0224ee3517ed1e39a68dab8b24db9523b39829bd",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Defending SaaS-based applications against ShinyHunters OAuth abuse",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/13/defending-saas-based-applications-against-shinyhunters-oauth-abuse/",
-      "summary": "Microsoft Threat Intelligence identified threat actor activity with overlapping tradecraft commonly associated with ShinyHunters, including voice phishing (vishing), supply-chain compromise, and misconfigured guest access targeting SaaS-based applications. The post Defending SaaS-based applications against ShinyHunters OAuth abuse appeared first on Microsoft Security Blog.",
-      "published": "2026-07-13 22:02:41",
-      "timestamp": 1783980161
     },
     {
       "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
