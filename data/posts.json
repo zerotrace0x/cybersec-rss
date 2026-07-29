@@ -1,6 +1,46 @@
 {
-  "generated_at": 1785312776,
+  "generated_at": 1785323475,
   "items": [
+    {
+      "id": "f793e85805a7e550fe7425c411ee381865cf0880",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
+      "published": "2026-07-29 11:00:00",
+      "timestamp": 1785322800
+    },
+    {
+      "id": "566f24c218a920e81f4e0956492d2f1afae86b42",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
+      "published": "2026-07-29 08:58:27",
+      "timestamp": 1785315507
+    },
+    {
+      "id": "51e643923a6ca3e2480b6ac7840ca69a750c8144",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
+      "published": "2026-07-29 07:51:00",
+      "timestamp": 1785311460
+    },
+    {
+      "id": "0987d5543559c41da69beda982bf02319fb9c832",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+      "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
+      "published": "2026-07-29 07:47:19",
+      "timestamp": 1785311239
+    },
     {
       "id": "84eb0609db358da34d5d9a09566efe945a23febd",
       "source": "The Hacker News",
@@ -10,16 +50,6 @@
       "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"\u516c\u5b89\u4e00\u7f51\u901a\u529e\" Public Security service application targeting Android users in China. The kit supports payment-password",
       "published": "2026-07-29 07:07:23",
       "timestamp": 1785308843
-    },
-    {
-      "id": "51e643923a6ca3e2480b6ac7840ca69a750c8144",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than",
-      "published": "2026-07-29 06:45:02",
-      "timestamp": 1785307502
     },
     {
       "id": "e814a132baa5cca4defddbb030b15363dc228937",
@@ -662,36 +692,6 @@
       "timestamp": 1784793875
     },
     {
-      "id": "d8e0d07abc002dec83ccb0b79d85ac2f4960274c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an",
-      "published": "2026-07-23 06:34:36",
-      "timestamp": 1784788476
-    },
-    {
-      "id": "6087c37ef3bff6bb799a071641bc8407274a2632",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "link": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more. Reports filed before that date, including those already in GitHub's growing triage queue, will retain the previous payout terms. GitHub said the",
-      "published": "2026-07-22 18:37:42",
-      "timestamp": 1784745462
-    },
-    {
-      "id": "71e5beb57e64cdd1bdceb0cf0202739cbc6595fc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as",
-      "published": "2026-07-22 18:07:16",
-      "timestamp": 1784743636
-    },
-    {
       "id": "d4130f13306f588517cb277dcf0410c1dbaddf9b",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -710,16 +710,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-16232 Check Point SmartConsole Improper Authentication Vulnerability CVE-2026-50522 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
       "published": "2026-07-22 12:00:00",
       "timestamp": 1784721600
-    },
-    {
-      "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-      "published": "2026-07-22 01:10:38",
-      "timestamp": 1784682638
     },
     {
       "id": "eeb31b3356ccf0ecf3c068db2603bceb26e09547",
@@ -802,16 +792,6 @@
       "timestamp": 1784116800
     },
     {
-      "id": "be7c17917410f9cd1525e071cb6163600654e342",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "published": "2026-07-14 19:22:42",
-      "timestamp": 1784056962
-    },
-    {
       "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -842,16 +822,6 @@
       "timestamp": 1783980161
     },
     {
-      "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "2026-07-13 15:03:28",
-      "timestamp": 1783955008
-    },
-    {
       "id": "7ddef9b64495a4b4823799c74f0bd00fea4be779",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -872,16 +842,6 @@
       "timestamp": 1783684800
     },
     {
-      "id": "82151c81932b41fe071859043a31120ff05df405",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-      "published": "2026-07-08 12:31:39",
-      "timestamp": 1783513899
-    },
-    {
       "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -900,16 +860,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
       "published": "2026-07-07 12:00:00",
       "timestamp": 1783425600
-    },
-    {
-      "id": "125c29997340ddff1568847bc7d818558b78ca41",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
-      "published": "2026-07-02 19:27:33",
-      "timestamp": 1783020453
     },
     {
       "id": "386fb113afde605081131b3f6f0a77835c8acb72",
@@ -942,16 +892,6 @@
       "timestamp": 1782388800
     },
     {
-      "id": "d53ce4d2ffa2b18736a030858da5f6e8d9a86b1f",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-      "published": "2026-06-23 16:12:49",
-      "timestamp": 1782231169
-    },
-    {
       "id": "97dc524c68fdd6d494c903e22e3c2732df0b50f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -960,16 +900,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-67038 Lantronix EDS5000 Code Injection Vulnerability CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose s",
       "published": "2026-06-23 12:00:00",
       "timestamp": 1782216000
-    },
-    {
-      "id": "e7d976d467cbd7268c040f8d0803adb3c47d7e76",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
-      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-      "published": "2026-06-18 17:37:58",
-      "timestamp": 1781804278
     },
     {
       "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
@@ -1032,26 +962,6 @@
       "timestamp": 1781179200
     },
     {
-      "id": "57e3eb9abecd1eb7dcfecdd45d8bd94451f82d7d",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
-      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "published": "2026-06-10 14:03:44",
-      "timestamp": 1781100224
-    },
-    {
-      "id": "efe019266097422537e51165f210cc5edcb52805",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
-      "published": "2026-06-09 22:07:28",
-      "timestamp": 1781042848
-    },
-    {
       "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1100,16 +1010,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vul",
       "published": "2026-06-02 12:00:00",
       "timestamp": 1780401600
-    },
-    {
-      "id": "8da2b4df80315a8f334fd6b85a4e02a386bbebe3",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
-      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
-      "published": "2026-06-01 17:32:50",
-      "timestamp": 1780335170
     },
     {
       "id": "46b25ae357a174928ff4df9cc0142decff8a03fe",
