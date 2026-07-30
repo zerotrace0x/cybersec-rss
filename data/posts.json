@@ -1,6 +1,16 @@
 {
-  "generated_at": 1785438270,
+  "generated_at": 1785448485,
   "items": [
+    {
+      "id": "8adcce278ac6ad9ef2283e077ccbfda5394ec695",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
+      "published": "2026-07-30 18:18:24",
+      "timestamp": 1785435504
+    },
     {
       "id": "6af6f79b25fd7d23c32a72e6e8df9bba83f19c98",
       "source": "BleepingComputer",
@@ -110,6 +120,16 @@
       "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a",
       "published": "2026-07-30 13:34:09",
       "timestamp": 1785418449
+    },
+    {
+      "id": "e7ece8b85a01a4e589b5d1d65afb841ba786661e",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Water and Wastewater Systems Sector to Protect OT Against Activity Targeting PLCs",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/30/cisa-urges-water-and-wastewater-systems-sector-protect-ot-against-activity-targeting-plcs",
+      "summary": "CISA is currently observing a significant increase in cyber threat actors targeting programmable logic controllers (PLCs) in the Water and Wastewater Systems (WWS) Sector. CISA urges critical infrastructure owners, operators, and integrators to remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible. Threat actors targeting exposed PLCs have modified passwords to lock out operators and disconnected the PLCs by changing their IP addresses. This act",
+      "published": "2026-07-30 12:00:00",
+      "timestamp": 1785412800
     },
     {
       "id": "6cd24dc5c608e31c5172c57d1be211df7d308fcb",
@@ -712,16 +732,6 @@
       "timestamp": 1784973221
     },
     {
-      "id": "f963a0939e9c4520b636f4302c0f6a7abb0ebe84",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet",
-      "published": "2026-07-24 15:12:35",
-      "timestamp": 1784905955
-    },
-    {
       "id": "caf3f85407053c2e3a90814b309541460150a73f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list ",
       "published": "2026-05-29 12:00:00",
       "timestamp": 1780056000
-    },
-    {
-      "id": "ae375005f1b60733f75114c99abeb21394b7da95",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
-      "summary": "CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub compromise via a malicious Nx Console Visual Studio Code (VS Code) extension and the \u201cMegalodon\u201d supply chain intrusion campaign, demonstrate how cyber threat actors are abusing tools and processes that support enterprise, cloud, and DevOps environments\u2014specific",
-      "published": "2026-05-28 12:00:00",
-      "timestamp": 1779969600
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
