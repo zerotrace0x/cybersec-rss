@@ -1,6 +1,56 @@
 {
-  "generated_at": 1785417593,
+  "generated_at": 1785428316,
   "items": [
+    {
+      "id": "0c675614140da6521977e8ef57c8e43bd699a1ea",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+      "published": "2026-07-30 15:56:33",
+      "timestamp": 1785426993
+    },
+    {
+      "id": "2f48a380389288e20cb80f4fc565d027dfac61f3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder. Some defenses improved. The loose parts still got found first. Anyway,",
+      "published": "2026-07-30 15:25:57",
+      "timestamp": 1785425157
+    },
+    {
+      "id": "ffcf59e6e56ec624e545bbeafd93cc8e4dc7ef26",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Analog Devices discloses data breach, says operations unaffected",
+      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+      "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+      "published": "2026-07-30 15:12:25",
+      "timestamp": 1785424345
+    },
+    {
+      "id": "04d1e512a07418a02a11e043d5c09c305bdfcc07",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
+      "published": "2026-07-30 14:01:11",
+      "timestamp": 1785420071
+    },
+    {
+      "id": "809f332d1480b5f3b8e07937f568d6a44f17ad24",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a",
+      "published": "2026-07-30 13:34:09",
+      "timestamp": 1785418449
+    },
     {
       "id": "6cd24dc5c608e31c5172c57d1be211df7d308fcb",
       "source": "The Hacker News",
@@ -372,16 +422,6 @@
       "timestamp": 1785264064
     },
     {
-      "id": "cffa37f6a38f8a3fbe1d5b8afece279aeddb4c51",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-      "published": "2026-07-28 18:08:50",
-      "timestamp": 1785262130
-    },
-    {
       "id": "ac3292c8f683c281e16c6bbdc0fff3d0b5984e98",
       "source": "The Hacker News",
       "source_category": "General",
@@ -402,16 +442,6 @@
       "timestamp": 1785249696
     },
     {
-      "id": "92f3f1cdc4047e406ee19661d8146217cbfa764a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
-      "published": "2026-07-28 14:00:10",
-      "timestamp": 1785247210
-    },
-    {
       "id": "5e262b54bd7906d53e42026ae3d4cae17582e540",
       "source": "The Hacker News",
       "source_category": "General",
@@ -430,16 +460,6 @@
       "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the DHCPv6 server overwrite a stack buffer in odhcpd through a crafted DHCPv6",
       "published": "2026-07-28 12:56:14",
       "timestamp": 1785243374
-    },
-    {
-      "id": "d0d2b303daef8d6d69bd8e057588d22d40542121",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-      "published": "2026-07-28 12:10:23",
-      "timestamp": 1785240623
     },
     {
       "id": "7639a3a45acf5b396a313c3e91273f0bb92e0a75",
@@ -682,26 +702,6 @@
       "timestamp": 1784905955
     },
     {
-      "id": "b94f05aa0508ae23b30f78eaa3738715b9aa1189",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
-      "published": "2026-07-24 14:15:21",
-      "timestamp": 1784902521
-    },
-    {
-      "id": "4aea8501f9eead95c41d6c53e6b01f4aa6f6ea4b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,",
-      "published": "2026-07-24 11:53:55",
-      "timestamp": 1784894035
-    },
-    {
       "id": "caf3f85407053c2e3a90814b309541460150a73f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -802,7 +802,7 @@
       "timestamp": 1784165781
     },
     {
-      "id": "fc883f32391210872a4a665a5fd1f8bf01087a87",
+      "id": "17840724cc870c7147577f9d63afbd9b0582b3ec",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Turning threat intelligence into decisive action with Defender Experts",
