@@ -1,6 +1,26 @@
 {
-  "generated_at": 1785408925,
+  "generated_at": 1785417593,
   "items": [
+    {
+      "id": "6cd24dc5c608e31c5172c57d1be211df7d308fcb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+      "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. H\u00e5kon M\u00e5l\u00f8y disclosed the technique on July 28, 144 days after reporting it to Microsoft. In his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session. M\u00e5l\u00f8y's",
+      "published": "2026-07-30 11:54:49",
+      "timestamp": 1785412489
+    },
+    {
+      "id": "63c00dba7420c9b4d3881657dea804cd7a7900ea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls",
+      "published": "2026-07-30 11:32:46",
+      "timestamp": 1785411166
+    },
     {
       "id": "acb1982e59ff061e47c3ca0cabeced6192034a2a",
       "source": "The Hacker News",
@@ -680,26 +700,6 @@
       "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,",
       "published": "2026-07-24 11:53:55",
       "timestamp": 1784894035
-    },
-    {
-      "id": "0afbb3bda1770d35c73552ff743a60b55ab0e00a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and",
-      "published": "2026-07-24 11:45:17",
-      "timestamp": 1784893517
-    },
-    {
-      "id": "1e5dd10f51e73a7976c8086fd3a7d4038b3e6144",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of",
-      "published": "2026-07-24 11:30:00",
-      "timestamp": 1784892600
     },
     {
       "id": "caf3f85407053c2e3a90814b309541460150a73f",
