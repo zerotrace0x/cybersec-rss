@@ -1,6 +1,46 @@
 {
-  "generated_at": 1785389301,
+  "generated_at": 1785398473,
   "items": [
+    {
+      "id": "9a5f5827937b5ca65087fcd080cc2fb5fdc838c8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors. The activity, which began on July 22, 2026, involves the",
+      "published": "2026-07-30 07:40:48",
+      "timestamp": 1785397248
+    },
+    {
+      "id": "0d4940562c46e31c143ff33dfa906c794e6b87f2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
+      "published": "2026-07-30 07:28:43",
+      "timestamp": 1785396523
+    },
+    {
+      "id": "f65b3df86c9e520efd0c63e4d69a5285a7006811",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
+      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them. The original Aikido and Wiz reports did not attribute the",
+      "published": "2026-07-30 06:05:17",
+      "timestamp": 1785391517
+    },
+    {
+      "id": "2becbcaa70ab30159d00ba715e6aa7f7af783e66",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+      "published": "2026-07-30 05:08:39",
+      "timestamp": 1785388119
+    },
     {
       "id": "0fecbbcc66db613abbccd1baa68bcc84d1100c3e",
       "source": "BleepingComputer",
@@ -660,46 +700,6 @@
       "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential",
       "published": "2026-07-24 10:09:24",
       "timestamp": 1784887764
-    },
-    {
-      "id": "e6ab620afd0b8b8b157fd123918a93ec0c7267d4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-      "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2. The simplest one takes a settings change. A",
-      "published": "2026-07-24 07:41:06",
-      "timestamp": 1784878866
-    },
-    {
-      "id": "66ec07a5e729c82e707f7137fce88a03721fae7e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-      "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution. Redis 6.2.23, 7.2.15, and 7.4.10",
-      "published": "2026-07-24 06:58:27",
-      "timestamp": 1784876307
-    },
-    {
-      "id": "82744a490d35fcd123a27bd6000cea4277dd4c5e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to",
-      "published": "2026-07-24 06:50:57",
-      "timestamp": 1784875857
-    },
-    {
-      "id": "2d364349c8b4cae6b52368e369505bc1c99cdb3b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it. The NSA, CISA and partner agencies published",
-      "published": "2026-07-23 18:36:08",
-      "timestamp": 1784831768
     },
     {
       "id": "caf3f85407053c2e3a90814b309541460150a73f",
