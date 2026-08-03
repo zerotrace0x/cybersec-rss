@@ -1,6 +1,16 @@
 {
-  "generated_at": 1785776548,
+  "generated_at": 1785784375,
   "items": [
+    {
+      "id": "cf65ff0690317db2ec2525c0c066379c510336f5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
+      "published": "2026-08-03 18:43:53",
+      "timestamp": 1785782633
+    },
     {
       "id": "e0ae04c89e15cf5ae3263f65ee345cf12a2b5cb5",
       "source": "BleepingComputer",
@@ -700,16 +710,6 @@
       "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
       "published": "2026-07-28 14:41:36",
       "timestamp": 1785249696
-    },
-    {
-      "id": "5e262b54bd7906d53e42026ae3d4cae17582e540",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
-      "published": "2026-07-28 13:33:47",
-      "timestamp": 1785245627
     },
     {
       "id": "f06ca96e301b6f879d482c79c4d052eba5e63d87",
