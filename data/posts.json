@@ -1,6 +1,66 @@
 {
-  "generated_at": 1785766088,
+  "generated_at": 1785776548,
   "items": [
+    {
+      "id": "e0ae04c89e15cf5ae3263f65ee345cf12a2b5cb5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+      "published": "2026-08-03 17:00:56",
+      "timestamp": 1785776456
+    },
+    {
+      "id": "ea480231ff55174596969871f4af26db30eefaf9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
+      "published": "2026-08-03 16:24:47",
+      "timestamp": 1785774287
+    },
+    {
+      "id": "a172facd436d790d8e8b5bea26cee1857cc7acf8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
+      "published": "2026-08-03 16:15:13",
+      "timestamp": 1785773713
+    },
+    {
+      "id": "7463d26be9d4325af6335762e4f98387b2a75186",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+      "published": "2026-08-03 15:04:39",
+      "timestamp": 1785769479
+    },
+    {
+      "id": "eaf38e0d782f3b198f113864268f7d39646b2330",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
+      "published": "2026-08-03 14:45:55",
+      "timestamp": 1785768355
+    },
+    {
+      "id": "8a21c0c601f3970dfae18496c5db52d2c77fdf75",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
+      "published": "2026-08-03 14:03:11",
+      "timestamp": 1785765791
+    },
     {
       "id": "31063444c91c221c979e40e921d86fd68b545298",
       "source": "The Hacker News",
@@ -17,7 +77,7 @@
       "source_category": "General",
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit. \"",
+      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
       "published": "2026-08-03 10:49:06",
       "timestamp": 1785754146
     },
@@ -172,7 +232,7 @@
       "timestamp": 1785532165
     },
     {
-      "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
+      "id": "434e123f5948af1b83f493f32fdec962feb66f47",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
@@ -312,26 +372,6 @@
       "timestamp": 1785459445
     },
     {
-      "id": "edeaf1a47cc8420c442dfed001808d5cc05acdd8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
-      "published": "2026-07-30 22:28:30",
-      "timestamp": 1785450510
-    },
-    {
-      "id": "ef98b753111bc5b9f534efc8880c277e39dfc251",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-      "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
-      "published": "2026-07-30 22:01:31",
-      "timestamp": 1785448891
-    },
-    {
       "id": "8adcce278ac6ad9ef2283e077ccbfda5394ec695",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,16 +380,6 @@
       "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
       "published": "2026-07-30 18:18:24",
       "timestamp": 1785435504
-    },
-    {
-      "id": "6af6f79b25fd7d23c32a72e6e8df9bba83f19c98",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
-      "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
-      "published": "2026-07-30 18:13:24",
-      "timestamp": 1785435204
     },
     {
       "id": "0312964af0604373173eba1a264beae1a267ab4e",
@@ -680,36 +710,6 @@
       "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
       "published": "2026-07-28 13:33:47",
       "timestamp": 1785245627
-    },
-    {
-      "id": "784ef7e3b94cac474af4b6d1e7ff36c71bbaa96d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the DHCPv6 server overwrite a stack buffer in odhcpd through a crafted DHCPv6",
-      "published": "2026-07-28 12:56:14",
-      "timestamp": 1785243374
-    },
-    {
-      "id": "7639a3a45acf5b396a313c3e91273f0bb92e0a75",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previously undocumented Windows backdoor called NightLedger and two custom WebSocket tunnelers,",
-      "published": "2026-07-28 11:55:20",
-      "timestamp": 1785239720
-    },
-    {
-      "id": "d310e82b14e9d2642c8ebe10b9b840ffbde39dfe",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions. It has been addressed in versions 2025.11.7 and 2026.1.3. TeamCity Cloud instances have already",
-      "published": "2026-07-28 08:11:22",
-      "timestamp": 1785226282
     },
     {
       "id": "f06ca96e301b6f879d482c79c4d052eba5e63d87",
