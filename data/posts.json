@@ -1,6 +1,36 @@
 {
-  "generated_at": 1785736806,
+  "generated_at": 1785750225,
   "items": [
+    {
+      "id": "6f17f9ca5417e373941ba5f061aef873562b2f62",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented. Thermo Fisher tracks the issue as CVE-2026-17583 and rates it",
+      "published": "2026-08-03 08:05:30",
+      "timestamp": 1785744330
+    },
+    {
+      "id": "fc6b9813e115d05dcf6ec1ca5d8ce4cc4d4dfc0e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version. N-central is the remote monitoring and management platform",
+      "published": "2026-08-03 06:41:46",
+      "timestamp": 1785739306
+    },
+    {
+      "id": "df1dfdbe5369e163110b87d68c6f0bdbaf207ff0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
+      "published": "2026-08-03 06:40:31",
+      "timestamp": 1785739231
+    },
     {
       "id": "b4162489a2018be88c54b7d9995c6cd8e3ca2ef6",
       "source": "BleepingComputer",
@@ -682,26 +712,6 @@
       "timestamp": 1785213833
     },
     {
-      "id": "1a750d6a08af436984e39a182b5887dd257d787c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux",
-      "published": "2026-07-27 18:10:05",
-      "timestamp": 1785175805
-    },
-    {
-      "id": "d28b10a94ae86fe351a589fb698587d9a606524c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese",
-      "published": "2026-07-27 17:16:28",
-      "timestamp": 1785172588
-    },
-    {
       "id": "f06ca96e301b6f879d482c79c4d052eba5e63d87",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -720,16 +730,6 @@
       "summary": "Microsoft's External Red Team Alliance (EXTRA) is a global AI security initiative designed to advance AI safety research and red teaming. By partnering with universities, researchers, and regional experts, EXTRA helps identify emerging AI risks, improve security testing, and strengthen the resilience of frontier AI systems. The post Enhancing AI security through global AI red teaming appeared first on Microsoft Security Blog.",
       "published": "2026-07-27 16:25:00",
       "timestamp": 1785169500
-    },
-    {
-      "id": "82f329f8fff5c6945c73ee5b0a40877d44948287",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version",
-      "published": "2026-07-27 14:40:00",
-      "timestamp": 1785163200
     },
     {
       "id": "61e0464971337f85523820158fb0c51f53ee2490",
