@@ -1,6 +1,46 @@
 {
-  "generated_at": 1785850198,
+  "generated_at": 1785861856,
   "items": [
+    {
+      "id": "5ff1be25a512335b4b84a6bc6cd89aa421d93371",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "published": "2026-08-04 15:24:35",
+      "timestamp": 1785857075
+    },
+    {
+      "id": "f068e38e825a1f0ee82d57d155c342513a4f3ff5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
+      "published": "2026-08-04 14:00:10",
+      "timestamp": 1785852010
+    },
+    {
+      "id": "a27f019f521cb11cb5c9739b9614f740aeb20132",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages",
+      "published": "2026-08-04 13:30:23",
+      "timestamp": 1785850223
+    },
+    {
+      "id": "0b38798c3f590739842ebe909fe039d955a1e5c5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect. The campaign has been codenamed SMOKE#SCREEN by Securonix Threat",
+      "published": "2026-08-04 13:11:22",
+      "timestamp": 1785849082
+    },
     {
       "id": "a82bceaa610120b2e4d3e5edec0a46a352495b32",
       "source": "The Hacker News",
@@ -332,17 +372,7 @@
       "timestamp": 1785533888
     },
     {
-      "id": "6b6ba93f371001e0a5cc9b1ed8ab556934fbe008",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Online ad firm Adform\u2019s script compromised to steal cryptocurrency",
-      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-      "published": "2026-07-31 21:09:25",
-      "timestamp": 1785532165
-    },
-    {
-      "id": "434e123f5948af1b83f493f32fdec962feb66f47",
+      "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
@@ -350,16 +380,6 @@
       "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The post CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft appeared first on Microsoft Security Blog.",
       "published": "2026-07-31 21:01:37",
       "timestamp": 1785531697
-    },
-    {
-      "id": "3b08eee3afc2ba42fe647728400229ac68151b6c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-      "published": "2026-07-31 18:52:44",
-      "timestamp": 1785523964
     },
     {
       "id": "7b66b77667996a8d164ebdbeaf489f0ab3356662",
@@ -700,26 +720,6 @@
       "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
       "published": "2026-07-29 08:58:27",
       "timestamp": 1785315507
-    },
-    {
-      "id": "51e643923a6ca3e2480b6ac7840ca69a750c8144",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
-      "published": "2026-07-29 07:51:00",
-      "timestamp": 1785311460
-    },
-    {
-      "id": "0987d5543559c41da69beda982bf02319fb9c832",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-      "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
-      "published": "2026-07-29 07:47:19",
-      "timestamp": 1785311239
     },
     {
       "id": "f06ca96e301b6f879d482c79c4d052eba5e63d87",
