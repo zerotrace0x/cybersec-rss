@@ -1,6 +1,56 @@
 {
-  "generated_at": 1785861856,
+  "generated_at": 1785870852,
   "items": [
+    {
+      "id": "8695066649bebeffd9079684ea904dd5f950baf3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+      "published": "2026-08-04 19:03:09",
+      "timestamp": 1785870189
+    },
+    {
+      "id": "3fb46b2a00c9ec0d93855960fb74630eb1eb9f79",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+      "published": "2026-08-04 18:50:55",
+      "timestamp": 1785869455
+    },
+    {
+      "id": "1d8cfa1b1526a3847a750b8a5f84e6ca7751d592",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
+      "summary": "Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance. The post Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps appeared first on Microsoft Security Blog.",
+      "published": "2026-08-04 18:30:00",
+      "timestamp": 1785868200
+    },
+    {
+      "id": "d65cfbfb9f2e55acc8c0cf20a729d961c7762b1d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
+      "summary": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread. The post 128 Seconds to disruption: Microsoft Defender stops ransomware at QNET appeared first on Microsoft Security Blog.",
+      "published": "2026-08-04 17:54:04",
+      "timestamp": 1785866044
+    },
+    {
+      "id": "8b1601304683c5efa0e3e29aa90834a0444c36a0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts. \"Greatness supports AiTM [adversary-in-the-middle] credential and",
+      "published": "2026-08-04 17:27:39",
+      "timestamp": 1785864459
+    },
     {
       "id": "5ff1be25a512335b4b84a6bc6cd89aa421d93371",
       "source": "BleepingComputer",
@@ -40,6 +90,16 @@
       "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect. The campaign has been codenamed SMOKE#SCREEN by Securonix Threat",
       "published": "2026-08-04 13:11:22",
       "timestamp": 1785849082
+    },
+    {
+      "id": "70bbcc6b347fce08d849e1b38b072db538443b3f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9198 IBM Langflow Code Injection Vulnerability CVE-2026-18556 N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-34486 Apache Tomcat Missing Encryption of Sensitive Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the fed",
+      "published": "2026-08-04 12:00:00",
+      "timestamp": 1785844800
     },
     {
       "id": "a82bceaa610120b2e4d3e5edec0a46a352495b32",
@@ -350,26 +410,6 @@
       "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
       "published": "2026-08-01 06:29:05",
       "timestamp": 1785565745
-    },
-    {
-      "id": "b9ddc8a32d47905debb68fafd55f87be1472a7f1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "published": "2026-07-31 22:16:42",
-      "timestamp": 1785536202
-    },
-    {
-      "id": "9d9fe7b24b3f08636f72ec96139daa5c393e69ad",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "published": "2026-07-31 21:38:08",
-      "timestamp": 1785533888
     },
     {
       "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
@@ -712,16 +752,6 @@
       "timestamp": 1785322800
     },
     {
-      "id": "566f24c218a920e81f4e0956492d2f1afae86b42",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
-      "published": "2026-07-29 08:58:27",
-      "timestamp": 1785315507
-    },
-    {
       "id": "f06ca96e301b6f879d482c79c4d052eba5e63d87",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -762,7 +792,7 @@
       "timestamp": 1784818800
     },
     {
-      "id": "d4130f13306f588517cb277dcf0410c1dbaddf9b",
+      "id": "4d37320ed0220174e37e66e00a74a6731765f03a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
@@ -810,26 +840,6 @@
       "summary": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception. The post Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks appeared first on Microsoft Security Blog.",
       "published": "2026-07-17 16:00:00",
       "timestamp": 1784304000
-    },
-    {
-      "id": "dee2054510f5735132f5816c8f8acd93ddb52849",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/",
-      "summary": "From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments. The post ACR Stealer: Two observed intrusion chains amid increased threat activity appeared first on Microsoft Security Blog.",
-      "published": "2026-07-16 23:12:02",
-      "timestamp": 1784243522
-    },
-    {
-      "id": "a20b4bfd0ed5384b7ccd5048d44219395f5f8d3e",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Least privilege for AI agents: Identity, access, and tool binding",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/",
-      "summary": "As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure. The post Least privilege for AI agents: Identity, access, and tool binding appeared first on Microsoft Security Blog.",
-      "published": "2026-07-16 16:00:00",
-      "timestamp": 1784217600
     },
     {
       "id": "3c80d184160329020c0cd99fbd7909fe1697da11",
@@ -922,22 +932,22 @@
       "timestamp": 1783513899
     },
     {
-      "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
-      "published": "2026-07-07 12:00:00",
-      "timestamp": 1783425600
-    },
-    {
       "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
+      "published": "2026-07-07 12:00:00",
+      "timestamp": 1783425600
+    },
+    {
+      "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
       "published": "2026-07-07 12:00:00",
       "timestamp": 1783425600
     },
@@ -1012,22 +1022,22 @@
       "timestamp": 1781804278
     },
     {
-      "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
-      "summary": "Update June 22, 2026:CISA has updated this Alert to incorporate the link to Fortinet\u2019s recent guidance on this activity. CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private netwo",
-      "published": "2026-06-18 12:00:00",
-      "timestamp": 1781784000
-    },
-    {
       "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
+      "published": "2026-06-18 12:00:00",
+      "timestamp": 1781784000
+    },
+    {
+      "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
+      "summary": "Update June 22, 2026:CISA has updated this Alert to incorporate the link to Fortinet\u2019s recent guidance on this activity. CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private netwo",
       "published": "2026-06-18 12:00:00",
       "timestamp": 1781784000
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vul",
       "published": "2026-06-02 12:00:00",
       "timestamp": 1780401600
-    },
-    {
-      "id": "46b25ae357a174928ff4df9cc0142decff8a03fe",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Com",
-      "published": "2026-06-01 12:00:00",
-      "timestamp": 1780315200
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
