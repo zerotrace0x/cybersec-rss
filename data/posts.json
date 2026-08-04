@@ -1,6 +1,26 @@
 {
-  "generated_at": 1785831099,
+  "generated_at": 1785841927,
   "items": [
+    {
+      "id": "6549b35ef84989476371ea05db1d3e34e923864c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past account boundaries. The database bug is tracked as CVE-2026-58048 (CVSS 4.0 score: 9.4) and affects",
+      "published": "2026-08-04 10:36:27",
+      "timestamp": 1785839787
+    },
+    {
+      "id": "7b84b49aad238f382e6fd0854f56c8e897b875ab",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
+      "published": "2026-08-04 09:03:23",
+      "timestamp": 1785834203
+    },
     {
       "id": "f4910a35e6ecb829d9cfc478acaad4aad07b8f79",
       "source": "The Hacker News",
@@ -302,7 +322,7 @@
       "timestamp": 1785532165
     },
     {
-      "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
+      "id": "434e123f5948af1b83f493f32fdec962feb66f47",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
@@ -410,6 +430,16 @@
       "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
       "published": "2026-07-30 18:18:24",
       "timestamp": 1785435504
+    },
+    {
+      "id": "0312964af0604373173eba1a264beae1a267ab4e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "2026-07-30 16:49:00",
+      "timestamp": 1785430140
     },
     {
       "id": "82173c98556090f62ec54b2712732b13611cdc4b",
@@ -692,26 +722,6 @@
       "timestamp": 1785298857
     },
     {
-      "id": "4251a2fc0a6fb034921fc103fa0cfbbf3013c510",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
-      "published": "2026-07-28 18:59:07",
-      "timestamp": 1785265147
-    },
-    {
-      "id": "ac3292c8f683c281e16c6bbdc0fff3d0b5984e98",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force. Tengu supports 25 distributed denial-of-service (",
-      "published": "2026-07-28 15:01:33",
-      "timestamp": 1785250893
-    },
-    {
       "id": "f06ca96e301b6f879d482c79c4d052eba5e63d87",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -770,6 +780,16 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-16232 Check Point SmartConsole Improper Authentication Vulnerability CVE-2026-50522 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
       "published": "2026-07-22 12:00:00",
       "timestamp": 1784721600
+    },
+    {
+      "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "published": "2026-07-22 01:10:38",
+      "timestamp": 1784682638
     },
     {
       "id": "eeb31b3356ccf0ecf3c068db2603bceb26e09547",
@@ -832,6 +852,16 @@
       "timestamp": 1784116800
     },
     {
+      "id": "be7c17917410f9cd1525e071cb6163600654e342",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14 19:22:42",
+      "timestamp": 1784056962
+    },
+    {
       "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -850,6 +880,16 @@
       "summary": "Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the Known Exploited Vulnerabilities (KEV) Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644, and CVE-2026-50522 enabling cyber threat actors to gain unauthorized access to on-premi",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
+    },
+    {
+      "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13 15:03:28",
+      "timestamp": 1783955008
     },
     {
       "id": "7ddef9b64495a4b4823799c74f0bd00fea4be779",
@@ -872,6 +912,16 @@
       "timestamp": 1783684800
     },
     {
+      "id": "82151c81932b41fe071859043a31120ff05df405",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08 12:31:39",
+      "timestamp": 1783513899
+    },
+    {
       "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -890,6 +940,16 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
       "published": "2026-07-07 12:00:00",
       "timestamp": 1783425600
+    },
+    {
+      "id": "125c29997340ddff1568847bc7d818558b78ca41",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02 19:27:33",
+      "timestamp": 1783020453
     },
     {
       "id": "386fb113afde605081131b3f6f0a77835c8acb72",
@@ -922,6 +982,16 @@
       "timestamp": 1782388800
     },
     {
+      "id": "d53ce4d2ffa2b18736a030858da5f6e8d9a86b1f",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23 16:12:49",
+      "timestamp": 1782231169
+    },
+    {
       "id": "97dc524c68fdd6d494c903e22e3c2732df0b50f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -930,6 +1000,16 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-67038 Lantronix EDS5000 Code Injection Vulnerability CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose s",
       "published": "2026-06-23 12:00:00",
       "timestamp": 1782216000
+    },
+    {
+      "id": "e7d976d467cbd7268c040f8d0803adb3c47d7e76",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
+      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+      "published": "2026-06-18 17:37:58",
+      "timestamp": 1781804278
     },
     {
       "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
@@ -990,6 +1070,26 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
       "published": "2026-06-11 12:00:00",
       "timestamp": 1781179200
+    },
+    {
+      "id": "57e3eb9abecd1eb7dcfecdd45d8bd94451f82d7d",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "2026-06-10 14:03:44",
+      "timestamp": 1781100224
+    },
+    {
+      "id": "efe019266097422537e51165f210cc5edcb52805",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
+      "published": "2026-06-09 22:07:28",
+      "timestamp": 1781042848
     },
     {
       "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
