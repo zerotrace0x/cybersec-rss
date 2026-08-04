@@ -1,6 +1,26 @@
 {
-  "generated_at": 1785841927,
+  "generated_at": 1785850198,
   "items": [
+    {
+      "id": "a82bceaa610120b2e4d3e5edec0a46a352495b32",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as \"script kiddies,\" sat at the other end, running public",
+      "published": "2026-08-04 11:30:00",
+      "timestamp": 1785843000
+    },
+    {
+      "id": "a80b1bfd6e1464c792cabe736f7e37ddf391b6fd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied",
+      "published": "2026-08-04 11:16:23",
+      "timestamp": 1785842183
+    },
     {
       "id": "6549b35ef84989476371ea05db1d3e34e923864c",
       "source": "The Hacker News",
@@ -700,26 +720,6 @@
       "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
       "published": "2026-07-29 07:47:19",
       "timestamp": 1785311239
-    },
-    {
-      "id": "84eb0609db358da34d5d9a09566efe945a23febd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"\u516c\u5b89\u4e00\u7f51\u901a\u529e\" Public Security service application targeting Android users in China. The kit supports payment-password",
-      "published": "2026-07-29 07:07:23",
-      "timestamp": 1785308843
-    },
-    {
-      "id": "e814a132baa5cca4defddbb030b15363dc228937",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 The two packages \"contain an import-time JavaScript implant that resolves encrypted code",
-      "published": "2026-07-29 04:20:57",
-      "timestamp": 1785298857
     },
     {
       "id": "f06ca96e301b6f879d482c79c4d052eba5e63d87",
