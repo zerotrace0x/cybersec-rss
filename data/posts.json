@@ -1,6 +1,46 @@
 {
-  "generated_at": 1785947035,
+  "generated_at": 1785956868,
   "items": [
+    {
+      "id": "6ec959f51006af03c98ebc2b19c688e22c8be6da",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
+      "published": "2026-08-05 18:44:31",
+      "timestamp": 1785955471
+    },
+    {
+      "id": "8d777ea65f3d452e8f78c288d88689263ccfc79a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
+      "published": "2026-08-05 18:33:47",
+      "timestamp": 1785954827
+    },
+    {
+      "id": "e601e9f3515d30136d8e7a13efe15cf713eacd9e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
+      "published": "2026-08-05 17:49:41",
+      "timestamp": 1785952181
+    },
+    {
+      "id": "3f66bfa4b10ce624201e5d7584ff8185c8fc0717",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bMicrosoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
+      "summary": "Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report. The post \u200b\u200bMicrosoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP) appeared first on Microsoft Security Blog.",
+      "published": "2026-08-05 16:30:00",
+      "timestamp": 1785947400
+    },
     {
       "id": "42685201ad50359168bfb640f1511a43d35a6008",
       "source": "BleepingComputer",
@@ -10,6 +50,36 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
       "published": "2026-08-05 15:51:33",
       "timestamp": 1785945093
+    },
+    {
+      "id": "193033b2c2ce3015f387dab2f61e570edba16f13",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
+      "summary": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide appeared first on Microsoft Security Blog.",
+      "published": "2026-08-05 15:48:39",
+      "timestamp": 1785944919
+    },
+    {
+      "id": "cf17326b8f8949eec3d74677d8520988e98534b6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"Advertisements for Poison Claude",
+      "published": "2026-08-05 15:36:03",
+      "timestamp": 1785944163
+    },
+    {
+      "id": "fbddd990bd476414aa556b99fff85e94a3161c00",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
+      "published": "2026-08-05 15:14:05",
+      "timestamp": 1785942845
     },
     {
       "id": "24231b16e559debe8202632d825a9dc1d4649b93",
@@ -45,11 +115,21 @@
       "id": "d9df18595d5b89d75f08197fd557c5dd8f2bab89",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
       "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm package \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
       "published": "2026-08-05 13:41:27",
       "timestamp": 1785937287
+    },
+    {
+      "id": "0e4778baa9d8e95e14dca543eb83f613844715c0",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-63077 JetBrains TeamCity Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal",
+      "published": "2026-08-05 12:00:00",
+      "timestamp": 1785931200
     },
     {
       "id": "52377fe1cdfe02ff93325d8979d00f91bd9da7c8",
@@ -372,16 +452,6 @@
       "timestamp": 1785782633
     },
     {
-      "id": "e0ae04c89e15cf5ae3263f65ee345cf12a2b5cb5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-      "published": "2026-08-03 17:00:56",
-      "timestamp": 1785776456
-    },
-    {
       "id": "ea480231ff55174596969871f4af26db30eefaf9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -702,46 +772,6 @@
       "timestamp": 1785407595
     },
     {
-      "id": "68410000a6fda343e4fa224ce4ab50c7df304f67",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
-      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. \"In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate",
-      "published": "2026-07-30 10:32:59",
-      "timestamp": 1785407579
-    },
-    {
-      "id": "9a5f5827937b5ca65087fcd080cc2fb5fdc838c8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
-      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors. The activity, which began on July 22, 2026, involves the",
-      "published": "2026-07-30 07:40:48",
-      "timestamp": 1785397248
-    },
-    {
-      "id": "0d4940562c46e31c143ff33dfa906c794e6b87f2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
-      "published": "2026-07-30 07:28:43",
-      "timestamp": 1785396523
-    },
-    {
-      "id": "f65b3df86c9e520efd0c63e4d69a5285a7006811",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
-      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them. The original Aikido and Wiz reports did not attribute the",
-      "published": "2026-07-30 06:05:17",
-      "timestamp": 1785391517
-    },
-    {
       "id": "fbc2f5eb4d7c1d571da81c53fdea11779313a9ea",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -790,26 +820,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68686 Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability CVE-2026-16812 Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (",
       "published": "2026-07-27 12:00:00",
       "timestamp": 1785153600
-    },
-    {
-      "id": "caf3f85407053c2e3a90814b309541460150a73f",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Email threat landscape: Q2 2026 trends and insights",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/",
-      "summary": "In the second quarter of 2026, the continuing effects of Microsoft\u2019s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains. The post Email threat landscape: Q2 2026 trends and insights appeared first on Microsoft Security Blog.",
-      "published": "2026-07-23 15:00:00",
-      "timestamp": 1784818800
-    },
-    {
-      "id": "4d37320ed0220174e37e66e00a74a6731765f03a",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
-      "summary": "Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions. The post Real world incident response: Microsoft and AXA XL strengthen cyber resilience appeared first on Microsoft Security Blog.",
-      "published": "2026-07-22 16:00:00",
-      "timestamp": 1784736000
     },
     {
       "id": "190cf73dbf61e3a9e51866a3c9c4df65b8f4e568",
@@ -872,22 +882,22 @@
       "timestamp": 1784056962
     },
     {
-      "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
-      "published": "2026-07-14 12:00:00",
-      "timestamp": 1784030400
-    },
-    {
       "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges SharePoint Hardening After New Exploitations",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
       "summary": "Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the Known Exploited Vulnerabilities (KEV) Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644, and CVE-2026-50522 enabling cyber threat actors to gain unauthorized access to on-premi",
+      "published": "2026-07-14 12:00:00",
+      "timestamp": 1784030400
+    },
+    {
+      "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog",
       "published": "2026-06-03 12:00:00",
       "timestamp": 1780488000
-    },
-    {
-      "id": "85385a568c39991bdc5933b1e07be7102a67c7b0",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vul",
-      "published": "2026-06-02 12:00:00",
-      "timestamp": 1780401600
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
