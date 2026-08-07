@@ -1,6 +1,46 @@
 {
-  "generated_at": 1786085730,
+  "generated_at": 1786095974,
   "items": [
+    {
+      "id": "25c12dbdfa642ab468add6d47980e3fe40baa607",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
+      "published": "2026-08-07 09:32:57",
+      "timestamp": 1786095177
+    },
+    {
+      "id": "227cfdb2172eaa60678764ca3568584ead787384",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose victim IP addresses and mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, Stagg said the techniques were demonstrated across network infrastructure devices",
+      "published": "2026-08-07 08:52:11",
+      "timestamp": 1786092731
+    },
+    {
+      "id": "8fb7baff01dba2bd1fcee6d07502f0e4fde6b747",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+      "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5.",
+      "published": "2026-08-07 08:18:35",
+      "timestamp": 1786090715
+    },
+    {
+      "id": "5605708db308d1b3794c923a9664b8cc05f95271",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is supported by overlapping domains, malware deployment paths, staging techniques, backend infrastructure,",
+      "published": "2026-08-07 06:50:05",
+      "timestamp": 1786085405
+    },
     {
       "id": "3d7460c80c403cca16670b18db41dea8a2c55e6d",
       "source": "BleepingComputer",
@@ -65,7 +105,7 @@
       "id": "d7faa3c8cda110685c0c2fce615950ddf6e5b3fd",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode. \"These vulnerabilities were found",
       "published": "2026-08-06 17:13:15",
@@ -700,46 +740,6 @@
       "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
       "published": "2026-08-03 06:40:31",
       "timestamp": 1785739231
-    },
-    {
-      "id": "3c27f3dde50a7020ab552e423020b91cd83b5130",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
-      "published": "2026-08-01 17:17:22",
-      "timestamp": 1785604642
-    },
-    {
-      "id": "f121134cb38546319d1810de20e96adfa24d0893",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
-      "published": "2026-08-01 09:03:07",
-      "timestamp": 1785574987
-    },
-    {
-      "id": "98f4946fa2ac254571bd11c7bb367628bfdf3bd1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect authorization that could result in",
-      "published": "2026-08-01 07:12:42",
-      "timestamp": 1785568362
-    },
-    {
-      "id": "8205b36561634bf274d7a4eab31e33e07f649293",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
-      "published": "2026-08-01 06:29:05",
-      "timestamp": 1785565745
     },
     {
       "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
