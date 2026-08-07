@@ -1,6 +1,16 @@
 {
-  "generated_at": 1786117221,
+  "generated_at": 1786127693,
   "items": [
+    {
+      "id": "1bf97222c5079af8dfb6753b8704b86aa67b5bb4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+      "published": "2026-08-07 15:48:20",
+      "timestamp": 1786117700
+    },
     {
       "id": "e88c2844bbdd37e240063534174a91204099e173",
       "source": "BleepingComputer",
@@ -30,6 +40,16 @@
       "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the",
       "published": "2026-08-07 12:56:23",
       "timestamp": 1786107383
+    },
+    {
+      "id": "46f13baf284489b403e4ea1da562bdb8f18675b6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8037 Progress LoadMaster Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Execut",
+      "published": "2026-08-07 12:00:00",
+      "timestamp": 1786104000
     },
     {
       "id": "43f926b4206a0526473cb53ff082cd158eea5e84",
@@ -440,16 +460,6 @@
       "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
       "published": "2026-08-05 15:14:05",
       "timestamp": 1785942845
-    },
-    {
-      "id": "24231b16e559debe8202632d825a9dc1d4649b93",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-      "published": "2026-08-05 14:59:29",
-      "timestamp": 1785941969
     },
     {
       "id": "c2140e1390bdafd4199c04f3ebc955a3327c4390",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
       "published": "2026-06-05 12:00:00",
       "timestamp": 1780660800
-    },
-    {
-      "id": "d6ad5e7a821dd4ad12c67800f42d04d5138e9011",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog",
-      "published": "2026-06-03 12:00:00",
-      "timestamp": 1780488000
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
