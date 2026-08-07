@@ -1,6 +1,36 @@
 {
-  "generated_at": 1786106015,
+  "generated_at": 1786117221,
   "items": [
+    {
+      "id": "e88c2844bbdd37e240063534174a91204099e173",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+      "published": "2026-08-07 14:00:10",
+      "timestamp": 1786111210
+    },
+    {
+      "id": "8ab40d1be58d58f0e3843e9ddea29adfe6a334d9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+      "published": "2026-08-07 13:34:40",
+      "timestamp": 1786109680
+    },
+    {
+      "id": "620bb6f1e91e45863e8fb1915f2c6d3d9e68043b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the",
+      "published": "2026-08-07 12:56:23",
+      "timestamp": 1786107383
+    },
     {
       "id": "43f926b4206a0526473cb53ff082cd158eea5e84",
       "source": "The Hacker News",
@@ -432,16 +462,6 @@
       "timestamp": 1785940050
     },
     {
-      "id": "39338053710e0dc5cb1c463a6baddbd8b908eb13",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How AI-powered phishing killed blocklists for good",
-      "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
-      "published": "2026-08-05 14:01:11",
-      "timestamp": 1785938471
-    },
-    {
       "id": "d9df18595d5b89d75f08197fd557c5dd8f2bab89",
       "source": "The Hacker News",
       "source_category": "General",
@@ -550,16 +570,6 @@
       "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating worm appeared first on Microsoft Security Blog.",
       "published": "2026-08-04 23:46:41",
       "timestamp": 1785887201
-    },
-    {
-      "id": "26c3dc826d7dcee42d8ab0167f4ad4c22e904480",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
-      "published": "2026-08-04 23:39:59",
-      "timestamp": 1785886799
     },
     {
       "id": "1d8cfa1b1526a3847a750b8a5f84e6ca7751d592",
@@ -730,16 +740,6 @@
       "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
       "published": "2026-08-03 11:30:00",
       "timestamp": 1785756600
-    },
-    {
-      "id": "6b5709d543115169ff8cc086169d8c61c2e8560d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
-      "published": "2026-08-03 10:49:06",
-      "timestamp": 1785754146
     },
     {
       "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
