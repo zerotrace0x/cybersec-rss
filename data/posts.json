@@ -1,6 +1,76 @@
 {
-  "generated_at": 1786473676,
+  "generated_at": 1786483935,
   "items": [
+    {
+      "id": "7d060e0696b4509cccd2e1d942833ac14419d38c",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "published": "2026-08-11 21:28:35",
+      "timestamp": 1786483715
+    },
+    {
+      "id": "7fccb35bc1fb8317c92b6e0de65e2a63703a18ed",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "published": "2026-08-11 21:07:24",
+      "timestamp": 1786482444
+    },
+    {
+      "id": "cbd7446ce76e32f510a349d35a5684e9b13a8bd4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
+      "published": "2026-08-11 20:10:55",
+      "timestamp": 1786479055
+    },
+    {
+      "id": "34cf7619f7401ba1f5cf56f4333894a3ba1bc2a0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
+      "published": "2026-08-11 19:45:31",
+      "timestamp": 1786477531
+    },
+    {
+      "id": "b15e1cb38bc69a407e1a07958114b3daed223873",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
+      "published": "2026-08-11 19:36:37",
+      "timestamp": 1786476997
+    },
+    {
+      "id": "450dd19e1bec032a5c26e8dc3143b598a51107c9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
+      "published": "2026-08-11 19:08:47",
+      "timestamp": 1786475327
+    },
+    {
+      "id": "d10fb8435a5a9e8f6f9568daafa6c6ae4c10d3da",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
+      "published": "2026-08-11 18:36:47",
+      "timestamp": 1786473407
+    },
     {
       "id": "3824f65089d5653597564b48b0cbcee658e27aff",
       "source": "BleepingComputer",
@@ -15,9 +85,9 @@
       "id": "ba02c118f1c17b3fe386e1a80deb9875e96e5bd0",
       "source": "BleepingComputer",
       "source_category": "General",
-      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "summary": "Microsoft has released Windows 10 KB5120249 cumulative update for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
       "published": "2026-08-11 18:26:03",
       "timestamp": 1786472763
     },
@@ -142,6 +212,16 @@
       "timestamp": 1786449891
     },
     {
+      "id": "5e2c810695c8bb0042ff90305074eb79bb69bb05",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Firewall Threat Defense (FTD) Heap Inspection Vulnerability CVE-2026-68820 Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability CVE-2026-72898 Metabase SQL Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cy",
+      "published": "2026-08-11 12:00:00",
+      "timestamp": 1786449600
+    },
+    {
       "id": "b0ea714117b0268eb58c47fa8652807cf493825a",
       "source": "The Hacker News",
       "source_category": "General",
@@ -240,26 +320,6 @@
       "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
       "published": "2026-08-10 21:12:10",
       "timestamp": 1786396330
-    },
-    {
-      "id": "6b5b4cfbf807af4893cac54a0037caa6ea2d2589",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "published": "2026-08-10 19:24:40",
-      "timestamp": 1786389880
-    },
-    {
-      "id": "918946d239dbb7da63d1fc7ff66d1f693e168f3a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-      "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
-      "published": "2026-08-10 17:42:00",
-      "timestamp": 1786383720
     },
     {
       "id": "fb989a348f6e63ee62da8a86b98b5eacda5494e2",
@@ -652,46 +712,6 @@
       "timestamp": 1786006650
     },
     {
-      "id": "1992cb8c4388adcffc6f6665a1d7b6b1c6210591",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-      "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed such that they start automatically and attempt to beacon to Chinese",
-      "published": "2026-08-06 08:05:22",
-      "timestamp": 1786003522
-    },
-    {
-      "id": "5fbb018a99e992c1f1acc505a018d092e154ec89",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, according to the Justice Department.",
-      "published": "2026-08-06 07:19:54",
-      "timestamp": 1786000794
-    },
-    {
-      "id": "54c95b85195407102f34be849d6d34ca5fdb3d61",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-      "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server",
-      "published": "2026-08-06 06:51:43",
-      "timestamp": 1785999103
-    },
-    {
-      "id": "635c0e5ec8b42d6e71a842317db87b60a0bfd7ef",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-      "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from",
-      "published": "2026-08-06 06:04:30",
-      "timestamp": 1785996270
-    },
-    {
       "id": "3f66bfa4b10ce624201e5d7584ff8185c8fc0717",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1052,22 +1072,22 @@
       "timestamp": 1781804278
     },
     {
-      "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
-      "published": "2026-06-18 12:00:00",
-      "timestamp": 1781784000
-    },
-    {
       "id": "671ec4ecfbfa46edfe8984d2be5a77f4c7ee23f5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
       "summary": "Update June 22, 2026:CISA has updated this Alert to incorporate the link to Fortinet\u2019s recent guidance on this activity. CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private netwo",
+      "published": "2026-06-18 12:00:00",
+      "timestamp": 1781784000
+    },
+    {
+      "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
       "published": "2026-06-18 12:00:00",
       "timestamp": 1781784000
     },
@@ -1112,16 +1132,6 @@
       "timestamp": 1781179200
     },
     {
-      "id": "57e3eb9abecd1eb7dcfecdd45d8bd94451f82d7d",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
-      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "published": "2026-06-10 14:03:44",
-      "timestamp": 1781100224
-    },
-    {
       "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Kno",
       "published": "2026-06-08 12:00:00",
       "timestamp": 1780920000
-    },
-    {
-      "id": "9484369c9ec509b7c91560db68e1251595afb46a",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living l",
-      "published": "2026-06-05 12:00:00",
-      "timestamp": 1780660800
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
