@@ -1,6 +1,56 @@
 {
-  "generated_at": 1786518084,
+  "generated_at": 1786528242,
   "items": [
+    {
+      "id": "18f0b827124dea3d0c30413a8ee347c94e1ff5f9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+      "published": "2026-08-12 09:01:54",
+      "timestamp": 1786525314
+    },
+    {
+      "id": "4b01947eebe2f719a37103821666cefaf6782caa",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
+      "published": "2026-08-12 08:04:52",
+      "timestamp": 1786521892
+    },
+    {
+      "id": "0d52e2b5cb55531e9fffd1c536eac56b5de6ea02",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
+      "published": "2026-08-12 07:31:40",
+      "timestamp": 1786519900
+    },
+    {
+      "id": "8a6bb02f7cb763c7f05cc898c744dd54174d0178",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet. RoguePlanet has been described",
+      "published": "2026-08-12 06:41:38",
+      "timestamp": 1786516898
+    },
+    {
+      "id": "c27bfd80452623165fdf8587e1327ef92aac7dbc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
+      "published": "2026-08-12 06:15:58",
+      "timestamp": 1786515358
+    },
     {
       "id": "f5f7bead1be3135b96e7fd831ad3b690d2b82a02",
       "source": "BleepingComputer",
@@ -295,7 +345,7 @@
       "id": "3ca34eb13f9bc2b4d629cd7e092b86795c9eed96",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
       "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
       "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
       "published": "2026-08-11 09:16:24",
@@ -342,16 +392,6 @@
       "timestamp": 1786379917
     },
     {
-      "id": "0cbac8529e82e33261368e059fa9cf10498f7cb3",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
-      "summary": "Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise. The post Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise appeared first on Microsoft Security Blog.",
-      "published": "2026-08-10 16:00:00",
-      "timestamp": 1786377600
-    },
-    {
       "id": "c020dcedfe9106fb29ed745cd48166d6861335d3",
       "source": "The Hacker News",
       "source_category": "General",
@@ -360,16 +400,6 @@
       "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short you wonder what was supposed to stop them in the first place. That\u2019s only part of it. Here\u2019s",
       "published": "2026-08-10 15:00:29",
       "timestamp": 1786374029
-    },
-    {
-      "id": "3afe432734aa7566aab24e28255c35f39af99ec7",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
-      "summary": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims. The post DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure appeared first on Microsoft Security Blog.",
-      "published": "2026-08-10 15:00:00",
-      "timestamp": 1786374000
     },
     {
       "id": "28c868c071c145192a785f7f49a954c1b012b67b",
@@ -662,76 +692,6 @@
       "timestamp": 1786018618
     },
     {
-      "id": "b438cb68948dabe8ad5320c8f8f7a5159a58e69c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis puts the measured theft across two sweeps since late May at a lower bound of",
-      "published": "2026-08-06 11:49:48",
-      "timestamp": 1786016988
-    },
-    {
-      "id": "6fd732fb10797ecb943c4862f8332bb5ae18cddb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-      "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy by routing their Safari web traffic through two relays so that no single third-party, including Apple, can determine where the request is originating from",
-      "published": "2026-08-06 11:33:08",
-      "timestamp": 1786015988
-    },
-    {
-      "id": "aa556dcc0d52622e22a853c7b9e0645849b85f74",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-      "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links. We observed production websites embedding hidden prompt injection payloads inside \"Ask AI\" buttons on marketing and competitor comparison pages. When a user",
-      "published": "2026-08-06 11:30:00",
-      "timestamp": 1786015800
-    },
-    {
-      "id": "7f38ee61bba559021b0fc89af1187ddad5834944",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine. Huntress, which tracks the toolkit as khunt,",
-      "published": "2026-08-06 09:19:23",
-      "timestamp": 1786007963
-    },
-    {
-      "id": "6a3ec96c02894e62b81991df487f1d808868de81",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene. The affected products include Amazon",
-      "published": "2026-08-06 08:57:30",
-      "timestamp": 1786006650
-    },
-    {
-      "id": "3f66bfa4b10ce624201e5d7584ff8185c8fc0717",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200bMicrosoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
-      "summary": "Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report. The post \u200b\u200bMicrosoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP) appeared first on Microsoft Security Blog.",
-      "published": "2026-08-05 16:30:00",
-      "timestamp": 1785947400
-    },
-    {
-      "id": "193033b2c2ce3015f387dab2f61e570edba16f13",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
-      "summary": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide appeared first on Microsoft Security Blog.",
-      "published": "2026-08-05 15:48:39",
-      "timestamp": 1785944919
-    },
-    {
       "id": "0e4778baa9d8e95e14dca543eb83f613844715c0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -740,36 +700,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-63077 JetBrains TeamCity Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal",
       "published": "2026-08-05 12:00:00",
       "timestamp": 1785931200
-    },
-    {
-      "id": "22ec55d791b4efefdc3c5e941b6381a67bb656c4",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-      "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating worm appeared first on Microsoft Security Blog.",
-      "published": "2026-08-04 23:46:41",
-      "timestamp": 1785887201
-    },
-    {
-      "id": "1d8cfa1b1526a3847a750b8a5f84e6ca7751d592",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
-      "summary": "Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance. The post Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps appeared first on Microsoft Security Blog.",
-      "published": "2026-08-04 18:30:00",
-      "timestamp": 1785868200
-    },
-    {
-      "id": "d65cfbfb9f2e55acc8c0cf20a729d961c7762b1d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
-      "summary": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread. The post 128 Seconds to disruption: Microsoft Defender stops ransomware at QNET appeared first on Microsoft Security Blog.",
-      "published": "2026-08-04 17:54:04",
-      "timestamp": 1785866044
     },
     {
       "id": "70bbcc6b347fce08d849e1b38b072db538443b3f",
@@ -792,16 +722,6 @@
       "timestamp": 1785758400
     },
     {
-      "id": "434e123f5948af1b83f493f32fdec962feb66f47",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
-      "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The post CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft appeared first on Microsoft Security Blog.",
-      "published": "2026-07-31 21:01:37",
-      "timestamp": 1785531697
-    },
-    {
       "id": "0312964af0604373173eba1a264beae1a267ab4e",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -812,16 +732,6 @@
       "timestamp": 1785430140
     },
     {
-      "id": "bcdc1cacd261c58d77106b239edf134a00159dea",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: July 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
-      "summary": "This month\u2019s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on. The post \u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: July 2026 appeared first on Microsoft Security Blog.",
-      "published": "2026-07-30 16:00:00",
-      "timestamp": 1785427200
-    },
-    {
       "id": "e7ece8b85a01a4e589b5d1d65afb841ba786661e",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -830,16 +740,6 @@
       "summary": "CISA is currently observing a significant increase in cyber threat actors targeting programmable logic controllers (PLCs) in the Water and Wastewater Systems (WWS) Sector. CISA urges critical infrastructure owners, operators, and integrators to remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible. Threat actors targeting exposed PLCs have modified passwords to lock out operators and disconnected the PLCs by changing their IP addresses. This act",
       "published": "2026-07-30 12:00:00",
       "timestamp": 1785412800
-    },
-    {
-      "id": "fbc2f5eb4d7c1d571da81c53fdea11779313a9ea",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200bBetter security starts with better questions",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
-      "summary": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems. The post \u200b\u200bBetter security starts with better questions appeared first on Microsoft Security Blog.",
-      "published": "2026-07-29 16:00:00",
-      "timestamp": 1785340800
     },
     {
       "id": "12e2f00c314d8e06fb1cc142c242fa62a499147d",
