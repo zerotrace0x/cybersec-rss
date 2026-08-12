@@ -1,6 +1,46 @@
 {
-  "generated_at": 1786538222,
+  "generated_at": 1786549520,
   "items": [
+    {
+      "id": "09091d1134e338bf23cb1fa7939ea14091576bae",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+      "published": "2026-08-12 15:38:08",
+      "timestamp": 1786549088
+    },
+    {
+      "id": "cd2b5a196a45a126dd48ce72c9d64ad031d96949",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+      "published": "2026-08-12 14:15:09",
+      "timestamp": 1786544109
+    },
+    {
+      "id": "f6d33c993623683d0cf4b8a7e4d96a1e1b12d956",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
+      "published": "2026-08-12 14:09:50",
+      "timestamp": 1786543790
+    },
+    {
+      "id": "b1b4cb35647e52910cb85f99b5265e458379fd85",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legitimate new hire. [...]",
+      "published": "2026-08-12 14:01:11",
+      "timestamp": 1786543271
+    },
     {
       "id": "b341edf01202499b1c1f5bed44f45f946f38a73d",
       "source": "BleepingComputer",
@@ -10,6 +50,26 @@
       "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
       "published": "2026-08-12 12:25:37",
       "timestamp": 1786537537
+    },
+    {
+      "id": "8eedb9d555ae731a2d5509fba17f7a73ca8653bb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
+      "published": "2026-08-12 11:47:38",
+      "timestamp": 1786535258
+    },
+    {
+      "id": "f80c79e89bed9231db3d38e0f234f77f6607e98a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
+      "published": "2026-08-12 11:41:34",
+      "timestamp": 1786534894
     },
     {
       "id": "a2fdd53ac6c4ad0aecc993a62a1fbf57836ed797",
@@ -252,26 +312,6 @@
       "timestamp": 1786463975
     },
     {
-      "id": "1e596dddc492b9f55ea4d76cd6be31cfc7ccba91",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
-      "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
-      "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
-      "published": "2026-08-11 13:20:28",
-      "timestamp": 1786454428
-    },
-    {
-      "id": "627e725d3c370c759f5ed787d524d6ec7c55920a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each agent was actually created to do. [...]",
-      "published": "2026-08-11 13:15:24",
-      "timestamp": 1786454124
-    },
-    {
       "id": "185f7aff3829514ffdb087b4b852fb9df00e928d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +320,6 @@
       "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT\u20115.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-day vulnerabilities and developing exploit chains) and to reduce refusals for certain higher-risk",
       "published": "2026-08-11 13:11:23",
       "timestamp": 1786453883
-    },
-    {
-      "id": "8ca736a3b1733c8c245e68b7b8eca3311aeefe03",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
-      "published": "2026-08-11 13:00:00",
-      "timestamp": 1786453200
     },
     {
       "id": "653ff7de1a9b757cc631c12e6d9ec5fd24dcee96",
@@ -672,16 +702,6 @@
       "timestamp": 1786039110
     },
     {
-      "id": "d7faa3c8cda110685c0c2fce615950ddf6e5b3fd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode. \"These vulnerabilities were found",
-      "published": "2026-08-06 17:13:15",
-      "timestamp": 1786036395
-    },
-    {
       "id": "8ae8fa5689b1fe29a2be3b96d6b1bc9c28c7e740",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -690,26 +710,6 @@
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06 17:00:56",
       "timestamp": 1786035656
-    },
-    {
-      "id": "ee7725dbee4a4049e3459e6ee27170e8bc8e35ef",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Dani\u00ebl Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on,",
-      "published": "2026-08-06 16:17:13",
-      "timestamp": 1786033033
-    },
-    {
-      "id": "f9f665d5421ccec605cb27ffcedd36b07e58aea5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and trusted defaults doing attackers a favor. Nothing here is especially mystical.",
-      "published": "2026-08-06 15:24:31",
-      "timestamp": 1786029871
     },
     {
       "id": "3f66bfa4b10ce624201e5d7584ff8185c8fc0717",
