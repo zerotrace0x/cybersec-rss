@@ -1,6 +1,16 @@
 {
-  "generated_at": 1786614650,
+  "generated_at": 1786624676,
   "items": [
+    {
+      "id": "44f78c1fe08e00774cc887f8c5ec98f6cb9eebc4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+      "published": "2026-08-13 11:50:22",
+      "timestamp": 1786621822
+    },
     {
       "id": "9234163838d009774ce49af5cbd7cb367322af7d",
       "source": "The Hacker News",
@@ -270,16 +280,6 @@
       "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
       "published": "2026-08-11 20:10:55",
       "timestamp": 1786479055
-    },
-    {
-      "id": "34cf7619f7401ba1f5cf56f4333894a3ba1bc2a0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-      "published": "2026-08-11 19:45:31",
-      "timestamp": 1786477531
     },
     {
       "id": "b15e1cb38bc69a407e1a07958114b3daed223873",
@@ -742,7 +742,7 @@
       "timestamp": 1785931200
     },
     {
-      "id": "34f554695a09f1cdd8721d2b401a42eadd6a12b5",
+      "id": "22ec55d791b4efefdc3c5e941b6381a67bb656c4",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
