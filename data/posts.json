@@ -1,6 +1,56 @@
 {
-  "generated_at": 1786968946,
+  "generated_at": 1786979588,
   "items": [
+    {
+      "id": "a42039d6cf512a9b0fc8931198d4d9f73925f10d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+      "published": "2026-08-17 14:47:08",
+      "timestamp": 1786978028
+    },
+    {
+      "id": "496d25fada2f6b8698b6ee3c578d8b66da40e367",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
+      "published": "2026-08-17 14:00:10",
+      "timestamp": 1786975210
+    },
+    {
+      "id": "22306c454c3ca7f667f97a4cbed719a1e21562ec",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely. So, nothing magical. Just a",
+      "published": "2026-08-17 13:23:51",
+      "timestamp": 1786973031
+    },
+    {
+      "id": "7c7ec98d0b429c3488409bf949e9c60496e01ef1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+      "published": "2026-08-17 12:33:11",
+      "timestamp": 1786969991
+    },
+    {
+      "id": "e3814050ea9e0bb0017565cfddf9d733d8fd281b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
+      "published": "2026-08-17 11:58:00",
+      "timestamp": 1786967880
+    },
     {
       "id": "0a9f72ed11d1eab217b12d884a170421d9919da2",
       "source": "BleepingComputer",
@@ -10,6 +60,16 @@
       "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
       "published": "2026-08-17 11:25:02",
       "timestamp": 1786965902
+    },
+    {
+      "id": "a2eabc257540823348c8d6fb5353728f0b8f024a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed remote code execution in the",
+      "published": "2026-08-17 10:52:34",
+      "timestamp": 1786963954
     },
     {
       "id": "c980cf3ad5c9ca4f0f8917af4ff73d6ebdc25c0c",
@@ -182,16 +242,6 @@
       "timestamp": 1786716010
     },
     {
-      "id": "1c3a3f5f7010f5e96be09c96b6f02c7bc9fe2e2b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-      "published": "2026-08-14 13:45:18",
-      "timestamp": 1786715118
-    },
-    {
       "id": "0fd65f0ca5b8fcd2b024aedb3435c0db7bf38d1b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -200,16 +250,6 @@
       "summary": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, files, registry objects, and command-and-control (C2) network information. Russian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mongolia, Pakistan,",
       "published": "2026-08-14 13:08:56",
       "timestamp": 1786712936
-    },
-    {
-      "id": "1dbb3162d7b1f42be7edf0b045cfa4f9c9838355",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Shell investigates 'potential incident' after Clop data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-      "published": "2026-08-14 11:55:45",
-      "timestamp": 1786708545
     },
     {
       "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
@@ -240,16 +280,6 @@
       "summary": "Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time. CTM360, which detailed the activity in a new report titled RecruitTrap, said it",
       "published": "2026-08-14 10:57:00",
       "timestamp": 1786705020
-    },
-    {
-      "id": "02b2c84e2dc61fbb2f6e5db94c36e79283525191",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-      "published": "2026-08-14 10:52:05",
-      "timestamp": 1786704725
     },
     {
       "id": "b5f61921187676078c2d2297a74637fe8f7115be",
@@ -670,36 +700,6 @@
       "summary": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims. The post DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure appeared first on Microsoft Security Blog.",
       "published": "2026-08-10 15:00:00",
       "timestamp": 1786374000
-    },
-    {
-      "id": "28c868c071c145192a785f7f49a954c1b012b67b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
-      "published": "2026-08-10 13:19:58",
-      "timestamp": 1786367998
-    },
-    {
-      "id": "49a40d599ffbcd1096a109c92a1999f259c666ce",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a",
-      "published": "2026-08-10 12:25:04",
-      "timestamp": 1786364704
-    },
-    {
-      "id": "dc3b53331fd8fc60921d3bc10694ce860c3c61f7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026. The activity involves exploiting a vulnerability chain",
-      "published": "2026-08-10 11:33:41",
-      "timestamp": 1786361621
     },
     {
       "id": "46f13baf284489b403e4ea1da562bdb8f18675b6",
