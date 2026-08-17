@@ -1,6 +1,66 @@
 {
-  "generated_at": 1786990667,
+  "generated_at": 1787001173,
   "items": [
+    {
+      "id": "c5b0fb764b8fd929f02653834a0aa2674271cf40",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4. Released on",
+      "published": "2026-08-17 21:03:04",
+      "timestamp": 1787000584
+    },
+    {
+      "id": "8e3cefb87094c3ecc4bd5a58045e8b25ab1f96f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "published": "2026-08-17 19:35:01",
+      "timestamp": 1786995301
+    },
+    {
+      "id": "48b98b1ba076c495e6cdd8cebd7f709f25c7c766",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Pok\u00e9mon Center data breach exposes customer info, cancels some orders",
+      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "summary": "Pok\u00e9mon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+      "published": "2026-08-17 19:12:39",
+      "timestamp": 1786993959
+    },
+    {
+      "id": "f6626460c389a3e7773b0c98ea32679b9d30a4ef",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. The issue was present in .github/workflows/jira_issue.yml, which ran when a",
+      "published": "2026-08-17 18:44:17",
+      "timestamp": 1786992257
+    },
+    {
+      "id": "76d5e51bfb38352bf357a2358691951ef191e955",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias \"",
+      "published": "2026-08-17 18:22:09",
+      "timestamp": 1786990929
+    },
+    {
+      "id": "3b01df3dbdfabbcf0c3c62eef1695e2c8ac21733",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
+      "published": "2026-08-17 17:41:06",
+      "timestamp": 1786988466
+    },
     {
       "id": "a42039d6cf512a9b0fc8931198d4d9f73925f10d",
       "source": "BleepingComputer",
@@ -230,26 +290,6 @@
       "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic access reviews toward continuous, evidence-backed verification that auditors can",
       "published": "2026-08-14 17:19:49",
       "timestamp": 1786727989
-    },
-    {
-      "id": "38dc3ac1c37252cb0952605f422440dcfd22fd1b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-      "published": "2026-08-14 14:59:55",
-      "timestamp": 1786719595
-    },
-    {
-      "id": "a683f402e0494368f8f41cdf877b53ce46a6cca6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
-      "published": "2026-08-14 14:00:10",
-      "timestamp": 1786716010
     },
     {
       "id": "0fd65f0ca5b8fcd2b024aedb3435c0db7bf38d1b",
@@ -652,36 +692,6 @@
       "timestamp": 1786431345
     },
     {
-      "id": "8819a0d8a55b38e89877f2b657135a1c52bb81d9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said.",
-      "published": "2026-08-11 05:48:44",
-      "timestamp": 1786427324
-    },
-    {
-      "id": "fb989a348f6e63ee62da8a86b98b5eacda5494e2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
-      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
-      "published": "2026-08-10 17:29:17",
-      "timestamp": 1786382957
-    },
-    {
-      "id": "deeef8e7bee8e7a812e3b02d7a8ed1fe734aac69",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said. \"StormEncryptor is written in C++ and appends the file name extension .encrypted",
-      "published": "2026-08-10 16:38:37",
-      "timestamp": 1786379917
-    },
-    {
       "id": "0cbac8529e82e33261368e059fa9cf10498f7cb3",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -690,16 +700,6 @@
       "summary": "Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise. The post Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise appeared first on Microsoft Security Blog.",
       "published": "2026-08-10 16:00:00",
       "timestamp": 1786377600
-    },
-    {
-      "id": "c020dcedfe9106fb29ed745cd48166d6861335d3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-      "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are back, supply chains are getting stranger, and some exploit paths are so short you wonder what was supposed to stop them in the first place. That\u2019s only part of it. Here\u2019s",
-      "published": "2026-08-10 15:00:29",
-      "timestamp": 1786374029
     },
     {
       "id": "3afe432734aa7566aab24e28255c35f39af99ec7",
