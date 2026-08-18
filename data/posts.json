@@ -1,6 +1,56 @@
 {
-  "generated_at": 1787044732,
+  "generated_at": 1787055468,
   "items": [
+    {
+      "id": "5b85a12ad7398640973e3749b9d3829c0dc53952",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
+      "published": "2026-08-18 11:40:06",
+      "timestamp": 1787053206
+    },
+    {
+      "id": "a99f8983147ce43744bf513c5b52d13f9d10d917",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
+      "published": "2026-08-18 11:30:00",
+      "timestamp": 1787052600
+    },
+    {
+      "id": "1fd22c5b0907a711d3535588f7a692060e1e06b0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft tests faster Windows File Explorer, new context menu",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+      "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
+      "published": "2026-08-18 11:14:28",
+      "timestamp": 1787051668
+    },
+    {
+      "id": "c962a78cef762003612502e6c4a880ed923ec846",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
+      "published": "2026-08-18 10:32:16",
+      "timestamp": 1787049136
+    },
+    {
+      "id": "4c1d310a8f7e2e9454ab7d85b4bad43c7a9eeb25",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+      "published": "2026-08-18 09:24:49",
+      "timestamp": 1787045089
+    },
     {
       "id": "f796814ae6c766eeb781c19b5c83a3e43634114d",
       "source": "The Hacker News",
@@ -242,26 +292,6 @@
       "timestamp": 1786901392
     },
     {
-      "id": "0c05e279b3fa885395a2256bb9e06ea8a87081a1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
-      "published": "2026-08-16 15:07:44",
-      "timestamp": 1786892864
-    },
-    {
-      "id": "c4c4ae0f54a41067cf8436bc7e4632befbfdb26b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-      "published": "2026-08-15 14:14:38",
-      "timestamp": 1786803278
-    },
-    {
       "id": "6b7a801dcf18e98748e072c57c4895762447aed7",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +310,6 @@
       "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
       "published": "2026-08-15 07:24:04",
       "timestamp": 1786778644
-    },
-    {
-      "id": "1e5abb023cf231e710676976e8c45ea851ce2143",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
-      "published": "2026-08-14 23:24:17",
-      "timestamp": 1786749857
     },
     {
       "id": "e3214a036bd4dbf2d57b343ddc51b396678406aa",
@@ -670,26 +690,6 @@
       "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding paperwork is the part hiring teams can use. The first hire claimed to live in Pasadena, Texas, then sent a California driver's license and a New York bank account. The",
       "published": "2026-08-11 11:35:03",
       "timestamp": 1786448103
-    },
-    {
-      "id": "026ad7fb4b6755afc49b5ac6003ea743595c4c54",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that",
-      "published": "2026-08-11 10:48:26",
-      "timestamp": 1786445306
-    },
-    {
-      "id": "efef603e2fee50178ca962f57d48263a0e31c9b0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can work even after a blunt version of the same theft is refused: split the request into fragments that each look routine, place them in channels the assistant already uses, and let",
-      "published": "2026-08-11 10:24:00",
-      "timestamp": 1786443840
     },
     {
       "id": "0cbac8529e82e33261368e059fa9cf10498f7cb3",
