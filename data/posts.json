@@ -1,6 +1,16 @@
 {
-  "generated_at": 1787066289,
+  "generated_at": 1787077015,
   "items": [
+    {
+      "id": "b48bde41d89a23652424a67973c68dafb928ccd2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
+      "published": "2026-08-18 17:29:51",
+      "timestamp": 1787074191
+    },
     {
       "id": "36b923402b8883bc020d919d01e51a30a7a962ba",
       "source": "BleepingComputer",
@@ -30,6 +40,16 @@
       "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News. \"Tasking flows through SharePoint Online file",
       "published": "2026-08-18 12:38:20",
       "timestamp": 1787056700
+    },
+    {
+      "id": "604475fac5d058050bedbc947c2788092ed73720",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability CVE-2026-55040 Microsoft SharePoint Weak Authentication Vulnerability CVE-2026-59310 Broadcom VMware vCenter Path Traversal Vulnerability CVE-2026-65400 Apple macOS Improper Authentication Vulnerability These types of vulnerabilities are a frequent attack vector for",
+      "published": "2026-08-18 12:00:00",
+      "timestamp": 1787054400
     },
     {
       "id": "a99f8983147ce43744bf513c5b52d13f9d10d917",
@@ -300,16 +320,6 @@
       "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
       "published": "2026-08-16 23:47:06",
       "timestamp": 1786924026
-    },
-    {
-      "id": "8021686277b446618d95c9b05c8722815b2982da",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-      "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
-      "published": "2026-08-16 22:28:57",
-      "timestamp": 1786919337
     },
     {
       "id": "6b7a801dcf18e98748e072c57c4895762447aed7",
@@ -947,7 +957,7 @@
       "source_category": "Blue Team",
       "title": "CISA Urges SharePoint Hardening After New Exploitations",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
-      "summary": "Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the Known Exploited Vulnerabilities (KEV) Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, CVE-2026-58644, and CVE-2026-50522 enabling cyber threat actors to gain unauthorized access to on-premi",
+      "summary": "Update August 18, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-55040 to its Known Exploited Vulnerabilities (KEV) Catalog on August 18, 2026. Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the KEV Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CV",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
       "published": "2026-06-11 12:00:00",
       "timestamp": 1781179200
-    },
-    {
-      "id": "62b674cb4df01383974c635ee69dd4ceda6c1d9d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability CVE-2026-20245 Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber a",
-      "published": "2026-06-09 12:00:00",
-      "timestamp": 1781006400
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
