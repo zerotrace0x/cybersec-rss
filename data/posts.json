@@ -1,15 +1,35 @@
 {
-  "generated_at": 1787055468,
+  "generated_at": 1787066289,
   "items": [
     {
-      "id": "5b85a12ad7398640973e3749b9d3829c0dc53952",
+      "id": "36b923402b8883bc020d919d01e51a30a7a962ba",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
+      "published": "2026-08-18 14:01:11",
+      "timestamp": 1787061671
+    },
+    {
+      "id": "5d97a716b00a392ae1c801570e3104670e648927",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
-      "published": "2026-08-18 11:40:06",
-      "timestamp": 1787053206
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding",
+      "published": "2026-08-18 12:38:36",
+      "timestamp": 1787056716
+    },
+    {
+      "id": "90eba58f81e751e6b6812ea948740f64fabc93a5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News. \"Tasking flows through SharePoint Online file",
+      "published": "2026-08-18 12:38:20",
+      "timestamp": 1787056700
     },
     {
       "id": "a99f8983147ce43744bf513c5b52d13f9d10d917",
@@ -20,6 +40,16 @@
       "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
       "published": "2026-08-18 11:30:00",
       "timestamp": 1787052600
+    },
+    {
+      "id": "5b85a12ad7398640973e3749b9d3829c0dc53952",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
+      "published": "2026-08-18 11:20:00",
+      "timestamp": 1787052000
     },
     {
       "id": "1fd22c5b0907a711d3535588f7a692060e1e06b0",
@@ -280,16 +310,6 @@
       "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
       "published": "2026-08-16 22:28:57",
       "timestamp": 1786919337
-    },
-    {
-      "id": "d237ffd9fe767ea594517f299860fda3b7fd60ba",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-      "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-      "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
-      "published": "2026-08-16 17:29:52",
-      "timestamp": 1786901392
     },
     {
       "id": "6b7a801dcf18e98748e072c57c4895762447aed7",
@@ -662,16 +682,6 @@
       "timestamp": 1786449903
     },
     {
-      "id": "d3e4eb2192327f3c788a8c65f9f68af32212dc02",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is how a user, or a Linux distribution packaging the browser, confirms a downloaded Firefox tarball came from Mozilla and was not tampered with. That decision carries a cost for",
-      "published": "2026-08-11 12:04:51",
-      "timestamp": 1786449891
-    },
-    {
       "id": "5e2c810695c8bb0042ff90305074eb79bb69bb05",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -680,16 +690,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Firewall Threat Defense (FTD) Heap Inspection Vulnerability CVE-2026-68820 Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability CVE-2026-72898 Metabase SQL Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cy",
       "published": "2026-08-11 12:00:00",
       "timestamp": 1786449600
-    },
-    {
-      "id": "b0ea714117b0268eb58c47fa8652807cf493825a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-      "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding paperwork is the part hiring teams can use. The first hire claimed to live in Pasadena, Texas, then sent a California driver's license and a New York bank account. The",
-      "published": "2026-08-11 11:35:03",
-      "timestamp": 1786448103
     },
     {
       "id": "0cbac8529e82e33261368e059fa9cf10498f7cb3",
