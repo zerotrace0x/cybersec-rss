@@ -1,6 +1,36 @@
 {
-  "generated_at": 1787077015,
+  "generated_at": 1787087441,
   "items": [
+    {
+      "id": "5be8e0ac31f15ffc4c59b35627596b410faf45eb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
+      "published": "2026-08-18 20:14:58",
+      "timestamp": 1787084098
+    },
+    {
+      "id": "5a212f1ed2b35bcdf8d646b2b8dc1283b944ea3e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
+      "published": "2026-08-18 17:47:22",
+      "timestamp": 1787075242
+    },
+    {
+      "id": "5641638c3e9e23b078b2c7619c3081f8f65532f0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
+      "published": "2026-08-18 17:44:05",
+      "timestamp": 1787075045
+    },
     {
       "id": "b48bde41d89a23652424a67973c68dafb928ccd2",
       "source": "BleepingComputer",
@@ -10,6 +40,26 @@
       "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
       "published": "2026-08-18 17:29:51",
       "timestamp": 1787074191
+    },
+    {
+      "id": "9b727dc1427c82b31ab6c6e9ced74c8db8a789a3",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
+      "summary": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft Security Blog.",
+      "published": "2026-08-18 17:08:28",
+      "timestamp": 1787072908
+    },
+    {
+      "id": "a5ff2a2d1be8dc3ce351933e3f809a2084957bd5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
+      "published": "2026-08-18 16:58:16",
+      "timestamp": 1787072296
     },
     {
       "id": "36b923402b8883bc020d919d01e51a30a7a962ba",
@@ -310,16 +360,6 @@
       "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
       "published": "2026-08-17 07:36:19",
       "timestamp": 1786952179
-    },
-    {
-      "id": "3df38ca726629ade05def78e162048a8907ed4ec",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
-      "published": "2026-08-16 23:47:06",
-      "timestamp": 1786924026
     },
     {
       "id": "6b7a801dcf18e98748e072c57c4895762447aed7",
@@ -662,36 +702,6 @@
       "timestamp": 1786466864
     },
     {
-      "id": "b3917b02ac86240b046c1acd1ce57d897e1ea56c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat",
-      "published": "2026-08-11 16:35:27",
-      "timestamp": 1786466127
-    },
-    {
-      "id": "185f7aff3829514ffdb087b4b852fb9df00e928d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT\u20115.6\u2011Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT\u20115.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-day vulnerabilities and developing exploit chains) and to reduce refusals for certain higher-risk",
-      "published": "2026-08-11 13:11:23",
-      "timestamp": 1786453883
-    },
-    {
-      "id": "653ff7de1a9b757cc631c12e6d9ec5fd24dcee96",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
-      "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
-      "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough to take the whole device over. Researchers at the University of Birmingham and the security firm Fuzzware tested 26 phones and cellular modules for the capability, found it",
-      "published": "2026-08-11 12:05:03",
-      "timestamp": 1786449903
-    },
-    {
       "id": "5e2c810695c8bb0042ff90305074eb79bb69bb05",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -792,7 +802,7 @@
       "timestamp": 1785868200
     },
     {
-      "id": "ab8828cafae400237e3e828ba00b69406dc188c8",
+      "id": "d65cfbfb9f2e55acc8c0cf20a729d961c7762b1d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
@@ -860,16 +870,6 @@
       "summary": "CISA is currently observing a significant increase in cyber threat actors targeting programmable logic controllers (PLCs) in the Water and Wastewater Systems (WWS) Sector. CISA urges critical infrastructure owners, operators, and integrators to remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible. Threat actors targeting exposed PLCs have modified passwords to lock out operators and disconnected the PLCs by changing their IP addresses. This act",
       "published": "2026-07-30 12:00:00",
       "timestamp": 1785412800
-    },
-    {
-      "id": "fbc2f5eb4d7c1d571da81c53fdea11779313a9ea",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200bBetter security starts with better questions",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
-      "summary": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems. The post \u200b\u200bBetter security starts with better questions appeared first on Microsoft Security Blog.",
-      "published": "2026-07-29 16:00:00",
-      "timestamp": 1785340800
     },
     {
       "id": "12e2f00c314d8e06fb1cc142c242fa62a499147d",
