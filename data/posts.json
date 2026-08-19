@@ -1,6 +1,46 @@
 {
-  "generated_at": 1787131183,
+  "generated_at": 1787141845,
   "items": [
+    {
+      "id": "7fadbdb249f152b85b7c6286f0bfc924f49fec97",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software",
+      "published": "2026-08-19 11:25:28",
+      "timestamp": 1787138728
+    },
+    {
+      "id": "e4a3d3fb13ab82cba2ec50c745b11ea6b887abe3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+      "published": "2026-08-19 11:14:28",
+      "timestamp": 1787138068
+    },
+    {
+      "id": "f131e9d544ce9cc903db973ba6d4f3d05b63e1e9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
+      "published": "2026-08-19 11:01:48",
+      "timestamp": 1787137308
+    },
+    {
+      "id": "1198a1ffe3e56c8f9c8abae3944a18b2feafee5a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
+      "published": "2026-08-19 10:12:24",
+      "timestamp": 1787134344
+    },
     {
       "id": "fdad361b6c77aa1fa0f8401f42e4530ed328de84",
       "source": "BleepingComputer",
@@ -20,6 +60,26 @@
       "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
       "published": "2026-08-19 08:00:48",
       "timestamp": 1787126448
+    },
+    {
+      "id": "97e05c381b0f4e4f3a28c06c5b91dcedf61a9e0c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection, staging, and exfiltration. The tech giant said it required multiple endpoint and network behaviors to align before",
+      "published": "2026-08-19 06:01:53",
+      "timestamp": 1787119313
+    },
+    {
+      "id": "0ae65062a03fdb6c4c575a5013c7b608705d30ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web shell as a fully equipped extortion platform capable of mapping sensitive vault",
+      "published": "2026-08-19 05:39:25",
+      "timestamp": 1787117965
     },
     {
       "id": "5be8e0ac31f15ffc4c59b35627596b410faf45eb",
@@ -292,16 +352,6 @@
       "timestamp": 1786973031
     },
     {
-      "id": "7c7ec98d0b429c3488409bf949e9c60496e01ef1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
-      "published": "2026-08-17 12:33:11",
-      "timestamp": 1786969991
-    },
-    {
       "id": "3a2c5aa75e993a88134f31a34b67d8c29a8c16de",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -320,16 +370,6 @@
       "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
       "published": "2026-08-17 11:58:00",
       "timestamp": 1786967880
-    },
-    {
-      "id": "0a9f72ed11d1eab217b12d884a170421d9919da2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-      "published": "2026-08-17 11:25:02",
-      "timestamp": 1786965902
     },
     {
       "id": "a2eabc257540823348c8d6fb5353728f0b8f024a",
@@ -660,46 +700,6 @@
       "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
       "published": "2026-08-11 20:10:55",
       "timestamp": 1786479055
-    },
-    {
-      "id": "b15e1cb38bc69a407e1a07958114b3daed223873",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
-      "published": "2026-08-11 19:36:37",
-      "timestamp": 1786476997
-    },
-    {
-      "id": "450dd19e1bec032a5c26e8dc3143b598a51107c9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
-      "published": "2026-08-11 19:08:47",
-      "timestamp": 1786475327
-    },
-    {
-      "id": "d10fb8435a5a9e8f6f9568daafa6c6ae4c10d3da",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
-      "published": "2026-08-11 18:36:47",
-      "timestamp": 1786473407
-    },
-    {
-      "id": "fcaaec5b0504194481e29a1c4df90d3bc51fc4e9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoint Server 2016. Microsoft's",
-      "published": "2026-08-11 16:47:44",
-      "timestamp": 1786466864
     },
     {
       "id": "5e2c810695c8bb0042ff90305074eb79bb69bb05",
