@@ -1,6 +1,46 @@
 {
-  "generated_at": 1787141845,
+  "generated_at": 1787152674,
   "items": [
+    {
+      "id": "fdcf7be92d263d8ffcbc762df73ccc48b8d75607",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
+      "published": "2026-08-19 14:00:10",
+      "timestamp": 1787148010
+    },
+    {
+      "id": "13bcab7640aec0e4d94547fb5c554fd5d5163c11",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
+      "published": "2026-08-19 13:12:17",
+      "timestamp": 1787145137
+    },
+    {
+      "id": "65b8627eda58f4cc0ba5152d291a1a750d25799e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files",
+      "published": "2026-08-19 11:34:28",
+      "timestamp": 1787139268
+    },
+    {
+      "id": "bfb0950759c24d48504c372b29765a290af1d819",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person. From Bad Content to Bad Intent to AI on Both Sides Phishing 1.0 was bad",
+      "published": "2026-08-19 11:30:00",
+      "timestamp": 1787139000
+    },
     {
       "id": "7fadbdb249f152b85b7c6286f0bfc924f49fec97",
       "source": "The Hacker News",
@@ -332,16 +372,6 @@
       "timestamp": 1786978028
     },
     {
-      "id": "496d25fada2f6b8698b6ee3c578d8b66da40e367",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
-      "published": "2026-08-17 14:00:10",
-      "timestamp": 1786975210
-    },
-    {
       "id": "22306c454c3ca7f667f97a4cbed719a1e21562ec",
       "source": "The Hacker News",
       "source_category": "General",
@@ -662,26 +692,6 @@
       "timestamp": 1786519900
     },
     {
-      "id": "8a6bb02f7cb763c7f05cc898c744dd54174d0178",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet. RoguePlanet has been described",
-      "published": "2026-08-12 06:41:38",
-      "timestamp": 1786516898
-    },
-    {
-      "id": "c27bfd80452623165fdf8587e1327ef92aac7dbc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
-      "published": "2026-08-12 06:15:58",
-      "timestamp": 1786515358
-    },
-    {
       "id": "7d060e0696b4509cccd2e1d942833ac14419d38c",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -690,16 +700,6 @@
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
       "published": "2026-08-11 21:28:35",
       "timestamp": 1786483715
-    },
-    {
-      "id": "cbd7446ce76e32f510a349d35a5684e9b13a8bd4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
-      "published": "2026-08-11 20:10:55",
-      "timestamp": 1786479055
     },
     {
       "id": "5e2c810695c8bb0042ff90305074eb79bb69bb05",
