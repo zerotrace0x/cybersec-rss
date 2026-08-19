@@ -1,6 +1,46 @@
 {
-  "generated_at": 1787163244,
+  "generated_at": 1787174008,
   "items": [
+    {
+      "id": "da6c7cc9b1aaa1cc903431d8e3c49672d7242a8e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Rogue ransomware affiliate poses as data recovery firm to steal payments",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/",
+      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
+      "published": "2026-08-19 20:59:58",
+      "timestamp": 1787173198
+    },
+    {
+      "id": "58daa44d42837529e5ff6f1a05f0c31dbce6c976",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
+      "published": "2026-08-19 20:53:38",
+      "timestamp": 1787172818
+    },
+    {
+      "id": "32925fc78c680c907426073ef5cba962a2dc7960",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+      "published": "2026-08-19 20:07:12",
+      "timestamp": 1787170032
+    },
+    {
+      "id": "b6c0ebfdae7334a6f9c13d764094d31df6596f18",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
+      "published": "2026-08-19 19:02:40",
+      "timestamp": 1787166160
+    },
     {
       "id": "11d9f9751c691e7881a53c1b989f0be6601d95ff",
       "source": "BleepingComputer",
@@ -12,6 +52,16 @@
       "timestamp": 1787162953
     },
     {
+      "id": "4d1aa7bc5873b6919b1704ce53c2e5f9aa2e8670",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
+      "published": "2026-08-19 18:06:44",
+      "timestamp": 1787162804
+    },
+    {
       "id": "43a55a930c0189bd6ea2530e1d03d870af611eb4",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -20,6 +70,16 @@
       "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
       "published": "2026-08-19 17:50:01",
       "timestamp": 1787161801
+    },
+    {
+      "id": "d713eadcfaac77ae8fc73e20a8f68add8ee99328",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
+      "summary": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026 appeared first on Microsoft Security Blog.",
+      "published": "2026-08-19 17:30:00",
+      "timestamp": 1787160600
     },
     {
       "id": "943c9da82e797b3d11ff0d4ce06984c396b5c09e",
@@ -50,6 +110,16 @@
       "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
       "published": "2026-08-19 13:12:17",
       "timestamp": 1787145137
+    },
+    {
+      "id": "ab55453081fae310a37148c6bcfa4600491c482e",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-64849 MLflow Server-Side Request Forgery Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
+      "published": "2026-08-19 12:00:00",
+      "timestamp": 1787140800
     },
     {
       "id": "65b8627eda58f4cc0ba5152d291a1a750d25799e",
@@ -282,26 +352,6 @@
       "timestamp": 1787051668
     },
     {
-      "id": "c962a78cef762003612502e6c4a880ed923ec846",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
-      "published": "2026-08-18 10:32:16",
-      "timestamp": 1787049136
-    },
-    {
-      "id": "4c1d310a8f7e2e9454ab7d85b4bad43c7a9eeb25",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
-      "published": "2026-08-18 09:24:49",
-      "timestamp": 1787045089
-    },
-    {
       "id": "f796814ae6c766eeb781c19b5c83a3e43634114d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +360,6 @@
       "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from security@safepal.com, with the subject line \"[Important] Your SafePal Order",
       "published": "2026-08-18 09:10:45",
       "timestamp": 1787044245
-    },
-    {
-      "id": "96496b82cdb72b4b084984f1d1a6308464772ee6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-      "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
-      "published": "2026-08-18 08:12:08",
-      "timestamp": 1787040728
     },
     {
       "id": "56d256091d0f1e46fc1a5a18e84195b9c0b1abec",
@@ -672,26 +712,6 @@
       "timestamp": 1786525314
     },
     {
-      "id": "4b01947eebe2f719a37103821666cefaf6782caa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
-      "published": "2026-08-12 08:04:52",
-      "timestamp": 1786521892
-    },
-    {
-      "id": "0d52e2b5cb55531e9fffd1c536eac56b5de6ea02",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
-      "published": "2026-08-12 07:31:40",
-      "timestamp": 1786519900
-    },
-    {
       "id": "7d060e0696b4509cccd2e1d942833ac14419d38c",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -832,7 +852,7 @@
       "timestamp": 1785758400
     },
     {
-      "id": "434e123f5948af1b83f493f32fdec962feb66f47",
+      "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
@@ -850,16 +870,6 @@
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
       "published": "2026-07-30 16:49:00",
       "timestamp": 1785430140
-    },
-    {
-      "id": "82173c98556090f62ec54b2712732b13611cdc4b",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: July 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/30/whats-new-in-microsoft-security-july-2026/",
-      "summary": "This month\u2019s updates help security and IT teams secure their AI environments, use AI to defend, and strengthen the foundations that AI-powered operations depend on. The post \u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: July 2026 appeared first on Microsoft Security Blog.",
-      "published": "2026-07-30 16:00:00",
-      "timestamp": 1785427200
     },
     {
       "id": "e7ece8b85a01a4e589b5d1d65afb841ba786661e",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability ma",
       "published": "2026-06-12 12:00:00",
       "timestamp": 1781265600
-    },
-    {
-      "id": "5fe5634fe2bcaadac1ac983ead56a3624fdfe1d3",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
-      "published": "2026-06-11 12:00:00",
-      "timestamp": 1781179200
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
