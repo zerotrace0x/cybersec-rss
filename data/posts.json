@@ -1,6 +1,16 @@
 {
-  "generated_at": 1787196912,
+  "generated_at": 1787206877,
   "items": [
+    {
+      "id": "0d39a4eeb318e8dca2e0b44f1bfc7a12dc1f3327",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type. \"The flaw lives in the Forms module's File",
+      "published": "2026-08-20 06:04:34",
+      "timestamp": 1787205874
+    },
     {
       "id": "f34fa61ebf21b35ad2b883216076e5653cffb1cf",
       "source": "BleepingComputer",
@@ -700,16 +710,6 @@
       "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
       "published": "2026-08-12 11:13:03",
       "timestamp": 1786533183
-    },
-    {
-      "id": "18f0b827124dea3d0c30413a8ee347c94e1ff5f9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
-      "published": "2026-08-12 09:01:54",
-      "timestamp": 1786525314
     },
     {
       "id": "7d060e0696b4509cccd2e1d942833ac14419d38c",
