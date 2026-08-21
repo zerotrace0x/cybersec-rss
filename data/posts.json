@@ -1,6 +1,46 @@
 {
-  "generated_at": 1787325583,
+  "generated_at": 1787336258,
   "items": [
+    {
+      "id": "f2d77d3a7f49aef254b476d7a170dce5385bfa23",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+      "published": "2026-08-21 18:01:30",
+      "timestamp": 1787335290
+    },
+    {
+      "id": "e27fa55fd3de9c4710c76dc3b4b712e5c0666b84",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "published": "2026-08-21 15:55:15",
+      "timestamp": 1787327715
+    },
+    {
+      "id": "4e584db674e226e9b570b64e5501681031c48229",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.sys (Boot Time Removal Tool), is a",
+      "published": "2026-08-21 15:52:10",
+      "timestamp": 1787327530
+    },
+    {
+      "id": "72bb0fed0042a911ef303ccc4e411ceec2bac800",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
+      "published": "2026-08-21 15:41:44",
+      "timestamp": 1787326904
+    },
     {
       "id": "236ce1894693ff4ce42b913ae2633bb7132eb1fb",
       "source": "BleepingComputer",
@@ -105,9 +145,9 @@
       "id": "53070e21b1881cd9206bd908bf60a722aef7fcf9",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
       "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
       "published": "2026-08-21 06:06:11",
       "timestamp": 1787292371
     },
@@ -322,16 +362,6 @@
       "timestamp": 1787220122
     },
     {
-      "id": "8cbec3e8d4d0265d622109bbc31e142defb1d6ff",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-      "published": "2026-08-20 09:46:54",
-      "timestamp": 1787219214
-    },
-    {
       "id": "808d6d5e50c93c9d10fdb0ca350de3e72fc57287",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,16 +370,6 @@
       "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
       "published": "2026-08-20 08:42:03",
       "timestamp": 1787215323
-    },
-    {
-      "id": "114395e2560e4cd3a51f69559238db2122a4f25e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "published": "2026-08-20 06:51:03",
-      "timestamp": 1787208663
     },
     {
       "id": "0d39a4eeb318e8dca2e0b44f1bfc7a12dc1f3327",
@@ -690,26 +710,6 @@
       "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication client and submit",
       "published": "2026-08-15 08:38:46",
       "timestamp": 1786783126
-    },
-    {
-      "id": "0720b8ab7240d788fc75ea75642a33e6093d4b63",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
-      "published": "2026-08-15 07:24:04",
-      "timestamp": 1786778644
-    },
-    {
-      "id": "e3214a036bd4dbf2d57b343ddc51b396678406aa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
-      "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
-      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and is then snapped up by another party. During the first half of 2026, 50,400",
-      "published": "2026-08-14 18:48:46",
-      "timestamp": 1786733326
     },
     {
       "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
