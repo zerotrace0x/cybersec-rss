@@ -1,6 +1,16 @@
 {
-  "generated_at": 1787260512,
+  "generated_at": 1787272209,
   "items": [
+    {
+      "id": "4f1659e516a2d2443096e05132a5b6eecd5fe83f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
+      "published": "2026-08-20 20:22:35",
+      "timestamp": 1787257355
+    },
     {
       "id": "e523897eaa4700e0cbc6abc6d7fdd0a461670eed",
       "source": "The Hacker News",
@@ -712,16 +722,6 @@
       "timestamp": 1786705020
     },
     {
-      "id": "b5f61921187676078c2d2297a74637fe8f7115be",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
-      "link": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
-      "summary": "Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks. In a statement shared with TechCrunch, the iPhone maker said it alerted an unspecified number of users targeted in 110 countries and that it has notified customers in over 150 countries to date. Apple began sending threat notifications to users in late 2021.",
-      "published": "2026-08-14 10:44:34",
-      "timestamp": 1786704274
-    },
-    {
       "id": "7d060e0696b4509cccd2e1d942833ac14419d38c",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -812,7 +812,7 @@
       "timestamp": 1785931200
     },
     {
-      "id": "22ec55d791b4efefdc3c5e941b6381a67bb656c4",
+      "id": "34f554695a09f1cdd8721d2b401a42eadd6a12b5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
@@ -862,7 +862,7 @@
       "timestamp": 1785758400
     },
     {
-      "id": "387634d963d96e6fdec8d2b8b8267f9dc2a23ec2",
+      "id": "434e123f5948af1b83f493f32fdec962feb66f47",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
