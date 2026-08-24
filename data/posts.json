@@ -1,6 +1,66 @@
 {
-  "generated_at": 1787563963,
+  "generated_at": 1787573981,
   "items": [
+    {
+      "id": "f0ea8a31c39a97d59382f49c4dc3c5db6380478c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+      "published": "2026-08-24 11:58:00",
+      "timestamp": 1787572680
+    },
+    {
+      "id": "a84d20ddcebb22fcfdeb8942edea374e2a1da9b6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+      "published": "2026-08-24 11:56:34",
+      "timestamp": 1787572594
+    },
+    {
+      "id": "ad9a1c01e8ad319789de5d8ab0d567ed3b3eea3e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+      "published": "2026-08-24 11:51:36",
+      "timestamp": 1787572296
+    },
+    {
+      "id": "0acb4b5a6bacdd3c799f77e19a595083c67fafdd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
+      "published": "2026-08-24 11:30:00",
+      "timestamp": 1787571000
+    },
+    {
+      "id": "c1d061fd872f3aef616d4e046125af0d200514b3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+      "published": "2026-08-24 10:45:12",
+      "timestamp": 1787568312
+    },
+    {
+      "id": "5010512bd0f3aa84ddb94113acb0e22b1dd90ad8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+      "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+      "published": "2026-08-24 09:42:05",
+      "timestamp": 1787564525
+    },
     {
       "id": "cefa2e090ef7bf1088f9db3674b55c048ec266c0",
       "source": "The Hacker News",
@@ -167,7 +227,7 @@
       "source_category": "General",
       "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
       "published": "2026-08-21 11:04:10",
       "timestamp": 1787310250
     },
@@ -272,16 +332,6 @@
       "timestamp": 1787245184
     },
     {
-      "id": "40c777127937b71f2f16cbb3523ac2af6720abf2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "published": "2026-08-20 14:39:48",
-      "timestamp": 1787236788
-    },
-    {
       "id": "93ceb70f86c6b007642e69cec60851a18c276574",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +340,6 @@
       "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
       "published": "2026-08-20 14:36:27",
       "timestamp": 1787236587
-    },
-    {
-      "id": "0d7b701241373780f6635e8a92dc6fa5aabe28cd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-      "published": "2026-08-20 14:01:11",
-      "timestamp": 1787234471
     },
     {
       "id": "274aa06575a8776ec5017c6246d468896316bc79",
@@ -672,26 +712,6 @@
       "timestamp": 1786990929
     },
     {
-      "id": "3b01df3dbdfabbcf0c3c62eef1695e2c8ac21733",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
-      "published": "2026-08-17 17:41:06",
-      "timestamp": 1786988466
-    },
-    {
-      "id": "22306c454c3ca7f667f97a4cbed719a1e21562ec",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely. So, nothing magical. Just a",
-      "published": "2026-08-17 13:23:51",
-      "timestamp": 1786973031
-    },
-    {
       "id": "3a2c5aa75e993a88134f31a34b67d8c29a8c16de",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -700,26 +720,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-62593 Ray-Project Ray Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Br",
       "published": "2026-08-17 12:00:00",
       "timestamp": 1786968000
-    },
-    {
-      "id": "e3814050ea9e0bb0017565cfddf9d733d8fd281b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
-      "published": "2026-08-17 11:58:00",
-      "timestamp": 1786967880
-    },
-    {
-      "id": "a2eabc257540823348c8d6fb5353728f0b8f024a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed remote code execution in the",
-      "published": "2026-08-17 10:52:34",
-      "timestamp": 1786963954
     },
     {
       "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
