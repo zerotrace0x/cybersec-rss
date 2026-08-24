@@ -1,6 +1,26 @@
 {
-  "generated_at": 1787595573,
+  "generated_at": 1787606153,
   "items": [
+    {
+      "id": "a8442095c7c1c56075bbc5665453d24d91646756",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
+      "published": "2026-08-24 21:14:30",
+      "timestamp": 1787606070
+    },
+    {
+      "id": "c4fc9be6ddd89f43a65b025e7a65cacfdde9addc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+      "published": "2026-08-24 19:26:32",
+      "timestamp": 1787599592
+    },
     {
       "id": "84e489183cebb7fc58eed11df2a3a95ee016dcfc",
       "source": "BleepingComputer",
@@ -70,6 +90,16 @@
       "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain Stealer) via ClearFake campaigns, which employ the ClickFix (aka FakeCaptcha)",
       "published": "2026-08-24 12:35:36",
       "timestamp": 1787574936
+    },
+    {
+      "id": "b15f6c036f4f831a5cb25456ae07b58f1398e93b",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21962 Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability mana",
+      "published": "2026-08-24 12:00:00",
+      "timestamp": 1787572800
     },
     {
       "id": "f0ea8a31c39a97d59382f49c4dc3c5db6380478c",
@@ -240,26 +270,6 @@
       "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
       "published": "2026-08-21 14:54:49",
       "timestamp": 1787324089
-    },
-    {
-      "id": "caeede7c6582119eafea55d2c87d7afd1e790849",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-      "published": "2026-08-21 14:00:10",
-      "timestamp": 1787320810
-    },
-    {
-      "id": "b46ce16af87f53e179f1bc3043ae10d01bec8979",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-      "published": "2026-08-21 13:39:35",
-      "timestamp": 1787319575
     },
     {
       "id": "aa5999fa9c7bfe5bc69e5fe2718d846f438984e5",
@@ -752,7 +762,7 @@
       "timestamp": 1786449600
     },
     {
-      "id": "0cbac8529e82e33261368e059fa9cf10498f7cb3",
+      "id": "a9ec68b190666cf8485d07ef5fa7d0e0534da2f6",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
@@ -842,7 +852,7 @@
       "timestamp": 1785868200
     },
     {
-      "id": "ab8828cafae400237e3e828ba00b69406dc188c8",
+      "id": "d65cfbfb9f2e55acc8c0cf20a729d961c7762b1d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
       "published": "2026-06-18 12:00:00",
       "timestamp": 1781784000
-    },
-    {
-      "id": "ea1a0ef627d7ea2275798ec67672329075953722",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for",
-      "published": "2026-06-16 12:00:00",
-      "timestamp": 1781611200
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
