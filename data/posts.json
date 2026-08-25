@@ -1,6 +1,76 @@
 {
-  "generated_at": 1787660410,
+  "generated_at": 1787671816,
   "items": [
+    {
+      "id": "64b83b0271a80ae1933342551290cf588dfdbbfc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+      "published": "2026-08-25 14:44:16",
+      "timestamp": 1787669056
+    },
+    {
+      "id": "114225e7a6845ad966d3b93cf9550e602f11b4ba",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident",
+      "published": "2026-08-25 14:07:37",
+      "timestamp": 1787666857
+    },
+    {
+      "id": "ea0b4cd174e2ffa00d2313bfd4c1dfe8bf1739b9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+      "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
+      "published": "2026-08-25 14:01:11",
+      "timestamp": 1787666471
+    },
+    {
+      "id": "1cf06e45db56728d51297e8c541f111805ca320f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
+      "published": "2026-08-25 13:51:58",
+      "timestamp": 1787665918
+    },
+    {
+      "id": "6d75ef8f51b5d3e30bdb5d3e40a13947e7ab1009",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
+      "published": "2026-08-25 13:19:41",
+      "timestamp": 1787663981
+    },
+    {
+      "id": "2ee1e72f0267f445dc80f884e7e2bc8095526931",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+      "published": "2026-08-25 13:00:00",
+      "timestamp": 1787662800
+    },
+    {
+      "id": "c7ea68553edfbae4561dfe94d7ffd567d6f66f1d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode. The vulnerability, tracked",
+      "published": "2026-08-25 12:43:51",
+      "timestamp": 1787661831
+    },
     {
       "id": "8111130563161b85bcbf4f61b37d91074fa6c507",
       "source": "BleepingComputer",
@@ -10,6 +80,46 @@
       "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
       "published": "2026-08-25 12:04:02",
       "timestamp": 1787659442
+    },
+    {
+      "id": "aa458714593ee6b66ed1a777a7563144f6d1b190",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based. Mirage2FA Campaign",
+      "published": "2026-08-25 11:56:15",
+      "timestamp": 1787658975
+    },
+    {
+      "id": "69dd777c5c1c023ff78feeee49298de13587615b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor\u2019s use of npm isn't to infect developers who install it, but to use the",
+      "published": "2026-08-25 11:52:43",
+      "timestamp": 1787658763
+    },
+    {
+      "id": "d03e0d516fb272ec47a081b276eefb217fcb7f9b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development",
+      "published": "2026-08-25 11:33:44",
+      "timestamp": 1787657624
+    },
+    {
+      "id": "7051ce4013490b6fc5d85dff6d1fc6eca328a050",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a",
+      "published": "2026-08-25 11:14:07",
+      "timestamp": 1787656447
     },
     {
       "id": "37b217ffd122a8478335c81bfdf8d78707ad38db",
@@ -222,16 +332,6 @@
       "timestamp": 1787558911
     },
     {
-      "id": "77fdb3f3f65cca29002aa3e3f04d76d886b3e7ad",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
-      "published": "2026-08-23 14:23:46",
-      "timestamp": 1787495026
-    },
-    {
       "id": "9f5b20721b99f66fedbb3db285118e2302176b42",
       "source": "The Hacker News",
       "source_category": "General",
@@ -242,26 +342,6 @@
       "timestamp": 1787409161
     },
     {
-      "id": "f0e4325c9a0fd117ac05be9567055215eec0947e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
-      "published": "2026-08-22 14:14:24",
-      "timestamp": 1787408064
-    },
-    {
-      "id": "5f2f13fff5884da05e8ab4e95f415fbbb92cf780",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
-      "published": "2026-08-22 13:00:09",
-      "timestamp": 1787403609
-    },
-    {
       "id": "5494ec04479974302040bad2a20b304dee667cad",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +350,6 @@
       "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
       "published": "2026-08-21 18:53:00",
       "timestamp": 1787338380
-    },
-    {
-      "id": "f2d77d3a7f49aef254b476d7a170dce5385bfa23",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
-      "published": "2026-08-21 18:01:30",
-      "timestamp": 1787335290
     },
     {
       "id": "4e584db674e226e9b570b64e5501681031c48229",
@@ -632,26 +702,6 @@
       "timestamp": 1787117965
     },
     {
-      "id": "5a212f1ed2b35bcdf8d646b2b8dc1283b944ea3e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
-      "published": "2026-08-18 17:47:22",
-      "timestamp": 1787075242
-    },
-    {
-      "id": "5641638c3e9e23b078b2c7619c3081f8f65532f0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
-      "published": "2026-08-18 17:44:05",
-      "timestamp": 1787075045
-    },
-    {
       "id": "9b727dc1427c82b31ab6c6e9ced74c8db8a789a3",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -662,36 +712,6 @@
       "timestamp": 1787072908
     },
     {
-      "id": "a5ff2a2d1be8dc3ce351933e3f809a2084957bd5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
-      "published": "2026-08-18 16:58:16",
-      "timestamp": 1787072296
-    },
-    {
-      "id": "5d97a716b00a392ae1c801570e3104670e648927",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding",
-      "published": "2026-08-18 12:38:36",
-      "timestamp": 1787056716
-    },
-    {
-      "id": "90eba58f81e751e6b6812ea948740f64fabc93a5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News. \"Tasking flows through SharePoint Online file",
-      "published": "2026-08-18 12:38:20",
-      "timestamp": 1787056700
-    },
-    {
       "id": "604475fac5d058050bedbc947c2788092ed73720",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -700,26 +720,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability CVE-2026-55040 Microsoft SharePoint Weak Authentication Vulnerability CVE-2026-59310 Broadcom VMware vCenter Path Traversal Vulnerability CVE-2026-65400 Apple macOS Improper Authentication Vulnerability These types of vulnerabilities are a frequent attack vector for",
       "published": "2026-08-18 12:00:00",
       "timestamp": 1787054400
-    },
-    {
-      "id": "a99f8983147ce43744bf513c5b52d13f9d10d917",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
-      "published": "2026-08-18 11:30:00",
-      "timestamp": 1787052600
-    },
-    {
-      "id": "5b85a12ad7398640973e3749b9d3829c0dc53952",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
-      "published": "2026-08-18 11:20:00",
-      "timestamp": 1787052000
     },
     {
       "id": "3a2c5aa75e993a88134f31a34b67d8c29a8c16de",
