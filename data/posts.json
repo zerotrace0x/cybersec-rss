@@ -1,6 +1,56 @@
 {
-  "generated_at": 1787760414,
+  "generated_at": 1787772386,
   "items": [
+    {
+      "id": "6f6e2361585c719e0d2a40b6781df4c88479e33a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+      "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
+      "published": "2026-08-26 18:48:24",
+      "timestamp": 1787770104
+    },
+    {
+      "id": "f0b80046b42bf33245ccabf42419c76f5f93b014",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "When AI infrastructure becomes the target: Securing gateways and control points",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
+      "summary": "Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity. The post When AI infrastructure becomes the target: Securing gateways and control points appeared first on Microsoft Security Blog.",
+      "published": "2026-08-26 16:43:53",
+      "timestamp": 1787762633
+    },
+    {
+      "id": "10cb702e51371add0adcfd22182bcd28659e0253",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The activity has been attributed to a Chinese state-sponsored group known as QTFY, employed by Nanjing Xinjiuwei Network Technology Company (\u5357\u4eac\u946b\u7396\u7ef4\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8).&",
+      "published": "2026-08-26 16:42:03",
+      "timestamp": 1787762523
+    },
+    {
+      "id": "561de63c29c568ba16f71ab7104828416007595c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Meta agrees to $18 billion settlement over teen social media harms",
+      "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+      "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teenagers. [...]",
+      "published": "2026-08-26 16:41:05",
+      "timestamp": 1787762465
+    },
+    {
+      "id": "9dd7e3a850b5f50dd832ce8ceee3780241ed98b4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described the cyber espionage actor as among the most active Iranian APT groups in 2026. Nimbus Manticore (aka",
+      "published": "2026-08-26 15:35:05",
+      "timestamp": 1787758505
+    },
     {
       "id": "d92ad84398baaec36c0ff570dce1e9a791ca3ece",
       "source": "BleepingComputer",
@@ -80,6 +130,16 @@
       "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
       "published": "2026-08-26 12:06:28",
       "timestamp": 1787745988
+    },
+    {
+      "id": "e000a4c8382e054808b9b85504de42db1ccf94d7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2015-3246 Red Hat Libuser Race Condition Vulnerability CVE-2015-5287 Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability CVE-2019-1068 Microsoft SQL Server Remote Code Execution Vulnerability CVE-2021-23758 Ajax.NET Professional Deserialization of Untrusted Data Vulnerability CVE-2022-0995 Linux Kernel Out-of-Bounds Write Vulnerability CVE",
+      "published": "2026-08-26 12:00:00",
+      "timestamp": 1787745600
     },
     {
       "id": "816bc18663aab7f03d9cd817e5135c728bb093a6",
@@ -262,16 +322,6 @@
       "timestamp": 1787666471
     },
     {
-      "id": "1cf06e45db56728d51297e8c541f111805ca320f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
-      "published": "2026-08-25 13:51:58",
-      "timestamp": 1787665918
-    },
-    {
       "id": "6d75ef8f51b5d3e30bdb5d3e40a13947e7ab1009",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +330,6 @@
       "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
       "published": "2026-08-25 13:19:41",
       "timestamp": 1787663981
-    },
-    {
-      "id": "2ee1e72f0267f445dc80f884e7e2bc8095526931",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-      "published": "2026-08-25 13:00:00",
-      "timestamp": 1787662800
     },
     {
       "id": "c7ea68553edfbae4561dfe94d7ffd567d6f66f1d",
@@ -682,26 +722,6 @@
       "timestamp": 1787225168
     },
     {
-      "id": "33d3d046ae0f719a82759b6a1b6529be7dcd4ad1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus. The chain, tracked as GHSA-p9r8-2q67-fp86 and rated 9.4 on the CVSS v3.1 scoring system, impacts AIT-GUI",
-      "published": "2026-08-20 11:05:11",
-      "timestamp": 1787223911
-    },
-    {
-      "id": "aa364f99b64538b48c2015aa68aa2016484de80f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
-      "published": "2026-08-20 10:38:28",
-      "timestamp": 1787222308
-    },
-    {
       "id": "d713eadcfaac77ae8fc73e20a8f68add8ee99328",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -872,16 +892,6 @@
       "timestamp": 1785868200
     },
     {
-      "id": "d65cfbfb9f2e55acc8c0cf20a729d961c7762b1d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "128 Seconds to disruption: Microsoft Defender stops ransomware at QNET",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/129-seconds-disruption-microsoft-defender-stops-ransomware-qnet/",
-      "summary": "Microsoft Defender automatically isolated a compromised QNET endpoint in 128 seconds, stopping a multi-stage attack before the payload could persist or spread. The post 128 Seconds to disruption: Microsoft Defender stops ransomware at QNET appeared first on Microsoft Security Blog.",
-      "published": "2026-08-04 17:54:04",
-      "timestamp": 1785866044
-    },
-    {
       "id": "70bbcc6b347fce08d849e1b38b072db538443b3f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1017,7 +1027,7 @@
       "source_category": "Blue Team",
       "title": "CISA Urges SharePoint Hardening After New Exploitations",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
-      "summary": "Update August 18, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-55040 to its Known Exploited Vulnerabilities (KEV) Catalog on August 18, 2026. Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the KEV Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-58644 to its KEV Catalog on July 16, 2026. CISA is aware of active exploitation of vulnerabilities CVE-2026-32201, CV",
+      "summary": "Update August 26, 2026: CISA has updated this Alert to clarify guidance on avoiding the direct exposure of SharePoint Servers to the internet. Update August 18, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-55040 to its Known Exploited Vulnerabilities (KEV) Catalog on August 18, 2026. Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the KEV Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
@@ -1062,22 +1072,22 @@
       "timestamp": 1783513899
     },
     {
-      "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
-      "published": "2026-07-07 12:00:00",
-      "timestamp": 1783425600
-    },
-    {
       "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
+      "published": "2026-07-07 12:00:00",
+      "timestamp": 1783425600
+    },
+    {
+      "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
       "published": "2026-07-07 12:00:00",
       "timestamp": 1783425600
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-67038 Lantronix EDS5000 Code Injection Vulnerability CVE-2026-34908 Ubiquiti UniFi OS Improper Access Control Vulnerability CVE-2026-34909 Ubiquiti UniFi OS Path Traversal Vulnerability CVE-2026-34910 Ubiquiti UniFi OS Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose s",
       "published": "2026-06-23 12:00:00",
       "timestamp": 1782216000
-    },
-    {
-      "id": "6af95f2f3793afa4ea627bfb5346ac27dafbb324",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
-      "published": "2026-06-18 12:00:00",
-      "timestamp": 1781784000
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
