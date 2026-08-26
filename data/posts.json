@@ -1,6 +1,76 @@
 {
-  "generated_at": 1787746925,
+  "generated_at": 1787760414,
   "items": [
+    {
+      "id": "d92ad84398baaec36c0ff570dce1e9a791ca3ece",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
+      "published": "2026-08-26 15:19:21",
+      "timestamp": 1787757561
+    },
+    {
+      "id": "89c487268e85eb32938ae151a5919a87b4cc9d9f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
+      "published": "2026-08-26 14:47:51",
+      "timestamp": 1787755671
+    },
+    {
+      "id": "30d46e38266a896b8c26411ff4b467705b796411",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+      "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
+      "published": "2026-08-26 14:17:59",
+      "timestamp": 1787753879
+    },
+    {
+      "id": "2f21f2bea746b56a2fa0dcce54f47f2c36576c11",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Snowflake ends service-account passwords. Now comes the hard part",
+      "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+      "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...]",
+      "published": "2026-08-26 14:01:11",
+      "timestamp": 1787752871
+    },
+    {
+      "id": "58406d3c47406ef1e348c34a0793056c8753ec4e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a subscription-based phishing platform that",
+      "published": "2026-08-26 13:44:31",
+      "timestamp": 1787751871
+    },
+    {
+      "id": "d25404a8fe01c30c32cf25eb74d89fffd67e3f32",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ubiquiti patches three max severity security vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+      "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
+      "published": "2026-08-26 13:17:54",
+      "timestamp": 1787750274
+    },
+    {
+      "id": "9a7ddb35734f2fab0f71448c10055e56d5c0135d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Both organizations were fully compromised at the domain level, and in both, the red team also",
+      "published": "2026-08-26 13:07:02",
+      "timestamp": 1787749622
+    },
     {
       "id": "3f182a4ba643e838cde7473032d05363ae6f71fa",
       "source": "BleepingComputer",
@@ -10,6 +80,16 @@
       "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
       "published": "2026-08-26 12:06:28",
       "timestamp": 1787745988
+    },
+    {
+      "id": "816bc18663aab7f03d9cd817e5135c728bb093a6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem from the same unsafe deserialization in the mwEmbedLoader.php endpoint of the mwEmbed player",
+      "published": "2026-08-26 11:55:00",
+      "timestamp": 1787745300
     },
     {
       "id": "3521abaf689b93ab4cb53667d35ad86bba755af1",
@@ -65,7 +145,7 @@
       "id": "177c0d259f870131d3e27d3474b61f39eaee8698",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
       "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
       "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an unsigned 64-bit Windows dynamic-link library (DLL) of 59,904 bytes, built to be side-loaded into&",
       "published": "2026-08-26 07:12:55",
@@ -222,16 +302,6 @@
       "timestamp": 1787661831
     },
     {
-      "id": "8111130563161b85bcbf4f61b37d91074fa6c507",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-      "published": "2026-08-25 12:04:02",
-      "timestamp": 1787659442
-    },
-    {
       "id": "d4d0e65a3be8221f58c95ddcc67c1782c27092c0",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -282,16 +352,6 @@
       "timestamp": 1787656447
     },
     {
-      "id": "37b217ffd122a8478335c81bfdf8d78707ad38db",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
-      "published": "2026-08-25 10:53:20",
-      "timestamp": 1787655200
-    },
-    {
       "id": "85f5c11d99928d5da5876e6f75ee269d9c5c900c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,36 +370,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to",
       "published": "2026-08-25 06:12:35",
       "timestamp": 1787638355
-    },
-    {
-      "id": "a8442095c7c1c56075bbc5665453d24d91646756",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
-      "published": "2026-08-24 21:14:30",
-      "timestamp": 1787606070
-    },
-    {
-      "id": "c4fc9be6ddd89f43a65b025e7a65cacfdde9addc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
-      "published": "2026-08-24 19:26:32",
-      "timestamp": 1787599592
-    },
-    {
-      "id": "84e489183cebb7fc58eed11df2a3a95ee016dcfc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-      "published": "2026-08-24 17:56:24",
-      "timestamp": 1787594184
     },
     {
       "id": "f0ea8a31c39a97d59382f49c4dc3c5db6380478c",
@@ -670,36 +700,6 @@
       "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
       "published": "2026-08-20 10:38:28",
       "timestamp": 1787222308
-    },
-    {
-      "id": "808d6d5e50c93c9d10fdb0ca350de3e72fc57287",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
-      "published": "2026-08-20 08:42:03",
-      "timestamp": 1787215323
-    },
-    {
-      "id": "0d39a4eeb318e8dca2e0b44f1bfc7a12dc1f3327",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type. \"The flaw lives in the Forms module's File",
-      "published": "2026-08-20 06:04:34",
-      "timestamp": 1787205874
-    },
-    {
-      "id": "b6c0ebfdae7334a6f9c13d764094d31df6596f18",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
-      "published": "2026-08-19 19:02:40",
-      "timestamp": 1787166160
     },
     {
       "id": "d713eadcfaac77ae8fc73e20a8f68add8ee99328",
