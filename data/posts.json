@@ -1,6 +1,126 @@
 {
-  "generated_at": 1787875656,
+  "generated_at": 1787927878,
   "items": [
+    {
+      "id": "3a754b38df2c7c76bb040506d7c5f5e41ef48ea4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
+      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]",
+      "published": "2026-08-28 14:00:10",
+      "timestamp": 1787925610
+    },
+    {
+      "id": "be7d689db0fbd42aaf18a2f22d42808976df1b02",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+      "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+      "published": "2026-08-28 12:58:43",
+      "timestamp": 1787921923
+    },
+    {
+      "id": "3e41ff61e74b1d869cfd17334bebca178d55eca9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+      "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
+      "published": "2026-08-28 12:07:24",
+      "timestamp": 1787918844
+    },
+    {
+      "id": "693a49a012a06f365d7de08824afadb4726b6c83",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+      "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
+      "published": "2026-08-28 11:46:57",
+      "timestamp": 1787917617
+    },
+    {
+      "id": "96139aa7fa1759735439eaf7e6a2c2c27f9e531d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Key Reasons Why Identity Fabric Matters in 2026",
+      "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and",
+      "published": "2026-08-28 11:30:00",
+      "timestamp": 1787916600
+    },
+    {
+      "id": "c0631c7ad24c956e77812c83a6e87d4a174dcdc5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+      "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
+      "published": "2026-08-28 11:20:32",
+      "timestamp": 1787916032
+    },
+    {
+      "id": "66e6091cbb903014228f9ad8e5a67aef3a7e18f2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+      "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.",
+      "published": "2026-08-28 10:58:29",
+      "timestamp": 1787914709
+    },
+    {
+      "id": "285bb423e8a1877a860dfd74b7b29bad847a33bb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ServiceNow warns of three max severity security vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+      "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
+      "published": "2026-08-28 10:29:42",
+      "timestamp": 1787912982
+    },
+    {
+      "id": "8f0e7e1353f7fc5091dddc407aa5437cd458feb1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+      "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WHM. cPanel described the issue as a critical security vulnerability and said that an",
+      "published": "2026-08-28 09:45:15",
+      "timestamp": 1787910315
+    },
+    {
+      "id": "014f3d4fea0481da160ed871c4e38a9c52484db6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+      "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
+      "published": "2026-08-28 09:10:13",
+      "timestamp": 1787908213
+    },
+    {
+      "id": "780d78a8b156e05072f777d1e19cdbfa9c6df3b3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+      "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of confirmed customer incidents and is treating this matter with the highest priority.\" An",
+      "published": "2026-08-28 08:25:36",
+      "timestamp": 1787905536
+    },
+    {
+      "id": "796347314667374657f2d226ad263a042576d39f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
+      "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and T\u00fcrkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed HOOKEDGE, a lightweight Windows batch script that's distributed via",
+      "published": "2026-08-28 08:20:59",
+      "timestamp": 1787905259
+    },
     {
       "id": "46656074d814f11677029ad42d0c083c757b9d83",
       "source": "BleepingComputer",
@@ -97,7 +217,7 @@
       "source_category": "General",
       "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
       "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindguard. The latest version of",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindgard. The latest version of",
       "published": "2026-08-27 13:39:56",
       "timestamp": 1787837996
     },
@@ -222,16 +342,6 @@
       "timestamp": 1787822210
     },
     {
-      "id": "83186c4f857a36c02540d136ee52b61d04e02e7e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ATF confirms \u201cmajor incident\u201d after recent Qilin breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
-      "published": "2026-08-27 08:13:50",
-      "timestamp": 1787818430
-    },
-    {
       "id": "d70f74b3237ab887fd54ed8f4f37579b15eab51b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -250,26 +360,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2019-1068 - A remote code execution vulnerability in",
       "published": "2026-08-27 07:05:28",
       "timestamp": 1787814328
-    },
-    {
-      "id": "b7855a2bcb4f2ebcfa608d9208b19fd004b58e83",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
-      "published": "2026-08-26 21:33:20",
-      "timestamp": 1787780000
-    },
-    {
-      "id": "6f6e2361585c719e0d2a40b6781df4c88479e33a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-      "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
-      "published": "2026-08-26 18:48:24",
-      "timestamp": 1787770104
     },
     {
       "id": "f0b80046b42bf33245ccabf42419c76f5f93b014",
@@ -292,16 +382,6 @@
       "timestamp": 1787762523
     },
     {
-      "id": "561de63c29c568ba16f71ab7104828416007595c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Meta agrees to $18 billion settlement over teen social media harms",
-      "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-      "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teenagers. [...]",
-      "published": "2026-08-26 16:41:05",
-      "timestamp": 1787762465
-    },
-    {
       "id": "9dd7e3a850b5f50dd832ce8ceee3780241ed98b4",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +390,6 @@
       "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described the cyber espionage actor as among the most active Iranian APT groups in 2026. Nimbus Manticore (aka",
       "published": "2026-08-26 15:35:05",
       "timestamp": 1787758505
-    },
-    {
-      "id": "d92ad84398baaec36c0ff570dce1e9a791ca3ece",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Boston Scientific says cyberattack disrupted operations globally",
-      "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
-      "published": "2026-08-26 15:19:21",
-      "timestamp": 1787757561
     },
     {
       "id": "58406d3c47406ef1e348c34a0793056c8753ec4e",
@@ -662,26 +732,6 @@
       "timestamp": 1787338380
     },
     {
-      "id": "4e584db674e226e9b570b64e5501681031c48229",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.sys (Boot Time Removal Tool), is a",
-      "published": "2026-08-21 15:52:10",
-      "timestamp": 1787327530
-    },
-    {
-      "id": "72bb0fed0042a911ef303ccc4e411ceec2bac800",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
-      "published": "2026-08-21 15:41:44",
-      "timestamp": 1787326904
-    },
-    {
       "id": "aa5999fa9c7bfe5bc69e5fe2718d846f438984e5",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -690,56 +740,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-73570 Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federa",
       "published": "2026-08-21 12:00:00",
       "timestamp": 1787313600
-    },
-    {
-      "id": "9cfd801b58a520040ffc916e070ceccc5cfa35b3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "published": "2026-08-21 11:21:39",
-      "timestamp": 1787311299
-    },
-    {
-      "id": "ddf3bf0d52b78d220cf5111970f2fe2941f1161c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
-      "published": "2026-08-21 10:03:11",
-      "timestamp": 1787306591
-    },
-    {
-      "id": "955eac774121dd2ef353393fc14ac934cf312600",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
-      "published": "2026-08-21 07:04:25",
-      "timestamp": 1787295865
-    },
-    {
-      "id": "53070e21b1881cd9206bd908bf60a722aef7fcf9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
-      "published": "2026-08-21 06:06:11",
-      "timestamp": 1787292371
-    },
-    {
-      "id": "4f1659e516a2d2443096e05132a5b6eecd5fe83f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
-      "published": "2026-08-20 20:22:35",
-      "timestamp": 1787257355
     },
     {
       "id": "8d084ba6bbafc477be06f74b88883eeb05f06662",
