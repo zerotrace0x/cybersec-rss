@@ -1,6 +1,16 @@
 {
-  "generated_at": 1787977593,
+  "generated_at": 1788004211,
   "items": [
+    {
+      "id": "09232a7f22c2a1a4801edbb3752b04138ae617dc",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+      "summary": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The post TerminalFix campaign deploys a reverse tunnel through multistage intrusion appeared first on Microsoft Security Blog.",
+      "published": "2026-08-29 03:43:27",
+      "timestamp": 1787975007
+    },
     {
       "id": "5cc6b12fb7135cba8110bf16ad1832f3bfaba6ee",
       "source": "BleepingComputer",
@@ -900,16 +910,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-63077 JetBrains TeamCity Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal",
       "published": "2026-08-05 12:00:00",
       "timestamp": 1785931200
-    },
-    {
-      "id": "22ec55d791b4efefdc3c5e941b6381a67bb656c4",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-      "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating worm appeared first on Microsoft Security Blog.",
-      "published": "2026-08-04 23:46:41",
-      "timestamp": 1785887201
     },
     {
       "id": "70bbcc6b347fce08d849e1b38b072db538443b3f",
