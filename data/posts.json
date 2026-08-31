@@ -1,6 +1,56 @@
 {
-  "generated_at": 1788194213,
+  "generated_at": 1788213898,
   "items": [
+    {
+      "id": "84e4e6389b566c88d788ac8d89639d29d545c954",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+      "published": "2026-08-31 20:47:54",
+      "timestamp": 1788209274
+    },
+    {
+      "id": "d523d408aa37624ee9b0cece4709f99ddafee210",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+      "published": "2026-08-31 18:51:04",
+      "timestamp": 1788202264
+    },
+    {
+      "id": "ca5ee28db3d6ce182c82e6208084dcfbb06abf31",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession. The ongoing insider threat is part of what has been described as the IT worker scheme,",
+      "published": "2026-08-31 17:24:28",
+      "timestamp": 1788197068
+    },
+    {
+      "id": "0916b4bd9429102910676029036c7260a996bcd2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+      "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
+      "published": "2026-08-31 16:56:57",
+      "timestamp": 1788195417
+    },
+    {
+      "id": "bc1fe0ad7037f725f87127fc011dd64f7936773d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI confirms ChatGPT outage as users report errors",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+      "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
+      "published": "2026-08-31 16:50:50",
+      "timestamp": 1788195050
+    },
     {
       "id": "b0efd664f07d902da8d09aea7738da931098a673",
       "source": "BleepingComputer",
@@ -212,16 +262,6 @@
       "timestamp": 1787975007
     },
     {
-      "id": "5cc6b12fb7135cba8110bf16ad1832f3bfaba6ee",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
-      "published": "2026-08-28 22:40:17",
-      "timestamp": 1787956817
-    },
-    {
       "id": "166f221f879585cac48efc3db157191fef7a793e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -242,26 +282,6 @@
       "timestamp": 1787949527
     },
     {
-      "id": "d52b9a92248c0e57231ad6483556a9f560e67269",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-      "published": "2026-08-28 19:08:26",
-      "timestamp": 1787944106
-    },
-    {
-      "id": "209e5019576239b832506904cc0c21b6e37bc73b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-      "published": "2026-08-28 18:18:55",
-      "timestamp": 1787941135
-    },
-    {
       "id": "f1494308a2aad0383592b012d4d0151ffa331010",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,16 +290,6 @@
       "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration, which could be used to execute arbitrary Java code inside the application's",
       "published": "2026-08-28 17:12:15",
       "timestamp": 1787937135
-    },
-    {
-      "id": "ae2ad9240b85e3a113bc016f69676cb0887de92d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
-      "link": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
-      "summary": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated \u00a3980,812 ($1.3 million) over three years. [...]",
-      "published": "2026-08-28 16:36:47",
-      "timestamp": 1787935007
     },
     {
       "id": "73674924713bc951514a70a8d9ffe4b8ba64c4b9",
@@ -730,16 +740,6 @@
       "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based. Mirage2FA Campaign",
       "published": "2026-08-25 11:56:15",
       "timestamp": 1787658975
-    },
-    {
-      "id": "69dd777c5c1c023ff78feeee49298de13587615b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor\u2019s use of npm isn't to infect developers who install it, but to use the",
-      "published": "2026-08-25 11:52:43",
-      "timestamp": 1787658763
     },
     {
       "id": "b15f6c036f4f831a5cb25456ae07b58f1398e93b",
