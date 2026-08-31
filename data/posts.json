@@ -1,13 +1,123 @@
 {
-  "generated_at": 1788166675,
+  "generated_at": 1788194213,
   "items": [
+    {
+      "id": "b0efd664f07d902da8d09aea7738da931098a673",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+      "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]",
+      "published": "2026-08-31 14:52:03",
+      "timestamp": 1788187923
+    },
+    {
+      "id": "e9cf47d385736150e5565f2c8f45c8eb4f41375e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "File servers are here to stay. Here\u2019s how to manage them securely",
+      "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+      "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-privilege access. [...]",
+      "published": "2026-08-31 14:00:10",
+      "timestamp": 1788184810
+    },
+    {
+      "id": "8c93993db6d4fe5bb1a0f257350d507b600e9ea8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept",
+      "published": "2026-08-31 13:50:00",
+      "timestamp": 1788184200
+    },
+    {
+      "id": "456ebbd6e3aaf29f670103e4beb94415977f29e4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+      "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
+      "published": "2026-08-31 13:30:01",
+      "timestamp": 1788183001
+    },
+    {
+      "id": "a520623a6678c57ef0b173d24fe4e657529633f6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
+      "published": "2026-08-31 12:14:00",
+      "timestamp": 1788178440
+    },
+    {
+      "id": "0fe5d83ecc500c6beee6f3b476a4fbe1f444b117",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/08/31/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-81578 PaperCut NG/MF Missing Authentication for Critical Function Vulnerability CVE-2026-82078 PaperCut NG/MF Unsafe Reflection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates ",
+      "published": "2026-08-31 12:00:00",
+      "timestamp": 1788177600
+    },
+    {
+      "id": "c13dd08366f720e589bcbee9c46fb2e0e809e74c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its",
+      "published": "2026-08-31 11:47:24",
+      "timestamp": 1788176844
+    },
+    {
+      "id": "bfeb6637a6d4f6053d9c35c34bc6b32f5174411b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent\u2019s access is legitimate. AI has moved from the browser tab to the",
+      "published": "2026-08-31 11:31:47",
+      "timestamp": 1788175907
+    },
+    {
+      "id": "64aaf4a89abff2e785f86e61ad9f9fdf1628e264",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+      "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
+      "published": "2026-08-31 10:23:46",
+      "timestamp": 1788171826
+    },
+    {
+      "id": "85afa000059ec8e8ad525eb374fe6320aa1cdfaa",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
+      "link": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
+      "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
+      "published": "2026-08-31 09:22:47",
+      "timestamp": 1788168167
+    },
+    {
+      "id": "16660e2fd84af43c982c8fa4491aa184b900d028",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia, the incident response firm that investigated the intrusion, said the actor",
+      "published": "2026-08-31 09:04:55",
+      "timestamp": 1788167095
+    },
     {
       "id": "b6f340c384e8ef664e795756234f28ca66591db6",
       "source": "BleepingComputer",
       "source_category": "General",
       "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-      "summary": "Microsoft asked customers this week to ignore incorrect alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
+      "summary": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
       "published": "2026-08-31 08:29:42",
       "timestamp": 1788164982
     },
@@ -202,26 +312,6 @@
       "timestamp": 1787930846
     },
     {
-      "id": "3a754b38df2c7c76bb040506d7c5f5e41ef48ea4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]",
-      "published": "2026-08-28 14:00:10",
-      "timestamp": 1787925610
-    },
-    {
-      "id": "be7d689db0fbd42aaf18a2f22d42808976df1b02",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
-      "published": "2026-08-28 12:58:43",
-      "timestamp": 1787921923
-    },
-    {
       "id": "3e41ff61e74b1d869cfd17334bebca178d55eca9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +320,6 @@
       "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
       "published": "2026-08-28 12:07:24",
       "timestamp": 1787918844
-    },
-    {
-      "id": "693a49a012a06f365d7de08824afadb4726b6c83",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
-      "published": "2026-08-28 11:46:57",
-      "timestamp": 1787917617
     },
     {
       "id": "96139aa7fa1759735439eaf7e6a2c2c27f9e531d",
@@ -272,16 +352,6 @@
       "timestamp": 1787914709
     },
     {
-      "id": "285bb423e8a1877a860dfd74b7b29bad847a33bb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
-      "published": "2026-08-28 10:29:42",
-      "timestamp": 1787912982
-    },
-    {
       "id": "8f0e7e1353f7fc5091dddc407aa5437cd458feb1",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +360,6 @@
       "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WHM. cPanel described the issue as a critical security vulnerability and said that an",
       "published": "2026-08-28 09:45:15",
       "timestamp": 1787910315
-    },
-    {
-      "id": "014f3d4fea0481da160ed871c4e38a9c52484db6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-      "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
-      "published": "2026-08-28 09:10:13",
-      "timestamp": 1787908213
     },
     {
       "id": "780d78a8b156e05072f777d1e19cdbfa9c6df3b3",
@@ -682,56 +742,6 @@
       "timestamp": 1787658763
     },
     {
-      "id": "d03e0d516fb272ec47a081b276eefb217fcb7f9b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development",
-      "published": "2026-08-25 11:33:44",
-      "timestamp": 1787657624
-    },
-    {
-      "id": "7051ce4013490b6fc5d85dff6d1fc6eca328a050",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a",
-      "published": "2026-08-25 11:14:07",
-      "timestamp": 1787656447
-    },
-    {
-      "id": "85f5c11d99928d5da5876e6f75ee269d9c5c900c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below - CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation",
-      "published": "2026-08-25 08:34:07",
-      "timestamp": 1787646847
-    },
-    {
-      "id": "3da0f2acfa50444a591e00c74aa8c759fea9d8e3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to",
-      "published": "2026-08-25 06:12:35",
-      "timestamp": 1787638355
-    },
-    {
-      "id": "f0ea8a31c39a97d59382f49c4dc3c5db6380478c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-      "published": "2026-08-24 17:41:30",
-      "timestamp": 1787593290
-    },
-    {
       "id": "b15f6c036f4f831a5cb25456ae07b58f1398e93b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1092,22 +1102,22 @@
       "timestamp": 1783513899
     },
     {
-      "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
-      "published": "2026-07-07 12:00:00",
-      "timestamp": 1783425600
-    },
-    {
       "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
+      "published": "2026-07-07 12:00:00",
+      "timestamp": 1783425600
+    },
+    {
+      "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
       "published": "2026-07-07 12:00:00",
       "timestamp": 1783425600
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48558 SimpleHelp Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive ",
       "published": "2026-06-29 12:00:00",
       "timestamp": 1782734400
-    },
-    {
-      "id": "0e6dab6e5581db3fa07c1f2eae7877dc6784c591",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-12569 PTC Windchill and FlexPLM Improper Input Validation Vulnerability CVE-2026-20230 Cisco Unified Communications Manager Server-Side Request Forgery (SSRF) Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: ",
-      "published": "2026-06-25 12:00:00",
-      "timestamp": 1782388800
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
