@@ -1,6 +1,36 @@
 {
-  "generated_at": 1788372594,
+  "generated_at": 1788389558,
   "items": [
+    {
+      "id": "d2d01510e09a240fc8dbcfc1b8e6fba12becb540",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+      "published": "2026-09-02 21:00:13",
+      "timestamp": 1788382813
+    },
+    {
+      "id": "5b2f09c3918c4994eb54e4638b46e234b79a7580",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
+      "published": "2026-09-02 19:28:46",
+      "timestamp": 1788377326
+    },
+    {
+      "id": "8cd3ff0a44a39575ed81c7a4caab0bc88abdb9bc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and telecommunications services) early access to advanced models that help them",
+      "published": "2026-09-02 18:27:49",
+      "timestamp": 1788373669
+    },
     {
       "id": "f189bf340e66f0db9e02defba7bb3ed1c729949e",
       "source": "The Hacker News",
@@ -80,6 +110,16 @@
       "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
       "published": "2026-09-02 12:22:02",
       "timestamp": 1788351722
+    },
+    {
+      "id": "278b4ec0c6cdaf29d0b25b1f7a45541b6798a7f9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/02/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9586 Sangoma Switchvox SQL Injection Vulnerability CVE-2026-48710 Kludex Starlette HTTP Request/Response Smuggling Vulnerability CVE-2026-49869 Kestra OSS OS Command Injection Vulnerability CVE-2026-59822 BerriAI LiteLLM Improper Authentication Vulnerability CVE-2026-82329 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-83548 SonicWall",
+      "published": "2026-09-02 12:00:00",
+      "timestamp": 1788350400
     },
     {
       "id": "dc4322b21eb57436f63ae1084bfa9d6fd143f00b",
@@ -322,16 +362,6 @@
       "timestamp": 1788268138
     },
     {
-      "id": "5fb22536cb86506f463ba147db8b4929500692d1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-      "published": "2026-09-01 12:38:35",
-      "timestamp": 1788266315
-    },
-    {
       "id": "3984f56551b03662349e1b0ab642d7233b8d1025",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,16 +370,6 @@
       "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft\u2019s team observed last year, accounting",
       "published": "2026-09-01 11:30:00",
       "timestamp": 1788262200
-    },
-    {
-      "id": "8521ff9d8efc48135e90553aeef5c35a80e931a1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
-      "published": "2026-09-01 09:15:07",
-      "timestamp": 1788254107
     },
     {
       "id": "6cbddbf89530113cf37b0285dcb4c47bd9432636",
@@ -722,16 +742,6 @@
       "timestamp": 1787828655
     },
     {
-      "id": "7ca8adadfe9543c43d79601a946e4d307c621592",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-      "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government notices, public health materials, real estate-related content, and other topics,\" Acronis Threat",
-      "published": "2026-08-27 11:00:57",
-      "timestamp": 1787828457
-    },
-    {
       "id": "f0b80046b42bf33245ccabf42419c76f5f93b014",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -822,7 +832,7 @@
       "timestamp": 1787140800
     },
     {
-      "id": "9b727dc1427c82b31ab6c6e9ced74c8db8a789a3",
+      "id": "5d8321a2ffda78dac302bc099d3479dfdf75b554",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
@@ -1112,22 +1122,22 @@
       "timestamp": 1783513899
     },
     {
-      "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
-      "published": "2026-07-07 12:00:00",
-      "timestamp": 1783425600
-    },
-    {
       "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
+      "published": "2026-07-07 12:00:00",
+      "timestamp": 1783425600
+    },
+    {
+      "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48282 Adobe ColdFusion Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive B",
       "published": "2026-07-07 12:00:00",
       "timestamp": 1783425600
     },
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45659 Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
       "published": "2026-07-01 12:00:00",
       "timestamp": 1782907200
-    },
-    {
-      "id": "3bbe534b7acf19487abeb4ac237679fae9bf6967",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48558 SimpleHelp Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive ",
-      "published": "2026-06-29 12:00:00",
-      "timestamp": 1782734400
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
