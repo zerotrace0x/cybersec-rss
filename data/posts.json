@@ -1,6 +1,96 @@
 {
-  "generated_at": 1788440571,
+  "generated_at": 1788458926,
   "items": [
+    {
+      "id": "5630285af0a69986a5e5305d7a7a58e3c2b42253",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog.",
+      "published": "2026-09-03 16:00:00",
+      "timestamp": 1788451200
+    },
+    {
+      "id": "2971bcd303efabaad04f3f92764c62d5c78ef7e5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version. The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is",
+      "published": "2026-09-03 15:52:07",
+      "timestamp": 1788450727
+    },
+    {
+      "id": "048fe107635a13c3ff9075fb82ad3b575b8b3aca",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access Brokers (IABs) by turning compromised systems into highly valuable commercial",
+      "published": "2026-09-03 15:26:47",
+      "timestamp": 1788449207
+    },
+    {
+      "id": "d06216ef4073b21304456c5b3083fbd5513ef2e6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+      "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+      "published": "2026-09-03 15:22:33",
+      "timestamp": 1788448953
+    },
+    {
+      "id": "f3a2e69c3ffb069b173bce3e4df754f8084d4454",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+      "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+      "published": "2026-09-03 15:13:29",
+      "timestamp": 1788448409
+    },
+    {
+      "id": "b4a7fb1fbac24cbf31c8d893b13e63df83d8e16f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Anthropic confirms Claude is down, multiple models affected",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+      "published": "2026-09-03 15:02:52",
+      "timestamp": 1788447772
+    },
+    {
+      "id": "11e9087d2d0b98720767d9cc04a30d9370ccf803",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+      "published": "2026-09-03 14:52:20",
+      "timestamp": 1788447140
+    },
+    {
+      "id": "cecf858cb27df024a39451b55b26c1c241672b1f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the activity on June 30, 2026. A subset of court records could contain individuals' names",
+      "published": "2026-09-03 14:39:05",
+      "timestamp": 1788446345
+    },
+    {
+      "id": "9a3ac62a1f0286feaab0470b140b7876e213a4f5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
+      "published": "2026-09-03 13:50:59",
+      "timestamp": 1788443459
+    },
     {
       "id": "73f5ea2afb570643df74469aefdd607d1b734356",
       "source": "BleepingComputer",
@@ -282,16 +372,6 @@
       "timestamp": 1788340008
     },
     {
-      "id": "09c31ce3ce530f0a54b3c605e5c35f06c70cc403",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "published": "2026-09-02 08:00:43",
-      "timestamp": 1788336043
-    },
-    {
       "id": "8129849ea8124fb9b4ac594a050c7ec4107f3fce",
       "source": "The Hacker News",
       "source_category": "General",
@@ -322,16 +402,6 @@
       "timestamp": 1788332190
     },
     {
-      "id": "c26b4ef18d08f979c23b55c880050f6073cdc98f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "published": "2026-09-02 06:39:29",
-      "timestamp": 1788331169
-    },
-    {
       "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -352,26 +422,6 @@
       "timestamp": 1788302428
     },
     {
-      "id": "eceba1bcd2921464331c890cef2e63789604f100",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-      "published": "2026-09-01 20:53:23",
-      "timestamp": 1788296003
-    },
-    {
-      "id": "4e308e9651e3aa29a6319812402e5b624febc35f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-      "published": "2026-09-01 19:28:17",
-      "timestamp": 1788290897
-    },
-    {
       "id": "41dc14b1143b2519f97badbf9dc46f0f5962ec1e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -380,16 +430,6 @@
       "summary": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response. The post Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss appeared first on Microsoft Security Blog.",
       "published": "2026-09-01 18:55:35",
       "timestamp": 1788288935
-    },
-    {
-      "id": "e65aaed06130f1a9dade31c184d7cf5916ce6161",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-      "published": "2026-09-01 17:54:22",
-      "timestamp": 1788285262
     },
     {
       "id": "ae3e61b49177e69518bd5513805b806f1214618e",
@@ -692,36 +732,6 @@
       "timestamp": 1787910315
     },
     {
-      "id": "780d78a8b156e05072f777d1e19cdbfa9c6df3b3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of confirmed customer incidents and is treating this matter with the highest priority.\" An",
-      "published": "2026-08-28 08:25:36",
-      "timestamp": 1787905536
-    },
-    {
-      "id": "796347314667374657f2d226ad263a042576d39f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and T\u00fcrkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed HOOKEDGE, a lightweight Windows batch script that's distributed via",
-      "published": "2026-08-28 08:20:59",
-      "timestamp": 1787905259
-    },
-    {
-      "id": "31aaf1efed3ae769d46b265a7f7985a805656451",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI models, and that it was mainly fueled by what it described as a \"highly capable",
-      "published": "2026-08-27 18:36:19",
-      "timestamp": 1787855779
-    },
-    {
       "id": "aeaac57b5ef8258ebc73d6276c82e4d4f382d6cd",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -842,7 +852,7 @@
       "timestamp": 1787140800
     },
     {
-      "id": "5d8321a2ffda78dac302bc099d3479dfdf75b554",
+      "id": "9b727dc1427c82b31ab6c6e9ced74c8db8a789a3",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
@@ -900,16 +910,6 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20349 Cisco Secure Firewall Adaptive Security Appliance (ASA) and Firewall Threat Defense (FTD) Heap Inspection Vulnerability CVE-2026-68820 Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability CVE-2026-72898 Metabase SQL Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cy",
       "published": "2026-08-11 12:00:00",
       "timestamp": 1786449600
-    },
-    {
-      "id": "0cbac8529e82e33261368e059fa9cf10498f7cb3",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/10/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/",
-      "summary": "Microsoft is named a Leader in the 2026 IDC MarketScape for MDR services. Discover how Microsoft Defender Experts MDR combines AI, threat intelligence, and human expertise. The post Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise appeared first on Microsoft Security Blog.",
-      "published": "2026-08-10 16:00:00",
-      "timestamp": 1786377600
     },
     {
       "id": "46f13baf284489b403e4ea1da562bdb8f18675b6",
