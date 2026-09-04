@@ -1,6 +1,66 @@
 {
-  "generated_at": 1788506816,
+  "generated_at": 1788526685,
   "items": [
+    {
+      "id": "adca37f0bab4b6eaeb55bf834460682bd0fd1729",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+      "published": "2026-09-04 12:22:30",
+      "timestamp": 1788524550
+    },
+    {
+      "id": "7c96df61c68270b716b9e8bd748235e582856e9f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "published": "2026-09-04 11:48:17",
+      "timestamp": 1788522497
+    },
+    {
+      "id": "cf00368c23c5ad28b6ed4027248589ac9ad39f08",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms \u2013 Drag & Drop Form Builder that allows unauthenticated attackers to upload files of any type, including",
+      "published": "2026-09-04 08:48:45",
+      "timestamp": 1788511725
+    },
+    {
+      "id": "96c744e4aefd3208dcf3737a7e8eca395e7af2e6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "link": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them. \"We recommend all server owners and Desktop users",
+      "published": "2026-09-04 07:35:14",
+      "timestamp": 1788507314
+    },
+    {
+      "id": "93608d83eef1d2e204bff86ee3e5f5a1a3f3de71",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine. \"Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote",
+      "published": "2026-09-04 07:18:47",
+      "timestamp": 1788506327
+    },
+    {
+      "id": "dbbe29828dd500b0810a1e9a8ac342134bfeede6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "summary": "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework. \"Astra is state-of-the-art on computer use, browsing, software engineering,",
+      "published": "2026-09-04 06:47:52",
+      "timestamp": 1788504472
+    },
     {
       "id": "872d08d4944fc380c04d125617504ca550e8790b",
       "source": "BleepingComputer",
@@ -272,16 +332,6 @@
       "timestamp": 1788367266
     },
     {
-      "id": "2f41d2eedd3a91a9ff3aae05ce526a1c06c67784",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-      "published": "2026-09-02 15:47:08",
-      "timestamp": 1788364028
-    },
-    {
       "id": "7b408800b0379d0d5e3bdac469e8b101df441edf",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +340,6 @@
       "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and without an approval prompt, and exploitation requires the repository to arrive",
       "published": "2026-09-02 14:06:59",
       "timestamp": 1788358019
-    },
-    {
-      "id": "38e0c670d5fb0155798d8c16afddd6ca4259ecdd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
-      "published": "2026-09-02 14:02:12",
-      "timestamp": 1788357732
     },
     {
       "id": "e370218f8682e5673a1830344789af12fa67fa7f",
@@ -690,46 +730,6 @@
       "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active",
       "published": "2026-08-28 15:27:26",
       "timestamp": 1787930846
-    },
-    {
-      "id": "3e41ff61e74b1d869cfd17334bebca178d55eca9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
-      "published": "2026-08-28 12:07:24",
-      "timestamp": 1787918844
-    },
-    {
-      "id": "96139aa7fa1759735439eaf7e6a2c2c27f9e531d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and",
-      "published": "2026-08-28 11:30:00",
-      "timestamp": 1787916600
-    },
-    {
-      "id": "c0631c7ad24c956e77812c83a6e87d4a174dcdc5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
-      "published": "2026-08-28 11:20:32",
-      "timestamp": 1787916032
-    },
-    {
-      "id": "66e6091cbb903014228f9ad8e5a67aef3a7e18f2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.",
-      "published": "2026-08-28 10:58:29",
-      "timestamp": 1787914709
     },
     {
       "id": "aeaac57b5ef8258ebc73d6276c82e4d4f382d6cd",
