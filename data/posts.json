@@ -1,6 +1,86 @@
 {
-  "generated_at": 1788526685,
+  "generated_at": 1788544284,
   "items": [
+    {
+      "id": "b4c8ccea713df579742c6ae9303cea46a7726b87",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "published": "2026-09-04 16:56:45",
+      "timestamp": 1788541005
+    },
+    {
+      "id": "84181f6960c457a9894d9ef26dadcf872d6900a3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
+      "published": "2026-09-04 15:57:15",
+      "timestamp": 1788537435
+    },
+    {
+      "id": "f5258b1b7857e52826ae5ae0fa68213919f8f689",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "published": "2026-09-04 15:25:59",
+      "timestamp": 1788535559
+    },
+    {
+      "id": "5787ae224671bb3e533ae30d49ddbafd3b1260f0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
+      "published": "2026-09-04 15:20:19",
+      "timestamp": 1788535219
+    },
+    {
+      "id": "ee402b6fc57a447c2fce5804d94c502369f27164",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
+      "published": "2026-09-04 14:51:13",
+      "timestamp": 1788533473
+    },
+    {
+      "id": "b60559580bd4cf3ddeb69c71a005d7ba644f0998",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft says some users can\u2019t open the Teams desktop client",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+      "published": "2026-09-04 14:30:15",
+      "timestamp": 1788532215
+    },
+    {
+      "id": "4b33729e00bf2f34c639e3ecf5dfd5533a59bcdd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
+      "published": "2026-09-04 14:01:11",
+      "timestamp": 1788530471
+    },
+    {
+      "id": "cba20854b0aeb0232c303048c0c25a65f1bb8e5f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+      "published": "2026-09-04 13:22:01",
+      "timestamp": 1788528121
+    },
     {
       "id": "adca37f0bab4b6eaeb55bf834460682bd0fd1729",
       "source": "BleepingComputer",
@@ -10,6 +90,16 @@
       "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
       "published": "2026-09-04 12:22:30",
       "timestamp": 1788524550
+    },
+    {
+      "id": "4379c471a40f72fc2209edc8b3d996c60dc95114",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85046 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive",
+      "published": "2026-09-04 12:00:00",
+      "timestamp": 1788523200
     },
     {
       "id": "7c96df61c68270b716b9e8bd748235e582856e9f",
@@ -192,16 +282,6 @@
       "timestamp": 1788443459
     },
     {
-      "id": "73f5ea2afb570643df74469aefdd607d1b734356",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-      "published": "2026-09-03 12:16:32",
-      "timestamp": 1788437792
-    },
-    {
       "id": "ce5b820118996670797587d3a9067576cc15ccd0",
       "source": "The Hacker News",
       "source_category": "General",
@@ -210,16 +290,6 @@
       "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
       "published": "2026-09-03 11:58:00",
       "timestamp": 1788436680
-    },
-    {
-      "id": "2712dac25fbc1d48a2464772590b18f80eabacd7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-      "published": "2026-09-03 11:02:22",
-      "timestamp": 1788433342
     },
     {
       "id": "a27516d3b84bfb67d1e3d2986ef7d50d27e89f18",
@@ -240,16 +310,6 @@
       "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
       "published": "2026-09-03 10:36:39",
       "timestamp": 1788431799
-    },
-    {
-      "id": "2138eb84d0008d0f4fc91611a7e62bf2bd588879",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
-      "published": "2026-09-03 08:55:25",
-      "timestamp": 1788425725
     },
     {
       "id": "44ad6e905b535f7c8d3bdc9b501bca1c32066b66",
@@ -290,26 +350,6 @@
       "summary": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the activity. The post Impersonating IT support: how threat actors turn a remote session into enterprise-wide access appeared first on Microsoft S",
       "published": "2026-09-02 22:51:18",
       "timestamp": 1788389478
-    },
-    {
-      "id": "d2d01510e09a240fc8dbcfc1b8e6fba12becb540",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-      "published": "2026-09-02 21:00:13",
-      "timestamp": 1788382813
-    },
-    {
-      "id": "5b2f09c3918c4994eb54e4638b46e234b79a7580",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
-      "published": "2026-09-02 19:28:46",
-      "timestamp": 1788377326
     },
     {
       "id": "8cd3ff0a44a39575ed81c7a4caab0bc88abdb9bc",
@@ -702,36 +742,6 @@
       "timestamp": 1787937135
     },
     {
-      "id": "73674924713bc951514a70a8d9ffe4b8ba64c4b9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support for Encrypted Client Hello (ECH), a privacy standard that prevents networks from eavesdropping on which websites a user is visiting. \"This new privacy standard works in tandem",
-      "published": "2026-08-28 16:20:46",
-      "timestamp": 1787934046
-    },
-    {
-      "id": "afcf281e595c9d0c36d57fc0a1baee6478f8b37b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. The vulnerability, tracked as CVE-2023-49105 (CVSS score: 9.8), is a case of",
-      "published": "2026-08-28 15:56:55",
-      "timestamp": 1787932615
-    },
-    {
-      "id": "3c692ba526935182986c0046b298ebc7dbb22928",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active",
-      "published": "2026-08-28 15:27:26",
-      "timestamp": 1787930846
-    },
-    {
       "id": "aeaac57b5ef8258ebc73d6276c82e4d4f382d6cd",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -1122,16 +1132,6 @@
       "timestamp": 1783513899
     },
     {
-      "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
-      "published": "2026-07-07 12:00:00",
-      "timestamp": 1783425600
-    },
-    {
       "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1142,14 +1142,14 @@
       "timestamp": 1783425600
     },
     {
-      "id": "386fb113afde605081131b3f6f0a77835c8acb72",
+      "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-45659 Microsoft SharePoint Server Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
-      "published": "2026-07-01 12:00:00",
-      "timestamp": 1782907200
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
+      "published": "2026-07-07 12:00:00",
+      "timestamp": 1783425600
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
