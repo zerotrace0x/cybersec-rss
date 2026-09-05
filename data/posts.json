@@ -1,6 +1,46 @@
 {
-  "generated_at": 1788610202,
+  "generated_at": 1788627513,
   "items": [
+    {
+      "id": "5f3cb2da0707dfc922a8c90303228d8e0483f396",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,\" JetBrains said.",
+      "published": "2026-09-05 16:52:33",
+      "timestamp": 1788627153
+    },
+    {
+      "id": "8bb729cac743085efd2cf72cfd262cec3f304c04",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code. \"A",
+      "published": "2026-09-05 16:05:08",
+      "timestamp": 1788624308
+    },
+    {
+      "id": "8c8f809e4c6ae97460e8bbe001dc399d5b2c1f88",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+      "published": "2026-09-05 14:29:13",
+      "timestamp": 1788618553
+    },
+    {
+      "id": "80dc43e13b9dd9b4e7aab11ed0bcaa90a6d9b81a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets",
+      "published": "2026-09-05 14:17:02",
+      "timestamp": 1788617822
+    },
     {
       "id": "59596c86d883a9abd1e4449e9dd9fde678f26ead",
       "source": "BleepingComputer",
@@ -292,16 +332,6 @@
       "timestamp": 1788447772
     },
     {
-      "id": "11e9087d2d0b98720767d9cc04a30d9370ccf803",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "published": "2026-09-03 14:52:20",
-      "timestamp": 1788447140
-    },
-    {
       "id": "cecf858cb27df024a39451b55b26c1c241672b1f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -532,6 +562,16 @@
       "timestamp": 1788302908
     },
     {
+      "id": "fc027ec0b12584467e446468b72c393147d8c8a0",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
+      "published": "2026-09-01 22:40:28",
+      "timestamp": 1788302428
+    },
+    {
       "id": "41dc14b1143b2519f97badbf9dc46f0f5962ec1e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -702,26 +742,6 @@
       "timestamp": 1788163013
     },
     {
-      "id": "a86d7981ae4aaf940f981485c36d3cbe3dd3eb55",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
-      "published": "2026-08-30 07:36:33",
-      "timestamp": 1788075393
-    },
-    {
-      "id": "26198ad6e35ef89164b7f10c701ac55fcd237215",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
-      "published": "2026-08-29 16:25:03",
-      "timestamp": 1788020703
-    },
-    {
       "id": "09232a7f22c2a1a4801edbb3752b04138ae617dc",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -730,16 +750,6 @@
       "summary": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The post TerminalFix campaign deploys a reverse tunnel through multistage intrusion appeared first on Microsoft Security Blog.",
       "published": "2026-08-29 03:43:27",
       "timestamp": 1787975007
-    },
-    {
-      "id": "166f221f879585cac48efc3db157191fef7a793e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
-      "published": "2026-08-28 21:30:52",
-      "timestamp": 1787952652
     },
     {
       "id": "aeaac57b5ef8258ebc73d6276c82e4d4f382d6cd",
@@ -760,6 +770,16 @@
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-49105 ownCloud Improper Authentication Vulnerability CVE-2026-53362 Linux Kernel Unspecified Vulnerability CVE-2026-66384 JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise.",
       "published": "2026-08-27 12:00:00",
       "timestamp": 1787832000
+    },
+    {
+      "id": "21c0ca256efcdb76f8340e5c00b136a171084301",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
+      "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
+      "published": "2026-08-27 11:04:15",
+      "timestamp": 1787828655
     },
     {
       "id": "f0b80046b42bf33245ccabf42419c76f5f93b014",
@@ -872,6 +892,26 @@
       "timestamp": 1786968000
     },
     {
+      "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
+      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
+      "published": "2026-08-14 11:24:35",
+      "timestamp": 1786706675
+    },
+    {
+      "id": "7d060e0696b4509cccd2e1d942833ac14419d38c",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "published": "2026-08-11 21:28:35",
+      "timestamp": 1786483715
+    },
+    {
       "id": "5e2c810695c8bb0042ff90305074eb79bb69bb05",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -890,6 +930,16 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-8037 Progress LoadMaster Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Execut",
       "published": "2026-08-07 12:00:00",
       "timestamp": 1786104000
+    },
+    {
+      "id": "8ae8fa5689b1fe29a2be3b96d6b1bc9c28c7e740",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
+      "published": "2026-08-06 17:00:56",
+      "timestamp": 1786035656
     },
     {
       "id": "0e4778baa9d8e95e14dca543eb83f613844715c0",
@@ -920,6 +970,16 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-18577 N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management req",
       "published": "2026-08-03 12:00:00",
       "timestamp": 1785758400
+    },
+    {
+      "id": "0312964af0604373173eba1a264beae1a267ab4e",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "2026-07-30 16:49:00",
+      "timestamp": 1785430140
     },
     {
       "id": "e7ece8b85a01a4e589b5d1d65afb841ba786661e",
@@ -962,6 +1022,16 @@
       "timestamp": 1784721600
     },
     {
+      "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "published": "2026-07-22 01:10:38",
+      "timestamp": 1784682638
+    },
+    {
       "id": "eeb31b3356ccf0ecf3c068db2603bceb26e09547",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -992,6 +1062,16 @@
       "timestamp": 1784116800
     },
     {
+      "id": "be7c17917410f9cd1525e071cb6163600654e342",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14 19:22:42",
+      "timestamp": 1784056962
+    },
+    {
       "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1012,6 +1092,16 @@
       "timestamp": 1784030400
     },
     {
+      "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13 15:03:28",
+      "timestamp": 1783955008
+    },
+    {
       "id": "7ddef9b64495a4b4823799c74f0bd00fea4be779",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1030,6 +1120,16 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48939 iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-56291 Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prio",
       "published": "2026-07-10 12:00:00",
       "timestamp": 1783684800
+    },
+    {
+      "id": "82151c81932b41fe071859043a31120ff05df405",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08 12:31:39",
+      "timestamp": 1783513899
     },
     {
       "id": "629e328da3a6a3eb29fc06d9e66fb82b6b3e5457",
