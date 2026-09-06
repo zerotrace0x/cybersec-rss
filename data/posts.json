@@ -1,6 +1,26 @@
 {
-  "generated_at": 1788679230,
+  "generated_at": 1788697481,
   "items": [
+    {
+      "id": "779f60aaecc8de03c3ea4a317966cd9487732b82",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least September 2. The Hacker News\u2019s September 6 review of the warning found no victim count or",
+      "published": "2026-09-06 09:32:38",
+      "timestamp": 1788687158
+    },
+    {
+      "id": "680dc57393cd3bd7803d5035db69cc532f9da255",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner. The company named the four programs ProManager, WinUpdate, SoftManager, and",
+      "published": "2026-09-06 08:34:20",
+      "timestamp": 1788683660
+    },
     {
       "id": "df58131f32d66f34348f5ac1fef37f3d0439f1fb",
       "source": "The Hacker News",
@@ -720,26 +740,6 @@
       "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its",
       "published": "2026-08-31 11:47:24",
       "timestamp": 1788176844
-    },
-    {
-      "id": "bfeb6637a6d4f6053d9c35c34bc6b32f5174411b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent\u2019s access is legitimate. AI has moved from the browser tab to the",
-      "published": "2026-08-31 11:31:47",
-      "timestamp": 1788175907
-    },
-    {
-      "id": "16660e2fd84af43c982c8fa4491aa184b900d028",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia, the incident response firm that investigated the intrusion, said the actor",
-      "published": "2026-08-31 09:04:55",
-      "timestamp": 1788167095
     },
     {
       "id": "09232a7f22c2a1a4801edbb3752b04138ae617dc",
