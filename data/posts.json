@@ -1,6 +1,56 @@
 {
-  "generated_at": 1788791428,
+  "generated_at": 1788807224,
   "items": [
+    {
+      "id": "994795995b13cd5d7cbf2cd2e23989db53fe3c43",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
+      "published": "2026-09-07 18:12:09",
+      "timestamp": 1788804729
+    },
+    {
+      "id": "5d370c23ad5b0bd405fb54f7b92bdb998367e5dc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+      "published": "2026-09-07 16:50:29",
+      "timestamp": 1788799829
+    },
+    {
+      "id": "69380a92bdde74e69d649648788d7bad4a99f43e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
+      "published": "2026-09-07 15:51:56",
+      "timestamp": 1788796316
+    },
+    {
+      "id": "f956cd9a2c4ebfc3c8b687c9c465adfe1de79c77",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+      "published": "2026-09-07 15:39:51",
+      "timestamp": 1788795591
+    },
+    {
+      "id": "3e0bc07d2fd6cd19de14dadf5fd1314216feed32",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
+      "published": "2026-09-07 14:36:07",
+      "timestamp": 1788791767
+    },
     {
       "id": "c346fd35474640ea9b4737c4f0f30c3fc40416bd",
       "source": "BleepingComputer",
@@ -300,26 +350,6 @@
       "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
       "published": "2026-09-04 14:30:15",
       "timestamp": 1788532215
-    },
-    {
-      "id": "4b33729e00bf2f34c639e3ecf5dfd5533a59bcdd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
-      "published": "2026-09-04 14:01:11",
-      "timestamp": 1788530471
-    },
-    {
-      "id": "cba20854b0aeb0232c303048c0c25a65f1bb8e5f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "published": "2026-09-04 13:22:01",
-      "timestamp": 1788528121
     },
     {
       "id": "4379c471a40f72fc2209edc8b3d996c60dc95114",
@@ -700,36 +730,6 @@
       "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript. Russian cybersecurity company Kaspersky is tracking the",
       "published": "2026-09-01 13:08:58",
       "timestamp": 1788268138
-    },
-    {
-      "id": "3984f56551b03662349e1b0ab642d7233b8d1025",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
-      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft\u2019s team observed last year, accounting",
-      "published": "2026-09-01 11:30:00",
-      "timestamp": 1788262200
-    },
-    {
-      "id": "6cbddbf89530113cf37b0285dcb4c47bd9432636",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" where external actors attempted to gain unauthorized access to its systems. No sensitive information is believed to",
-      "published": "2026-09-01 09:05:30",
-      "timestamp": 1788253530
-    },
-    {
-      "id": "1c4f4914ab2f8e7333b69db2eef27af99f731b4f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on X, is to deliberately trip a large language model's (LLM) safety mechanisms and prevent its",
-      "published": "2026-09-01 08:26:24",
-      "timestamp": 1788251184
     },
     {
       "id": "0fe5d83ecc500c6beee6f3b476a4fbe1f444b117",
