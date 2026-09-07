@@ -1,6 +1,106 @@
 {
-  "generated_at": 1788766512,
+  "generated_at": 1788791428,
   "items": [
+    {
+      "id": "c346fd35474640ea9b4737c4f0f30c3fc40416bd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "published": "2026-09-07 13:05:11",
+      "timestamp": 1788786311
+    },
+    {
+      "id": "b822a282e87ee1cff1110be25a0ad2e9c677897f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "published": "2026-09-07 12:16:32",
+      "timestamp": 1788783392
+    },
+    {
+      "id": "c98148ad5a8df3b311dbe32d919bab6d25897bc1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in common. Here\u2019s what the data looks like. How risk differs across cloud providers",
+      "published": "2026-09-07 11:45:00",
+      "timestamp": 1788781500
+    },
+    {
+      "id": "844070fc95d023d25306d28bd3559f8541211097",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a Quick Assist tech-support scam, a phishing-delivered MSI installer, and a fake",
+      "published": "2026-09-07 11:36:39",
+      "timestamp": 1788780999
+    },
+    {
+      "id": "b1ca544422a6c3e5d92dffaa569e9f50ca220f4a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
+      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild. Security firm TantoSec has published a working exploit chain targeting vulnerabilities",
+      "published": "2026-09-07 11:20:14",
+      "timestamp": 1788780014
+    },
+    {
+      "id": "0464c3c8a9423fc68e1565084d35b3e33a4795ad",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+      "published": "2026-09-07 10:36:37",
+      "timestamp": 1788777397
+    },
+    {
+      "id": "9929e2f8615627e6cb0a4df5fc70f04101774381",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "published": "2026-09-07 10:32:40",
+      "timestamp": 1788777160
+    },
+    {
+      "id": "7cb15419a89c92d9b86aea09d716c46d0e83d630",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "published": "2026-09-07 10:06:38",
+      "timestamp": 1788775598
+    },
+    {
+      "id": "c597bcc3cad61a582a8abf2e91907d9d5cb19477",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
+      "published": "2026-09-07 08:31:12",
+      "timestamp": 1788769872
+    },
+    {
+      "id": "8101ac0f744399f082db892adbe1c20fdd38f887",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, control-flow flattening, proxy functions, and operation wrappers,\" Check Point Research said in a",
+      "published": "2026-09-07 07:53:04",
+      "timestamp": 1788767584
+    },
     {
       "id": "979f75143b07d7096d8cab2a514090da95ada4c7",
       "source": "BleepingComputer",
@@ -222,16 +322,6 @@
       "timestamp": 1788528121
     },
     {
-      "id": "adca37f0bab4b6eaeb55bf834460682bd0fd1729",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-      "published": "2026-09-04 12:22:30",
-      "timestamp": 1788524550
-    },
-    {
       "id": "4379c471a40f72fc2209edc8b3d996c60dc95114",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -240,16 +330,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85046 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive",
       "published": "2026-09-04 12:00:00",
       "timestamp": 1788523200
-    },
-    {
-      "id": "7c96df61c68270b716b9e8bd748235e582856e9f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-      "published": "2026-09-04 11:48:17",
-      "timestamp": 1788522497
     },
     {
       "id": "cf00368c23c5ad28b6ed4027248589ac9ad39f08",
@@ -290,36 +370,6 @@
       "summary": "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework. \"Astra is state-of-the-art on computer use, browsing, software engineering,",
       "published": "2026-09-04 06:47:52",
       "timestamp": 1788504472
-    },
-    {
-      "id": "872d08d4944fc380c04d125617504ca550e8790b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000",
-      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "summary": "France's data protection authority (CNIL) has fined H\u00f4pital priv\u00e9 de la Loire \u20ac500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-      "published": "2026-09-03 22:01:37",
-      "timestamp": 1788472897
-    },
-    {
-      "id": "bc231f40bfc34c21bb45c272bcfab08677d6b733",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Coder's registry infrastructure compromised to push malicious modules",
-      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-      "published": "2026-09-03 20:04:24",
-      "timestamp": 1788465864
-    },
-    {
-      "id": "0ce0c0d3687ec26028961420a253ea1998b5b402",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-      "published": "2026-09-03 18:28:12",
-      "timestamp": 1788460092
     },
     {
       "id": "55b7bce29d23db9418695922eed6fbbe4c30f0e2",
@@ -582,7 +632,7 @@
       "timestamp": 1788332190
     },
     {
-      "id": "495cb131e1509ead8cf6c6e1f748061ac5fbeec1",
+      "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
@@ -602,7 +652,7 @@
       "timestamp": 1788302428
     },
     {
-      "id": "614f23b8cb401ec6cc8377ffd6d4a54cd69dbec5",
+      "id": "41dc14b1143b2519f97badbf9dc46f0f5962ec1e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss",
@@ -682,46 +732,6 @@
       "timestamp": 1788251184
     },
     {
-      "id": "9025002b1762f034b8fcc13a01d09872b29f2965",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user. CVE-2026-66066 aka",
-      "published": "2026-09-01 07:22:30",
-      "timestamp": 1788247350
-    },
-    {
-      "id": "ca5ee28db3d6ce182c82e6208084dcfbb06abf31",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession. The ongoing insider threat is part of what has been described as the IT worker scheme,",
-      "published": "2026-08-31 17:24:28",
-      "timestamp": 1788197068
-    },
-    {
-      "id": "8c93993db6d4fe5bb1a0f257350d507b600e9ea8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept",
-      "published": "2026-08-31 13:50:00",
-      "timestamp": 1788184200
-    },
-    {
-      "id": "a520623a6678c57ef0b173d24fe4e657529633f6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
-      "published": "2026-08-31 12:14:00",
-      "timestamp": 1788178440
-    },
-    {
       "id": "0fe5d83ecc500c6beee6f3b476a4fbe1f444b117",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -730,16 +740,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-81578 PaperCut NG/MF Missing Authentication for Critical Function Vulnerability CVE-2026-82078 PaperCut NG/MF Unsafe Reflection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates ",
       "published": "2026-08-31 12:00:00",
       "timestamp": 1788177600
-    },
-    {
-      "id": "c13dd08366f720e589bcbee9c46fb2e0e809e74c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its",
-      "published": "2026-08-31 11:47:24",
-      "timestamp": 1788176844
     },
     {
       "id": "09232a7f22c2a1a4801edbb3752b04138ae617dc",
@@ -782,7 +782,7 @@
       "timestamp": 1787828655
     },
     {
-      "id": "f0b80046b42bf33245ccabf42419c76f5f93b014",
+      "id": "8d3bb058b00993cc1199dc937615273a3b9483c2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "When AI infrastructure becomes the target: Securing gateways and control points",
@@ -852,7 +852,7 @@
       "timestamp": 1787227200
     },
     {
-      "id": "d0b76c18ed7f996e29079c2afcb9df5ad66911a0",
+      "id": "d713eadcfaac77ae8fc73e20a8f68add8ee99328",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026",
