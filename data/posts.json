@@ -1,6 +1,76 @@
 {
-  "generated_at": 1788852486,
+  "generated_at": 1788872806,
   "items": [
+    {
+      "id": "91658eb530f8f7a43865490bc2b56e4a1a35a955",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers build AI frameworks for widescale credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+      "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
+      "published": "2026-09-08 12:03:03",
+      "timestamp": 1788868983
+    },
+    {
+      "id": "ebb112eca880487ed62828a1912d7126bca0b61b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+      "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
+      "published": "2026-09-08 11:57:51",
+      "timestamp": 1788868671
+    },
+    {
+      "id": "495d884c3f1e46d5208df917e2386f03c1edb7ea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+      "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+      "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Server database accessed via LDAP. The attack needs a second flaw in that database software. The",
+      "published": "2026-09-08 11:22:07",
+      "timestamp": 1788866527
+    },
+    {
+      "id": "53f6d1d6fd4a4ff329ef4ce1c3a7c2809addabd3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026. \"This update resolves a critical",
+      "published": "2026-09-08 09:13:47",
+      "timestamp": 1788858827
+    },
+    {
+      "id": "5e3ddd6476c2dfb8208489da0c5ebd1a7b55464d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect",
+      "published": "2026-09-08 08:43:51",
+      "timestamp": 1788857031
+    },
+    {
+      "id": "0bb585ce317efc1e826014d16fa326f54c84f857",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based path using default credentials. [...]",
+      "published": "2026-09-08 07:35:50",
+      "timestamp": 1788852950
+    },
+    {
+      "id": "fbb3c9848b913844492c0917e728131d86654e8d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "summary": "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
+      "published": "2026-09-08 07:00:43",
+      "timestamp": 1788850843
+    },
     {
       "id": "994795995b13cd5d7cbf2cd2e23989db53fe3c43",
       "source": "The Hacker News",
@@ -292,16 +362,6 @@
       "timestamp": 1788549010
     },
     {
-      "id": "b4c8ccea713df579742c6ae9303cea46a7726b87",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "published": "2026-09-04 16:56:45",
-      "timestamp": 1788541005
-    },
-    {
       "id": "84181f6960c457a9894d9ef26dadcf872d6900a3",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +370,6 @@
       "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
       "published": "2026-09-04 15:57:15",
       "timestamp": 1788537435
-    },
-    {
-      "id": "f5258b1b7857e52826ae5ae0fa68213919f8f689",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-      "published": "2026-09-04 15:25:59",
-      "timestamp": 1788535559
     },
     {
       "id": "5787ae224671bb3e533ae30d49ddbafd3b1260f0",
@@ -340,16 +390,6 @@
       "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
       "published": "2026-09-04 14:51:13",
       "timestamp": 1788533473
-    },
-    {
-      "id": "b60559580bd4cf3ddeb69c71a005d7ba644f0998",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft says some users can\u2019t open the Teams desktop client",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-      "published": "2026-09-04 14:30:15",
-      "timestamp": 1788532215
     },
     {
       "id": "4379c471a40f72fc2209edc8b3d996c60dc95114",
@@ -690,46 +730,6 @@
       "summary": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response. The post Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss appeared first on Microsoft Security Blog.",
       "published": "2026-09-01 18:55:35",
       "timestamp": 1788288935
-    },
-    {
-      "id": "ae3e61b49177e69518bd5513805b806f1214618e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog Artifactory contains an authentication weakness that, under default",
-      "published": "2026-09-01 17:53:11",
-      "timestamp": 1788285191
-    },
-    {
-      "id": "ed2d010246156b2ed5765b87481cef3bbe949daf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers.\" The adversary",
-      "published": "2026-09-01 17:19:24",
-      "timestamp": 1788283164
-    },
-    {
-      "id": "58a4025dab0962246ba3a42921dbcec7a6a9b537",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices. \"The injected code runs two operations against a site's visitors: a mobile ad-fraud and gambling-redirect",
-      "published": "2026-09-01 14:07:20",
-      "timestamp": 1788271640
-    },
-    {
-      "id": "4efa6edec9406d8ab73d5ce91c88cdfeeb19912b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript. Russian cybersecurity company Kaspersky is tracking the",
-      "published": "2026-09-01 13:08:58",
-      "timestamp": 1788268138
     },
     {
       "id": "0fe5d83ecc500c6beee6f3b476a4fbe1f444b117",
