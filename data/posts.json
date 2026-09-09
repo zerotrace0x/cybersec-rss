@@ -1,6 +1,66 @@
 {
-  "generated_at": 1788977027,
+  "generated_at": 1788994103,
   "items": [
+    {
+      "id": "fe530ec5a46e85ae0622e25a106ef8e46f0af4a0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+      "published": "2026-09-09 21:40:44",
+      "timestamp": 1788990044
+    },
+    {
+      "id": "70e168baeb3e2920be32aa686378d8ce04f88543",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+      "published": "2026-09-09 21:30:36",
+      "timestamp": 1788989436
+    },
+    {
+      "id": "a3deef8abce9dff1e0bf34757186c7117164aeb1",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Threat Matrix: Mapping threats across cloud web applications",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+      "summary": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms. The post Threat Matrix: Mapping threats across cloud web applications appeared first on Microsoft Security Blog.",
+      "published": "2026-09-09 21:30:00",
+      "timestamp": 1788989400
+    },
+    {
+      "id": "d8678584dc380982ab67ad35f9922c92647c7b9d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
+      "published": "2026-09-09 21:02:14",
+      "timestamp": 1788987734
+    },
+    {
+      "id": "032e5eba8ca7ba64f4427cd63be8232515285875",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime",
+      "published": "2026-09-09 18:26:05",
+      "timestamp": 1788978365
+    },
+    {
+      "id": "24ebafa19c236048354ce5220efe38d4c01173f0",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+      "summary": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and mitigation guidance. The post Passkey-themed social engineering leads to identity and cloud compromise appeared first on Microsoft Security Blog.",
+      "published": "2026-09-09 17:41:18",
+      "timestamp": 1788975678
+    },
     {
       "id": "7bc8439db2ea16fd8db8fc757594b1426085d90e",
       "source": "BleepingComputer",
@@ -10,6 +70,16 @@
       "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
       "published": "2026-09-09 16:48:33",
       "timestamp": 1788972513
+    },
+    {
+      "id": "743ec4c41b6ff2f3615b2d01fbd832637759be4c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
+      "published": "2026-09-09 16:34:05",
+      "timestamp": 1788971645
     },
     {
       "id": "cb79131fffb7079c66eb0dbf98b4c5e3b8213446",
@@ -40,6 +110,16 @@
       "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account recovery into account takeover. [...]",
       "published": "2026-09-09 14:01:11",
       "timestamp": 1788962471
+    },
+    {
+      "id": "823dc6eecef937331881d69e1c8441fd6ec8f54f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-25249 Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability CVE-2026-19490 Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-87491 Google Chromium V8 Out of Bounds Write Vulnerability CVE-2026-20079 Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulne",
+      "published": "2026-09-09 12:00:00",
+      "timestamp": 1788955200
     },
     {
       "id": "f7a8dd91065b07cb4540a96bb65e28b73c54db5f",
@@ -250,36 +330,6 @@
       "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
       "published": "2026-09-08 18:49:19",
       "timestamp": 1788893359
-    },
-    {
-      "id": "b02dbdd2594432bce00c33c135200834e60d362c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
-      "published": "2026-09-08 18:18:05",
-      "timestamp": 1788891485
-    },
-    {
-      "id": "15f95d2c34f3a4a0af19d3196252262a7273aaf2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "2026-09-08 17:57:03",
-      "timestamp": 1788890223
-    },
-    {
-      "id": "4912371c446c7b22f2cda1fe121f2327086bf380",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
-      "published": "2026-09-08 16:35:47",
-      "timestamp": 1788885347
     },
     {
       "id": "60a4c9608a7aab213f3152ab605583ef7c22faf1",
@@ -662,7 +712,7 @@
       "timestamp": 1788458567
     },
     {
-      "id": "5630285af0a69986a5e5305d7a7a58e3c2b42253",
+      "id": "de4eed30559cc757b2805643592d02a938b7b679",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
@@ -692,27 +742,7 @@
       "timestamp": 1788449207
     },
     {
-      "id": "cecf858cb27df024a39451b55b26c1c241672b1f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the activity on June 30, 2026. A subset of court records could contain individuals' names",
-      "published": "2026-09-03 14:39:05",
-      "timestamp": 1788446345
-    },
-    {
-      "id": "ce5b820118996670797587d3a9067576cc15ccd0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
-      "published": "2026-09-03 11:58:00",
-      "timestamp": 1788436680
-    },
-    {
-      "id": "481944dd9821ebc849aae0c3ce7cd85b96e250e2",
+      "id": "6966d99753e6a410ecb297cd0703a6b67f98b19d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
@@ -782,7 +812,7 @@
       "timestamp": 1787975007
     },
     {
-      "id": "b03a166d325dac26de789f942c2180edd033a514",
+      "id": "aeaac57b5ef8258ebc73d6276c82e4d4f382d6cd",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "\u200b\u200b\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: August 2026",
@@ -812,7 +842,7 @@
       "timestamp": 1787828655
     },
     {
-      "id": "8d3bb058b00993cc1199dc937615273a3b9483c2",
+      "id": "f0b80046b42bf33245ccabf42419c76f5f93b014",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "When AI infrastructure becomes the target: Securing gateways and control points",
@@ -830,16 +860,6 @@
       "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2015-3246 Red Hat Libuser Race Condition Vulnerability CVE-2015-5287 Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability CVE-2019-1068 Microsoft SQL Server Remote Code Execution Vulnerability CVE-2021-23758 Ajax.NET Professional Deserialization of Untrusted Data Vulnerability CVE-2022-0995 Linux Kernel Out-of-Bounds Write Vulnerability CVE",
       "published": "2026-08-26 12:00:00",
       "timestamp": 1787745600
-    },
-    {
-      "id": "d253b523cf71a13a9b73d335a1dafcc928055964",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The patch window is collapsing: Why security needs a new control plane",
-      "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-      "summary": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Security Blog.",
-      "published": "2026-08-25 16:00:00",
-      "timestamp": 1787673600
     },
     {
       "id": "d4d0e65a3be8221f58c95ddcc67c1782c27092c0",
@@ -880,16 +900,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-72529 TrueConf Server Missing Authentication for Critical Function Vulnerability CVE-2026-72530 TrueConf Server Code Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates B",
       "published": "2026-08-20 12:00:00",
       "timestamp": 1787227200
-    },
-    {
-      "id": "d713eadcfaac77ae8fc73e20a8f68add8ee99328",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "summary": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar\u2122: Cloud Workload Protection Platforms, 2026 appeared first on Microsoft Security Blog.",
-      "published": "2026-08-19 17:30:00",
-      "timestamp": 1787160600
     },
     {
       "id": "ab55453081fae310a37148c6bcfa4600491c482e",
@@ -1102,22 +1112,22 @@
       "timestamp": 1784056962
     },
     {
-      "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges SharePoint Hardening After New Exploitations",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
-      "summary": "Update August 26, 2026: CISA has updated this Alert to clarify guidance on avoiding the direct exposure of SharePoint Servers to the internet. Update August 18, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-55040 to its Known Exploited Vulnerabilities (KEV) Catalog on August 18, 2026. Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the KEV Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect",
-      "published": "2026-07-14 12:00:00",
-      "timestamp": 1784030400
-    },
-    {
       "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
+      "published": "2026-07-14 12:00:00",
+      "timestamp": 1784030400
+    },
+    {
+      "id": "45dcb132868d10c2dea76ce4502d8040a46662e7",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges SharePoint Hardening After New Exploitations",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-urges-sharepoint-hardening-after-new-exploitations",
+      "summary": "Update August 26, 2026: CISA has updated this Alert to clarify guidance on avoiding the direct exposure of SharePoint Servers to the internet. Update August 18, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-55040 to its Known Exploited Vulnerabilities (KEV) Catalog on August 18, 2026. Update July 28, 2026: CISA has updated this Alert to include CVE-2026-50522 and its addition to the KEV Catalog on July 22, 2026. Update July 16, 2026: CISA has updated this Alert to reflect",
       "published": "2026-07-14 12:00:00",
       "timestamp": 1784030400
     },
@@ -1150,16 +1160,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48939 iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-56291 Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prio",
       "published": "2026-07-10 12:00:00",
       "timestamp": 1783684800
-    },
-    {
-      "id": "4ac0def79835fef8eb21749d06c72ec6b32a08f8",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48908 JoomShaper SP Page Builder Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-55255 Langflow Authorization Bypass Through User-Controlled Key Vulnerability CVE-2026-56290 Joomlack Page Builder Improper Access Control Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose s",
-      "published": "2026-07-07 12:00:00",
-      "timestamp": 1783425600
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
