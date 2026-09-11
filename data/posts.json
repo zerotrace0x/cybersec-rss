@@ -1,6 +1,56 @@
 {
-  "generated_at": 1789111881,
+  "generated_at": 1789131799,
   "items": [
+    {
+      "id": "c8b2336d19dbbf06483c1d21c77bb9f3e1ff8cfb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
+      "published": "2026-09-11 11:15:22",
+      "timestamp": 1789125322
+    },
+    {
+      "id": "e5d86c66c159d4c722a24754e1751ebf2d9588f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "published": "2026-09-11 09:39:37",
+      "timestamp": 1789119577
+    },
+    {
+      "id": "4b5013595956864ba0956a23ee263aa1b243ec49",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
+      "published": "2026-09-11 07:55:15",
+      "timestamp": 1789113315
+    },
+    {
+      "id": "abb97cac8c1e4994ac888a0e2e7e1ecf7e4d7ded",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.",
+      "published": "2026-09-11 07:31:05",
+      "timestamp": 1789111865
+    },
+    {
+      "id": "ebd55c3683ce0457a28bd6ed290e7ec872340a01",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in research published Thursday. The attack started with a crafted link and ended with the attacker able to do anything the logged-in user could do. Tencent, which owns",
+      "published": "2026-09-11 07:14:09",
+      "timestamp": 1789110849
+    },
     {
       "id": "7f7e9ce23d40d656b2bd022ef90c91835c3235e4",
       "source": "BleepingComputer",
@@ -10,6 +60,26 @@
       "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
       "published": "2026-09-11 06:48:37",
       "timestamp": 1789109317
+    },
+    {
+      "id": "a0bed1cb4ef196c659ca76e2cb55a61c2bf0d1fd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available for customers to download. \"These are Regular Maintenance Releases (MR) that",
+      "published": "2026-09-11 06:46:18",
+      "timestamp": 1789109178
+    },
+    {
+      "id": "79f9ce1b35f733df2d5e5ddf37cb15b1cd5f1569",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass",
+      "published": "2026-09-11 06:19:59",
+      "timestamp": 1789107599
     },
     {
       "id": "afe0006a8faed1916defbd089d2e6d046feeef87",
@@ -212,16 +282,6 @@
       "timestamp": 1789031420
     },
     {
-      "id": "24d645777731d2d7297c011eb8b7b028c315085a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "summary": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
-      "published": "2026-09-10 08:08:16",
-      "timestamp": 1789027696
-    },
-    {
       "id": "5024df06d9b7a7d83746f0c4182fd8c2c7226c7a",
       "source": "The Hacker News",
       "source_category": "General",
@@ -240,26 +300,6 @@
       "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI agents. The AI company said the incident dates back to January 2026 and involved an early version of Claude Opus 4.6 that breached \"",
       "published": "2026-09-10 07:04:01",
       "timestamp": 1789023841
-    },
-    {
-      "id": "388962689f40d7e0f1b18dd8f5cecc89b1f4491e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-      "published": "2026-09-10 06:56:33",
-      "timestamp": 1789023393
-    },
-    {
-      "id": "fe530ec5a46e85ae0622e25a106ef8e46f0af4a0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-      "published": "2026-09-09 21:40:44",
-      "timestamp": 1788990044
     },
     {
       "id": "a3deef8abce9dff1e0bf34757186c7117164aeb1",
@@ -702,26 +742,6 @@
       "timestamp": 1788617822
     },
     {
-      "id": "c81a5ca4f39e5057d5fe8f1dd17216fb3a401eeb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox. The activity was concentrated on DSEwiki, a German software developer wiki that runs",
-      "published": "2026-09-05 07:55:10",
-      "timestamp": 1788594910
-    },
-    {
-      "id": "75bcf2e3b4321b334d534fdecc5846f9697fa7b9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 \u2013 an authentication bypass and remote code execution chain \u2013 to conduct command execution and reconnaissance, as well as",
-      "published": "2026-09-05 07:31:53",
-      "timestamp": 1788593513
-    },
-    {
       "id": "38921a5e861f64f494014f6a97d72cc4244d0fd1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -730,26 +750,6 @@
       "summary": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models. The post How to secure edge AI in customer-owned environments appeared first on Microsoft Security Blog.",
       "published": "2026-09-04 19:10:10",
       "timestamp": 1788549010
-    },
-    {
-      "id": "84181f6960c457a9894d9ef26dadcf872d6900a3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
-      "published": "2026-09-04 15:57:15",
-      "timestamp": 1788537435
-    },
-    {
-      "id": "5787ae224671bb3e533ae30d49ddbafd3b1260f0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
-      "published": "2026-09-04 15:20:19",
-      "timestamp": 1788535219
     },
     {
       "id": "4379c471a40f72fc2209edc8b3d996c60dc95114",
