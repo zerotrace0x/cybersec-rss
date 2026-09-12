@@ -1,6 +1,26 @@
 {
-  "generated_at": 1789216012,
+  "generated_at": 1789234108,
   "items": [
+    {
+      "id": "40efba9855829aadbfaf8b75efe95e1783d71661",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as follows - CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
+      "published": "2026-09-12 15:54:45",
+      "timestamp": 1789228485
+    },
+    {
+      "id": "2a185b63a7a2d96f8cd61a95edf89c8ebab16ede",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+      "published": "2026-09-12 14:14:32",
+      "timestamp": 1789222472
+    },
     {
       "id": "fc75c108063f7d7df8a43454cadbea47a9b5520f",
       "source": "The Hacker News",
@@ -300,16 +320,6 @@
       "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
       "published": "2026-09-10 15:55:56",
       "timestamp": 1789055756
-    },
-    {
-      "id": "fe95241b6db25371a5907692cfb05815a6c1b094",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
-      "published": "2026-09-10 15:43:58",
-      "timestamp": 1789055038
     },
     {
       "id": "eebbc78044c33acd172e76e7d437c6b66423c02d",
@@ -750,16 +760,6 @@
       "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild. Security firm TantoSec has published a working exploit chain targeting vulnerabilities",
       "published": "2026-09-07 11:20:14",
       "timestamp": 1788780014
-    },
-    {
-      "id": "c597bcc3cad61a582a8abf2e91907d9d5cb19477",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "summary": "Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
-      "published": "2026-09-07 08:31:12",
-      "timestamp": 1788769872
     },
     {
       "id": "38921a5e861f64f494014f6a97d72cc4244d0fd1",
