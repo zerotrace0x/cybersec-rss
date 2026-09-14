@@ -1,6 +1,126 @@
 {
-  "generated_at": 1789399087,
+  "generated_at": 1789419919,
   "items": [
+    {
+      "id": "44941477d0c550a964fcc8ba96b24ef9b8c8a09b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+      "published": "2026-09-14 20:52:18",
+      "timestamp": 1789419138
+    },
+    {
+      "id": "5f39ce5ea19324330a6a95bccffb09ed53caaca3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "published": "2026-09-14 20:36:02",
+      "timestamp": 1789418162
+    },
+    {
+      "id": "cbb36e5ec2b7f697b790232c60ad02363f97f11b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "published": "2026-09-14 19:51:04",
+      "timestamp": 1789415464
+    },
+    {
+      "id": "28fbebd1f455c42e0f0457894c4420bc5c5605a8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+      "published": "2026-09-14 19:03:51",
+      "timestamp": 1789412631
+    },
+    {
+      "id": "487bda9376ca8557be412c19f78603e824a6440e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "published": "2026-09-14 18:34:16",
+      "timestamp": 1789410856
+    },
+    {
+      "id": "afa4f37f330099508c6aa92bd638ca9290e5f730",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
+      "published": "2026-09-14 18:02:13",
+      "timestamp": 1789408933
+    },
+    {
+      "id": "723204256ccff9318f3ffd50b3ff2982c257509b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of",
+      "published": "2026-09-14 18:01:49",
+      "timestamp": 1789408909
+    },
+    {
+      "id": "5a9431e8f5f94c088b5a47f51229ab68495b7512",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
+      "published": "2026-09-14 17:58:16",
+      "timestamp": 1789408696
+    },
+    {
+      "id": "26b754f282ff6cf55151d97dee7828631862b7a4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU)",
+      "published": "2026-09-14 16:56:30",
+      "timestamp": 1789404990
+    },
+    {
+      "id": "c06e5a18e8da0c9bd5e5712cbf19174463dd5b2e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "published": "2026-09-14 16:15:58",
+      "timestamp": 1789402558
+    },
+    {
+      "id": "e355033fb534bae1ee9785f1fe2be7c84a30b6bf",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates ship continuously after that,\" David Perez, WordPress Official Plugin",
+      "published": "2026-09-14 16:00:04",
+      "timestamp": 1789401604
+    },
+    {
+      "id": "e315795b2791ddc02463342445dc0a090dcc1741",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems, weak defaults, and simple paths that should have been harder to abuse. A few of",
+      "published": "2026-09-14 14:40:34",
+      "timestamp": 1789396834
+    },
     {
       "id": "574df0b8f394575845ed6c7446ea1fbc30e1dfc6",
       "source": "BleepingComputer",
@@ -20,6 +140,16 @@
       "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
       "published": "2026-09-14 12:15:23",
       "timestamp": 1789388123
+    },
+    {
+      "id": "9a899e62d81b5b10331783e7e3ae1231725fc5cf",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76461 Cisco Secure Email Gateway SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Ex",
+      "published": "2026-09-14 12:00:00",
+      "timestamp": 1789387200
     },
     {
       "id": "14e50235208921ee6a21aed88feb70211cf12303",
@@ -152,26 +282,6 @@
       "timestamp": 1789157949
     },
     {
-      "id": "509cddb4f1dd57c1f331b927b19dd0693588e543",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
-      "published": "2026-09-11 19:00:29",
-      "timestamp": 1789153229
-    },
-    {
-      "id": "f447866c2fb555d809736ede69319ac0dbe321a1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
-      "published": "2026-09-11 17:26:50",
-      "timestamp": 1789147610
-    },
-    {
       "id": "665d3c17fccde7c57395d8e6abc246c6b97ba75a",
       "source": "The Hacker News",
       "source_category": "General",
@@ -180,16 +290,6 @@
       "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
       "published": "2026-09-11 16:30:18",
       "timestamp": 1789144218
-    },
-    {
-      "id": "5b1d9f755da46861cda7b9a52863d194f9e0ea77",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "published": "2026-09-11 16:29:44",
-      "timestamp": 1789144184
     },
     {
       "id": "b8c1b86e0a279f154840719945d7136cd60a14d8",
@@ -222,16 +322,6 @@
       "timestamp": 1789135820
     },
     {
-      "id": "394f4020cb74436d291cd281e44f21da8626ff35",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and ClickFix-style lures. [...]",
-      "published": "2026-09-11 14:01:11",
-      "timestamp": 1789135271
-    },
-    {
       "id": "ede47a882cea80e60559e56d22e8e947e0a9fbe1",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -260,26 +350,6 @@
       "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanner report, but if it sits behind strong segmentation, identity controls, and other defenses that prevent an attacker",
       "published": "2026-09-11 11:30:00",
       "timestamp": 1789126200
-    },
-    {
-      "id": "c8b2336d19dbbf06483c1d21c77bb9f3e1ff8cfb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-      "published": "2026-09-11 11:15:22",
-      "timestamp": 1789125322
-    },
-    {
-      "id": "e5d86c66c159d4c722a24754e1751ebf2d9588f0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
-      "published": "2026-09-11 09:39:37",
-      "timestamp": 1789119577
     },
     {
       "id": "abb97cac8c1e4994ac888a0e2e7e1ecf7e4d7ded",
@@ -692,36 +762,6 @@
       "timestamp": 1788866527
     },
     {
-      "id": "53f6d1d6fd4a4ff329ef4ce1c3a7c2809addabd3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026. \"This update resolves a critical",
-      "published": "2026-09-08 09:13:47",
-      "timestamp": 1788858827
-    },
-    {
-      "id": "5e3ddd6476c2dfb8208489da0c5ebd1a7b55464d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect",
-      "published": "2026-09-08 08:43:51",
-      "timestamp": 1788857031
-    },
-    {
-      "id": "fbb3c9848b913844492c0917e728131d86654e8d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Grindr to Pay \u00a326 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-      "summary": "Online dating app Grindr has opted to pay \u00a326 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
-      "published": "2026-09-08 07:00:43",
-      "timestamp": 1788850843
-    },
-    {
       "id": "1bf861e5bc0780d2be4a31efa2f467a6adcf7a06",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -730,36 +770,6 @@
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
       "published": "2026-09-08 07:00:00",
       "timestamp": 1788850800
-    },
-    {
-      "id": "994795995b13cd5d7cbf2cd2e23989db53fe3c43",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
-      "published": "2026-09-07 18:12:09",
-      "timestamp": 1788804729
-    },
-    {
-      "id": "69380a92bdde74e69d649648788d7bad4a99f43e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
-      "published": "2026-09-07 15:51:56",
-      "timestamp": 1788796316
-    },
-    {
-      "id": "3e0bc07d2fd6cd19de14dadf5fd1314216feed32",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
-      "published": "2026-09-07 14:36:07",
-      "timestamp": 1788791767
     },
     {
       "id": "38921a5e861f64f494014f6a97d72cc4244d0fd1",
@@ -792,7 +802,7 @@
       "timestamp": 1788451200
     },
     {
-      "id": "481944dd9821ebc849aae0c3ce7cd85b96e250e2",
+      "id": "6966d99753e6a410ecb297cd0703a6b67f98b19d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
@@ -812,7 +822,7 @@
       "timestamp": 1788350400
     },
     {
-      "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
+      "id": "495cb131e1509ead8cf6c6e1f748061ac5fbeec1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
@@ -852,7 +862,7 @@
       "timestamp": 1788177600
     },
     {
-      "id": "09232a7f22c2a1a4801edbb3752b04138ae617dc",
+      "id": "c1a2633d352ed81c08288c82f1cbe988795c6337",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
@@ -1140,16 +1150,6 @@
       "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
       "published": "2026-07-14 19:22:42",
       "timestamp": 1784056962
-    },
-    {
-      "id": "c00f5f01c8d0b7db3f057e23c61c3ccbb6480db9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-15409 SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability CVE-2026-15410 SonicWall SMA1000 Appliances Code Injection Vulnerability CVE-2026-56155 Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability CVE-2026-56164 Microsoft SharePoint Server Missing Authentication for Critical Functio",
-      "published": "2026-07-14 12:00:00",
-      "timestamp": 1784030400
     },
     {
       "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
