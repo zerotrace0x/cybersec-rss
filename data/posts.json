@@ -1,6 +1,76 @@
 {
-  "generated_at": 1789459434,
+  "generated_at": 1789480491,
   "items": [
+    {
+      "id": "45ece2c8f967e29245251457fde7de5f7535b356",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+      "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
+      "published": "2026-09-15 13:45:54",
+      "timestamp": 1789479954
+    },
+    {
+      "id": "18712159467985f780fbadd6c3e9ee5b4735210f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+      "published": "2026-09-15 12:16:32",
+      "timestamp": 1789474592
+    },
+    {
+      "id": "c5789d9297a8040c026dc70c20392681cf791797",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH",
+      "published": "2026-09-15 11:52:28",
+      "timestamp": 1789473148
+    },
+    {
+      "id": "1be0e9f0b0e3edb50b89fb1935f0617515d741fd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as a one-off exercise. But no matter how much you validate against these",
+      "published": "2026-09-15 11:26:36",
+      "timestamp": 1789471596
+    },
+    {
+      "id": "229444fd03979e6d60a7a39131278ad4b14cac15",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Services (AWS) and Microsoft Azure instances, and infrastructure state files, per F5 Labs. The",
+      "published": "2026-09-15 11:12:32",
+      "timestamp": 1789470752
+    },
+    {
+      "id": "c58edc5a34b995eb5d15aab092393e11f18e44c0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
+      "published": "2026-09-15 09:50:25",
+      "timestamp": 1789465825
+    },
+    {
+      "id": "06ae0208bcd590fcccc92a300d851693fa8964d5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+      "published": "2026-09-15 08:40:20",
+      "timestamp": 1789461620
+    },
     {
       "id": "e6744646dabaa402ad920c70a4fd44a0db2d0e63",
       "source": "BleepingComputer",
@@ -10,6 +80,16 @@
       "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
       "published": "2026-09-15 07:31:09",
       "timestamp": 1789457469
+    },
+    {
+      "id": "73547a707a99e83fd5aeafcb0ba352e35de32955",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
+      "published": "2026-09-15 06:52:16",
+      "timestamp": 1789455136
     },
     {
       "id": "80c2c31d4b1e8f183d2c4ba99e051fda7a92845d",
@@ -212,16 +292,6 @@
       "timestamp": 1789375704
     },
     {
-      "id": "11d2eff2aa17701c8c44c7cf46eee24d194e0d0d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
-      "published": "2026-09-14 08:08:16",
-      "timestamp": 1789373296
-    },
-    {
       "id": "fcd0f4ec2588ab40b85f8e5b85f1a3789adc79bf",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,26 +300,6 @@
       "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the Google Chrome Web Store and Mozilla Firefox Add-Ons store - Chrome -",
       "published": "2026-09-14 07:24:39",
       "timestamp": 1789370679
-    },
-    {
-      "id": "1383d8abf8cbff33940f2973743c60972d1a999a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
-      "published": "2026-09-14 07:06:27",
-      "timestamp": 1789369587
-    },
-    {
-      "id": "36c9f7f2d9b891736219b80902d36f61618adefa",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-      "published": "2026-09-13 14:26:32",
-      "timestamp": 1789309592
     },
     {
       "id": "3e573d5166b33cdcde4a90bf81445181176cdd96",
@@ -270,16 +320,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as follows - CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
       "published": "2026-09-12 15:54:45",
       "timestamp": 1789228485
-    },
-    {
-      "id": "2a185b63a7a2d96f8cd61a95edf89c8ebab16ede",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-      "published": "2026-09-12 14:14:32",
-      "timestamp": 1789222472
     },
     {
       "id": "fc75c108063f7d7df8a43454cadbea47a9b5520f",
@@ -712,36 +752,6 @@
       "timestamp": 1788884423
     },
     {
-      "id": "6eaededd3ab8bec7d03bd7fb8cbe6a49d6c51968",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is still paused, so holders cannot turn that token back into bitcoin. The 3,400 bitcoin was sent to a&",
-      "published": "2026-09-08 14:54:30",
-      "timestamp": 1788879270
-    },
-    {
-      "id": "f93fc8d077610b3eede44c64726e3fa82d9a6683",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-      "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from the user's connected Gmail account and passed it to a second ChatGPT account through a hidden channel",
-      "published": "2026-09-08 14:19:17",
-      "timestamp": 1788877157
-    },
-    {
-      "id": "f344e5a790c5b9a5c7cb2b7b11b8a0d0e0cffd3d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours. Google Threat Intelligence Group (GTIG) said it has observed attackers with diverse motivations targeting proprietary AI",
-      "published": "2026-09-08 13:48:16",
-      "timestamp": 1788875296
-    },
-    {
       "id": "32de715d1351eb86a9f9a3ec5d2d31777fa96000",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -750,16 +760,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-75650 Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability CVE-2026-81963 Microsoft Windows Link Following Vulnerability CVE-2026-85880 Microsoft Windows Heap-Based Buffer Overflow Vulnerability CVE-2026-86218 N-able N-central Static Code Injection Vulnerability These types of vulnerabilities are",
       "published": "2026-09-08 12:00:00",
       "timestamp": 1788868800
-    },
-    {
-      "id": "73f87658ce0fb8767646f2a681a59c1fbcef8e3f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-      "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
-      "published": "2026-09-08 11:54:29",
-      "timestamp": 1788868469
     },
     {
       "id": "1bf861e5bc0780d2be4a31efa2f467a6adcf7a06",
@@ -772,7 +772,7 @@
       "timestamp": 1788850800
     },
     {
-      "id": "38921a5e861f64f494014f6a97d72cc4244d0fd1",
+      "id": "0c2c36846be78a746fb8c5f360556e144229151f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "How to secure edge AI in customer-owned environments",
@@ -792,7 +792,7 @@
       "timestamp": 1788523200
     },
     {
-      "id": "5630285af0a69986a5e5305d7a7a58e3c2b42253",
+      "id": "de4eed30559cc757b2805643592d02a938b7b679",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
@@ -802,7 +802,7 @@
       "timestamp": 1788451200
     },
     {
-      "id": "481944dd9821ebc849aae0c3ce7cd85b96e250e2",
+      "id": "6966d99753e6a410ecb297cd0703a6b67f98b19d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
@@ -822,7 +822,7 @@
       "timestamp": 1788350400
     },
     {
-      "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
+      "id": "495cb131e1509ead8cf6c6e1f748061ac5fbeec1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
@@ -842,7 +842,7 @@
       "timestamp": 1788302428
     },
     {
-      "id": "41dc14b1143b2519f97badbf9dc46f0f5962ec1e",
+      "id": "614f23b8cb401ec6cc8377ffd6d4a54cd69dbec5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss",
