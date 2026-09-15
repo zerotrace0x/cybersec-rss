@@ -1,6 +1,36 @@
 {
-  "generated_at": 1789437751,
+  "generated_at": 1789459434,
   "items": [
+    {
+      "id": "e6744646dabaa402ad920c70a4fd44a0db2d0e63",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+      "published": "2026-09-15 07:31:09",
+      "timestamp": 1789457469
+    },
+    {
+      "id": "80c2c31d4b1e8f183d2c4ba99e051fda7a92845d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of insufficient validation in the email parsing logic that could allow an unauthenticated, remote attacker",
+      "published": "2026-09-15 06:11:11",
+      "timestamp": 1789452671
+    },
+    {
+      "id": "233499111814e72c6cebcce5cfc1fa1ae857cfea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the moniker UTA0560, said the activity targeted multiple non-governmental organizations (NGOs) on September 1, 2026. \"The",
+      "published": "2026-09-15 05:31:05",
+      "timestamp": 1789450265
+    },
     {
       "id": "44941477d0c550a964fcc8ba96b24ef9b8c8a09b",
       "source": "BleepingComputer",
@@ -270,16 +300,6 @@
       "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
       "published": "2026-09-12 09:07:56",
       "timestamp": 1789204076
-    },
-    {
-      "id": "c1589e269c6b1389a76e63c05224ffb3be5aa452",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-      "published": "2026-09-11 20:19:09",
-      "timestamp": 1789157949
     },
     {
       "id": "665d3c17fccde7c57395d8e6abc246c6b97ba75a",
@@ -742,26 +762,6 @@
       "timestamp": 1788868469
     },
     {
-      "id": "01bb285767333b30b82ef411b4095962bf059ba5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "What It Took to Reach 1 Billion Build Manifests",
-      "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I want to share what's actually behind them. The number itself is less interesting than the system that produced it, and why we had to fundamentally",
-      "published": "2026-09-08 11:49:02",
-      "timestamp": 1788868142
-    },
-    {
-      "id": "495d884c3f1e46d5208df917e2386f03c1edb7ea",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-      "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-      "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Server database accessed via LDAP. The attack needs a second flaw in that database software. The",
-      "published": "2026-09-08 11:22:07",
-      "timestamp": 1788866527
-    },
-    {
       "id": "1bf861e5bc0780d2be4a31efa2f467a6adcf7a06",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -802,7 +802,7 @@
       "timestamp": 1788451200
     },
     {
-      "id": "6966d99753e6a410ecb297cd0703a6b67f98b19d",
+      "id": "481944dd9821ebc849aae0c3ce7cd85b96e250e2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
@@ -822,7 +822,7 @@
       "timestamp": 1788350400
     },
     {
-      "id": "495cb131e1509ead8cf6c6e1f748061ac5fbeec1",
+      "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
@@ -862,7 +862,7 @@
       "timestamp": 1788177600
     },
     {
-      "id": "c1a2633d352ed81c08288c82f1cbe988795c6337",
+      "id": "09232a7f22c2a1a4801edbb3752b04138ae617dc",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
