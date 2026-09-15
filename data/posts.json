@@ -1,6 +1,36 @@
 {
-  "generated_at": 1789497157,
+  "generated_at": 1789514031,
   "items": [
+    {
+      "id": "184414d718246f1ce4045f499d8a39cb4b39ee24",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "published": "2026-09-15 21:37:35",
+      "timestamp": 1789508255
+    },
+    {
+      "id": "b6a1b9ce13b813b489a5af69c2279ad8815d61b3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
+      "published": "2026-09-15 20:34:15",
+      "timestamp": 1789504455
+    },
+    {
+      "id": "aef5c84f2bbe8f54a9a9cffa181fb7ea3a9d48ee",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and",
+      "published": "2026-09-15 18:54:14",
+      "timestamp": 1789498454
+    },
     {
       "id": "4f5e6d3d5a172fb8a2d65b6ec8ceb8f8bf925eb1",
       "source": "BleepingComputer",
@@ -252,16 +282,6 @@
       "timestamp": 1789404990
     },
     {
-      "id": "c06e5a18e8da0c9bd5e5712cbf19174463dd5b2e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-      "published": "2026-09-14 16:15:58",
-      "timestamp": 1789402558
-    },
-    {
       "id": "e355033fb534bae1ee9785f1fe2be7c84a30b6bf",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +300,6 @@
       "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems, weak defaults, and simple paths that should have been harder to abuse. A few of",
       "published": "2026-09-14 14:40:34",
       "timestamp": 1789396834
-    },
-    {
-      "id": "574df0b8f394575845ed6c7446ea1fbc30e1dfc6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
-      "published": "2026-09-14 14:01:11",
-      "timestamp": 1789394471
     },
     {
       "id": "9a899e62d81b5b10331783e7e3ae1231725fc5cf",
@@ -732,16 +742,6 @@
       "timestamp": 1788935145
     },
     {
-      "id": "e8dcfa028d7db224ead95b2af9b9ca2616ad494d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-      "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of these, over 110 shortcomings have been assigned a critical severity rating.",
-      "published": "2026-09-09 04:41:29",
-      "timestamp": 1788928889
-    },
-    {
       "id": "824b3201597e81ab6e3c3d0f19e1b1fb31b8a467",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -802,7 +802,7 @@
       "timestamp": 1788451200
     },
     {
-      "id": "481944dd9821ebc849aae0c3ce7cd85b96e250e2",
+      "id": "6966d99753e6a410ecb297cd0703a6b67f98b19d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
@@ -822,7 +822,7 @@
       "timestamp": 1788350400
     },
     {
-      "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
+      "id": "495cb131e1509ead8cf6c6e1f748061ac5fbeec1",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
@@ -862,7 +862,7 @@
       "timestamp": 1788177600
     },
     {
-      "id": "09232a7f22c2a1a4801edbb3752b04138ae617dc",
+      "id": "c1a2633d352ed81c08288c82f1cbe988795c6337",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
