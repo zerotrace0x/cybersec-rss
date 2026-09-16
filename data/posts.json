@@ -1,6 +1,86 @@
 {
-  "generated_at": 1789566442,
+  "generated_at": 1789583415,
   "items": [
+    {
+      "id": "00a0b5c2f61578928a20a9a796de23ee366a45f5",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
+      "published": "2026-09-16 18:14:22",
+      "timestamp": 1789582462
+    },
+    {
+      "id": "e30fd057700fabdf29b2a73227a19f8b31461468",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+      "published": "2026-09-16 17:26:41",
+      "timestamp": 1789579601
+    },
+    {
+      "id": "e89036f8efed85e79fba3fc61873e026d6c1119e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote attacker to execute arbitrary operating system (OS) commands by taking advantage of a hard-coded",
+      "published": "2026-09-16 15:50:59",
+      "timestamp": 1789573859
+    },
+    {
+      "id": "3426c99d44fb697456590cd12783164ac3d09ed8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.",
+      "published": "2026-09-16 15:27:49",
+      "timestamp": 1789572469
+    },
+    {
+      "id": "9fe9244bba1d51e9c71e0dcf38e6594d664a5797",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
+      "published": "2026-09-16 14:36:44",
+      "timestamp": 1789569404
+    },
+    {
+      "id": "0386dec97e54fcc42ced90e2288f7ff7f5990d59",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
+      "published": "2026-09-16 14:00:10",
+      "timestamp": 1789567210
+    },
+    {
+      "id": "211c1fe0e060907a799ae52920fb88e3e4fc8b28",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the",
+      "published": "2026-09-16 13:37:07",
+      "timestamp": 1789565827
+    },
+    {
+      "id": "83effc5809a56484b976d766a6a66ea8c9b8dd21",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install. Yuval Moravchick, who leads",
+      "published": "2026-09-16 13:14:05",
+      "timestamp": 1789564445
+    },
     {
       "id": "ba9ad6b84dc9b9c9a902f0ab9a3a70812097ed0e",
       "source": "BleepingComputer",
@@ -20,6 +100,16 @@
       "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
       "published": "2026-09-16 12:11:19",
       "timestamp": 1789560679
+    },
+    {
+      "id": "5fbab075760374f541fbc829bab74d607901866f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
+      "published": "2026-09-16 12:00:00",
+      "timestamp": 1789560000
     },
     {
       "id": "fdc1ca5a81f6b8d24a4bc6adb09624da54f80fec",
@@ -250,26 +340,6 @@
       "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
       "published": "2026-09-15 09:50:25",
       "timestamp": 1789465825
-    },
-    {
-      "id": "06ae0208bcd590fcccc92a300d851693fa8964d5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-      "published": "2026-09-15 08:40:20",
-      "timestamp": 1789461620
-    },
-    {
-      "id": "e6744646dabaa402ad920c70a4fd44a0db2d0e63",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-      "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
-      "published": "2026-09-15 07:31:09",
-      "timestamp": 1789457469
     },
     {
       "id": "73547a707a99e83fd5aeafcb0ba352e35de32955",
@@ -682,26 +752,6 @@
       "timestamp": 1788975678
     },
     {
-      "id": "743ec4c41b6ff2f3615b2d01fbd832637759be4c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
-      "published": "2026-09-09 16:34:05",
-      "timestamp": 1788971645
-    },
-    {
-      "id": "ef12aab649adaf558385abcf2bf2f06ef701572a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers like Lumma Stealer or Vidar are equipped to harvest a wide range of data from compromised systems. This can include credential, session tokens, and API",
-      "published": "2026-09-09 14:23:55",
-      "timestamp": 1788963835
-    },
-    {
       "id": "823dc6eecef937331881d69e1c8441fd6ec8f54f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -710,36 +760,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-25249 Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability CVE-2026-19490 Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-87491 Google Chromium V8 Out of Bounds Write Vulnerability CVE-2026-20079 Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulne",
       "published": "2026-09-09 12:00:00",
       "timestamp": 1788955200
-    },
-    {
-      "id": "f7a8dd91065b07cb4540a96bb65e28b73c54db5f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act. As AI accelerates vulnerability discovery and research, that delay matters more",
-      "published": "2026-09-09 11:57:36",
-      "timestamp": 1788955056
-    },
-    {
-      "id": "a70817194e9a682b8d728c95906d7b2ed07b48bf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files cannot write outside its workspace. The agent could remove that limit by calling the tool's own web",
-      "published": "2026-09-09 11:17:07",
-      "timestamp": 1788952627
-    },
-    {
-      "id": "c643916c0800ac19974e4eadbc80eba259a7b07a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their own computer or server, and it holds their bitcoin. The flaw affects versions v1.7.0 through",
-      "published": "2026-09-09 10:43:04",
-      "timestamp": 1788950584
     },
     {
       "id": "824b3201597e81ab6e3c3d0f19e1b1fb31b8a467",
@@ -1132,16 +1152,6 @@
       "timestamp": 1784203200
     },
     {
-      "id": "5152f84ff22fe6fdbe8b85852fba2782d6962aab",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-4346 KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability CVE-2026-46817 Oracle E-Business Suite Improper Privilege Management Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Bindin",
-      "published": "2026-07-15 12:00:00",
-      "timestamp": 1784116800
-    },
-    {
       "id": "be7c17917410f9cd1525e071cb6163600654e342",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1150,16 +1160,6 @@
       "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
       "published": "2026-07-14 19:22:42",
       "timestamp": 1784056962
-    },
-    {
-      "id": "58d5b4b46741ca96390884291ff474ae0e9f986b",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
-      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "2026-07-13 15:03:28",
-      "timestamp": 1783955008
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
