@@ -1,6 +1,36 @@
 {
-  "generated_at": 1789523635,
+  "generated_at": 1789545421,
   "items": [
+    {
+      "id": "8f2b30d7e64366c2eebaba68bcbcd7556ebf80d2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+      "published": "2026-09-16 07:00:19",
+      "timestamp": 1789542019
+    },
+    {
+      "id": "8181bc7c65ff4af2b6ef005b11472528102d3949",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said. The WordPress security company said it has blocked over",
+      "published": "2026-09-16 05:48:28",
+      "timestamp": 1789537708
+    },
+    {
+      "id": "deb85e6704c87ca1065da5dbde5386f3d5dabd45",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw. \"JWT authentication",
+      "published": "2026-09-16 05:18:06",
+      "timestamp": 1789535886
+    },
     {
       "id": "184414d718246f1ce4045f499d8a39cb4b39ee24",
       "source": "BleepingComputer",
@@ -230,16 +260,6 @@
       "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
       "published": "2026-09-14 19:03:51",
       "timestamp": 1789412631
-    },
-    {
-      "id": "487bda9376ca8557be412c19f78603e824a6440e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
-      "published": "2026-09-14 18:34:16",
-      "timestamp": 1789410856
     },
     {
       "id": "afa4f37f330099508c6aa92bd638ca9290e5f730",
@@ -720,26 +740,6 @@
       "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a check of the file on disk can come back clean. Those three scripts are",
       "published": "2026-09-09 07:36:49",
       "timestamp": 1788939409
-    },
-    {
-      "id": "88c9d1f1bef2ec46b0aff04dcbe505a5703bf72a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reported last month. \"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414,\" Chaotic",
-      "published": "2026-09-09 06:47:27",
-      "timestamp": 1788936447
-    },
-    {
-      "id": "951e883e1c7c5df962450e1ed2ccebd2f2ee66da",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-      "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application The vulnerability, tracked as CVE-2026-44756 (CVSS score: 10.0), has been described as a case of memory corruption. Discovered and reported by SAP",
-      "published": "2026-09-09 06:25:45",
-      "timestamp": 1788935145
     },
     {
       "id": "824b3201597e81ab6e3c3d0f19e1b1fb31b8a467",
