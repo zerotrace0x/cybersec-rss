@@ -1,6 +1,36 @@
 {
-  "generated_at": 1789583415,
+  "generated_at": 1789600715,
   "items": [
+    {
+      "id": "4b05bcbbbb5bd5ec02576c9572e313920b582891",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+      "published": "2026-09-16 20:39:29",
+      "timestamp": 1789591169
+    },
+    {
+      "id": "f51279e410e0f9b619c8598f86d0dcabdfa241bd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+      "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
+      "published": "2026-09-16 20:24:55",
+      "timestamp": 1789590295
+    },
+    {
+      "id": "39a74e3c08aaffd3b893b45023726eeda9b08095",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+      "published": "2026-09-16 18:50:53",
+      "timestamp": 1789584653
+    },
     {
       "id": "00a0b5c2f61578928a20a9a796de23ee366a45f5",
       "source": "Krebs on Security",
@@ -100,6 +130,16 @@
       "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
       "published": "2026-09-16 12:11:19",
       "timestamp": 1789560679
+    },
+    {
+      "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76460 Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability CVE-2026-87886 Acronis Backup Incorrect Default Permissions Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing S",
+      "published": "2026-09-16 12:00:00",
+      "timestamp": 1789560000
     },
     {
       "id": "5fbab075760374f541fbc829bab74d607901866f",
@@ -282,26 +322,6 @@
       "timestamp": 1789483510
     },
     {
-      "id": "45ece2c8f967e29245251457fde7de5f7535b356",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-      "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-      "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
-      "published": "2026-09-15 13:45:54",
-      "timestamp": 1789479954
-    },
-    {
-      "id": "18712159467985f780fbadd6c3e9ee5b4735210f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
-      "published": "2026-09-15 12:16:32",
-      "timestamp": 1789474592
-    },
-    {
       "id": "c5789d9297a8040c026dc70c20392681cf791797",
       "source": "The Hacker News",
       "source_category": "General",
@@ -330,16 +350,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Services (AWS) and Microsoft Azure instances, and infrastructure state files, per F5 Labs. The",
       "published": "2026-09-15 11:12:32",
       "timestamp": 1789470752
-    },
-    {
-      "id": "c58edc5a34b995eb5d15aab092393e11f18e44c0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
-      "published": "2026-09-15 09:50:25",
-      "timestamp": 1789465825
     },
     {
       "id": "73547a707a99e83fd5aeafcb0ba352e35de32955",
@@ -812,7 +822,7 @@
       "timestamp": 1788523200
     },
     {
-      "id": "5630285af0a69986a5e5305d7a7a58e3c2b42253",
+      "id": "de4eed30559cc757b2805643592d02a938b7b679",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
@@ -862,7 +872,7 @@
       "timestamp": 1788302428
     },
     {
-      "id": "41dc14b1143b2519f97badbf9dc46f0f5962ec1e",
+      "id": "614f23b8cb401ec6cc8377ffd6d4a54cd69dbec5",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Cybersecurity IR Workshop: The workshop you shouldn\u2019t miss",
@@ -1140,16 +1150,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2021-27137 DD-WRT Stack-Based Buffer Overflow Vulnerability CVE-2026-0770 Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability CVE-2026-63030 WordPress Core Interpretation Conflict Vulnerability CVE-2026-60137 WordPress Core SQL Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber a",
       "published": "2026-07-21 12:00:00",
       "timestamp": 1784635200
-    },
-    {
-      "id": "3c80d184160329020c0cd99fbd7909fe1697da11",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/16/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-25089 Fortinet FortiSandbox OS Command Injection Vulnerability CVE-2026-39808 Fortinet FortiSandbox OS Command Injection Vulnerability CVE-2026-58644 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterpr",
-      "published": "2026-07-16 12:00:00",
-      "timestamp": 1784203200
     },
     {
       "id": "be7c17917410f9cd1525e071cb6163600654e342",
