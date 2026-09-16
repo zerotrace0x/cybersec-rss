@@ -1,6 +1,86 @@
 {
-  "generated_at": 1789545421,
+  "generated_at": 1789566442,
   "items": [
+    {
+      "id": "ba9ad6b84dc9b9c9a902f0ab9a3a70812097ed0e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+      "published": "2026-09-16 12:16:32",
+      "timestamp": 1789560992
+    },
+    {
+      "id": "6c5c4afddbfde4a5dd39aa801dafa080c88b6da9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+      "published": "2026-09-16 12:11:19",
+      "timestamp": 1789560679
+    },
+    {
+      "id": "fdc1ca5a81f6b8d24a4bc6adb09624da54f80fec",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud",
+      "published": "2026-09-16 11:58:00",
+      "timestamp": 1789559880
+    },
+    {
+      "id": "8c6bae24b25f17ca7f3cb09930d47ac1f9d79d10",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error in the code,\" according to a description of the bug in the NIST National Vulnerability Database",
+      "published": "2026-09-16 11:15:58",
+      "timestamp": 1789557358
+    },
+    {
+      "id": "372c78aaf500be652fd207f579755cccb66f5a09",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react.",
+      "published": "2026-09-16 11:15:48",
+      "timestamp": 1789557348
+    },
+    {
+      "id": "5a1d89f1865daab856756a4df75f6068cee1eca4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "2026-09-16 11:14:28",
+      "timestamp": 1789557268
+    },
+    {
+      "id": "63b7b7ad1232753cf3de2e37f3dba7ac654365b1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions - Acronis Backup plugin for cPanel & WHM (Linux",
+      "published": "2026-09-16 11:08:54",
+      "timestamp": 1789556934
+    },
+    {
+      "id": "804c17a1f8482bcfed461c7e5df0e2435e064b5d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Windows Server 2022 reaches end of mainstream support next month",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+      "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+      "published": "2026-09-16 09:10:20",
+      "timestamp": 1789549820
+    },
     {
       "id": "8f2b30d7e64366c2eebaba68bcbcd7556ebf80d2",
       "source": "BleepingComputer",
@@ -220,46 +300,6 @@
       "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the moniker UTA0560, said the activity targeted multiple non-governmental organizations (NGOs) on September 1, 2026. \"The",
       "published": "2026-09-15 05:31:05",
       "timestamp": 1789450265
-    },
-    {
-      "id": "44941477d0c550a964fcc8ba96b24ef9b8c8a09b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
-      "published": "2026-09-14 20:52:18",
-      "timestamp": 1789419138
-    },
-    {
-      "id": "5f39ce5ea19324330a6a95bccffb09ed53caaca3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-      "published": "2026-09-14 20:36:02",
-      "timestamp": 1789418162
-    },
-    {
-      "id": "cbb36e5ec2b7f697b790232c60ad02363f97f11b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
-      "published": "2026-09-14 19:51:04",
-      "timestamp": 1789415464
-    },
-    {
-      "id": "28fbebd1f455c42e0f0457894c4420bc5c5605a8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
-      "published": "2026-09-14 19:03:51",
-      "timestamp": 1789412631
     },
     {
       "id": "afa4f37f330099508c6aa92bd638ca9290e5f730",
@@ -700,46 +740,6 @@
       "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their own computer or server, and it holds their bitcoin. The flaw affects versions v1.7.0 through",
       "published": "2026-09-09 10:43:04",
       "timestamp": 1788950584
-    },
-    {
-      "id": "e7c7a76702ce77927ea72214cbd7d39b3e56eb7f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at an industrial-scale and one that forms the \"core\" of their AI development strategy, according to",
-      "published": "2026-09-09 09:32:26",
-      "timestamp": 1788946346
-    },
-    {
-      "id": "5ecd6a7921ea957d0cb9bed34c0a7c66c43b03e7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds write in V8 in Google Chrome prior to",
-      "published": "2026-09-09 09:11:03",
-      "timestamp": 1788945063
-    },
-    {
-      "id": "c7bc0e0704fcc94d3ce20aa4d594597220b5e428",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user. cPanel published the advisory on September 8 and says every supported version of cPanel and WHM is affected.",
-      "published": "2026-09-09 08:19:32",
-      "timestamp": 1788941972
-    },
-    {
-      "id": "b0510bade52188c41453aa69aa6af408b4ce6703",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a check of the file on disk can come back clean. Those three scripts are",
-      "published": "2026-09-09 07:36:49",
-      "timestamp": 1788939409
     },
     {
       "id": "824b3201597e81ab6e3c3d0f19e1b1fb31b8a467",
