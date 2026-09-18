@@ -1,6 +1,16 @@
 {
-  "generated_at": 1789761892,
+  "generated_at": 1789771987,
   "items": [
+    {
+      "id": "ed9ac05fda4c0564e49c854cf05940e9433337e9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated. The flaws",
+      "published": "2026-09-18 18:02:24",
+      "timestamp": 1789754544
+    },
     {
       "id": "31a1b6a3333fb2654f322e6a47c9d4d770365cbf",
       "source": "The Hacker News",
@@ -90,6 +100,16 @@
       "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
       "published": "2026-09-18 12:16:32",
       "timestamp": 1789733792
+    },
+    {
+      "id": "9cbace83e6ca72cf36c3d97d215525f99592de43",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-39682 Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirement",
+      "published": "2026-09-18 12:00:00",
+      "timestamp": 1789732800
     },
     {
       "id": "1ed42043752be1daec9b3c459377699e9ba452e9",
@@ -712,16 +732,6 @@
       "timestamp": 1789370679
     },
     {
-      "id": "3e573d5166b33cdcde4a90bf81445181176cdd96",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
-      "published": "2026-09-13 10:11:48",
-      "timestamp": 1789294308
-    },
-    {
       "id": "ede47a882cea80e60559e56d22e8e947e0a9fbe1",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1130,16 +1140,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-68686 Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability CVE-2026-16812 Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (",
       "published": "2026-07-27 12:00:00",
       "timestamp": 1785153600
-    },
-    {
-      "id": "190cf73dbf61e3a9e51866a3c9c4df65b8f4e568",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-16232 Check Point SmartConsole Improper Authentication Vulnerability CVE-2026-50522 Microsoft SharePoint Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
-      "published": "2026-07-22 12:00:00",
-      "timestamp": 1784721600
     },
     {
       "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
