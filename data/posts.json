@@ -1,6 +1,16 @@
 {
-  "generated_at": 1789782610,
+  "generated_at": 1789803282,
   "items": [
+    {
+      "id": "cb7434b7fbfc8fb7f00cae7bdff00ac4569b5dff",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2025-39682 (CVSS score: 9.8) - An improper check for unusual or exceptional conditions vulnerability in the TLS receive path",
+      "published": "2026-09-19 06:24:10",
+      "timestamp": 1789799050
+    },
     {
       "id": "ed9ac05fda4c0564e49c854cf05940e9433337e9",
       "source": "The Hacker News",
@@ -407,7 +417,7 @@
       "source_category": "General",
       "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
       "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the site are now greeted by a seizure banner that states - \"This domain has been seized by the",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the sites are now greeted by a seizure banner that states - \"This domain has been seized by",
       "published": "2026-09-17 05:13:46",
       "timestamp": 1789622026
     },
@@ -722,16 +732,6 @@
       "timestamp": 1789387080
     },
     {
-      "id": "fcd0f4ec2588ab40b85f8e5b85f1a3789adc79bf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the Google Chrome Web Store and Mozilla Firefox Add-Ons store - Chrome -",
-      "published": "2026-09-14 07:24:39",
-      "timestamp": 1789370679
-    },
-    {
       "id": "ede47a882cea80e60559e56d22e8e947e0a9fbe1",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -862,7 +862,7 @@
       "timestamp": 1788523200
     },
     {
-      "id": "de4eed30559cc757b2805643592d02a938b7b679",
+      "id": "5630285af0a69986a5e5305d7a7a58e3c2b42253",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
