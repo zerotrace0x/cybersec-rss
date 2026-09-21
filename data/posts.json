@@ -1,6 +1,76 @@
 {
-  "generated_at": 1789978495,
+  "generated_at": 1790004175,
   "items": [
+    {
+      "id": "f5c12a867381e94ef8b05fe60a483ae8a4f1059f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+      "published": "2026-09-21 14:42:37",
+      "timestamp": 1790001757
+    },
+    {
+      "id": "36d1a24d3de737d3947dd6d9354d7b32a5d4267e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not",
+      "published": "2026-09-21 14:24:13",
+      "timestamp": 1790000653
+    },
+    {
+      "id": "3d3de390e8f72776f899738bd97b7e17af4b7dda",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary",
+      "published": "2026-09-21 14:15:40",
+      "timestamp": 1790000140
+    },
+    {
+      "id": "d952f3474e34fa64eb5e32e0d96f9b3fba9d301d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upcoming audits. [...]",
+      "published": "2026-09-21 14:02:12",
+      "timestamp": 1789999332
+    },
+    {
+      "id": "3b0a477ba965fe2c6f30fb67b6314100d7826dc3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "published": "2026-09-21 13:16:20",
+      "timestamp": 1789996580
+    },
+    {
+      "id": "6c70194fa39b571fbe904c15ddd312221dee40cb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: September updates break File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+      "published": "2026-09-21 11:45:54",
+      "timestamp": 1789991154
+    },
+    {
+      "id": "4f9e8bc82231bc102cbf1686fdd647ec740fa9c3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
+      "published": "2026-09-21 08:39:38",
+      "timestamp": 1789979978
+    },
     {
       "id": "0fd864d5d580982804604656876b575128dec2a2",
       "source": "The Hacker News",
@@ -242,16 +312,6 @@
       "timestamp": 1789735624
     },
     {
-      "id": "1c177f6bf1ed7753fe9d13514a9c5370e64e7fd4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-      "published": "2026-09-18 12:16:32",
-      "timestamp": 1789733792
-    },
-    {
       "id": "9cbace83e6ca72cf36c3d97d215525f99592de43",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -302,16 +362,6 @@
       "timestamp": 1789728006
     },
     {
-      "id": "14efe359f5c6e0e58b9b5cb449b703266714d0f7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "published": "2026-09-18 09:34:33",
-      "timestamp": 1789724073
-    },
-    {
       "id": "efc4ba677dacae498364d5b67be710771a3e9e5f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -322,16 +372,6 @@
       "timestamp": 1789723083
     },
     {
-      "id": "b52d239a1fc49d9587293c818ab90a77dcab174b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-      "published": "2026-09-18 07:35:31",
-      "timestamp": 1789716931
-    },
-    {
       "id": "c078d81ee2dcba3b78a9cd2e74fc84e5c004cca6",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,16 +380,6 @@
       "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phishing) and malvertising campaigns leading to deceptive third-party download portals, RatHat uses",
       "published": "2026-09-18 06:17:25",
       "timestamp": 1789712245
-    },
-    {
-      "id": "dab5da3add07fb1e47051343e2ffa83689a6b4c0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
-      "published": "2026-09-17 21:50:26",
-      "timestamp": 1789681826
     },
     {
       "id": "d6ef5c780efe7e6bb447808318d23124edb25185",
@@ -692,36 +722,6 @@
       "timestamp": 1789470752
     },
     {
-      "id": "73547a707a99e83fd5aeafcb0ba352e35de32955",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
-      "published": "2026-09-15 06:52:16",
-      "timestamp": 1789455136
-    },
-    {
-      "id": "80c2c31d4b1e8f183d2c4ba99e051fda7a92845d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of insufficient validation in the email parsing logic that could allow an unauthenticated, remote attacker",
-      "published": "2026-09-15 06:11:11",
-      "timestamp": 1789452671
-    },
-    {
-      "id": "233499111814e72c6cebcce5cfc1fa1ae857cfea",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the moniker UTA0560, said the activity targeted multiple non-governmental organizations (NGOs) on September 1, 2026. \"The",
-      "published": "2026-09-15 05:31:05",
-      "timestamp": 1789450265
-    },
-    {
       "id": "9a899e62d81b5b10331783e7e3ae1231725fc5cf",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -872,7 +872,7 @@
       "timestamp": 1788451200
     },
     {
-      "id": "6966d99753e6a410ecb297cd0703a6b67f98b19d",
+      "id": "481944dd9821ebc849aae0c3ce7cd85b96e250e2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
@@ -892,7 +892,7 @@
       "timestamp": 1788350400
     },
     {
-      "id": "495cb131e1509ead8cf6c6e1f748061ac5fbeec1",
+      "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
