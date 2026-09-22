@@ -1,6 +1,56 @@
 {
-  "generated_at": 1790101350,
+  "generated_at": 1790119162,
   "items": [
+    {
+      "id": "4f1da80fd4f4a8887a84b130aa1b07481adad486",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "published": "2026-09-22 21:45:45",
+      "timestamp": 1790113545
+    },
+    {
+      "id": "9878ba39cd2a63e98fa3bdb9ac8b0455e7ea579c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Sweden fines Milj\u00f6data $183,000 over breach affecting 2.2 million",
+      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Milj\u00f6data for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "published": "2026-09-22 21:40:37",
+      "timestamp": 1790113237
+    },
+    {
+      "id": "36a1caaea54fbe979c121d065c3792b9d7d033ac",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+      "published": "2026-09-22 20:35:24",
+      "timestamp": 1790109324
+    },
+    {
+      "id": "c7dea027b33d0293f6294f9f7584767f09762d1e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+      "published": "2026-09-22 19:13:29",
+      "timestamp": 1790104409
+    },
+    {
+      "id": "5897e0bffefc25268c0937ce3507bf91de301cf4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point",
+      "published": "2026-09-22 18:29:39",
+      "timestamp": 1790101779
+    },
     {
       "id": "70fe8668beb63ee48ce2fbbc4a0ac6305c70f626",
       "source": "BleepingComputer",
@@ -10,6 +60,26 @@
       "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
       "published": "2026-09-22 18:04:39",
       "timestamp": 1790100279
+    },
+    {
+      "id": "2d54a7b7f6aa8ac61d9a90f2b43d0a1d3171e2d2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes for every branch the project still supports, back to 4.7, and WordPress is telling site owners",
+      "published": "2026-09-22 18:03:10",
+      "timestamp": 1790100190
+    },
+    {
+      "id": "98cbe26068d653d1127b48a0aaf1f7698e82f3ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was first uploaded to the npm registry in mid-August 2026 by an npm account named \"twdepprobe7731.\"",
+      "published": "2026-09-22 17:58:15",
+      "timestamp": 1790099895
     },
     {
       "id": "04a4d23d561936ed6e578fc9e5c313d2c1f468e0",
@@ -120,6 +190,16 @@
       "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affect the VCO host. Only orchestrators set up to authenticate their Edges with certificates are",
       "published": "2026-09-22 12:29:00",
       "timestamp": 1790080140
+    },
+    {
+      "id": "8a611bcf806c226ddec459255a74ba6018f24ee6",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85102 Check Point Multiple Products Improper Certificate Validation Vulnerability CVE-2026-93616 Check Point Multiple Products Path Traversal Vulnerability CVE-2026-93952 Arista VeloCloud Orchestrator Improper Input Validation Vulnerability CVE-2026-94127 F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability These types of vulnerabilities are a frequen",
+      "published": "2026-09-22 12:00:00",
+      "timestamp": 1790078400
     },
     {
       "id": "4c0f797b916e012d7825a976be42e4ffd02a1527",
@@ -252,16 +332,6 @@
       "timestamp": 1790014991
     },
     {
-      "id": "83a87e08e71de6ab256e30f9aac692368b385384",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-      "published": "2026-09-21 17:54:49",
-      "timestamp": 1790013289
-    },
-    {
       "id": "bff36898ce6905aca8f8f7663949d4776b01650e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -292,26 +362,6 @@
       "timestamp": 1790009851
     },
     {
-      "id": "de9396a1a45dd7f046833ebdfb4594f6f365ffbc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google fined \u20ac403 million over location data privacy violations",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "summary": "Ireland's Data Protection Commission (DPC) has fined Google \u20ac403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-      "published": "2026-09-21 15:41:22",
-      "timestamp": 1790005282
-    },
-    {
-      "id": "f5c12a867381e94ef8b05fe60a483ae8a4f1059f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-      "published": "2026-09-21 14:42:37",
-      "timestamp": 1790001757
-    },
-    {
       "id": "36d1a24d3de737d3947dd6d9354d7b32a5d4267e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -330,16 +380,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary",
       "published": "2026-09-21 14:15:40",
       "timestamp": 1790000140
-    },
-    {
-      "id": "d952f3474e34fa64eb5e32e0d96f9b3fba9d301d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upcoming audits. [...]",
-      "published": "2026-09-21 14:02:12",
-      "timestamp": 1789999332
     },
     {
       "id": "bdb82857ca77ae3f0e0486bb94dd181ea04c0d54",
@@ -692,26 +732,6 @@
       "timestamp": 1789630201
     },
     {
-      "id": "2c778234a444f784cc420aeb9b0784e22bd311b8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication. \"This vulnerability is due to insufficient authentication control on an API endpoint,\" Cisco said. \"An attacker",
-      "published": "2026-09-17 06:39:40",
-      "timestamp": 1789627180
-    },
-    {
-      "id": "fed6d45afe66612c107edb4c32caf01b395941d3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-      "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the sites are now greeted by a seizure banner that states - \"This domain has been seized by",
-      "published": "2026-09-17 05:13:46",
-      "timestamp": 1789622026
-    },
-    {
       "id": "00a0b5c2f61578928a20a9a796de23ee366a45f5",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -720,16 +740,6 @@
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
       "published": "2026-09-16 18:14:22",
       "timestamp": 1789582462
-    },
-    {
-      "id": "e89036f8efed85e79fba3fc61873e026d6c1119e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote attacker to execute arbitrary operating system (OS) commands by taking advantage of a hard-coded",
-      "published": "2026-09-16 15:50:59",
-      "timestamp": 1789573859
     },
     {
       "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
@@ -1140,16 +1150,6 @@
       "summary": "CISA is currently observing a significant increase in cyber threat actors targeting programmable logic controllers (PLCs) in the Water and Wastewater Systems (WWS) Sector. CISA urges critical infrastructure owners, operators, and integrators to remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible. Threat actors targeting exposed PLCs have modified passwords to lock out operators and disconnected the PLCs by changing their IP addresses. This act",
       "published": "2026-07-30 12:00:00",
       "timestamp": 1785412800
-    },
-    {
-      "id": "12e2f00c314d8e06fb1cc142c242fa62a499147d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20316 Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requiremen",
-      "published": "2026-07-29 12:00:00",
-      "timestamp": 1785326400
     },
     {
       "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
