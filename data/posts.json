@@ -1,6 +1,116 @@
 {
-  "generated_at": 1790063932,
+  "generated_at": 1790084555,
   "items": [
+    {
+      "id": "7a9c7fd8170b0878484082d511d6bd9fcf96c144",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
+      "published": "2026-09-22 12:57:07",
+      "timestamp": 1790081827
+    },
+    {
+      "id": "0785e2a45b2774889deab683f02acd847af17917",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "published": "2026-09-22 12:48:06",
+      "timestamp": 1790081286
+    },
+    {
+      "id": "7cadb1f64e0973c90386a475bd8da76e32990135",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try several ways to complete a task. A deterministic application follows the flow its developer wrote. But an AI agent is relentless in its pursuit of done. In May",
+      "published": "2026-09-22 12:30:00",
+      "timestamp": 1790080200
+    },
+    {
+      "id": "ffa0146267c78500eeda0163f29bad4e73e6e3dd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+      "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affect the VCO host. Only orchestrators set up to authenticate their Edges with certificates are",
+      "published": "2026-09-22 12:29:00",
+      "timestamp": 1790080140
+    },
+    {
+      "id": "4c0f797b916e012d7825a976be42e4ffd02a1527",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident escalation workflows. Now in its second year, the harder part of DORA is",
+      "published": "2026-09-22 11:45:00",
+      "timestamp": 1790077500
+    },
+    {
+      "id": "b5e13ca85059870f5753ac82d10f0bfb1786f47d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.",
+      "published": "2026-09-22 11:38:40",
+      "timestamp": 1790077120
+    },
+    {
+      "id": "b87be16baf9a1c2d785cc064d89122ee40da2f20",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
+      "published": "2026-09-22 11:17:41",
+      "timestamp": 1790075861
+    },
+    {
+      "id": "10cc36363b1fac0ab9341414d7557c027c8cef9e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "published": "2026-09-22 09:55:11",
+      "timestamp": 1790070911
+    },
+    {
+      "id": "5a41456321e25ce9b9f8f8c30431a091fe0682db",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit sorted-btree package, an ordinary B-tree/indexing utility,\" Checkmarx said. \"",
+      "published": "2026-09-22 09:38:18",
+      "timestamp": 1790069898
+    },
+    {
+      "id": "743fe03337069f416198d36b5388ed2765eb8f28",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "summary": "\u200bAttackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "2026-09-22 08:53:09",
+      "timestamp": 1790067189
+    },
+    {
+      "id": "05874c291baaeeec5e390a41cf49c8c7ab4272ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute malicious scripts and circumvent standard security protocols,\" Trellix researchers",
+      "published": "2026-09-22 07:52:03",
+      "timestamp": 1790063523
+    },
     {
       "id": "b3444a0ddb61b54f5b583df6377c64367300e115",
       "source": "The Hacker News",
@@ -17,7 +127,7 @@
       "source_category": "General",
       "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
       "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
       "published": "2026-09-22 06:03:14",
       "timestamp": 1790056994
     },
@@ -242,36 +352,6 @@
       "timestamp": 1789843013
     },
     {
-      "id": "87d29481ad8ded088a1b0ae0b403d99222ece18e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
-      "published": "2026-09-19 14:56:31",
-      "timestamp": 1789829791
-    },
-    {
-      "id": "e8a4b6a55e1a54e21b22acd6cc26f8f53d792235",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
-      "published": "2026-09-19 14:05:15",
-      "timestamp": 1789826715
-    },
-    {
-      "id": "963658d4ce82feffc6634003eea1b221ca8bcc99",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-      "published": "2026-09-19 13:48:32",
-      "timestamp": 1789825712
-    },
-    {
       "id": "b7a887d6a1661964ac46b9bef05a28ef8f178475",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +370,6 @@
       "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
       "published": "2026-09-19 13:28:41",
       "timestamp": 1789824521
-    },
-    {
-      "id": "eff3989b93fa63979df5748c0330455e845fbca8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
-      "published": "2026-09-19 11:38:20",
-      "timestamp": 1789817900
     },
     {
       "id": "786b9e6e4e73ea5659cf65f8abae884c1c2c12d8",
@@ -652,16 +722,6 @@
       "timestamp": 1789565827
     },
     {
-      "id": "83effc5809a56484b976d766a6a66ea8c9b8dd21",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install. Yuval Moravchick, who leads",
-      "published": "2026-09-16 13:14:05",
-      "timestamp": 1789564445
-    },
-    {
       "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -680,66 +740,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
       "published": "2026-09-16 12:00:00",
       "timestamp": 1789560000
-    },
-    {
-      "id": "fdc1ca5a81f6b8d24a4bc6adb09624da54f80fec",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud",
-      "published": "2026-09-16 11:58:00",
-      "timestamp": 1789559880
-    },
-    {
-      "id": "8c6bae24b25f17ca7f3cb09930d47ac1f9d79d10",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error in the code,\" according to a description of the bug in the NIST National Vulnerability Database",
-      "published": "2026-09-16 11:15:58",
-      "timestamp": 1789557358
-    },
-    {
-      "id": "372c78aaf500be652fd207f579755cccb66f5a09",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react.",
-      "published": "2026-09-16 11:15:48",
-      "timestamp": 1789557348
-    },
-    {
-      "id": "63b7b7ad1232753cf3de2e37f3dba7ac654365b1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions - Acronis Backup plugin for cPanel & WHM (Linux",
-      "published": "2026-09-16 11:08:54",
-      "timestamp": 1789556934
-    },
-    {
-      "id": "8181bc7c65ff4af2b6ef005b11472528102d3949",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said. The WordPress security company said it has blocked over",
-      "published": "2026-09-16 05:48:28",
-      "timestamp": 1789537708
-    },
-    {
-      "id": "deb85e6704c87ca1065da5dbde5386f3d5dabd45",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw. \"JWT authentication",
-      "published": "2026-09-16 05:18:06",
-      "timestamp": 1789535886
     },
     {
       "id": "9a899e62d81b5b10331783e7e3ae1231725fc5cf",
