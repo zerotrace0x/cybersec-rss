@@ -1,6 +1,86 @@
 {
-  "generated_at": 1790084555,
+  "generated_at": 1790101350,
   "items": [
+    {
+      "id": "70fe8668beb63ee48ce2fbbc4a0ac6305c70f626",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "published": "2026-09-22 18:04:39",
+      "timestamp": 1790100279
+    },
+    {
+      "id": "04a4d23d561936ed6e578fc9e5c313d2c1f468e0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [...]",
+      "published": "2026-09-22 17:17:41",
+      "timestamp": 1790097461
+    },
+    {
+      "id": "d5df03df103327b6e4ca07c29bd596e4022aabac",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver",
+      "published": "2026-09-22 17:03:31",
+      "timestamp": 1790096611
+    },
+    {
+      "id": "3854f14c456b57c749bc3cc699db054c5aacee38",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is",
+      "published": "2026-09-22 16:41:12",
+      "timestamp": 1790095272
+    },
+    {
+      "id": "083b4a965bb01a4ed1f9106f3b27f6173eca9e4e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+      "published": "2026-09-22 16:32:47",
+      "timestamp": 1790094767
+    },
+    {
+      "id": "9e97567e851c890228474ec3ead940356e7bac68",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "summary": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, is a former Microsoft security researcher whose earlier Defender exploits were used in",
+      "published": "2026-09-22 16:14:04",
+      "timestamp": 1790093644
+    },
+    {
+      "id": "860d6d2e8f603c8497e2e3b9d85a406b8250d9b8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
+      "published": "2026-09-22 15:00:00",
+      "timestamp": 1790089200
+    },
+    {
+      "id": "ccefce30a128c652c537b408b38cb04ac18f83da",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+      "summary": "EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure and operations. The post Unmasking EvilTokens: Getting to the root of device code phishing appeared first on Microsoft Security Blog.",
+      "published": "2026-09-22 15:00:00",
+      "timestamp": 1790089200
+    },
     {
       "id": "7a9c7fd8170b0878484082d511d6bd9fcf96c144",
       "source": "BleepingComputer",
@@ -262,16 +342,6 @@
       "timestamp": 1789999332
     },
     {
-      "id": "3b0a477ba965fe2c6f30fb67b6314100d7826dc3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
-      "published": "2026-09-21 13:16:20",
-      "timestamp": 1789996580
-    },
-    {
       "id": "bdb82857ca77ae3f0e0486bb94dd181ea04c0d54",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -280,16 +350,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7273 Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Fede",
       "published": "2026-09-21 12:00:00",
       "timestamp": 1789992000
-    },
-    {
-      "id": "6c70194fa39b571fbe904c15ddd312221dee40cb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: September updates break File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
-      "published": "2026-09-21 11:45:54",
-      "timestamp": 1789991154
     },
     {
       "id": "4f9e8bc82231bc102cbf1686fdd647ec740fa9c3",
@@ -320,26 +380,6 @@
       "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
       "published": "2026-09-21 06:06:44",
       "timestamp": 1789970804
-    },
-    {
-      "id": "947aa41d24dd81e8b20b47678b144739a1092bae",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
-      "published": "2026-09-20 14:11:21",
-      "timestamp": 1789913481
-    },
-    {
-      "id": "9fb153994ba7705940f0bcf0a20533700ab3fc59",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-      "published": "2026-09-20 12:00:00",
-      "timestamp": 1789905600
     },
     {
       "id": "b0192db23bc73ed4cbd27d2f3b772d56a3bbeb0d",
@@ -692,36 +732,6 @@
       "timestamp": 1789573859
     },
     {
-      "id": "3426c99d44fb697456590cd12783164ac3d09ed8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.",
-      "published": "2026-09-16 15:27:49",
-      "timestamp": 1789572469
-    },
-    {
-      "id": "9fe9244bba1d51e9c71e0dcf38e6594d664a5797",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
-      "published": "2026-09-16 14:36:44",
-      "timestamp": 1789569404
-    },
-    {
-      "id": "211c1fe0e060907a799ae52920fb88e3e4fc8b28",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the",
-      "published": "2026-09-16 13:37:07",
-      "timestamp": 1789565827
-    },
-    {
       "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -910,16 +920,6 @@
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9586 Sangoma Switchvox SQL Injection Vulnerability CVE-2026-48710 Kludex Starlette HTTP Request/Response Smuggling Vulnerability CVE-2026-49869 Kestra OSS OS Command Injection Vulnerability CVE-2026-59822 BerriAI LiteLLM Improper Authentication Vulnerability CVE-2026-82329 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-83548 SonicWall",
       "published": "2026-09-02 12:00:00",
       "timestamp": 1788350400
-    },
-    {
-      "id": "4963b62e79c9b3b3e286b1c9259d7ef208fc36a7",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
-      "summary": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical mitigations to help organizations identify, block, and respond to this threat. The post Counterfeit installers to system compromise: Tracking a deceptive software download campaign appeared first on Microsoft Security Bl",
-      "published": "2026-09-01 22:48:28",
-      "timestamp": 1788302908
     },
     {
       "id": "fc027ec0b12584467e446468b72c393147d8c8a0",
