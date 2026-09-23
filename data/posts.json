@@ -1,6 +1,36 @@
 {
-  "generated_at": 1790188911,
+  "generated_at": 1790205324,
   "items": [
+    {
+      "id": "fc9aad686ffac825a28fe4f9cf4a2c7f4a1e39fc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+      "published": "2026-09-23 22:46:01",
+      "timestamp": 1790203561
+    },
+    {
+      "id": "135230d0567a5856a9854851530be501e789220c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "published": "2026-09-23 21:25:13",
+      "timestamp": 1790198713
+    },
+    {
+      "id": "8ce34ddfe754754dd428fb7c178d6b67ca62a42b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "published": "2026-09-23 19:53:54",
+      "timestamp": 1790193234
+    },
     {
       "id": "5d0b4ff50b3be8bfb4be24b2a0d9c553e80e6569",
       "source": "BleepingComputer",
@@ -10,6 +40,16 @@
       "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
       "published": "2026-09-23 18:31:22",
       "timestamp": 1790188282
+    },
+    {
+      "id": "98110c87b5576d515db1d6961730c823d5b7d803",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
+      "published": "2026-09-23 18:06:30",
+      "timestamp": 1790186790
     },
     {
       "id": "ad0993384411b124ac1ddcc0b0f9131cd2821c9e",
@@ -262,16 +302,6 @@
       "timestamp": 1790101779
     },
     {
-      "id": "70fe8668beb63ee48ce2fbbc4a0ac6305c70f626",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-      "published": "2026-09-22 18:04:39",
-      "timestamp": 1790100279
-    },
-    {
       "id": "2d54a7b7f6aa8ac61d9a90f2b43d0a1d3171e2d2",
       "source": "The Hacker News",
       "source_category": "General",
@@ -292,16 +322,6 @@
       "timestamp": 1790099895
     },
     {
-      "id": "04a4d23d561936ed6e578fc9e5c313d2c1f468e0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [...]",
-      "published": "2026-09-22 17:17:41",
-      "timestamp": 1790097461
-    },
-    {
       "id": "d5df03df103327b6e4ca07c29bd596e4022aabac",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,16 +340,6 @@
       "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is",
       "published": "2026-09-22 16:41:12",
       "timestamp": 1790095272
-    },
-    {
-      "id": "083b4a965bb01a4ed1f9106f3b27f6173eca9e4e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-      "published": "2026-09-22 16:32:47",
-      "timestamp": 1790094767
     },
     {
       "id": "9e97567e851c890228474ec3ead940356e7bac68",
@@ -710,16 +720,6 @@
       "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
       "published": "2026-09-18 11:01:01",
       "timestamp": 1789729261
-    },
-    {
-      "id": "66613e5303b2aec5a8c2d9694af2c515aa84ab5a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and",
-      "published": "2026-09-18 10:40:06",
-      "timestamp": 1789728006
     },
     {
       "id": "c7b0b84abd9a9170f2cda5d0ef09b7e468638c69",
