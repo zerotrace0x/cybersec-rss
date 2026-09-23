@@ -1,6 +1,36 @@
 {
-  "generated_at": 1790128766,
+  "generated_at": 1790150407,
   "items": [
+    {
+      "id": "93542efa6df3685f87a0d782602b2fb5190e5714",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "published": "2026-09-23 07:17:23",
+      "timestamp": 1790147843
+    },
+    {
+      "id": "1c88c5f4cd558bf314862bdf1bcb6f9bc2f3ab1c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the request URL, into the image. Vercel, which develops Next.js, fixed the flaw on September 22 in version",
+      "published": "2026-09-23 07:04:40",
+      "timestamp": 1790147080
+    },
+    {
+      "id": "9a197ae6ac9bbb08e134eec83b1ea8bf107a8201",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
+      "published": "2026-09-23 05:30:09",
+      "timestamp": 1790141409
+    },
     {
       "id": "4f1da80fd4f4a8887a84b130aa1b07481adad486",
       "source": "BleepingComputer",
@@ -320,16 +350,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
       "published": "2026-09-21 20:12:17",
       "timestamp": 1790021537
-    },
-    {
-      "id": "a7d6b989cedebd708672f614abc7852feebdee95",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-      "published": "2026-09-21 18:23:11",
-      "timestamp": 1790014991
     },
     {
       "id": "bff36898ce6905aca8f8f7663949d4776b01650e",
@@ -712,26 +732,6 @@
       "timestamp": 1789638818
     },
     {
-      "id": "9ff8083fa999d6e75c2d3c423121f2c47b5df2eb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH). A sender with no credentials can crash the server process, named, with a single request that carries an invalid SIG",
-      "published": "2026-09-17 08:00:29",
-      "timestamp": 1789632029
-    },
-    {
-      "id": "e1d27da89fd62d39e0950ab283dc81a286779b0d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier, including the IDs that make up Gyazo image links. Helpfeel said",
-      "published": "2026-09-17 07:30:01",
-      "timestamp": 1789630201
-    },
-    {
       "id": "00a0b5c2f61578928a20a9a796de23ee366a45f5",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -792,7 +792,7 @@
       "timestamp": 1789128000
     },
     {
-      "id": "9f657edb5fa51f7d7738c493ff603a2babcbb91d",
+      "id": "887fa55de3dca6ddab0f8ea347c2b3bcff8a8eaf",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
@@ -832,7 +832,7 @@
       "timestamp": 1788989400
     },
     {
-      "id": "24ebafa19c236048354ce5220efe38d4c01173f0",
+      "id": "2c344cf9b5ada35ce1cf438a430c0ffdb5c08ff7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Passkey-themed social engineering leads to identity and cloud compromise",
@@ -902,7 +902,7 @@
       "timestamp": 1788523200
     },
     {
-      "id": "de4eed30559cc757b2805643592d02a938b7b679",
+      "id": "5630285af0a69986a5e5305d7a7a58e3c2b42253",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
