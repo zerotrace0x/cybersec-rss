@@ -1,6 +1,96 @@
 {
-  "generated_at": 1790171633,
+  "generated_at": 1790188911,
   "items": [
+    {
+      "id": "5d0b4ff50b3be8bfb4be24b2a0d9c553e80e6569",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "published": "2026-09-23 18:31:22",
+      "timestamp": 1790188282
+    },
+    {
+      "id": "ad0993384411b124ac1ddcc0b0f9131cd2821c9e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button labeled \"Email work item to this project.\" Mail sent to it opens an issue in that project, authored",
+      "published": "2026-09-23 16:53:10",
+      "timestamp": 1790182390
+    },
+    {
+      "id": "8a55013bc834ddafce51ca2cbb88939495e371d7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "published": "2026-09-23 16:20:54",
+      "timestamp": 1790180454
+    },
+    {
+      "id": "16cfbcefeea24be4a44a16d83d64b5544f0d3adb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection bug in the RouterOS login process (CVE-2026-86060). Attack logs date to at",
+      "published": "2026-09-23 16:06:41",
+      "timestamp": 1790179601
+    },
+    {
+      "id": "01dca58ec604fc2e5d3bd082e6193679c6ef82aa",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
+      "summary": "We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together. The post Reimagining the SOC for the agentic era in Microsoft Defender appeared first on Microsoft Security Blog.",
+      "published": "2026-09-23 16:00:00",
+      "timestamp": 1790179200
+    },
+    {
+      "id": "6a79dfbd08b10dce1feca20311886bce3166d352",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "InfraTrust report warns network management systems under attack",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "published": "2026-09-23 14:35:26",
+      "timestamp": 1790174126
+    },
+    {
+      "id": "1b9bb097beff6a4d51136d175c7cfae170d3bda0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.",
+      "published": "2026-09-23 14:17:58",
+      "timestamp": 1790173078
+    },
+    {
+      "id": "c3f0e3ae33129c0ec598e854d567f3992423754d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege escalation. [...]",
+      "published": "2026-09-23 14:01:11",
+      "timestamp": 1790172071
+    },
+    {
+      "id": "fd070e4d8cbf5930c265d1047eba3b69417a228f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below - @memtensor/memos-cloud-openclaw-plugin versions",
+      "published": "2026-09-23 13:52:46",
+      "timestamp": 1790171566
+    },
     {
       "id": "9f70fa198ee6c76325422630a4420e2ba41f389f",
       "source": "BleepingComputer",
@@ -252,16 +342,6 @@
       "timestamp": 1790093644
     },
     {
-      "id": "860d6d2e8f603c8497e2e3b9d85a406b8250d9b8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-      "published": "2026-09-22 15:00:00",
-      "timestamp": 1790089200
-    },
-    {
       "id": "ccefce30a128c652c537b408b38cb04ac18f83da",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -270,26 +350,6 @@
       "summary": "EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens infrastructure and operations. The post Unmasking EvilTokens: Getting to the root of device code phishing appeared first on Microsoft Security Blog.",
       "published": "2026-09-22 15:00:00",
       "timestamp": 1790089200
-    },
-    {
-      "id": "7a9c7fd8170b0878484082d511d6bd9fcf96c144",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
-      "published": "2026-09-22 12:57:07",
-      "timestamp": 1790081827
-    },
-    {
-      "id": "0785e2a45b2774889deab683f02acd847af17917",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-      "published": "2026-09-22 12:48:06",
-      "timestamp": 1790081286
     },
     {
       "id": "7cadb1f64e0973c90386a475bd8da76e32990135",
@@ -350,16 +410,6 @@
       "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
       "published": "2026-09-22 11:17:41",
       "timestamp": 1790075861
-    },
-    {
-      "id": "10cc36363b1fac0ab9341414d7557c027c8cef9e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "published": "2026-09-22 09:55:11",
-      "timestamp": 1790070911
     },
     {
       "id": "5a41456321e25ce9b9f8f8c30431a091fe0682db",
@@ -672,46 +722,6 @@
       "timestamp": 1789728006
     },
     {
-      "id": "efc4ba677dacae498364d5b67be710771a3e9e5f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confidence based on verbose comments, placeholder code, and statistical token-analysis patterns,\"",
-      "published": "2026-09-18 09:18:03",
-      "timestamp": 1789723083
-    },
-    {
-      "id": "c078d81ee2dcba3b78a9cd2e74fc84e5c004cca6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phishing) and malvertising campaigns leading to deceptive third-party download portals, RatHat uses",
-      "published": "2026-09-18 06:17:25",
-      "timestamp": 1789712245
-    },
-    {
-      "id": "d6ef5c780efe7e6bb447808318d23124edb25185",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw",
-      "published": "2026-09-17 18:08:28",
-      "timestamp": 1789668508
-    },
-    {
-      "id": "bec5db77d18d4e808c0cece1a2b245abffbac0dc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying around. Both work often enough. So the threat landscape is not getting cleaner. It is just",
-      "published": "2026-09-17 17:32:22",
-      "timestamp": 1789666342
-    },
-    {
       "id": "c7b0b84abd9a9170f2cda5d0ef09b7e468638c69",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -792,7 +802,7 @@
       "timestamp": 1789128000
     },
     {
-      "id": "887fa55de3dca6ddab0f8ea347c2b3bcff8a8eaf",
+      "id": "9f657edb5fa51f7d7738c493ff603a2babcbb91d",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
@@ -882,7 +892,7 @@
       "timestamp": 1788850800
     },
     {
-      "id": "38921a5e861f64f494014f6a97d72cc4244d0fd1",
+      "id": "0c2c36846be78a746fb8c5f360556e144229151f",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "How to secure edge AI in customer-owned environments",
@@ -902,7 +912,7 @@
       "timestamp": 1788523200
     },
     {
-      "id": "5630285af0a69986a5e5305d7a7a58e3c2b42253",
+      "id": "de4eed30559cc757b2805643592d02a938b7b679",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
@@ -910,16 +920,6 @@
       "summary": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog.",
       "published": "2026-09-03 16:00:00",
       "timestamp": 1788451200
-    },
-    {
-      "id": "481944dd9821ebc849aae0c3ce7cd85b96e250e2",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
-      "summary": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement using legitimate tools, and how Microsoft Defender helps detect and disrupt the activity. The post Impersonating IT support: how threat actors turn a remote session into enterprise-wide access appeared first on Microsoft S",
-      "published": "2026-09-02 22:51:18",
-      "timestamp": 1788389478
     },
     {
       "id": "278b4ec0c6cdaf29d0b25b1f7a45541b6798a7f9",
