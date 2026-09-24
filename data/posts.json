@@ -1,6 +1,46 @@
 {
-  "generated_at": 1790275368,
+  "generated_at": 1790292970,
   "items": [
+    {
+      "id": "84e45459e044a3c031e1524229511cff4b7f3ac5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "published": "2026-09-24 20:53:35",
+      "timestamp": 1790283215
+    },
+    {
+      "id": "5d25a975b8d313f63f94e3c0354ce879cf70fa14",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "published": "2026-09-24 20:10:48",
+      "timestamp": 1790280648
+    },
+    {
+      "id": "bae5527e5f36b9c8a541ffa9f14cb275c85a3d47",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android phone. OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not",
+      "published": "2026-09-24 18:10:18",
+      "timestamp": 1790273418
+    },
+    {
+      "id": "b0da1a58bd89b2015750f7e3819f12313fa26180",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all \u2014 just",
+      "published": "2026-09-24 17:52:43",
+      "timestamp": 1790272363
+    },
     {
       "id": "eeeeac8271e9a4630f384ba0311ad8e9507aadc3",
       "source": "BleepingComputer",
@@ -90,6 +130,16 @@
       "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a system service. The delivered app has the package name \"com.corp.mdm\" Corp MDM",
       "published": "2026-09-24 12:05:27",
       "timestamp": 1790251527
+    },
+    {
+      "id": "f8270a38bbaf37b335ba2fc65b0ec6737f7ced43",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5430 WSO2 Multiple Products Path Traversal Vulnerability CVE-2026-71362 Adobe Commerce and Magento Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based",
+      "published": "2026-09-24 12:00:00",
+      "timestamp": 1790251200
     },
     {
       "id": "7ecb0110ae550dbaba5e33fdefad5c13f83bd647",
@@ -282,16 +332,6 @@
       "timestamp": 1790173078
     },
     {
-      "id": "c3f0e3ae33129c0ec598e854d567f3992423754d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege escalation. [...]",
-      "published": "2026-09-23 14:01:11",
-      "timestamp": 1790172071
-    },
-    {
       "id": "fd070e4d8cbf5930c265d1047eba3b69417a228f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +340,6 @@
       "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below - @memtensor/memos-cloud-openclaw-plugin versions",
       "published": "2026-09-23 13:52:46",
       "timestamp": 1790171566
-    },
-    {
-      "id": "9f70fa198ee6c76325422630a4420e2ba41f389f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "published": "2026-09-23 12:29:53",
-      "timestamp": 1790166593
     },
     {
       "id": "7ebc6e5f5960a6167ab73d9ffe5d977c05ed3432",
@@ -700,26 +730,6 @@
       "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior. \"SolarWinds",
       "published": "2026-09-19 09:31:17",
       "timestamp": 1789810277
-    },
-    {
-      "id": "975c7bd6aa9a21f760c3521346425c545854370d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution. \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote",
-      "published": "2026-09-19 08:18:54",
-      "timestamp": 1789805934
-    },
-    {
-      "id": "3e5f9c0636e0d9ffa6e9ebfded5671c11d461b0d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal. The incidents occurred in May 2026 as part of a test run conducted by Israeli company Irregular. The evaluation partner was also involved in similar hacks disclosed",
-      "published": "2026-09-19 07:51:34",
-      "timestamp": 1789804294
     },
     {
       "id": "9cbace83e6ca72cf36c3d97d215525f99592de43",
@@ -1140,16 +1150,6 @@
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
       "published": "2026-07-30 16:49:00",
       "timestamp": 1785430140
-    },
-    {
-      "id": "e7ece8b85a01a4e589b5d1d65afb841ba786661e",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Water and Wastewater Systems Sector to Protect OT Against Activity Targeting PLCs",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/07/30/cisa-urges-water-and-wastewater-systems-sector-protect-ot-against-activity-targeting-plcs",
-      "summary": "CISA is currently observing a significant increase in cyber threat actors targeting programmable logic controllers (PLCs) in the Water and Wastewater Systems (WWS) Sector. CISA urges critical infrastructure owners, operators, and integrators to remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible. Threat actors targeting exposed PLCs have modified passwords to lock out operators and disconnected the PLCs by changing their IP addresses. This act",
-      "published": "2026-07-30 12:00:00",
-      "timestamp": 1785412800
     },
     {
       "id": "f9f782eea28cf1d2f117437711b5576511620fc5",
