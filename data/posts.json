@@ -1,6 +1,26 @@
 {
-  "generated_at": 1790301882,
+  "generated_at": 1790324050,
   "items": [
+    {
+      "id": "1b0c9743547044ccbd5cd45ebeac5269fd6dc513",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare. The company",
+      "published": "2026-09-25 04:49:22",
+      "timestamp": 1790311762
+    },
+    {
+      "id": "5a46b6bc05c46b2e94adb3545026807e372f7309",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in WSO2 API Control Plane,",
+      "published": "2026-09-25 04:46:34",
+      "timestamp": 1790311594
+    },
     {
       "id": "84e45459e044a3c031e1524229511cff4b7f3ac5",
       "source": "BleepingComputer",
@@ -710,26 +730,6 @@
       "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
       "published": "2026-09-19 13:28:48",
       "timestamp": 1789824528
-    },
-    {
-      "id": "19fa877db5f5abd59d71e796c599d32266adde50",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
-      "published": "2026-09-19 13:28:41",
-      "timestamp": 1789824521
-    },
-    {
-      "id": "786b9e6e4e73ea5659cf65f8abae884c1c2c12d8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior. \"SolarWinds",
-      "published": "2026-09-19 09:31:17",
-      "timestamp": 1789810277
     },
     {
       "id": "9cbace83e6ca72cf36c3d97d215525f99592de43",
