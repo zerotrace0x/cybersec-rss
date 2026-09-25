@@ -1,6 +1,76 @@
 {
-  "generated_at": 1790324050,
+  "generated_at": 1790345625,
   "items": [
+    {
+      "id": "9af029b7ab870428fc1ad5d3bf5471eefef0ae86",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft plans to deprecate Windows Deployment Services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
+      "published": "2026-09-25 12:40:59",
+      "timestamp": 1790340059
+    },
+    {
+      "id": "b6abd88f695ecc62249f0263c101a4448c562e17",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
+      "published": "2026-09-25 11:35:14",
+      "timestamp": 1790336114
+    },
+    {
+      "id": "1ec6cb5402648a79b822d12e7434d20f8691bbfd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere. That dead end used to cost hours of documentation reading,",
+      "published": "2026-09-25 11:30:00",
+      "timestamp": 1790335800
+    },
+    {
+      "id": "147da04a45329774054b0ce2d0f93db2420b7f67",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
+      "published": "2026-09-25 10:35:55",
+      "timestamp": 1790332555
+    },
+    {
+      "id": "9c807f349de5b406a895674f436f51f7008c1985",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+      "published": "2026-09-25 10:30:38",
+      "timestamp": 1790332238
+    },
+    {
+      "id": "25a2dc6cc9192443d1a7dd26376258b2b26f8ffa",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1. The issue stems from a preg_replace() backslash",
+      "published": "2026-09-25 10:14:02",
+      "timestamp": 1790331242
+    },
+    {
+      "id": "87c29e3016c5b85130d9cad45f84070dd96a06e4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "summary": "\u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "published": "2026-09-25 08:33:44",
+      "timestamp": 1790325224
+    },
     {
       "id": "1b0c9743547044ccbd5cd45ebeac5269fd6dc513",
       "source": "The Hacker News",
@@ -262,26 +332,6 @@
       "timestamp": 1790198713
     },
     {
-      "id": "8ce34ddfe754754dd428fb7c178d6b67ca62a42b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-      "published": "2026-09-23 19:53:54",
-      "timestamp": 1790193234
-    },
-    {
-      "id": "5d0b4ff50b3be8bfb4be24b2a0d9c553e80e6569",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "published": "2026-09-23 18:31:22",
-      "timestamp": 1790188282
-    },
-    {
       "id": "98110c87b5576d515db1d6961730c823d5b7d803",
       "source": "The Hacker News",
       "source_category": "General",
@@ -302,16 +352,6 @@
       "timestamp": 1790182390
     },
     {
-      "id": "8a55013bc834ddafce51ca2cbb88939495e371d7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-      "published": "2026-09-23 16:20:54",
-      "timestamp": 1790180454
-    },
-    {
       "id": "16cfbcefeea24be4a44a16d83d64b5544f0d3adb",
       "source": "The Hacker News",
       "source_category": "General",
@@ -330,16 +370,6 @@
       "summary": "We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together. The post Reimagining the SOC for the agentic era in Microsoft Defender appeared first on Microsoft Security Blog.",
       "published": "2026-09-23 16:00:00",
       "timestamp": 1790179200
-    },
-    {
-      "id": "6a79dfbd08b10dce1feca20311886bce3166d352",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-      "published": "2026-09-23 14:35:26",
-      "timestamp": 1790174126
     },
     {
       "id": "1b9bb097beff6a4d51136d175c7cfae170d3bda0",
@@ -700,36 +730,6 @@
       "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed \u201cDark Elevator\u201d by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
       "published": "2026-09-21 07:00:00",
       "timestamp": 1789974000
-    },
-    {
-      "id": "0fd864d5d580982804604656876b575128dec2a2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
-      "published": "2026-09-21 06:06:44",
-      "timestamp": 1789970804
-    },
-    {
-      "id": "b0192db23bc73ed4cbd27d2f3b772d56a3bbeb0d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
-      "published": "2026-09-19 18:36:53",
-      "timestamp": 1789843013
-    },
-    {
-      "id": "b7a887d6a1661964ac46b9bef05a28ef8f178475",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
-      "published": "2026-09-19 13:28:48",
-      "timestamp": 1789824528
     },
     {
       "id": "9cbace83e6ca72cf36c3d97d215525f99592de43",
