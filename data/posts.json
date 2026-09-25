@@ -1,6 +1,36 @@
 {
-  "generated_at": 1790362740,
+  "generated_at": 1790379570,
   "items": [
+    {
+      "id": "7b4e9682760154aa308f05b87a8683de6408d41d",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "published": "2026-09-25 21:44:40",
+      "timestamp": 1790372680
+    },
+    {
+      "id": "f72f5faa1959629261046338186b7c28c4734195",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+      "published": "2026-09-25 21:41:07",
+      "timestamp": 1790372467
+    },
+    {
+      "id": "0647e2bccb1618344e1fc88e6dc04265adebedd8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+      "published": "2026-09-25 20:57:55",
+      "timestamp": 1790369875
+    },
     {
       "id": "a8cbbdbec70b33cc1045bc2be92c151959110f29",
       "source": "BleepingComputer",
@@ -90,6 +120,16 @@
       "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
       "published": "2026-09-25 12:40:59",
       "timestamp": 1790340059
+    },
+    {
+      "id": "ff2af62a831dc30f57dae3477939992b6f565b72",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-87902 WordPress Core Remote File Inclusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Execut",
+      "published": "2026-09-25 12:00:00",
+      "timestamp": 1790337600
     },
     {
       "id": "8a73cdfa3cf7ac610dc5e128d8312f483fe7defd",
@@ -280,26 +320,6 @@
       "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
       "published": "2026-09-24 14:02:12",
       "timestamp": 1790258532
-    },
-    {
-      "id": "ea43c8da1885a34b21a6b11d0ba9ef4eb248eaae",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-      "published": "2026-09-24 13:27:57",
-      "timestamp": 1790256477
-    },
-    {
-      "id": "90a2fbf833333aac122605edbc1ba5709a5f4153",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-      "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
-      "published": "2026-09-24 12:16:32",
-      "timestamp": 1790252192
     },
     {
       "id": "89667475ea38081baef9571b6e516cd6a37aa005",
@@ -1132,16 +1152,6 @@
       "timestamp": 1785931200
     },
     {
-      "id": "70bbcc6b347fce08d849e1b38b072db538443b3f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-9198 IBM Langflow Code Injection Vulnerability CVE-2026-18556 N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-34486 Apache Tomcat Missing Encryption of Sensitive Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the fed",
-      "published": "2026-08-04 12:00:00",
-      "timestamp": 1785844800
-    },
-    {
       "id": "0312964af0604373173eba1a264beae1a267ab4e",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1160,16 +1170,6 @@
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
       "published": "2026-07-22 01:10:38",
       "timestamp": 1784682638
-    },
-    {
-      "id": "be7c17917410f9cd1525e071cb6163600654e342",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "published": "2026-07-14 19:22:42",
-      "timestamp": 1784056962
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
