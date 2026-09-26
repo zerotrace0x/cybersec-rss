@@ -1,6 +1,26 @@
 {
-  "generated_at": 1790446028,
+  "generated_at": 1790464364,
   "items": [
+    {
+      "id": "17e4d2f5daff95b09b1ffe5d8cf676d5ac339842",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+      "published": "2026-09-26 19:03:34",
+      "timestamp": 1790449414
+    },
+    {
+      "id": "7601db02b3a014356be058204144842a6cb7f708",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users. \"The attack chain begins with a fake CAPTCHA page and",
+      "published": "2026-09-26 18:22:52",
+      "timestamp": 1790446972
+    },
     {
       "id": "aa535c12b0374a46906b2a3de8772507f4268371",
       "source": "BleepingComputer",
@@ -280,16 +300,6 @@
       "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1. The issue stems from a preg_replace() backslash",
       "published": "2026-09-25 10:14:02",
       "timestamp": 1790331242
-    },
-    {
-      "id": "87c29e3016c5b85130d9cad45f84070dd96a06e4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-      "summary": "\u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
-      "published": "2026-09-25 08:33:44",
-      "timestamp": 1790325224
     },
     {
       "id": "1b0c9743547044ccbd5cd45ebeac5269fd6dc513",
@@ -740,16 +750,6 @@
       "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta. The flaw is in",
       "published": "2026-09-22 06:33:57",
       "timestamp": 1790058837
-    },
-    {
-      "id": "daee263fba6b199a9da8f92e25e8926eb367faa6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
-      "published": "2026-09-22 06:03:14",
-      "timestamp": 1790056994
     },
     {
       "id": "bdb82857ca77ae3f0e0486bb94dd181ea04c0d54",
