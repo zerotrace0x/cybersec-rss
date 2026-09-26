@@ -1,6 +1,46 @@
 {
-  "generated_at": 1790409719,
+  "generated_at": 1790429135,
   "items": [
+    {
+      "id": "3e2797ee9b7b5bcad1456f9251e65be8f72eabfa",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      "published": "2026-09-26 12:28:41",
+      "timestamp": 1790425721
+    },
+    {
+      "id": "c6f6acb1824db56a3ff51d54458a727c2f25f6ab",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
+      "published": "2026-09-26 09:55:22",
+      "timestamp": 1790416522
+    },
+    {
+      "id": "3c26641e7a64016e3137ca4b39c8ccfbe41e7782",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint",
+      "published": "2026-09-26 08:49:53",
+      "timestamp": 1790412593
+    },
+    {
+      "id": "bdad27842c24b55ef7fa9cca0da29012290ffe71",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief",
+      "published": "2026-09-26 07:48:33",
+      "timestamp": 1790408913
+    },
     {
       "id": "7b4e9682760154aa308f05b87a8683de6408d41d",
       "source": "Krebs on Security",
@@ -310,16 +350,6 @@
       "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic. \"When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instructs the visitor to paste it into the",
       "published": "2026-09-24 14:29:06",
       "timestamp": 1790260146
-    },
-    {
-      "id": "53ce2db637ee9bdc59cf32a06986939256a1f7ac",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
-      "published": "2026-09-24 14:02:12",
-      "timestamp": 1790258532
     },
     {
       "id": "89667475ea38081baef9571b6e516cd6a37aa005",
@@ -720,36 +750,6 @@
       "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers",
       "published": "2026-09-21 17:31:01",
       "timestamp": 1790011861
-    },
-    {
-      "id": "4c140c604542e0805a62e99ffcfb26ee28352fc2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,",
-      "published": "2026-09-21 17:19:00",
-      "timestamp": 1790011140
-    },
-    {
-      "id": "02e1e130d838e0f3ad8e95af907ce18c282ba5c8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
-      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "summary": "Google has been fined \u20ac403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which",
-      "published": "2026-09-21 16:57:31",
-      "timestamp": 1790009851
-    },
-    {
-      "id": "36d1a24d3de737d3947dd6d9354d7b32a5d4267e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not",
-      "published": "2026-09-21 14:24:13",
-      "timestamp": 1790000653
     },
     {
       "id": "bdb82857ca77ae3f0e0486bb94dd181ea04c0d54",
