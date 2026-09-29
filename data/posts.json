@@ -1,6 +1,56 @@
 {
-  "generated_at": 1790642371,
+  "generated_at": 1790672947,
   "items": [
+    {
+      "id": "5966709219ea6dfaf55c01573eb046c776ca8585",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "published": "2026-09-29 09:04:06",
+      "timestamp": 1790672646
+    },
+    {
+      "id": "ded8e72ea230f7677f2ee9e0052f5f970f593562",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "published": "2026-09-29 07:33:12",
+      "timestamp": 1790667192
+    },
+    {
+      "id": "ec9ed7be55868ae2bd8692ee5509faa100f06ad4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
+      "published": "2026-09-29 06:08:25",
+      "timestamp": 1790662105
+    },
+    {
+      "id": "b7614287d4979a527889ae5037f7b82811812864",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
+      "published": "2026-09-29 05:12:32",
+      "timestamp": 1790658752
+    },
+    {
+      "id": "bc25a1d94c75674843a97f5bf75c09e0d316cbfe",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
+      "published": "2026-09-29 04:45:20",
+      "timestamp": 1790657120
+    },
     {
       "id": "e8e78608241069e8a273db53afa3573b5a6b0b06",
       "source": "BleepingComputer",
@@ -282,16 +332,6 @@
       "timestamp": 1790495277
     },
     {
-      "id": "17e4d2f5daff95b09b1ffe5d8cf676d5ac339842",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
-      "published": "2026-09-26 19:03:34",
-      "timestamp": 1790449414
-    },
-    {
       "id": "7601db02b3a014356be058204144842a6cb7f708",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +340,6 @@
       "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users. \"The attack chain begins with a fake CAPTCHA page and",
       "published": "2026-09-26 18:22:52",
       "timestamp": 1790446972
-    },
-    {
-      "id": "aa535c12b0374a46906b2a3de8772507f4268371",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
-      "published": "2026-09-26 16:26:58",
-      "timestamp": 1790440018
     },
     {
       "id": "7905e5288e8ec90319de5c94356a86e4b9e25dfc",
@@ -437,7 +467,7 @@
       "source_category": "General",
       "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
       "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
+      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" Bitget said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
       "published": "2026-09-25 10:35:55",
       "timestamp": 1790332555
     },
@@ -740,36 +770,6 @@
       "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
       "published": "2026-09-23 05:30:09",
       "timestamp": 1790141409
-    },
-    {
-      "id": "5897e0bffefc25268c0937ce3507bf91de301cf4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in. Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point",
-      "published": "2026-09-22 18:29:39",
-      "timestamp": 1790101779
-    },
-    {
-      "id": "2d54a7b7f6aa8ac61d9a90f2b43d0a1d3171e2d2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes for every branch the project still supports, back to 4.7, and WordPress is telling site owners",
-      "published": "2026-09-22 18:03:10",
-      "timestamp": 1790100190
-    },
-    {
-      "id": "98cbe26068d653d1127b48a0aaf1f7698e82f3ad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was first uploaded to the npm registry in mid-August 2026 by an npm account named \"twdepprobe7731.\"",
-      "published": "2026-09-22 17:58:15",
-      "timestamp": 1790099895
     },
     {
       "id": "ccefce30a128c652c537b408b38cb04ac18f83da",
