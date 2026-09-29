@@ -1,6 +1,66 @@
 {
-  "generated_at": 1790621439,
+  "generated_at": 1790642371,
   "items": [
+    {
+      "id": "e8e78608241069e8a273db53afa3573b5a6b0b06",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
+      "published": "2026-09-28 20:56:47",
+      "timestamp": 1790629007
+    },
+    {
+      "id": "75dab2e0a6941cac45e66e2acbc58bb9b6ac6aed",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
+      "published": "2026-09-28 20:31:16",
+      "timestamp": 1790627476
+    },
+    {
+      "id": "09a6ef19d1c3b3e0eedf7a99fd0b62c1eeec4300",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
+      "published": "2026-09-28 19:49:10",
+      "timestamp": 1790624950
+    },
+    {
+      "id": "70a460d2462f671a8b41e5d9fd72fa36069ddc9e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file. The iPhone maker said the",
+      "published": "2026-09-28 19:18:01",
+      "timestamp": 1790623081
+    },
+    {
+      "id": "875b87d2a27c3c77170c1355920c019dc75b4fa0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+      "published": "2026-09-28 18:50:59",
+      "timestamp": 1790621459
+    },
+    {
+      "id": "f931e6cd27e3be03b88594818b88748b2c065b82",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least",
+      "published": "2026-09-28 18:35:42",
+      "timestamp": 1790620542
+    },
     {
       "id": "35bd8afe27e550dc1c952a2094401a66f0943ba9",
       "source": "The Hacker News",
@@ -252,36 +312,6 @@
       "timestamp": 1790440018
     },
     {
-      "id": "29432b507b710b3eb17bcacc00d7ec59090ac225",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
-      "published": "2026-09-26 15:50:38",
-      "timestamp": 1790437838
-    },
-    {
-      "id": "ebad20d47acb8b9dc4a7ee89ee134b152293e672",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-      "published": "2026-09-26 14:19:46",
-      "timestamp": 1790432386
-    },
-    {
-      "id": "3e2797ee9b7b5bcad1456f9251e65be8f72eabfa",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
-      "published": "2026-09-26 12:28:41",
-      "timestamp": 1790425721
-    },
-    {
       "id": "7905e5288e8ec90319de5c94356a86e4b9e25dfc",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,16 +370,6 @@
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
       "published": "2026-09-25 21:44:40",
       "timestamp": 1790372680
-    },
-    {
-      "id": "f72f5faa1959629261046338186b7c28c4734195",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
-      "published": "2026-09-25 21:41:07",
-      "timestamp": 1790372467
     },
     {
       "id": "b6aa03a7a4e6c582b681b55c16983ca06a9dc629",
@@ -750,26 +770,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was first uploaded to the npm registry in mid-August 2026 by an npm account named \"twdepprobe7731.\"",
       "published": "2026-09-22 17:58:15",
       "timestamp": 1790099895
-    },
-    {
-      "id": "d5df03df103327b6e4ca07c29bd596e4022aabac",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver",
-      "published": "2026-09-22 17:03:31",
-      "timestamp": 1790096611
-    },
-    {
-      "id": "3854f14c456b57c749bc3cc699db054c5aacee38",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "summary": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is",
-      "published": "2026-09-22 16:41:12",
-      "timestamp": 1790095272
     },
     {
       "id": "ccefce30a128c652c537b408b38cb04ac18f83da",
