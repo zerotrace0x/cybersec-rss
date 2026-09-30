@@ -1,6 +1,56 @@
 {
-  "generated_at": 1790787833,
+  "generated_at": 1790804047,
   "items": [
+    {
+      "id": "1944ff7636d6c2f98d646a984bc3041faa954a69",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "published": "2026-09-30 20:34:01",
+      "timestamp": 1790800441
+    },
+    {
+      "id": "4b6fb07efe996ade51d05667a43978dc30794ee9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "published": "2026-09-30 19:49:15",
+      "timestamp": 1790797755
+    },
+    {
+      "id": "a2aef6eaa967138f024b3b1946f1f446957753f7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+      "published": "2026-09-30 18:08:34",
+      "timestamp": 1790791714
+    },
+    {
+      "id": "36875f68ef5cf744dfc3671fe355702ac955b2ba",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
+      "published": "2026-09-30 16:46:29",
+      "timestamp": 1790786789
+    },
+    {
+      "id": "14a20d4fbe3b6b1417fbbeaf7bbbf802e77106dd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
+      "published": "2026-09-30 16:32:59",
+      "timestamp": 1790785979
+    },
     {
       "id": "5d79aa77524efccb1e14d173feeedec3516e48ac",
       "source": "BleepingComputer",
@@ -80,6 +130,16 @@
       "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
       "published": "2026-09-30 12:25:10",
       "timestamp": 1790771110
+    },
+    {
+      "id": "ce0402ba89978233c49fdcf35076c2e7cb353128",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76504 Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian ",
+      "published": "2026-09-30 12:00:00",
+      "timestamp": 1790769600
     },
     {
       "id": "6721c154765216aad36a5f0771a921aee0c3e515",
@@ -232,16 +292,6 @@
       "timestamp": 1790704021
     },
     {
-      "id": "5d0e9fe40cdec245bcc98baa52467d598a227368",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
-      "published": "2026-09-29 17:37:40",
-      "timestamp": 1790703460
-    },
-    {
       "id": "28c73818d2305bbd472b2951fb0a9108fc589cf1",
       "source": "The Hacker News",
       "source_category": "General",
@@ -262,16 +312,6 @@
       "timestamp": 1790702408
     },
     {
-      "id": "1085efb7c160caf97010a82f14f956f80aef31ab",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "published": "2026-09-29 17:10:11",
-      "timestamp": 1790701811
-    },
-    {
       "id": "1a84ce0887b23dbea2fd10af133c0b01bb9a90b2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -280,16 +320,6 @@
       "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post \u200b\u200bBeyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog.",
       "published": "2026-09-29 16:00:00",
       "timestamp": 1790697600
-    },
-    {
-      "id": "805a3cf44371bb760b7cf2cd6d7553a7c3e2667c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "published": "2026-09-29 15:39:19",
-      "timestamp": 1790696359
     },
     {
       "id": "186c1a19bcc2e6c62c95f035a9419bfe72fe6dcb",
@@ -792,26 +822,6 @@
       "timestamp": 1790241261
     },
     {
-      "id": "d83c25b74ef2958b2e5f2f1882a9617279695365",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
-      "published": "2026-09-24 07:07:25",
-      "timestamp": 1790233645
-    },
-    {
-      "id": "dd092574bf7a56da36cba1d6e4f34d3682240117",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses. \"The campaign compromised 7 accounts \u2013",
-      "published": "2026-09-24 06:32:03",
-      "timestamp": 1790231523
-    },
-    {
       "id": "01dca58ec604fc2e5d3bd082e6193679c6ef82aa",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -922,22 +932,22 @@
       "timestamp": 1789387200
     },
     {
-      "id": "fab9a0097f422f7e3cc6b3b8fe51cf396c8947c2",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42016 JFrog Artifactory Incorrect Authorization Vulnerability CVE-2026-42018 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-84869 ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant ri",
-      "published": "2026-09-11 12:00:00",
-      "timestamp": 1789128000
-    },
-    {
       "id": "ede47a882cea80e60559e56d22e8e947e0a9fbe1",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85706 GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
+      "published": "2026-09-11 12:00:00",
+      "timestamp": 1789128000
+    },
+    {
+      "id": "fab9a0097f422f7e3cc6b3b8fe51cf396c8947c2",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42016 JFrog Artifactory Incorrect Authorization Vulnerability CVE-2026-42018 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-84869 ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant ri",
       "published": "2026-09-11 12:00:00",
       "timestamp": 1789128000
     },
@@ -1120,16 +1130,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-33824 Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability CVE-2026-55040 Microsoft SharePoint Weak Authentication Vulnerability CVE-2026-59310 Broadcom VMware vCenter Path Traversal Vulnerability CVE-2026-65400 Apple macOS Improper Authentication Vulnerability These types of vulnerabilities are a frequent attack vector for",
       "published": "2026-08-18 12:00:00",
       "timestamp": 1787054400
-    },
-    {
-      "id": "3a2c5aa75e993a88134f31a34b67d8c29a8c16de",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-62593 Ray-Project Ray Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Br",
-      "published": "2026-08-17 12:00:00",
-      "timestamp": 1786968000
     },
     {
       "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
