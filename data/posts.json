@@ -1,6 +1,16 @@
 {
-  "generated_at": 1790735747,
+  "generated_at": 1790759012,
   "items": [
+    {
+      "id": "f75316cb16ef8ca48aa79c172f79ef3377c6cde0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler",
+      "published": "2026-09-30 05:30:30",
+      "timestamp": 1790746230
+    },
     {
       "id": "07e616597534cbac482a92d0c374feaf19423c4f",
       "source": "BleepingComputer",
@@ -97,7 +107,7 @@
       "source_category": "General",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
+      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
       "published": "2026-09-29 17:20:17",
       "timestamp": 1790702417
     },
@@ -800,16 +810,6 @@
       "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts. cPanel has released fixed versions for both,",
       "published": "2026-09-23 12:16:00",
       "timestamp": 1790165760
-    },
-    {
-      "id": "f49cd5dd36d6184e7db15d2768227d5333c5a6d5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a security background then sits down and checks every claim against the target. Which findings are real,",
-      "published": "2026-09-23 11:47:19",
-      "timestamp": 1790164039
     },
     {
       "id": "7199c44c4b98701145b4cf1956830857be2144ee",
