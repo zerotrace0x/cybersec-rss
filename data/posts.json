@@ -1,6 +1,146 @@
 {
-  "generated_at": 1790759012,
+  "generated_at": 1790787833,
   "items": [
+    {
+      "id": "5d79aa77524efccb1e14d173feeedec3516e48ac",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "published": "2026-09-30 15:49:29",
+      "timestamp": 1790783369
+    },
+    {
+      "id": "0a036171e38e7b8605cb5756042520a48ed8860c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a",
+      "published": "2026-09-30 15:24:54",
+      "timestamp": 1790781894
+    },
+    {
+      "id": "382455f1d8ee6af61385140ea99e2e622eca9d3d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
+      "published": "2026-09-30 15:00:15",
+      "timestamp": 1790780415
+    },
+    {
+      "id": "77aa1a62db3f9d1c0fd0b021950c812ab9c8153c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "published": "2026-09-30 14:46:40",
+      "timestamp": 1790779600
+    },
+    {
+      "id": "2c68ed0326ec6b292c5a14b5fd07473cde02524a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
+      "published": "2026-09-30 14:01:11",
+      "timestamp": 1790776871
+    },
+    {
+      "id": "637dc01a9c12d5501cf12a1df52b4a0f37c74257",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
+      "summary": "Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance. The post Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570 appeared first on Microsoft Security Blog.",
+      "published": "2026-09-30 14:00:00",
+      "timestamp": 1790776800
+    },
+    {
+      "id": "1f8c05b69d5a750ec8bb17991c288dbd0780c302",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+      "published": "2026-09-30 13:37:15",
+      "timestamp": 1790775435
+    },
+    {
+      "id": "1e5a2f3d6465b9605d98651dc5bbbe34e75c9c76",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "TeamViewer urges users to patch severe flaws \u201cas soon as possible\u201d",
+      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
+      "published": "2026-09-30 12:25:10",
+      "timestamp": 1790771110
+    },
+    {
+      "id": "6721c154765216aad36a5f0771a921aee0c3e515",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are the six most dangerous techniques that should be on every security team's radar in 2026. 1.",
+      "published": "2026-09-30 11:58:00",
+      "timestamp": 1790769480
+    },
+    {
+      "id": "fc47bd828e1f993983db985e23273af7037dec9a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released. In most cases, they sat under developers' personal accounts",
+      "published": "2026-09-30 11:30:00",
+      "timestamp": 1790767800
+    },
+    {
+      "id": "791d09111c8882490c72d97b909f5d99c9f085d3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "published": "2026-09-30 11:11:46",
+      "timestamp": 1790766706
+    },
+    {
+      "id": "3e1c150d6dc729d0eb3df151750b48fb9aadf9ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365 session theft with remote-access tool deployment, CSuite can turn a phishing incident into broader account compromise, fraud",
+      "published": "2026-09-30 10:45:00",
+      "timestamp": 1790765100
+    },
+    {
+      "id": "a81cafcd2be7e0a3587cfd2defc8eeeb5d87f64e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
+      "published": "2026-09-30 08:24:35",
+      "timestamp": 1790756675
+    },
+    {
+      "id": "65bdd03df9075111cd996465da22e665623e3255",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way",
+      "published": "2026-09-30 08:09:28",
+      "timestamp": 1790755768
+    },
     {
       "id": "f75316cb16ef8ca48aa79c172f79ef3377c6cde0",
       "source": "The Hacker News",
@@ -172,16 +312,6 @@
       "timestamp": 1790691200
     },
     {
-      "id": "12bd7ef5cb61991d29f071b72f324d6d95967e23",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
-      "published": "2026-09-29 14:01:11",
-      "timestamp": 1790690471
-    },
-    {
       "id": "94611a7cf1531c7b3545fae6923a8b0838b766af",
       "source": "The Hacker News",
       "source_category": "General",
@@ -202,26 +332,6 @@
       "timestamp": 1790683200
     },
     {
-      "id": "496be88a0e9c56b1d01327274f89434e9c4d7090",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
-      "published": "2026-09-29 11:41:53",
-      "timestamp": 1790682113
-    },
-    {
-      "id": "5966709219ea6dfaf55c01573eb046c776ca8585",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-      "published": "2026-09-29 09:04:06",
-      "timestamp": 1790672646
-    },
-    {
       "id": "e3e34a1d92e5e12b6a64bf13c59cb43d080b492e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -230,16 +340,6 @@
       "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individual is expected to appear before the",
       "published": "2026-09-29 08:35:10",
       "timestamp": 1790670910
-    },
-    {
-      "id": "ded8e72ea230f7677f2ee9e0052f5f970f593562",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "published": "2026-09-29 07:33:12",
-      "timestamp": 1790667192
     },
     {
       "id": "ec9ed7be55868ae2bd8692ee5509faa100f06ad4",
@@ -270,26 +370,6 @@
       "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
       "published": "2026-09-29 04:45:20",
       "timestamp": 1790657120
-    },
-    {
-      "id": "e8e78608241069e8a273db53afa3573b5a6b0b06",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
-      "published": "2026-09-28 20:56:47",
-      "timestamp": 1790629007
-    },
-    {
-      "id": "75dab2e0a6941cac45e66e2acbc58bb9b6ac6aed",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-      "published": "2026-09-28 20:31:16",
-      "timestamp": 1790627476
     },
     {
       "id": "70a460d2462f671a8b41e5d9fd72fa36069ddc9e",
@@ -732,46 +812,6 @@
       "timestamp": 1790231523
     },
     {
-      "id": "9d4c1b25b70b9f42784368a5f20e7eca16ea0d09",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
-      "published": "2026-09-24 05:36:18",
-      "timestamp": 1790228178
-    },
-    {
-      "id": "98110c87b5576d515db1d6961730c823d5b7d803",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
-      "published": "2026-09-23 18:06:30",
-      "timestamp": 1790186790
-    },
-    {
-      "id": "ad0993384411b124ac1ddcc0b0f9131cd2821c9e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button labeled \"Email work item to this project.\" Mail sent to it opens an issue in that project, authored",
-      "published": "2026-09-23 16:53:10",
-      "timestamp": 1790182390
-    },
-    {
-      "id": "16cfbcefeea24be4a44a16d83d64b5544f0d3adb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection bug in the RouterOS login process (CVE-2026-86060). Attack logs date to at",
-      "published": "2026-09-23 16:06:41",
-      "timestamp": 1790179601
-    },
-    {
       "id": "01dca58ec604fc2e5d3bd082e6193679c6ef82aa",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -782,37 +822,7 @@
       "timestamp": 1790179200
     },
     {
-      "id": "1b9bb097beff6a4d51136d175c7cfae170d3bda0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.",
-      "published": "2026-09-23 14:17:58",
-      "timestamp": 1790173078
-    },
-    {
-      "id": "fd070e4d8cbf5930c265d1047eba3b69417a228f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below - @memtensor/memos-cloud-openclaw-plugin versions",
-      "published": "2026-09-23 13:52:46",
-      "timestamp": 1790171566
-    },
-    {
-      "id": "7ebc6e5f5960a6167ab73d9ffe5d977c05ed3432",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts. cPanel has released fixed versions for both,",
-      "published": "2026-09-23 12:16:00",
-      "timestamp": 1790165760
-    },
-    {
-      "id": "7199c44c4b98701145b4cf1956830857be2144ee",
+      "id": "ccefce30a128c652c537b408b38cb04ac18f83da",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
@@ -870,16 +880,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-39964 Linux Kernel Race Condition Vulnerability CVE-2026-53266 Linux Kernel Out-of-Bounds Write Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulner",
       "published": "2026-09-18 12:00:00",
       "timestamp": 1789732800
-    },
-    {
-      "id": "c7b0b84abd9a9170f2cda5d0ef09b7e468638c69",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "From guidance to action: Security fundamentals that materially reduce risk",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
-      "summary": "AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats. The post From guidance to action: Security fundamentals that materially reduce risk appeared first on Microsoft Security Blog.",
-      "published": "2026-09-17 17:00:00",
-      "timestamp": 1789664400
     },
     {
       "id": "00a0b5c2f61578928a20a9a796de23ee366a45f5",
