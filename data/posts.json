@@ -1,6 +1,56 @@
 {
-  "generated_at": 1790959992,
+  "generated_at": 1790976511,
   "items": [
+    {
+      "id": "1f329251134f272ebc662b108b63edc7465ec1ca",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Frontline Education breach exposes school district employee data",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+      "published": "2026-10-02 19:01:40",
+      "timestamp": 1790967700
+    },
+    {
+      "id": "e5e6e69a1f2c2d4f8248c7600115676342497e06",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "published": "2026-10-02 18:33:01",
+      "timestamp": 1790965981
+    },
+    {
+      "id": "ce31ad35dc6a45bff4c3f3f72d992f54c81e147a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1. The flaw",
+      "published": "2026-10-02 17:33:31",
+      "timestamp": 1790962411
+    },
+    {
+      "id": "f3f6982676cd0de904f4ca31344d1161ff0a1c99",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster",
+      "published": "2026-10-02 17:33:16",
+      "timestamp": 1790962396
+    },
+    {
+      "id": "3d41a09bcea9e69e9697fa4e7d07033e6b24890e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function vulnerability in the csm-authorization-storage gRPC server that an",
+      "published": "2026-10-02 17:02:12",
+      "timestamp": 1790960532
+    },
     {
       "id": "6c3696b7a21060bc91fed2221651240afb4362c8",
       "source": "BleepingComputer",
@@ -50,6 +100,16 @@
       "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our investigation confirmed that these",
       "published": "2026-10-02 12:23:15",
       "timestamp": 1790943795
+    },
+    {
+      "id": "57462b2b12ac6055a346d6c2f9a8f0edd8a5738e",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-102489 Zammad GmbH Zammad Session Fixation Vulnerability CVE-2026-102490 Zammad GmbH Zammad Improper Privilege Management Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o",
+      "published": "2026-10-02 12:00:00",
+      "timestamp": 1790942400
     },
     {
       "id": "8f6f2ddebeec67cb83d27e4e4657f1c726f4f3ec",
@@ -272,16 +332,6 @@
       "timestamp": 1790840976
     },
     {
-      "id": "93fad83be3948043d09695500dca67517af3dc81",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-      "published": "2026-10-01 07:33:57",
-      "timestamp": 1790840037
-    },
-    {
       "id": "3fda3732f4fa5ec77e72de41c58a3870872bd24f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,16 +370,6 @@
       "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
       "published": "2026-10-01 04:35:34",
       "timestamp": 1790829334
-    },
-    {
-      "id": "1944ff7636d6c2f98d646a984bc3041faa954a69",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "published": "2026-09-30 20:34:01",
-      "timestamp": 1790800441
     },
     {
       "id": "48a330f659e3045a10bf5644b9a19e277e2f7f4c",
@@ -727,7 +767,7 @@
       "source_category": "Blue Team",
       "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
-      "summary": "CISA is amplifying Citrix\u2019s disclosure of eight new vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway products: CVE-2026-88771, CVE-2026-88772, CVE-2026-88773, CVE-2026-88774, CVE-2026-88775, CVE-2026-88776, CVE-2026-88777, and CVE-2026-88778. CISA has added CVE-2026-88771 and CVE-2026-88772 to its Known Exploited Vulnerabilities (KEV) Catalog. Both are critical, zero-day vulnerabilities that can independently enable remote code execution. CISA has received reports and ",
+      "summary": "Update October 2, 2026: CISA has updated this Alert to provide a SIGMA detection rule resource to help identify potentially suspicious activity. CISA is amplifying Citrix\u2019s disclosure of eight new vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway products: CVE-2026-88771, CVE-2026-88772, CVE-2026-88773, CVE-2026-88774, CVE-2026-88775, CVE-2026-88776, CVE-2026-88777, and CVE-2026-88778. CISA has added CVE-2026-88771 and CVE-2026-88772 to its Known Exploited Vulnerabiliti",
       "published": "2026-09-27 12:00:00",
       "timestamp": 1790510400
     },
@@ -760,36 +800,6 @@
       "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution. The vulnerability was first exploited as a zero-day",
       "published": "2026-09-26 11:46:40",
       "timestamp": 1790423200
-    },
-    {
-      "id": "720b231fda6f2e996e6e83bad1fc8c97ae936c05",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to",
-      "published": "2026-09-26 10:30:00",
-      "timestamp": 1790418600
-    },
-    {
-      "id": "c6f6acb1824db56a3ff51d54458a727c2f25f6ab",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
-      "published": "2026-09-26 09:55:22",
-      "timestamp": 1790416522
-    },
-    {
-      "id": "3c26641e7a64016e3137ca4b39c8ccfbe41e7782",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint",
-      "published": "2026-09-26 08:49:53",
-      "timestamp": 1790412593
     },
     {
       "id": "7b4e9682760154aa308f05b87a8683de6408d41d",
@@ -912,22 +922,22 @@
       "timestamp": 1789582462
     },
     {
-      "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76460 Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability CVE-2026-87886 Acronis Backup Incorrect Default Permissions Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing S",
-      "published": "2026-09-16 12:00:00",
-      "timestamp": 1789560000
-    },
-    {
       "id": "5fbab075760374f541fbc829bab74d607901866f",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
+      "published": "2026-09-16 12:00:00",
+      "timestamp": 1789560000
+    },
+    {
+      "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76460 Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability CVE-2026-87886 Acronis Backup Incorrect Default Permissions Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing S",
       "published": "2026-09-16 12:00:00",
       "timestamp": 1789560000
     },
@@ -1120,16 +1130,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-72529 TrueConf Server Missing Authentication for Critical Function Vulnerability CVE-2026-72530 TrueConf Server Code Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates B",
       "published": "2026-08-20 12:00:00",
       "timestamp": 1787227200
-    },
-    {
-      "id": "ab55453081fae310a37148c6bcfa4600491c482e",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-64849 MLflow Server-Side Request Forgery Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
-      "published": "2026-08-19 12:00:00",
-      "timestamp": 1787140800
     },
     {
       "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
