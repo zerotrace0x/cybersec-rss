@@ -1,6 +1,76 @@
 {
-  "generated_at": 1790931863,
+  "generated_at": 1790959992,
   "items": [
+    {
+      "id": "6c3696b7a21060bc91fed2221651240afb4362c8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "published": "2026-10-02 16:20:05",
+      "timestamp": 1790958005
+    },
+    {
+      "id": "f27d1fb6e01714f7eacc6d616d590265d147861a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "published": "2026-10-02 15:20:53",
+      "timestamp": 1790954453
+    },
+    {
+      "id": "16c9899fe9c3c86a4d6056158a73063968dcaf45",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
+      "published": "2026-10-02 14:00:10",
+      "timestamp": 1790949610
+    },
+    {
+      "id": "aa0675626488ccab87e4b6b9d633cf6009c416f2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+      "published": "2026-10-02 12:37:40",
+      "timestamp": 1790944660
+    },
+    {
+      "id": "87795696e9854edfe0ff727f09288a7e92ec09e5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our investigation confirmed that these",
+      "published": "2026-10-02 12:23:15",
+      "timestamp": 1790943795
+    },
+    {
+      "id": "8f6f2ddebeec67cb83d27e4e4657f1c726f4f3ec",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides. Then a board member asks three questions: How secure is the organization, overall? What is",
+      "published": "2026-10-02 11:30:00",
+      "timestamp": 1790940600
+    },
+    {
+      "id": "7795badcfc6965cb99244fe6c91ebdc6507a71b2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "published": "2026-10-02 09:29:56",
+      "timestamp": 1790933396
+    },
     {
       "id": "02512f476d7fea6234bc832feef64ad1014aecd1",
       "source": "The Hacker News",
@@ -262,16 +332,6 @@
       "timestamp": 1790800441
     },
     {
-      "id": "4b6fb07efe996ade51d05667a43978dc30794ee9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-      "published": "2026-09-30 19:49:15",
-      "timestamp": 1790797755
-    },
-    {
       "id": "48a330f659e3045a10bf5644b9a19e277e2f7f4c",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -280,16 +340,6 @@
       "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post \u200b\u200bSecure what\u2019s next: Your guide to Microsoft Security at Microsoft Ignite 2026 appeared first on Microsoft Security Blog.",
       "published": "2026-09-30 19:31:00",
       "timestamp": 1790796660
-    },
-    {
-      "id": "a2aef6eaa967138f024b3b1946f1f446957753f7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-      "published": "2026-09-30 18:08:34",
-      "timestamp": 1790791714
     },
     {
       "id": "36875f68ef5cf744dfc3671fe355702ac955b2ba",
@@ -312,16 +362,6 @@
       "timestamp": 1790785979
     },
     {
-      "id": "5d79aa77524efccb1e14d173feeedec3516e48ac",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-      "published": "2026-09-30 15:49:29",
-      "timestamp": 1790783369
-    },
-    {
       "id": "0a036171e38e7b8605cb5756042520a48ed8860c",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,26 +380,6 @@
       "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
       "published": "2026-09-30 15:00:15",
       "timestamp": 1790780415
-    },
-    {
-      "id": "77aa1a62db3f9d1c0fd0b021950c812ab9c8153c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-      "published": "2026-09-30 14:46:40",
-      "timestamp": 1790779600
-    },
-    {
-      "id": "2c68ed0326ec6b292c5a14b5fd07473cde02524a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
-      "published": "2026-09-30 14:01:11",
-      "timestamp": 1790776871
     },
     {
       "id": "637dc01a9c12d5501cf12a1df52b4a0f37c74257",
@@ -772,16 +792,6 @@
       "timestamp": 1790412593
     },
     {
-      "id": "bdad27842c24b55ef7fa9cca0da29012290ffe71",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief",
-      "published": "2026-09-26 07:48:33",
-      "timestamp": 1790408913
-    },
-    {
       "id": "7b4e9682760154aa308f05b87a8683de6408d41d",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -800,16 +810,6 @@
       "summary": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks using compromised service principals appeared first on Microsoft Security Blog.",
       "published": "2026-09-25 15:35:08",
       "timestamp": 1790350508
-    },
-    {
-      "id": "050913d0fc4117c1f2eb19080ef622f2449fdbd7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
-      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-      "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHub Actions are listed below - actions-cool/issues-helper actions-cool/maintain-one-comment Visiting either of the repositories now shows the message: \"Access to this",
-      "published": "2026-09-25 14:44:41",
-      "timestamp": 1790347481
     },
     {
       "id": "ff2af62a831dc30f57dae3477939992b6f565b72",
