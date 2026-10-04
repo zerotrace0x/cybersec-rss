@@ -1,6 +1,26 @@
 {
-  "generated_at": 1791145927,
+  "generated_at": 1791157119,
   "items": [
+    {
+      "id": "f81e8ad265a792264d53509d01ee9be2183052a6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
+      "published": "2026-10-04 21:58:01",
+      "timestamp": 1791151081
+    },
+    {
+      "id": "f2aa77df8f526c6972357a013fe11e9444cb0f4b",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88779 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability",
+      "published": "2026-10-04 12:00:00",
+      "timestamp": 1791115200
+    },
     {
       "id": "92f7eea07368163c6bdeff03b79b0934743fc221",
       "source": "BleepingComputer",
@@ -300,16 +320,6 @@
       "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri has described the malware as a \"self-healing mesh\" that's",
       "published": "2026-10-01 14:37:35",
       "timestamp": 1790865455
-    },
-    {
-      "id": "f743c57b89fd3f378a9eed9b9268377c6b84410b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
-      "published": "2026-10-01 14:25:14",
-      "timestamp": 1790864714
     },
     {
       "id": "45b6c90510e5826e0bcdd89a06ac7854c8938559",
@@ -922,22 +932,22 @@
       "timestamp": 1789582462
     },
     {
-      "id": "5fbab075760374f541fbc829bab74d607901866f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
-      "published": "2026-09-16 12:00:00",
-      "timestamp": 1789560000
-    },
-    {
       "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76460 Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability CVE-2026-87886 Acronis Backup Incorrect Default Permissions Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing S",
+      "published": "2026-09-16 12:00:00",
+      "timestamp": 1789560000
+    },
+    {
+      "id": "5fbab075760374f541fbc829bab74d607901866f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
       "published": "2026-09-16 12:00:00",
       "timestamp": 1789560000
     },
@@ -1120,16 +1130,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-73570 Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federa",
       "published": "2026-08-21 12:00:00",
       "timestamp": 1787313600
-    },
-    {
-      "id": "8d084ba6bbafc477be06f74b88883eeb05f06662",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/08/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-72529 TrueConf Server Missing Authentication for Critical Function Vulnerability CVE-2026-72530 TrueConf Server Code Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates B",
-      "published": "2026-08-20 12:00:00",
-      "timestamp": 1787227200
     },
     {
       "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
