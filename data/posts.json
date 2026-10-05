@@ -1,6 +1,46 @@
 {
-  "generated_at": 1791167675,
+  "generated_at": 1791193218,
   "items": [
+    {
+      "id": "825a9f1a860775a308a2d6ca2e6c0061b3187884",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+      "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+      "published": "2026-10-05 09:37:56",
+      "timestamp": 1791193076
+    },
+    {
+      "id": "2d8f0e8594d984d0e26c795b27aa1a4925a2d128",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google halts open-source bug bounty program amid AI spam surge",
+      "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+      "published": "2026-10-05 08:27:46",
+      "timestamp": 1791188866
+    },
+    {
+      "id": "2f484786aa6e4c6fa77a808ee8b8bd72c19d0385",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number generator (PRNG) that can lead to a predictable key, which an attacker can then use to gain unauthorized access and",
+      "published": "2026-10-05 08:09:23",
+      "timestamp": 1791187763
+    },
+    {
+      "id": "febb40704c0382f1c103e48ec53d373f1c0d3304",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
+      "published": "2026-10-05 06:40:19",
+      "timestamp": 1791182419
+    },
     {
       "id": "f81e8ad265a792264d53509d01ee9be2183052a6",
       "source": "BleepingComputer",
@@ -37,7 +77,7 @@
       "source_category": "General",
       "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
       "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif \u200cal-Din Khader, is said to have been brought into custody on September 29, 2026, cooperating with the U.S. Federal Bureau of Investigation (FBI) and",
+      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif \u200cal-Din Khader, is said to have been brought into custody on September 29, 2026, and cooperating with the U.S. Federal Bureau of Investigation (FBI)",
       "published": "2026-10-04 07:22:05",
       "timestamp": 1791098525
     },
@@ -270,26 +310,6 @@
       "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
       "published": "2026-10-01 22:42:49",
       "timestamp": 1790894569
-    },
-    {
-      "id": "362ab20c662221535aa4dabbe7229a251a33522e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-      "published": "2026-10-01 20:52:50",
-      "timestamp": 1790887970
-    },
-    {
-      "id": "3562588b9ad5db464682e86d8cc71cd5474288d0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
-      "published": "2026-10-01 19:32:47",
-      "timestamp": 1790883167
     },
     {
       "id": "295234e69498eff5d8e05ef43e6716c92ee8ce5a",
@@ -770,26 +790,6 @@
       "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and strangely easy exploit paths kept doing useful work for attackers. Nothing",
       "published": "2026-09-28 14:00:53",
       "timestamp": 1790604053
-    },
-    {
-      "id": "a110ca216f6d5ce532b309e0af7b073ec1972e24",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems\u2014often without the same controls applied to human users. According to Okta\u2019s Global CISO Insights 2026 report, only 47% of CISOs are confident they can identify every AI agent in their environment. Even among those who feel",
-      "published": "2026-09-28 11:58:00",
-      "timestamp": 1790596680
-    },
-    {
-      "id": "73ec1daa21d9ffd2389dfeb77dc2e991bbafb951",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant installs the framework unchanged, then overwrites its SOUL.md persona file,\" ThreatDown said. \"The 39-line prompt directs it to execute tasks received through",
-      "published": "2026-09-28 11:46:00",
-      "timestamp": 1790595960
     },
     {
       "id": "c15a02c5c0b2388627b810df7638d77708a87557",
