@@ -1,6 +1,86 @@
 {
-  "generated_at": 1791278971,
+  "generated_at": 1791307685,
   "items": [
+    {
+      "id": "40b4445ac69cac933326f3c3dbedd0e70a972268",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+      "published": "2026-10-06 16:33:54",
+      "timestamp": 1791304434
+    },
+    {
+      "id": "266cf6845188d3706449c9abde03638868ab1732",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "CISO perspectives on managing vulnerability risks in the age of AI",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+      "summary": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in the age of AI appeared first on Microsoft Security Blog.",
+      "published": "2026-10-06 16:00:00",
+      "timestamp": 1791302400
+    },
+    {
+      "id": "35e0f3b447e1e6d7fe2664de7d126c05deeeb92d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+      "published": "2026-10-06 15:16:44",
+      "timestamp": 1791299804
+    },
+    {
+      "id": "dc1767d56a51ac01f6301482b23f75d9d4773420",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
+      "published": "2026-10-06 14:00:10",
+      "timestamp": 1791295210
+    },
+    {
+      "id": "9902cad1ebb59f497e84241aaf9673f2995fec2b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in",
+      "published": "2026-10-06 11:57:00",
+      "timestamp": 1791287820
+    },
+    {
+      "id": "043dc6e0e09b0e3079abba4361a86541a1873005",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+      "published": "2026-10-06 11:31:48",
+      "timestamp": 1791286308
+    },
+    {
+      "id": "a3323ba0be334def0184e63d7e67f882f174222f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. \"The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,",
+      "published": "2026-10-06 11:26:25",
+      "timestamp": 1791285985
+    },
+    {
+      "id": "2207d44a1dbf23cf8db9d3e0cc8c2f22449a7cd6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security, traced critical vulnerabilities in Anthropic's MCP",
+      "published": "2026-10-06 11:02:30",
+      "timestamp": 1791284550
+    },
     {
       "id": "328411c3460bd104397f68156af29078e44d26e8",
       "source": "BleepingComputer",
@@ -10,6 +90,16 @@
       "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
       "published": "2026-10-06 09:25:50",
       "timestamp": 1791278750
+    },
+    {
+      "id": "b1a10b4a68184157e1d9a32c101dd7c0d9509a29",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. Reports about supply chain compromises are still accepted, and reports filed before October 1 are",
+      "published": "2026-10-06 09:21:47",
+      "timestamp": 1791278507
     },
     {
       "id": "8b2a54d33545eda39da01a589bad128c58c04275",
@@ -202,26 +292,6 @@
       "timestamp": 1791196125
     },
     {
-      "id": "825a9f1a860775a308a2d6ca2e6c0061b3187884",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
-      "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
-      "published": "2026-10-05 09:37:56",
-      "timestamp": 1791193076
-    },
-    {
-      "id": "2d8f0e8594d984d0e26c795b27aa1a4925a2d128",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google halts open-source bug bounty program amid AI spam surge",
-      "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
-      "published": "2026-10-05 08:27:46",
-      "timestamp": 1791188866
-    },
-    {
       "id": "2f484786aa6e4c6fa77a808ee8b8bd72c19d0385",
       "source": "The Hacker News",
       "source_category": "General",
@@ -242,16 +312,6 @@
       "timestamp": 1791182419
     },
     {
-      "id": "f81e8ad265a792264d53509d01ee9be2183052a6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
-      "published": "2026-10-04 21:58:01",
-      "timestamp": 1791151081
-    },
-    {
       "id": "f2aa77df8f526c6972357a013fe11e9444cb0f4b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -260,16 +320,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88779 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability",
       "published": "2026-10-04 12:00:00",
       "timestamp": 1791115200
-    },
-    {
-      "id": "92f7eea07368163c6bdeff03b79b0934743fc221",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-      "published": "2026-10-04 10:53:21",
-      "timestamp": 1791111201
     },
     {
       "id": "cd1cbf97f9b47232ecfc2742a194cc0db50d495a",
@@ -702,16 +752,6 @@
       "timestamp": 1790702417
     },
     {
-      "id": "5797db4796e274513c8f7401556ddcb32931b379",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
-      "published": "2026-09-29 17:20:08",
-      "timestamp": 1790702408
-    },
-    {
       "id": "1a84ce0887b23dbea2fd10af133c0b01bb9a90b2",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -722,7 +762,7 @@
       "timestamp": 1790697600
     },
     {
-      "id": "186c1a19bcc2e6c62c95f035a9419bfe72fe6dcb",
+      "id": "5eed039a72a49adcb4236c5c95f93d4ad6a33757",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
@@ -730,26 +770,6 @@
       "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as \u201cRedFlick\u201d. The post Star Blizzard refines phishing and malware delivery with the RedFlick technique appeared first on Microsoft Security Blog.",
       "published": "2026-09-29 15:00:00",
       "timestamp": 1790694000
-    },
-    {
-      "id": "51cf48e95ec5ad40ab7ae7233f6f505fea23f0d5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
-      "published": "2026-09-29 14:13:20",
-      "timestamp": 1790691200
-    },
-    {
-      "id": "94611a7cf1531c7b3545fae6923a8b0838b766af",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical",
-      "published": "2026-09-29 13:45:10",
-      "timestamp": 1790689510
     },
     {
       "id": "e72500af4df5a05f5a0793e5aa7ac4d2217b2135",
@@ -760,16 +780,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-86950 Apple Multiple Products Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian",
       "published": "2026-09-29 12:00:00",
       "timestamp": 1790683200
-    },
-    {
-      "id": "e3e34a1d92e5e12b6a64bf13c59cb43d080b492e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individual is expected to appear before the",
-      "published": "2026-09-29 08:35:10",
-      "timestamp": 1790670910
     },
     {
       "id": "ac17cc6227c4e14105533581f29de2f5185f1b8c",
@@ -822,7 +832,7 @@
       "timestamp": 1790372680
     },
     {
-      "id": "a2962945457d704c08889c4e667be4e8967c54cd",
+      "id": "b6aa03a7a4e6c582b681b55c16983ca06a9dc629",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
@@ -850,16 +860,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-65660 Microsoft SharePoint Code Injection Vulnerability CVE-2026-67279 Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Upd",
       "published": "2026-09-25 12:00:00",
       "timestamp": 1790337600
-    },
-    {
-      "id": "61d57cdb39616951ca57c8ff3ea4b8f927a11ebb",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Beyond the ransomware: Tracking Storm-2570\u2019s consistent tradecraft across deployments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
-      "summary": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment. The post Beyond the ransomware: Tracking Storm-2570\u2019s consistent tradecraft across deployments appeared first on Microsoft Security Blog.",
-      "published": "2026-09-24 16:00:00",
-      "timestamp": 1790265600
     },
     {
       "id": "f8270a38bbaf37b335ba2fc65b0ec6737f7ced43",
