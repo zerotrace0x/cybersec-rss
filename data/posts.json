@@ -1,6 +1,66 @@
 {
-  "generated_at": 1791250737,
+  "generated_at": 1791278971,
   "items": [
+    {
+      "id": "328411c3460bd104397f68156af29078e44d26e8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+      "published": "2026-10-06 09:25:50",
+      "timestamp": 1791278750
+    },
+    {
+      "id": "8b2a54d33545eda39da01a589bad128c58c04275",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "published": "2026-10-06 08:19:24",
+      "timestamp": 1791274764
+    },
+    {
+      "id": "0ecde2523e41e3b93deb3aa3d2441551822abda3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian disclosed the flaw, CVE-2026-21589, on October 5, rated it 9.3 out of 10, and",
+      "published": "2026-10-06 06:58:56",
+      "timestamp": 1791269936
+    },
+    {
+      "id": "26a8cba9aab5bf5be0dda365b40b79262fab68af",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's according to a report from Reuters, citing two sources familiar with the matter. \"To date, our review has determined that the incident occurred as the result of a security failure \u200b",
+      "published": "2026-10-06 06:56:57",
+      "timestamp": 1791269817
+    },
+    {
+      "id": "e2d77b790a872068c75c6a65b2e8ab763896d1e3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5. They used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
+      "published": "2026-10-06 06:00:30",
+      "timestamp": 1791266430
+    },
+    {
+      "id": "c569026776a0d8a102f2d66563de9d232ddadf1c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
+      "published": "2026-10-06 05:22:55",
+      "timestamp": 1791264175
+    },
     {
       "id": "7f233697d00913f305e4fe8bfd02939954016186",
       "source": "BleepingComputer",
@@ -230,26 +290,6 @@
       "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to single out an AI policy expert at a",
       "published": "2026-10-04 07:20:32",
       "timestamp": 1791098432
-    },
-    {
-      "id": "7988c3d1d6591ec908b612b322edc6d758b2b24d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
-      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
-      "published": "2026-10-03 23:12:34",
-      "timestamp": 1791069154
-    },
-    {
-      "id": "f1b280cb41324b8bea0707743c0625836f4119e8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
-      "published": "2026-10-03 19:09:38",
-      "timestamp": 1791054578
     },
     {
       "id": "58bde10954dbd7e7a9b64a16bb08073de572ef41",
@@ -730,46 +770,6 @@
       "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individual is expected to appear before the",
       "published": "2026-09-29 08:35:10",
       "timestamp": 1790670910
-    },
-    {
-      "id": "ec9ed7be55868ae2bd8692ee5509faa100f06ad4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
-      "published": "2026-09-29 06:08:25",
-      "timestamp": 1790662105
-    },
-    {
-      "id": "b7614287d4979a527889ae5037f7b82811812864",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
-      "published": "2026-09-29 05:12:32",
-      "timestamp": 1790658752
-    },
-    {
-      "id": "bc25a1d94c75674843a97f5bf75c09e0d316cbfe",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
-      "published": "2026-09-29 04:45:20",
-      "timestamp": 1790657120
-    },
-    {
-      "id": "70a460d2462f671a8b41e5d9fd72fa36069ddc9e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file. The iPhone maker said the",
-      "published": "2026-09-28 19:18:01",
-      "timestamp": 1790623081
     },
     {
       "id": "ac17cc6227c4e14105533581f29de2f5185f1b8c",
