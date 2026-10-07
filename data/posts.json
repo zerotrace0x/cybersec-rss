@@ -1,6 +1,26 @@
 {
-  "generated_at": 1791341556,
+  "generated_at": 1791365134,
   "items": [
+    {
+      "id": "8fcd73baa2ecf6eaf56cde0e29ec311d98e0908e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026. The company said it also found an additional",
+      "published": "2026-10-07 08:07:38",
+      "timestamp": 1791360458
+    },
+    {
+      "id": "27c2b08fe4b64e03336ed8705fa4f9f96f3ccd86",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer). The activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the",
+      "published": "2026-10-07 06:57:54",
+      "timestamp": 1791356274
+    },
     {
       "id": "567e55ae65cd6c3ae5a0e53a512087583720f361",
       "source": "BleepingComputer",
@@ -730,26 +750,6 @@
       "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
       "published": "2026-09-30 08:24:35",
       "timestamp": 1790756675
-    },
-    {
-      "id": "65bdd03df9075111cd996465da22e665623e3255",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way",
-      "published": "2026-09-30 08:09:28",
-      "timestamp": 1790755768
-    },
-    {
-      "id": "f75316cb16ef8ca48aa79c172f79ef3377c6cde0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler",
-      "published": "2026-09-30 05:30:30",
-      "timestamp": 1790746230
     },
     {
       "id": "bbe656eb041e05a5ef8dd263a75b30da7ca18b6d",
