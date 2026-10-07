@@ -1,6 +1,176 @@
 {
-  "generated_at": 1791365134,
+  "generated_at": 1791396026,
   "items": [
+    {
+      "id": "8cf4c50700c6e08a455ab2dbf1efcab1a9767098",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
+      "published": "2026-10-07 17:43:20",
+      "timestamp": 1791395000
+    },
+    {
+      "id": "73c449736e5e12bd461d5278e10cdcf84bb0cb26",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being",
+      "published": "2026-10-07 16:17:44",
+      "timestamp": 1791389864
+    },
+    {
+      "id": "dc1bf5ef19c467822d40527b6de6f0a4ba65b596",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "3 lessons from frontier AI vulnerability research",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
+      "summary": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel. The post 3 lessons from frontier AI vulnerability research appeared first on Microsoft Security Blog.",
+      "published": "2026-10-07 16:00:00",
+      "timestamp": 1791388800
+    },
+    {
+      "id": "970af316ac6422b93868fb6367763b073b783b16",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft Outlook to block MSIX attachments starting November",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+      "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+      "published": "2026-10-07 15:44:22",
+      "timestamp": 1791387862
+    },
+    {
+      "id": "9b31f85559a2102885a3c0dfb4bf44d1b9080958",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cache runs as a standalone server that LLM workers reach over the ZeroMQ messaging library. A single network",
+      "published": "2026-10-07 15:34:53",
+      "timestamp": 1791387293
+    },
+    {
+      "id": "7b7cce11c16f6ea9cb8529b4077f3bece5e0055b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed Canto Incognito, has been found to install cryptocurrency miners, including",
+      "published": "2026-10-07 15:33:51",
+      "timestamp": 1791387231
+    },
+    {
+      "id": "bd12f3037e111115ab249ed2cfa32b94c1d4687d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "published": "2026-10-07 15:04:08",
+      "timestamp": 1791385448
+    },
+    {
+      "id": "65d75e8cbe6471b9da2ce75f027ee729c5b87611",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+      "published": "2026-10-07 14:01:11",
+      "timestamp": 1791381671
+    },
+    {
+      "id": "cb025584660dec76907a11b9b0d491cc98861e08",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
+      "published": "2026-10-07 13:48:45",
+      "timestamp": 1791380925
+    },
+    {
+      "id": "159f08b1380518535d50e03d6b30ff3989050f0c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "published": "2026-10-07 12:49:01",
+      "timestamp": 1791377341
+    },
+    {
+      "id": "940ba3f24272b2f6335de46419a3cdc44e6924bb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That",
+      "published": "2026-10-07 11:57:05",
+      "timestamp": 1791374225
+    },
+    {
+      "id": "a066458d1d5aa5ebd433e503fd8cffbc63ee89dd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat",
+      "published": "2026-10-07 11:56:56",
+      "timestamp": 1791374216
+    },
+    {
+      "id": "9406a67fb829037b9211ef9c996733b42eb23553",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software",
+      "published": "2026-10-07 11:49:26",
+      "timestamp": 1791373766
+    },
+    {
+      "id": "83bc13b9ae3e2bfebf1da71d4daa1309171e656c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "summary": "If you\u2019re evaluating an agentic pentesting solution right now, you\u2019ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It\u2019s also worth pressure testing, and three questions do the heavy lifting. What can the assessment actually",
+      "published": "2026-10-07 11:42:24",
+      "timestamp": 1791373344
+    },
+    {
+      "id": "0e7dbe6e35e66a9b48a430bffd24143ce10d715b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "published": "2026-10-07 11:37:07",
+      "timestamp": 1791373027
+    },
+    {
+      "id": "a5f712afa1c4b8b6c2baf21db369662e4caf3914",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
+      "published": "2026-10-07 10:35:15",
+      "timestamp": 1791369315
+    },
+    {
+      "id": "023559e098f49d5fa0466dff486af78017f3ccea",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "published": "2026-10-07 10:27:52",
+      "timestamp": 1791368872
+    },
     {
       "id": "8fcd73baa2ecf6eaf56cde0e29ec311d98e0908e",
       "source": "The Hacker News",
@@ -172,16 +342,6 @@
       "timestamp": 1791278507
     },
     {
-      "id": "8b2a54d33545eda39da01a589bad128c58c04275",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
-      "published": "2026-10-06 08:19:24",
-      "timestamp": 1791274764
-    },
-    {
       "id": "6fc2cf657e4a8ae68a6337eb0977443110441658",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -232,36 +392,6 @@
       "timestamp": 1791264175
     },
     {
-      "id": "7f233697d00913f305e4fe8bfd02939954016186",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
-      "published": "2026-10-05 22:46:33",
-      "timestamp": 1791240393
-    },
-    {
-      "id": "18886de650800ffa13a9ab98d802e8f47b084887",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-      "published": "2026-10-05 20:20:05",
-      "timestamp": 1791231605
-    },
-    {
-      "id": "197119837cb773603309243f9cd3f112e629abc0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA \u20ac7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
-      "published": "2026-10-05 17:19:53",
-      "timestamp": 1791220793
-    },
-    {
       "id": "472cf700d7fe228a9545c4628b4bc1e64cf03183",
       "source": "The Hacker News",
       "source_category": "General",
@@ -270,36 +400,6 @@
       "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a",
       "published": "2026-10-05 16:21:52",
       "timestamp": 1791217312
-    },
-    {
-      "id": "bd6df62db26909a506eecce27ce97b49f7364256",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "published": "2026-10-05 15:21:10",
-      "timestamp": 1791213670
-    },
-    {
-      "id": "2d14efe56de4661cf0416313d2d58beff4cda7b4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "published": "2026-10-05 14:53:06",
-      "timestamp": 1791211986
-    },
-    {
-      "id": "cfeb842883a2f7676e37a7a14a1f47488fdedf0e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "published": "2026-10-05 14:22:12",
-      "timestamp": 1791210132
     },
     {
       "id": "6f0d179a59895b6312c174ebcbf310147254b0dc",
@@ -652,46 +752,6 @@
       "timestamp": 1790796660
     },
     {
-      "id": "36875f68ef5cf744dfc3671fe355702ac955b2ba",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
-      "published": "2026-09-30 16:46:29",
-      "timestamp": 1790786789
-    },
-    {
-      "id": "14a20d4fbe3b6b1417fbbeaf7bbbf802e77106dd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
-      "published": "2026-09-30 16:32:59",
-      "timestamp": 1790785979
-    },
-    {
-      "id": "0a036171e38e7b8605cb5756042520a48ed8860c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a",
-      "published": "2026-09-30 15:24:54",
-      "timestamp": 1790781894
-    },
-    {
-      "id": "382455f1d8ee6af61385140ea99e2e622eca9d3d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
-      "published": "2026-09-30 15:00:15",
-      "timestamp": 1790780415
-    },
-    {
       "id": "637dc01a9c12d5501cf12a1df52b4a0f37c74257",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -710,46 +770,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76504 Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian ",
       "published": "2026-09-30 12:00:00",
       "timestamp": 1790769600
-    },
-    {
-      "id": "6721c154765216aad36a5f0771a921aee0c3e515",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are the six most dangerous techniques that should be on every security team's radar in 2026. 1.",
-      "published": "2026-09-30 11:58:00",
-      "timestamp": 1790769480
-    },
-    {
-      "id": "fc47bd828e1f993983db985e23273af7037dec9a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released. In most cases, they sat under developers' personal accounts",
-      "published": "2026-09-30 11:30:00",
-      "timestamp": 1790767800
-    },
-    {
-      "id": "3e1c150d6dc729d0eb3df151750b48fb9aadf9ad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-      "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365 session theft with remote-access tool deployment, CSuite can turn a phishing incident into broader account compromise, fraud",
-      "published": "2026-09-30 10:45:00",
-      "timestamp": 1790765100
-    },
-    {
-      "id": "a81cafcd2be7e0a3587cfd2defc8eeeb5d87f64e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
-      "published": "2026-09-30 08:24:35",
-      "timestamp": 1790756675
     },
     {
       "id": "bbe656eb041e05a5ef8dd263a75b30da7ca18b6d",
@@ -772,7 +792,7 @@
       "timestamp": 1790697600
     },
     {
-      "id": "5eed039a72a49adcb4236c5c95f93d4ad6a33757",
+      "id": "186c1a19bcc2e6c62c95f035a9419bfe72fe6dcb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
@@ -840,16 +860,6 @@
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
       "published": "2026-09-25 21:44:40",
       "timestamp": 1790372680
-    },
-    {
-      "id": "b6aa03a7a4e6c582b681b55c16983ca06a9dc629",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
-      "summary": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks using compromised service principals appeared first on Microsoft Security Blog.",
-      "published": "2026-09-25 15:35:08",
-      "timestamp": 1790350508
     },
     {
       "id": "ff2af62a831dc30f57dae3477939992b6f565b72",
@@ -1170,16 +1180,6 @@
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06 17:00:56",
       "timestamp": 1786035656
-    },
-    {
-      "id": "0312964af0604373173eba1a264beae1a267ab4e",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "published": "2026-07-30 16:49:00",
-      "timestamp": 1785430140
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
