@@ -1,6 +1,46 @@
 {
-  "generated_at": 1791396026,
+  "generated_at": 1791419383,
   "items": [
+    {
+      "id": "684c89aa9984f81aea08b80e262ff8e469c51c52",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "published": "2026-10-07 23:04:37",
+      "timestamp": 1791414277
+    },
+    {
+      "id": "821d28c002d2aceb070f23a36a4cc4ce9983c464",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "published": "2026-10-07 21:28:54",
+      "timestamp": 1791408534
+    },
+    {
+      "id": "e8eaea99c3ed083ad481b9fb93d1eedbd2cbb91f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+      "published": "2026-10-07 20:50:13",
+      "timestamp": 1791406213
+    },
+    {
+      "id": "d64edb12751964f6ceae5cf6f4da36c309106944",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted",
+      "published": "2026-10-07 18:48:17",
+      "timestamp": 1791398897
+    },
     {
       "id": "8cf4c50700c6e08a455ab2dbf1efcab1a9767098",
       "source": "The Hacker News",
@@ -272,16 +312,6 @@
       "timestamp": 1791299804
     },
     {
-      "id": "dc1767d56a51ac01f6301482b23f75d9d4773420",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
-      "published": "2026-10-06 14:00:10",
-      "timestamp": 1791295210
-    },
-    {
       "id": "9902cad1ebb59f497e84241aaf9673f2995fec2b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +320,6 @@
       "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in",
       "published": "2026-10-06 11:57:00",
       "timestamp": 1791287820
-    },
-    {
-      "id": "043dc6e0e09b0e3079abba4361a86541a1873005",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-      "published": "2026-10-06 11:31:48",
-      "timestamp": 1791286308
     },
     {
       "id": "a3323ba0be334def0184e63d7e67f882f174222f",
@@ -320,16 +340,6 @@
       "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security, traced critical vulnerabilities in Anthropic's MCP",
       "published": "2026-10-06 11:02:30",
       "timestamp": 1791284550
-    },
-    {
-      "id": "328411c3460bd104397f68156af29078e44d26e8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-      "published": "2026-10-06 09:25:50",
-      "timestamp": 1791278750
     },
     {
       "id": "b1a10b4a68184157e1d9a32c101dd7c0d9509a29",
@@ -730,16 +740,6 @@
       "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet maker said. \"At this time, we have identified no immediate threat to MetaMask wallets.\" MetaMask",
       "published": "2026-10-01 05:10:09",
       "timestamp": 1790831409
-    },
-    {
-      "id": "a5cf2d5d440a9acddf4e43707f8d6b1d30b6496f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
-      "published": "2026-10-01 04:35:34",
-      "timestamp": 1790829334
     },
     {
       "id": "48a330f659e3045a10bf5644b9a19e277e2f7f4c",
