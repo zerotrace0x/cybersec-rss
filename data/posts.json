@@ -1,6 +1,36 @@
 {
-  "generated_at": 1791567351,
+  "generated_at": 1791582884,
   "items": [
+    {
+      "id": "f81355533e52a724bf1e938ae8f3f272d4c67a76",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+      "published": "2026-10-09 20:31:37",
+      "timestamp": 1791577897
+    },
+    {
+      "id": "38e395200fbfe247c3ccc87646a827828b3e3070",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
+      "published": "2026-10-09 19:14:28",
+      "timestamp": 1791573268
+    },
+    {
+      "id": "ad82178f02c33d897cae7c17dff340b3166258c9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public. The",
+      "published": "2026-10-09 17:45:26",
+      "timestamp": 1791567926
+    },
     {
       "id": "c8fbd64abc4c8b60f8c27f217da23b825d6c16dd",
       "source": "BleepingComputer",
@@ -310,16 +340,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration from various South Korea-based financial firms,",
       "published": "2026-10-08 14:12:34",
       "timestamp": 1791468754
-    },
-    {
-      "id": "f6bb0711102ae52375e808f4e39b1eeb60b24d72",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
-      "published": "2026-10-08 14:00:10",
-      "timestamp": 1791468010
     },
     {
       "id": "d329f4ae3e0c18781488c684a70a31ce93585962",
@@ -682,16 +702,6 @@
       "timestamp": 1791187763
     },
     {
-      "id": "febb40704c0382f1c103e48ec53d373f1c0d3304",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
-      "published": "2026-10-05 06:40:19",
-      "timestamp": 1791182419
-    },
-    {
       "id": "f2aa77df8f526c6972357a013fe11e9444cb0f4b",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -700,16 +710,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88779 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability",
       "published": "2026-10-04 12:00:00",
       "timestamp": 1791115200
-    },
-    {
-      "id": "cd1cbf97f9b47232ecfc2742a194cc0db50d495a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif \u200cal-Din Khader, is said to have been brought into custody on September 29, 2026, and cooperating with the U.S. Federal Bureau of Investigation (FBI)",
-      "published": "2026-10-04 07:22:05",
-      "timestamp": 1791098525
     },
     {
       "id": "57462b2b12ac6055a346d6c2f9a8f0edd8a5738e",
@@ -847,7 +847,7 @@
       "source_category": "Blue Team",
       "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
-      "summary": "Update October 2, 2026: CISA has updated this Alert to provide a SIGMA detection rule resource to help identify potentially suspicious activity. CISA is amplifying Citrix\u2019s disclosure of eight new vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway products: CVE-2026-88771, CVE-2026-88772, CVE-2026-88773, CVE-2026-88774, CVE-2026-88775, CVE-2026-88776, CVE-2026-88777, and CVE-2026-88778. CISA has added CVE-2026-88771 and CVE-2026-88772 to its Known Exploited Vulnerabiliti",
+      "summary": "Update October 9, 2026: CISA has updated this Alert to: (1) include CVE-2026-107406; (2) include CVE-2026-88779 following its addition to the KEV Catalog on Oct. 4, 2026; (3) clarify the potential relationship between CVE-2026-88779 and CVE-2026-88771; and (4) emphasize the importance of promptly applying patches for CVE-2026-88771 through CVE-2026-88779 and CVE-2026-107406, as well as reviewing Citrix guidance for suspected or confirmed compromises involving NetScaler ADC or Gateway. Update Oct",
       "published": "2026-09-27 12:00:00",
       "timestamp": 1790510400
     },
