@@ -1,6 +1,26 @@
 {
-  "generated_at": 1791773365,
+  "generated_at": 1791798717,
   "items": [
+    {
+      "id": "70936f9af03017188fe135db7c96f32932893769",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
+      "published": "2026-10-12 09:02:14",
+      "timestamp": 1791795734
+    },
+    {
+      "id": "6cfecc6ad385c88c32804958a111bc4d4e3a1815",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
+      "published": "2026-10-12 07:26:12",
+      "timestamp": 1791789972
+    },
     {
       "id": "b2f29861095e90276f2bd3899982e945dcc644b6",
       "source": "BleepingComputer",
@@ -67,7 +87,7 @@
       "source_category": "General",
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude - Claude Mythos",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude",
       "published": "2026-10-10 09:18:45",
       "timestamp": 1791623925
     },
@@ -690,26 +710,6 @@
       "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusion paths, smarter automation, and a long patch list waiting behind them. Some attacks are getting more capable. Others",
       "published": "2026-10-05 14:20:43",
       "timestamp": 1791210043
-    },
-    {
-      "id": "205c4589bc701b45ba2629d487af5b308f0afc7e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, and Prevent. The journey starts with detection, because organizations first need to understand what credentials exist, where they live, and what they",
-      "published": "2026-10-05 11:55:00",
-      "timestamp": 1791201300
-    },
-    {
-      "id": "beb7b86837ae686cbe2ad03ae78e11aa368c3e5b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary STUN behavior into a practical command-and-control channel,\" Nozomi Networks said in a report",
-      "published": "2026-10-05 11:46:25",
-      "timestamp": 1791200785
     },
     {
       "id": "f2aa77df8f526c6972357a013fe11e9444cb0f4b",
