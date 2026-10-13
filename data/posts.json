@@ -1,6 +1,86 @@
 {
-  "generated_at": 1791916433,
+  "generated_at": 1791935980,
   "items": [
+    {
+      "id": "893880d4464ea56265f146785285c691d44ab58b",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "published": "2026-10-13 23:24:53",
+      "timestamp": 1791933893
+    },
+    {
+      "id": "b37b46db0c2484624fc528e51359b565f16229f2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+      "published": "2026-10-13 22:33:02",
+      "timestamp": 1791930782
+    },
+    {
+      "id": "9bc63d79f5b28376e9bd5bae11d635d99b86a8f9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "published": "2026-10-13 21:33:26",
+      "timestamp": 1791927206
+    },
+    {
+      "id": "8672273b27d6d95cbae43e3bf49f11d170dcb2a6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+      "published": "2026-10-13 21:16:34",
+      "timestamp": 1791926194
+    },
+    {
+      "id": "20111854dd9997038a3b2eba133f05411d26fa8e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "2026-10-13 19:56:09",
+      "timestamp": 1791921369
+    },
+    {
+      "id": "dbb62d647b1ad3e0cb61a18a47d06984825fc3c8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "published": "2026-10-13 19:47:30",
+      "timestamp": 1791920850
+    },
+    {
+      "id": "20de062dbed529addc235b97b24cf983920fba9c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+      "published": "2026-10-13 19:04:38",
+      "timestamp": 1791918278
+    },
+    {
+      "id": "9bc7695fd8d14d2a335fcf5d06e3c93ed8cb37bd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+      "published": "2026-10-13 18:20:57",
+      "timestamp": 1791915657
+    },
     {
       "id": "e373b9171f961a7b47f92be0b4afba602a6caefc",
       "source": "BleepingComputer",
@@ -12,6 +92,16 @@
       "timestamp": 1791915584
     },
     {
+      "id": "7e6a9296cf5654035c18be6e9e095a099d114750",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
+      "published": "2026-10-13 18:03:18",
+      "timestamp": 1791914598
+    },
+    {
       "id": "290c9a68749eb30c235ef889478ba4ec9a6fe9af",
       "source": "BleepingComputer",
       "source_category": "General",
@@ -20,6 +110,26 @@
       "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
       "published": "2026-10-13 17:49:38",
       "timestamp": 1791913778
+    },
+    {
+      "id": "85812e89d5b703443d0df7d020eec69cbe650079",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity. Volexity, which reported the flaws to Ivanti,",
+      "published": "2026-10-13 17:33:11",
+      "timestamp": 1791912791
+    },
+    {
+      "id": "50609bd5364e06a63893506b594cfeb846de8d67",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
+      "published": "2026-10-13 17:28:50",
+      "timestamp": 1791912530
     },
     {
       "id": "99bed0fec157ef420b67e9d57f44b0a2f564dc51",
@@ -90,6 +200,26 @@
       "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers. The administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine because of the \"very serious\" nature of the breach. The infringements",
       "published": "2026-10-13 13:12:32",
       "timestamp": 1791897152
+    },
+    {
+      "id": "8acc579dd186d27654e273e11ffeeb44887f761d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
+      "summary": "CISA is aware of Ivanti\u2019s disclosure of a newly exploited vulnerability, CVE-2026-104935, affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this zero-day authentication bypass vulnerability, which allows remote, unauthenticated execution of arbitrary commands, to conduct credential theft and data exfiltration. CISA added CVE-2026-104935 to its Known Exploited Vulnerabilities (KEV) Catalog on Oc",
+      "published": "2026-10-13 12:00:00",
+      "timestamp": 1791892800
+    },
+    {
+      "id": "75d6bebd8fbce26b295971b818f8103718cff4eb",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates ",
+      "published": "2026-10-13 12:00:00",
+      "timestamp": 1791892800
     },
     {
       "id": "30a7e0a9f0e49ec83652a0ad62ece91dd6aa4781",
@@ -182,36 +312,6 @@
       "timestamp": 1791832981
     },
     {
-      "id": "e8326765eee9bd12ad832b3958c62946e209da90",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-      "published": "2026-10-12 18:51:59",
-      "timestamp": 1791831119
-    },
-    {
-      "id": "679700c3f28132741f9908c232620fe64fa2d6eb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-      "published": "2026-10-12 16:27:23",
-      "timestamp": 1791822443
-    },
-    {
-      "id": "1afc520f60dff9de40c924d42e91cb53583ab805",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "published": "2026-10-12 15:23:34",
-      "timestamp": 1791818614
-    },
-    {
       "id": "f3ddd8928340b8d967c1100b72a0afa78c749736",
       "source": "The Hacker News",
       "source_category": "General",
@@ -220,36 +320,6 @@
       "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.",
       "published": "2026-10-12 15:16:26",
       "timestamp": 1791818186
-    },
-    {
-      "id": "1d9d3c26d55d3a67d5f3833cc202f4fa217fe039",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
-      "published": "2026-10-12 14:00:10",
-      "timestamp": 1791813610
-    },
-    {
-      "id": "6c29093ae2d1aec7e70f67948df7fc50e284c128",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
-      "published": "2026-10-12 13:51:07",
-      "timestamp": 1791813067
-    },
-    {
-      "id": "4dae9694f9e1b12c233b2c7e489e9c5766d599d9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
-      "published": "2026-10-12 13:09:09",
-      "timestamp": 1791810549
     },
     {
       "id": "63cee3174009c6dfcec3e9c3265260bfb36d9ea8",
@@ -650,46 +720,6 @@
       "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That",
       "published": "2026-10-07 11:57:05",
       "timestamp": 1791374225
-    },
-    {
-      "id": "a066458d1d5aa5ebd433e503fd8cffbc63ee89dd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat",
-      "published": "2026-10-07 11:56:56",
-      "timestamp": 1791374216
-    },
-    {
-      "id": "9406a67fb829037b9211ef9c996733b42eb23553",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software",
-      "published": "2026-10-07 11:49:26",
-      "timestamp": 1791373766
-    },
-    {
-      "id": "83bc13b9ae3e2bfebf1da71d4daa1309171e656c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "summary": "If you\u2019re evaluating an agentic pentesting solution right now, you\u2019ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It\u2019s also worth pressure testing, and three questions do the heavy lifting. What can the assessment actually",
-      "published": "2026-10-07 11:42:24",
-      "timestamp": 1791373344
-    },
-    {
-      "id": "8fcd73baa2ecf6eaf56cde0e29ec311d98e0908e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026. The company said it also found an additional",
-      "published": "2026-10-07 08:07:38",
-      "timestamp": 1791360458
     },
     {
       "id": "82bea73e60311222062115cd1993c5859c398593",
@@ -1142,26 +1172,6 @@
       "timestamp": 1787659200
     },
     {
-      "id": "b15f6c036f4f831a5cb25456ae07b58f1398e93b",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21962 Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability mana",
-      "published": "2026-08-24 12:00:00",
-      "timestamp": 1787572800
-    },
-    {
-      "id": "aa5999fa9c7bfe5bc69e5fe2718d846f438984e5",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-73570 Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federa",
-      "published": "2026-08-21 12:00:00",
-      "timestamp": 1787313600
-    },
-    {
       "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -1170,16 +1180,6 @@
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
       "published": "2026-08-14 11:24:35",
       "timestamp": 1786706675
-    },
-    {
-      "id": "7d060e0696b4509cccd2e1d942833ac14419d38c",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
-      "published": "2026-08-11 21:28:35",
-      "timestamp": 1786483715
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
