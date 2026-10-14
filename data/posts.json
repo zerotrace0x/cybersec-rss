@@ -1,6 +1,146 @@
 {
-  "generated_at": 1791974537,
+  "generated_at": 1791993679,
   "items": [
+    {
+      "id": "5f01bce755932f883dc27c728b2fa245bbfe3b93",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes VPN issues caused by September Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+      "summary": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+      "published": "2026-10-14 14:27:01",
+      "timestamp": 1791988021
+    },
+    {
+      "id": "f43a18b3b59f9e0acadd151954f68f20a76d2fa3",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "published": "2026-10-14 14:22:49",
+      "timestamp": 1791987769
+    },
+    {
+      "id": "e0c385ee9f111b293ef9f942e2174700cd6e589b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
+      "published": "2026-10-14 14:00:10",
+      "timestamp": 1791986410
+    },
+    {
+      "id": "269f220d3e33288cedaef6bed4837083b4ce5d3d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+      "published": "2026-10-14 13:12:52",
+      "timestamp": 1791983572
+    },
+    {
+      "id": "c403040bc596f4ddf523f94cd259d9dbcf9d21eb",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+      "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft\u2019s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem. The post The hidden network: Inside the phishing infrastructure ecosystem powering global c",
+      "published": "2026-10-14 13:00:00",
+      "timestamp": 1791982800
+    },
+    {
+      "id": "ed99092097bc54fb837b5652ca2e89a837c1dfe0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+      "published": "2026-10-14 12:58:07",
+      "timestamp": 1791982687
+    },
+    {
+      "id": "64d3dccc17bd868ac07c118870e891cb423e5601",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
+      "published": "2026-10-14 12:30:42",
+      "timestamp": 1791981042
+    },
+    {
+      "id": "ae1fce8b162f7f76fc59b86fa8d89d99e05499f7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
+      "published": "2026-10-14 12:13:36",
+      "timestamp": 1791980016
+    },
+    {
+      "id": "5fdddb6a92c32271b6b2f2d0ae64e331966cb3a4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes",
+      "published": "2026-10-14 11:50:00",
+      "timestamp": 1791978600
+    },
+    {
+      "id": "c135f9498d0025e84bc1458df1afbfde3060dbb4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "published": "2026-10-14 11:41:20",
+      "timestamp": 1791978080
+    },
+    {
+      "id": "59f21c2a148a7e8ad87030f944b6387b93657628",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
+      "published": "2026-10-14 11:19:02",
+      "timestamp": 1791976742
+    },
+    {
+      "id": "9375c6d50290657f88451961e691eca69e145803",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
+      "published": "2026-10-14 11:08:22",
+      "timestamp": 1791976102
+    },
+    {
+      "id": "216176e0b96400e4459caa685934cf4a9cc3325c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
+      "published": "2026-10-14 11:00:00",
+      "timestamp": 1791975600
+    },
+    {
+      "id": "72438bcc28c5dfa90209ac1505a0f52b56ca294f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "published": "2026-10-14 10:48:09",
+      "timestamp": 1791974889
+    },
     {
       "id": "d801d391b7584c879654dad6ecb11929d1381002",
       "source": "The Hacker News",
@@ -37,7 +177,7 @@
       "source_category": "General",
       "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
       "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
+      "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
       "published": "2026-10-14 01:59:25",
       "timestamp": 1791943165
     },
@@ -192,46 +332,6 @@
       "timestamp": 1791908298
     },
     {
-      "id": "89d8097d8ef12ba3a28759cb18e3f1f210a9de7a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-      "published": "2026-10-13 15:45:50",
-      "timestamp": 1791906350
-    },
-    {
-      "id": "f517b75ee3e857fecfff32044c5f17f8f06ede80",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-      "published": "2026-10-13 15:20:20",
-      "timestamp": 1791904820
-    },
-    {
-      "id": "18dcbf2261f4f261fd5b50021ba77513bdc79964",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-      "published": "2026-10-13 14:01:11",
-      "timestamp": 1791900071
-    },
-    {
-      "id": "12bc193ff08ca4a0b4185fda0e21fd4452060cf8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-      "published": "2026-10-13 13:51:02",
-      "timestamp": 1791899462
-    },
-    {
       "id": "23a4b6dbfc32f5c0a3a0b9ae92e7f741cb9517f3",
       "source": "The Hacker News",
       "source_category": "General",
@@ -330,26 +430,6 @@
       "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa. The preinstalled",
       "published": "2026-10-13 06:00:11",
       "timestamp": 1791871211
-    },
-    {
-      "id": "e03807a1315c5d8a320e0a76cda01e31d6d3d4a7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
-      "published": "2026-10-12 20:13:52",
-      "timestamp": 1791836032
-    },
-    {
-      "id": "f641714712f0678e93d5ae08e9156e568382d44f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-      "published": "2026-10-12 19:23:01",
-      "timestamp": 1791832981
     },
     {
       "id": "f3ddd8928340b8d967c1100b72a0afa78c749736",
@@ -642,66 +722,6 @@
       "timestamp": 1791455400
     },
     {
-      "id": "8b1d764860ce579ff9621fca26e6becd66a164c7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private keys during wallet import flows and attempts to send those secrets to",
-      "published": "2026-10-08 09:46:32",
-      "timestamp": 1791452792
-    },
-    {
-      "id": "159894e745cbbdcf89b3d7bf8f01c48f79049fad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM. The reward is for information leading to his identification or location, the news outlet NTD reported this week, citing a notice",
-      "published": "2026-10-08 07:42:04",
-      "timestamp": 1791445324
-    },
-    {
-      "id": "1e26ef0bfa725757039e384ce16e575ad0c1bd7a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-      "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zohar Pinhasi (aka Zack Silver and Zack Green) has been charged with two counts of wire fraud and one count of wire",
-      "published": "2026-10-08 07:41:44",
-      "timestamp": 1791445304
-    },
-    {
-      "id": "ad6bac139c8c071fed5573a8aaf1ed193e28c3d8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code,\" Socket said",
-      "published": "2026-10-08 05:46:20",
-      "timestamp": 1791438380
-    },
-    {
-      "id": "d64edb12751964f6ceae5cf6f4da36c309106944",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted",
-      "published": "2026-10-07 18:48:17",
-      "timestamp": 1791398897
-    },
-    {
-      "id": "8cf4c50700c6e08a455ab2dbf1efcab1a9767098",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
-      "published": "2026-10-07 17:43:20",
-      "timestamp": 1791395000
-    },
-    {
       "id": "dc1bf5ef19c467822d40527b6de6f0a4ba65b596",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -822,7 +842,7 @@
       "timestamp": 1790769600
     },
     {
-      "id": "bbe656eb041e05a5ef8dd263a75b30da7ca18b6d",
+      "id": "82d98cf7de52aa76590bd925a14b094d685236eb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Phishing Abuses RMM Tools for Persistent Access",
@@ -840,16 +860,6 @@
       "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post \u200b\u200bBeyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog.",
       "published": "2026-09-29 16:00:00",
       "timestamp": 1790697600
-    },
-    {
-      "id": "186c1a19bcc2e6c62c95f035a9419bfe72fe6dcb",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
-      "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as \u201cRedFlick\u201d. The post Star Blizzard refines phishing and malware delivery with the RedFlick technique appeared first on Microsoft Security Blog.",
-      "published": "2026-09-29 15:00:00",
-      "timestamp": 1790694000
     },
     {
       "id": "e72500af4df5a05f5a0793e5aa7ac4d2217b2135",
@@ -1170,16 +1180,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-60004 Gitea Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB",
       "published": "2026-08-25 12:00:00",
       "timestamp": 1787659200
-    },
-    {
-      "id": "3f2cf0751cf27295443b2c429597db178b654fc9",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
-      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
-      "published": "2026-08-14 11:24:35",
-      "timestamp": 1786706675
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
