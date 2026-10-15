@@ -1,6 +1,46 @@
 {
-  "generated_at": 1792089818,
+  "generated_at": 1792106453,
   "items": [
+    {
+      "id": "62f8a74225d45ffcf41f135503fcc0c03ab7246d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+      "published": "2026-10-15 20:25:04",
+      "timestamp": 1792095904
+    },
+    {
+      "id": "80e851968d9a89e57385c9a61d06a05636415a45",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
+      "published": "2026-10-15 20:24:36",
+      "timestamp": 1792095876
+    },
+    {
+      "id": "a57abe74d4fd772729f81d2a645613c4bc15db3b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "published": "2026-10-15 19:48:43",
+      "timestamp": 1792093723
+    },
+    {
+      "id": "326c035f625281108fd60e5aba846c3252d36495",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and",
+      "published": "2026-10-15 18:49:33",
+      "timestamp": 1792090173
+    },
     {
       "id": "2502b1cee7feac511eeca34d9d66685bf55e8657",
       "source": "BleepingComputer",
@@ -100,6 +140,16 @@
       "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.",
       "published": "2026-10-15 12:07:20",
       "timestamp": 1792066040
+    },
+    {
+      "id": "3b9d4dc2b9bceac90a1161fc3d6d6031d18ac190",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability manageme",
+      "published": "2026-10-15 12:00:00",
+      "timestamp": 1792065600
     },
     {
       "id": "fbb247c75a3135302bbec42917ac273bc1fc87cd",
@@ -312,16 +362,6 @@
       "timestamp": 1791986410
     },
     {
-      "id": "269f220d3e33288cedaef6bed4837083b4ce5d3d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
-      "published": "2026-10-14 13:12:52",
-      "timestamp": 1791983572
-    },
-    {
       "id": "c403040bc596f4ddf523f94cd259d9dbcf9d21eb",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -330,16 +370,6 @@
       "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft\u2019s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem. The post The hidden network: Inside the phishing infrastructure ecosystem powering global c",
       "published": "2026-10-14 13:00:00",
       "timestamp": 1791982800
-    },
-    {
-      "id": "ed99092097bc54fb837b5652ca2e89a837c1dfe0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-      "published": "2026-10-14 12:58:07",
-      "timestamp": 1791982687
     },
     {
       "id": "64d3dccc17bd868ac07c118870e891cb423e5601",
@@ -692,16 +722,6 @@
       "timestamp": 1791630000
     },
     {
-      "id": "3bb3e79c66c286e8eaa416a144e80b6bbc698706",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude",
-      "published": "2026-10-10 09:18:45",
-      "timestamp": 1791623925
-    },
-    {
       "id": "bc6986efe9659942898ca3b641ba69c3a5f0019b",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -710,16 +730,6 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
       "published": "2026-10-10 00:17:42",
       "timestamp": 1791591462
-    },
-    {
-      "id": "38e395200fbfe247c3ccc87646a827828b3e3070",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
-      "published": "2026-10-09 19:14:28",
-      "timestamp": 1791573268
     },
     {
       "id": "5d9b72df6848229cfabd04e067468a78f55e9526",
@@ -1042,22 +1052,22 @@
       "timestamp": 1789387200
     },
     {
-      "id": "ede47a882cea80e60559e56d22e8e947e0a9fbe1",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85706 GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
-      "published": "2026-09-11 12:00:00",
-      "timestamp": 1789128000
-    },
-    {
       "id": "fab9a0097f422f7e3cc6b3b8fe51cf396c8947c2",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42016 JFrog Artifactory Incorrect Authorization Vulnerability CVE-2026-42018 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-84869 ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant ri",
+      "published": "2026-09-11 12:00:00",
+      "timestamp": 1789128000
+    },
+    {
+      "id": "ede47a882cea80e60559e56d22e8e947e0a9fbe1",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85706 GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
       "published": "2026-09-11 12:00:00",
       "timestamp": 1789128000
     },
@@ -1170,16 +1180,6 @@
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
       "published": "2026-08-27 11:04:15",
       "timestamp": 1787828655
-    },
-    {
-      "id": "e000a4c8382e054808b9b85504de42db1ccf94d7",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2015-3246 Red Hat Libuser Race Condition Vulnerability CVE-2015-5287 Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability CVE-2019-1068 Microsoft SQL Server Remote Code Execution Vulnerability CVE-2021-23758 Ajax.NET Professional Deserialization of Untrusted Data Vulnerability CVE-2022-0995 Linux Kernel Out-of-Bounds Write Vulnerability CVE",
-      "published": "2026-08-26 12:00:00",
-      "timestamp": 1787745600
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
