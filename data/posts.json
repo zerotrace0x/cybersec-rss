@@ -1,6 +1,66 @@
 {
-  "generated_at": 1792071828,
+  "generated_at": 1792089818,
   "items": [
+    {
+      "id": "2502b1cee7feac511eeca34d9d66685bf55e8657",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+      "published": "2026-10-15 18:20:59",
+      "timestamp": 1792088459
+    },
+    {
+      "id": "6d34efeb37b6f87d1bd47134ad8fb7f601dc82ba",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+      "published": "2026-10-15 17:12:31",
+      "timestamp": 1792084351
+    },
+    {
+      "id": "ef7d987d9819659956ef51f18548a9c488b2c524",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background. The Citizen",
+      "published": "2026-10-15 16:01:57",
+      "timestamp": 1792080117
+    },
+    {
+      "id": "26a304ef4bdf028995b1e830cb122b214216c3cc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
+      "published": "2026-10-15 16:00:26",
+      "timestamp": 1792080026
+    },
+    {
+      "id": "3e78653eb93b160df47686d131d13082dcedc81c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
+      "published": "2026-10-15 14:11:36",
+      "timestamp": 1792073496
+    },
+    {
+      "id": "e59cc72bd5f31cc9a33265f24a77e1f62d9a23f5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Is AI pentesting as good as a human pentester?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
+      "published": "2026-10-15 14:01:11",
+      "timestamp": 1792072871
+    },
     {
       "id": "6a44f388f8e47e0b59e329ff8ca36e849283b626",
       "source": "BleepingComputer",
@@ -12,10 +72,30 @@
       "timestamp": 1792070316
     },
     {
+      "id": "9b0125206f6f9f6b6882bef6f811d6e23418b771",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to exploit. A fourth lets an attacker forge a TLS session that could",
+      "published": "2026-10-15 12:58:05",
+      "timestamp": 1792069085
+    },
+    {
+      "id": "61a757eb599d3eb9231621cb8ac662c69ec82ab5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through the sharp package to handle SVG images. The fixes are in",
+      "published": "2026-10-15 12:28:13",
+      "timestamp": 1792067293
+    },
+    {
       "id": "efbac69a36231bf31b5cf8d7cc8345e943fdb53e",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
       "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
       "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.",
       "published": "2026-10-15 12:07:20",
@@ -302,16 +382,6 @@
       "timestamp": 1791978600
     },
     {
-      "id": "c135f9498d0025e84bc1458df1afbfde3060dbb4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-      "published": "2026-10-14 11:41:20",
-      "timestamp": 1791978080
-    },
-    {
       "id": "59f21c2a148a7e8ad87030f944b6387b93657628",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,16 +410,6 @@
       "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
       "published": "2026-10-14 11:00:00",
       "timestamp": 1791975600
-    },
-    {
-      "id": "72438bcc28c5dfa90209ac1505a0f52b56ca294f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-      "published": "2026-10-14 10:48:09",
-      "timestamp": 1791974889
     },
     {
       "id": "d801d391b7584c879654dad6ecb11929d1381002",
@@ -400,16 +460,6 @@
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
       "published": "2026-10-13 23:24:53",
       "timestamp": 1791933893
-    },
-    {
-      "id": "b37b46db0c2484624fc528e51359b565f16229f2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-      "published": "2026-10-13 22:33:02",
-      "timestamp": 1791930782
     },
     {
       "id": "9bc7695fd8d14d2a335fcf5d06e3c93ed8cb37bd",
@@ -670,56 +720,6 @@
       "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
       "published": "2026-10-09 19:14:28",
       "timestamp": 1791573268
-    },
-    {
-      "id": "ad82178f02c33d897cae7c17dff340b3166258c9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public. The",
-      "published": "2026-10-09 17:45:26",
-      "timestamp": 1791567926
-    },
-    {
-      "id": "a33f972b8bc59dd368705cf1f9811ca5595654a7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China. TP-Link denies the claims and says it will fight them in court. TP-Link Systems is based in",
-      "published": "2026-10-09 13:22:53",
-      "timestamp": 1791552173
-    },
-    {
-      "id": "0ccaa6cc253692292fe71273e18a326d8f775d49",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described the fix only as \"fixed a bug that could lead to a crash,\" with no CVE assigned and no security",
-      "published": "2026-10-09 12:59:22",
-      "timestamp": 1791550762
-    },
-    {
-      "id": "daddca03dfcafdcc2d3fa0e32296e6e9c1d2d205",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
-      "published": "2026-10-09 12:47:28",
-      "timestamp": 1791550048
-    },
-    {
-      "id": "01b978c9cb2087b128d87cab3788b887edb942c2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
-      "published": "2026-10-09 12:47:26",
-      "timestamp": 1791550046
     },
     {
       "id": "5d9b72df6848229cfabd04e067468a78f55e9526",
