@@ -1,6 +1,76 @@
 {
-  "generated_at": 1792504447,
+  "generated_at": 1792522020,
   "items": [
+    {
+      "id": "1f3e120e9f0933c42a1e71bbca84d12cf4d38af3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "published": "2026-10-20 18:11:03",
+      "timestamp": 1792519863
+    },
+    {
+      "id": "34c1122ab3a13d446717c9311e69bf6087bfbbc9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
+      "published": "2026-10-20 17:09:53",
+      "timestamp": 1792516193
+    },
+    {
+      "id": "4336c2e121fd5e3a9f6561d55c5fc9427cee02ea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially",
+      "published": "2026-10-20 15:38:52",
+      "timestamp": 1792510732
+    },
+    {
+      "id": "84bc4416ec686f41dd2a0fcd23dd06559238f3ad",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was",
+      "published": "2026-10-20 15:32:27",
+      "timestamp": 1792510347
+    },
+    {
+      "id": "d6083ddf2af87b1c04beccd351346b341f58366a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+      "published": "2026-10-20 14:19:05",
+      "timestamp": 1792505945
+    },
+    {
+      "id": "c548cff82f68f628b2de3c4039c782d1f82e2e2b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company",
+      "published": "2026-10-20 14:07:17",
+      "timestamp": 1792505237
+    },
+    {
+      "id": "a6fb419076b2cb5c28a4c06a19d00711d2ba94b9",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
+      "published": "2026-10-20 13:51:00",
+      "timestamp": 1792504260
+    },
     {
       "id": "87120d9b6e5623673bbdfe2753c86da701214622",
       "source": "BleepingComputer",
@@ -252,16 +322,6 @@
       "timestamp": 1792418410
     },
     {
-      "id": "27b15e0b7a96fa404889e78f917f965770c9e648",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-      "published": "2026-10-19 13:49:24",
-      "timestamp": 1792417764
-    },
-    {
       "id": "5263ce2bfe1fbcd8d6236e90eec33dc1db8aa762",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -282,26 +342,6 @@
       "timestamp": 1792415145
     },
     {
-      "id": "914a0ded202713c979ab24d80dd29023644b0910",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Agents are your newest insiders.\u00a0Security must move at their speed.",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
-      "summary": "New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously. The post Agents are your newest insiders. Security must move at their speed. appeared first on Microsoft Security Blog.",
-      "published": "2026-10-19 13:00:00",
-      "timestamp": 1792414800
-    },
-    {
-      "id": "8b49689a4aeab04e972a12f8f6e15db2ddea0ae1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-      "published": "2026-10-19 12:44:44",
-      "timestamp": 1792413884
-    },
-    {
       "id": "924f9c6ae3e751681687909492c5ba38a90acb46",
       "source": "The Hacker News",
       "source_category": "General",
@@ -320,16 +360,6 @@
       "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered information-stealing malware and backdoors for macOS and Windows machines,\" Elastic",
       "published": "2026-10-19 10:06:40",
       "timestamp": 1792404400
-    },
-    {
-      "id": "3c1a0526845fa0aa952ae1f5ab504a3cb4604cb1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-      "published": "2026-10-19 08:58:41",
-      "timestamp": 1792400321
     },
     {
       "id": "bd09cb6f9b5f4f91099f5dd40ab8baaf10b310d5",
@@ -410,16 +440,6 @@
       "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes. The activity is being tracked by",
       "published": "2026-10-16 16:16:44",
       "timestamp": 1792167404
-    },
-    {
-      "id": "90f82d97b91039597df4dda89a6f4404643b4e31",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog.",
-      "published": "2026-10-16 16:00:00",
-      "timestamp": 1792166400
     },
     {
       "id": "3d0cedcd9489fbacf042763db80808d11b560234",
@@ -672,26 +692,6 @@
       "timestamp": 1791999511
     },
     {
-      "id": "14fa9068043b36f5826d013fcc7af912c684a484",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System. \"Since January 2026, the threat actors behind these kits have been responsible for",
-      "published": "2026-10-14 17:09:15",
-      "timestamp": 1791997755
-    },
-    {
-      "id": "6505df6e8f26e8b68b0e352b123fdf191d179ac3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud",
-      "published": "2026-10-14 16:34:31",
-      "timestamp": 1791995671
-    },
-    {
       "id": "f43a18b3b59f9e0acadd151954f68f20a76d2fa3",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -700,36 +700,6 @@
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
       "published": "2026-10-14 14:22:49",
       "timestamp": 1791987769
-    },
-    {
-      "id": "c403040bc596f4ddf523f94cd259d9dbcf9d21eb",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-      "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft\u2019s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem. The post The hidden network: Inside the phishing infrastructure ecosystem powering global c",
-      "published": "2026-10-14 13:00:00",
-      "timestamp": 1791982800
-    },
-    {
-      "id": "64d3dccc17bd868ac07c118870e891cb423e5601",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
-      "published": "2026-10-14 12:30:42",
-      "timestamp": 1791981042
-    },
-    {
-      "id": "ae1fce8b162f7f76fc59b86fa8d89d99e05499f7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
-      "published": "2026-10-14 12:13:36",
-      "timestamp": 1791980016
     },
     {
       "id": "3df9a4609e64b924f8aee351cfb533b1a9fdbd4d",
@@ -782,26 +752,6 @@
       "timestamp": 1791591462
     },
     {
-      "id": "5d9b72df6848229cfabd04e067468a78f55e9526",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-      "summary": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft\u2019s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum authentication: Why organizations should start testing certificate ecosystems now appeared first on Microsoft Security Blog.",
-      "published": "2026-10-08 20:44:28",
-      "timestamp": 1791492268
-    },
-    {
-      "id": "dc1bf5ef19c467822d40527b6de6f0a4ba65b596",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "3 lessons from frontier AI vulnerability research",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
-      "summary": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel. The post 3 lessons from frontier AI vulnerability research appeared first on Microsoft Security Blog.",
-      "published": "2026-10-07 16:00:00",
-      "timestamp": 1791388800
-    },
-    {
       "id": "cb025584660dec76907a11b9b0d491cc98861e08",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -810,16 +760,6 @@
       "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
       "published": "2026-10-07 13:48:45",
       "timestamp": 1791380925
-    },
-    {
-      "id": "266cf6845188d3706449c9abde03638868ab1732",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "CISO perspectives on managing vulnerability risks in the age of AI",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
-      "summary": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in the age of AI appeared first on Microsoft Security Blog.",
-      "published": "2026-10-06 16:00:00",
-      "timestamp": 1791302400
     },
     {
       "id": "6fc2cf657e4a8ae68a6337eb0977443110441658",
@@ -892,7 +832,7 @@
       "timestamp": 1790796660
     },
     {
-      "id": "b0be76af360612c1025a7bd475489addfba641a6",
+      "id": "637dc01a9c12d5501cf12a1df52b4a0f37c74257",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
@@ -910,6 +850,36 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76504 Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian ",
       "published": "2026-09-30 12:00:00",
       "timestamp": 1790769600
+    },
+    {
+      "id": "bbe656eb041e05a5ef8dd263a75b30da7ca18b6d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Phishing Abuses RMM Tools for Persistent Access",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
+      "summary": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog.",
+      "published": "2026-09-29 21:39:27",
+      "timestamp": 1790717967
+    },
+    {
+      "id": "1a84ce0887b23dbea2fd10af133c0b01bb9a90b2",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200bBeyond source code: A path to the keys to the kingdom",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+      "summary": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post \u200b\u200bBeyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog.",
+      "published": "2026-09-29 16:00:00",
+      "timestamp": 1790697600
+    },
+    {
+      "id": "186c1a19bcc2e6c62c95f035a9419bfe72fe6dcb",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Star Blizzard refines phishing and malware delivery with the RedFlick technique",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+      "summary": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as \u201cRedFlick\u201d. The post Star Blizzard refines phishing and malware delivery with the RedFlick technique appeared first on Microsoft Security Blog.",
+      "published": "2026-09-29 15:00:00",
+      "timestamp": 1790694000
     },
     {
       "id": "e72500af4df5a05f5a0793e5aa7ac4d2217b2135",
@@ -930,6 +900,16 @@
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
       "published": "2026-09-28 15:08:57",
       "timestamp": 1790608137
+    },
+    {
+      "id": "e93b8deb4d505f95b499123eb51181a2e8bee6c9",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+      "summary": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post NeedyMantis: Unpacking a post-compromise malware family used in targeted operations appeared first on Microsoft Security Blog.",
+      "published": "2026-09-28 15:00:00",
+      "timestamp": 1790607600
     },
     {
       "id": "c15a02c5c0b2388627b810df7638d77708a87557",
@@ -962,6 +942,16 @@
       "timestamp": 1790372680
     },
     {
+      "id": "b6aa03a7a4e6c582b681b55c16983ca06a9dc629",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+      "summary": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks using compromised service principals appeared first on Microsoft Security Blog.",
+      "published": "2026-09-25 15:35:08",
+      "timestamp": 1790350508
+    },
+    {
       "id": "8a73cdfa3cf7ac610dc5e128d8312f483fe7defd",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -980,6 +970,16 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-87902 WordPress Core Remote File Inclusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Execut",
       "published": "2026-09-25 12:00:00",
       "timestamp": 1790337600
+    },
+    {
+      "id": "9206d0e4e96b3f04602128a0882e57a778f3bbf7",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Beyond the ransomware: Tracking Storm-2570\u2019s consistent tradecraft across deployments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "summary": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment. The post Beyond the ransomware: Tracking Storm-2570\u2019s consistent tradecraft across deployments appeared first on Microsoft Security Blog.",
+      "published": "2026-09-24 16:00:00",
+      "timestamp": 1790265600
     },
     {
       "id": "f8270a38bbaf37b335ba2fc65b0ec6737f7ced43",
