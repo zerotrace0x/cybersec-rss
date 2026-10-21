@@ -1,6 +1,66 @@
 {
-  "generated_at": 1792591820,
+  "generated_at": 1792609198,
   "items": [
+    {
+      "id": "9350b5651c4e9167004cb306fce7abc6099cb08c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "published": "2026-10-21 18:34:42",
+      "timestamp": 1792607682
+    },
+    {
+      "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog.",
+      "published": "2026-10-21 18:23:55",
+      "timestamp": 1792607035
+    },
+    {
+      "id": "5d3050a70e1e7f8a82d03ed036c154bb2e37bf98",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the",
+      "published": "2026-10-21 18:01:57",
+      "timestamp": 1792605717
+    },
+    {
+      "id": "5c5a56d913b60ba90827f74781ec004618d9cb9d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an",
+      "published": "2026-10-21 16:33:47",
+      "timestamp": 1792600427
+    },
+    {
+      "id": "7c7a0ea768eeb8de162252cb906da4bce0fa45a6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+      "published": "2026-10-21 16:26:53",
+      "timestamp": 1792600013
+    },
+    {
+      "id": "48ccfd80092119d67c446e65d26eb46077e5f763",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
+      "published": "2026-10-21 15:26:07",
+      "timestamp": 1792596367
+    },
     {
       "id": "818d0e743518c88c7e2cc13b48a6e32f2f48d884",
       "source": "BleepingComputer",
@@ -20,6 +80,16 @@
       "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
       "published": "2026-10-21 14:00:10",
       "timestamp": 1792591210
+    },
+    {
+      "id": "475d6678e6aab3e9dcaf6ef39b5b0f39371691fe",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own",
+      "published": "2026-10-21 14:00:00",
+      "timestamp": 1792591200
     },
     {
       "id": "b4b25059cca2a52cafa412ae789420a021b76a50",
@@ -50,6 +120,16 @@
       "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading,\" Sophos security researcher Gabor Szappanos said in a post published",
       "published": "2026-10-21 12:05:00",
       "timestamp": 1792584300
+    },
+    {
+      "id": "3010b9654d2ab0fbdaddae3708ab210830ff7b49",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+      "summary": "CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619. These vulnerabilities, known as \u201cphp2shell,\u201d allow for unauthenticated remote code execution in PHP and affect all PHP installations serving web requests. Organizations should immediately update to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 to fix these vulnerabilities. While CISA has not observed exploitation of these vulnerabilities as of the time of pu",
+      "published": "2026-10-21 12:00:00",
+      "timestamp": 1792584000
     },
     {
       "id": "fca7014fab1008c4d2db0c34d9923873c189f9a0",
@@ -107,7 +187,7 @@
       "source_category": "General",
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. \u26a1",
       "published": "2026-10-21 09:05:17",
       "timestamp": 1792573517
     },
@@ -302,16 +382,6 @@
       "timestamp": 1792501184
     },
     {
-      "id": "71f039c04136e3f3ba728bb1ab91582f09346e65",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "published": "2026-10-20 12:16:32",
-      "timestamp": 1792498592
-    },
-    {
       "id": "65d77e11329993cdbd6e06e74ec76a06dc3448b9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -350,16 +420,6 @@
       "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not",
       "published": "2026-10-20 11:32:59",
       "timestamp": 1792495979
-    },
-    {
-      "id": "668eaad590b85400a0596190eea16f2bf7314d10",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-      "published": "2026-10-20 11:31:22",
-      "timestamp": 1792495882
     },
     {
       "id": "14561dede001e6e3b826dcd5676eb2395a0a69f0",
@@ -682,36 +742,6 @@
       "timestamp": 1792090173
     },
     {
-      "id": "ef7d987d9819659956ef51f18548a9c488b2c524",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background. The Citizen",
-      "published": "2026-10-15 16:01:57",
-      "timestamp": 1792080117
-    },
-    {
-      "id": "26a304ef4bdf028995b1e830cb122b214216c3cc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
-      "published": "2026-10-15 16:00:26",
-      "timestamp": 1792080026
-    },
-    {
-      "id": "3e78653eb93b160df47686d131d13082dcedc81c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
-      "published": "2026-10-15 14:11:36",
-      "timestamp": 1792073496
-    },
-    {
       "id": "3b9d4dc2b9bceac90a1161fc3d6d6031d18ac190",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -862,7 +892,7 @@
       "timestamp": 1790942400
     },
     {
-      "id": "fd16dc9b74f31e73442d05c8c00b92f1a235aeea",
+      "id": "45b6c90510e5826e0bcdd89a06ac7854c8938559",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Preparing governments for an era of interconnected cyber risk",
@@ -872,7 +902,7 @@
       "timestamp": 1790863200
     },
     {
-      "id": "f4642de651cd39ade4f9e1845c68c504c78d2608",
+      "id": "185d4bfcb6858751918d8d09688da02ea15f82db",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
       "title": "Insights from the 2026 Microsoft Digital Defense Report",
@@ -900,16 +930,6 @@
       "summary": "This year at Microsoft Ignite, we spotlight our AI-first, end-to-end security platform designed to protect identities, devices, data, applications, clouds, infrastructure, and the AI agents now working alongside your teams. The post \u200b\u200bSecure what\u2019s next: Your guide to Microsoft Security at Microsoft Ignite 2026 appeared first on Microsoft Security Blog.",
       "published": "2026-09-30 19:31:00",
       "timestamp": 1790796660
-    },
-    {
-      "id": "637dc01a9c12d5501cf12a1df52b4a0f37c74257",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
-      "summary": "Microsoft Threat Intelligence examines CVE-2026-73570 exploitation in Zimbra, including observed attack paths, detection opportunities, and mitigation guidance. The post Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570 appeared first on Microsoft Security Blog.",
-      "published": "2026-09-30 14:00:00",
-      "timestamp": 1790776800
     },
     {
       "id": "ce0402ba89978233c49fdcf35076c2e7cb353128",
@@ -942,22 +962,22 @@
       "timestamp": 1790608137
     },
     {
-      "id": "c15a02c5c0b2388627b810df7638d77708a87557",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
-      "published": "2026-09-27 12:00:00",
-      "timestamp": 1790510400
-    },
-    {
       "id": "34227d060b69b60ee5a1c96267a5203df1e09fe4",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
       "summary": "Update October 9, 2026: CISA has updated this Alert to: (1) include CVE-2026-107406; (2) include CVE-2026-88779 following its addition to the KEV Catalog on Oct. 4, 2026; (3) clarify the potential relationship between CVE-2026-88779 and CVE-2026-88771; and (4) emphasize the importance of promptly applying patches for CVE-2026-88771 through CVE-2026-88779 and CVE-2026-107406, as well as reviewing Citrix guidance for suspected or confirmed compromises involving NetScaler ADC or Gateway. Update Oct",
+      "published": "2026-09-27 12:00:00",
+      "timestamp": 1790510400
+    },
+    {
+      "id": "c15a02c5c0b2388627b810df7638d77708a87557",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
       "published": "2026-09-27 12:00:00",
       "timestamp": 1790510400
     },
@@ -1032,22 +1052,22 @@
       "timestamp": 1789974000
     },
     {
-      "id": "9cbace83e6ca72cf36c3d97d215525f99592de43",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-39682 Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirement",
-      "published": "2026-09-18 12:00:00",
-      "timestamp": 1789732800
-    },
-    {
       "id": "1ed42043752be1daec9b3c459377699e9ba452e9",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-39964 Linux Kernel Race Condition Vulnerability CVE-2026-53266 Linux Kernel Out-of-Bounds Write Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulner",
+      "published": "2026-09-18 12:00:00",
+      "timestamp": 1789732800
+    },
+    {
+      "id": "9cbace83e6ca72cf36c3d97d215525f99592de43",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-39682 Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirement",
       "published": "2026-09-18 12:00:00",
       "timestamp": 1789732800
     },
@@ -1062,22 +1082,22 @@
       "timestamp": 1789582462
     },
     {
-      "id": "5fbab075760374f541fbc829bab74d607901866f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
-      "published": "2026-09-16 12:00:00",
-      "timestamp": 1789560000
-    },
-    {
       "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76460 Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability CVE-2026-87886 Acronis Backup Incorrect Default Permissions Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing S",
+      "published": "2026-09-16 12:00:00",
+      "timestamp": 1789560000
+    },
+    {
+      "id": "5fbab075760374f541fbc829bab74d607901866f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
       "published": "2026-09-16 12:00:00",
       "timestamp": 1789560000
     },
@@ -1092,22 +1112,22 @@
       "timestamp": 1789387200
     },
     {
-      "id": "fab9a0097f422f7e3cc6b3b8fe51cf396c8947c2",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42016 JFrog Artifactory Incorrect Authorization Vulnerability CVE-2026-42018 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-84869 ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant ri",
-      "published": "2026-09-11 12:00:00",
-      "timestamp": 1789128000
-    },
-    {
       "id": "ede47a882cea80e60559e56d22e8e947e0a9fbe1",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85706 GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements f",
+      "published": "2026-09-11 12:00:00",
+      "timestamp": 1789128000
+    },
+    {
+      "id": "fab9a0097f422f7e3cc6b3b8fe51cf396c8947c2",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42016 JFrog Artifactory Incorrect Authorization Vulnerability CVE-2026-42018 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-84869 ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant ri",
       "published": "2026-09-11 12:00:00",
       "timestamp": 1789128000
     },
@@ -1160,26 +1180,6 @@
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
       "published": "2026-09-08 07:00:00",
       "timestamp": 1788850800
-    },
-    {
-      "id": "4379c471a40f72fc2209edc8b3d996c60dc95114",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85046 Google Chromium V8 Type Confusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive",
-      "published": "2026-09-04 12:00:00",
-      "timestamp": 1788523200
-    },
-    {
-      "id": "fc027ec0b12584467e446468b72c393147d8c8a0",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
-      "published": "2026-09-01 22:40:28",
-      "timestamp": 1788302428
     },
     {
       "id": "d6ae2d319c56a4f3d94069531502c29944606582",
