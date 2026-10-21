@@ -1,6 +1,46 @@
 {
-  "generated_at": 1792548623,
+  "generated_at": 1792569735,
   "items": [
+    {
+      "id": "4bccae08db6aa396f28bbce1959b53dcc9c3802a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"has experienced an incident involving the loss of certain data.\" The count is",
+      "published": "2026-10-21 07:44:22",
+      "timestamp": 1792568662
+    },
+    {
+      "id": "e95d0959f82621398a86e1af88cbc1e4b990155c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-2026-96652 (CVSS score: 5.3) - Plex Media Server Server-Side Request Forgery (SSRF)",
+      "published": "2026-10-21 07:26:49",
+      "timestamp": 1792567609
+    },
+    {
+      "id": "86e509e4b49b0fa40a03fab31a3928140cf69fba",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial",
+      "published": "2026-10-21 06:05:15",
+      "timestamp": 1792562715
+    },
+    {
+      "id": "02be4a51d2c67143843da9482e4db3fd7bc025bc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.",
+      "published": "2026-10-21 04:57:50",
+      "timestamp": 1792558670
+    },
     {
       "id": "a5b0de37288236548a607f7c76d9f4462c9f6332",
       "source": "BleepingComputer",
@@ -680,46 +720,6 @@
       "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
       "published": "2026-10-15 08:45:10",
       "timestamp": 1792053910
-    },
-    {
-      "id": "ea4950e449a38319ef73c5a1b94fb861ec819a0f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM. The vulnerability in question is CVE-2026-105740 (CVSS score: 9.9), a case of",
-      "published": "2026-10-15 07:07:05",
-      "timestamp": 1792048025
-    },
-    {
-      "id": "4d168b131c3d28cc72a31a3350a6d129d0e01ef0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems. In a report published earlier",
-      "published": "2026-10-15 06:43:08",
-      "timestamp": 1792046588
-    },
-    {
-      "id": "0ccb1947259910ba78608e55e1fb6e3a822dd306",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,",
-      "published": "2026-10-14 18:38:56",
-      "timestamp": 1792003136
-    },
-    {
-      "id": "59b35310b69cbe28687173f9f0cfb8932c4c7d81",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw",
-      "published": "2026-10-14 17:38:31",
-      "timestamp": 1791999511
     },
     {
       "id": "f43a18b3b59f9e0acadd151954f68f20a76d2fa3",
