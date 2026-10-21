@@ -1,6 +1,146 @@
 {
-  "generated_at": 1792569735,
+  "generated_at": 1792591820,
   "items": [
+    {
+      "id": "818d0e743518c88c7e2cc13b48a6e32f2f48d884",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+      "published": "2026-10-21 14:07:05",
+      "timestamp": 1792591625
+    },
+    {
+      "id": "a402b3bf9f04eba5593a9b55ed1ed208c4be16a0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+      "published": "2026-10-21 14:00:10",
+      "timestamp": 1792591210
+    },
+    {
+      "id": "b4b25059cca2a52cafa412ae789420a021b76a50",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into their computer's operating system, thereby bypassing conventional security controls. As part of",
+      "published": "2026-10-21 13:15:09",
+      "timestamp": 1792588509
+    },
+    {
+      "id": "7961711fc7aada8547187537acda06a9dc4c14e7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+      "published": "2026-10-21 12:20:34",
+      "timestamp": 1792585234
+    },
+    {
+      "id": "e533f43826026f539b464e56f2d0ce90a04b103d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading,\" Sophos security researcher Gabor Szappanos said in a post published",
+      "published": "2026-10-21 12:05:00",
+      "timestamp": 1792584300
+    },
+    {
+      "id": "fca7014fab1008c4d2db0c34d9923873c189f9a0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
+      "published": "2026-10-21 11:53:34",
+      "timestamp": 1792583614
+    },
+    {
+      "id": "fca26d92d25de70188d8f6b206e5ac2808878d0b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your",
+      "published": "2026-10-21 10:36:53",
+      "timestamp": 1792579013
+    },
+    {
+      "id": "8adcd3c32a8d2a57c323e7d1eb762faeabef0187",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Harness Is the Hard Part of Agentic Pentesting",
+      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness is where the engineering in AI pentesting sits. The Hugging Face intrusion OpenAI disclosed in July",
+      "published": "2026-10-21 10:32:40",
+      "timestamp": 1792578760
+    },
+    {
+      "id": "6c14287dde3731e74198a692387a0b08a1105e25",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to an SSH server made through Tor between October 1 and 5, after accepting the interception",
+      "published": "2026-10-21 10:30:27",
+      "timestamp": 1792578627
+    },
+    {
+      "id": "d5c236fe644c8f3de604a0aea7a654437bb24d9a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft says October updates didn\u2019t actually fix VPN issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+      "published": "2026-10-21 10:14:53",
+      "timestamp": 1792577693
+    },
+    {
+      "id": "02be4a51d2c67143843da9482e4db3fd7bc025bc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.",
+      "published": "2026-10-21 09:05:17",
+      "timestamp": 1792573517
+    },
+    {
+      "id": "5bd08b169696c1c662173a31a0792a11a2046e07",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the developer behind UpdraftPlus, a popular WordPress backup plugin with over four million active installations. The vendor also offers UpdraftCentral, a remote",
+      "published": "2026-10-21 09:01:12",
+      "timestamp": 1792573272
+    },
+    {
+      "id": "d288007910e0652bff5ca8593f430fb1fb7f09e6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "published": "2026-10-21 08:36:24",
+      "timestamp": 1792571784
+    },
+    {
+      "id": "5ff1014331aef5e67e788b9b42cf40df151e22ed",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "summary": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security order. They may also no longer buy information technology products or services from the Chinese AI developer or its affiliates Homeland Security Secretary",
+      "published": "2026-10-21 08:04:17",
+      "timestamp": 1792569857
+    },
     {
       "id": "4bccae08db6aa396f28bbce1959b53dcc9c3802a",
       "source": "The Hacker News",
@@ -30,16 +170,6 @@
       "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial",
       "published": "2026-10-21 06:05:15",
       "timestamp": 1792562715
-    },
-    {
-      "id": "02be4a51d2c67143843da9482e4db3fd7bc025bc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.",
-      "published": "2026-10-21 04:57:50",
-      "timestamp": 1792558670
     },
     {
       "id": "a5b0de37288236548a607f7c76d9f4462c9f6332",
@@ -232,16 +362,6 @@
       "timestamp": 1792495882
     },
     {
-      "id": "f7915b5232ef6c4cffb6157964ea2c464d2c2e02",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-      "published": "2026-10-20 11:18:35",
-      "timestamp": 1792495115
-    },
-    {
       "id": "14561dede001e6e3b826dcd5676eb2395a0a69f0",
       "source": "The Hacker News",
       "source_category": "General",
@@ -260,16 +380,6 @@
       "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup. The company said it has completed the following actions since it began",
       "published": "2026-10-20 10:56:08",
       "timestamp": 1792493768
-    },
-    {
-      "id": "8a7c15f8ae394437e05f0b26ba95d88bddce9928",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
-      "published": "2026-10-20 09:46:44",
-      "timestamp": 1792489604
     },
     {
       "id": "c4f6eb602620e4bad7c3a166437b5973e3bd3f5f",
@@ -310,36 +420,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own",
       "published": "2026-10-20 04:05:58",
       "timestamp": 1792469158
-    },
-    {
-      "id": "22cce6659e5cb1a971839d944c6402ad2bcf9da4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
-      "published": "2026-10-19 21:49:48",
-      "timestamp": 1792446588
-    },
-    {
-      "id": "44d384d38f5057450794cfaba71d5d51f7b33dd1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
-      "published": "2026-10-19 21:24:51",
-      "timestamp": 1792445091
-    },
-    {
-      "id": "07b03a6d6be7c6f3c6422da52f9187da9979d6b4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
-      "published": "2026-10-19 19:40:58",
-      "timestamp": 1792438858
     },
     {
       "id": "f68ecd4a273ab1753764a57bd883abd7b11c8a04",
@@ -632,36 +712,6 @@
       "timestamp": 1792073496
     },
     {
-      "id": "9b0125206f6f9f6b6882bef6f811d6e23418b771",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to exploit. A fourth lets an attacker forge a TLS session that could",
-      "published": "2026-10-15 12:58:05",
-      "timestamp": 1792069085
-    },
-    {
-      "id": "61a757eb599d3eb9231621cb8ac662c69ec82ab5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through the sharp package to handle SVG images. The fixes are in",
-      "published": "2026-10-15 12:28:13",
-      "timestamp": 1792067293
-    },
-    {
-      "id": "efbac69a36231bf31b5cf8d7cc8345e943fdb53e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.",
-      "published": "2026-10-15 12:07:20",
-      "timestamp": 1792066040
-    },
-    {
       "id": "3b9d4dc2b9bceac90a1161fc3d6d6031d18ac190",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -670,56 +720,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability manageme",
       "published": "2026-10-15 12:00:00",
       "timestamp": 1792065600
-    },
-    {
-      "id": "eb5597ccc34ac398581c64a2a6719510a8fa4dad",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving US businesses, which accounted for 16% of country-attributed targets. Similar attacks",
-      "published": "2026-10-15 11:46:59",
-      "timestamp": 1792064819
-    },
-    {
-      "id": "01d79e1b534e2be24c2f6eb71fa62cf5cde3e2cc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
-      "published": "2026-10-15 11:46:49",
-      "timestamp": 1792064809
-    },
-    {
-      "id": "1c8107e26ea3bc2b590530113a662ff4c3bbe1e9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Why AI Confidence Is Not Validation",
-      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an",
-      "published": "2026-10-15 11:04:35",
-      "timestamp": 1792062275
-    },
-    {
-      "id": "576f4378206d9af014f43398d212ff83afd72172",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls. To that end, the Department of Telecommunications has issued a circular urging service",
-      "published": "2026-10-15 10:42:16",
-      "timestamp": 1792060936
-    },
-    {
-      "id": "c4d3aa9ff87e52e0d1ec0dcec79503a01929cc41",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
-      "published": "2026-10-15 08:45:10",
-      "timestamp": 1792053910
     },
     {
       "id": "f43a18b3b59f9e0acadd151954f68f20a76d2fa3",
