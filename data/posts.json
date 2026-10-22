@@ -1,6 +1,16 @@
 {
-  "generated_at": 1792634684,
+  "generated_at": 1792656020,
   "items": [
+    {
+      "id": "8a6c914f8b6fb2cc1520b77d71ec735531e8be71",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse against South Korean financial institutions, to speed up scanning and",
+      "published": "2026-10-22 04:21:26",
+      "timestamp": 1792642886
+    },
     {
       "id": "79d61ea04e55b0d79362a70594138245bccc9f04",
       "source": "BleepingComputer",
@@ -77,7 +87,7 @@
       "source_category": "General",
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
       "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an evaluation",
       "published": "2026-10-21 16:33:47",
       "timestamp": 1792600427
     },
@@ -730,16 +740,6 @@
       "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
       "published": "2026-10-16 04:59:36",
       "timestamp": 1792126776
-    },
-    {
-      "id": "80e851968d9a89e57385c9a61d06a05636415a45",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
-      "published": "2026-10-15 20:24:36",
-      "timestamp": 1792095876
     },
     {
       "id": "3b9d4dc2b9bceac90a1161fc3d6d6031d18ac190",
