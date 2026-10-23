@@ -1,6 +1,46 @@
 {
-  "generated_at": 1792742387,
+  "generated_at": 1792763518,
   "items": [
+    {
+      "id": "9359748dd0f10d39cb5affb1bb36a334e3454843",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "published": "2026-10-23 12:48:00",
+      "timestamp": 1792759680
+    },
+    {
+      "id": "b2b14a96d986f462e0517ec537736b7bc4c53ff5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
+      "published": "2026-10-23 11:25:43",
+      "timestamp": 1792754743
+    },
+    {
+      "id": "437222ed653351c6a56558ebdf0ae52bd0468fa7",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
+      "published": "2026-10-23 11:11:23",
+      "timestamp": 1792753883
+    },
+    {
+      "id": "8ecf026a80476c4e2fa6fd654fc66e8f7801200f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
+      "published": "2026-10-23 09:36:00",
+      "timestamp": 1792748160
+    },
     {
       "id": "38cf7011c491bfae87300551d91d02072ce33ab6",
       "source": "The Hacker News",
@@ -8,8 +48,18 @@
       "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
       "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
       "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
-      "published": "2026-10-23 07:50:01",
-      "timestamp": 1792741801
+      "published": "2026-10-23 08:40:43",
+      "timestamp": 1792744843
+    },
+    {
+      "id": "a29d98e3ed18153599ecf091227395f6e00e37c6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
+      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
+      "published": "2026-10-23 08:35:45",
+      "timestamp": 1792744545
     },
     {
       "id": "3ff0888f587e05b51102aeaaf81da8da4bbcb016",
@@ -352,16 +402,6 @@
       "timestamp": 1792596367
     },
     {
-      "id": "818d0e743518c88c7e2cc13b48a6e32f2f48d884",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-      "published": "2026-10-21 14:07:05",
-      "timestamp": 1792591625
-    },
-    {
       "id": "475d6678e6aab3e9dcaf6ef39b5b0f39371691fe",
       "source": "The Hacker News",
       "source_category": "General",
@@ -652,36 +692,6 @@
       "timestamp": 1792469158
     },
     {
-      "id": "f68ecd4a273ab1753764a57bd883abd7b11c8a04",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell. The vulnerabilities",
-      "published": "2026-10-19 17:32:13",
-      "timestamp": 1792431133
-    },
-    {
-      "id": "d7275d5b33bceef34b7614f3f59ab70c68b6de5f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16. Any site that installed and activated one of those copies should be treated as compromised, and the",
-      "published": "2026-10-19 16:28:47",
-      "timestamp": 1792427327
-    },
-    {
-      "id": "34839ada34d996b151a4b08f602bcba83e066cb6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were",
-      "published": "2026-10-19 14:14:07",
-      "timestamp": 1792419247
-    },
-    {
       "id": "5263ce2bfe1fbcd8d6236e90eec33dc1db8aa762",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -690,16 +700,6 @@
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
       "published": "2026-10-19 13:48:56",
       "timestamp": 1792417736
-    },
-    {
-      "id": "cb8a469cd6f5e6ad13fd7db9ae12cae3c104156d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps",
-      "published": "2026-10-19 13:05:45",
-      "timestamp": 1792415145
     },
     {
       "id": "914a0ded202713c979ab24d80dd29023644b0910",
