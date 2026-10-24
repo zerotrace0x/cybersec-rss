@@ -1,5 +1,5 @@
 {
-  "generated_at": 1792798549,
+  "generated_at": 1792807709,
   "items": [
     {
       "id": "4780e57c9fa5ae041a2fa69eaf20947b89bae0e7",
@@ -507,7 +507,7 @@
       "source_category": "Blue Team",
       "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
-      "summary": "CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619. These vulnerabilities, known as \u201cphp2shell,\u201d allow for unauthenticated remote code execution in PHP and affect all PHP installations serving web requests. Organizations should immediately update to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 to fix these vulnerabilities. While CISA has not observed exploitation of these vulnerabilities as of the time of pu",
+      "summary": "Update October 23, 2026: CISA has updated this Alert to: (1) provide a SIGMA detection rule to help identify potentially suspicious activity; (2) incorporate partner resources; and (3) reinforce existing mitigation guidance. Purpose CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619. These vulnerabilities, known as \u201cphp2shell,\u201d allow for unauthenticated remote code execution in PHP. The vulnerabilitie",
       "published": "2026-10-21 12:00:00",
       "timestamp": 1792584000
     },
