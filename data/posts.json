@@ -1,6 +1,46 @@
 {
-  "generated_at": 1792827561,
+  "generated_at": 1792846671,
   "items": [
+    {
+      "id": "711de6d3dd41575f201f30e741f98ea1b4b29331",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "published": "2026-10-24 11:09:29",
+      "timestamp": 1792840169
+    },
+    {
+      "id": "76d3110c016e702ae343b5b4b8741a2e055694c8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+      "published": "2026-10-24 11:03:33",
+      "timestamp": 1792839813
+    },
+    {
+      "id": "214efbb2b0f9b6b808318b3778f719233757de35",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
+      "published": "2026-10-24 10:36:33",
+      "timestamp": 1792838193
+    },
+    {
+      "id": "777fe18b224c3b258a15ba3ceff6b5fd90b1cb64",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
+      "published": "2026-10-24 09:04:24",
+      "timestamp": 1792832664
+    },
     {
       "id": "9109f7772949309e881c4629b3b308eabc8bffdd",
       "source": "The Hacker News",
@@ -680,46 +720,6 @@
       "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability CVE-2026-96655 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96656 Plex Media Server External Control of File Name or Path Vulnerability CVE-2026",
       "published": "2026-10-20 12:00:00",
       "timestamp": 1792497600
-    },
-    {
-      "id": "3c3af208ced7780a2466b422f7657177aeb01596",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat in the pages' code, never shown on screen, until it was removed by October 18. Whether the",
-      "published": "2026-10-20 11:41:06",
-      "timestamp": 1792496466
-    },
-    {
-      "id": "9ef2a5e4767388e9d2ea1a6e73d5c49ae1ff5ac1",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team\u2019s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them",
-      "published": "2026-10-20 11:33:04",
-      "timestamp": 1792495984
-    },
-    {
-      "id": "6134a56874edc4da71de994e772a77678ab0411a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not",
-      "published": "2026-10-20 11:32:59",
-      "timestamp": 1792495979
-    },
-    {
-      "id": "14561dede001e6e3b826dcd5676eb2395a0a69f0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor called HOOKEDGE and a previously",
-      "published": "2026-10-20 11:06:25",
-      "timestamp": 1792494385
     },
     {
       "id": "5263ce2bfe1fbcd8d6236e90eec33dc1db8aa762",
