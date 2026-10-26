@@ -1,6 +1,16 @@
 {
-  "generated_at": 1792979783,
+  "generated_at": 1793002233,
   "items": [
+    {
+      "id": "3d90c7c103fdd1657cf96490aec7e5d64a4e486e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
+      "published": "2026-10-26 06:03:48",
+      "timestamp": 1792994628
+    },
     {
       "id": "b5652045a5fe4a93af05e7c46bf9858c0cbdac1c",
       "source": "The Hacker News",
@@ -15,9 +25,9 @@
       "id": "30ec6f274f1e795ae536e93334e52f6947ed3356",
       "source": "The Hacker News",
       "source_category": "General",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
       "published": "2026-10-25 17:19:46",
       "timestamp": 1792948786
     },
@@ -57,7 +67,7 @@
       "source_category": "General",
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
       "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory,",
       "published": "2026-10-24 11:09:29",
       "timestamp": 1792840169
     },
@@ -700,16 +710,6 @@
       "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
       "published": "2026-10-20 17:09:53",
       "timestamp": 1792516193
-    },
-    {
-      "id": "4336c2e121fd5e3a9f6561d55c5fc9427cee02ea",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially",
-      "published": "2026-10-20 15:38:52",
-      "timestamp": 1792510732
     },
     {
       "id": "65d77e11329993cdbd6e06e74ec76a06dc3448b9",
