@@ -1,6 +1,106 @@
 {
-  "generated_at": 1793002233,
+  "generated_at": 1793028723,
   "items": [
+    {
+      "id": "b2f7acd71f5c3c7a37e7704a43eb5ffbde914695",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And that's not even the full story. A leaked key led to a software supply-chain",
+      "published": "2026-10-26 14:06:13",
+      "timestamp": 1793023573
+    },
+    {
+      "id": "deb9e68b609bd0e6be766269b331b4104738f90d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+      "published": "2026-10-26 14:00:10",
+      "timestamp": 1793023210
+    },
+    {
+      "id": "36ca19c6b27ba646a9c0a87e61f446043c4a4785",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+      "published": "2026-10-26 13:56:44",
+      "timestamp": 1793023004
+    },
+    {
+      "id": "7c5a7b11704ceb3ae8e6059f912be4ae67be8506",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the flaws affects only ARM64 systems. Fixed versions were released on",
+      "published": "2026-10-26 11:52:41",
+      "timestamp": 1793015561
+    },
+    {
+      "id": "6cc97cd8c9b6e9e4e2c8720ed724dc1c0d8d4250",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view. SOC teams often first see the shape of an intrusion",
+      "published": "2026-10-26 11:23:56",
+      "timestamp": 1793013836
+    },
+    {
+      "id": "9972435d02a028277c25c016ae521bd0ac1e272c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "published": "2026-10-26 10:26:52",
+      "timestamp": 1793010412
+    },
+    {
+      "id": "76978901ad9c1bce815bb16255b11a23beee5d60",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
+      "published": "2026-10-26 09:54:02",
+      "timestamp": 1793008442
+    },
+    {
+      "id": "36dcad3e142e1aa5fd4aac5810d02d80b25d26f0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "published": "2026-10-26 09:19:57",
+      "timestamp": 1793006397
+    },
+    {
+      "id": "07c23e6cf3109ddef8e1c35b48bc2de58592ffb6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
+      "published": "2026-10-26 08:35:51",
+      "timestamp": 1793003751
+    },
+    {
+      "id": "7a8d9a8330d08669457c974e3b6eb787f7bcb69d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
+      "published": "2026-10-26 07:49:46",
+      "timestamp": 1793000986
+    },
     {
       "id": "3d90c7c103fdd1657cf96490aec7e5d64a4e486e",
       "source": "The Hacker News",
@@ -332,16 +432,6 @@
       "timestamp": 1792700565
     },
     {
-      "id": "fc237d3e9a78ee885ef74c556bf2ffa78f322a9c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "published": "2026-10-22 19:12:51",
-      "timestamp": 1792696371
-    },
-    {
       "id": "43c5bbfdc40c62c83bcc85ac3d4f40e2e99c8356",
       "source": "The Hacker News",
       "source_category": "General",
@@ -382,16 +472,6 @@
       "timestamp": 1792691144
     },
     {
-      "id": "4b0609cc3d712b058e9e64e561e0e74a4c55d565",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "published": "2026-10-22 17:18:22",
-      "timestamp": 1792689502
-    },
-    {
       "id": "20bbd59eb9514fb2abf11e583f9e5a9a6412a15d",
       "source": "The Hacker News",
       "source_category": "General",
@@ -410,26 +490,6 @@
       "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
       "published": "2026-10-22 16:12:31",
       "timestamp": 1792685551
-    },
-    {
-      "id": "7c06b51ec7052fe9b945ffba4737d23819dfe6a8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "published": "2026-10-22 15:49:32",
-      "timestamp": 1792684172
-    },
-    {
-      "id": "fc50bcca5abe56b458d8b02f2877355c58e56792",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Machine speed attacks require machine speed detection and response",
-      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
-      "published": "2026-10-22 14:02:12",
-      "timestamp": 1792677732
     },
     {
       "id": "872ca7491a0026a865065fd4b627c10956f56005",
@@ -650,66 +710,6 @@
       "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. \u26a1",
       "published": "2026-10-21 09:05:17",
       "timestamp": 1792573517
-    },
-    {
-      "id": "5bd08b169696c1c662173a31a0792a11a2046e07",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the developer behind UpdraftPlus, a popular WordPress backup plugin with over four million active installations. The vendor also offers UpdraftCentral, a remote",
-      "published": "2026-10-21 09:01:12",
-      "timestamp": 1792573272
-    },
-    {
-      "id": "5ff1014331aef5e67e788b9b42cf40df151e22ed",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "summary": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security order. They may also no longer buy information technology products or services from the Chinese AI developer or its affiliates Homeland Security Secretary",
-      "published": "2026-10-21 08:04:17",
-      "timestamp": 1792569857
-    },
-    {
-      "id": "4bccae08db6aa396f28bbce1959b53dcc9c3802a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"has experienced an incident involving the loss of certain data.\" The count is",
-      "published": "2026-10-21 07:44:22",
-      "timestamp": 1792568662
-    },
-    {
-      "id": "e95d0959f82621398a86e1af88cbc1e4b990155c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-2026-96652 (CVSS score: 5.3) - Plex Media Server Server-Side Request Forgery (SSRF)",
-      "published": "2026-10-21 07:26:49",
-      "timestamp": 1792567609
-    },
-    {
-      "id": "86e509e4b49b0fa40a03fab31a3928140cf69fba",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-      "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial",
-      "published": "2026-10-21 06:05:15",
-      "timestamp": 1792562715
-    },
-    {
-      "id": "34c1122ab3a13d446717c9311e69bf6087bfbbc9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
-      "published": "2026-10-20 17:09:53",
-      "timestamp": 1792516193
     },
     {
       "id": "65d77e11329993cdbd6e06e74ec76a06dc3448b9",
