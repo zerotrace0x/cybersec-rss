@@ -1,6 +1,36 @@
 {
-  "generated_at": 1793068466,
+  "generated_at": 1793089520,
   "items": [
+    {
+      "id": "0cca2ef151abe317afdc0a6a324350b798c2ef29",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+      "published": "2026-10-27 08:20:54",
+      "timestamp": 1793089254
+    },
+    {
+      "id": "08549e05287491d5f1a7bbcf991e2eb66ce04747",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
+      "published": "2026-10-27 06:34:47",
+      "timestamp": 1793082887
+    },
+    {
+      "id": "7a275da421d1717b5e012699c76bcd86ddf8a991",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+      "published": "2026-10-27 04:37:59",
+      "timestamp": 1793075879
+    },
     {
       "id": "0922e1257b4d171b6aa61d5b38a0c6d0648d454a",
       "source": "BleepingComputer",
@@ -372,16 +402,6 @@
       "timestamp": 1792777847
     },
     {
-      "id": "04ddfebbbab14ba9fa2d6d3f6241e56e7c66f3a4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-      "published": "2026-10-23 17:05:07",
-      "timestamp": 1792775107
-    },
-    {
       "id": "6597de1feb3112ad54b6e75064997f053c026366",
       "source": "The Hacker News",
       "source_category": "General",
@@ -700,26 +720,6 @@
       "summary": "Update October 26, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 26, 2026. Update October 23, 2026: CISA has updated this Alert to: (1) provide a SIGMA detection rule to help identify potentially suspicious activity; (2) incorporate partner resources; and (3) reinforce existing mitigation guidance. Purpose CISA strongly urges organizations to immediately patch the recently disclosed cr",
       "published": "2026-10-21 12:00:00",
       "timestamp": 1792584000
-    },
-    {
-      "id": "fca7014fab1008c4d2db0c34d9923873c189f9a0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
-      "published": "2026-10-21 11:53:34",
-      "timestamp": 1792583614
-    },
-    {
-      "id": "fca26d92d25de70188d8f6b206e5ac2808878d0b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your",
-      "published": "2026-10-21 10:36:53",
-      "timestamp": 1792579013
     },
     {
       "id": "65d77e11329993cdbd6e06e74ec76a06dc3448b9",
