@@ -1,6 +1,36 @@
 {
-  "generated_at": 1793113074,
+  "generated_at": 1793130373,
   "items": [
+    {
+      "id": "e842b77f4ff4819c896814beac1f80d7556ec649",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published",
+      "published": "2026-10-27 18:26:46",
+      "timestamp": 1793125606
+    },
+    {
+      "id": "ff80e4f615045a459364972233586849ab1b9374",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+      "published": "2026-10-27 18:20:28",
+      "timestamp": 1793125228
+    },
+    {
+      "id": "e003027bd4e2deb7bd148bde5ee126f3ee8485e6",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+      "published": "2026-10-27 16:15:39",
+      "timestamp": 1793117739
+    },
     {
       "id": "8c09f238be32922b954fcc5938bab6cefe83e5ad",
       "source": "BleepingComputer",
@@ -20,6 +50,26 @@
       "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]",
       "published": "2026-10-27 14:01:11",
       "timestamp": 1793109671
+    },
+    {
+      "id": "a8bea8ca15b21fa397582fa60ff96fa375ba85ef",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked",
+      "published": "2026-10-27 13:59:48",
+      "timestamp": 1793109588
+    },
+    {
+      "id": "7d23ac8cd71e9eea409b2f0f3f0fb7e23d30f22f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file. Patches for the flaw were released last month by Apple in",
+      "published": "2026-10-27 13:59:09",
+      "timestamp": 1793109549
     },
     {
       "id": "5b659978abb44bbd21a8f338076caf446d2950b8",
@@ -110,6 +160,16 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
       "published": "2026-10-27 08:20:54",
       "timestamp": 1793089254
+    },
+    {
+      "id": "12335005738b204a8f8305190f73490570333b75",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome\u2019s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
+      "published": "2026-10-27 07:00:00",
+      "timestamp": 1793084400
     },
     {
       "id": "08549e05287491d5f1a7bbcf991e2eb66ce04747",
@@ -282,16 +342,6 @@
       "timestamp": 1793013836
     },
     {
-      "id": "9972435d02a028277c25c016ae521bd0ac1e272c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-      "published": "2026-10-26 10:26:52",
-      "timestamp": 1793010412
-    },
-    {
       "id": "76978901ad9c1bce815bb16255b11a23beee5d60",
       "source": "The Hacker News",
       "source_category": "General",
@@ -300,16 +350,6 @@
       "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
       "published": "2026-10-26 09:54:02",
       "timestamp": 1793008442
-    },
-    {
-      "id": "36dcad3e142e1aa5fd4aac5810d02d80b25d26f0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "published": "2026-10-26 09:19:57",
-      "timestamp": 1793006397
     },
     {
       "id": "07c23e6cf3109ddef8e1c35b48bc2de58592ffb6",
@@ -660,36 +700,6 @@
       "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
       "published": "2026-10-22 07:47:22",
       "timestamp": 1792655242
-    },
-    {
-      "id": "e65490a9f12e8de364a6ee04f87fa0c09641805e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server",
-      "published": "2026-10-22 06:38:31",
-      "timestamp": 1792651111
-    },
-    {
-      "id": "c221ba20f3e10ccd301ef97cba369c18682c2ca0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-      "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit attempt originated from an IP address associated with a commercial anonymization network,",
-      "published": "2026-10-22 06:34:10",
-      "timestamp": 1792650850
-    },
-    {
-      "id": "8a6c914f8b6fb2cc1520b77d71ec735531e8be71",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed",
-      "published": "2026-10-22 04:21:26",
-      "timestamp": 1792642886
     },
     {
       "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
@@ -1240,16 +1250,6 @@
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
       "published": "2026-01-26 08:00:00",
       "timestamp": 1769414400
-    },
-    {
-      "id": "49220fa9cd9cad5f8031e0d3ed185b153c0a6c15",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
-      "link": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
-      "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
-      "published": "2026-01-14 18:01:00",
-      "timestamp": 1768413660
     }
   ]
 }
