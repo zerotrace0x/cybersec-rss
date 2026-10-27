@@ -1,6 +1,106 @@
 {
-  "generated_at": 1793089520,
+  "generated_at": 1793113074,
   "items": [
+    {
+      "id": "8c09f238be32922b954fcc5938bab6cefe83e5ad",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+      "published": "2026-10-27 14:09:46",
+      "timestamp": 1793110186
+    },
+    {
+      "id": "a5d7863be85648410ab0327d68c6e3bb6002e6cb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]",
+      "published": "2026-10-27 14:01:11",
+      "timestamp": 1793109671
+    },
+    {
+      "id": "5b659978abb44bbd21a8f338076caf446d2950b8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update. In the researchers' tests,",
+      "published": "2026-10-27 12:09:50",
+      "timestamp": 1793102990
+    },
+    {
+      "id": "e530f696f7431c3cbf104ead0e223411fc8de440",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve",
+      "published": "2026-10-27 11:46:00",
+      "timestamp": 1793101560
+    },
+    {
+      "id": "58d6ca5256988e7d39f4596b113e4a3c58d2e069",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain",
+      "published": "2026-10-27 11:32:46",
+      "timestamp": 1793100766
+    },
+    {
+      "id": "023f32146f90c3c2b67202860b096f2726eff8fb",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up",
+      "published": "2026-10-27 11:32:31",
+      "timestamp": 1793100751
+    },
+    {
+      "id": "a81c64e1295bf155ed7e0f4228a9b2644017f5dc",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "summary": "\u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "published": "2026-10-27 10:36:12",
+      "timestamp": 1793097372
+    },
+    {
+      "id": "efb507a678defeeb6a173d857eab18f9931102f5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next steps that we took were to disconnect that Amadey controller from all those",
+      "published": "2026-10-27 09:33:06",
+      "timestamp": 1793093586
+    },
+    {
+      "id": "24469de744654f2720e023947115ee7d65694b30",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "published": "2026-10-27 09:25:50",
+      "timestamp": 1793093150
+    },
+    {
+      "id": "de7e4a04c430ccd87c9f95a46552c09ac9ec8495",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
+      "published": "2026-10-27 08:22:43",
+      "timestamp": 1793089363
+    },
     {
       "id": "0cca2ef151abe317afdc0a6a324350b798c2ef29",
       "source": "BleepingComputer",
@@ -262,16 +362,6 @@
       "timestamp": 1792948786
     },
     {
-      "id": "8dd07f666f35e225d3085b15f0eb04d31248e741",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-      "published": "2026-10-25 15:49:38",
-      "timestamp": 1792943378
-    },
-    {
       "id": "fed4326c84ee3a213609a29bbfdaf47bd36bbc63",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +370,6 @@
       "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
       "published": "2026-10-25 06:54:29",
       "timestamp": 1792911269
-    },
-    {
-      "id": "655860b39f488c92d0d7b9e4be2f8159653d2b05",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-      "published": "2026-10-24 14:17:32",
-      "timestamp": 1792851452
     },
     {
       "id": "711de6d3dd41575f201f30e741f98ea1b4b29331",
@@ -340,26 +420,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
       "published": "2026-10-24 06:25:57",
       "timestamp": 1792823157
-    },
-    {
-      "id": "4780e57c9fa5ae041a2fa69eaf20947b89bae0e7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-      "published": "2026-10-23 20:55:05",
-      "timestamp": 1792788905
-    },
-    {
-      "id": "aab3be1d10f5e82db3b4631c81807f88eedf2d96",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-      "published": "2026-10-23 18:54:41",
-      "timestamp": 1792781681
     },
     {
       "id": "b1a2a387564947ece22892ef4ea8842b0651caaf",
@@ -632,16 +692,6 @@
       "timestamp": 1792642886
     },
     {
-      "id": "b978aa7f926ae3d35ea6f7a69d21e71badd7db04",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an",
-      "published": "2026-10-21 18:57:34",
-      "timestamp": 1792609054
-    },
-    {
       "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -652,26 +702,6 @@
       "timestamp": 1792607035
     },
     {
-      "id": "5d3050a70e1e7f8a82d03ed036c154bb2e37bf98",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the",
-      "published": "2026-10-21 18:01:57",
-      "timestamp": 1792605717
-    },
-    {
-      "id": "5c5a56d913b60ba90827f74781ec004618d9cb9d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an evaluation",
-      "published": "2026-10-21 16:33:47",
-      "timestamp": 1792600427
-    },
-    {
       "id": "48ccfd80092119d67c446e65d26eb46077e5f763",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -680,36 +710,6 @@
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
       "published": "2026-10-21 15:26:07",
       "timestamp": 1792596367
-    },
-    {
-      "id": "475d6678e6aab3e9dcaf6ef39b5b0f39371691fe",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own",
-      "published": "2026-10-21 14:00:00",
-      "timestamp": 1792591200
-    },
-    {
-      "id": "b4b25059cca2a52cafa412ae789420a021b76a50",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into their computer's operating system, thereby bypassing conventional security controls. As part of",
-      "published": "2026-10-21 13:15:09",
-      "timestamp": 1792588509
-    },
-    {
-      "id": "e533f43826026f539b464e56f2d0ce90a04b103d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading,\" Sophos security researcher Gabor Szappanos said in a post published",
-      "published": "2026-10-21 12:05:00",
-      "timestamp": 1792584300
     },
     {
       "id": "3010b9654d2ab0fbdaddae3708ab210830ff7b49",
