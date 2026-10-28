@@ -1,6 +1,66 @@
 {
-  "generated_at": 1793145989,
+  "generated_at": 1793178158,
   "items": [
+    {
+      "id": "2f110211124b0e7355d54a11a37c84f6f8d06f65",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of",
+      "published": "2026-10-28 08:15:07",
+      "timestamp": 1793175307
+    },
+    {
+      "id": "937bc6f817928dab68afb983c06d641993b8562b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions",
+      "published": "2026-10-28 07:37:50",
+      "timestamp": 1793173070
+    },
+    {
+      "id": "f432299c6673964c57751c44d038b0c0ae5b174e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service hosts Windows desktops used for FX trading,",
+      "published": "2026-10-28 07:13:21",
+      "timestamp": 1793171601
+    },
+    {
+      "id": "c5c79e0e386ad40a6c3096a425f4b24cc8218d26",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must",
+      "published": "2026-10-28 06:20:37",
+      "timestamp": 1793168437
+    },
+    {
+      "id": "6ac5dc9b55c2544a9bfd243aa5dfb4c926799492",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address",
+      "published": "2026-10-28 06:04:58",
+      "timestamp": 1793167498
+    },
+    {
+      "id": "c21ef11b85a8aa55a3ca4bedf6b0d3e5b82373f1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in",
+      "published": "2026-10-28 05:42:26",
+      "timestamp": 1793166146
+    },
     {
       "id": "e3414056957f00c3a76c26f0ce39ebc410c1630c",
       "source": "BleepingComputer",
@@ -650,66 +710,6 @@
       "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
       "published": "2026-10-22 17:01:53",
       "timestamp": 1792688513
-    },
-    {
-      "id": "b268810433341cc2b26a6e4653558aa384a66d50",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
-      "published": "2026-10-22 16:12:31",
-      "timestamp": 1792685551
-    },
-    {
-      "id": "872ca7491a0026a865065fd4b627c10956f56005",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026. \"Authorities identified",
-      "published": "2026-10-22 13:38:22",
-      "timestamp": 1792676302
-    },
-    {
-      "id": "5426dcf1041a8d715f9a85ba235602faa14e3d37",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
-      "published": "2026-10-22 11:15:42",
-      "timestamp": 1792667742
-    },
-    {
-      "id": "4b6f087674711f00a00fa8f5c8495464d9fe141d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September",
-      "published": "2026-10-22 10:44:05",
-      "timestamp": 1792665845
-    },
-    {
-      "id": "f499056ca485421e5035f3854a97c97c48dd081c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
-      "published": "2026-10-22 08:28:48",
-      "timestamp": 1792657728
-    },
-    {
-      "id": "0f4ef602561ec35995dc6fabc79fdd203fbddfee",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
-      "published": "2026-10-22 07:47:22",
-      "timestamp": 1792655242
     },
     {
       "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
