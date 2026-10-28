@@ -1,6 +1,46 @@
 {
-  "generated_at": 1793208535,
+  "generated_at": 1793224562,
   "items": [
+    {
+      "id": "5d68708980c1fe7f4281453162563c63d6fae888",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+      "published": "2026-10-28 20:47:22",
+      "timestamp": 1793220442
+    },
+    {
+      "id": "3103f544324e8bc94ac70688c11dd0924fc3e31d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Discord to let search engines index public server messages",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+      "published": "2026-10-28 18:44:16",
+      "timestamp": 1793213056
+    },
+    {
+      "id": "b3025aeda716b4c4c41664cfb4034ff339951dc2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure,\" Lumen Technologies Black Lotus Labs said in a report shared",
+      "published": "2026-10-28 18:08:33",
+      "timestamp": 1793210913
+    },
+    {
+      "id": "a6a5b1badeb2126f042b8aae123af27cf73bf7c4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on",
+      "published": "2026-10-28 17:08:09",
+      "timestamp": 1793207289
+    },
     {
       "id": "8889a2a0d7bb751ae559b25d0bc9c4ac697aff9a",
       "source": "BleepingComputer",
@@ -10,6 +50,16 @@
       "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
       "published": "2026-10-28 16:45:47",
       "timestamp": 1793205947
+    },
+    {
+      "id": "3817a43d22fcb17d9ce53fdc2daed5b46fd28e19",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,",
+      "published": "2026-10-28 16:23:34",
+      "timestamp": 1793204614
     },
     {
       "id": "d54acf1439b4ba3d61a86e808906b8f52afeb163",
@@ -77,7 +127,7 @@
       "source_category": "General",
       "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
       "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical Patch Update. Security researchers",
+      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
       "published": "2026-10-28 12:48:03",
       "timestamp": 1793191683
     },
@@ -90,6 +140,16 @@
       "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
       "published": "2026-10-28 12:19:57",
       "timestamp": 1793189997
+    },
+    {
+      "id": "4a58ab197cf2456d572bfe143673464b3d709040",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Ba",
+      "published": "2026-10-28 12:00:00",
+      "timestamp": 1793188800
     },
     {
       "id": "f152d311309972f2e274a7ed4ae9d1091c710922",
@@ -270,26 +330,6 @@
       "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
       "published": "2026-10-27 18:20:28",
       "timestamp": 1793125228
-    },
-    {
-      "id": "e003027bd4e2deb7bd148bde5ee126f3ee8485e6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-      "published": "2026-10-27 16:15:39",
-      "timestamp": 1793117739
-    },
-    {
-      "id": "8c09f238be32922b954fcc5938bab6cefe83e5ad",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-      "published": "2026-10-27 14:09:46",
-      "timestamp": 1793110186
     },
     {
       "id": "a8bea8ca15b21fa397582fa60ff96fa375ba85ef",
@@ -690,36 +730,6 @@
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
       "published": "2026-10-23 11:11:23",
       "timestamp": 1792753883
-    },
-    {
-      "id": "8ecf026a80476c4e2fa6fd654fc66e8f7801200f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
-      "published": "2026-10-23 09:36:00",
-      "timestamp": 1792748160
-    },
-    {
-      "id": "38cf7011c491bfae87300551d91d02072ce33ab6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
-      "published": "2026-10-23 08:40:43",
-      "timestamp": 1792744843
-    },
-    {
-      "id": "a29d98e3ed18153599ecf091227395f6e00e37c6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
-      "published": "2026-10-23 08:35:45",
-      "timestamp": 1792744545
     },
     {
       "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
@@ -1132,22 +1142,22 @@
       "timestamp": 1789582462
     },
     {
-      "id": "5fbab075760374f541fbc829bab74d607901866f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
-      "published": "2026-09-16 12:00:00",
-      "timestamp": 1789560000
-    },
-    {
       "id": "1a7af86c113c8eb633820a33bce849c8af91a9ab",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76460 Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability CVE-2026-87886 Acronis Backup Incorrect Default Permissions Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing S",
+      "published": "2026-09-16 12:00:00",
+      "timestamp": 1789560000
+    },
+    {
+      "id": "5fbab075760374f541fbc829bab74d607901866f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
       "published": "2026-09-16 12:00:00",
       "timestamp": 1789560000
     },
@@ -1160,16 +1170,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-76461 Cisco Secure Email Gateway SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Ex",
       "published": "2026-09-14 12:00:00",
       "timestamp": 1789387200
-    },
-    {
-      "id": "fab9a0097f422f7e3cc6b3b8fe51cf396c8947c2",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-42016 JFrog Artifactory Incorrect Authorization Vulnerability CVE-2026-42018 JFrog Artifactory Improper Authentication Vulnerability CVE-2026-84869 ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant ri",
-      "published": "2026-09-11 12:00:00",
-      "timestamp": 1789128000
     },
     {
       "id": "824b3201597e81ab6e3c3d0f19e1b1fb31b8a467",
