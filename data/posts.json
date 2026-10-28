@@ -1,6 +1,156 @@
 {
-  "generated_at": 1793178158,
+  "generated_at": 1793208535,
   "items": [
+    {
+      "id": "8889a2a0d7bb751ae559b25d0bc9c4ac697aff9a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+      "published": "2026-10-28 16:45:47",
+      "timestamp": 1793205947
+    },
+    {
+      "id": "d54acf1439b4ba3d61a86e808906b8f52afeb163",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
+      "published": "2026-10-28 16:02:45",
+      "timestamp": 1793203365
+    },
+    {
+      "id": "47b07dd76290230fb8f349d3367db588c51f51a8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+      "published": "2026-10-28 16:00:00",
+      "timestamp": 1793203200
+    },
+    {
+      "id": "de77917bbefa1aa0897ad2f616252e1935e86735",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The CISO\u2019s evolving role: Protecting and defending in the agentic era",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+      "summary": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The CISO\u2019s evolving role: Protecting and defending in the agentic era appeared first on Microsoft Security Blog.",
+      "published": "2026-10-28 16:00:00",
+      "timestamp": 1793203200
+    },
+    {
+      "id": "4d2f4541cbf93e588340af4eea6e26088b8b8320",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+      "published": "2026-10-28 14:48:32",
+      "timestamp": 1793198912
+    },
+    {
+      "id": "3ef38a7f403b9e7b581fbe2dbdcd3369d84259b2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+      "published": "2026-10-28 14:00:00",
+      "timestamp": 1793196000
+    },
+    {
+      "id": "9d5e09bc704e11b0acd6791439fc552c190f781d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
+      "published": "2026-10-28 13:50:59",
+      "timestamp": 1793195459
+    },
+    {
+      "id": "ed33e541ddb036e0cf0b3224c50e0726ee1f312d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical Patch Update. Security researchers",
+      "published": "2026-10-28 12:48:03",
+      "timestamp": 1793191683
+    },
+    {
+      "id": "80b3eae41e0779042b8ede896fc1f7a2179832d7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+      "published": "2026-10-28 12:19:57",
+      "timestamp": 1793189997
+    },
+    {
+      "id": "f152d311309972f2e274a7ed4ae9d1091c710922",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine",
+      "published": "2026-10-28 11:50:00",
+      "timestamp": 1793188200
+    },
+    {
+      "id": "9982ae38d2c5f98808f0a670914cb5b47763e515",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Wazuh and AI for Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
+      "published": "2026-10-28 11:30:00",
+      "timestamp": 1793187000
+    },
+    {
+      "id": "68fe4001d1d801f3baa1dfa0463bee12b894df22",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.",
+      "published": "2026-10-28 11:15:51",
+      "timestamp": 1793186151
+    },
+    {
+      "id": "4ee2102d6fc2459baf7b06b1fbef37f1f95600aa",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "published": "2026-10-28 10:46:23",
+      "timestamp": 1793184383
+    },
+    {
+      "id": "1da24bb3081fe32ddfb06f02d9d09b79574d8f41",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations",
+      "published": "2026-10-28 10:30:00",
+      "timestamp": 1793183400
+    },
+    {
+      "id": "318c669410cad66ae6e7554e1c918a7632435533",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "published": "2026-10-28 09:43:15",
+      "timestamp": 1793180595
+    },
     {
       "id": "2f110211124b0e7355d54a11a37c84f6f8d06f65",
       "source": "The Hacker News",
@@ -142,16 +292,6 @@
       "timestamp": 1793110186
     },
     {
-      "id": "a5d7863be85648410ab0327d68c6e3bb6002e6cb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]",
-      "published": "2026-10-27 14:01:11",
-      "timestamp": 1793109671
-    },
-    {
       "id": "a8bea8ca15b21fa397582fa60ff96fa375ba85ef",
       "source": "The Hacker News",
       "source_category": "General",
@@ -222,16 +362,6 @@
       "timestamp": 1793100751
     },
     {
-      "id": "a81c64e1295bf155ed7e0f4228a9b2644017f5dc",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "summary": "\u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "published": "2026-10-27 10:36:12",
-      "timestamp": 1793097372
-    },
-    {
       "id": "efb507a678defeeb6a173d857eab18f9931102f5",
       "source": "The Hacker News",
       "source_category": "General",
@@ -242,16 +372,6 @@
       "timestamp": 1793093586
     },
     {
-      "id": "24469de744654f2720e023947115ee7d65694b30",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-      "published": "2026-10-27 09:25:50",
-      "timestamp": 1793093150
-    },
-    {
       "id": "de7e4a04c430ccd87c9f95a46552c09ac9ec8495",
       "source": "The Hacker News",
       "source_category": "General",
@@ -260,16 +380,6 @@
       "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
       "published": "2026-10-27 08:22:43",
       "timestamp": 1793089363
-    },
-    {
-      "id": "0cca2ef151abe317afdc0a6a324350b798c2ef29",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-      "published": "2026-10-27 08:20:54",
-      "timestamp": 1793089254
     },
     {
       "id": "12335005738b204a8f8305190f73490570333b75",
@@ -300,46 +410,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
       "published": "2026-10-27 04:37:59",
       "timestamp": 1793075879
-    },
-    {
-      "id": "0922e1257b4d171b6aa61d5b38a0c6d0648d454a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "University of Copenhagen data breach exposes data of 525,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-      "published": "2026-10-26 22:20:36",
-      "timestamp": 1793053236
-    },
-    {
-      "id": "61cf5c69438d02b0302c7c09c7e0796f6186ad37",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-      "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-      "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-      "published": "2026-10-26 21:08:28",
-      "timestamp": 1793048908
-    },
-    {
-      "id": "d463c1c00db5289999d5ce8731c448344d95a58f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-      "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-      "published": "2026-10-26 20:46:49",
-      "timestamp": 1793047609
-    },
-    {
-      "id": "594a9227c1642e81b55b8c021350bfc64e5cd0ae",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-      "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-      "published": "2026-10-26 19:26:20",
-      "timestamp": 1793042780
     },
     {
       "id": "c4167f6fcfbceaa85886de1606896bbee240c55e",
@@ -652,66 +722,6 @@
       "timestamp": 1792744545
     },
     {
-      "id": "3ff0888f587e05b51102aeaaf81da8da4bbcb016",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
-      "published": "2026-10-23 07:40:45",
-      "timestamp": 1792741245
-    },
-    {
-      "id": "43c5bbfdc40c62c83bcc85ac3d4f40e2e99c8356",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
-      "published": "2026-10-22 19:05:35",
-      "timestamp": 1792695935
-    },
-    {
-      "id": "9c70010faa2681b941d4ce00643e1ddb01225343",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over it. For",
-      "published": "2026-10-22 19:05:17",
-      "timestamp": 1792695917
-    },
-    {
-      "id": "c135f5967e7f162113fd8b4aa34049909328e8e4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates. eMudhra said it will replace affected customers' certificates with free ones from partners, though its",
-      "published": "2026-10-22 18:12:43",
-      "timestamp": 1792692763
-    },
-    {
-      "id": "ee35c5654bc3bd3be5efb19de6a69ab35eabd39e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet. But those big headlines are only half the story. Stolen passwords, exposed",
-      "published": "2026-10-22 17:45:44",
-      "timestamp": 1792691144
-    },
-    {
-      "id": "20bbd59eb9514fb2abf11e583f9e5a9a6412a15d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-      "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
-      "published": "2026-10-22 17:01:53",
-      "timestamp": 1792688513
-    },
-    {
       "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -958,16 +968,6 @@
       "title": "Preparing governments for an era of interconnected cyber risk",
       "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
       "summary": "According to this year\u2019s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. The post Preparing governments for an era of interconnected cyber risk appeared first on Microsoft Security Blog.",
-      "published": "2026-10-01 14:00:00",
-      "timestamp": 1790863200
-    },
-    {
-      "id": "185d4bfcb6858751918d8d09688da02ea15f82db",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Insights from the 2026 Microsoft Digital Defense Report",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
-      "summary": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected. The post Insights from the 2026 Microsoft Digital Defense Report appeared first on Microsoft Security Blog.",
       "published": "2026-10-01 14:00:00",
       "timestamp": 1790863200
     },
