@@ -1,6 +1,76 @@
 {
-  "generated_at": 1793242974,
+  "generated_at": 1793274657,
   "items": [
+    {
+      "id": "e28eebc5b6bb7b7ae02e28190cc307abbe24477c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "published": "2026-10-29 11:10:13",
+      "timestamp": 1793272213
+    },
+    {
+      "id": "4486d3a4612a43aa34fcd143fa086946635088b2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the",
+      "published": "2026-10-29 10:44:46",
+      "timestamp": 1793270686
+    },
+    {
+      "id": "41656a5f9bccafa5dc5937410279187ab8dadfe3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said. The feature, which currently supports only npm packages, is available in public preview",
+      "published": "2026-10-29 10:26:33",
+      "timestamp": 1793269593
+    },
+    {
+      "id": "3e3ebc29ac2b1aa3adf228421f491ac0bd0c3e47",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but",
+      "published": "2026-10-29 09:05:39",
+      "timestamp": 1793264739
+    },
+    {
+      "id": "0fb1cdb4f89cea36caf1cbfda1b84657ee0b87aa",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they",
+      "published": "2026-10-29 08:24:22",
+      "timestamp": 1793262262
+    },
+    {
+      "id": "e1f3ad9459997766d4eaa7fe9557e2c9d85b01d2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector. The vulnerability in question is CVE-2026-41709 (CVSS score:",
+      "published": "2026-10-29 06:22:33",
+      "timestamp": 1793254953
+    },
+    {
+      "id": "3366301ebd30b987572abea9da1caa02da6bdf02",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company said in an update to its advisory. The vulnerabilities, tracked as",
+      "published": "2026-10-29 05:50:17",
+      "timestamp": 1793253017
+    },
     {
       "id": "5d68708980c1fe7f4281453162563c63d6fae888",
       "source": "BleepingComputer",
@@ -322,16 +392,6 @@
       "timestamp": 1793125606
     },
     {
-      "id": "ff80e4f615045a459364972233586849ab1b9374",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
-      "published": "2026-10-27 18:20:28",
-      "timestamp": 1793125228
-    },
-    {
       "id": "a8bea8ca15b21fa397582fa60ff96fa375ba85ef",
       "source": "The Hacker News",
       "source_category": "General",
@@ -642,16 +702,6 @@
       "timestamp": 1792823157
     },
     {
-      "id": "b1a2a387564947ece22892ef4ea8842b0651caaf",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
-      "published": "2026-10-23 18:50:13",
-      "timestamp": 1792781413
-    },
-    {
       "id": "41a24a7f682bce0924f5b6b9a7fd7ae2f31b13db",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -660,36 +710,6 @@
       "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks appeared first on Microsoft Security Blog.",
       "published": "2026-10-23 18:12:19",
       "timestamp": 1792779139
-    },
-    {
-      "id": "ca75bea6f2f2270d36cecde878dc356dbf7206e6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
-      "published": "2026-10-23 17:54:08",
-      "timestamp": 1792778048
-    },
-    {
-      "id": "7c1182521dd5c21702ddf457ad47d211bcbab289",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
-      "published": "2026-10-23 17:50:47",
-      "timestamp": 1792777847
-    },
-    {
-      "id": "6597de1feb3112ad54b6e75064997f053c026366",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
-      "published": "2026-10-23 13:50:56",
-      "timestamp": 1792763456
     },
     {
       "id": "747b16d89c4325ffc271bed09c4d93c93995e042",
@@ -710,26 +730,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilia",
       "published": "2026-10-23 12:00:00",
       "timestamp": 1792756800
-    },
-    {
-      "id": "b2b14a96d986f462e0517ec537736b7bc4c53ff5",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
-      "published": "2026-10-23 11:25:43",
-      "timestamp": 1792754743
-    },
-    {
-      "id": "437222ed653351c6a56558ebdf0ae52bd0468fa7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-      "published": "2026-10-23 11:11:23",
-      "timestamp": 1792753883
     },
     {
       "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
