@@ -1,6 +1,46 @@
 {
-  "generated_at": 1793501216,
+  "generated_at": 1793526571,
   "items": [
+    {
+      "id": "0c760e02954defed93f47bfd4f5d63d506b474d6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is",
+      "published": "2026-11-01 08:51:31",
+      "timestamp": 1793523091
+    },
+    {
+      "id": "1a5e09d2097e8d581b9186a81d690c6db503933d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached",
+      "published": "2026-11-01 07:25:40",
+      "timestamp": 1793517940
+    },
+    {
+      "id": "63888fa4cc8140af0dedbc672d10c3d397f4790b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+      "published": "2026-11-01 07:03:00",
+      "timestamp": 1793516580
+    },
+    {
+      "id": "2d6cb31ddf1fdfb0f7023bd0778af9ca6eadd859",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
+      "published": "2026-11-01 07:02:58",
+      "timestamp": 1793516578
+    },
     {
       "id": "20eeacd3c744403f83d824b4b89165a6807c8c70",
       "source": "BleepingComputer",
@@ -692,16 +732,6 @@
       "timestamp": 1793109549
     },
     {
-      "id": "5b659978abb44bbd21a8f338076caf446d2950b8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update. In the researchers' tests,",
-      "published": "2026-10-27 12:09:50",
-      "timestamp": 1793102990
-    },
-    {
       "id": "15e324c446cc6df89ac450775ba6fafdff67dc7c",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -710,36 +740,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-48356 Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-111497 Google Brotli Unchecked Return Value Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizi",
       "published": "2026-10-27 12:00:00",
       "timestamp": 1793102400
-    },
-    {
-      "id": "e530f696f7431c3cbf104ead0e223411fc8de440",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve",
-      "published": "2026-10-27 11:46:00",
-      "timestamp": 1793101560
-    },
-    {
-      "id": "58d6ca5256988e7d39f4596b113e4a3c58d2e069",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain",
-      "published": "2026-10-27 11:32:46",
-      "timestamp": 1793100766
-    },
-    {
-      "id": "023f32146f90c3c2b67202860b096f2726eff8fb",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up",
-      "published": "2026-10-27 11:32:31",
-      "timestamp": 1793100751
     },
     {
       "id": "12335005738b204a8f8305190f73490570333b75",
