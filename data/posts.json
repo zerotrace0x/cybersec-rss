@@ -1,6 +1,26 @@
 {
-  "generated_at": 1793588109,
+  "generated_at": 1793614154,
   "items": [
+    {
+      "id": "ad209d8ff777b67e5cf9aa469795c5475b7425a2",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+      "published": "2026-11-02 09:33:26",
+      "timestamp": 1793612006
+    },
+    {
+      "id": "d3de9d6839d463b74ef3870b24a65cb7ae909185",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+      "published": "2026-11-02 05:51:07",
+      "timestamp": 1793598667
+    },
     {
       "id": "e50b7a4beb5f56614bafb5f8fe55efd3425181a7",
       "source": "BleepingComputer",
@@ -57,7 +77,7 @@
       "source_category": "General",
       "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
       "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI),",
       "published": "2026-11-01 07:03:00",
       "timestamp": 1793516580
     },
@@ -310,16 +330,6 @@
       "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner circle, including the commander of Syria's General Intelligence",
       "published": "2026-10-30 10:40:45",
       "timestamp": 1793356845
-    },
-    {
-      "id": "1daf594b813c8dd57e64ef594e81af061b9755cd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-      "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-      "published": "2026-10-30 10:16:07",
-      "timestamp": 1793355367
     },
     {
       "id": "5f60870042f53acf073d1c8531cd1f389fcb418f",
@@ -720,16 +730,6 @@
       "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked",
       "published": "2026-10-27 13:59:48",
       "timestamp": 1793109588
-    },
-    {
-      "id": "7d23ac8cd71e9eea409b2f0f3f0fb7e23d30f22f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file. Patches for the flaw were released last month by Apple in",
-      "published": "2026-10-27 13:59:09",
-      "timestamp": 1793109549
     },
     {
       "id": "15e324c446cc6df89ac450775ba6fafdff67dc7c",
