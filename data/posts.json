@@ -1,6 +1,36 @@
 {
-  "generated_at": 1793652912,
+  "generated_at": 1793673702,
   "items": [
+    {
+      "id": "2120b2d95c79cb318cfc2c947068d45ac41a31e2",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices ",
+      "published": "2026-11-03 02:24:31",
+      "timestamp": 1793672671
+    },
+    {
+      "id": "d648b675ec1783d98c71560b9ca8117ca47b8771",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "published": "2026-11-02 21:40:14",
+      "timestamp": 1793655614
+    },
+    {
+      "id": "7eb09b32f23115391e0136f5f9ca0debe25151f8",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+      "summary": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks appeared first on Microsoft Security Blog.",
+      "published": "2026-11-02 20:20:59",
+      "timestamp": 1793650859
+    },
     {
       "id": "759c7298e1f87f9594735bffe276d6ca26661dba",
       "source": "BleepingComputer",
@@ -260,16 +290,6 @@
       "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
       "published": "2026-10-31 15:35:11",
       "timestamp": 1793460911
-    },
-    {
-      "id": "a494b2a25effacd75c24f51dededcb541454ee93",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "published": "2026-10-31 14:05:15",
-      "timestamp": 1793455515
     },
     {
       "id": "e6f8217d5f2e4d67b76e0464ab35d8285e7d7ce7",
@@ -902,16 +922,6 @@
       "timestamp": 1791987769
     },
     {
-      "id": "c403040bc596f4ddf523f94cd259d9dbcf9d21eb",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-      "summary": "Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law enforcement agencies and other partners worldwide, Microsoft\u2019s Digital Crimes Unit (DCU) facilitated a disruption of the ecosystem. The post The hidden network: Inside the phishing infrastructure ecosystem powering global c",
-      "published": "2026-10-14 13:00:00",
-      "timestamp": 1791982800
-    },
-    {
       "id": "3df9a4609e64b924f8aee351cfb533b1a9fdbd4d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1170,16 +1180,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
       "published": "2026-09-16 12:00:00",
       "timestamp": 1789560000
-    },
-    {
-      "id": "824b3201597e81ab6e3c3d0f19e1b1fb31b8a467",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
-      "published": "2026-09-08 21:44:22",
-      "timestamp": 1788903862
     },
     {
       "id": "1bf861e5bc0780d2be4a31efa2f467a6adcf7a06",
