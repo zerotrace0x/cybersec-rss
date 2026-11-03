@@ -1,6 +1,156 @@
 {
-  "generated_at": 1793700640,
+  "generated_at": 1793731364,
   "items": [
+    {
+      "id": "caedbed0ce1c0e5ccd2643b912016139190579e1",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
+      "summary": "Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post Fake-download campaign uses trojanized installers to deliver monetization payloads appeared first on Microsoft Security Blog.",
+      "published": "2026-11-03 17:32:47",
+      "timestamp": 1793727167
+    },
+    {
+      "id": "867392f3e03965581da1c7f595b9d8458318fc0d",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI Agent Management Platforms",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
+      "summary": "Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms. The post Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI Agent Management Platforms appeared first on Microsoft Security Blog.",
+      "published": "2026-11-03 17:00:00",
+      "timestamp": 1793725200
+    },
+    {
+      "id": "cf7e648dedda1442112de785f939805dabc9a715",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+      "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers. \"It was not a single isolated breach or a simple phishing incident,\"",
+      "published": "2026-11-03 16:55:58",
+      "timestamp": 1793724958
+    },
+    {
+      "id": "994f7eff5d905e8f8532d3c97e907212e1c515c6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)",
+      "published": "2026-11-03 15:59:19",
+      "timestamp": 1793721559
+    },
+    {
+      "id": "110efc6478c7b62b1a0f34741f28f83d090c796f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code",
+      "published": "2026-11-03 15:41:53",
+      "timestamp": 1793720513
+    },
+    {
+      "id": "aae8d419799a367cef832c5d4dfbd56fa989d9f1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data. cPGuard 5.88.25 and later versions",
+      "published": "2026-11-03 15:16:32",
+      "timestamp": 1793718992
+    },
+    {
+      "id": "8d23b44e7b8d63702dd945231a82f28d8f491151",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+      "published": "2026-11-03 15:06:16",
+      "timestamp": 1793718376
+    },
+    {
+      "id": "46ff89b4e588950ce0fa600f908b92fa3b7b2226",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
+      "published": "2026-11-03 15:00:10",
+      "timestamp": 1793718010
+    },
+    {
+      "id": "d51083ab588cdcd0bd132f75c97d42be20e6e939",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+      "published": "2026-11-03 14:00:00",
+      "timestamp": 1793714400
+    },
+    {
+      "id": "1f6737c599a0f503c809b1d943f25b01e64d9884",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+      "published": "2026-11-03 13:33:49",
+      "timestamp": 1793712829
+    },
+    {
+      "id": "aabc798d06eed44c3a5f274e27e478ddc9dd81cf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "published": "2026-11-03 12:05:52",
+      "timestamp": 1793707552
+    },
+    {
+      "id": "18669fc88f15b972c4a9a4f3375291000a648b93",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
+      "published": "2026-11-03 11:23:53",
+      "timestamp": 1793705033
+    },
+    {
+      "id": "9ba639e479d409ec6f88e7575089dded91fec8f4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You\u2019re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner\u00ae\u2019s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
+      "published": "2026-11-03 11:18:20",
+      "timestamp": 1793704700
+    },
+    {
+      "id": "fe57ea1dce5c7b6e6a4ed64a5b457676a82aaa45",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
+      "published": "2026-11-03 11:00:45",
+      "timestamp": 1793703645
+    },
+    {
+      "id": "b2720d335fb6cf2e58f291d277dbf878cd3b7f97",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "published": "2026-11-03 10:53:25",
+      "timestamp": 1793703205
+    },
     {
       "id": "04ff0d35c7b3e779b4a121226142c168bb7643d7",
       "source": "The Hacker News",
@@ -232,16 +382,6 @@
       "timestamp": 1793616599
     },
     {
-      "id": "ad209d8ff777b67e5cf9aa469795c5475b7425a2",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-      "published": "2026-11-02 09:33:26",
-      "timestamp": 1793612006
-    },
-    {
       "id": "d3de9d6839d463b74ef3870b24a65cb7ae909185",
       "source": "The Hacker News",
       "source_category": "General",
@@ -250,36 +390,6 @@
       "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
       "published": "2026-11-02 05:51:07",
       "timestamp": 1793598667
-    },
-    {
-      "id": "e50b7a4beb5f56614bafb5f8fe55efd3425181a7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
-      "published": "2026-11-01 19:57:53",
-      "timestamp": 1793563073
-    },
-    {
-      "id": "142e56245ad0eb36b3d32dfe79c6ac6d2c8c88ac",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
-      "published": "2026-11-01 15:11:21",
-      "timestamp": 1793545881
-    },
-    {
-      "id": "36f2d240d8ec81d97c10fa1b3cdc3a9cee90cf7f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-      "published": "2026-11-01 13:53:11",
-      "timestamp": 1793541191
     },
     {
       "id": "0c760e02954defed93f47bfd4f5d63d506b474d6",
@@ -320,26 +430,6 @@
       "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
       "published": "2026-11-01 07:02:58",
       "timestamp": 1793516578
-    },
-    {
-      "id": "20eeacd3c744403f83d824b4b89165a6807c8c70",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-      "published": "2026-10-31 18:01:12",
-      "timestamp": 1793469672
-    },
-    {
-      "id": "fbd7ef6cf121b3c625c31f6f854796d783b64073",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "published": "2026-10-31 15:35:11",
-      "timestamp": 1793460911
     },
     {
       "id": "e6f8217d5f2e4d67b76e0464ab35d8285e7d7ce7",
@@ -662,66 +752,6 @@
       "timestamp": 1793262262
     },
     {
-      "id": "e1f3ad9459997766d4eaa7fe9557e2c9d85b01d2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector. The vulnerability in question is CVE-2026-41709 (CVSS score:",
-      "published": "2026-10-29 06:22:33",
-      "timestamp": 1793254953
-    },
-    {
-      "id": "3366301ebd30b987572abea9da1caa02da6bdf02",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company said in an update to its advisory. The vulnerabilities, tracked as",
-      "published": "2026-10-29 05:50:17",
-      "timestamp": 1793253017
-    },
-    {
-      "id": "b3025aeda716b4c4c41664cfb4034ff339951dc2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure,\" Lumen Technologies Black Lotus Labs said in a report shared",
-      "published": "2026-10-28 18:08:33",
-      "timestamp": 1793210913
-    },
-    {
-      "id": "a6a5b1badeb2126f042b8aae123af27cf73bf7c4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on",
-      "published": "2026-10-28 17:08:09",
-      "timestamp": 1793207289
-    },
-    {
-      "id": "3817a43d22fcb17d9ce53fdc2daed5b46fd28e19",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,",
-      "published": "2026-10-28 16:23:34",
-      "timestamp": 1793204614
-    },
-    {
-      "id": "d54acf1439b4ba3d61a86e808906b8f52afeb163",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
-      "published": "2026-10-28 16:02:45",
-      "timestamp": 1793203365
-    },
-    {
       "id": "de77917bbefa1aa0897ad2f616252e1935e86735",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -730,16 +760,6 @@
       "summary": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The CISO\u2019s evolving role: Protecting and defending in the agentic era appeared first on Microsoft Security Blog.",
       "published": "2026-10-28 16:00:00",
       "timestamp": 1793203200
-    },
-    {
-      "id": "ed33e541ddb036e0cf0b3224c50e0726ee1f312d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
-      "published": "2026-10-28 12:48:03",
-      "timestamp": 1793191683
     },
     {
       "id": "4a58ab197cf2456d572bfe143673464b3d709040",
@@ -860,26 +880,6 @@
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
       "published": "2026-10-19 13:48:56",
       "timestamp": 1792417736
-    },
-    {
-      "id": "914a0ded202713c979ab24d80dd29023644b0910",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Agents are your newest insiders.\u00a0Security must move at their speed.",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
-      "summary": "New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously. The post Agents are your newest insiders. Security must move at their speed. appeared first on Microsoft Security Blog.",
-      "published": "2026-10-19 13:00:00",
-      "timestamp": 1792414800
-    },
-    {
-      "id": "90f82d97b91039597df4dda89a6f4404643b4e31",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Managing open-weight model risk in enterprise deployments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "summary": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog.",
-      "published": "2026-10-16 16:00:00",
-      "timestamp": 1792166400
     },
     {
       "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
