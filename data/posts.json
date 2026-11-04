@@ -1,6 +1,66 @@
 {
-  "generated_at": 1793731364,
+  "generated_at": 1793753802,
   "items": [
+    {
+      "id": "0ce1b4cc7832ab7381d6bdc065a5ed0121a819a7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+      "published": "2026-11-03 22:18:50",
+      "timestamp": 1793744330
+    },
+    {
+      "id": "6a9ea0a9428bbf17b8ac2601dec55a10153a2191",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+      "published": "2026-11-03 21:28:44",
+      "timestamp": 1793741324
+    },
+    {
+      "id": "3a74620eaf7f39243365d8ea44a5ee0add06ebdb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+      "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+      "published": "2026-11-03 20:05:50",
+      "timestamp": 1793736350
+    },
+    {
+      "id": "edea2178e0f18702a042f4da8a347c78491d983f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+      "published": "2026-11-03 18:51:04",
+      "timestamp": 1793731864
+    },
+    {
+      "id": "1817c9584e987cc179f006d65e6ed595302fcdf5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+      "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
+      "published": "2026-11-03 18:46:38",
+      "timestamp": 1793731598
+    },
+    {
+      "id": "217fbf50cde9c42299d62c9c13de2b71ae6bb6d2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+      "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week. \"An external attacker gained unauthorized access to part of",
+      "published": "2026-11-03 18:16:19",
+      "timestamp": 1793729779
+    },
     {
       "id": "caedbed0ce1c0e5ccd2643b912016139190579e1",
       "source": "Microsoft Security Blog",
@@ -110,6 +170,16 @@
       "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
       "published": "2026-11-03 12:05:52",
       "timestamp": 1793707552
+    },
+    {
+      "id": "afe055bf27b70a0f715b8984af53a0fa106f6886",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirement",
+      "published": "2026-11-03 12:00:00",
+      "timestamp": 1793707200
     },
     {
       "id": "18669fc88f15b972c4a9a4f3375291000a648b93",
@@ -302,36 +372,6 @@
       "timestamp": 1793630765
     },
     {
-      "id": "ebb0d6eab7182f77f8a6723d1bfc2731fbc8922d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-      "published": "2026-11-02 14:28:39",
-      "timestamp": 1793629719
-    },
-    {
-      "id": "b90f6c49edc4c0ba400102496c1c464e7fb18d6e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
-      "published": "2026-11-02 13:57:29",
-      "timestamp": 1793627849
-    },
-    {
-      "id": "ed741baf5c295c4cd7c8d52ec91d2c963433bb18",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
-      "published": "2026-11-02 12:47:00",
-      "timestamp": 1793623620
-    },
-    {
       "id": "8e434dfd98747c55dbbd2273d55c66d608412de7",
       "source": "The Hacker News",
       "source_category": "General",
@@ -350,16 +390,6 @@
       "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready. AI SOC readiness has two parts: whether a SOC has the",
       "published": "2026-11-02 11:30:00",
       "timestamp": 1793619000
-    },
-    {
-      "id": "8aecf83d91b66728d65aae76eca2e521071245b5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-      "published": "2026-11-02 11:28:42",
-      "timestamp": 1793618922
     },
     {
       "id": "3e5489bea68f953ee62cbd67fcd45162574f7377",
@@ -732,26 +762,6 @@
       "timestamp": 1793269593
     },
     {
-      "id": "3e3ebc29ac2b1aa3adf228421f491ac0bd0c3e47",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but",
-      "published": "2026-10-29 09:05:39",
-      "timestamp": 1793264739
-    },
-    {
-      "id": "0fb1cdb4f89cea36caf1cbfda1b84657ee0b87aa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they",
-      "published": "2026-10-29 08:24:22",
-      "timestamp": 1793262262
-    },
-    {
       "id": "de77917bbefa1aa0897ad2f616252e1935e86735",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -942,22 +952,22 @@
       "timestamp": 1791933893
     },
     {
-      "id": "75d6bebd8fbce26b295971b818f8103718cff4eb",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates ",
-      "published": "2026-10-13 12:00:00",
-      "timestamp": 1791892800
-    },
-    {
       "id": "8acc579dd186d27654e273e11ffeeb44887f761d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges Patching Newly Exploited Vulnerabilities in Ivanti Connect Secure",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerabilities-ivanti-connect-secure",
       "summary": "Update October 30, 2026: CISA has updated this Alert to: (1) include CVE-2026-111357 and CVE-2026-118527 and reflect their addition to the Known Exploited Vulnerabilities (KEV) Catalog on October 30, 2026; and (2) update the affected Ivanti Connect Secure versions. CISA is aware of Ivanti\u2019s disclosure of newly exploited vulnerabilities, CVE-2026-104935, CVE-2026-111357, and CVE-2026-118527, affecting Ivanti Connect Secure versions 25.1.1.2 and prior, 25.1.2.2 and prior, and 22.8R2.5 and prior. C",
+      "published": "2026-10-13 12:00:00",
+      "timestamp": 1791892800
+    },
+    {
+      "id": "75d6bebd8fbce26b295971b818f8103718cff4eb",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates ",
       "published": "2026-10-13 12:00:00",
       "timestamp": 1791892800
     },
@@ -1052,22 +1062,22 @@
       "timestamp": 1790608137
     },
     {
-      "id": "c15a02c5c0b2388627b810df7638d77708a87557",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
-      "published": "2026-09-27 12:00:00",
-      "timestamp": 1790510400
-    },
-    {
       "id": "34227d060b69b60ee5a1c96267a5203df1e09fe4",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
       "summary": "Update October 9, 2026: CISA has updated this Alert to: (1) include CVE-2026-107406; (2) include CVE-2026-88779 following its addition to the KEV Catalog on Oct. 4, 2026; (3) clarify the potential relationship between CVE-2026-88779 and CVE-2026-88771; and (4) emphasize the importance of promptly applying patches for CVE-2026-88771 through CVE-2026-88779 and CVE-2026-107406, as well as reviewing Citrix guidance for suspected or confirmed compromises involving NetScaler ADC or Gateway. Update Oct",
+      "published": "2026-09-27 12:00:00",
+      "timestamp": 1790510400
+    },
+    {
+      "id": "c15a02c5c0b2388627b810df7638d77708a87557",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
       "published": "2026-09-27 12:00:00",
       "timestamp": 1790510400
     },
@@ -1170,16 +1180,6 @@
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
       "published": "2026-09-16 18:14:22",
       "timestamp": 1789582462
-    },
-    {
-      "id": "5fbab075760374f541fbc829bab74d607901866f",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-58704 Google Pixel Improper Authorization Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
-      "published": "2026-09-16 12:00:00",
-      "timestamp": 1789560000
     },
     {
       "id": "1bf861e5bc0780d2be4a31efa2f467a6adcf7a06",
