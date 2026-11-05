@@ -1,6 +1,76 @@
 {
-  "generated_at": 1793840779,
+  "generated_at": 1793872663,
   "items": [
+    {
+      "id": "260880d0138a9ce1caeaff2e7d896548782dc478",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "published": "2026-11-05 09:18:29",
+      "timestamp": 1793870309
+    },
+    {
+      "id": "6d5804eb3fe23579a2e47f8502da51b7b1c41b3e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
+      "published": "2026-11-05 09:13:28",
+      "timestamp": 1793870008
+    },
+    {
+      "id": "852ea430fb87ae1bbad6acce4cb7883b320ee043",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
+      "published": "2026-11-05 08:42:03",
+      "timestamp": 1793868123
+    },
+    {
+      "id": "12be38955c2815a5bcacb48e53ad2127f3823c12",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
+      "published": "2026-11-05 07:06:33",
+      "timestamp": 1793862393
+    },
+    {
+      "id": "c86c38f237b6a0a5f1d7b54ed2ca947898e7007c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
+      "published": "2026-11-05 05:17:04",
+      "timestamp": 1793855824
+    },
+    {
+      "id": "dfed6914eccdc4a8f759fd1252f46bf4aafa276a",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+      "published": "2026-11-05 04:36:17",
+      "timestamp": 1793853377
+    },
+    {
+      "id": "0eb325fbafc27f6b0fc38ebe8c51faef183b9bc2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+      "published": "2026-11-05 04:31:16",
+      "timestamp": 1793853076
+    },
     {
       "id": "1673ef342e9a88536bc4b5cdbe34b81f968e9d7e",
       "source": "BleepingComputer",
@@ -117,7 +187,7 @@
       "source_category": "General",
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Gar\u00e7on and",
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Gar\u00e7on and",
       "published": "2026-11-04 14:27:52",
       "timestamp": 1793802472
     },
@@ -250,16 +320,6 @@
       "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
       "published": "2026-11-03 20:05:50",
       "timestamp": 1793736350
-    },
-    {
-      "id": "edea2178e0f18702a042f4da8a347c78491d983f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-      "published": "2026-11-03 18:51:04",
-      "timestamp": 1793731864
     },
     {
       "id": "1817c9584e987cc179f006d65e6ed595302fcdf5",
@@ -662,56 +722,6 @@
       "timestamp": 1793362916
     },
     {
-      "id": "9ae0b3a3291d2df8c0e057410dd4a6d71c1776a6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything. Their concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application",
-      "published": "2026-10-30 11:58:53",
-      "timestamp": 1793361533
-    },
-    {
-      "id": "0dda7822e5e34d31a6ce61cb0e9c83803de0f0c7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner circle, including the commander of Syria's General Intelligence",
-      "published": "2026-10-30 10:40:45",
-      "timestamp": 1793356845
-    },
-    {
-      "id": "5f60870042f53acf073d1c8531cd1f389fcb418f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut",
-      "published": "2026-10-30 08:55:47",
-      "timestamp": 1793350547
-    },
-    {
-      "id": "d5827037d13432599089087ce39673901dc1dee4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"This module enables you to sell goods and services to customers through an included shopping cart",
-      "published": "2026-10-30 07:45:30",
-      "timestamp": 1793346330
-    },
-    {
-      "id": "00be427dc35df5164528d25dfee38e5835e58769",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
-      "published": "2026-10-30 07:27:05",
-      "timestamp": 1793345225
-    },
-    {
       "id": "ea01c3ea32982851816b4e1c88ab672eab0d6196",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -870,16 +880,6 @@
       "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed \u201cDark Elevator\u201d by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
       "published": "2026-09-21 07:00:00",
       "timestamp": 1789974000
-    },
-    {
-      "id": "00a0b5c2f61578928a20a9a796de23ee366a45f5",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
-      "published": "2026-09-16 18:14:22",
-      "timestamp": 1789582462
     },
     {
       "id": "1bf861e5bc0780d2be4a31efa2f467a6adcf7a06",
