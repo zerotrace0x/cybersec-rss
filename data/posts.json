@@ -1,6 +1,116 @@
 {
-  "generated_at": 1793872663,
+  "generated_at": 1793905628,
   "items": [
+    {
+      "id": "da25a3a8d45bab99c85e3ef102eaa00e405937b1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+      "published": "2026-11-05 17:45:29",
+      "timestamp": 1793900729
+    },
+    {
+      "id": "65fbe22916d52d197b609e643dcbd93b6a5c9240",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "New investments to reduce on-premises security risk",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
+      "summary": "We\u2019re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments. The post New investments to reduce on-premises security risk appeared first on Microsoft Security Blog.",
+      "published": "2026-11-05 17:10:14",
+      "timestamp": 1793898614
+    },
+    {
+      "id": "315611db0326fec71b6202d5903fd56f3a926bbc",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "\u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: November 2026",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+      "summary": "Microsoft Security\u2019s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post \u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog.",
+      "published": "2026-11-05 17:00:00",
+      "timestamp": 1793898000
+    },
+    {
+      "id": "3f81f14eb8625d1a87f20ab925e840617ddda531",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+      "published": "2026-11-05 16:24:26",
+      "timestamp": 1793895866
+    },
+    {
+      "id": "2970adcd60f193619bed25244117ebe115b5a8ee",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+      "published": "2026-11-05 16:12:46",
+      "timestamp": 1793895166
+    },
+    {
+      "id": "3af63e597e9a4dbd6b4a73a3b17921b425d930b7",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Email threat landscape: Q3 2026 trends and insights",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
+      "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July \u2013 September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides. The post Email threat landscape: Q3 2026 trends and insights appeared first on Microsoft Security Blog.",
+      "published": "2026-11-05 16:00:00",
+      "timestamp": 1793894400
+    },
+    {
+      "id": "d510b88feff7dd804a5cab77e5a1b339faa54ed5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+      "published": "2026-11-05 15:00:10",
+      "timestamp": 1793890810
+    },
+    {
+      "id": "cc5f809d1db31b9211d015326ee4b191a4b09d4b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
+      "published": "2026-11-05 14:41:10",
+      "timestamp": 1793889670
+    },
+    {
+      "id": "e1790fce04c7fefdef23c65c6e3e0efff1addb13",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates",
+      "published": "2026-11-05 12:25:00",
+      "timestamp": 1793881500
+    },
+    {
+      "id": "0eb325fbafc27f6b0fc38ebe8c51faef183b9bc2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+      "published": "2026-11-05 12:08:54",
+      "timestamp": 1793880534
+    },
+    {
+      "id": "9998e47be5198a156dbf3c57ec7923de7bb3d82d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
+      "published": "2026-11-05 10:06:19",
+      "timestamp": 1793873179
+    },
     {
       "id": "260880d0138a9ce1caeaff2e7d896548782dc478",
       "source": "BleepingComputer",
@@ -60,16 +170,6 @@
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
       "published": "2026-11-05 04:36:17",
       "timestamp": 1793853377
-    },
-    {
-      "id": "0eb325fbafc27f6b0fc38ebe8c51faef183b9bc2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
-      "published": "2026-11-05 04:31:16",
-      "timestamp": 1793853076
     },
     {
       "id": "1673ef342e9a88536bc4b5cdbe34b81f968e9d7e",
@@ -252,16 +352,6 @@
       "timestamp": 1793791471
     },
     {
-      "id": "eb455b86ed2c17a483f2fd79c577f18174268941",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-      "published": "2026-11-04 09:39:54",
-      "timestamp": 1793785194
-    },
-    {
       "id": "81e0684baf3a67abf1a780752542bee559815ad7",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,36 +380,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
       "published": "2026-11-04 05:43:11",
       "timestamp": 1793770991
-    },
-    {
-      "id": "0ce1b4cc7832ab7381d6bdc065a5ed0121a819a7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-      "published": "2026-11-03 22:18:50",
-      "timestamp": 1793744330
-    },
-    {
-      "id": "6a9ea0a9428bbf17b8ac2601dec55a10153a2191",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-      "published": "2026-11-03 21:28:44",
-      "timestamp": 1793741324
-    },
-    {
-      "id": "3a74620eaf7f39243365d8ea44a5ee0add06ebdb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
-      "published": "2026-11-03 20:05:50",
-      "timestamp": 1793736350
     },
     {
       "id": "1817c9584e987cc179f006d65e6ed595302fcdf5",
@@ -692,36 +752,6 @@
       "timestamp": 1793376704
     },
     {
-      "id": "adcf98015079e427192f1311276b64fbf35123ca",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can exploit the flaw to crash the viewer's TeamViewer and, depending on the platform, may also run",
-      "published": "2026-10-30 15:17:28",
-      "timestamp": 1793373448
-    },
-    {
-      "id": "0cc341070b470c66d0742f27e6c3f502207ef5e0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October",
-      "published": "2026-10-30 14:08:14",
-      "timestamp": 1793369294
-    },
-    {
-      "id": "450030cc186d832d804664bebfaade15d797fe23",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase. Trezor said in a blog post",
-      "published": "2026-10-30 12:21:56",
-      "timestamp": 1793362916
-    },
-    {
       "id": "ea01c3ea32982851816b4e1c88ab672eab0d6196",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -742,16 +772,6 @@
       "timestamp": 1793289600
     },
     {
-      "id": "de77917bbefa1aa0897ad2f616252e1935e86735",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "The CISO\u2019s evolving role: Protecting and defending in the agentic era",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
-      "summary": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The CISO\u2019s evolving role: Protecting and defending in the agentic era appeared first on Microsoft Security Blog.",
-      "published": "2026-10-28 16:00:00",
-      "timestamp": 1793203200
-    },
-    {
       "id": "12335005738b204a8f8305190f73490570333b75",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -760,26 +780,6 @@
       "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome\u2019s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
       "published": "2026-10-27 07:00:00",
       "timestamp": 1793084400
-    },
-    {
-      "id": "41a24a7f682bce0924f5b6b9a7fd7ae2f31b13db",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-      "summary": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks appeared first on Microsoft Security Blog.",
-      "published": "2026-10-23 18:12:19",
-      "timestamp": 1792779139
-    },
-    {
-      "id": "c3a9ed708a58e33ed3f40ae1c702e5181ebf9b04",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog.",
-      "published": "2026-10-21 18:23:55",
-      "timestamp": 1792607035
     },
     {
       "id": "48ccfd80092119d67c446e65d26eb46077e5f763",
