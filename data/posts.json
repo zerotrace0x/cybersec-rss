@@ -1,6 +1,116 @@
 {
-  "generated_at": 1793959165,
+  "generated_at": 1793990078,
   "items": [
+    {
+      "id": "e838fbba0ce62bc11afaacd9cd5622b160f4ce93",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+      "published": "2026-11-06 17:04:23",
+      "timestamp": 1793984663
+    },
+    {
+      "id": "7daacddbf31933ec136cc9fd7e756a4faa5747e4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
+      "published": "2026-11-06 16:08:38",
+      "timestamp": 1793981318
+    },
+    {
+      "id": "c93e61d330e42658e695d831afe77aaff2efae5e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "summary": "\u200bVeeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+      "published": "2026-11-06 15:25:31",
+      "timestamp": 1793978731
+    },
+    {
+      "id": "b73961df5066998828f0f4dc2b78f14f36e87f6c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+      "published": "2026-11-06 15:21:49",
+      "timestamp": 1793978509
+    },
+    {
+      "id": "ad8b9058990f2df7f824c70813a7bfa0ffee9c3c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+      "published": "2026-11-06 15:00:10",
+      "timestamp": 1793977210
+    },
+    {
+      "id": "6558dd058e8311cfb764102975f646aeda71a4cc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "summary": "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
+      "published": "2026-11-06 14:58:32",
+      "timestamp": 1793977112
+    },
+    {
+      "id": "892c2bc3f01643ea16dbdf644102a6a6f939b421",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Chainalysis says breach exposed credentials for all customers",
+      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+      "published": "2026-11-06 14:17:07",
+      "timestamp": 1793974627
+    },
+    {
+      "id": "ccc4f35a6b7b9fd1cd6ada09d054f7b3ff1f88b0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "published": "2026-11-06 12:37:22",
+      "timestamp": 1793968642
+    },
+    {
+      "id": "47c81e617af70e7587c499d8efe8da2e0830d313",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
+      "published": "2026-11-06 12:06:43",
+      "timestamp": 1793966803
+    },
+    {
+      "id": "8ac84f644a01bdcbea898c2bc6c9dd3d9d133627",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
+      "published": "2026-11-06 12:06:35",
+      "timestamp": 1793966795
+    },
+    {
+      "id": "364b776a5e2301ce3a307924ca8ce041f4f72780",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
+      "published": "2026-11-06 11:30:00",
+      "timestamp": 1793964600
+    },
     {
       "id": "1b93aeec9cc63fad79e68ffbaf90b3be7bc5aef0",
       "source": "BleepingComputer",
@@ -282,46 +392,6 @@
       "timestamp": 1793853377
     },
     {
-      "id": "1673ef342e9a88536bc4b5cdbe34b81f968e9d7e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "published": "2026-11-04 21:31:18",
-      "timestamp": 1793827878
-    },
-    {
-      "id": "a51ad3e92527e5e370f8a1cfa77e7d3b047c837c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "published": "2026-11-04 20:58:19",
-      "timestamp": 1793825899
-    },
-    {
-      "id": "2ee9b9d66a0aa06544ecb39bd55bb968462719e6",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "published": "2026-11-04 19:05:19",
-      "timestamp": 1793819119
-    },
-    {
-      "id": "10ab10656dbc4e088be6d4d908445e9485b16c79",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-      "published": "2026-11-04 18:02:56",
-      "timestamp": 1793815376
-    },
-    {
       "id": "13bb2db660a81581f060ea2f1e55d22f685a0a6b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -340,16 +410,6 @@
       "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
       "published": "2026-11-04 17:00:38",
       "timestamp": 1793811638
-    },
-    {
-      "id": "7d287755dc24bb0f605628f0da0a8c623dbaabeb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-      "published": "2026-11-04 16:58:46",
-      "timestamp": 1793811526
     },
     {
       "id": "ab1df3120b1b777ed5077b4973440386b8994338",
@@ -700,66 +760,6 @@
       "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said in a report that it investigated two such intrusions, one of which resulted in company",
       "published": "2026-11-02 11:08:45",
       "timestamp": 1793617725
-    },
-    {
-      "id": "7450b82e413ec0dff2a63d2ac38aef02dc2941b2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown",
-      "published": "2026-11-02 10:49:59",
-      "timestamp": 1793616599
-    },
-    {
-      "id": "d3de9d6839d463b74ef3870b24a65cb7ae909185",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
-      "published": "2026-11-02 05:51:07",
-      "timestamp": 1793598667
-    },
-    {
-      "id": "0c760e02954defed93f47bfd4f5d63d506b474d6",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is",
-      "published": "2026-11-01 08:51:31",
-      "timestamp": 1793523091
-    },
-    {
-      "id": "1a5e09d2097e8d581b9186a81d690c6db503933d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached",
-      "published": "2026-11-01 07:25:40",
-      "timestamp": 1793517940
-    },
-    {
-      "id": "63888fa4cc8140af0dedbc672d10c3d397f4790b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI),",
-      "published": "2026-11-01 07:03:00",
-      "timestamp": 1793516580
-    },
-    {
-      "id": "2d6cb31ddf1fdfb0f7023bd0778af9ca6eadd859",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
-      "published": "2026-11-01 07:02:58",
-      "timestamp": 1793516578
     },
     {
       "id": "af4a4756fd4fa10473fba8cceeb70d1211681e72",
