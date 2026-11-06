@@ -1,6 +1,46 @@
 {
-  "generated_at": 1793927510,
+  "generated_at": 1793959165,
   "items": [
+    {
+      "id": "1b93aeec9cc63fad79e68ffbaf90b3be7bc5aef0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+      "published": "2026-11-06 09:22:28",
+      "timestamp": 1793956948
+    },
+    {
+      "id": "c9ed9f1b7a14a0a9ba4476b3e83bd4bdec34c522",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
+      "published": "2026-11-06 08:04:49",
+      "timestamp": 1793952289
+    },
+    {
+      "id": "22a4630b3ec76b0977df1005ed0f6873e6c4c8df",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
+      "published": "2026-11-06 05:58:54",
+      "timestamp": 1793944734
+    },
+    {
+      "id": "7afcfe316ac907a5868e65b7008992cc6f4bcef4",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
+      "published": "2026-11-06 05:39:10",
+      "timestamp": 1793943550
+    },
     {
       "id": "1ab8085596c93487eae4e2ba0c5f1653effdb36b",
       "source": "BleepingComputer",
@@ -10,6 +50,16 @@
       "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
       "published": "2026-11-06 00:56:44",
       "timestamp": 1793926604
+    },
+    {
+      "id": "a13f80c28296293b245803c1a3407c100fd7b7ab",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+      "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application\u2019s tenant. Agents operating on behalf of threat actors then used the compromised OAuth applications to perform a variety of subsequent actions within compromised organizations. The post Threat actors use agentic AI tooling to",
+      "published": "2026-11-05 23:46:50",
+      "timestamp": 1793922410
     },
     {
       "id": "4d7289489809b9478c1ac821a976d270b9a4a91e",
@@ -310,16 +360,6 @@
       "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
       "published": "2026-11-04 16:06:43",
       "timestamp": 1793808403
-    },
-    {
-      "id": "89f0e976a10b00d977f421cca97419fc368557fa",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-      "published": "2026-11-04 16:00:18",
-      "timestamp": 1793808018
     },
     {
       "id": "af5802bb343f45b681e88bb31e6debceaaf84d50",
@@ -722,36 +762,6 @@
       "timestamp": 1793516578
     },
     {
-      "id": "e6f8217d5f2e4d67b76e0464ab35d8285e7d7ce7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. \"This month, Chainalysis detected an external actor using offensive agentic",
-      "published": "2026-10-31 12:01:56",
-      "timestamp": 1793448116
-    },
-    {
-      "id": "595fda2787a40c1fd17736b404700ee684ccf559",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a",
-      "published": "2026-10-31 08:27:43",
-      "timestamp": 1793435263
-    },
-    {
-      "id": "1be40deb24854962339e8b35e295b49577875b71",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty program on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.",
-      "published": "2026-10-31 05:33:41",
-      "timestamp": 1793424821
-    },
-    {
       "id": "af4a4756fd4fa10473fba8cceeb70d1211681e72",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -788,16 +798,6 @@
       "title": "Tracking AI adoption in North Korean threat actor tradecraft",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
       "summary": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we\u2019ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean threat actors are utilizing AI across their operations, reflecting a broader trend of threat actors incorporating AI into their attack chains. The post Tracking AI adoption in North Korean threat actor tradecraft appeared",
-      "published": "2026-10-29 16:00:00",
-      "timestamp": 1793289600
-    },
-    {
-      "id": "085bcfc0818d08b98244aa80266039961f0b6d23",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
-      "summary": "IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment appeared first on Microsoft Security Blog.",
       "published": "2026-10-29 16:00:00",
       "timestamp": 1793289600
     },
