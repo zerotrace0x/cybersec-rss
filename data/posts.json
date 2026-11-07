@@ -1,6 +1,46 @@
 {
-  "generated_at": 1793990078,
+  "generated_at": 1794011224,
   "items": [
+    {
+      "id": "101ee18130d3a9eff2c222a49d9ab4489e0069f7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "published": "2026-11-07 00:00:55",
+      "timestamp": 1794009655
+    },
+    {
+      "id": "c5cb866f3c0856756f2c92f28a56371c9c2822c4",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+      "published": "2026-11-06 22:27:25",
+      "timestamp": 1794004045
+    },
+    {
+      "id": "04b3add6efe2d94eb35d546aeb3928644c4308a8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "published": "2026-11-06 20:24:19",
+      "timestamp": 1793996659
+    },
+    {
+      "id": "49bfea0ffa650355e94fb5a4c032f1bd3b57da8f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+      "published": "2026-11-06 18:46:52",
+      "timestamp": 1793990812
+    },
     {
       "id": "e838fbba0ce62bc11afaacd9cd5622b160f4ce93",
       "source": "BleepingComputer",
@@ -100,6 +140,16 @@
       "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
       "published": "2026-11-06 12:06:35",
       "timestamp": 1793966795
+    },
+    {
+      "id": "719c22aa426faf4b4163c71abb0d8bbb6c330a6d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for",
+      "published": "2026-11-06 12:00:00",
+      "timestamp": 1793966400
     },
     {
       "id": "364b776a5e2301ce3a307924ca8ce041f4f72780",
@@ -252,26 +302,6 @@
       "timestamp": 1793896952
     },
     {
-      "id": "3f81f14eb8625d1a87f20ab925e840617ddda531",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "published": "2026-11-05 16:24:26",
-      "timestamp": 1793895866
-    },
-    {
-      "id": "2970adcd60f193619bed25244117ebe115b5a8ee",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "published": "2026-11-05 16:12:46",
-      "timestamp": 1793895166
-    },
-    {
       "id": "3af63e597e9a4dbd6b4a73a3b17921b425d930b7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -280,16 +310,6 @@
       "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July \u2013 September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed risks associated with security overrides. The post Email threat landscape: Q3 2026 trends and insights appeared first on Microsoft Security Blog.",
       "published": "2026-11-05 16:00:00",
       "timestamp": 1793894400
-    },
-    {
-      "id": "d510b88feff7dd804a5cab77e5a1b339faa54ed5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
-      "published": "2026-11-05 15:00:10",
-      "timestamp": 1793890810
     },
     {
       "id": "cc5f809d1db31b9211d015326ee4b191a4b09d4b",
@@ -330,16 +350,6 @@
       "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
       "published": "2026-11-05 10:06:19",
       "timestamp": 1793873179
-    },
-    {
-      "id": "260880d0138a9ce1caeaff2e7d896548782dc478",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "published": "2026-11-05 09:18:29",
-      "timestamp": 1793870309
     },
     {
       "id": "6d5804eb3fe23579a2e47f8502da51b7b1c41b3e",
@@ -1112,22 +1122,22 @@
       "timestamp": 1790372680
     },
     {
-      "id": "8a73cdfa3cf7ac610dc5e128d8312f483fe7defd",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-65660 Microsoft SharePoint Code Injection Vulnerability CVE-2026-67279 Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Upd",
-      "published": "2026-09-25 12:00:00",
-      "timestamp": 1790337600
-    },
-    {
       "id": "ff2af62a831dc30f57dae3477939992b6f565b72",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-87902 WordPress Core Remote File Inclusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Execut",
+      "published": "2026-09-25 12:00:00",
+      "timestamp": 1790337600
+    },
+    {
+      "id": "8a73cdfa3cf7ac610dc5e128d8312f483fe7defd",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-65660 Microsoft SharePoint Code Injection Vulnerability CVE-2026-67279 Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Upd",
       "published": "2026-09-25 12:00:00",
       "timestamp": 1790337600
     },
@@ -1170,16 +1180,6 @@
       "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed \u201cDark Elevator\u201d by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
       "published": "2026-09-21 07:00:00",
       "timestamp": 1789974000
-    },
-    {
-      "id": "1ed42043752be1daec9b3c459377699e9ba452e9",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-39964 Linux Kernel Race Condition Vulnerability CVE-2026-53266 Linux Kernel Out-of-Bounds Write Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulner",
-      "published": "2026-09-18 12:00:00",
-      "timestamp": 1789732800
     },
     {
       "id": "1bf861e5bc0780d2be4a31efa2f467a6adcf7a06",
