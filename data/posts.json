@@ -1,6 +1,136 @@
 {
-  "generated_at": 1794234519,
+  "generated_at": 1794267432,
   "items": [
+    {
+      "id": "472b038ac3cd1eb8c3b7dcaa6a68ca8979693277",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "published": "2026-11-09 22:09:33",
+      "timestamp": 1794262173
+    },
+    {
+      "id": "a79ef7f8543f4d682c6dec57e287aa9e4c8fc16c",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+      "published": "2026-11-09 21:26:25",
+      "timestamp": 1794259585
+    },
+    {
+      "id": "896d4e5d3519e18de0d486f5a70ca0c796947835",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "York University breach exposed personal information dating to 2007",
+      "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "published": "2026-11-09 21:22:31",
+      "timestamp": 1794259351
+    },
+    {
+      "id": "677cdc95ed34aa8bb9ac0c7688c9782a00a7f3bc",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
+      "summary": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees. The post FORGE Lab uses agentic tools to identify memory safety issues in Rust appeared first on Microsoft Security Blog.",
+      "published": "2026-11-09 20:17:31",
+      "timestamp": 1794255451
+    },
+    {
+      "id": "97cf1772a9db397ddba43b426061125808f35ca7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+      "published": "2026-11-09 18:32:42",
+      "timestamp": 1794249162
+    },
+    {
+      "id": "435253b4509047edb7f652cb5c4cf31ad5961c57",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed. Qubole, a data lake platform owned by Idera,",
+      "published": "2026-11-09 17:51:21",
+      "timestamp": 1794246681
+    },
+    {
+      "id": "4a3a331feb546ce3628ba46c06f5f85bada9e7a5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+      "published": "2026-11-09 17:50:32",
+      "timestamp": 1794246632
+    },
+    {
+      "id": "afcfcd9f33711d71785af7644d9a7a21b8ff313f",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
+      "published": "2026-11-09 17:36:28",
+      "timestamp": 1794245788
+    },
+    {
+      "id": "9d70b5a07e5eebbdfc420cca41c51ff2fad92067",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
+      "published": "2026-11-09 16:12:39",
+      "timestamp": 1794240759
+    },
+    {
+      "id": "26f8aba6fa5401a40ac1ee57dcb5dfccc604c3c7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "published": "2026-11-09 16:04:57",
+      "timestamp": 1794240297
+    },
+    {
+      "id": "13be408249131ec3a6e7de79f553d930a9283b84",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "The Biggest Threat to Your GRC Job Isn\u2019t AI. It\u2019s Ignoring AI.",
+      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
+      "published": "2026-11-09 15:05:15",
+      "timestamp": 1794236715
+    },
+    {
+      "id": "1246c57a7c9a26848638cbea2429cce256e1307a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+      "published": "2026-11-09 14:34:03",
+      "timestamp": 1794234843
+    },
+    {
+      "id": "4a10eb0f4602c45d291f5af7d81dcb3adee6f3e5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
+      "published": "2026-11-09 14:31:29",
+      "timestamp": 1794234689
+    },
     {
       "id": "ff5f998ccaa526cc482ce302d259aebb2aa990ba",
       "source": "BleepingComputer",
@@ -30,6 +160,16 @@
       "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than \u20ac4.3 million using a network of cryptocurrency investment scam call centers. [...]",
       "published": "2026-11-09 12:16:13",
       "timestamp": 1794226573
+    },
+    {
+      "id": "4d89dd42941e7c7df5d46f5b1a61d38bc3b815c9",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability CVE-2026-123218 IBM Aspera Faspex Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyb",
+      "published": "2026-11-09 12:00:00",
+      "timestamp": 1794225600
     },
     {
       "id": "cccde743ac7177c0fa5df98281c2da3fbbb410d2",
@@ -162,46 +302,6 @@
       "timestamp": 1794009655
     },
     {
-      "id": "c5cb866f3c0856756f2c92f28a56371c9c2822c4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-      "published": "2026-11-06 22:27:25",
-      "timestamp": 1794004045
-    },
-    {
-      "id": "04b3add6efe2d94eb35d546aeb3928644c4308a8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-      "published": "2026-11-06 20:24:19",
-      "timestamp": 1793996659
-    },
-    {
-      "id": "49bfea0ffa650355e94fb5a4c032f1bd3b57da8f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-      "published": "2026-11-06 18:46:52",
-      "timestamp": 1793990812
-    },
-    {
-      "id": "e838fbba0ce62bc11afaacd9cd5622b160f4ce93",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-      "published": "2026-11-06 17:04:23",
-      "timestamp": 1793984663
-    },
-    {
       "id": "7daacddbf31933ec136cc9fd7e756a4faa5747e4",
       "source": "The Hacker News",
       "source_category": "General",
@@ -210,16 +310,6 @@
       "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
       "published": "2026-11-06 16:08:38",
       "timestamp": 1793981318
-    },
-    {
-      "id": "c93e61d330e42658e695d831afe77aaff2efae5e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-      "summary": "\u200bVeeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-      "published": "2026-11-06 15:25:31",
-      "timestamp": 1793978731
     },
     {
       "id": "b73961df5066998828f0f4dc2b78f14f36e87f6c",
@@ -232,16 +322,6 @@
       "timestamp": 1793978509
     },
     {
-      "id": "ad8b9058990f2df7f824c70813a7bfa0ffee9c3c",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-      "published": "2026-11-06 15:00:10",
-      "timestamp": 1793977210
-    },
-    {
       "id": "6558dd058e8311cfb764102975f646aeda71a4cc",
       "source": "The Hacker News",
       "source_category": "General",
@@ -250,26 +330,6 @@
       "summary": "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
       "published": "2026-11-06 14:58:32",
       "timestamp": 1793977112
-    },
-    {
-      "id": "892c2bc3f01643ea16dbdf644102a6a6f939b421",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-      "published": "2026-11-06 14:17:07",
-      "timestamp": 1793974627
-    },
-    {
-      "id": "ccc4f35a6b7b9fd1cd6ada09d054f7b3ff1f88b0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-      "published": "2026-11-06 12:37:22",
-      "timestamp": 1793968642
     },
     {
       "id": "47c81e617af70e7587c499d8efe8da2e0830d313",
@@ -310,16 +370,6 @@
       "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
       "published": "2026-11-06 11:30:00",
       "timestamp": 1793964600
-    },
-    {
-      "id": "1b93aeec9cc63fad79e68ffbaf90b3be7bc5aef0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-      "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-      "published": "2026-11-06 09:22:28",
-      "timestamp": 1793956948
     },
     {
       "id": "c9ed9f1b7a14a0a9ba4476b3e83bd4bdec34c522",
@@ -732,36 +782,6 @@
       "timestamp": 1793704700
     },
     {
-      "id": "fe57ea1dce5c7b6e6a4ed64a5b457676a82aaa45",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
-      "published": "2026-11-03 11:00:45",
-      "timestamp": 1793703645
-    },
-    {
-      "id": "04ff0d35c7b3e779b4a121226142c168bb7643d7",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
-      "published": "2026-11-03 08:31:48",
-      "timestamp": 1793694708
-    },
-    {
-      "id": "c8f89056a1d9de35a8d6c404f09b73cd398bb6c3",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM. \"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
-      "published": "2026-11-03 07:43:07",
-      "timestamp": 1793691787
-    },
-    {
       "id": "2120b2d95c79cb318cfc2c947068d45ac41a31e2",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -790,16 +810,6 @@
       "summary": "Microsoft analyzes a malicious Claude Code\u2013branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog.",
       "published": "2026-10-31 01:02:57",
       "timestamp": 1793408577
-    },
-    {
-      "id": "db517807e79b42207a773393c5cca67dd888a822",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
-      "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft Security Blog.",
-      "published": "2026-10-30 16:11:44",
-      "timestamp": 1793376704
     },
     {
       "id": "9e61d13826c71f280d238152f8da311992bfe925",
@@ -922,22 +932,22 @@
       "timestamp": 1792417736
     },
     {
-      "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
-      "published": "2026-10-16 12:00:00",
-      "timestamp": 1792152000
-    },
-    {
       "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
+      "published": "2026-10-16 12:00:00",
+      "timestamp": 1792152000
+    },
+    {
+      "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
       "published": "2026-10-16 12:00:00",
       "timestamp": 1792152000
     },
@@ -1092,22 +1102,22 @@
       "timestamp": 1790608137
     },
     {
-      "id": "c15a02c5c0b2388627b810df7638d77708a87557",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
-      "published": "2026-09-27 12:00:00",
-      "timestamp": 1790510400
-    },
-    {
       "id": "34227d060b69b60ee5a1c96267a5203df1e09fe4",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
       "summary": "Update October 9, 2026: CISA has updated this Alert to: (1) include CVE-2026-107406; (2) include CVE-2026-88779 following its addition to the KEV Catalog on Oct. 4, 2026; (3) clarify the potential relationship between CVE-2026-88779 and CVE-2026-88771; and (4) emphasize the importance of promptly applying patches for CVE-2026-88771 through CVE-2026-88779 and CVE-2026-107406, as well as reviewing Citrix guidance for suspected or confirmed compromises involving NetScaler ADC or Gateway. Update Oct",
+      "published": "2026-09-27 12:00:00",
+      "timestamp": 1790510400
+    },
+    {
+      "id": "c15a02c5c0b2388627b810df7638d77708a87557",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
       "published": "2026-09-27 12:00:00",
       "timestamp": 1790510400
     },
@@ -1160,16 +1170,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-85102 Check Point Multiple Products Improper Certificate Validation Vulnerability CVE-2026-93616 Check Point Multiple Products Path Traversal Vulnerability CVE-2026-93952 Arista VeloCloud Orchestrator Improper Input Validation Vulnerability CVE-2026-94127 F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability These types of vulnerabilities are a frequen",
       "published": "2026-09-22 12:00:00",
       "timestamp": 1790078400
-    },
-    {
-      "id": "bdb82857ca77ae3f0e0486bb94dd181ea04c0d54",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-7273 Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Fede",
-      "published": "2026-09-21 12:00:00",
-      "timestamp": 1789992000
     },
     {
       "id": "1465798ec5853f5601461f76b62f5257d0307cdf",
