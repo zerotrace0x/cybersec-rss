@@ -1,6 +1,36 @@
 {
-  "generated_at": 1794344591,
+  "generated_at": 1794367233,
   "items": [
+    {
+      "id": "b902c7289f73d62a882d0d37634344a0214e679a",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Detecting sleeper agents hiding in AI model neurons",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
+      "summary": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits. The post Detecting sleeper agents hiding in AI model neurons appeared first on Microsoft Security Blog.",
+      "published": "2026-11-10 23:00:00",
+      "timestamp": 1794351600
+    },
+    {
+      "id": "d3ba0248df5a5ecc8f4a464e2c12b588326f9166",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+      "published": "2026-11-10 22:20:19",
+      "timestamp": 1794349219
+    },
+    {
+      "id": "3bf66e8d1346e3bab25b192562322cb55edcf9e0",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
+      "published": "2026-11-10 21:55:03",
+      "timestamp": 1794347703
+    },
     {
       "id": "a607de5ab4ddfd907b5e63ab03a5f6d821a89570",
       "source": "BleepingComputer",
@@ -320,16 +350,6 @@
       "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
       "published": "2026-11-09 23:52:12",
       "timestamp": 1794268332
-    },
-    {
-      "id": "472b038ac3cd1eb8c3b7dcaa6a68ca8979693277",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-      "published": "2026-11-09 22:09:33",
-      "timestamp": 1794262173
     },
     {
       "id": "677cdc95ed34aa8bb9ac0c7688c9782a00a7f3bc",
@@ -812,16 +832,6 @@
       "timestamp": 1793650859
     },
     {
-      "id": "af4a4756fd4fa10473fba8cceeb70d1211681e72",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
-      "summary": "Microsoft analyzes a malicious Claude Code\u2013branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog.",
-      "published": "2026-10-31 01:02:57",
-      "timestamp": 1793408577
-    },
-    {
       "id": "9e61d13826c71f280d238152f8da311992bfe925",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -1130,16 +1140,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
       "published": "2026-09-27 12:00:00",
       "timestamp": 1790510400
-    },
-    {
-      "id": "7b4e9682760154aa308f05b87a8683de6408d41d",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-      "published": "2026-09-25 21:44:40",
-      "timestamp": 1790372680
     },
     {
       "id": "8a73cdfa3cf7ac610dc5e128d8312f483fe7defd",
