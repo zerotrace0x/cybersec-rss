@@ -1,6 +1,106 @@
 {
-  "generated_at": 1794367233,
+  "generated_at": 1794402060,
   "items": [
+    {
+      "id": "ec12b878387f2a12388c85bfdff31a71ef92a206",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+      "published": "2026-11-11 12:32:27",
+      "timestamp": 1794400347
+    },
+    {
+      "id": "7bec6136b79abf48794c96af7ad5975dd34bb2bd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think through how such agents should be defended. When a browser agent acts inside a user\u2019s authenticated",
+      "published": "2026-11-11 12:01:59",
+      "timestamp": 1794398519
+    },
+    {
+      "id": "0d30b57fc926c3d7821cfdc9eaa0517c2385e093",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues. The 8 intermediate CAs compromised in October had a different problem: a single line in the script",
+      "published": "2026-11-11 12:00:53",
+      "timestamp": 1794398453
+    },
+    {
+      "id": "75ca36bf6be870a7106b90b8316be4c46f189bab",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "published": "2026-11-11 11:18:36",
+      "timestamp": 1794395916
+    },
+    {
+      "id": "a30567eca5d361ff3f608d413347b83cf198a65e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "published": "2026-11-11 10:12:08",
+      "timestamp": 1794391928
+    },
+    {
+      "id": "f59711c01d8b358c1e2277d0d3f38c815474b3f5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+      "published": "2026-11-11 09:07:27",
+      "timestamp": 1794388047
+    },
+    {
+      "id": "b3b7719c4348b469cacc5898960aece463e2b59c",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint Server. The patches also include 165 non-Microsoft-issued CVE identifiers.",
+      "published": "2026-11-11 08:17:53",
+      "timestamp": 1794385073
+    },
+    {
+      "id": "dded539b064740ac2349abc8997158faac3f0cdc",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company builds and runs apps for its customers and stores their secrets, such as API keys and database",
+      "published": "2026-11-11 07:49:04",
+      "timestamp": 1794383344
+    },
+    {
+      "id": "4f2ff850f5d472de2a926c0e20332dc0a77f1500",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker must be able to change the model's weights. The team tested the method on",
+      "published": "2026-11-11 07:21:05",
+      "timestamp": 1794381665
+    },
+    {
+      "id": "a5717be2353aae6ad87ddc480ef62406ee79b672",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are below - CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity",
+      "published": "2026-11-11 06:04:02",
+      "timestamp": 1794377042
+    },
     {
       "id": "b902c7289f73d62a882d0d37634344a0214e679a",
       "source": "Microsoft Security Blog",
@@ -252,16 +352,6 @@
       "timestamp": 1794305249
     },
     {
-      "id": "15ce4c1f7a1e8fa8c5a88b22fce2e87006f65ee9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-      "published": "2026-11-10 10:04:32",
-      "timestamp": 1794305072
-    },
-    {
       "id": "115bd44a731b4249f5eefcee64bce1e8cc14f46f",
       "source": "The Hacker News",
       "source_category": "General",
@@ -282,16 +372,6 @@
       "timestamp": 1794301700
     },
     {
-      "id": "1a81d980c457bde709e8a08e70fc9d88b326c466",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-      "published": "2026-11-10 08:51:25",
-      "timestamp": 1794300685
-    },
-    {
       "id": "39b2afe3e6eff0f700eaf090aa71fafe7c118d93",
       "source": "The Hacker News",
       "source_category": "General",
@@ -302,22 +382,12 @@
       "timestamp": 1794298574
     },
     {
-      "id": "b570ea820c64a13463cba412adaaccf7e2d6da07",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fireworks AI discloses new breach after cloud provider hack",
-      "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-      "published": "2026-11-10 07:49:58",
-      "timestamp": 1794296998
-    },
-    {
       "id": "9ae367184dd620a36b52b592d77691feed76063b",
       "source": "The Hacker News",
       "source_category": "General",
       "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
       "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component. \"Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker",
       "published": "2026-11-10 06:52:54",
       "timestamp": 1794293574
     },
@@ -340,16 +410,6 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability",
       "published": "2026-11-10 06:31:42",
       "timestamp": 1794292302
-    },
-    {
-      "id": "3a76ab093c2fb8fc31bceab44cc1fc1caac8122a",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-      "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-      "published": "2026-11-09 23:52:12",
-      "timestamp": 1794268332
     },
     {
       "id": "677cdc95ed34aa8bb9ac0c7688c9782a00a7f3bc",
@@ -702,46 +762,6 @@
       "timestamp": 1793873179
     },
     {
-      "id": "6d5804eb3fe23579a2e47f8502da51b7b1c41b3e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
-      "published": "2026-11-05 09:13:28",
-      "timestamp": 1793870008
-    },
-    {
-      "id": "852ea430fb87ae1bbad6acce4cb7883b320ee043",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
-      "published": "2026-11-05 08:42:03",
-      "timestamp": 1793868123
-    },
-    {
-      "id": "12be38955c2815a5bcacb48e53ad2127f3823c12",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
-      "published": "2026-11-05 07:06:33",
-      "timestamp": 1793862393
-    },
-    {
-      "id": "c86c38f237b6a0a5f1d7b54ed2ca947898e7007c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
-      "published": "2026-11-05 05:17:04",
-      "timestamp": 1793855824
-    },
-    {
       "id": "dfed6914eccdc4a8f759fd1252f46bf4aafa276a",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -750,26 +770,6 @@
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
       "published": "2026-11-05 04:36:17",
       "timestamp": 1793853377
-    },
-    {
-      "id": "13bb2db660a81581f060ea2f1e55d22f685a0a6b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
-      "published": "2026-11-04 17:00:46",
-      "timestamp": 1793811646
-    },
-    {
-      "id": "480973e4e134a60771793eda3752cd189663f567",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
-      "published": "2026-11-04 17:00:38",
-      "timestamp": 1793811638
     },
     {
       "id": "8fe343a9bdac7dd84ce01ffc22db9eeb049f3aab",
