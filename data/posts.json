@@ -1,6 +1,116 @@
 {
-  "generated_at": 1794402060,
+  "generated_at": 1794433018,
   "items": [
+    {
+      "id": "9fb82c83ea4069d13f83bb23f313ea33253f8aee",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+      "published": "2026-11-11 21:27:40",
+      "timestamp": 1794432460
+    },
+    {
+      "id": "e43db744740e29c432ab2534ddd61e63182ac186",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "published": "2026-11-11 20:54:20",
+      "timestamp": 1794430460
+    },
+    {
+      "id": "9915de57a3205d21fa3a63afa86e4187d502909e",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+      "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how threat actors are weaponizing GSocket for stealthy C2 appeared first on Microsoft Security Blog.",
+      "published": "2026-11-11 19:49:57",
+      "timestamp": 1794426597
+    },
+    {
+      "id": "787c0e092d7a3c584ad2466235af6270f8239dc7",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
+      "published": "2026-11-11 18:06:01",
+      "timestamp": 1794420361
+    },
+    {
+      "id": "1fc10a8404739e04198b47819aefc04d9e072e3f",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Lessons from 59 Linux Kernel Bug Reports",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
+      "summary": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-generated findings into validated vulnerabilities and upstream fixes. The post Lessons from 59 Linux Kernel Bug Reports appeared first on Microsoft Security Blog.",
+      "published": "2026-11-11 16:55:00",
+      "timestamp": 1794416100
+    },
+    {
+      "id": "035a164d25fd5536b80cf9980b2464bb680cb6e7",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "published": "2026-11-11 16:24:18",
+      "timestamp": 1794414258
+    },
+    {
+      "id": "dc7927dc274a3cfa804eb5b19b8bcea56472e01a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could allow an unauthenticated user to conduct an escalation of privilege via",
+      "published": "2026-11-11 16:12:46",
+      "timestamp": 1794413566
+    },
+    {
+      "id": "630c04f3a6487d9776baf4a57f87f5b562d3fc48",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cloud systems hosting AntiFox interfaces were associated with confirmed malicious actions against",
+      "published": "2026-11-11 15:34:27",
+      "timestamp": 1794411267
+    },
+    {
+      "id": "4ee98dbaac6daae1951547fa675597873270932d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "published": "2026-11-11 15:12:59",
+      "timestamp": 1794409979
+    },
+    {
+      "id": "dc90a761f0bf553ff5a9d241dec0d583613b9f7e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
+      "published": "2026-11-11 15:01:11",
+      "timestamp": 1794409271
+    },
+    {
+      "id": "ab8f8c8be29f984484554d303df14fe8876ab182",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some",
+      "published": "2026-11-11 14:01:00",
+      "timestamp": 1794405660
+    },
     {
       "id": "ec12b878387f2a12388c85bfdff31a71ef92a206",
       "source": "BleepingComputer",
@@ -10,6 +120,16 @@
       "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
       "published": "2026-11-11 12:32:27",
       "timestamp": 1794400347
+    },
+    {
+      "id": "3aaae30f115a028f90b5e11eaaf52aedff138447",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or",
+      "published": "2026-11-11 12:19:40",
+      "timestamp": 1794399580
     },
     {
       "id": "7bec6136b79abf48794c96af7ad5975dd34bb2bd",
@@ -222,16 +342,6 @@
       "timestamp": 1794332603
     },
     {
-      "id": "b297914bcd7348c1af9c3efd6daf5a09a9669590",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-      "published": "2026-11-10 16:17:16",
-      "timestamp": 1794327436
-    },
-    {
       "id": "1045f5a1ccae5a5b49f9ee0fa121f6a0ca3edc06",
       "source": "The Hacker News",
       "source_category": "General",
@@ -240,16 +350,6 @@
       "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
       "published": "2026-11-10 16:00:55",
       "timestamp": 1794326455
-    },
-    {
-      "id": "50fab7d8090b5e4716baa2474de92b9c464a958e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-      "published": "2026-11-10 15:59:19",
-      "timestamp": 1794326359
     },
     {
       "id": "e99acb2b3c4dbda9ff8813a52486798ba0f060ae",
@@ -272,16 +372,6 @@
       "timestamp": 1794324839
     },
     {
-      "id": "f97855dff894f4883bb396c3cc68564e118e447d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ransomware recovery is now a client retention metric",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]",
-      "published": "2026-11-10 15:01:11",
-      "timestamp": 1794322871
-    },
-    {
       "id": "a7c39d12f22c986084cc6c7459259df9f00b1f7b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -290,16 +380,6 @@
       "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher who goes by forcequit, in collaboration with 0xjohnny,",
       "published": "2026-11-10 12:15:31",
       "timestamp": 1794312931
-    },
-    {
-      "id": "ef53b1aedb53ad1ea26a002e2d8329379ace6de4",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-      "published": "2026-11-10 12:07:03",
-      "timestamp": 1794312423
     },
     {
       "id": "1ce19e0ec546268f61fe1b3f87de5ad127a0bea1",
@@ -330,16 +410,6 @@
       "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
       "published": "2026-11-10 10:16:51",
       "timestamp": 1794305811
-    },
-    {
-      "id": "1ea5f4489d657e65795509bd482c52558d167aba",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-      "published": "2026-11-10 10:10:20",
-      "timestamp": 1794305420
     },
     {
       "id": "9b772c54ad9a0e8d3362d605d4651c1bbfcefb06",
@@ -722,46 +792,6 @@
       "timestamp": 1793894400
     },
     {
-      "id": "cc5f809d1db31b9211d015326ee4b191a4b09d4b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
-      "published": "2026-11-05 14:41:10",
-      "timestamp": 1793889670
-    },
-    {
-      "id": "e1790fce04c7fefdef23c65c6e3e0efff1addb13",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates",
-      "published": "2026-11-05 12:25:00",
-      "timestamp": 1793881500
-    },
-    {
-      "id": "0eb325fbafc27f6b0fc38ebe8c51faef183b9bc2",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
-      "published": "2026-11-05 12:08:54",
-      "timestamp": 1793880534
-    },
-    {
-      "id": "9998e47be5198a156dbf3c57ec7923de7bb3d82d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
-      "published": "2026-11-05 10:06:19",
-      "timestamp": 1793873179
-    },
-    {
       "id": "dfed6914eccdc4a8f759fd1252f46bf4aafa276a",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -792,16 +822,6 @@
       "timestamp": 1793727167
     },
     {
-      "id": "867392f3e03965581da1c7f595b9d8458318fc0d",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI Agent Management Platforms",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
-      "summary": "Read why Gartner named Microsoft a Leader in the inaugural 2026 Magic Quadrant for AI Agent Management Platforms. The post Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for AI Agent Management Platforms appeared first on Microsoft Security Blog.",
-      "published": "2026-11-03 17:00:00",
-      "timestamp": 1793725200
-    },
-    {
       "id": "afe055bf27b70a0f715b8984af53a0fa106f6886",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -820,16 +840,6 @@
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices ",
       "published": "2026-11-03 02:24:31",
       "timestamp": 1793672671
-    },
-    {
-      "id": "7eb09b32f23115391e0136f5f9ca0debe25151f8",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
-      "summary": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks appeared first on Microsoft Security Blog.",
-      "published": "2026-11-02 20:20:59",
-      "timestamp": 1793650859
     },
     {
       "id": "9e61d13826c71f280d238152f8da311992bfe925",
@@ -1110,16 +1120,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-86950 Apple Multiple Products Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian",
       "published": "2026-09-29 12:00:00",
       "timestamp": 1790683200
-    },
-    {
-      "id": "ac17cc6227c4e14105533581f29de2f5185f1b8c",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
-      "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
-      "published": "2026-09-28 15:08:57",
-      "timestamp": 1790608137
     },
     {
       "id": "34227d060b69b60ee5a1c96267a5203df1e09fe4",
