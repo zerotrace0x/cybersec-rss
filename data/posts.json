@@ -1,6 +1,136 @@
 {
-  "generated_at": 1794457855,
+  "generated_at": 1794492206,
   "items": [
+    {
+      "id": "4063b4055126c0ae9a481a8e3a2924e91d6d00d3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+      "published": "2026-11-12 12:11:11",
+      "timestamp": 1794485471
+    },
+    {
+      "id": "72893b97278caaf0a9920462ec699b573d163fd9",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same processor core infer data from other processes or the kernel. The affected",
+      "published": "2026-11-12 12:09:14",
+      "timestamp": 1794485354
+    },
+    {
+      "id": "6090b25579ba7d8a9c270c5208a940dec507b54d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. Or an AI agent might be accessing sensitive systems using permissions nobody",
+      "published": "2026-11-12 12:02:51",
+      "timestamp": 1794484971
+    },
+    {
+      "id": "757dd53a591060aaaadd94aa91a356f0e38dc247",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and exposed to the public internet,\" N-able said in a new advisory. \"Legacy API is",
+      "published": "2026-11-12 11:51:43",
+      "timestamp": 1794484303
+    },
+    {
+      "id": "9cf20c02b477d780534c59bf5c700b499bb562b1",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security spotted the campaign and has since taken down hundreds of attacker domains in an effort the team calls Operation CloudFire.",
+      "published": "2026-11-12 11:51:31",
+      "timestamp": 1794484291
+    },
+    {
+      "id": "18e1998065a06a1f9e93bbe7df1e572f105855cd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as a case of improper input validation and deserialization of untrusted data that could result in",
+      "published": "2026-11-12 11:33:15",
+      "timestamp": 1794483195
+    },
+    {
+      "id": "44e06baf7c0e71486bf52608047280eaff26b741",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+      "published": "2026-11-12 10:24:07",
+      "timestamp": 1794479047
+    },
+    {
+      "id": "91e4eb31b00e4a646b7569dcc73e8be2d84b4b0d",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "published": "2026-11-12 09:38:00",
+      "timestamp": 1794476280
+    },
+    {
+      "id": "f20b03cc22b2243ee3379a7b0732eb04aa25a420",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the database, released fixed versions earlier this week. The affected servers are members of a replica",
+      "published": "2026-11-12 09:25:00",
+      "timestamp": 1794475500
+    },
+    {
+      "id": "9aacb2b2536040e8e47a20d9c5b75457674eb9a8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed versions were released for all three supported lines: 22.23.5, 24.22.3, and 26.13.1. The crash",
+      "published": "2026-11-12 08:20:37",
+      "timestamp": 1794471637
+    },
+    {
+      "id": "4c6486046c4b43ba5e11d04919f105d84c89cf11",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI workflows can reach. It ran in at least 1,806 repositories, where the attacker has likely collected",
+      "published": "2026-11-12 06:42:47",
+      "timestamp": 1794465767
+    },
+    {
+      "id": "edf838a2bc7c0c9ae969e35e8c393102d5fcad5d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Red Hat, which ships the server as part of Red Hat Enterprise Linux. An attacker who can reach the",
+      "published": "2026-11-12 05:12:26",
+      "timestamp": 1794460346
+    },
+    {
+      "id": "86170787dd5c2940ea7f4aa12aa7448cfece8d89",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerability in the ScreenConnect software. \"Our initial assessment suggests the activity may involve",
+      "published": "2026-11-12 04:39:48",
+      "timestamp": 1794458388
+    },
     {
       "id": "c1f71bf4ecf7fa775aae49c2e69119e576fab02e",
       "source": "BleepingComputer",
@@ -270,36 +400,6 @@
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
       "published": "2026-11-10 21:55:03",
       "timestamp": 1794347703
-    },
-    {
-      "id": "a607de5ab4ddfd907b5e63ab03a5f6d821a89570",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-      "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-      "published": "2026-11-10 20:54:55",
-      "timestamp": 1794344095
-    },
-    {
-      "id": "c8ce4e8d609a3d56bd2cf90d669522385376c7d7",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-      "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-      "published": "2026-11-10 20:04:36",
-      "timestamp": 1794341076
-    },
-    {
-      "id": "bc36d9b5c3840caf7cf0fa15d65a402759d6e008",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-      "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
-      "published": "2026-11-10 19:31:11",
-      "timestamp": 1794339071
     },
     {
       "id": "23bc755106ec1725758483f360d91d0d5dea61ed",
@@ -642,46 +742,6 @@
       "timestamp": 1793981318
     },
     {
-      "id": "b73961df5066998828f0f4dc2b78f14f36e87f6c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
-      "published": "2026-11-06 15:21:49",
-      "timestamp": 1793978509
-    },
-    {
-      "id": "6558dd058e8311cfb764102975f646aeda71a4cc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "summary": "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
-      "published": "2026-11-06 14:58:32",
-      "timestamp": 1793977112
-    },
-    {
-      "id": "47c81e617af70e7587c499d8efe8da2e0830d313",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
-      "published": "2026-11-06 12:06:43",
-      "timestamp": 1793966803
-    },
-    {
-      "id": "8ac84f644a01bdcbea898c2bc6c9dd3d9d133627",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
-      "published": "2026-11-06 12:06:35",
-      "timestamp": 1793966795
-    },
-    {
       "id": "719c22aa426faf4b4163c71abb0d8bbb6c330a6d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -690,46 +750,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for",
       "published": "2026-11-06 12:00:00",
       "timestamp": 1793966400
-    },
-    {
-      "id": "364b776a5e2301ce3a307924ca8ce041f4f72780",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
-      "published": "2026-11-06 11:30:00",
-      "timestamp": 1793964600
-    },
-    {
-      "id": "c9ed9f1b7a14a0a9ba4476b3e83bd4bdec34c522",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
-      "published": "2026-11-06 08:04:49",
-      "timestamp": 1793952289
-    },
-    {
-      "id": "22a4630b3ec76b0977df1005ed0f6873e6c4c8df",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
-      "published": "2026-11-06 05:58:54",
-      "timestamp": 1793944734
-    },
-    {
-      "id": "7afcfe316ac907a5868e65b7008992cc6f4bcef4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-      "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
-      "published": "2026-11-06 05:39:10",
-      "timestamp": 1793943550
     },
     {
       "id": "a13f80c28296293b245803c1a3407c100fd7b7ab",
@@ -760,26 +780,6 @@
       "summary": "Microsoft Security\u2019s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post \u200b\u200b\u200b\u200bWhat\u2019s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog.",
       "published": "2026-11-05 17:00:00",
       "timestamp": 1793898000
-    },
-    {
-      "id": "5ee86e807ccad3a16052e1ff7c25cdbf7394d75b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
-      "published": "2026-11-05 16:42:46",
-      "timestamp": 1793896966
-    },
-    {
-      "id": "6e9110ad55b5d98b1dc72d4075b708633bd11350",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. \"The flaw could enable silent chat data theft, phishing,",
-      "published": "2026-11-05 16:42:32",
-      "timestamp": 1793896952
     },
     {
       "id": "3af63e597e9a4dbd6b4a73a3b17921b425d930b7",
