@@ -1,6 +1,156 @@
 {
-  "generated_at": 1794492206,
+  "generated_at": 1794519444,
   "items": [
+    {
+      "id": "0b5dea5ce83e9376e6d73fc579fced07a2a350e3",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+      "published": "2026-11-12 20:15:16",
+      "timestamp": 1794514516
+    },
+    {
+      "id": "db898c7275bcfeeccdf8d0b9344b5aeb4ab3d461",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+      "published": "2026-11-12 19:51:16",
+      "timestamp": 1794513076
+    },
+    {
+      "id": "3876ae87dfcdd3ac441fb15d7161e9e050a7dabb",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+      "published": "2026-11-12 19:12:55",
+      "timestamp": 1794510775
+    },
+    {
+      "id": "6090b25579ba7d8a9c270c5208a940dec507b54d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. Or an AI agent might be accessing sensitive systems using permissions nobody",
+      "published": "2026-11-12 18:07:15",
+      "timestamp": 1794506835
+    },
+    {
+      "id": "ab8bdfa41ec8eb546bde5b502f067dfa9452933a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while",
+      "published": "2026-11-12 18:02:51",
+      "timestamp": 1794506571
+    },
+    {
+      "id": "5b854c59200c2fd3d7f84da4571c17bf6ea085b6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of",
+      "published": "2026-11-12 17:50:27",
+      "timestamp": 1794505827
+    },
+    {
+      "id": "fae28458b6f2c04eac5db15a368a0e246c43094b",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+      "summary": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities. The post Trained to betray: How post-training supply chain attacks hijack coding agents appeared first on Microsoft Security Blog.",
+      "published": "2026-11-12 17:00:00",
+      "timestamp": 1794502800
+    },
+    {
+      "id": "af6dc2b80fa9138ea51cbfe227a3650f4db6fac6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday. The company has released fixed builds for eight Quay",
+      "published": "2026-11-12 16:27:01",
+      "timestamp": 1794500821
+    },
+    {
+      "id": "4fd9d7dfc6e6f74ec0d81f0a0965d76fc286afb5",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+      "published": "2026-11-12 16:04:00",
+      "timestamp": 1794499440
+    },
+    {
+      "id": "250bbdaf58ab34ee8b6639c2c5afc42ab499fce6",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below - CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet",
+      "published": "2026-11-12 15:38:49",
+      "timestamp": 1794497929
+    },
+    {
+      "id": "80a78ba54d4f1d33e2f8a21cd9a1ed0eb200c53d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+      "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+      "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. \"AI-app lookalikes that turn an attempt to reach a familiar tool into a prompt to verify,",
+      "published": "2026-11-12 15:15:40",
+      "timestamp": 1794496540
+    },
+    {
+      "id": "d2affebd20bf9edc4e9574408ca10f52a2e5b7be",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+      "published": "2026-11-12 15:07:20",
+      "timestamp": 1794496040
+    },
+    {
+      "id": "9424c6b702af69f8570e4752a445605dda6fe8e8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
+      "published": "2026-11-12 15:00:10",
+      "timestamp": 1794495610
+    },
+    {
+      "id": "724718a66dc32a1a037132a8b48acda10ba21d64",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+      "published": "2026-11-12 14:36:47",
+      "timestamp": 1794494207
+    },
+    {
+      "id": "b0de968f63f61268f765f87029afeb76a27100ba",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+      "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an",
+      "published": "2026-11-12 13:08:28",
+      "timestamp": 1794488908
+    },
     {
       "id": "4063b4055126c0ae9a481a8e3a2924e91d6d00d3",
       "source": "BleepingComputer",
@@ -20,16 +170,6 @@
       "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same processor core infer data from other processes or the kernel. The affected",
       "published": "2026-11-12 12:09:14",
       "timestamp": 1794485354
-    },
-    {
-      "id": "6090b25579ba7d8a9c270c5208a940dec507b54d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. Or an AI agent might be accessing sensitive systems using permissions nobody",
-      "published": "2026-11-12 12:02:51",
-      "timestamp": 1794484971
     },
     {
       "id": "757dd53a591060aaaadd94aa91a356f0e38dc247",
@@ -232,26 +372,6 @@
       "timestamp": 1794411267
     },
     {
-      "id": "4ee98dbaac6daae1951547fa675597873270932d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-      "published": "2026-11-11 15:12:59",
-      "timestamp": 1794409979
-    },
-    {
-      "id": "dc90a761f0bf553ff5a9d241dec0d583613b9f7e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
-      "published": "2026-11-11 15:01:11",
-      "timestamp": 1794409271
-    },
-    {
       "id": "ab8f8c8be29f984484554d303df14fe8876ab182",
       "source": "The Hacker News",
       "source_category": "General",
@@ -260,16 +380,6 @@
       "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some",
       "published": "2026-11-11 14:01:00",
       "timestamp": 1794405660
-    },
-    {
-      "id": "ec12b878387f2a12388c85bfdff31a71ef92a206",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
-      "published": "2026-11-11 12:32:27",
-      "timestamp": 1794400347
     },
     {
       "id": "3aaae30f115a028f90b5e11eaaf52aedff138447",
@@ -300,36 +410,6 @@
       "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues. The 8 intermediate CAs compromised in October had a different problem: a single line in the script",
       "published": "2026-11-11 12:00:53",
       "timestamp": 1794398453
-    },
-    {
-      "id": "75ca36bf6be870a7106b90b8316be4c46f189bab",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes audio issues caused by September security updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
-      "published": "2026-11-11 11:18:36",
-      "timestamp": 1794395916
-    },
-    {
-      "id": "a30567eca5d361ff3f608d413347b83cf198a65e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
-      "published": "2026-11-11 10:12:08",
-      "timestamp": 1794391928
-    },
-    {
-      "id": "f59711c01d8b358c1e2277d0d3f38c815474b3f5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-      "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
-      "published": "2026-11-11 09:07:27",
-      "timestamp": 1794388047
     },
     {
       "id": "b3b7719c4348b469cacc5898960aece463e2b59c",
@@ -380,16 +460,6 @@
       "summary": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits. The post Detecting sleeper agents hiding in AI model neurons appeared first on Microsoft Security Blog.",
       "published": "2026-11-10 23:00:00",
       "timestamp": 1794351600
-    },
-    {
-      "id": "d3ba0248df5a5ecc8f4a464e2c12b588326f9166",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
-      "published": "2026-11-10 22:20:19",
-      "timestamp": 1794349219
     },
     {
       "id": "3bf66e8d1346e3bab25b192562322cb55edcf9e0",
@@ -672,56 +742,6 @@
       "timestamp": 1794218481
     },
     {
-      "id": "94ad7e28c3041d0d2229c8ba8ceeb7b889819d06",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login. The researchers are highly confident that the attacker is a single person",
-      "published": "2026-11-09 09:01:50",
-      "timestamp": 1794214910
-    },
-    {
-      "id": "e787bd69b7a5252db57d387d1857620f2e479e4c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-      "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
-      "published": "2026-11-09 07:05:48",
-      "timestamp": 1794207948
-    },
-    {
-      "id": "1fb555c01ddc844bc181247863fa57e00d2c5c8d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
-      "published": "2026-11-09 06:15:10",
-      "timestamp": 1794204910
-    },
-    {
-      "id": "276bd5f3c7bbcfd4b598098695e70c744beef2f4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
-      "published": "2026-11-09 06:05:24",
-      "timestamp": 1794204324
-    },
-    {
-      "id": "2b415eca5348f52ac04f4c7f357577fe0da296c0",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
-      "published": "2026-11-07 06:44:17",
-      "timestamp": 1794033857
-    },
-    {
       "id": "5fb5bae7bc9a6ec0319f8fb20d26b936d37b0cb7",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -730,16 +750,6 @@
       "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector appeared first on Microsoft Security Blog.",
       "published": "2026-11-07 02:44:34",
       "timestamp": 1794019474
-    },
-    {
-      "id": "7daacddbf31933ec136cc9fd7e756a4faa5747e4",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
-      "published": "2026-11-06 16:08:38",
-      "timestamp": 1793981318
     },
     {
       "id": "719c22aa426faf4b4163c71abb0d8bbb6c330a6d",
@@ -810,16 +820,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civi",
       "published": "2026-11-04 12:00:00",
       "timestamp": 1793793600
-    },
-    {
-      "id": "caedbed0ce1c0e5ccd2643b912016139190579e1",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
-      "summary": "Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post Fake-download campaign uses trojanized installers to deliver monetization payloads appeared first on Microsoft Security Blog.",
-      "published": "2026-11-03 17:32:47",
-      "timestamp": 1793727167
     },
     {
       "id": "afe055bf27b70a0f715b8984af53a0fa106f6886",
