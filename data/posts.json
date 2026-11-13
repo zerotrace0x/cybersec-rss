@@ -1,6 +1,86 @@
 {
-  "generated_at": 1794576566,
+  "generated_at": 1794603694,
   "items": [
+    {
+      "id": "f6e180a71100fcad648222dfe6238bc7b704c727",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
+      "published": "2026-11-13 19:38:36",
+      "timestamp": 1794598716
+    },
+    {
+      "id": "fb62dbdc9aa34aad6080ce1f36cd3d90c80ea242",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "German military drone operations disrupted by cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+      "published": "2026-11-13 17:31:56",
+      "timestamp": 1794591116
+    },
+    {
+      "id": "57fa8f1e3f1392f5b117afa012f8f15f48526730",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+      "published": "2026-11-13 16:53:08",
+      "timestamp": 1794588788
+    },
+    {
+      "id": "98f074afda27c740be924415ed63010e2531b6fe",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+      "published": "2026-11-13 16:21:43",
+      "timestamp": 1794586903
+    },
+    {
+      "id": "1ee88d32dc1c30e281ba3ab84d75d767f07df95b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
+      "published": "2026-11-13 15:27:05",
+      "timestamp": 1794583625
+    },
+    {
+      "id": "18cb9ff79d0a045ff146c719cd5f4711aac1b05a",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
+      "published": "2026-11-13 15:01:11",
+      "timestamp": 1794582071
+    },
+    {
+      "id": "f0eea5c8dd7339d5936c9a21e67d3dad6f76e1b8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinated set of actions announced by the U.S. government, the cloud-based",
+      "published": "2026-11-13 14:28:58",
+      "timestamp": 1794580138
+    },
+    {
+      "id": "0288b6e3b0789d394a292c13816d3360d26fe0c2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other",
+      "published": "2026-11-13 13:54:20",
+      "timestamp": 1794578060
+    },
     {
       "id": "8a7aa76251415a7d301878ab0cbf87c027271b54",
       "source": "BleepingComputer",
@@ -10,6 +90,16 @@
       "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
       "published": "2026-11-13 12:27:40",
       "timestamp": 1794572860
+    },
+    {
+      "id": "67ed0d6e682d8ced94edbd0257bd241eb1094266",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (",
+      "published": "2026-11-13 12:00:00",
+      "timestamp": 1794571200
     },
     {
       "id": "ca8db739c43aef6d8b3fb44e6a9064aa62bd940a",
@@ -80,6 +170,16 @@
       "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
       "published": "2026-11-13 08:05:49",
       "timestamp": 1794557149
+    },
+    {
+      "id": "720022a7c789dfee70229236b6bbe747bd796fe8",
+      "source": "Google Project Zero",
+      "source_category": "Research",
+      "title": "Policy and Disclosure: 2026 Edition",
+      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "summary": "Since 2021, Project Zero has followed a \u201c90 + 30\u201d vulnerability disclosure policy, allowing vendors up to 90 days to remediate a vulnerability plus an extra 30 days \u201csoak time\u201d for patch rollout. Our goal was to encourage faster patching and give vendors time to deliver patches to users. The advent of AI-assisted vulnerability discovery and exploitation has changed the threat landscape such that the vulnerability remediation timeline encouraged by our disclosure policy is clearly insufficient. L",
+      "published": "2026-11-13 08:00:00",
+      "timestamp": 1794556800
     },
     {
       "id": "d19ff61eb314f486b2f2c3d5d35e7c03cbc9d6f0",
@@ -232,26 +332,6 @@
       "timestamp": 1794496040
     },
     {
-      "id": "9424c6b702af69f8570e4752a445605dda6fe8e8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
-      "published": "2026-11-12 15:00:10",
-      "timestamp": 1794495610
-    },
-    {
-      "id": "724718a66dc32a1a037132a8b48acda10ba21d64",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-      "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-      "published": "2026-11-12 14:36:47",
-      "timestamp": 1794494207
-    },
-    {
       "id": "b0de968f63f61268f765f87029afeb76a27100ba",
       "source": "The Hacker News",
       "source_category": "General",
@@ -260,16 +340,6 @@
       "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an",
       "published": "2026-11-12 13:08:28",
       "timestamp": 1794488908
-    },
-    {
-      "id": "4063b4055126c0ae9a481a8e3a2924e91d6d00d3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-      "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-      "published": "2026-11-12 12:11:11",
-      "timestamp": 1794485471
     },
     {
       "id": "72893b97278caaf0a9920462ec699b573d163fd9",
@@ -310,16 +380,6 @@
       "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as a case of improper input validation and deserialization of untrusted data that could result in",
       "published": "2026-11-12 11:33:15",
       "timestamp": 1794483195
-    },
-    {
-      "id": "44e06baf7c0e71486bf52608047280eaff26b741",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft confirms Windows security updates installation issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-      "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
-      "published": "2026-11-12 10:24:07",
-      "timestamp": 1794479047
     },
     {
       "id": "f20b03cc22b2243ee3379a7b0732eb04aa25a420",
@@ -682,26 +742,6 @@
       "timestamp": 1794293574
     },
     {
-      "id": "43c591c6b0d56cbed1984a1f3af957b38af1500e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-      "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the",
-      "published": "2026-11-10 06:44:36",
-      "timestamp": 1794293076
-    },
-    {
-      "id": "d6c4d352b45b1ed895f631c4503f0c07e01f38b8",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability",
-      "published": "2026-11-10 06:31:42",
-      "timestamp": 1794292302
-    },
-    {
       "id": "677cdc95ed34aa8bb9ac0c7688c9782a00a7f3bc",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -710,26 +750,6 @@
       "summary": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees. The post FORGE Lab uses agentic tools to identify memory safety issues in Rust appeared first on Microsoft Security Blog.",
       "published": "2026-11-09 20:17:31",
       "timestamp": 1794255451
-    },
-    {
-      "id": "435253b4509047edb7f652cb5c4cf31ad5961c57",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed. Qubole, a data lake platform owned by Idera,",
-      "published": "2026-11-09 17:51:21",
-      "timestamp": 1794246681
-    },
-    {
-      "id": "afcfcd9f33711d71785af7644d9a7a21b8ff313f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
-      "published": "2026-11-09 17:36:28",
-      "timestamp": 1794245788
     },
     {
       "id": "4d89dd42941e7c7df5d46f5b1a61d38bc3b815c9",
@@ -962,22 +982,22 @@
       "timestamp": 1792417736
     },
     {
-      "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
-      "published": "2026-10-16 12:00:00",
-      "timestamp": 1792152000
-    },
-    {
       "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
       "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
+      "published": "2026-10-16 12:00:00",
+      "timestamp": 1792152000
+    },
+    {
+      "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
       "published": "2026-10-16 12:00:00",
       "timestamp": 1792152000
     },
@@ -1162,16 +1182,6 @@
       "timestamp": 1790337600
     },
     {
-      "id": "f8270a38bbaf37b335ba2fc65b0ec6737f7ced43",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5430 WSO2 Multiple Products Path Traversal Vulnerability CVE-2026-71362 Adobe Commerce and Magento Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based",
-      "published": "2026-09-24 12:00:00",
-      "timestamp": 1790251200
-    },
-    {
       "id": "1465798ec5853f5601461f76b62f5257d0307cdf",
       "source": "Google Project Zero",
       "source_category": "Research",
@@ -1240,16 +1250,6 @@
       "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I\u2019ll explain the technical details of",
       "published": "2026-01-30 08:00:00",
       "timestamp": 1769760000
-    },
-    {
-      "id": "e47b3d76593cc498df40f86c36ddb960242bf0d3",
-      "source": "Google Project Zero",
-      "source_category": "Research",
-      "title": "Bypassing Windows Administrator Protection",
-      "link": "https://projectzero.google/2026/26/windows-administrator-protection.html",
-      "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it\u2019s different from UAC. I\u2019ll then describe some of the security research I undertook while it was in the insider previ",
-      "published": "2026-01-26 08:00:00",
-      "timestamp": 1769414400
     }
   ]
 }
