@@ -1,6 +1,46 @@
 {
-  "generated_at": 1794788825,
+  "generated_at": 1794824027,
   "items": [
+    {
+      "id": "a85d9e4fbac7663f2de6677386094d803a6f0f30",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "published": "2026-11-16 09:30:04",
+      "timestamp": 1794821404
+    },
+    {
+      "id": "026ae6cfa6bfbea724f840cfb63a55de6087e48b",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "published": "2026-11-16 08:26:52",
+      "timestamp": 1794817612
+    },
+    {
+      "id": "9ef84a0b159d483b9db8c5e246e14cb1edefbb70",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this",
+      "published": "2026-11-16 07:34:21",
+      "timestamp": 1794814461
+    },
+    {
+      "id": "9c967c0259f8752a6d7104ecd25470cf0da904e0",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,",
+      "published": "2026-11-16 06:53:34",
+      "timestamp": 1794812014
+    },
     {
       "id": "a627cf7062b04f6eaf1da8a06ab34df4264d152a",
       "source": "BleepingComputer",
@@ -280,26 +320,6 @@
       "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
       "published": "2026-11-12 22:53:10",
       "timestamp": 1794523990
-    },
-    {
-      "id": "eee329abff92a810043dea37ae2a58681d32550e",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-      "published": "2026-11-12 22:25:30",
-      "timestamp": 1794522330
-    },
-    {
-      "id": "0b5dea5ce83e9376e6d73fc579fced07a2a350e3",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-      "published": "2026-11-12 20:15:16",
-      "timestamp": 1794514516
     },
     {
       "id": "6090b25579ba7d8a9c270c5208a940dec507b54d",
@@ -730,26 +750,6 @@
       "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
       "published": "2026-11-10 10:16:51",
       "timestamp": 1794305811
-    },
-    {
-      "id": "9b772c54ad9a0e8d3362d605d4651c1bbfcefb06",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for",
-      "published": "2026-11-10 10:07:29",
-      "timestamp": 1794305249
-    },
-    {
-      "id": "115bd44a731b4249f5eefcee64bce1e8cc14f46f",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day\u2014the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
-      "published": "2026-11-10 10:02:40",
-      "timestamp": 1794304960
     },
     {
       "id": "677cdc95ed34aa8bb9ac0c7688c9782a00a7f3bc",
