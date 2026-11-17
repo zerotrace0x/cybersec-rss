@@ -1,6 +1,126 @@
 {
-  "generated_at": 1794927515,
+  "generated_at": 1794955524,
   "items": [
+    {
+      "id": "3969f94e729e0634c75af720549a1332f9bd4903",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "published": "2026-11-17 21:27:17",
+      "timestamp": 1794950837
+    },
+    {
+      "id": "4b908f22c991948e7f2ccdf57f31eb9e3e21a18f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "published": "2026-11-17 20:51:21",
+      "timestamp": 1794948681
+    },
+    {
+      "id": "5788bc80009a0e2c3bb1368db3bb50c53167527e",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send",
+      "published": "2026-11-17 19:34:20",
+      "timestamp": 1794944060
+    },
+    {
+      "id": "dbfb40e361c59628c7fa6de566881a87763f141e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "published": "2026-11-17 19:24:07",
+      "timestamp": 1794943447
+    },
+    {
+      "id": "1ccced6833d2ce04f79ec16d94e5aa419b9a1ddd",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+      "published": "2026-11-17 18:21:24",
+      "timestamp": 1794939684
+    },
+    {
+      "id": "61308139aade119f1ee0e33ebb12b2f469d75f71",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Security for the agentic era, powered by Microsoft Perception",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+      "summary": "Read about updates to Microsoft Perception and the new Microsoft Security cyber stack to defend against threats, secure agents, and protect your digital estate. The post Security for the agentic era, powered by Microsoft Perception appeared first on Microsoft Security Blog.",
+      "published": "2026-11-17 18:14:00",
+      "timestamp": 1794939240
+    },
+    {
+      "id": "8014bd004feda8e963d14419b2b43ef89dfe1600",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+      "published": "2026-11-17 18:04:15",
+      "timestamp": 1794938655
+    },
+    {
+      "id": "86140889b5244bec2c6dafdca81218f32c210420",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "published": "2026-11-17 16:00:00",
+      "timestamp": 1794931200
+    },
+    {
+      "id": "1219936ed677fde020b90594388f979a49687bea",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.",
+      "published": "2026-11-17 15:17:36",
+      "timestamp": 1794928656
+    },
+    {
+      "id": "a9c252cf13556f85407766510bc3ccb03a5454e2",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,\" Stormshield said in a deep-dive technical report",
+      "published": "2026-11-17 15:17:28",
+      "timestamp": 1794928648
+    },
+    {
+      "id": "a617497e5e397b40c57dbf96c89d158171657031",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "published": "2026-11-17 15:01:11",
+      "timestamp": 1794927671
+    },
+    {
+      "id": "a324f9fd7611fba024b0b727459e48db744e02bd",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "The risks of device code authentication for AI coding agents",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+      "summary": "Lab research shows how device code phishing, a technique that applies to any device-flow client, can extend to AI coding agents, using GitHub Copilot CLI as an illustrative example. The post The risks of device code authentication for AI coding agents appeared first on Microsoft Security Blog.",
+      "published": "2026-11-17 15:00:00",
+      "timestamp": 1794927600
+    },
     {
       "id": "860744fdca8172f8aa4f4f7bd0fc236f83cf05b6",
       "source": "The Hacker News",
@@ -20,6 +140,16 @@
       "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks. Nik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa",
       "published": "2026-11-17 12:14:36",
       "timestamp": 1794917676
+    },
+    {
+      "id": "3200ae1373b041175f9f3d458493e183dcec37a3",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
+      "published": "2026-11-17 12:00:00",
+      "timestamp": 1794916800
     },
     {
       "id": "756b0c51ed30ae5f2bd35858c31a208a1ad7b571",
@@ -97,7 +227,7 @@
       "source_category": "General",
       "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
       "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled, and",
+      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled and",
       "published": "2026-11-17 06:29:27",
       "timestamp": 1794896967
     },
@@ -162,62 +292,12 @@
       "timestamp": 1794862784
     },
     {
-      "id": "f2c85ad6d25c074d02d9c6cfc06d26d5b74422f0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "published": "2026-11-16 19:57:13",
-      "timestamp": 1794859033
-    },
-    {
-      "id": "a9f1f24d9ef005f8b95822d722e07a24b579c6c0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-      "published": "2026-11-16 16:43:24",
-      "timestamp": 1794847404
-    },
-    {
-      "id": "01effe35fd2681c645b53ee4c2cf9c261bb69c5f",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-      "published": "2026-11-16 15:44:21",
-      "timestamp": 1794843861
-    },
-    {
-      "id": "e51107765f5184858d1bda90649e35435ea09291",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
-      "published": "2026-11-16 15:01:11",
-      "timestamp": 1794841271
-    },
-    {
       "id": "1585376ac7f23044e96218e076cc03ef6a80e454",
       "source": "The Hacker News",
       "source_category": "General",
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
       "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
       "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
-      "published": "2026-11-16 14:00:00",
-      "timestamp": 1794837600
-    },
-    {
-      "id": "4252b0110ff5eccf36d53d4d2010865e8ccc96b5",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
       "published": "2026-11-16 14:00:00",
       "timestamp": 1794837600
     },
@@ -230,16 +310,6 @@
       "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
       "published": "2026-11-16 13:27:20",
       "timestamp": 1794835640
-    },
-    {
-      "id": "2f5abf840d50e540666e4b0b534a1a7b7a1ee9f8",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-      "published": "2026-11-16 12:53:18",
-      "timestamp": 1794833598
     },
     {
       "id": "ca60625002ef6d5d6e5054ed39f4b06f02d2cf36",
@@ -260,16 +330,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kaspersky said in an analysis published today. \"The '7z.dll' file was a patched version of the",
       "published": "2026-11-16 12:33:18",
       "timestamp": 1794832398
-    },
-    {
-      "id": "d53c8ac89381e7e1237a231571552f9b1eecc144",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-      "published": "2026-11-16 11:18:09",
-      "timestamp": 1794827889
     },
     {
       "id": "02093c8169daa4f5ea273b501db52475288eb489",
@@ -702,36 +762,6 @@
       "timestamp": 1794398519
     },
     {
-      "id": "0d30b57fc926c3d7821cfdc9eaa0517c2385e093",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues. The 8 intermediate CAs compromised in October had a different problem: a single line in the script",
-      "published": "2026-11-11 12:00:53",
-      "timestamp": 1794398453
-    },
-    {
-      "id": "b3b7719c4348b469cacc5898960aece463e2b59c",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint Server. The patches also include 165 non-Microsoft-issued CVE identifiers.",
-      "published": "2026-11-11 08:17:53",
-      "timestamp": 1794385073
-    },
-    {
-      "id": "dded539b064740ac2349abc8997158faac3f0cdc",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company builds and runs apps for its customers and stores their secrets, such as API keys and database",
-      "published": "2026-11-11 07:49:04",
-      "timestamp": 1794383344
-    },
-    {
       "id": "b902c7289f73d62a882d0d37634344a0214e679a",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -800,26 +830,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for",
       "published": "2026-11-06 12:00:00",
       "timestamp": 1793966400
-    },
-    {
-      "id": "a13f80c28296293b245803c1a3407c100fd7b7ab",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
-      "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application\u2019s tenant. Agents operating on behalf of threat actors then used the compromised OAuth applications to perform a variety of subsequent actions within compromised organizations. The post Threat actors use agentic AI tooling to",
-      "published": "2026-11-05 23:46:50",
-      "timestamp": 1793922410
-    },
-    {
-      "id": "65fbe22916d52d197b609e643dcbd93b6a5c9240",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "New investments to reduce on-premises security risk",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
-      "summary": "We\u2019re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments. The post New investments to reduce on-premises security risk appeared first on Microsoft Security Blog.",
-      "published": "2026-11-05 17:10:14",
-      "timestamp": 1793898614
     },
     {
       "id": "dfed6914eccdc4a8f759fd1252f46bf4aafa276a",
@@ -982,22 +992,22 @@
       "timestamp": 1792417736
     },
     {
-      "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
-      "published": "2026-10-16 12:00:00",
-      "timestamp": 1792152000
-    },
-    {
       "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
+      "published": "2026-10-16 12:00:00",
+      "timestamp": 1792152000
+    },
+    {
+      "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
       "published": "2026-10-16 12:00:00",
       "timestamp": 1792152000
     },
@@ -1168,16 +1178,6 @@
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-65660 Microsoft SharePoint Code Injection Vulnerability CVE-2026-67279 Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Upd",
-      "published": "2026-09-25 12:00:00",
-      "timestamp": 1790337600
-    },
-    {
-      "id": "ff2af62a831dc30f57dae3477939992b6f565b72",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-87902 WordPress Core Remote File Inclusion Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Execut",
       "published": "2026-09-25 12:00:00",
       "timestamp": 1790337600
     },
