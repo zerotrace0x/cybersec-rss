@@ -1,6 +1,126 @@
 {
-  "generated_at": 1794977434,
+  "generated_at": 1795012769,
   "items": [
+    {
+      "id": "bf48edfda19bf2a77a3f802a13dcff14ae9ed760",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say. That leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop this way. Both PINs were set by the",
+      "published": "2026-11-18 12:28:30",
+      "timestamp": 1795004910
+    },
+    {
+      "id": "ed813af4ea75e3c9d472d89041219d039f9f46b5",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors aren't interchangeable. Most look convincing in a demo. The gaps show up in your logged-in flows, your coverage, and your production safety. Make",
+      "published": "2026-11-18 12:15:00",
+      "timestamp": 1795004100
+    },
+    {
+      "id": "e0fc37258cc5dec60d43963303929ce9cac02da8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature. Tracked as",
+      "published": "2026-11-18 11:55:49",
+      "timestamp": 1795002949
+    },
+    {
+      "id": "6a2d4ed5d78ee01292f5afb350b43f14ba9e6bae",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+      "published": "2026-11-18 11:50:25",
+      "timestamp": 1795002625
+    },
+    {
+      "id": "cae981e3329c5df07f5c3d9fde0ddb4bdc8502fd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are",
+      "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both. AI pentesting has emerged as a way to run in-depth tests whenever teams need them, instead of waiting for the",
+      "published": "2026-11-18 11:03:57",
+      "timestamp": 1794999837
+    },
+    {
+      "id": "b5e97fd4d2afd571beaadb36b80454635a489fbf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "published": "2026-11-18 10:35:05",
+      "timestamp": 1794998105
+    },
+    {
+      "id": "8cc8d1e67ffcb3a5e53b577ca086d4372a77deec",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "published": "2026-11-18 09:24:31",
+      "timestamp": 1794993871
+    },
+    {
+      "id": "824e13c2f4a8e6b3d27507fe6cf99983be39b897",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation. The vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of",
+      "published": "2026-11-18 08:24:31",
+      "timestamp": 1794990271
+    },
+    {
+      "id": "a549d8755426f5657480698f1429192fcaaee3bd",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-service (DoS) or remote code execution under certain conditions. \"This critical memory-corruption",
+      "published": "2026-11-18 08:24:23",
+      "timestamp": 1794990263
+    },
+    {
+      "id": "d3fe2d0f2fc534b2d98cef2090547d0a8f760eb0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "published": "2026-11-18 08:24:18",
+      "timestamp": 1794990258
+    },
+    {
+      "id": "11cb04838f09b217c8ce1deee6da87e31a47ab7d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
+      "published": "2026-11-18 06:45:26",
+      "timestamp": 1794984326
+    },
+    {
+      "id": "2af446f2aeb352d6e7131f55ad8b760465b977d3",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged",
+      "published": "2026-11-18 05:58:04",
+      "timestamp": 1794981484
+    },
     {
       "id": "96296dacbd1ee627a5b6051a3cacd2ad821034e7",
       "source": "Krebs on Security",
@@ -232,16 +352,6 @@
       "timestamp": 1794904542
     },
     {
-      "id": "5ae0c13aab86acc90161410583d5c27c871144e0",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-      "published": "2026-11-17 07:25:44",
-      "timestamp": 1794900344
-    },
-    {
       "id": "f47b3d94ed6caf88700247edaf8dbc13092e7344",
       "source": "The Hacker News",
       "source_category": "General",
@@ -272,16 +382,6 @@
       "timestamp": 1794891634
     },
     {
-      "id": "b7a9ac62be9df8ae66217a9c5c00e5d830824b35",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
-      "published": "2026-11-17 02:12:17",
-      "timestamp": 1794881537
-    },
-    {
       "id": "6966a5582a3a30f4c287b364d38b5829e938a626",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -290,26 +390,6 @@
       "summary": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors appeared first on Microsoft Security Blog.",
       "published": "2026-11-17 00:08:41",
       "timestamp": 1794874121
-    },
-    {
-      "id": "07074fcf882cc17f22decd7d2be3a7d845b093fd",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
-      "published": "2026-11-16 22:54:00",
-      "timestamp": 1794869640
-    },
-    {
-      "id": "b3d5e3f64adb53ef54ba96cb88e4f8687ab697a1",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-      "published": "2026-11-16 21:31:44",
-      "timestamp": 1794864704
     },
     {
       "id": "1585376ac7f23044e96218e076cc03ef6a80e454",
@@ -672,36 +752,6 @@
       "timestamp": 1794471637
     },
     {
-      "id": "4c6486046c4b43ba5e11d04919f105d84c89cf11",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI workflows can reach. It ran in at least 1,806 repositories, where the attacker has likely collected",
-      "published": "2026-11-12 06:42:47",
-      "timestamp": 1794465767
-    },
-    {
-      "id": "edf838a2bc7c0c9ae969e35e8c393102d5fcad5d",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Red Hat, which ships the server as part of Red Hat Enterprise Linux. An attacker who can reach the",
-      "published": "2026-11-12 05:12:26",
-      "timestamp": 1794460346
-    },
-    {
-      "id": "86170787dd5c2940ea7f4aa12aa7448cfece8d89",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerability in the ScreenConnect software. \"Our initial assessment suggests the activity may involve",
-      "published": "2026-11-12 04:39:48",
-      "timestamp": 1794458388
-    },
-    {
       "id": "9915de57a3205d21fa3a63afa86e4187d502909e",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -730,56 +780,6 @@
       "summary": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the challenges of turning AI-generated findings into validated vulnerabilities and upstream fixes. The post Lessons from 59 Linux Kernel Bug Reports appeared first on Microsoft Security Blog.",
       "published": "2026-11-11 16:55:00",
       "timestamp": 1794416100
-    },
-    {
-      "id": "dc7927dc274a3cfa804eb5b19b8bcea56472e01a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could allow an unauthenticated user to conduct an escalation of privilege via",
-      "published": "2026-11-11 16:12:46",
-      "timestamp": 1794413566
-    },
-    {
-      "id": "630c04f3a6487d9776baf4a57f87f5b562d3fc48",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cloud systems hosting AntiFox interfaces were associated with confirmed malicious actions against",
-      "published": "2026-11-11 15:34:27",
-      "timestamp": 1794411267
-    },
-    {
-      "id": "ab8f8c8be29f984484554d303df14fe8876ab182",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some",
-      "published": "2026-11-11 14:01:00",
-      "timestamp": 1794405660
-    },
-    {
-      "id": "3aaae30f115a028f90b5e11eaaf52aedff138447",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or",
-      "published": "2026-11-11 12:19:40",
-      "timestamp": 1794399580
-    },
-    {
-      "id": "7bec6136b79abf48794c96af7ad5975dd34bb2bd",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think through how such agents should be defended. When a browser agent acts inside a user\u2019s authenticated",
-      "published": "2026-11-11 12:01:59",
-      "timestamp": 1794398519
     },
     {
       "id": "b902c7289f73d62a882d0d37634344a0214e679a",
