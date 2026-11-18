@@ -1,6 +1,26 @@
 {
-  "generated_at": 1794955524,
+  "generated_at": 1794977434,
   "items": [
+    {
+      "id": "96296dacbd1ee627a5b6051a3cacd2ad821034e7",
+      "source": "Krebs on Security",
+      "source_category": "General",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources ",
+      "published": "2026-11-18 02:52:04",
+      "timestamp": 1794970324
+    },
+    {
+      "id": "4922cbba2d0fce32335d988e83a71d30cb78a5e0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "published": "2026-11-17 23:04:21",
+      "timestamp": 1794956661
+    },
     {
       "id": "3969f94e729e0634c75af720549a1332f9bd4903",
       "source": "BleepingComputer",
@@ -152,6 +172,16 @@
       "timestamp": 1794916800
     },
     {
+      "id": "886f5ab2fea31a77a090d20afdf037112035e5cc",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "Critical Java Vulnerability Requires Immediate Patching",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+      "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938. This critical memory-corruption vulnerability, known as \u201cJava4Shell,\u201d affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), which is part of the Java Development Kit (JDK). Specially crafted Base64 input could crash the JVM and allow for unauthenticated remote code execution. Actions to take CISA urges organizations to take the following actions:",
+      "published": "2026-11-17 12:00:00",
+      "timestamp": 1794916800
+    },
+    {
       "id": "756b0c51ed30ae5f2bd35858c31a208a1ad7b571",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +310,6 @@
       "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
       "published": "2026-11-16 21:31:44",
       "timestamp": 1794864704
-    },
-    {
-      "id": "1a55d494b05c4b65a8c7a6d6cb48d243bd39dd19",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
-      "published": "2026-11-16 20:59:44",
-      "timestamp": 1794862784
     },
     {
       "id": "1585376ac7f23044e96218e076cc03ef6a80e454",
@@ -992,22 +1012,22 @@
       "timestamp": 1792417736
     },
     {
-      "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
-      "published": "2026-10-16 12:00:00",
-      "timestamp": 1792152000
-    },
-    {
       "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
       "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
+      "published": "2026-10-16 12:00:00",
+      "timestamp": 1792152000
+    },
+    {
+      "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
       "published": "2026-10-16 12:00:00",
       "timestamp": 1792152000
     },
@@ -1080,16 +1100,6 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
       "published": "2026-10-10 00:17:42",
       "timestamp": 1791591462
-    },
-    {
-      "id": "cb025584660dec76907a11b9b0d491cc98861e08",
-      "source": "Krebs on Security",
-      "source_category": "General",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
-      "published": "2026-10-07 13:48:45",
-      "timestamp": 1791380925
     },
     {
       "id": "6fc2cf657e4a8ae68a6337eb0977443110441658",
@@ -1170,16 +1180,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-88771 Citrix NetScaler Improper Input Validation Vulnerability CVE-2026-88772 Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.Binding Operational Directive (BOD) ",
       "published": "2026-09-27 12:00:00",
       "timestamp": 1790510400
-    },
-    {
-      "id": "8a73cdfa3cf7ac610dc5e128d8312f483fe7defd",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-65660 Microsoft SharePoint Code Injection Vulnerability CVE-2026-67279 Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Upd",
-      "published": "2026-09-25 12:00:00",
-      "timestamp": 1790337600
     },
     {
       "id": "1465798ec5853f5601461f76b62f5257d0307cdf",
