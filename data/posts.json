@@ -1,6 +1,76 @@
 {
-  "generated_at": 1795184838,
+  "generated_at": 1795211993,
   "items": [
+    {
+      "id": "756ac5d81a5939b11f7e434721c3eddd769dca13",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+      "published": "2026-11-20 18:51:43",
+      "timestamp": 1795200703
+    },
+    {
+      "id": "dc00b3e6064b6c0b33097eff0ef1f205a55ca984",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4. The issue could",
+      "published": "2026-11-20 17:57:20",
+      "timestamp": 1795197440
+    },
+    {
+      "id": "97ba812221c326d7bc02f9efd1a656d77c16481e",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "published": "2026-11-20 17:30:00",
+      "timestamp": 1795195800
+    },
+    {
+      "id": "c61cb398d2fcc9f9fa5f6236a5892c6be0400853",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for SIEM",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+      "summary": "We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Security Information and Event Management (SIEM). The post Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for SIEM appeared first on Microsoft Security Blog.",
+      "published": "2026-11-20 17:00:00",
+      "timestamp": 1795194000
+    },
+    {
+      "id": "4fb4c7ae653074c23bec5326269e5905e570016d",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,",
+      "published": "2026-11-20 16:58:16",
+      "timestamp": 1795193896
+    },
+    {
+      "id": "6b37b6c52f6713420d9d56c48ade731b5e791fb8",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+      "published": "2026-11-20 15:58:06",
+      "timestamp": 1795190286
+    },
+    {
+      "id": "ea3ce0cdb3dd1b36665f998efb66aa7410dbfea0",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Still tracking company passwords in spreadsheets? You\u2019re flying blind.",
+      "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]",
+      "published": "2026-11-20 15:00:10",
+      "timestamp": 1795186810
+    },
     {
       "id": "d9d07c13c309f6424ebddd226bc9a42a0d3700ec",
       "source": "BleepingComputer",
@@ -30,6 +100,16 @@
       "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
       "published": "2026-11-20 12:14:28",
       "timestamp": 1795176868
+    },
+    {
+      "id": "9e10175331f3342a8707a6672057eac96ad4bac0",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Series Use of Hard-coded Credentials Vulnerability CVE-2026-123890 VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-129448 Apache Roller Deserialization of Untrusted Data Vulnerab",
+      "published": "2026-11-20 12:00:00",
+      "timestamp": 1795176000
     },
     {
       "id": "ee42e9d96f786ea9ca7cb2bc790d7675bfd2e146",
@@ -232,16 +312,6 @@
       "timestamp": 1795098786
     },
     {
-      "id": "c3fb89fcbdd9eeedc471de747498ce437613b923",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "published": "2026-11-19 13:08:08",
-      "timestamp": 1795093688
-    },
-    {
       "id": "02982eddb941e6e658fe796ef7599c98cd0855b9",
       "source": "The Hacker News",
       "source_category": "General",
@@ -252,26 +322,6 @@
       "timestamp": 1795089143
     },
     {
-      "id": "73e7098392d9319662fb2e516c91c30d0246e375",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "published": "2026-11-19 11:46:00",
-      "timestamp": 1795088760
-    },
-    {
-      "id": "e76353967bfd3ef4c1cfa32e2850c7e5bfd02c76",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
-      "published": "2026-11-19 10:35:05",
-      "timestamp": 1795084505
-    },
-    {
       "id": "995e8b9edc463d51e4d80a7f2f1a8caa35cde84e",
       "source": "The Hacker News",
       "source_category": "General",
@@ -280,16 +330,6 @@
       "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
       "published": "2026-11-19 09:31:26",
       "timestamp": 1795080686
-    },
-    {
-      "id": "8a93a9d1215ab0e7dd6db7317fc17b1c3556fa0d",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-      "published": "2026-11-19 09:23:21",
-      "timestamp": 1795080201
     },
     {
       "id": "53b781c285f63c98a5aa352e1dc3bdb1446ad159",
@@ -702,26 +742,6 @@
       "timestamp": 1794742051
     },
     {
-      "id": "7bf6e0f765304b7098596413c65561ee98b1386a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only",
-      "published": "2026-11-15 08:22:04",
-      "timestamp": 1794730924
-    },
-    {
-      "id": "c04db3846eda7628c6ece38670024d05df241afa",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
-      "published": "2026-11-14 12:38:35",
-      "timestamp": 1794659915
-    },
-    {
       "id": "f17aade1f56891c13a338746186c90ef7ade28ae",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -842,16 +862,6 @@
       "timestamp": 1794225600
     },
     {
-      "id": "5fb5bae7bc9a6ec0319f8fb20d26b936d37b0cb7",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "ARTEX abuse expands as cybercriminals target financial sector",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
-      "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector appeared first on Microsoft Security Blog.",
-      "published": "2026-11-07 02:44:34",
-      "timestamp": 1794019474
-    },
-    {
       "id": "719c22aa426faf4b4163c71abb0d8bbb6c330a6d",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
@@ -962,22 +972,22 @@
       "timestamp": 1793016000
     },
     {
-      "id": "747b16d89c4325ffc271bed09c4d93c93995e042",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-110447 Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
-      "published": "2026-10-23 12:00:00",
-      "timestamp": 1792756800
-    },
-    {
       "id": "1e8a37165f94e07c1fb1bd857a80eca5f4b002d6",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilia",
+      "published": "2026-10-23 12:00:00",
+      "timestamp": 1792756800
+    },
+    {
+      "id": "747b16d89c4325ffc271bed09c4d93c93995e042",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-110447 Collabora Online \u2013 Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
       "published": "2026-10-23 12:00:00",
       "timestamp": 1792756800
     },
@@ -1022,22 +1032,22 @@
       "timestamp": 1792417736
     },
     {
-      "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
-      "published": "2026-10-16 12:00:00",
-      "timestamp": 1792152000
-    },
-    {
       "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
       "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
+      "published": "2026-10-16 12:00:00",
+      "timestamp": 1792152000
+    },
+    {
+      "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
       "published": "2026-10-16 12:00:00",
       "timestamp": 1792152000
     },
@@ -1082,22 +1092,22 @@
       "timestamp": 1791933893
     },
     {
-      "id": "8acc579dd186d27654e273e11ffeeb44887f761d",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Patching Newly Exploited Vulnerabilities in Ivanti Connect Secure",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerabilities-ivanti-connect-secure",
-      "summary": "Update October 30, 2026: CISA has updated this Alert to: (1) include CVE-2026-111357 and CVE-2026-118527 and reflect their addition to the Known Exploited Vulnerabilities (KEV) Catalog on October 30, 2026; and (2) update the affected Ivanti Connect Secure versions. CISA is aware of Ivanti\u2019s disclosure of newly exploited vulnerabilities, CVE-2026-104935, CVE-2026-111357, and CVE-2026-118527, affecting Ivanti Connect Secure versions 25.1.1.2 and prior, 25.1.2.2 and prior, and 22.8R2.5 and prior. C",
-      "published": "2026-10-13 12:00:00",
-      "timestamp": 1791892800
-    },
-    {
       "id": "75d6bebd8fbce26b295971b818f8103718cff4eb",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates ",
+      "published": "2026-10-13 12:00:00",
+      "timestamp": 1791892800
+    },
+    {
+      "id": "8acc579dd186d27654e273e11ffeeb44887f761d",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Patching Newly Exploited Vulnerabilities in Ivanti Connect Secure",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerabilities-ivanti-connect-secure",
+      "summary": "Update October 30, 2026: CISA has updated this Alert to: (1) include CVE-2026-111357 and CVE-2026-118527 and reflect their addition to the Known Exploited Vulnerabilities (KEV) Catalog on October 30, 2026; and (2) update the affected Ivanti Connect Secure versions. CISA is aware of Ivanti\u2019s disclosure of newly exploited vulnerabilities, CVE-2026-104935, CVE-2026-111357, and CVE-2026-118527, affecting Ivanti Connect Secure versions 25.1.1.2 and prior, 25.1.2.2 and prior, and 22.8R2.5 and prior. C",
       "published": "2026-10-13 12:00:00",
       "timestamp": 1791892800
     },
@@ -1170,16 +1180,6 @@
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-86950 Apple Multiple Products Out-of-Bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian",
       "published": "2026-09-29 12:00:00",
       "timestamp": 1790683200
-    },
-    {
-      "id": "34227d060b69b60ee5a1c96267a5203df1e09fe4",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
-      "summary": "Update October 9, 2026: CISA has updated this Alert to: (1) include CVE-2026-107406; (2) include CVE-2026-88779 following its addition to the KEV Catalog on Oct. 4, 2026; (3) clarify the potential relationship between CVE-2026-88779 and CVE-2026-88771; and (4) emphasize the importance of promptly applying patches for CVE-2026-88771 through CVE-2026-88779 and CVE-2026-107406, as well as reviewing Citrix guidance for suspected or confirmed compromises involving NetScaler ADC or Gateway. Update Oct",
-      "published": "2026-09-27 12:00:00",
-      "timestamp": 1790510400
     },
     {
       "id": "1465798ec5853f5601461f76b62f5257d0307cdf",
