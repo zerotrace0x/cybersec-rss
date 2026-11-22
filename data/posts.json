@@ -1,6 +1,26 @@
 {
-  "generated_at": 1795308254,
+  "generated_at": 1795343127,
   "items": [
+    {
+      "id": "33664292f90fc05aa9461d8aa7637df7467d5e73",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
+      "published": "2026-11-22 05:06:55",
+      "timestamp": 1795324015
+    },
+    {
+      "id": "e71d72ecfc0618d823b27f3a9a98d7d5fa7f4e86",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
+      "published": "2026-11-22 05:03:41",
+      "timestamp": 1795323821
+    },
     {
       "id": "1541c8dfa97427f7cdeffb7eb76ff4e90b2aefa2",
       "source": "BleepingComputer",
@@ -730,26 +750,6 @@
       "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
       "published": "2026-11-16 14:00:00",
       "timestamp": 1794837600
-    },
-    {
-      "id": "cfb3a23b928ef569521b98c1018d1df9cb590946",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
-      "published": "2026-11-16 13:27:20",
-      "timestamp": 1794835640
-    },
-    {
-      "id": "ca60625002ef6d5d6e5054ed39f4b06f02d2cf36",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to",
-      "published": "2026-11-16 12:34:21",
-      "timestamp": 1794832461
     },
     {
       "id": "f17aade1f56891c13a338746186c90ef7ade28ae",
