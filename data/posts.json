@@ -1,6 +1,56 @@
 {
-  "generated_at": 1795396246,
+  "generated_at": 1795433058,
   "items": [
+    {
+      "id": "6cab3c4a872c7f9809503f871d8bb402cb67e6ec",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an",
+      "published": "2026-11-23 09:11:56",
+      "timestamp": 1795425116
+    },
+    {
+      "id": "fbf8b515703b08169949cd0f1747e7fa38459177",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+      "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+      "published": "2026-11-23 09:11:15",
+      "timestamp": 1795425075
+    },
+    {
+      "id": "8915101bcd2798ea610e2f3e10d540636015a7ac",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.",
+      "published": "2026-11-23 09:04:08",
+      "timestamp": 1795424648
+    },
+    {
+      "id": "881ebb8effac713c33f6dc3c9c376e2d79c588f8",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+      "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers",
+      "published": "2026-11-23 08:24:15",
+      "timestamp": 1795422255
+    },
+    {
+      "id": "0017fa801da90493b2554a54a470bd41ffd438b1",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+      "published": "2026-11-23 07:44:19",
+      "timestamp": 1795419859
+    },
     {
       "id": "36bfa3971bf63f9770f74cc294a6186b1dca5759",
       "source": "BleepingComputer",
@@ -272,16 +322,6 @@
       "timestamp": 1795176000
     },
     {
-      "id": "8cc72597465ac7255b16c28333ac98915619af43",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-      "published": "2026-11-20 10:57:43",
-      "timestamp": 1795172263
-    },
-    {
       "id": "d8dd29a8027111da24c9d8486dfbbf3e57d4926b",
       "source": "The Hacker News",
       "source_category": "General",
@@ -310,16 +350,6 @@
       "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
       "published": "2026-11-20 09:38:15",
       "timestamp": 1795167495
-    },
-    {
-      "id": "155bea4acb3290b0edf0c2b162cf3bb20c63260b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-      "published": "2026-11-20 09:25:35",
-      "timestamp": 1795166735
     },
     {
       "id": "fd828ec8fba8e686a2f570f09f345be7743ac2aa",
@@ -712,26 +742,6 @@
       "timestamp": 1794899533
     },
     {
-      "id": "4f501b19ad2dc1771494b3350bbf5f83f5e17d0a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-      "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled and",
-      "published": "2026-11-17 06:29:27",
-      "timestamp": 1794896967
-    },
-    {
-      "id": "bef850f7a465d314806505bd11784e5d5fc9638a",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and Unified Endpoint Management (UEM) platform. \"HF3 builds on the protections",
-      "published": "2026-11-17 05:00:34",
-      "timestamp": 1794891634
-    },
-    {
       "id": "6966a5582a3a30f4c287b364d38b5829e938a626",
       "source": "Microsoft Security Blog",
       "source_category": "Blue Team",
@@ -740,16 +750,6 @@
       "summary": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors appeared first on Microsoft Security Blog.",
       "published": "2026-11-17 00:08:41",
       "timestamp": 1794874121
-    },
-    {
-      "id": "1585376ac7f23044e96218e076cc03ef6a80e454",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
-      "published": "2026-11-16 14:00:00",
-      "timestamp": 1794837600
     },
     {
       "id": "f17aade1f56891c13a338746186c90ef7ade28ae",
