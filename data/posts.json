@@ -1,6 +1,46 @@
 {
-  "generated_at": 1795655568,
+  "generated_at": 1795692924,
   "items": [
+    {
+      "id": "f379464caff165c8f08dde513075ed337ad2577a",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
+      "published": "2026-11-26 07:02:34",
+      "timestamp": 1795676554
+    },
+    {
+      "id": "f1e90f323e266a8acd5640fb844321ae19785296",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and",
+      "published": "2026-11-26 06:44:46",
+      "timestamp": 1795675486
+    },
+    {
+      "id": "259a05e79d8b90d8468c78be744dc1f5334c193b",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
+      "published": "2026-11-26 04:20:22",
+      "timestamp": 1795666822
+    },
+    {
+      "id": "a2aa41c8f8cf42b92ddc6f320a6e0dd4dace0489",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a technical write-up. \"In the versions we analyzed, building or running a",
+      "published": "2026-11-26 03:48:52",
+      "timestamp": 1795664932
+    },
     {
       "id": "b6db83ef759c7105142141745167b2e7442ad200",
       "source": "BleepingComputer",
@@ -700,46 +740,6 @@
       "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific",
       "published": "2026-11-19 15:18:07",
       "timestamp": 1795101487
-    },
-    {
-      "id": "3c88667265a151ddf4cff3029fd547371b3ce56b",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines. The",
-      "published": "2026-11-19 15:11:06",
-      "timestamp": 1795101066
-    },
-    {
-      "id": "7d5cdf5135172d8b58ec4ee03ea928143c873431",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday. The Drupal Security Team disclosed",
-      "published": "2026-11-19 14:33:06",
-      "timestamp": 1795098786
-    },
-    {
-      "id": "02982eddb941e6e658fe796ef7599c98cd0855b9",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.",
-      "published": "2026-11-19 11:52:23",
-      "timestamp": 1795089143
-    },
-    {
-      "id": "995e8b9edc463d51e4d80a7f2f1a8caa35cde84e",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
-      "published": "2026-11-19 09:31:26",
-      "timestamp": 1795080686
     },
     {
       "id": "d66886ddde201c3131d0ad21b67a412823271f2b",
