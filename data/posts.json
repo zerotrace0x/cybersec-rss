@@ -1,6 +1,56 @@
 {
-  "generated_at": 1795623342,
+  "generated_at": 1795655568,
   "items": [
+    {
+      "id": "b6db83ef759c7105142141745167b2e7442ad200",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+      "published": "2026-11-25 22:05:09",
+      "timestamp": 1795644309
+    },
+    {
+      "id": "7966a061341ddf072583b6a88a5d0989f3bbea0f",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "published": "2026-11-25 21:33:33",
+      "timestamp": 1795642413
+    },
+    {
+      "id": "01c27a2810529f8c989d68e12ea50d4edb0256cf",
+      "source": "BleepingComputer",
+      "source_category": "General",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      "published": "2026-11-25 19:39:31",
+      "timestamp": 1795635571
+    },
+    {
+      "id": "1749767c0a8464ee4a9bc984e101130adccf23ae",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "summary": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web application exploitation. The post What defenders need to know about ARTEX, the agentic AI framework threat actors abuse appeared first on Microsoft Security Blog.",
+      "published": "2026-11-25 18:09:06",
+      "timestamp": 1795630146
+    },
+    {
+      "id": "f5dcab18962061113c43802acfc8c1a1543f4636",
+      "source": "Microsoft Security Blog",
+      "source_category": "Blue Team",
+      "title": "Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Email Security",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/",
+      "summary": "We're honored to share that Microsoft has been named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Email Security, for the second consecutive year. The post Microsoft named a Leader in the 2026 Gartner\u00ae Magic Quadrant\u2122 for Email Security appeared first on Microsoft Security Blog.",
+      "published": "2026-11-25 17:15:00",
+      "timestamp": 1795626900
+    },
     {
       "id": "4fc7024bec90897bd6fa0e2ccc81ba68569ae99e",
       "source": "BleepingComputer",
@@ -50,6 +100,16 @@
       "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial",
       "published": "2026-11-25 12:30:08",
       "timestamp": 1795609808
+    },
+    {
+      "id": "3a45953120bed4b868e725712004db6788e0af0f",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability CVE-2025-41450 Danfoss AK-SM 800A Series Improper Authentication Vulnerability CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerabi",
+      "published": "2026-11-25 12:00:00",
+      "timestamp": 1795608000
     },
     {
       "id": "95051b77f07cb7c4e1e36aa30141eb03bc8ef86e",
@@ -220,36 +280,6 @@
       "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
       "published": "2026-11-24 16:30:19",
       "timestamp": 1795537819
-    },
-    {
-      "id": "89fe287f055870bb4c9a94b924e69f0bb441fccb",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-      "published": "2026-11-24 16:22:44",
-      "timestamp": 1795537364
-    },
-    {
-      "id": "98b61d2ab160a6eb72a0aba6cc66141d04de44d9",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-      "published": "2026-11-24 16:15:23",
-      "timestamp": 1795536923
-    },
-    {
-      "id": "689d1a21a4be76e18967349eea2a8fcbb1973a9b",
-      "source": "BleepingComputer",
-      "source_category": "General",
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-      "published": "2026-11-24 15:10:10",
-      "timestamp": 1795533010
     },
     {
       "id": "f61a1fd7226e527ee44d2aa26c05288eeb30581a",
@@ -852,16 +882,6 @@
       "timestamp": 1794416100
     },
     {
-      "id": "b902c7289f73d62a882d0d37634344a0214e679a",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "Detecting sleeper agents hiding in AI model neurons",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
-      "summary": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is detectable by frontier agents, which can identify anomalous weight edits. The post Detecting sleeper agents hiding in AI model neurons appeared first on Microsoft Security Blog.",
-      "published": "2026-11-10 23:00:00",
-      "timestamp": 1794351600
-    },
-    {
       "id": "3bf66e8d1346e3bab25b192562322cb55edcf9e0",
       "source": "Krebs on Security",
       "source_category": "General",
@@ -880,16 +900,6 @@
       "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability CVE-2026-116606 Barracuda Networks Email Security Ga",
       "published": "2026-11-10 12:00:00",
       "timestamp": 1794312000
-    },
-    {
-      "id": "677cdc95ed34aa8bb9ac0c7688c9782a00a7f3bc",
-      "source": "Microsoft Security Blog",
-      "source_category": "Blue Team",
-      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
-      "summary": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced trust in unsafe code and what they reveal about Rust's safety guarantees. The post FORGE Lab uses agentic tools to identify memory safety issues in Rust appeared first on Microsoft Security Blog.",
-      "published": "2026-11-09 20:17:31",
-      "timestamp": 1794255451
     },
     {
       "id": "4d89dd42941e7c7df5d46f5b1a61d38bc3b815c9",
@@ -1072,22 +1082,22 @@
       "timestamp": 1792417736
     },
     {
-      "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
-      "published": "2026-10-16 12:00:00",
-      "timestamp": 1792152000
-    },
-    {
       "id": "b3a7618faddb8a2d8f795a6b7837a2e36f8c7dfe",
       "source": "CISA Alerts",
       "source_category": "Blue Team",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Securi",
+      "published": "2026-10-16 12:00:00",
+      "timestamp": 1792152000
+    },
+    {
+      "id": "fc3656d4a22dcd3b33ad70922fe2357b3094dd97",
+      "source": "CISA Alerts",
+      "source_category": "Blue Team",
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764, affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulne",
       "published": "2026-10-16 12:00:00",
       "timestamp": 1792152000
     },
@@ -1180,16 +1190,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-102489 Zammad GmbH Zammad Session Fixation Vulnerability CVE-2026-102490 Zammad GmbH Zammad Improper Privilege Management Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based o",
       "published": "2026-10-02 12:00:00",
       "timestamp": 1790942400
-    },
-    {
-      "id": "cfb1256d493bbf182c8893c2b158533462f77de3",
-      "source": "CISA Alerts",
-      "source_category": "Blue Team",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-104286 Fortinet FortiMail Path Traversal Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executiv",
-      "published": "2026-10-01 12:00:00",
-      "timestamp": 1790856000
     },
     {
       "id": "1465798ec5853f5601461f76b62f5257d0307cdf",
