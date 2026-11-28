@@ -1,6 +1,16 @@
 {
-  "generated_at": 1795826661,
+  "generated_at": 1795863519,
   "items": [
+    {
+      "id": "213d9b216e6ba4372518b29f00aa201db691b139",
+      "source": "The Hacker News",
+      "source_category": "General",
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email",
+      "published": "2026-11-28 08:08:11",
+      "timestamp": 1795853291
+    },
     {
       "id": "8ee2b095a4ee83de610b56ba90c3df476a01aeb9",
       "source": "BleepingComputer",
@@ -730,16 +740,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,",
       "published": "2026-11-20 16:58:16",
       "timestamp": 1795193896
-    },
-    {
-      "id": "bce093e285d30841fa492c7fff6d06daf2393190",
-      "source": "The Hacker News",
-      "source_category": "General",
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled. Fixed kernels shipped",
-      "published": "2026-11-20 12:20:00",
-      "timestamp": 1795177200
     },
     {
       "id": "9e10175331f3342a8707a6672057eac96ad4bac0",
